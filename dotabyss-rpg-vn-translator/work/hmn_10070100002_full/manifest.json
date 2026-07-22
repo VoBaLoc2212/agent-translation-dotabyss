@@ -1,0 +1,961 @@
+{
+  "scene": "hmn_10070100002",
+  "status": "PASS",
+  "source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10070100002.txt",
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10070100002.txt",
+  "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10070100002\\ja.json",
+  "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10070100002\\en.json",
+  "source_sha256": "79e421dc21927a2ab6d5421cbcdfa3c735873908b8d28eca0427a1ba5c6a8767",
+  "output_sha256": "6749ec864c746de64ffd9c2a53349c6808693b5ded9bd8ca713230e6c5f54881",
+  "source_bytes": 33671,
+  "output_bytes": 35657,
+  "bom": true,
+  "newline": "CRLF",
+  "source_line_count": 1645,
+  "output_line_count": 1645,
+  "candidate_counts": {
+    "title": 1,
+    "message": 101,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "candidate_total": 103,
+  "translated_records": 103,
+  "novel_pair_counts": {
+    "ja": 100,
+    "en": 100
+  },
+  "entries": [
+    {
+      "index": 1,
+      "line": 17,
+      "command": "title",
+      "source_text": "Mystery! Paranormal Activity at the Forward Base!",
+      "vi_text": "Kỳ Bí! Hiện Tượng Tâm Linh Ở Căn Cứ Tiền Tuyến!",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 2,
+      "line": 81,
+      "command": "message",
+      "source_text": "I'm Film. Pardon me.<br>Commander，did you call for me?<br> ",
+      "vi_text": "Em là Film‚ xin phép vào nhé.<br>Chỉ Huy‚ anh gọi em ạ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 3,
+      "line": 83,
+      "command": "message",
+      "source_text": "Sorry to have you come all this way. I wanted to ask Film... well，Film<br>and Noir，something.<br> ",
+      "vi_text": "Xin lỗi vì đã gọi em tới tận đây. Anh có chuyện muốn hỏi Film… à không‚<br>Film và Noir.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 4,
+      "line": 85,
+      "command": "message",
+      "source_text": "Actually，there've been a lot of weird incidents at the Frontline Base<br>lately.<br> ",
+      "vi_text": "Thật ra gần đây ở Căn Cứ Tiền Tuyến liên tục xảy ra những chuyện<br>kỳ lạ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 5,
+      "line": 97,
+      "command": "message",
+      "source_text": "Strange，you say?<br>What kind of incidents?<br> ",
+      "vi_text": "Kỳ lạ ạ?<br>Là những chuyện như thế nào vậy?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 6,
+      "line": 99,
+      "command": "message",
+      "source_text": "I suppose you could call them occult incidents. We've received several<br>reports that seem like supernatural phenomena.<br> ",
+      "vi_text": "Có lẽ nên gọi là các vụ việc huyền bí. Anh nhận được không ít<br>báo cáo giống hiện tượng tâm linh.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 7,
+      "line": 111,
+      "command": "message",
+      "source_text": "Oh my，young people do love rumors，don't they?<br> ",
+      "vi_text": "Ôi chà‚ người trẻ đúng là thích mấy chuyện đồn thổi nhỉ～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 8,
+      "line": 113,
+      "command": "message",
+      "source_text": "I wish it were that harmless. But the rumors have spread so much that<br>some people are starting to refuse work.<br> ",
+      "vi_text": "Nếu chỉ đến mức đó thì còn đỡ. Nhưng lời đồn lan quá rộng đến nỗi<br>đã có người từ chối làm việc rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 9,
+      "line": 124,
+      "command": "message",
+      "source_text": "Hmm. That can't be ignored，can it?<br> ",
+      "vi_text": "Hừm. Đúng là không thể bỏ mặc chuyện đó được nhỉ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 10,
+      "line": 140,
+      "command": "message",
+      "source_text": "So you two are the culprits，Film，Noir!<br> ",
+      "vi_text": "Thủ phạm chính là hai em phải không‚ Film‚ Noir!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 11,
+      "line": 163,
+      "command": "message",
+      "source_text": "...!!!<br> ",
+      "vi_text": "…!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 12,
+      "line": 190,
+      "command": "message",
+      "source_text": "Ufufufu... You're sharp. Impressive deduction，Commander...<br> ",
+      "vi_text": "Hì hì hì… Anh tinh thật đấy. Suy luận xuất sắc lắm‚ Chỉ Huy…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 13,
+      "line": 219,
+      "command": "message",
+      "source_text": "...I'd like to say that's spot on，but unfortunately，it's wrong. I only<br>have enough spiritual power to make the water in a cup ripple a bit.<br> ",
+      "vi_text": "…Em cũng muốn khen anh như vậy lắm‚ nhưng tiếc là sai rồi. Em chỉ<br>có linh lực đủ làm nước trong cốc hơi gợn lên thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 14,
+      "line": 221,
+      "command": "message",
+      "source_text": "Saying that，Film demonstrated by shaking the coffee in the cup that<br>the Commander had been drinking from.<br> ",
+      "vi_text": "Nói rồi‚ Film biểu diễn bằng cách làm tách cà phê mà<br>Chỉ Huy đang uống dở rung lên.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 15,
+      "line": 223,
+      "command": "message",
+      "source_text": "Hmm. With that level of ability，you really couldn't cause anything big.<br> ",
+      "vi_text": "Hừm. Với năng lực cỡ đó thì đúng là không thể gây ra chuyện gì lớn.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 16,
+      "line": 235,
+      "command": "message",
+      "source_text": "Right? If anyone could，it'd be Noir，but...<br> ",
+      "vi_text": "Đúng không? Nếu có khả năng thì chỉ có Noir thôi‚ nhưng…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 17,
+      "line": 257,
+      "command": "message",
+      "source_text": "...!? ...!!!<br> ",
+      "vi_text": "…!? …!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 18,
+      "line": 286,
+      "command": "message",
+      "source_text": "Noir wouldn't hide something like that. She doesn't seem to be the<br>culprit.<br> ",
+      "vi_text": "Noir đâu có che giấu trò nghịch ngợm của mình nhỉ. Có vẻ em ấy<br>không phải thủ phạm đâu～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 19,
+      "line": 288,
+      "command": "message",
+      "source_text": "Well，I figured as much. But it's a fact that those rumors are<br>spreading through the base.<br> ",
+      "vi_text": "Ừ‚ anh cũng nghĩ là vậy. Nhưng lời đồn kiểu đó đang<br>lan trong căn cứ là sự thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 20,
+      "line": 299,
+      "command": "message",
+      "source_text": "Ehh，I'm crushed!<br> ",
+      "vi_text": "Ể～‚ tổn thương quá đi～!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 21,
+      "line": 301,
+      "command": "message",
+      "source_text": "So here's the real deal. I want you to help me investigate these occult<br>incidents.<br> ",
+      "vi_text": "Vậy nên từ đây mới là chuyện chính. Anh muốn em giúp anh điều tra<br>các vụ huyền bí này.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 22,
+      "line": 312,
+      "command": "message",
+      "source_text": "Of course it's okay!♪ Leave it to your big sister when it comes to<br>ghosts. We'll solve this case together!<br> ",
+      "vi_text": "Tất nhiên là được rồi♪ Chuyện liên quan tới ma quỷ thì cứ giao cho<br>chị đây. Chúng ta sẽ giải quyết vụ này!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 23,
+      "line": 333,
+      "command": "message",
+      "source_text": "...♪<br> ",
+      "vi_text": "…♪<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 24,
+      "line": 364,
+      "command": "message",
+      "source_text": "It's uncomfortable being treated as the culprit. I've got to clear my<br>name.<br> ",
+      "vi_text": "Cứ bị xem là thủ phạm thế này thì khó chịu lắm.<br>Em phải rửa sạch thanh danh mới được.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 25,
+      "line": 375,
+      "command": "message",
+      "source_text": "I'll show you that being cursed for all these years wasn't for nothing!<br> ",
+      "vi_text": "Em sẽ cho anh thấy việc bị nguyền rủa suốt bao năm qua không phải để làm cảnh đâu～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 26,
+      "line": 377,
+      "command": "message",
+      "source_text": "I wouldn't exactly go around boasting about being cursed for so<br>long...<br> ",
+      "vi_text": "Bị nguyền rủa suốt bao lâu mà<br>cũng tự hào được à…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 27,
+      "line": 404,
+      "command": "message",
+      "source_text": "This is the first spot. The rumor goes...<br> ",
+      "vi_text": "Đây là địa điểm đầu tiên. Lời đồn nói rằng…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 28,
+      "line": 411,
+      "command": "message",
+      "source_text": "*thud!*<br> ",
+      "vi_text": "Rầm!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 29,
+      "line": 447,
+      "command": "message",
+      "source_text": "Whoa!<br> ",
+      "vi_text": "Oái!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 30,
+      "line": 469,
+      "command": "message",
+      "source_text": "Oh my，did that startle you? I'm here，so you don't need to be scared.<br> ",
+      "vi_text": "Ôi chà‚ anh giật mình rồi à? Có em ở đây rồi nên anh không cần sợ đâu～?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 31,
+      "line": 471,
+      "command": "message",
+      "source_text": "I-I wasn't scared. I was just on alert because it came out of nowhere.<br> ",
+      "vi_text": "A-anh không sợ. Anh chỉ cảnh giác vì chuyện xảy ra quá đột ngột thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 32,
+      "line": 512,
+      "command": "message",
+      "source_text": "Ufufu，you don't have to act tough. You can rely on your big sister<br>Film.<br> ",
+      "vi_text": "Hì hì‚ anh không cần cố tỏ ra cứng cỏi đâu～ Cứ dựa vào<br>chị Film này cũng được mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 33,
+      "line": 514,
+      "command": "message",
+      "source_text": "I'm not acting tough! Anyway，that's the supernatural phenomenon<br>from the reports!<br> ",
+      "vi_text": "Anh không hề cố tỏ ra cứng cỏi! Dù sao thì đó chính là<br>hiện tượng tâm linh trong báo cáo!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 34,
+      "line": 534,
+      "command": "message",
+      "source_text": "A sudden loud noise... That's what they call a \"\"rapping sound\"\"，isn't<br>it?<br> ",
+      "vi_text": "Một tiếng động lớn vang lên đột ngột… Người ta gọi đó là<br>“tiếng gõ ma” nhỉ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 35,
+      "line": 545,
+      "command": "message",
+      "source_text": "But I don't sense any spiritual energy. Noir，what do you think?<br> ",
+      "vi_text": "Nhưng em không cảm nhận được linh lực gì đặc biệt. Noir‚ em thấy sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 36,
+      "line": 566,
+      "command": "message",
+      "source_text": "...?<br> ",
+      "vi_text": "…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 37,
+      "line": 595,
+      "command": "message",
+      "source_text": "Noir seems to think the same. So it's not a supernatural phenomenon<br>then.<br> ",
+      "vi_text": "Có vẻ Noir cũng nghĩ vậy. Nghĩa là đây không phải<br>hiện tượng tâm linh rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 38,
+      "line": 597,
+      "command": "message",
+      "source_text": "Actually，that's more of a problem. I have no idea what's causing it.<br> ",
+      "vi_text": "Ngược lại như thế còn rắc rối hơn. Anh hoàn toàn không biết nguyên nhân là gì.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 39,
+      "line": 599,
+      "command": "message",
+      "source_text": "If this were an old building，I'd understand it creaking everywhere，<br>but this area was only built recently...<br> ",
+      "vi_text": "Nếu là nhà cũ thì anh còn hiểu chuyện chỗ này chỗ kia kêu cọt kẹt‚<br>nhưng khu này vừa mới xây xong mà…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 40,
+      "line": 619,
+      "command": "message",
+      "source_text": "Hmm. Newly built，huh? Hey，tell me more about it.<br> ",
+      "vi_text": "Hừm. Vừa mới xây… à. Này‚ kể cho em rõ hơn chút đi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 41,
+      "line": 621,
+      "command": "message",
+      "source_text": "The base was getting cramped with more personnel. So we hurriedly<br>expanded this area.<br> ",
+      "vi_text": "Nhân sự tăng lên khiến căn cứ trở nên chật chội.<br>Đây là khu vực được mở rộng gấp rút.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 42,
+      "line": 633,
+      "command": "message",
+      "source_text": "I see，I get it，Commander. That rapping sound is just the building<br>creaking.<br> ",
+      "vi_text": "Ra vậy～ Em hiểu rồi‚ Chỉ Huy. Tiếng gõ đó chỉ là<br>âm thanh tòa nhà đang kêu cọt kẹt thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 43,
+      "line": 635,
+      "command": "message",
+      "source_text": "What do you mean? I told you this place was just built，didn't I?<br> ",
+      "vi_text": "Ý em là sao? Anh đã nói nơi này vừa mới xây xong rồi mà?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 44,
+      "line": 685,
+      "command": "message",
+      "source_text": "That's exactly why. New wood expands and contracts with humidity.<br> ",
+      "vi_text": "Chính vì vậy đấy～ Gỗ mới sẽ nở ra hoặc co lại theo độ ẩm.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 45,
+      "line": 696,
+      "command": "message",
+      "source_text": "It's common for sounds like this until the building materials have<br>settled.<br> ",
+      "vi_text": "Trước khi vật liệu xây dựng ổn định hoàn toàn thì những âm thanh<br>như thế này cũng thường xảy ra lắm～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 46,
+      "line": 710,
+      "command": "message",
+      "source_text": "I encountered a similar case when investigating a paranormal<br>incident. The sound should subside in a few weeks.<br> ",
+      "vi_text": "Trước đây khi điều tra một vụ huyền bí‚ em từng gặp chuyện tương tự.<br>Vài tuần nữa thì tiếng này hẳn sẽ lắng xuống.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 47,
+      "line": 752,
+      "command": "message",
+      "source_text": "I see... That logic holds. As expected，you're knowledgeable，Film.<br> ",
+      "vi_text": "…Ra vậy‚ nghe hợp lý đấy. Quả nhiên Film biết nhiều thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 48,
+      "line": 763,
+      "command": "message",
+      "source_text": "Fufufu，it's just Big Sis's wisdom.<br> ",
+      "vi_text": "Hì hì‚ túi khôn của chị đây mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 49,
+      "line": 765,
+      "command": "message",
+      "source_text": "More like your granny's wisdom，if you ask me.<br> ",
+      "vi_text": "Túi khôn của bà cụ thì đúng hơn… nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 50,
+      "line": 799,
+      "command": "message",
+      "source_text": "Did you say something，Commander?<br> ",
+      "vi_text": "Anh vừa nói gì vậy‚ Chỉ Huy?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 51,
+      "line": 801,
+      "command": "message",
+      "source_text": "N-no，it's nothing. Let's head to the next spot.<br> ",
+      "vi_text": "K-không có gì. Đến hiện trường tiếp theo thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 52,
+      "line": 827,
+      "command": "message",
+      "source_text": "The next spot is here. We got a report that blood was dripping from<br>the ceiling.<br> ",
+      "vi_text": "Địa điểm tiếp theo là ở đây. Có báo cáo rằng máu<br>nhỏ xuống từ trần nhà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 53,
+      "line": 838,
+      "command": "message",
+      "source_text": "Huh. If that's true，it's definitely a haunting.<br> ",
+      "vi_text": "Ồ. Nếu thật như vậy thì chắc chắn là hiện tượng tâm linh rồi～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 54,
+      "line": 852,
+      "command": "message",
+      "source_text": "*drip...*<br> ",
+      "vi_text": "Tách…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 55,
+      "line": 862,
+      "command": "message",
+      "source_text": "Eek! Something dripped down!<br> ",
+      "vi_text": "Á!? Có gì đó nhỏ xuống rồi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 56,
+      "line": 875,
+      "command": "message",
+      "source_text": "Oh my，this red stuff...?<br> ",
+      "vi_text": "Ôi‚ thứ màu đỏ này là…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 57,
+      "line": 908,
+      "command": "message",
+      "source_text": "What is it，Film?! Don't tell me that's blood...<br> ",
+      "vi_text": "Sao vậy‚ Film!? Đừng nói là máu…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 58,
+      "line": 920,
+      "command": "message",
+      "source_text": "No，it's not blood. The smell is completely different，and it feels<br>different to the touch.<br> ",
+      "vi_text": "Không. Đây không phải máu đâu. Mùi khác hẳn‚ cảm giác khi chạm vào<br>cũng hoàn toàn khác nữa～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 59,
+      "line": 922,
+      "command": "message",
+      "source_text": "Now that you mention it... Good eye，Film.<br> ",
+      "vi_text": "…Nghe em nói thì đúng là vậy. Em tinh thật đấy‚ Film.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 60,
+      "line": 934,
+      "command": "message",
+      "source_text": "I've been in the Knight Order for a very，very long time，after all. I'm<br>used to blood.<br> ",
+      "vi_text": "Dù sao em cũng đã thuộc về Kỵ Sĩ Đoàn rất～～～～～～lâu rồi mà.<br>Máu thì em quen quá rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 61,
+      "line": 936,
+      "command": "message",
+      "source_text": "So this phenomenon is just some red liquid dripping down? The floor<br>above should be the warehouse. Let's go check it out.<br> ",
+      "vi_text": "Nghĩa là hiện tượng này chỉ là chất lỏng màu đỏ nhỏ xuống thôi à.<br>Tầng trên chắc là nhà kho. Lên xem nào.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 62,
+      "line": 963,
+      "command": "messageTextCenter",
+      "source_text": "<size=48>—Upstairs</size>",
+      "vi_text": "<size=48>—Tầng Trên</size>",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 63,
+      "line": 1016,
+      "command": "message",
+      "source_text": "...The red ink can was damaged. It leaked into the room below，and<br>that's why it was rumored to be blood.<br> ",
+      "vi_text": "…Hóa ra lon mực đỏ đã bị hỏng. Nó rỉ xuống phòng bên dưới‚<br>rồi bị đồn thành máu.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 64,
+      "line": 1018,
+      "command": "message",
+      "source_text": "How naive... Assumptions are truly frightening.<br> ",
+      "vi_text": "Đơn giản đến thế sao… Thành kiến đúng là đáng sợ thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 65,
+      "line": 1029,
+      "command": "message",
+      "source_text": "Let's clean it up properly，shall we?<br> ",
+      "vi_text": "Chúng ta nên dọn dẹp cho sạch sẽ nhỉ～<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 66,
+      "line": 1052,
+      "command": "message",
+      "source_text": "This is the last spot. The report said—<br> ",
+      "vi_text": "Đây là nơi cuối cùng. Báo cáo nói rằng――<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 67,
+      "line": 1054,
+      "command": "message",
+      "source_text": "*groan...*<br> ",
+      "vi_text": "Ưưưưư…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 68,
+      "line": 1090,
+      "command": "message",
+      "source_text": "Oh my，that sound just now...?<br> ",
+      "vi_text": "Ôi‚ âm thanh vừa rồi là…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 69,
+      "line": 1092,
+      "command": "message",
+      "source_text": "You heard it too? The rumor is that there's a mysterious groaning<br>sound.<br> ",
+      "vi_text": "Em nghe thấy chứ? Lời đồn là có thể nghe thấy<br>một tiếng rên rỉ bí ẩn.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 70,
+      "line": 1106,
+      "command": "message",
+      "source_text": "I definitely heard it. But... you don't sense any spiritual energy，do<br>you，Noir?<br> ",
+      "vi_text": "Em nghe thấy rõ. Nhưng… Noir‚ em cũng không cảm nhận được<br>linh lực đúng không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 71,
+      "line": 1125,
+      "command": "message",
+      "source_text": "...♪<br> ",
+      "vi_text": "…♪<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 72,
+      "line": 1150,
+      "command": "message",
+      "source_text": "In that case，this isn't a supernatural phenomenon either. What could<br>that sound be... Commander，do you have any idea?<br> ",
+      "vi_text": "Vậy thì em nghĩ đây cũng không phải hiện tượng tâm linh. Âm thanh đó<br>là gì nhỉ… Chỉ Huy‚ anh có manh mối nào không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 73,
+      "line": 1152,
+      "command": "message",
+      "source_text": "There shouldn't be any device around here that makes a loud noise.<br>And it's not a place where people gather...<br> ",
+      "vi_text": "Đáng lẽ quanh đây không có thiết bị nào phát ra tiếng động lớn.<br>Cũng không phải nơi mọi người hay tụ tập…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 74,
+      "line": 1172,
+      "command": "message",
+      "source_text": "...Wait a minute. Hey，Noir，could you come here?<br> ",
+      "vi_text": "…Khoan đã. Này Noir‚ em lại đây một chút được không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 75,
+      "line": 1174,
+      "command": "message",
+      "source_text": "You can phase through walls，right? Can you try going inside the<br>wall?<br> ",
+      "vi_text": "Em có thể xuyên qua tường đúng không? Thử đi vào trong<br>bức tường xem nhé?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 76,
+      "line": 1177,
+      "command": "message",
+      "source_text": "...♪<br> ",
+      "vi_text": "…♪<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 77,
+      "line": 1202,
+      "command": "message",
+      "source_text": "Noir went inside the wall. How convenient! Commander，have you<br>figured out what that groaning is?<br> ",
+      "vi_text": "Noir đi vào trong tường rồi. Tiện thật đấy～ Chỉ Huy‚ anh đã<br>biết tiếng rên đó là gì chưa?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 78,
+      "line": 1204,
+      "command": "message",
+      "source_text": "Yeah，if my guess is right，it's probably...<br> ",
+      "vi_text": "Ừ‚ nếu suy đoán của anh đúng thì có lẽ là…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 79,
+      "line": 1233,
+      "command": "message",
+      "source_text": "Oh! You're back，Noir. How is it? Any issues?<br> ",
+      "vi_text": "Ồ! Em ra rồi à‚ Noir. Sao rồi? Có gì bất thường không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 80,
+      "line": 1243,
+      "command": "message",
+      "source_text": "...! ...!!!<br> ",
+      "vi_text": "…! …!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 81,
+      "line": 1299,
+      "command": "message",
+      "source_text": "Is it this wall that has your attention? ...Oh?<br> ",
+      "vi_text": "Em để ý bức tường này à? …Ơ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 82,
+      "line": 1301,
+      "command": "message",
+      "source_text": "OOOOOOOOH!<br> ",
+      "vi_text": "Ôôôôôôn!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 83,
+      "line": 1313,
+      "command": "message",
+      "source_text": "Somehow the groaning's getting louder. It sounds like it's coming<br>from here.<br> ",
+      "vi_text": "Hình như tiếng rên đang lớn hơn. Có vẻ nó phát ra<br>từ đây.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 84,
+      "line": 1349,
+      "command": "message",
+      "source_text": "Just as I thought. This isn't some ghost moan. It's a leak from the<br>speaking tube.<br> ",
+      "vi_text": "Quả nhiên. Đây không phải tiếng rên của ma gì cả. Đó là<br>âm thanh rò ra từ ống truyền âm.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 85,
+      "line": 1360,
+      "command": "message",
+      "source_text": "Speaking tube... That's the thing used to talk between separate<br>rooms，right?<br> ",
+      "vi_text": "Ống truyền âm… là thứ dùng để nói chuyện giữa<br>những căn phòng cách xa nhau trong cùng tòa nhà ấy hả?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 86,
+      "line": 1362,
+      "command": "message",
+      "source_text": "Yeah. We introduced it as a trial in the expansion area.<br> ",
+      "vi_text": "Ừ. Anh thử đưa nó vào khu mở rộng để vận hành thí điểm.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 87,
+      "line": 1364,
+      "command": "message",
+      "source_text": "Seems like a metal pipe broke inside this wall，and sound is leaking<br>through. Good job finding it，Noir—she can phase through walls.<br> ",
+      "vi_text": "Có vẻ ống kim loại sau bức tường này bị hỏng khiến âm thanh rò ra.<br>Công của Noir đấy‚ nhờ em ấy vào được trong tường.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 88,
+      "line": 1375,
+      "command": "message",
+      "source_text": "Oh my，so that's how it was. Let's make sure to get it fixed.<br> ",
+      "vi_text": "Ôi chà‚ hóa ra là vậy～ Chúng ta nên nhờ người sửa lại cho đàng hoàng.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 89,
+      "line": 1404,
+      "command": "message",
+      "source_text": "Honestly，none of this was a psychological phenomenon. If we make<br>the facts public，the commotion will die down.<br> ",
+      "vi_text": "Thật tình‚ chẳng có chuyện nào là hiện tượng tâm linh cả. Công bố<br>sự thật ra thì vụ náo động cũng sẽ lắng xuống thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 90,
+      "line": 1415,
+      "command": "message",
+      "source_text": "Fufufu. Hard work，but I had fun. Going around with you，<br>Commander，talking about so many things...<br> ",
+      "vi_text": "Hì hì. Vất vả thật‚ nhưng em thấy vui lắm. Được đi khắp nơi<br>cùng Chỉ Huy‚ nói chuyện thật nhiều…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 91,
+      "line": 1417,
+      "command": "message",
+      "source_text": "Yeah，it was like a date.<br> ",
+      "vi_text": "Ừ‚ giống như một buổi hẹn hò vậy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 92,
+      "line": 1429,
+      "command": "message",
+      "source_text": "What!<br> ",
+      "vi_text": "Cái gì!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 93,
+      "line": 1440,
+      "command": "message",
+      "source_text": "M-my，Commander! Calling it a date... You shouldn't tease your elder!<br> ",
+      "vi_text": "Tr-trời‚ Chỉ Huy! Gọi là hẹn hò gì chứ… Anh không nên trêu người lớn tuổi hơn đâu!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 94,
+      "line": 1442,
+      "command": "message",
+      "source_text": "What，was I the only one who thought that?<br> ",
+      "vi_text": "Sao vậy‚ chỉ có anh nghĩ thế thôi à?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 95,
+      "line": 1453,
+      "command": "message",
+      "source_text": "When you put it that way... I guess I did think it a little. It felt like I<br>was back to being an ordinary girl.<br> ",
+      "vi_text": "Anh nói vậy thì… em cũng hơi nghĩ như thế. Cảm giác như em<br>đã trở lại làm một cô gái bình thường.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 96,
+      "line": 1455,
+      "command": "message",
+      "source_text": "To me，you're an ordinary girl，Film.<br> ",
+      "vi_text": "Với anh‚ Film vốn là một cô gái bình thường mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 97,
+      "line": 1466,
+      "command": "message",
+      "source_text": "T-t-t-teasing your elder again! I'll give you a good lecture!<br> ",
+      "vi_text": "L-l-lại trêu người lớn tuổi hơn nữa rồi! Em sẽ thuyết giáo anh đấy!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 98,
+      "line": 1468,
+      "command": "message",
+      "source_text": "Scary，scary. Well，thanks for today.<br> ",
+      "vi_text": "Sợ quá sợ quá. Vậy hôm nay cảm ơn em nhé.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 99,
+      "line": 1479,
+      "command": "message",
+      "source_text": "Yes. Goodbye.<br> ",
+      "vi_text": "Ừ. Tạm biệt anh.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 100,
+      "line": 1488,
+      "command": "message",
+      "source_text": "...<br> ",
+      "vi_text": "…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 101,
+      "line": 1579,
+      "command": "message",
+      "source_text": "It's over，Noir. Our fun ghost investigation with Commander. ...I wish<br>there were many more supernatural occurrences.<br> ",
+      "vi_text": "Kết thúc mất rồi nhỉ‚ Noir. Cuộc điều tra ma vui vẻ cùng Chỉ Huy.<br>…Giá mà còn thật nhiều‚ thật nhiều hiện tượng tâm linh nữa xảy ra.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "index": 102,
+      "line": 1591,
+      "command": "message",
+      "source_text": "And then，once again，with the Commander...<br> ",
+      "vi_text": "Nếu vậy thì em lại có thể‚ cùng Chỉ Huy…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "CONTEXT_MATCH"
+    },
+    {
+      "index": 103,
+      "line": 1610,
+      "command": "message",
+      "source_text": "...?<br> ",
+      "vi_text": "…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "CONTEXT_MATCH"
+    }
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "final_qa_status": "PASS"
+}

@@ -1,0 +1,601 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11200a
+
+cameramove,LinearTarget,X,-100,0
+
+charaload,chara_1,102001000G,ラヴェリア
+charamove,chara_1,Set,X,-100,0
+
+charaload,chara_2,400101000,店主
+charamove,chara_2,Set,X,650,0
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,かわいいが過ぎる！
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+
+
+seplay,setag1_1,se4030002,0,1
+
+wait,2
+
+window,on,0.15
+message,<user>,Laveria definitely went into this shop... What kind of place is this...?<br> 
+
+
+
+bgmstop,bgmtag1_1,0.25,0
+message,？？？,Don't move.<br> ,900000001,vc_10200100003_001_01,
+
+bgmplay,bgmtag1_2,bgm0034,0.75,1
+message,<user>,Huh!<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(A blade at my neck...! When did she get behind me?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Ah，I give up，I give up. I won't resist，just spare my life.<br> 
+
+message,<user>,But I suggest you drop your weapon and get out of here fast because<br>there's an incredibly strong，reliable woman in this shop right now.<br> 
+
+bgmstop,bgmtag1_2,0.25,0
+
+window,off
+wait,0.15
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,ラヴェリア,...That ""incredibly strong woman"" you mentioned—that's me，right，<br>Brother?<br> ,,vc_10200100003_002_01
+
+bgmplay,bgmtag1_3,bgm0027,0.75,1
+
+message,<user>,What! It's you，Laveria! I thought you were some kind of assassin!<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,2
+asynccharaface,chara_1,FaceNormal,STOP,2
+
+asynccharaface,chara_1,EyeClose,STOP,5
+asynccharaface,chara_1,FaceNormal,STOP,5
+message,ラヴェリア,That's my line. I thought someone suspicious was tailing me，and it<br>turns out it was you，Brother.<br> ,,vc_10200100003_003_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Going out of your way to hide and follow me—what's your intention?<br> ,,vc_10200100003_004_01
+
+message,<user>,No big reason. I just came to check because you were being so<br>obviously suspicious.<br> 
+
+asyncseplay,setag1_3,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,ラヴェリア,... Was I that suspicious?<br> ,,vc_10200100003_005_01
+
+message,<user>,Suspicious enough that if I were a guard，I'd have taken you to the<br>station.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,ラヴェリア,R-Right... Sorry for worrying you.<br> ,,vc_10200100003_006_01
+
+message,<user>,But why were you acting like that? Is there something about this<br>store?<br> 
+
+message,<user>,From the looks of it... it seems like just a cute goods store.<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag1_5,se4800011,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+message,ラヴェリア,Y-Yeah，right，it's a store that sells cute stuff—a fancy store... I<br>don't think there's anything strange about it，right?<br> ,,vc_10200100003_007_01
+
+message,<user>,The strange one isn't the store，it's you，Laveria. Did you have<br>business here?<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_6,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,ラヴェリア,Well，not business exactly，it's just... it's not that I had any<br>particular reason...<br> ,,vc_10200100003_008_01
+
+message,<user>,Is it something you can't tell me? Ah! I see，now I get it!<br> 
+
+message,<user>,So that's it—this shop's tied to the underworld，and you came to<br>investigate，didn't you?<br> 
+
+
+linework,on,White,Middle
+
+charaface,chara_1,FaceAnger
+message,ラヴェリア,No way! There's no way a lovely shop like this has any shady<br>connections!<br> ,,vc_10200100003_009_01
+
+
+message,ラヴェリア,I just came to buy 'cute' stuff，that's all!<br> ,,vc_10200100003_010_01
+
+linework,off,White,Middle
+
+message,<user>,...<br> 
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,0.1
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,...<br> ,,vc_10200100003_011_01
+
+message,<user>,...So you came to buy 'cute'.<br> 
+
+
+asyncseplay,setag1_7,se4800012,0,1,CONT
+
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ラヴェリア,Ah... no，I mean...<br> ,,vc_10200100003_012_01
+
+message,<user>,Well，yeah，this place only seems to have cute things. So of course<br>you'd come to buy ""cute""，right? That's that.<br> 
+
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ラヴェリア,*guh*... *tch*... What? If you want to laugh，go ahead. Yeah，that's<br>right—I，a warrior，came to buy cute stuff!<br> ,,vc_10200100003_013_01
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,I love cute things! I love the very concept of cuteness! My room's full<br>of plushies! Got a problem with that?<br> ,,vc_10200100003_014_01
+
+message,<user>,No，I don't mind. So I thought you came to buy a gift，but it's for<br>yourself，huh?<br> 
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag1_8,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,ラヴェリア,Ah... oh... ugh，I messed up! I said too much!<br> ,,vc_10200100003_015_01
+
+message,<user>,She completely outed herself and is blushing like crazy! I never knew<br>Laveria had such a cute side.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1.5,0,LinearTarget
+
+cameramove,LinearTarget,Y,200,0
+
+charaface,chara_1,FaceHappy
+
+blur,on,BACK,0
+
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,ラヴェリア,Ha! You've got a good eye，Brother!<br> ,,vc_10200100003_016_01
+
+message,<user>,Wha—whoa!<br> 
+
+asyncseplay,setag1_9,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+message,ラヴェリア,That's right! This place has tons of cute merchandise!<br> ,,vc_10200100003_017_01
+
+message,<user>,No，no，when I said 'cute'，I wasn't talking about the shop or its<br>products...<br> 
+
+charaface,chara_1,FaceUnique01
+message,ラヴェリア,Yes，this shop is a famous hidden gem. They opened a branch here to<br>soothe everyone at the base.<br> ,,vc_10200100003_018_01
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_10,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,It's not just cute on the surface—its very philosophy is overflowing<br>with cuteness. How wonderful is that...!<br> ,,vc_10200100003_019_01
+
+message,<user>,Laveria isn't listening to me at all...! Maybe I should just let her be<br>and not spoil the atmosphere...?<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_11,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+message,ラヴェリア,I get it，Brother，I get it! This atmosphere is just irresistible! Yes，<br>this shop isn't just about the goods—the whole vibe is cute!<br> ,,vc_10200100003_020_01
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_12,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+message,ラヴェリア,Just being in this space，I'm wrapped in cuteness... Ah，it's lovely...<br> ,,vc_10200100003_021_01
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_13,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,...*gasp!* S-sorry，I got carried away and talked too much...<br> ,,vc_10200100003_022_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1,0,LinearTarget
+
+cameramove,LinearTarget,Y,0,0
+
+blur,off,BACK,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,<user>,...You're back? Yeah，it really is cute，uh-huh. I feel like I'm<br>overdosing on cuteness.<br> 
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_14,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,Ah，I agree. I'm so surrounded by cuteness I can barely take it...<br> ,,vc_10200100003_023_01
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,No，more importantly... So you know everything about me now，<br>Brother...<br> ,,vc_10200100003_024_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,I beg you，Brother. Could you somehow forget this?<br> ,,vc_10200100003_025_01
+
+message,<user>,I could pretend to forget，but that'd be even more awkward，don't<br>you think?<br> 
+
+message,<user>,Well，if it worries you，Laveria，I'll keep it quiet. It's not like I'm<br>going to tell anyone.<br> 
+
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_15,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ラヴェリア,...If you say so，Brother，I believe you. That's a relief. Thank you.<br> ,,vc_10200100003_026_01
+
+message,<user>,Do you really need to hide it that much? It's not like it's a bad hobby.<br> 
+
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,...But it's embarrassing，isn't it? A warrior being so into cute things.<br> ,,vc_10200100003_027_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Like you said，Brother，I'm supposed to be a reliable woman. I have an<br>image to maintain.<br> ,,vc_10200100003_028_01
+
+message,<user>,Is that so? I think it's a good kind of surprise，personally.<br> 
+
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Besides，cute things are for cute people. Someone like me really<br>shouldn't own them.<br> ,,vc_10200100003_029_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharaface,chara_1,FaceSad,STOP,3.5
+
+asyncseplay,setag1_16,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,ラヴェリア,Right，I know it. A rough warrior like me doesn't fit in a shop like<br>this...<br> ,,vc_10200100003_030_01
+
+message,<user>,Really? I don't think that's true at all.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,I don't need flattery. I know how it is. I'll leave before I get in the<br>shop's way.<br> ,,vc_10200100003_031_01
+
+
+message,<user>,Ah，wait up，Laveria. Are you seriously going to ditch me here?<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_17,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,...What do you mean by that?<br> ,,vc_10200100003_032_01
+
+message,<user>,After having a blade pressed to my back today，I'm nervous. Being<br>alone's scary... I could use a reliable bodyguard，you know?<br> 
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP,0.5
+message,ラヴェリア,*groan*... fine. If anyone comes，I'll say I'm Brother's guard，got it!<br> ,,vc_10200100003_033_01
+
+message,<user>,Yeah，that works. Now then... hmm，which one should I get?<br> 
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_18,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+message,ラヴェリア,You're buying something?<br> ,,vc_10200100003_034_01
+
+message,<user>,Just a little gift.<br> 
+
+asynccharaemo,chara_1,Flash,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP,0.2
+message,ラヴェリア,Ah... Alicia had her eye on this place.<br> ,,vc_10200100003_035_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Everything about her is cute. Unlike me，things from this shop would<br>probably suit her well.<br> ,,vc_10200100003_036_01
+
+message,<user>,Well，a present for a cute girl is definitely the right call... Oh，this<br>one's kind of like you，Laveria.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_19,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Like me?<br> ,,vc_10200100003_037_01
+
+message,<user>,It's a plushie that looks dependable but also soft and squishy.<br>Personally，I think it fits you perfectly.<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_20,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+message,ラヴェリア,That's the new addition to that plushie series... It's already in stock!<br> ,,vc_10200100003_038_01
+
+message,<user>,Good，seems like you don't hate it. Then I'll take this one.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Wait，Commander. That's just my personal taste; I can't tell if it'll<br>suit Alicia's preferences.<br> ,,vc_10200100003_039_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,What matters is how the person feels about it. You should ask her<br>first...<br> ,,vc_10200100003_040_01
+
+message,<user>,In that case，no worries，it's fine. Hey，shopkeeper，could you help<br>me out?<br> 
+
+window,off
+wait,0.15
+
+seplay,setag1_21,se4030002,0,1
+
+asynccameramove,LinearTarget,X,100,1,STOP
+
+asynccharashow,chara_2,0.3,STOP,0.5
+asynccharamove,chara_2,EaseOutTarget,X,550,0.3,STOP,0.5
+
+asynccharaface,chara_1,EyeOpen,STOP,0.6
+asynccharaface,chara_1,FaceNormal,STOP,0.6
+window,on,0.15
+message,店主,Yes，you called?<br> ,,vc_10200100003_041_01
+
+message,<user>,Could you wrap this for me? I'm planning to give it as a gift to a cute<br>girl.<br> 
+
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_22,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,...<br> ,,vc_10200100003_042_01
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_23,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,店主,Oh my，is that so? Certainly，I'll wrap it up super cute for you.<br> ,,vc_10200100003_043_01
+
+message,<user>,Thanks，I'm counting on you.<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+
+asynccharareaction,chara_2,Nod,1,STOP
+window,on,0.15
+message,店主,Yes，here you are. I'm sure they'll love it.<br> ,,vc_10200100003_044_01
+
+window,off
+wait,0.15
+
+seplay,setag1_24,se4030003,0,1
+
+asynccameramove,LinearTarget,X,-100,1,STOP
+
+asynccharahide,chara_2,0.3,STOP
+asynccharamove,chara_2,EaseOutTarget,X,650,0.3,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,0.6
+
+asyncseplay,setag1_25,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+window,on,0.15
+message,ラヴェリア,So many ribbons，colorful wrapping paper，and a tastefully placed<br>mascot character...!<br> ,,vc_10200100003_045_01
+
+asyncseplay,setag1_26,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,How cute，how cute! So this is the real thing...!<br> ,,vc_10200100003_046_01
+
+message,<user>,Even I can tell this is pretty cute... Now then，Laveria.<br> 
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Ah，back at the command room，I'll give this to Alicia—<br> ,,vc_10200100003_047_01
+
+bgmstop,bgmtag1_3,0.25,0
+
+message,<user>,It's a gift，Laveria. Please accept it.<br> 
+
+bgmplay,bgmtag1_4,bgm0031,0.75,1
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_27,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,Huh...? For... me...?<br> ,,vc_10200100003_048_01
+
+message,<user>,Yeah. You always help me out，whether on the battlefield or in the<br>command room. I'm counting on you from now on.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ラヴェリア,What...! No，I can't accept it.<br> ,,vc_10200100003_049_01
+
+message,<user>,Why not? You were talking about it so passionately，you do like it，<br>don't you?<br> 
+
+
+charaface,chara_1,FaceUnique02
+
+asynccharaface,chara_1,FaceSad,STOP,2
+message,ラヴェリア,Of course I like it. But even Brother must think it's strange that<br>someone like me likes cute things...!<br> ,,vc_10200100003_050_01
+
+message,<user>,It's not strange at all. It's a good hobby. You don't have to tell<br>anyone，but there's no need to be ashamed either.<br> 
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,B-but，this is for cute girls，isn't it...?<br> ,,vc_10200100003_051_01
+
+message,<user>,That's why I gave it to you，Laveria. It's a present for a cute girl.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Me...?<br> ,,vc_10200100003_052_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Th-there's no need for that. I'm not cute at all.<br> ,,vc_10200100003_053_01
+
+message,<user>,No，you were cute all day today. You showed me your cute side，not<br>just that of a reliable warrior.<br> 
+
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,I was... cute...?<br> ,,vc_10200100003_054_01
+
+message,<user>,Yeah，you were cute. The way your eyes lit up when you talked about<br>the things you love，and the way you got flustered after talking too much.<br> 
+
+message,<user>,What's wrong with a cute girl liking cute things? It suits you<br>perfectly，Laveria.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Brother...<br> ,,vc_10200100003_055_01
+
+message,<user>,Well，think of this as a bonus. I'll ask for your help again.<br> 
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,Nod,0.5,STOP,1.7
+message,ラヴェリア,...Yeah，thanks.<br> ,,vc_10200100003_056_01
+
+message,<user>,Alright，then. Let's head back. We still have some work left，after all.<br> 
+
+window,off
+wait,0.15
+
+seplay,setag1_28,se4030003,0,1
+
+wait,1.2
+
+charaface,chara_1,FaceSad
+window,on,0.15
+message,ラヴェリア,...Ah，you really are a cute plushie. Even though it doesn't suit<br>someone like me at all...<br> ,,vc_10200100003_057_01
+
+charaface,chara_1,FaceUnique01
+message,ラヴェリア,But Brother says I'm a cute woman. He says cute things suit me.<br> ,,vc_10200100003_058_01
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,...Does Brother see me as cute too，just like you...?<br> ,,vc_10200100003_059_01
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_29,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP,3
+message,ラヴェリア,If that's the case，it makes me a little happy. If it's just in front of<br>Brother，then maybe being a cute woman isn't so bad，huh.<br> ,,vc_10200100003_060_01
+
+window,off
+bgmstop,bgmtag1_4,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

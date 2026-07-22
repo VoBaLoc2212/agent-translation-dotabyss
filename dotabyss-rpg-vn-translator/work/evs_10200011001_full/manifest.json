@@ -1,0 +1,50 @@
+{
+  "scene": "evs_10200011001",
+  "status": "BLOCKED_MISSING_SOURCES",
+  "language": "vi",
+  "source_policy": {
+    "jp_primary": true,
+    "en_alignment_only": true,
+    "do_not_modify_en_source": true,
+    "adult_content_rule": "All characters confirmed 18+ by task context; no adult text was processed because source files are missing."
+  },
+  "paths": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200011001/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200011001/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/evs_10200011001.txt",
+    "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/evs_10200011001.txt",
+    "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/evs_10200011001_full",
+    "focused_diff": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/evs_10200011001_full/focused_diff.md",
+    "qa_log": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/evs_10200011001_full/qa_log.json",
+    "script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/evs_10200011001_full/check_sources.py"
+  },
+  "source_discovery": {
+    "ja_json_exists": false,
+    "en_json_exists": false,
+    "en_asset_exists": false,
+    "vi_output_exists_before": false,
+    "exact_scene_hits_under_E_AgentTranslation": []
+  },
+  "counts": {
+    "source_line_count": null,
+    "output_line_count": null,
+    "candidate_text_commands": {
+      "title": null,
+      "message": null,
+      "messageTextUnder": null,
+      "messageTextCenter": null,
+      "total": null
+    },
+    "translated_records": 0,
+    "unmatched_records": 0,
+    "kept_english_text_records": 0
+  },
+  "hashes": {},
+  "qa_status": "BLOCKED",
+  "blockers": [
+    "Required JP novel JSON, EN novel JSON, and EN asset file for evs_10200011001 were not found under E:/AgentTranslation. Translation was not generated to avoid fabricating source text."
+  ],
+  "notes": [
+    "Nearby available scenes include evs_10200010101 through evs_10200010801; no evs_10200011001 was present. A similarly numbered non-evs file mas_1001011001 exists, but it was not used because the requested file name is explicit."
+  ]
+}

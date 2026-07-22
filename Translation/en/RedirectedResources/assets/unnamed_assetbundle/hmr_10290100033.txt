@@ -1,0 +1,144 @@
+﻿adultui,off
+
+bg,abg11000a
+
+charaload,chara_1,102901000G,ミルティーユ
+
+charaface,chara_1,FaceSad
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+subimage,UI/BG/Novel/abg18200a,subimage_2,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_2,0,150,150,LinearTarget
+
+
+
+
+
+
+
+
+
+
+
+
+window,on,0.15
+message,<user>,The bazaar report looks about right. Seems like it was lively enough，<br>no problems.<br> 
+
+charashow,chara_1,0.3
+
+asynccharareaction,chara_1,nod,1,STOP
+message,ミルティーユ,Um... Commander...<br> ,,vc_10290100033_001_01
+
+message,<user>,Huh? What's wrong，Myrtille? You sound so miserable.<br> 
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharareaction,chara_1,shake,1,STOP
+message,ミルティーユ,Well... about the other day... Mil caused you trouble... Mil is really<br>sorry...<br> ,,vc_10290100033_002_01
+
+message,<user>,...? There's nothing to apologize for. If anything，I was the one who<br>caused you trouble...<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_2,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Especially Myrtille's ass... I really went overboard there.)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_2,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag3_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+window,on,0.15
+message,ミルティーユ,No，but... it was really Mil's fault...<br> ,,vc_10290100033_003_01
+
+message,,After mumbling that，Myrtille quickly held out some cookies.<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,ミルティーユ,Mil made proper cookies this time... Would you like to eat them<br>together in Mil's room?<br> ,,vc_10290100033_004_01
+
+message,<user>,I thought the previous cookies were fine too... Hm，not here，in your<br>room?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ミルティーユ,Yes，in Mil's room!♡<br> ,,vc_10290100033_005_01
+
+message,<user>,...Alright. Fufufu，I'm looking forward to your cookies，Myrtille.<br> 
+
+asyncseplay,setag3_3,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ミルティーユ,Mil thinks you'll really like them... Ehehe!♡<br> ,,vc_10290100033_006_01
+
+window,off
+wait,0.15
+
+fade,Out,Black,0.5
+
+bg,abg18200a
+
+charahide,chara_1,0.3
+
+fade,In,Black,0.5
+
+window,on,0.15
+message,,Myrtille's cookies were simply delicious—nothing more. But the two of<br>them shared a passionate time that rivaled that day—<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

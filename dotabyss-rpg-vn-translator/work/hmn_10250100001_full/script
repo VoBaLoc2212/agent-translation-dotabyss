@@ -1,0 +1,36 @@
+# script — hmn_10250100001 translation build & QA run
+# Date: 2026-07-19
+# Operator: subagent (dotabyss-rpg-vn-translator)
+
+## Source detection
+- ja.json  : Japanese source (primary meaning) — 66 entries
+- en.json  : English values present -> CONFIRMED EN-asset-is-English case
+- en asset : text fields already English; used as STRUCTURAL AUTHORITY
+            (BOM + CRLF + <br> counts + delimiter/field/tag preservation)
+
+## Build method (field-index replacement)
+- Script : E:/AgentTranslation/dotabyss-translation-main/work/hmn_10250100001_build.py
+- Reads EN asset bytes, decodes utf-8-sig, splits on \r\n.
+- For each text-command line (title,/message,/messageTextUnder,/messageTextCenter,):
+    * title,  -> split(",",1); replace parts[1]
+    * message*-> split(",",5); replace parts[2] (text field)
+- Trailing tag suffix ("<br> " etc.) AUTO-MIRRORED from source field so VI does
+  not need to append it. ASCII comma in VI text asserted absent (-> U+201A ‚).
+- Writes b"\xef\xbb\xbf" + body.encode("utf-8") (BOM + CRLF preserved).
+
+## Translation decisions
+- Commander / 司令官 / Lord Commander -> Chỉ Huy (every occurrence)
+- ウェンディ→Wendy, ヴィーラ→Veera, ベリサ→Verisa (romanized in dialogue; speaker labels kept JP)
+- 作業員 (male worker) -> anh (self); calls Wendy "Wendy ơi" (ちゃん -> ơi)
+- ペルディオン -> Perdion (proper noun kept romanized)
+- 前線基地 -> Căn Cứ Tiền Tuyến; 大穴 -> Đại Huyệt; オートマタ -> ô-tô-mát
+- Wendy/Verisa/Veera female -> em; male worker -> anh
+- No H18 content in this scene (all characters 18+ confirmed per project rules)
+
+## Post-build fixes
+- L407: dropped internal <br> to match EN asset <br> count (1) — structural authority
+- Fixed two diacritic typos (chư, nhờ) before final build
+
+## Verification
+- Ran: python dotabyss-rpg-vn-translator/work/verify_asset_translation.py --root E:/AgentTranslation hmn_10250100001
+- RESULT: independent_verify = PASS (0 issues, 66/66 translated, line/BOM/newline/delimiter/tag/placeholder/ascii-comma all clean)

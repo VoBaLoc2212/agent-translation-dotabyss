@@ -1,0 +1,36 @@
+{
+  "file": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200020401.txt",
+  "qa_status": "PASS",
+  "blockers": [],
+  "kept_english_or_unchanged_text_records": [],
+  "warnings": [],
+  "checks": {
+    "source_line_count": 2231,
+    "output_line_count": 2231,
+    "candidate_text_records": 88,
+    "translated_records": 88,
+    "commands_count": {
+      "title": 1,
+      "message": 85,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "delimiter_mismatches": 0,
+    "technical_field_changes": 0,
+    "tag_mismatches": 0,
+    "placeholder_mismatches": 0
+  },
+  "notes": [
+    "JP primary via ja.json; EN asset/en.json used for ordered alignment.",
+    "Commander/司令官 translated as Chỉ Huy. 旦那様 in Kureha speech rendered phu quân per scene tone.",
+    "No intentionally unchanged translatable records."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 88,
+  "translated_records": 88,
+  "changed_lines": 88,
+  "source_sha256": "a0f9809c7f49a60c2113b63aff27d7839051623c14e319d2399f7986316f02f4",
+  "output_sha256": "ea9846efca6745fa7509cd73192e31d22c24271b241795939e490d659fcd9d38"
+}

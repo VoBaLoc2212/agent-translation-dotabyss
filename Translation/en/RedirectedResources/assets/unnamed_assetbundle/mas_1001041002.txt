@@ -1,0 +1,105 @@
+﻿fade,Out,White,0
+initend
+
+l2dlipsyncmode,multi
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+l2dshow,l2d_1001041002
+
+uivisible,on
+
+fade,In,White,0.5
+
+bgmplay,bgmtag2_1,bgm0025,0.75,1
+
+window,on,0.15
+l2dmessage,ヒマリ,Shiena...?<br> ,106601000G,mcv_1001041001_001_99_02
+
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,シエナ,...I see. Himari... you've gotten stronger.<br> ,300501000,mcv_1001041001_002_99_01
+
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+l2dmessage,ヒマリ,I'm sorry，Shiena...<br> ,106601000G,mcv_1001041001_003_99_02
+
+
+
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,Shiena takes a communicator out of her bag<br>and gently places it in Himari's hand.<br> 
+
+l2dmotion,EyeEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+
+
+l2dmessage,ヒマリ,Is this... a phone?<br> ,106601000G,mcv_1001041001_004_99_02
+
+
+
+
+l2dmessage,シエナ,It's a communicator exclusively for Lux Nova.<br>If you ever need my help，contact me anytime.<br> ,300501000,mcv_1001041001_005_99_01
+
+
+l2dmotion,EyeEmotionReset
+
+
+l2dmotion,Scene02
+
+l2dmessage,ヒマリ,Yeah... thank you，Shiena.<br>I'll take good care of it.<br> ,106601000G,mcv_1001041001_006_99_02
+
+
+
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,シエナ,Himari... please don't push yourself too hard.<br>I'll be waiting for the day we can go back to our world together.<br> ,300501000,mcv_1001041001_007_99_01
+
+
+
+
+l2dmotion,EyeOpen03
+
+l2dmessage,ヒマリ,Yeah. I'm looking forward to when that day comes too.<br> ,106601000G,mcv_1001041001_008_99_02
+
+
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シエナ,Take care，Himari.<br>I'll come visit again.<br> ,300501000,mcv_1001041001_009_99_01
+
+
+
+
+l2dmotion,Scene03
+
+l2dmessage,ヒマリ,Yeah...! I'll be waiting!<br> ,106601000G,mcv_1001041001_010_99_02
+
+
+
+
+
+message,,The moon floating in the night sky continued to gently illuminate<br>the two of them，each resolved to walk their own path——<br> 
+
+window,off
+bgmstop,bgmtag2_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

@@ -1,0 +1,134 @@
+﻿adultui,off
+
+bg,abg11000a
+
+charaload,chara_1,104401000G,ヤチヨ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceShy
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+window,on,0.15
+message,ヤチヨ,*pant*... that was incredible...<br> ,,vc_10440100013_001_01
+
+message,<user>,Ahaha. You've been saying that all along.<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_2,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ヤチヨ,But—but! It really was amazing!<br> ,,vc_10440100013_002_01
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ヤチヨ,When I think about it，my body tingles again!♡<br> ,,vc_10440100013_003_01
+
+asynccharaface,chara_1,FaceShy,STOP
+
+asyncseplay,setag3_4,se4400119,0,1,CONT
+
+window,off
+wait,0.15
+
+crossfadeready
+
+
+charascale,chara_1,1.5,0
+
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,,Yachiyo slid close，pressing her body against mine. Then she gently<br>rested her head on my shoulder.<br> 
+
+
+asyncseplay,setag3_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+message,ヤチヨ,Lord Commander... you're so strong，so passionate... I think I've<br>gotten addicted to you...<br> ,,vc_10440100013_004_01
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_6,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ヤチヨ,Please keep making my heart race even more from now on!♡<br> ,,vc_10440100013_005_01
+
+message,<user>,O-oh，of course.<br> 
+
+message,,I'm thrown off by Yachiyo，so alluring compared to just hours ago.<br>Maybe next time I'll be the one overwhelmed...<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_7,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,ヤチヨ,Yay! Now I can become a slim，wonderful adult like Ludia!♪<br> ,,vc_10440100013_006_01
+
+message,<user>,...Ahaha! Well，you're still a child at heart，aren't you?<br> 
+
+asyncseplay,setag3_8,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ヤチヨ,Pardon? What are you talking about?<br> ,,vc_10440100013_007_01
+
+message,,She asked so innocently，so I just smiled and said it was nothing.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

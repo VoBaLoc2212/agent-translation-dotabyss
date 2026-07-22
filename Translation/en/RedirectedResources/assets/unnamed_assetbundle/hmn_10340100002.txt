@@ -1,0 +1,545 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg12000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,103401000G,カーラ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,死と隣り合わせの厳しい訓練
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1.3,0,CONT,0
+
+asynccharashowalpha,chara_1,1,0.3,CONT,0
+
+window,on,0.15
+message,<user>,Well then... cheers!<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_1,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Yes，Commander.<br>...cheers!<br> ,103401000G,vc_10340100002_001_01,chara_1
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_2,se4400227,0,1,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,<user>,Sorry，it's just the two of us for this welcome party.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,カーラ,Not at all. I am truly happy to be welcomed by you like this，<br>Commander!<br> ,103401000G,vc_10340100002_002_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,When I was assigned to the Guard，they also prepared a drinking<br>party like this for me.<br> ,103401000G,vc_10340100002_003_01,chara_1
+
+message,<user>,So it really is a tradition after all.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,カーラ,Yes. After finishing the grueling training，that was the moment I was<br>finally acknowledged as a soldier...<br> ,103401000G,vc_10340100002_004_01,chara_1
+
+message,<user>,Is Eldorana's training that harsh?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,It is not so much Eldorana，but the Republic Guard that might be<br>particularly strict.<br> ,103401000G,vc_10340100002_005_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Eldorana is a nation of sailors，and most of its borders are sea. And<br>it is the Guard's duty to protect the sea and coastlines.<br> ,103401000G,vc_10340100002_006_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Recruits endure harsh training to survive naval battles，where death<br>is constant，before being allowed to enlist.<br> ,103401000G,vc_10340100002_007_01,chara_1
+
+message,<user>,Hmm，but what specific training did you go through?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_9,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,...they push you past your mind's limits，and it feels like your very<br>personality is reshaped into that of a soldier.<br> ,103401000G,vc_10340100002_008_01,chara_1
+
+message,<user>,Just hearing about it is scary. I definitely couldn't endure that.<br> 
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,カーラ,But Commander，after Guard-style training，I think you'd never<br>sexually harass anyone again.<br> ,103401000G,vc_10340100002_009_01,chara_1
+
+message,<user>,Don't try to reshape my personality just to prevent harassment!<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Fufu，sorry. I just felt like getting a little payback for earlier.<br> ,103401000G,vc_10340100002_010_01,chara_1
+
+message,<user>,Good grief... But Carla，you've loosened up a bit.<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_12,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,カーラ,Ah... I am so sorry! It is just that you are very easy to talk to，<br>Commander...<br> ,103401000G,vc_10340100002_011_01,chara_1
+
+message,<user>,That's a good thing，isn't it? That's the point of an Eldorana-style<br>welcome party，right?<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_13,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,カーラ,...Yes. We drink like this to bond with new comrades.<br> ,103401000G,vc_10340100002_012_01,chara_1
+
+message,<user>,That means it was worth setting this up. From now on，feel free to be<br>that casual.<br> 
+
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Commander... thank you very much!<br> ,103401000G,vc_10340100002_013_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,カーラ,...I never imagined when I first arrived that I'd be able to talk with<br>the Commander like this.<br> ,103401000G,vc_10340100002_014_01,chara_1
+
+message,<user>,Did you think I was just some sexually harassing Commander?<br> 
+
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,カーラ,N-no，um，th-that's not true at all! I-I think you're a wonderful<br>Commander.<br> ,103401000G,vc_10340100002_015_01,chara_1
+
+message,<user>,Hey，denying it that hard makes it sound like you're lying.<br> 
+
+message,<user>,This is a drinking party. Don't worry about manners. Come on，speak<br>your true feelings.<br> 
+
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_16,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,...Well，to be honest，I was a little surprised.<br> ,103401000G,vc_10340100002_016_01,chara_1
+
+message,<user>,I thought so. Well，that's natural. If anything，you put up with it well.<br> 
+
+message,<user>,If you were a serious soldier，I thought a fist might come my way.<br> 
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_17,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,No! I would never hit the Commander.<br> ,103401000G,vc_10340100002_017_01,chara_1
+
+message,<user>,Unthinkable，huh? Carla，you're a model of virtue. Truly a proper<br>soldier.<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_18,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,Is that so...?<br> ,103401000G,vc_10340100002_018_01,chara_1
+
+message,<user>,Then why were you sent to this Frontline Base? Did you get into<br>trouble in Eldorana?<br> 
+
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,カーラ,I-I don't get into mischief!<br> ,103401000G,vc_10340100002_019_01,chara_1
+
+message,<user>,Don't hide it，don't hide it. Did you punch a harassing superior? Or<br>kick a colleague who was hitting on you in the groin?<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_20,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,I repeat: assault on a superior or colleague is completely unthinkable!<br> ,103401000G,vc_10340100002_020_01,chara_1
+
+bgmstop,bgmtag1_1,1,0
+
+message,<user>,...Then why are you at this base? There must be a reason，right?<br> 
+
+bgmplay,bgmtag1_2,bgm0030,0.75,1
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_21,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,カーラ,Actually... well...<br> ,103401000G,vc_10340100002_021_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_22,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,I was on guard duty and took a drunk citizen into protective custody.<br>I tried to take him home，but...<br> ,103401000G,vc_10340100002_022_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,That drunk citizen，with lewd words，put his hand on my... my<br>breasts...<br> ,103401000G,vc_10340100002_023_01,chara_1
+
+message,<user>,He groped you?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_24,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,カーラ,G-grope!<br> ,103401000G,vc_10340100002_024_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_25,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,カーラ,...Yes，that's correct.<br> ,103401000G,vc_10340100002_025_01,chara_1
+
+message,<user>,It's weird for me to say this，but that's terrible sexual harassment.<br>Did you catch him on the spot?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_26,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,Well，I was startled by how sudden it was，and as a soldier it's<br>unforgivable，but...<br> ,103401000G,vc_10340100002_026_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_27,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,I ended up hitting him with all my strength.<br> ,103401000G,vc_10340100002_027_01,chara_1
+
+message,<user>,Ooh... that sounds like you really let him have it.<br> 
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,A soldier assaulting a civilian is absolutely unforgivable. It's an act<br>that could easily get me discharged...<br> ,103401000G,vc_10340100002_028_01,chara_1
+
+message,<user>,What are you saying? Carla，you're not in the wrong at all!<br> 
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,Huh...?<br> ,103401000G,vc_10340100002_029_01,chara_1
+
+message,<user>,He groped your breasts，and you only punched him once，right?<br> 
+
+message,<user>,That's too lenient. You should have half-killed him.<br> 
+
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_30,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Commander... thank you.<br> ,103401000G,vc_10340100002_030_01,chara_1
+
+message,<user>,I don't forgive sexual harassers. The only one allowed to sexually<br>harass at this base is me.<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,カーラ,Not even you，Commander!<br> ,103401000G,vc_10340100002_031_01,chara_1
+
+message,<user>,That's a shame.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+message,<user>,I see now. So you were sent to the Frontline Base because they made<br>a big deal out of you hitting a civilian.<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_32,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Yes... This is the front line for protecting people.<br> ,103401000G,vc_10340100002_032_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_33,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,I want to fight here，risk my life，and really reexamine myself.<br> ,103401000G,vc_10340100002_033_01,chara_1
+
+message,<user>,You're really such a serious person. Well，that's what I like about<br>you，Carla.<br> 
+
+message,<user>,I want to give you a mission that makes use of that quality of yours，<br>but...<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_34,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+window,on,0.15
+message,<user>,Right. I have a proposal.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,カーラ,A mission that makes use of my qualities... you say?<br> ,103401000G,vc_10340100002_034_01,chara_1
+
+message,<user>,You might be surprised at the details. So how about it? If you trust<br>me，want to give it a try?<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncseplay,setag1_36,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asynccharaface,chara_1,EyeOpen,STOP,1
+asynccharaface,chara_1,FaceNormal,STOP,1
+
+asyncseplay,setag1_37,se4800010,0,1,STOP,1
+
+asynccharaemo,chara_1,Exclamation,STOP,1
+
+asynccharaface,chara_1,FaceFun,STOP,3
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,3,STOP
+
+
+window,on,0.15
+message,カーラ,...Yes，I trust you，Commander! Please，let me do it!<br> ,103401000G,vc_10340100002_035_01,chara_1
+
+window,off
+bgmstop,bgmtag1_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

@@ -1,0 +1,36 @@
+{
+  "scene": "evs_10200010701",
+  "timestamp_utc": "2026-07-19T08:54:42.640365+00:00",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP was used as primary source; EN asset was used for ordered alignment/reference.",
+    "No H-18/adult-uncertain content detected in this asset.",
+    "No UNMATCHED or AMBIGUOUS records; all candidate title/message records translated.",
+    "ASCII comma is forbidden inside translated text fields; Vietnamese internal commas use U+201A where needed."
+  ],
+  "checks": {
+    "source_line_count": 4179,
+    "output_line_count": 4179,
+    "candidate_records": 93,
+    "translated_records": 93,
+    "delimiter_mismatch_count": 0,
+    "field_mismatch_count": 0,
+    "technical_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_text_count": 0
+  },
+  "status": "PASS",
+  "source_line_count": 4179,
+  "output_line_count": 4179,
+  "translatable_records": 93,
+  "translated_records": 93,
+  "kept_text_lines": [],
+  "changed_lines": 93,
+  "fixed_lines": [
+    3759
+  ],
+  "output_sha256": "f9b6b4efec1720eaa8c78ffbcd77a26ec42723ed85cf50efa14bb7face86eb87"
+}

@@ -1,0 +1,221 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000b,off
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,100801000X,ヴィーラ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Veera-onee-chan's First Lesson
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0030,0.75,1
+
+
+
+messagetextwindow,on,0.15
+
+messageTextCenter,,<size=48>—Frontline Base，the Brothel's Tavern</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,se1_1001,se4600012,0,1,CONT,0
+
+wait,2
+
+sestop,se1_1001,2
+
+window,on,0.15
+message,,Tonight，too，many customers were visiting the establishment.<br> 
+
+message,<user>,Alright，alright，it's packed again today. Everyone seems satisfied，so<br>no problems—hm?<br> 
+
+message,,Suddenly，he noticed a dejected-looking young mercenary and the<br>men trying to comfort him.<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+charafocusonall
+
+bg,abg12000b,off
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,-100,0,Set,CONT
+
+transitionCrossFade,Tra02,1
+wait,1
+
+window,on,0.15
+message,傭兵Ａ,It's no use... I'll never be able to have proper sex for the rest of my<br>life...<br> ,900000001
+
+message,傭兵Ｂ,What're you saying? It was just a little mistake，right? You can just<br>ask another girl.<br> ,900000001
+
+message,傭兵Ａ,It's impossible for me anyway! I've decided—I'll never go near a<br>brothel again!<br> ,900000001
+
+message,傭兵Ｂ,Hey，hey，don't take it so hard.<br> ,900000001
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_1,se4010010,0,1,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,<user>,...Hey，got a minute?<br> 
+
+message,傭兵Ａ,What，you came to laugh at me because I paid and still couldn't lose<br>my virginity?—Huh? C-Commander! I-I'm so sorry!<br> ,900000001
+
+message,<user>,Don't worry about it. I should be the one apologizing. Sorry we<br>couldn't satisfy you.<br> 
+
+message,<user>,So here's a proposal... How about a rematch?<br> 
+
+bgmstop,bgmtag1_1,1,0
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+charafocusonall
+
+sestop,setag1_1,0.1
+
+bg,abg12100b,off
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_1,FaceSurprise
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+bgmplay,bgmtag1_2,bgm0033,0.75,1
+
+transitionFade,Tra09,in,black,1
+
+window,on,0.15
+message,<user>,So anyway，I want you to help a young mercenary with his first time.<br>As a 'big sister'，please guide him gently.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_2,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ヴィーラ,...Why me? If a big sister is needed，wouldn't Sis Verisa be better?<br> ,100801000X,vc_10080100021_001_01,chara_1
+
+message,<user>,Rather than chasing after your sister，I thought this would be a good<br>opportunity for you to take on the big sister role yourself.<br> 
+
+message,<user>,Besides，you've always seen how Verisa acts as a big sister，so I<br>think you can be the kindest and most ideal big sister there is.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,ヴィーラ,Me，the ideal big sister...<br> ,100801000X,vc_10080100021_002_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_4,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,,Veera blinked a few times，then slowly nodded and answered.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ヴィーラ,Understood! I'll give it a try.<br> ,100801000X,vc_10080100021_003_01,chara_1
+
+message,<user>,It's because you're Veera that I can ask you. I'm counting on you.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_6,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,ヴィーラ,Yes，I'll do my best not to betray Sis or Lord Commander.<br> ,100801000X,vc_10080100021_004_01,chara_1
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_2,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+

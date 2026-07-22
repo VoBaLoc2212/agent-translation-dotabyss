@@ -1,0 +1,1188 @@
+[
+ {
+  "line": 21,
+  "cmd": "title",
+  "name": null,
+  "tf": "Where Gratitude and Loyalty Lie",
+  "rest": [],
+  "br": 0
+ },
+ {
+  "line": 71,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrrrrr...!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 109,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "(My body will not move... Did I lose too much blood...? At this rate，I<br>will fall from the tree and become the wolf's prey...)<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 111,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "(Am I going to die in a place like this...? How frustrating...)<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 126,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Forgive me... Father，Mother...<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 178,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Young Lord!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_001_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 209,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "What...!?<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 211,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Could it be... Hatsune，is that you...? Why are you here...!?<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 255,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I'll explain later! Please wait a moment!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_002_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 296,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrrrrr...!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 347,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Now then，you beast! Bring it on! I'll be your opponent!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_003_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 349,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Hatsune...! Be careful，that beast is dangerous!<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 354,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Understood!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_004_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 403,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrf!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 448,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "(Fast...! But—)<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_005_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 521,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrf!?<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 577,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Don't think you can catch me that easily!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_006_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 586,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrrrroowl...!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 630,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Come on...! I'll make you regret injuring the Young Lord!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_007_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 670,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrf!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 728,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Whoa!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_008_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 834,
+  "cmd": "message",
+  "name": "",
+  "tf": "Hatsune continued to dodge the wolf's fangs and claws by a hair's<br>breadth.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 880,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Hah! Is that all you've got!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_009_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 921,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrrrrrrrrrrr...!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 978,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "(I keep dodging its attacks，so it's getting more and more annoyed...<br>Should be about time now.)<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_010_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1023,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrrr... Grrf!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1067,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Whoa! What are you looking at! I'm over here...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_011_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1099,
+  "cmd": "message",
+  "name": "",
+  "tf": "Hatsune tried to evade the wolf's charge，but suddenly lost her<br>balance.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1110,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Tch! Damn，I tripped on a tree root!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_012_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1171,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Grrrf!<br> ",
+  "rest": [
+   "402001000",
+   "",
+   "chara_2"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1173,
+  "cmd": "message",
+  "name": "",
+  "tf": "The wolf lunged at the off-balance Hatsune!<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1175,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "H-Hatsune! Watch out!<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1239,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "...Just kidding!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_013_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1268,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Listen，first draw that wolf's attention. While you do that，I'll set the<br>trap.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1279,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "A trap...?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_014_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1281,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Yeah. The trees around here have branches that are soft and bendy.<br>Plus，there's plenty of vines.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1283,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "With branches，vines，and whatever tools we have on hand，we should<br>be able to rig up a simple trap to catch that wolf.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1294,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "You can really do that...?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_015_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1296,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "But that wolf is pretty clever. Kotono was caught off guard because<br>it attacked from downwind.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1298,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Probably，if we try to lead it straight into a trap，it'll get suspicious<br>and it won't work.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1300,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "That's where you come in.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1311,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Me...?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_016_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1313,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Yeah. With your movements at the training ground，you should be able<br>to keep dodging the wolf's attacks. What do you think?<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1340,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "That's... Yeah，I think I can do it.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_017_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1342,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Good. Thoroughly provoke and toy with him. Then，when he's<br>hot-headed...<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1353,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "That's when we spring the trap!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_018_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1355,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "That's right. The success of this operation depends on you.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1357,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "—You're the one who will save the Young Lord.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1369,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_019_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1380,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Yeah... of course! I'll do it!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_020_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1423,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "(He got all worked up and walked right into it!)<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_021_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1449,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Now!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_022_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1497,
+  "cmd": "message",
+  "name": "",
+  "tf": "The wolf charging at Hatsune got its legs tangled in the vines and was<br>hoisted into the air—!<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1532,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Gyaow! Grr! Grr，grr...!<br> ",
+  "rest": [
+   "402001000"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1543,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "—No matter how much you howl，it's too late.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_023_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1581,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Prepare yourself!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_024_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1619,
+  "cmd": "message",
+  "name": "",
+  "tf": "Slash—!<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1621,
+  "cmd": "message",
+  "name": "狼",
+  "tf": "Gyaow...!<br> ",
+  "rest": [
+   "402001000"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1670,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Alright，plan successful! As expected，Hatsune. Well done—<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1716,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Woooooh!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_025_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1750,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Whoa! Hey，what's with the sudden hug...?<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1763,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "That's amazing，you! You took down the one that even Kotono messed<br>up against!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_026_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1765,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "I get it，I get it. Just calm down，all right?<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1776,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Ahaha! I feel like I can beat any enemy with you!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_027_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1795,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "...*gasp*! Right，the Young Lord!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_028_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1830,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Hatsune...<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1841,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Young Lord! Are you alright? We need to treat your wounds quickly...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_029_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1843,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Ah，I've already stopped the bleeding. I'm in your debt，Hatsune. And<br>you there...<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1845,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "I'm %user%.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1847,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Lord Commander...?<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1849,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "...By any chance，are you the Lord Commander of the Frontline Base?<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1851,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Something like that.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1862,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Come to think of it，they did call you that. What kind of position is<br>'Commaander'?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_030_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1864,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Hatsune，you didn't know...? He's the one entrusted with full<br>authority over the Frontline Base.<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1883,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Eh?! R-really! I think I've been acting rude without knowing it...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_031_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1885,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "I don't mind. It'd feel strange if you changed your tune now.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 1896,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "O-oh，really? Heh heh，even though you're such a big shot，you<br>helped us. You're a good guy，Commander!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_032_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1898,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Thanks to you，my life has been saved. How can I ever repay you...<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1900,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Don't worry about it. We took out a dangerous monster and kept<br>casualties to a minimum. All's well that ends well.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 1902,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "What a magnanimous person... Compared to you，I still have much to<br>learn.<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1913,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Young Lord...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_033_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1925,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "... I picked this up on the way. Here，I'm returning it to you.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_034_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1953,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "The short sword my father gave me...<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1964,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Let's return to Hourai，Young Lord.<br>The Lord is waiting for your return.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_035_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1966,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "Hatsune... Does someone like me even deserve to hold this short<br>sword?<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1977,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Of course.<br>You are the one who will become the next head of the clan...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_036_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1979,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "I met Kotono at the Frontline Base and trained with her，thinking I<br>had grown stronger. But this pathetic state... I cannot face my father.<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 1990,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Young Lord... what are you saying...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_037_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 1992,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "I apologize，Hatsune. I still cannot return to Hourai.<br>I wish to<br>remain at the Frontline Base a while longer and continue my training.<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 3
+ },
+ {
+  "line": 2003,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Young Lord...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_038_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2026,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I understand.<br>Then I，Hatsune，will accompany you to the Frontline Base as well!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_039_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2028,
+  "cmd": "message",
+  "name": "ホウライの青年",
+  "tf": "I see... I apologize，Hatsune.<br>With you here，I feel reassured.<br> ",
+  "rest": [
+   "900000001"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2039,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I will protect you from any danger!<br>First，let's return to the Frontline Base and treat your wounds.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_040_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2075,
+  "cmd": "messageTextUnder",
+  "name": "",
+  "tf": "After that，%user% and the others returned safely to the Frontline Base.",
+  "rest": [
+   "",
+   "",
+   "on"
+  ],
+  "br": 0
+ },
+ {
+  "line": 2107,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Good to hear. That young man lost a lot of blood，but I hear his life<br>isn't in danger.<br>Seems like he'll be able to move in about a week.<br> ",
+  "rest": [],
+  "br": 3
+ },
+ {
+  "line": 2115,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "That's a relief...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_041_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2149,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Commander. Thank you so much.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_042_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2161,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I couldn't have saved the Young Lord on my own...<br>I owe you a huge debt，Commander.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_043_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2163,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Don't worry about it.<br>If you weren't there，I would have lost a valuable person.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 2165,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "So don't think of it as a debt.<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 2176,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "No way!<br>A samurai repays a debt of gratitude!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_044_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2185,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I don't care if you say you don't need it，I'm definitely paying you<br>back!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_045_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2187,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Alright，alright. You're a stubborn one，aren't you?<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 2198,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "So，Commander，I'm thinking of staying at the Frontline Base with the<br>young master too，but...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_046_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2209,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Um... if it's no trouble，could I help you with your work again?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_047_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2216,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I want to repay my debt，but also，just being here makes me feel like I<br>can get even stronger!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_048_01",
+   "chara_1"
+  ],
+  "br": 2
+ },
+ {
+  "line": 2225,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "I'll definitely prove useful to you，Commander! What do you think?<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_049_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2227,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "What，you get all serious and that's all it is?<br> ",
+  "rest": [],
+  "br": 1
+ },
+ {
+  "line": 2229,
+  "cmd": "message",
+  "name": "<user>",
+  "tf": "Of course，there's no reason to refuse. Having you here is reassuring<br>for the Frontline Base.<br> ",
+  "rest": [],
+  "br": 2
+ },
+ {
+  "line": 2240,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "R-really!? Ehehe，if you say so，I guess I've got no choice.<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_050_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2251,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "When you're in trouble，I'll come help you out! So...<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_051_01",
+   "chara_1"
+  ],
+  "br": 1
+ },
+ {
+  "line": 2262,
+  "cmd": "message",
+  "name": "ハツネ",
+  "tf": "Let's keep working together from now on，Commander!<br> ",
+  "rest": [
+   "103101000G",
+   "vc_10310100003_052_01",
+   "chara_1"
+  ],
+  "br": 1
+ }
+]

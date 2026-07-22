@@ -1,0 +1,823 @@
+﻿:R18
+
+
+bg,abg18200a
+
+l2dshow,l2d_10200100012
+
+charaload,chara_1,102001000G,ラヴェリア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10200100012_001_01,1,on
+
+
+
+
+
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.3
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3.3
+
+window,on,0.15
+l2dmessage,ラヴェリア,W-what are you doing，Brother? N-no... stop it...<br> ,,vc_10200100012_001_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+message,,Pinned down，Laveria was stripped，revealing her soft，sweat-damp<br>skin. Her resistance was just talk.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,If she had truly meant it，she would have broken free and escaped<br>long ago. No doubt some part of Laveria had been hoping for this as well.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,0.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceEmotion00,on,STOP,5
+
+l2dmessage,ラヴェリア,W-what，are you misunderstanding something? I'm a noble warrior. I<br>wasn't expecting anything lewd or...<br> ,,vc_10200100012_002_01
+
+message,,Her moist eyes were anything but convincing. So I asked her if I<br>should stop.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1.3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.3
+
+l2dmessage,ラヴェリア,Th-that is...<br> ,,vc_10200100012_003_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+message,,To Laveria，who remained silent，I offered an excuse: this wasn't<br>anything lewd; it was just a match，so there was no need to be shy.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10200100012_002_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4.2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.5
+
+l2dmessage,ラヴェリア,A-a match... Right，I guess...<br> ,,vc_10200100012_004_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+message,,Laveria nodded as if convincing herself. Perhaps steeling herself for<br>what was to come，she pressed her lips together tightly.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5.3
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,5.3
+
+l2dmessage,ラヴェリア,O-okay... but... it's not like I was expecting this，alright?<br> ,,vc_10200100012_005_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceEmotion00,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,8.3
+
+l2dmessage,ラヴェリア,I-I'm not that kind of lewd woman... So... um... go ahead...<br> ,,vc_10200100012_006_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+message,,I nodded at her urging. Then I reached out for her full breasts，which<br>had been swaying with every breath.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10200100012_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+wait,0.5
+
+l2dmessage,ラヴェリア,...Ah，hyah!♡<br> ,,vc_10200100012_007_01
+
+l2dmotion,MouthEmotion02
+
+message,,Her full breasts were unbelievably soft; a light pressure sank my<br>fingers in. As I savored the dreamy feeling，she let out a soft gasp.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceEmotion01,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4.8
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.8
+
+l2dmessage,ラヴェリア,W-wait a minute! When I think about it，I'm all sweaty... I should take<br>a bath first...!<br> ,,vc_10200100012_008_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Who knew the ever-valiant Laveria would say something so maidenly?<br>Refreshing and endearing—I couldn't stop after that.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4.7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7.3
+
+l2dmessage,ラヴェリア,Wha... you're saying that actually turns you on more? Wha，that's<br>ridi... Aahn!♡<br> ,,vc_10200100012_009_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Though flustered，Laveria let out sweet moans the moment her<br>breasts were touched. She seemed even more sensitive than I expected.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion02
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,5.3
+
+l2dmessage,ラヴェリア,D-don't say such embarrassing things... Ah!♡ Aahn!♡<br> ,,vc_10200100012_010_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1.3
+
+message,,Each squeeze made Laveria's entire body twitch and tense. I wanted<br>to see more of that cute reaction，so I intensified my caresses.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,FaceEmotion01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,4.3
+
+l2dmessage,ラヴェリア,Eep! Ahh... Mmm... Ah! Aaaah...♡<br>S-such... just from my tits... *pant* Mmph!♡<br> ,,vc_10200100012_011_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.3
+
+message,,Her moans already carried a desperate edge.<br>Despite my doubts，I pressed harder with my fingers.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceEmotion02,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,ラヴェリア,No way，it can't be... no，ahh... any more than that... *pant*...<br>Ah! Ah! Aaaaaah...♡<br> ,,vc_10200100012_012_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10200100012_004_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ラヴェリア,No... Ah! Hauuuun...♡<br> ,,vc_10200100012_013_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Arching her neck，Laveria's whole body gave a small shudder.<br>To my surprise，she really did climax just from her breasts.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7.3
+
+l2dmessage,ラヴェリア,D-don't look at me like I'm some lewd woman...<br>It's because Brother's touch is too lewd... you idiot...♡<br> ,,vc_10200100012_014_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+message,,She scolded me while her body twitched，but I had no intention of<br>stopping. On the contrary，my desire for her grew even stronger，and my lower abdomen ached.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+message,,Bouncing my throbbing cock up and down，I asked if it was okay to<br>put it in.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10200100012_005_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ラヴェリア,Huh? P-put it in... you mean?<br> ,,vc_10200100012_015_01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,As I supported her meaty thighs，Laveria murmured. Perhaps due to<br>the afterglow of her climax，her consciousness seemed hazy.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,I wondered if I was pushing her too hard，so I asked if we should stop<br>here for today.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10200100012_006_01,1,on
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,2
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3.3
+
+l2dmessage,ラヴェリア,Huh? N-no，don't stop，please...<br> ,,vc_10200100012_016_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+message,,Her moist eyes trembled with longing...<br>That was Laveria's first honest desire.<br> 
+
+message,,Happy that she had finally spoken her true feelings，I steeled myself.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5.6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5.9
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5.9
+
+l2dmessage,ラヴェリア,But，um... since it's my first time... please go easy on me...<br> ,,vc_10200100012_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+message,,I nodded to Laveria，who looked up at me with a docile plea. Then，I<br>brought the tip of my already painfully hard cock to her wet entrance.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+wait,5
+
+bgvplay,bgvtag2_7,bgv_10200100012_007_01,1
+
+asyncl2dmotion,FaceEmotion01,on,STOP,8
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,MouthEmotion01,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,8.3
+
+l2dmessage,ラヴェリア,*pant*，*pant*，mmm... *pant*... Come in，please...<br>Aahn! Ah! Aaaaah!<br> ,,vc_10200100012_018_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,Perhaps because she had already come once，her insides were wet<br>and slick with her love juices. With just a gentle push，my cock slid smoothly into her.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,0.3
+
+l2dmessage,ラヴェリア,So this is a dick... Brother's thing...?<br>It's so big... *gasp*!<br> ,,vc_10200100012_019_01
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+l2dmessage,ラヴェリア,My crotch is throbbing... so hot... My insides feel like they're<br>burning... Aaaah!♡<br> ,,vc_10200100012_020_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,I feared her first time might hurt，but her sweet melting voice and<br>pussy walls already welcomed my cock.<br> 
+
+message,,It was safe to move. Her pussy squeezed my cock，urging me on，so I<br>couldn't hold back and put strength into my hips.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10200100012_008_01,1,on
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,6.5
+
+asyncl2dmotion,FaceEmotion01,on,STOP,6.5
+
+l2dmessage,ラヴェリア,Hic! Ngh! Mmph! Aah... Mmmmph! Aahn! Aah! Ah... Aaaaah!♡<br> ,,vc_10200100012_021_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,Laveria moaned without restraint，her voice full of allure. Pleased<br>that she was feeling good，I continued thrusting.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,5.3
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,5.3
+
+l2dmessage,ラヴェリア,Hya!♡ Hic! Ahn! Aaaah!♡ I can't... these lewd sounds just come out on<br>their own... Ah! Ah! Aaaah... mmm Aaah!♡<br> ,,vc_10200100012_022_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Laveria seemed embarrassed by her own high-pitched voice，but I<br>found it unbearably cute. When I told her that，she squirmed.<br> 
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,5.3
+
+l2dmessage,ラヴェリア,Don't call me cute... when you say that now... Haw! Aaaaah!♡<br> ,,vc_10200100012_023_01
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10200100012_009_01,1
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,Was her arousal building from the joy and pleasure? Before I knew it，<br>she was bouncing her whole body in sync with my movements.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotion02,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1.5
+
+l2dmessage,ラヴェリア,Yah! Mmph! Aaaah!♡ No，no... this is... my body just... on its own!♡<br> ,,vc_10200100012_024_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,0.3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.3
+
+l2dmessage,ラヴェリア,Hyew! Ahn! Ahnnn!♡ Even if I try to stop，it doesn't stop... Aaaaah!♡<br> ,,vc_10200100012_025_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Laveria said that，but it was already obvious that she was craving<br>pleasure deep within.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+message,,As expected of a warrior，despite her first time，she perfectly<br>matched my rhythm，and our bond deepened.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,The head of my cock was sucked against her cervix，drawing and<br>begging for more. My hips moved faster and faster，growing desperate.<br> 
+
+bgvstop,bgvtag2_9,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene10
+
+wait,1
+
+bgvplay,bgvtag2_10,bgv_10200100012_010_01,1,on
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+asyncl2dmotion,MouthEmotion03,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3.3
+
+l2dmessage,ラヴェリア,Aah... th-that's... too intense... Hyuuu!♡<br> ,,vc_10200100012_026_01
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.3
+
+l2dmessage,ラヴェリア,Ahn，aah，ngh，ahn，Aaaaah!♡ Your hard dick is slamming into me so<br>deep!♡<br> ,,vc_10200100012_027_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Despite the fierce thrusting，Laveria showed no resistance. But tears<br>welled in her eyes，as if scared by the new sensations and pleasure.<br> 
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen02,on,STOP,11
+
+l2dmessage,ラヴェリア,N-no... at this rate... the warrior I've always been will disappear... I'll<br>become just a woman... Aaah!♡<br> ,,vc_10200100012_028_01
+
+message,,She seemed tormented by the premonition that the warrior identity<br>she had forged would be shattered.<br> 
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,To reassure her，I told her it was okay to be that way in front of me. I<br>wanted her to be the beautiful，cute Laveria when she was with me.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4.5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,4.8
+
+l2dmessage,ラヴェリア,*pant*... Ah... Aaah... r-really...? Like this... with this weak，fragile<br>me... is it okay...?<br> ,,vc_10200100012_029_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,That's right，I told her. She could let go only before me，and remain<br>the noble Laveria everywhere else.<br> 
+
+bgvstop,bgvtag2_10,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene11,on,STOP,0.5
+
+bgvplay,bgvtag2_11,bgv_10200100012_011_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,ラヴェリア,O-Okay... in front of Brother... I'll just be... a woman... *pant* Aahn!♡<br> ,,vc_10200100012_030_01
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,0.3
+
+l2dmessage,ラヴェリア,Aaah!♡ Y-Yes...! Ruin me! Wreck my cunt with Brother's thing!♡<br> ,,vc_10200100012_031_01
+
+message,,Rejoicing that she had finally laid herself bare to me，I sped up with<br>the determination to make her nothing but a woman.<br> 
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1.3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.3
+
+l2dmessage,ラヴェリア,Hngh! Hyah! Ah，it's amazing... thudding deep inside...! Ah，ah，<br>aaaah!♡ Brother's thing is so incredible!♡<br> ,,vc_10200100012_032_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Her hole tightened at its peak，and precum gushed from the<br>stimulation.<br> 
+
+l2dmotion,FaceEmotion01
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,0.3
+
+l2dmessage,ラヴェリア,Aaah!♡ I can't... I can't... Something bigger than before is coming...<br>it's coming... Aaah!♡<br> ,,vc_10200100012_033_01
+
+bgvstop,bgvtag2_11,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene12
+
+bgvplay,bgvtag2_12,bgv_10200100012_012_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ラヴェリア,Aaaaaaah! *gasp*! Aahn!<br> ,,vc_10200100012_034_01
+
+l2dmotion,MouthEmotion02
+
+message,,Laveria came first，her entire body convulsing. But I hadn't peaked，<br>so I thrust harder into her spasming hole.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,0.3
+
+asyncl2dmotion,MouthEmotion02,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+l2dmessage,ラヴェリア,Hyauuuuuuuu! No，I can't... any more and I'll lose my mind...!<br> ,,vc_10200100012_035_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1.3
+
+l2dmessage,ラヴェリア,Aaaaah! I'm really gonna go crazy... so stop...!<br> ,,vc_10200100012_036_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,As her inner walls spasmed，a hot surge rose in my cock. Yielding to<br>the urge，I slammed my hips，crushing her cervix，and then finally—<br> 
+
+bgvstop,bgvtag2_12,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene13,on,STOP,2
+
+bgvplay,bgvtag2_13,bgv_10200100012_013_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ラヴェリア,Aah，ah! Aaah! Aaaaaah!♡<br> ,,vc_10200100012_037_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.3
+
+message,,Laveria reached her second climax，her whole body convulsing<br>violently. I emptied every last drop of cum deep inside her.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.3
+
+l2dmessage,ラヴェリア,*pant*，*pant*... Mmph! It's hot... hot deep inside!♡ Ah，ah... this is<br>so... incredible!♡<br> ,,vc_10200100012_038_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.3
+
+asyncl2dmotion,EyeOpen03,on,STOP,15
+
+l2dmessage,ラヴェリア,I can't move anymore... I have no strength... I've never been this<br>exhausted，not even in training or on the battlefield!♡<br> ,,vc_10200100012_039_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I too finished draining every last drop of cum and steadied my ragged<br>breathing.<br> 
+
+message,,Perhaps because I'd fully released my desires，my mind was oddly<br>clear. Then it suddenly came back to me that this was a match.<br> 
+
+bgvstop,bgvtag2_13,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene14
+
+bgvplay,bgvtag2_14,bgv_10200100012_014_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ラヴェリア,*sigh*，ah... huh?<br> ,,vc_10200100012_040_01
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,6.3
+
+l2dmessage,ラヴェリア,Now that you mention it... that's right... But... I-I still haven't said I<br>surrender，you know...<br> ,,vc_10200100012_041_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,She seemed absolutely unwilling to concede. Seeing her so<br>unyielding，my dormant desire surged back.<br> 
+
+message,,I couldn't back down either，so I told her we'd settle this in round<br>two—and with that，I started thrusting again.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceEmotion02
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,0.3
+
+asyncl2dmotion,Scene15_loop,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+l2dmessage,ラヴェリア,Ah... W-Wait... At least let me rest... Aaahn!♡<br> ,,vc_10200100012_042_01
+
+bgvstop,bgvtag2_14,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+

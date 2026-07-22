@@ -1,0 +1,135 @@
+﻿adultui,off
+
+bg,abg12000a
+
+charaload,chara_1,102101000G,ヒュメナ
+charamove,chara_1,Set,X,-400,0
+
+charaload,chara_2,300301000,ルディア
+charamove,chara_2,Set,X,400,0
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+
+
+
+messagetextwindow,on,0.15
+
+messageTextCenter,,<size=48>—The next day</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+asynccharashow,chara_1,0.3,CONT
+
+asynccharashow,chara_2,0.3,CONT
+
+window,on,0.15
+message,,Humena visited the Brothel alone and made a request to Ludia.<br> 
+
+charaface,chara_2,FaceSurprise
+message,ルディア,You want to work at the Brothel...? Did something happen?<br> ,,vc_10210100013_001_01
+
+asyncseplay,setag3_1,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,ヒュメナ,Yeah，actually... well...<br>I want to make the Commander feel good too.<br> ,,vc_10210100013_002_01
+
+asynccharareaction,chara_2,nod,1,STOP
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,ルディア,Is that the reason you want to work here?<br> ,,vc_10210100013_003_01
+
+asyncseplay,setag3_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceHappy
+message,ヒュメナ,Y-yeah!<br> ,,vc_10210100013_004_01
+
+asynccharareaction,chara_2,nod,1,STOP
+
+charaface,chara_2,FaceUnique03
+
+asynccharaface,chara_2,FaceSad,STOP,5
+
+charapose,chara_2,2
+message,ルディア,If that's the case，I have no reason to object.<br>But there are many other customers besides Commander...<br> ,,vc_10210100013_005_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ヒュメナ,It's okay... I've come to understand that sex is very important for<br>humans. So I want to share with others the peace I felt with Commander.<br> ,,vc_10210100013_006_01
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceFun
+message,ヒュメナ,And Commander said it was okay too...<br> ,,vc_10210100013_007_01
+
+charapose,chara_2,1
+
+asyncseplay,setag3_3,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+charaface,chara_2,EyeClose
+charaface,chara_2,FaceNormal
+message,ルディア,Fufu，so Commander is confident that Humena won't be swayed by any<br>other man.<br> ,,vc_10210100013_008_01
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,ヒュメナ,W-well，it's true...<br>I would never fall for anyone other than Commander... Ehe!♪<br> ,,vc_10210100013_009_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+charaface,chara_2,FaceFun
+message,ルディア,Oh my，how passionate.<br>Fufufu，then I look forward to working with you from now on!♪<br> ,,vc_10210100013_010_01
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+message,ヒュメナ,Yeah! Looking forward to it!♪<br> ,,vc_10210100013_011_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

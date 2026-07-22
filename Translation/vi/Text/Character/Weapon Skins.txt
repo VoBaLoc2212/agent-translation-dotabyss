@@ -1,0 +1,5 @@
+sr:"^デフォルト\(([\S\s]+)\)$"=Mặc định ($1)
+
+sr:"^武器種：([\S\s]+)$"=<size\=80%><cspace\=-0.05em>Loại: $1
+
+探索中のSDキャラが持つ<color\=#a8a8db>「武器の見た目」</color>は<br>パーティ編成で装備している武器になります=<color\=#a8a8db>Diện mạo vũ khí</color> của nhân vật SD khi thám hiểm sẽ khớp với vũ khí đang trang bị trong đội hình.

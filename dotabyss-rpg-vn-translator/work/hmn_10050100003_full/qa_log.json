@@ -1,0 +1,26 @@
+{
+  "scene": "hmn_10050100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP is primary source; EN asset used for exact ordered field replacement.",
+    "All Dot Abyss characters in this project confirmed 18+ by user; no H18 blocker encountered in this file.",
+    "Names in technical speaker/charaload fields were preserved; in prose Electra/Alicia kept per EN mapping.",
+    "Commander/司令官 translated as Chỉ Huy; ご主人様 translated as chủ nhân for Electra master-servant voice.",
+    "ASCII comma inside Vietnamese text fields forbidden; Vietnamese internal commas use U+201A if needed."
+  ],
+  "kept_en_records": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 114,
+  "translated_records": 114,
+  "changed_lines": 114,
+  "repaired_br_tag_lines": [],
+  "source_sha256": "2806dec8caa0505965030272843c1bcd92626a9d7303487bc5116beed5945fb3",
+  "output_sha256": "4de4dc557dfe2998b92e378597e30a11733b0e32b9a2c8df73782ec3faa2a33a",
+  "updated_at": "2026-07-19T09:39:32.959199+00:00",
+  "source_line_count": 2582,
+  "output_line_count": 2582
+}

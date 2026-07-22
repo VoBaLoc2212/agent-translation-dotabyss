@@ -1,0 +1,33 @@
+{
+  "file": "hmn_10010100002.txt",
+  "qa_status": "PASS",
+  "generated_at": "2026-07-19T09:13:23.752952+00:00",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP used as primary source; EN asset used only for ordered alignment.",
+    "All characters confirmed 18+ by project context; this file contains no explicit H18 content."
+  ],
+  "counts": {
+    "candidate_records": 92,
+    "translated_records": 92,
+    "title": 1,
+    "message": 91,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "kept_en_records": 0
+  },
+  "independent_verify": "PASS",
+  "repaired_tag_mismatch_lines": [],
+  "kept_text_lines": [],
+  "translatable_records": 92,
+  "translated_records": 92,
+  "changed_lines": 92,
+  "source_sha256": "21b05b18aaa1f3055c99106919fa0575c2af34e591a6c2fed85b3ccfd96047c4",
+  "output_sha256": "ffd5e5c1884a8022d91860759ee0d04eefe6f832b942c5dde90355ea3fe5f24f",
+  "updated_at": "2026-07-19T09:13:36.446433+00:00",
+  "independent_issues": [],
+  "scene": "hmn_10010100002",
+  "source_line_count": 1973,
+  "output_line_count": 1973
+}

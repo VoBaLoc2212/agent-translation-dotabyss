@@ -1,0 +1,718 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10610100022
+
+charaload,chara_1,106101000X,ニナ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+bgvplay,bgvtag2_1,bgv_10610100022_001_01,1,on
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,10.1
+
+
+
+window,on,0.15
+l2dmessage,ニナ,*pant*... mmm... Already so hot and throbbing... Fufu... Master，you<br>have a truly magnificent manhood...<br> ,,vc_10610100022_001_01
+
+
+
+
+message,,Before the man's turgid manhood，its veins bulging and pulsing，Nina<br>let out a hot breath.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,The man himself seemed surprised that his manhood had already<br>grown so hard.<br> 
+
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.8
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,8.9
+
+
+
+l2dmessage,ニナ,Actually，I added a trace of aphrodisiac to that herb tea... I wanted<br>to ensure your full satisfaction，Master... Mmph... *sigh*...<br> ,,vc_10610100022_002_01
+
+
+
+
+message,,Just from Nina's hot breath，the man's manhood quivered.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,9.8
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+
+l2dmessage,ニナ,Serving another is the supreme joy of a maid... Tonight，allow me to<br>devote myself to you，Master!♡<br> ,,vc_10610100022_003_01
+
+l2dmotion,EyeOpen02
+
+
+
+message,,Nina said this with a gentle expression on her face.<br> 
+
+
+
+
+message,,The man's breath tickled her core，and Nina's body twitched. He<br>seemed highly aroused at the sight of her womanhood laid bare before him.<br> 
+
+
+
+
+message,,Breathing heavily，he asked Nina if he could lick her.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.8
+
+
+
+l2dmessage,ニナ,Yes... If you wish，Master，please do as you like...<br> ,,vc_10610100022_004_01
+
+
+
+
+message,,When Nina answered，the man nodded and extended his tongue to her<br>womanhood.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10610100022_002_01,1,on
+
+wait,0.6
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+
+l2dmessage,ニナ,*gasp*... Mmph!... *whimper*... *kiss*... Mmph!... *pant*... *whimper*!<br> ,,vc_10610100022_005_01
+
+
+
+
+message,,Nina just began her oral service，but his tongue's slithering quickly<br>overwhelmed her and she couldn't continue.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.7
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6.3
+
+l2dmessage,ニナ,Ah... *pant*... S-Sir... mmm... you're so skilled... it feels wonderful...<br> ,,vc_10610100022_006_01
+
+
+
+
+message,,The man buried his face between her thighs，tongue roaming and<br>lapping her overflowing juices，his excited breath tickling her.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.3
+
+
+l2dmessage,ニナ,*gasp*... *whimper*... *huff*... *pant*... Aah!... Ah，Aah!... *whimper*...<br>Aaah!... Mmph!... *pant*!<br> ,,vc_10610100022_007_01
+
+
+
+
+message,,With his tongue working like a wild beast savoring its prey，Nina<br>found herself completely unable to lick his manhood.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.8
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.6
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.6
+
+
+l2dmessage,ニナ,*pant*... Aah!... *whimper*!... Ah，Aah!... S-Sir... any more... I'll...<br>*whimper*...!<br> ,,vc_10610100022_008_01
+
+
+
+
+message,,The man，as if to finish her off，drew back the hood of Nina's<br>sensitive bud and pressed his lips to the small nub，sucking it.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.8
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1.8
+
+l2dmessage,ニナ,Hyaaaah! No... that... nooo...!<br> ,,vc_10610100022_009_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10610100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+
+l2dmessage,ニナ,Hiee! Ah... mmm... Aaaah!♡♡<br> ,,vc_10610100022_010_01
+
+
+
+
+message,,Nina reached a gentle climax from the man's tongue caress.<br>Her lower body quivered and her hips rose involuntarily.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6.1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.2
+
+asyncl2dmotion,FaceAngleRight,on,STOP,7.2
+
+
+l2dmessage,ニナ,*pant*... *pant*... Ngh... I... I am so terribly sorry...<br> ,,vc_10610100022_011_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+
+
+
+l2dmessage,ニナ,I... I of all people... leaving the Master aside...<br>to come first like this... Mmph!<br> ,,vc_10610100022_012_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4.6
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.8
+
+l2dmessage,ニナ,As a maid... I am unworthy... I offer my deepest apologies，once<br>again...<br> ,,vc_10610100022_013_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,Seeing Nina reach her climax，the man regained his composure and<br>apologized to her，saying it was his fault for getting so carried away.<br> 
+
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.6
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8.1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.2
+
+l2dmessage,ニナ,No... I was the one who said you could do as you wished... Master need<br>not apologize...<br> ,,vc_10610100022_014_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.9
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7.1
+
+l2dmessage,ニナ,Rather，I would like to serve you anew... if you would permit me...?<br> ,,vc_10610100022_015_01
+
+
+
+
+message,,The man replied，'Of course.' His manhood was hotter and harder<br>than before，standing erect before Nina.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.7
+
+
+l2dmessage,ニナ,Th-then... if you'll allow me... *pant*...<br> ,,vc_10610100022_016_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10610100022_004_01,1,on
+
+
+
+
+l2dmessage,ニナ,Mmph... *kiss*... *lick*... Mmph... *kiss*... *slurp*... Mmph... *sigh*...<br>*kiss*... Mmph... *sigh*<br> ,,vc_10610100022_017_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.8
+
+
+
+l2dmessage,ニナ,*pant*... Master，please tell me where you feel it most... *kiss*...<br>*kiss*... W-Where does it feel the best...?<br> ,,vc_10610100022_018_01
+
+
+
+
+message,,While asking，Nina traced her tongue over the tip of his manhood，<br>gently grasping and slowly stroking it.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotion03,on,STOP,12.4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,12.5
+
+l2dmessage,ニナ,*lick*，*lick*，*slurp*，*kiss*，*kiss*，Mmph... *sigh*... Is it this tip...?<br> ,,vc_10610100022_019_01
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,10
+
+asyncl2dmotion,EyeOpenReset,on,STOP,15.5
+
+
+
+
+l2dmessage,ニナ,Or perhaps... *kiss*，*kiss*，*lick*，*slurp*，*kiss*，Mmph! Does Master<br>prefer this，the crown...?<br> ,,vc_10610100022_020_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.7
+
+
+message,,Nina kissed the swollen crown and slowly traced her tongue around it.<br> 
+
+
+
+
+message,,The man's hips and voice trembled with pleasure as he told Nina that<br>the spot she was licking was the most sensitive.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,10.3
+
+
+l2dmessage,ニナ,Mmph... so the tip is more sensitive... I understand... then... I'll<br>concentrate on this area...<br> ,,vc_10610100022_021_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotionReset
+
+
+l2dmessage,ニナ,*kiss*，*kiss*，Mmph... *sigh*... Mmph! *kiss*，*slurp*，*kiss*... Mmph...<br>*sigh*... *kiss*<br> ,,vc_10610100022_022_01
+
+l2dmotion,EyeOpenReset
+
+
+
+message,,Nina skillfully worked her warm tongue，gently licking from the tip of<br>his manhood to the crown.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen03,on,STOP,6.5
+
+message,ニナ,(Fufu... it's twitching so happily... Somehow，it's cute and<br>endearing...)<br> ,,vc_10610100022_023_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotionReset
+
+
+l2dmessage,ニナ,*schlick*，*smooch*，*slurp*... Mmph... *smooch*，*slurp*，*kiss*...<br>*smooch*... Mmph... *pant*...<br> ,,vc_10610100022_024_01
+
+l2dmotion,EyeOpenReset
+
+
+
+message,,Nina's heart of service and her maternal instinct filled her chest with<br>tender emotions.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+
+message,ニナ,(I wish to heal Master's heart even more...)<br> ,,vc_10610100022_025_01
+
+
+
+
+message,,Perhaps Nina's feelings had reached him，as the man excitedly asked<br>if he could lick her womanhood once more.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.8
+
+asyncl2dmotion,MouthEmotion03,on,STOP,6.7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6.8
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,9.9
+
+
+l2dmessage,ニナ,*smooch*，*kiss*... mmm，*moan*... Yes，of course，Master... *kiss*...<br>So you'll pleasure me again as well...<br> ,,vc_10610100022_026_01
+
+l2dmotion,EyeEmotionRight
+
+
+
+l2dmessage,ニナ,Then... let us both find pleasure together.♡<br> ,,vc_10610100022_027_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10610100022_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+l2dmessage,ニナ,*pant*... *pant*... Mmph... Ahm...<br> ,,vc_10610100022_028_01
+
+
+
+
+message,,Taking his manhood into her mouth from the tip，Nina slowly began to<br>move her head up and down.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion01
+
+
+l2dmessage,ニナ,Mmph!... Ngh!... Mmph!... *slurp*... Mmph!... *schlurp*... *gulp*...<br>Mmph!... *kiss*... mmm... Ngh!... *whine*...<br> ,,vc_10610100022_029_01
+
+l2dmotion,EyeOpenReset
+
+
+
+message,,Wrapped in Nina's hot mouth，his manhood grew even more engorged，<br>precum oozing from the tip.<br> 
+
+
+
+
+message,,Pleased by his reaction，she sucked his manhood with shallow，<br>leisurely strokes，gentle and thorough.<br> 
+
+l2dmotion,EyeOpen01
+
+
+
+l2dmessage,ニナ,Ngh，Mmph，mmm，*kiss*，*smooch*，mmm，*huff*，*pop*，*kiss*，<br>Mmph，*huff*，Mmph，*slurp*.<br> ,,vc_10610100022_030_01
+
+
+
+
+message,,Though his caresses threatened to break her concentration，Nina<br>carefully licked and sucked his manhood.<br> 
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.3
+
+
+message,ニナ,(Please，if only for this moment... may Master be freed from his<br>painful past memories...)<br> ,,vc_10610100022_031_01
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+
+l2dmessage,ニナ,Mmph，*kiss*，*smooch*，mmm，*huff*，Mmph，*huff*，Mmph，Mmph，<br>*kiss*，*smooch*，mmm，*huff*!<br> ,,vc_10610100022_032_01
+
+
+
+
+message,,Spurred by his tongue and the wet squelching sounds，Nina's core<br>overflowed with juices，and she shuddered her hips in pleasure.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,ニナ,*huff*，Mmph!，Mmph，*pop*，Mmph，*grunt*，Ngh，*smooch*，*kiss*，<br>*slurp*，*smooch*，*slurp*.<br> ,,vc_10610100022_033_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+message,ニナ,(I want to please Master even more... Let me heal his emotional<br>wounds—)<br> ,,vc_10610100022_034_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10610100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+
+
+l2dmessage,ニナ,Ngh，*huff*，Mmph，*slurp*，Mmph，Ngh，*huff*，*pop*，*smooch*，<br>Mmph!<br> ,,vc_10610100022_035_01
+
+
+
+
+message,,Her feelings for the man overflowed，driving her strokes deep，<br>rapid，and short.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion01
+
+
+l2dmessage,ニナ,Mmph，Ngh，*schlick*，*smooch*，*slurp*，Mmk... *smooch*，<br>*schlurp*... *huff* Mmph... Ngh...!<br> ,,vc_10610100022_036_01
+
+
+
+
+message,,She took his manhood to the base，the tip hitting her tongue and<br>throat，making her gag. She endured and kept sucking.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+
+l2dmessage,ニナ,*pant*，*pant*... Ngh，Mmph，gmm，*slurp*，*slurp*，*slurp*...<br>*schlurp*... Mmph...!<br> ,,vc_10610100022_037_01
+
+
+
+
+message,,At her fierce service，his manhood swelled taut. Precum overflowed，<br>mingling with her saliva and pooling in her mouth.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.3
+
+
+l2dmessage,ニナ,Ngh... *lick*... *schlurp*... Ngh... *gulp*... Mmph...<br> ,,vc_10610100022_038_01
+
+
+
+
+message,,Nina swallowed several times，then continued her service.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,6.5
+
+
+message,ニナ,(It's twitching in my mouth... He's feeling pleasure... He's enjoying it...<br>I'm so happy...)<br> ,,vc_10610100022_039_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion01
+
+
+l2dmessage,ニナ,*pant*，Mmph... Ngh，*smooch*，*slurp*，*smooch*，*pant* *Guh*...<br>*schlurp*... Nggh... Uhn...<br> ,,vc_10610100022_040_01
+
+
+
+
+message,,The man's manhood trembled inside Nina's mouth as his limit<br>approached. 'I'm about to cum，' he whispered softly.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10610100022_007_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+l2dmessage,ニナ,Mmph!... *huff*，Mmph... Ngh... Ngh... *Guh!*... *gulp，gulp*... Mmph...<br>*pop*，*pant*...<br> ,,vc_10610100022_041_01
+
+l2dmotion,EyeOpen01
+
+
+
+message,,The man's seed burst forth，forcefully filling Nina's mouth. She<br>accepted it，swallowed a few times，and slowly pulled away.<br> 
+
+
+
+
+message,,A silver thread of saliva and his seed hung from Nina's lips，<br>glistening in the moonlight.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2.4
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.6
+
+
+
+l2dmessage,ニナ,*pant*... *pant*... *gulp*... *puff*... I'm terribly sorry... I couldn't<br>swallow it all... I let a little spill.<br> ,,vc_10610100022_042_01
+
+
+
+
+message,,The seed that she couldn't swallow trickled down his manhood，<br>dripping onto the bed. But the man showed no sign of concern.<br> 
+
+
+
+
+message,,The man himself seemed entirely consumed by the pleasure of his<br>climax，unable to think of anything. Catching her breath，Nina asked him.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.8
+
+l2dmessage,ニナ,Um... was it pleasurable...?<br> ,,vc_10610100022_043_01
+
+
+
+
+message,,The man nodded weakly and，in a thin voice，barely managed an<br>affirmative reply.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,2.7
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2.7
+
+l2dmessage,ニナ,Is that so... That's a relief... Fufu...<br> ,,vc_10610100022_044_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.2
+
+l2dmessage,ニナ,If I could provide even a moment of healing for you，Master... I am<br>honored...<br> ,,vc_10610100022_045_01
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

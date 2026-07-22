@@ -1,0 +1,33 @@
+{
+  "scene": "hmn_10450100002",
+  "qa_status": "PASS",
+  "notes": [
+    "Initial QA log - verifier will update with independent_verify results"
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 82,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 85,
+  "translated_records": 85,
+  "changed_lines": 85,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1303,
+    "vi": 1303,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "7ac445f3c9e27b145b01bc59935cb864c8c0360d3e3608f09bc8d256ff8e7147",
+  "output_sha256": "0ab920542fedb6e7c0316925d216c4902a155da1307ea4592934782ebda503e9"
+}

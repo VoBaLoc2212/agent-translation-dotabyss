@@ -1,0 +1,87 @@
+{
+  "scene": "hmn_10290100002",
+  "status": "PASS",
+  "source_condition": "EN-asset-is-English (en.json holds English values; EN asset text fields are English; title field still JP)",
+  "sources": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10290100002/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10290100002/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10290100002.txt",
+    "vi_asset": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10290100002.txt"
+  },
+  "scene_summary": "Myrtille (ミルティーユ) bakes late at night for the Sweets Contest; the Commander finds her, then a bear cub appears and taste-tests her tarts to help her choose which to enter. Cute/wholesome, not H-18.",
+  "character_conventions": {
+    "Commander": "Chỉ Huy",
+    "ミルティーユ (field-1 speaker label)": "kept JP byte-identical",
+    "子熊 (field-1 speaker label)": "kept JP byte-identical",
+    "？？？ (field-1 speaker label)": "kept JP byte-identical",
+    "Myrtille in dialogue": "Myrtille (romanized)",
+    "Mil self-reference": "Mil (kept as proper name)",
+    "Mr. Bear in dialogue": "anh Gấu",
+    "bear cub SFX がう/がうー/がうがう": "Gâu/Gâuu/Gâu gâu",
+    "Sweets Kingdom": "Vương Quốc Bánh Ngọt",
+    "base": "căn cứ",
+    "Sweets Contest": "Cuộc Thi Bánh Ngọt",
+    "tart": "bánh tart"
+  },
+  "title": {
+    "jp": "お菓子の国のパティシエとして",
+    "en_meaning": "As a Patissier of the Sweets Kingdom",
+    "vi": "Với Tư Cách Là Thợ Làm Bánh Của Vương Quốc Bánh Ngọt",
+    "note": "Title Case Vietnamese per skill rule 14; JP title translated via EN meaning."
+  },
+  "messageTextCenter": {
+    "en": "<size=48>—A few days later.</size>",
+    "vi": "<size=48>—Vài Ngày Sau.</size>",
+    "note": "size tag preserved; Title Case Vietnamese."
+  },
+  "counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "total_text_records": 81
+  },
+  "encoding": {
+    "bom": true,
+    "newline": "CRLF",
+    "ascii_comma_in_vi_text": 0,
+    "comma_style": "U+201A (‚) used inside Vietnamese text fields; fullwidth '，' from EN asset NOT carried into VI (replaced by ‚)"
+  },
+  "h18": "none — scene is wholesome baking content; adult-content rule not triggered",
+  "notes": [
+    "EN asset uses fullwidth '，' inside English text; VI replaces with '‚' (U+201A) per skill rule 6.",
+    "All speaker/charaload/voice/ID fields preserved byte-identical (verifier TECH_FIELD_CHANGED = 0).",
+    "<br> count mirrored exactly from EN asset on every text line (preflight guard, 0 mismatches)."
+  ],
+  "output_sha256": "3bc1a408cb176f78f64e87fbdfde72a59a999be1062762c8e078f2032042e76b",
+  "source_sha256": "1f7f8839f3e2ddfdc539215f62ffde14e5a0b84b8c2a4bc44893a637f2700d3c",
+  "independent_verify": {
+    "scene": "hmn_10290100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 79,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 81,
+    "translated_records": 81,
+    "changed_lines": 81,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 960,
+      "vi": 960,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "1f7f8839f3e2ddfdc539215f62ffde14e5a0b84b8c2a4bc44893a637f2700d3c",
+    "output_sha256": "3bc1a408cb176f78f64e87fbdfde72a59a999be1062762c8e078f2032042e76b"
+  }
+}

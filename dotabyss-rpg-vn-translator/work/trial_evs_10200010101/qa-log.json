@@ -1,0 +1,11 @@
+{
+  "structural_qa": "PASS",
+  "issues": [],
+  "checks": {
+    "line_count_equal": true,
+    "changed_message_lines": 20,
+    "all_changes_in_message_text_field_only": true,
+    "ascii_comma_absent_in_translated_text_fields": true
+  },
+  "note": "Linguistic QA: trial draft only; needs user approval before batch translation."
+}

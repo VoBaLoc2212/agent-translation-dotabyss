@@ -1,0 +1,981 @@
+{
+  "scene": "hmn_10130100003",
+  "status": "PASS",
+  "timestamp": "2026-07-19T10:20:40.745663+00:00",
+  "source": {
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100003.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100003\\en.json",
+    "sha256_en_asset": "7f72796feba0252afe7e6e7d9efd0dea5a940e8412fb6f95ffa6b477e034ecd7",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1281
+  },
+  "output": {
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100003.txt",
+    "sha256_vi_asset": "ec72fce575aefd109b40ec34b247eca52402b3e51d225f8a13f7c1eeb2ee4da7",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1281
+  },
+  "text_record_counts": {
+    "title": 1,
+    "message": 96,
+    "messageTextUnder": 3,
+    "messageTextCenter": 1
+  },
+  "total_text_records": 101,
+  "translated_records": 101,
+  "h18_policy": "User context confirms all characters 18+; adult/H18-adjacent content translated faithfully without softening or intensifying.",
+  "addressing": {
+    "Commander": "Chỉ Huy",
+    "Frederica_to_Commander": "mình/anh or Chỉ Huy by source tone",
+    "Commander_to_Frederica": "anh/em",
+    "Adelheid": "formal tôi/ngài/Chỉ Huy"
+  },
+  "structural_qa": {
+    "line_count_match": true,
+    "delimiter_count_match": true,
+    "non_text_unchanged": true,
+    "bom_preserved": true,
+    "newline_preserved": true
+  },
+  "issues": [],
+  "records": [
+    {
+      "index": 0,
+      "line": 20,
+      "type": "title",
+      "speaker": null,
+      "source_text": "Title",
+      "vi_text": "Tiêu Đề",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 1,
+      "line": 41,
+      "type": "message",
+      "speaker": "",
+      "source_text": "—On the way home from the Master's house.<br> ",
+      "vi_text": "—Trên Đường Về Từ Nhà Của Sư Phụ.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 2,
+      "line": 50,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "So it's something I was born with... Hmm，what should I do now...<br> ",
+      "vi_text": "Ra là bẩm sinh à... Ừm‚ từ giờ mình nên làm gì đây...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 3,
+      "line": 52,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "About that... how about we go meet your parents?<br> ",
+      "vi_text": "Về chuyện đó... hay là ta thử gặp cha mẹ em xem?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 4,
+      "line": 63,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Wha—!<br> ",
+      "vi_text": "Uểểể!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 5,
+      "line": 74,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "W-What's gotten into you，Commander? That's pretty forward of<br>you...<br> ",
+      "vi_text": "C-Chỉ Huy sao thế... tự nhiên anh chủ động<br>ghê nhỉ~.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 6,
+      "line": 76,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I think you're misunderstanding... I meant we should ask them about<br>why you keep making those lewd things.<br> ",
+      "vi_text": "Hình như em đang hiểu lầm thì phải... Ý anh là để hỏi nguyên nhân<br>vì sao em cứ tạo ra mấy thứ khiêu dâm ấy.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 7,
+      "line": 88,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Ugh. S-so that's what you meant... Hmm... hmm...<br> ",
+      "vi_text": "Ự. R-ra là ý đó à~. Ừm... ừm...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 8,
+      "line": 99,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...That's a bit... no，probably absolutely impossible.<br> ",
+      "vi_text": "...Chuyện đó hơi... không‚ có khi tuyệt đối không được đâu.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 9,
+      "line": 101,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Why not? You're so close with your parents that you call them Papa<br>and Mama，aren't you?<br> ",
+      "vi_text": "Sao lại thế? Em thân với cha mẹ đến mức gọi họ là papa<br>và mama còn gì?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 10,
+      "line": 112,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "D-Don't bring up what I call them!<br> ",
+      "vi_text": "Đ-Đừng có lôi cách gọi ra nói chứーーー!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 11,
+      "line": 119,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...But honestly，I do love Papa and Ma... ahem! I love and respect my<br>father and mother.<br> ",
+      "vi_text": "...Nhưng thật ra thì mình rất yêu papa và ma... khụ! Mình yêu quý<br>và kính trọng cha mẹ lắm.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 12,
+      "line": 128,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "But... they're both teachers at the magic school. And they're really<br>serious people...<br> ",
+      "vi_text": "Nhưng... cả hai đều là giáo viên ở trường ma pháp.<br>Tính cách cũng cực kỳ nghiêm túc nữa...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 13,
+      "line": 139,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "And yet... there's no way I can bring up such a weird problem to<br>them...!<br> ",
+      "vi_text": "Thế thì... làm sao mình có thể hỏi họ<br>một chuyện kỳ quặc như vậy chứ...!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 14,
+      "line": 141,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I see，so that's how it is...<br> ",
+      "vi_text": "Ra vậy... hóa ra là thế...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 15,
+      "line": 156,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "(If we can't confirm with her parents，the next step we can take is—)<br> ",
+      "vi_text": "(Nếu không thể xác nhận với cha mẹ em ấy thì nước đi tiếp theo là—)<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 16,
+      "line": 209,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "—I see. So that is why you came to consult me.<br> ",
+      "vi_text": "—Ra vậy. Vì thế ngài đến hỏi ý kiến tôi... đúng không ạ.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 17,
+      "line": 211,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Yeah. I thought you could use your science to figure out the cause.<br> ",
+      "vi_text": "Ừ. Anh nghĩ nếu là em thì có thể dùng sức mạnh khoa học để làm rõ nguyên nhân.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 18,
+      "line": 220,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "I'm sorry for the trouble... but I want to at least figure out the cause<br>somehow!<br> ",
+      "vi_text": "Xin lỗi vì đã làm phiền... nhưng ít nhất mình cũng muốn<br>biết được nguyên nhân bằng cách nào đó...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 19,
+      "line": 225,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Understood. Then first...<br> ",
+      "vi_text": "Tôi đã rõ. Vậy trước tiên...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 20,
+      "line": 236,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Let us start by collecting a sample of your bodily fluids，Frederica.<br> ",
+      "vi_text": "Hãy bắt đầu bằng việc lấy mẫu dịch cơ thể của cô Frederica.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 21,
+      "line": 248,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...Huh?<br> ",
+      "vi_text": "...Hả?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 22,
+      "line": 259,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "B-b-body fluids!? Why!? Why the hell!?<br> ",
+      "vi_text": "D-d-dịch cơ thể!? Tại sao!? Vì sao chứ!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 23,
+      "line": 266,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Science thoroughly analyzes the structure of its subject. It's a similar<br>yet different approach from magic.<br> ",
+      "vi_text": "Khoa học phân tích triệt để cấu trúc của đối tượng.<br>Đó là cách tiếp cận giống mà khác với ma pháp.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 24,
+      "line": 271,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "In order to analyze the composition of your body，I need to collect a<br>sample of your bodily fluids.<br> ",
+      "vi_text": "Để phân tích thành phần cấu tạo cơ thể cô Frederica‚ tôi cần lấy<br>mẫu dịch cơ thể của cô.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 25,
+      "line": 282,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "I-I understand the reasoning，but... but still...!<br> ",
+      "vi_text": "L-lý do thì mình hiểu rồi... nhưng... nhưng mà...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 26,
+      "line": 284,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "What's wrong，Frederica? It's not something to hesitate over，is it?<br> ",
+      "vi_text": "Sao vậy Frederica? Đâu phải chuyện cần do dự đến thế chứ?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 27,
+      "line": 295,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Even you，Commander!? Ugh... what's with you two...!<br> ",
+      "vi_text": "Cả Chỉ Huy cũng vậy sao!? Ưư~... hai người bị sao thế...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 28,
+      "line": 318,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Now，if you would please deposit your bodily fluids into this petri<br>dish...<br> ",
+      "vi_text": "Nào‚ xin hãy cho dịch cơ thể của cô vào chiếc đĩa petri<br>này...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 29,
+      "line": 329,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "R-right here!? You're saying you'll collect them right here!?<br> ",
+      "vi_text": "N-ngay tại đây!? Cô định lấy mẫu ngay tại đây sao!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 30,
+      "line": 338,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "It's better to proceed with the analysis quickly，isn't it?<br> ",
+      "vi_text": "Phân tích nên được tiến hành càng sớm càng tốt mà‚ đúng không?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 31,
+      "line": 349,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "That's certainly true... it is，but...! Ughhh...!<br> ",
+      "vi_text": "Đúng là vậy... đúng là vậy thật...! Ưưư~...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 32,
+      "line": 397,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "I-I can't do something so lewd!<br> ",
+      "vi_text": "L-làm sao mình làm chuyện khiêu dâm như thế được chứ~~~!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 33,
+      "line": 450,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...Huh?<br> ",
+      "vi_text": "...Hửm?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 34,
+      "line": 461,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "...I was trying to collect saliva. Is that really so obscene?<br> ",
+      "vi_text": "...Tôi định lấy mẫu nước bọt mà...? Chuyện đó khiếm nhã đến thế sao?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 35,
+      "line": 473,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Eh?<br> ",
+      "vi_text": "Hả?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 36,
+      "line": 484,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...Y-yeah，that's right! I knew that! It's saliva，right，saliva!<br> ",
+      "vi_text": "...Đ-đúng vậy! Mình biết mà! Nước bọt chứ gì‚ nước bọt!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 37,
+      "line": 486,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm. So you think saliva is lewd，is that it?<br> ",
+      "vi_text": "Hừm. Vậy có thể hiểu là em xem nước bọt như thứ dâm đãng à?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 38,
+      "line": 497,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Nooo!<br> ",
+      "vi_text": "Không phảiーーー!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 39,
+      "line": 508,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Then what does that mean... Ah. I see. So it's not saliva，but love<br>ju—?<br> ",
+      "vi_text": "Vậy thì là sao nhỉ... À. Ra vậy‚ cô Frederica không nghĩ tới<br>nước bọt mà là tinh d—?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 40,
+      "line": 538,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Shh! Shh! Don't say another word! Please!<br> ",
+      "vi_text": "Suỵt! Suỵt!! Đừng nói thêm nữa! Xin cô đấy!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 41,
+      "line": 569,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Now，to start anew，Frederica. Please slowly stick out your tongue<br>fully，narrow your eyes，and let your saliva drip thick and sticky.<br> ",
+      "vi_text": "Vậy chúng ta lấy lại tinh thần nào... Nào cô Frederica.<br>Hãy thè lưỡi ra‚ lim dim mắt và để nước bọt chảy xuống thật nhớp nháp.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 42,
+      "line": 580,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "What kind of demand is that! There's no need to go that far!<br> ",
+      "vi_text": "Yêu cầu kiểu gì thế!? Đâu cần phải làm đến mức đó chứ!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 43,
+      "line": 591,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Indeed，I just wanted to see what expression you make when you<br>proceed with the act.<br> ",
+      "vi_text": "Đúng vậy‚ tôi chỉ muốn xem khi cô Frederica tiến hành hành vi đó<br>thì sẽ có vẻ mặt như thế nào thôi.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 44,
+      "line": 602,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Don't say something so outrageous so casually!<br> ",
+      "vi_text": "Đừng tỉnh bơ nói chuyện động trời như thế!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 45,
+      "line": 613,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "W-Wait，Commander! Don't look at me with such lewd eyes!<br> ",
+      "vi_text": "...Khoan‚ C-Chỉ Huy! Đừng nhìn em bằng ánh mắt dâm đãng như thế!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 46,
+      "line": 615,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Don't lump me in with your teacher...<br> ",
+      "vi_text": "Đừng đánh đồng anh với sư phụ của em...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 47,
+      "line": 646,
+      "type": "messageTextCenter",
+      "speaker": "",
+      "source_text": "<size=48>—A few days later—</size>",
+      "vi_text": "<size=48>—Vài Ngày Sau—</size>",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 48,
+      "line": 695,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Excuse me... Oh? Where is Frederica?<br> ",
+      "vi_text": "Xin phép... Ồ? Cô Frederica đâu rồi ạ?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 49,
+      "line": 697,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I came alone. I wanted to hear the analysis results first.<br> ",
+      "vi_text": "Anh đến một mình. Anh muốn nghe kết quả phân tích trước.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 50,
+      "line": 710,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "I see. Indeed，depending on the results，it might be better not to tell<br>her directly. Excellent judgment.<br> ",
+      "vi_text": "...Ra vậy. Quả thật tùy kết quả mà có khi không nên nói thẳng<br>với cô ấy. Một phán đoán rất tuyệt vời.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 51,
+      "line": 715,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "First，I'll give you the conclusion... Frederica is likely descended from<br>a high-level succubus.<br> ",
+      "vi_text": "Vậy trước hết‚ xin nói thẳng kết luận... Cô Frederica có lẽ mang<br>dòng máu nữ quỷ mộng ma thượng cấp.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 52,
+      "line": 717,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Succubus... and even high-level?<br> ",
+      "vi_text": "Nữ quỷ mộng ma... lại còn thượng cấp sao?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 53,
+      "line": 725,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Many succubi bear children with humans and gradually dilute their<br>blood.<br> ",
+      "vi_text": "Nhiều nữ quỷ mộng ma sinh con với con người và dòng máu của họ<br>dần trở nên loãng đi.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 54,
+      "line": 736,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "However，Frederica's blood contains succubus genetic factors so<br>strong that they haven't been diluted even after generations.<br> ",
+      "vi_text": "Tuy nhiên‚ trong máu cô Frederica có những nhân tố di truyền<br>của nữ quỷ mộng ma mạnh đến mức qua nhiều đời vẫn không hề phai nhạt.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 55,
+      "line": 747,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Earlier I only said high-level，but at this concentration... she might be<br>a descendant of a legendary succubus.<br> ",
+      "vi_text": "Ban nãy tôi chỉ nói là thượng cấp‚ nhưng với nồng độ này... có lẽ cô ấy<br>là hậu duệ của nữ quỷ mộng ma trong truyền thuyết.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 56,
+      "line": 749,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "So a succubus was involved in Frederica's lineage... Thank you，<br>Adelheid. The mystery has finally been solved.<br> ",
+      "vi_text": "Không ngờ gia tộc Frederica lại có liên hệ với nữ quỷ mộng ma...<br>Cảm ơn em‚ Adelheid. Cuối cùng bí ẩn cũng được giải đáp.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 57,
+      "line": 759,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Shall I tell Frederica about this?<br> ",
+      "vi_text": "Ngài có muốn tôi nói chuyện này với cô Frederica không?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 58,
+      "line": 761,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "No... it'll be more interesting if we don't tell her.<br> ",
+      "vi_text": "Không... vì thú vị nên cứ đừng cho em ấy biết.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 59,
+      "line": 772,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Fufu... You've come up with quite a mischievous prank.<br> ",
+      "vi_text": "Fufu... ngài vừa nghĩ ra một trò đùa tinh quái ghê gớm đấy.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 60,
+      "line": 774,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "But if we say we found nothing，it'll hurt Lux Nova's credibility. So<br>afterwards，I'll...<br> ",
+      "vi_text": "Nhưng nếu bảo là không tìm ra gì thì uy tín của Lux Nova<br>sẽ giảm mất. Vậy nên sau đó anh sẽ—<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 61,
+      "line": 831,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "So，what were the results?<br> ",
+      "vi_text": "Kết quả... thế nào rồi?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 62,
+      "line": 842,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "To put it bluntly，Frederica.<br>You are—<br> ",
+      "vi_text": "Xin nói ngắn gọn.<br>Cô Frederica. Cô bị—<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 63,
+      "line": 850,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "You have Acute Obscene Syndrome.<br> ",
+      "vi_text": "Hội Chứng Dâm Đãng Cấp Tính.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 64,
+      "line": 861,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Wha...! A-Acute Obscene Syndrome!<br> ",
+      "vi_text": "Cá... i gì!? H-Hội Chứng Dâm Đãng Cấp Tính!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 65,
+      "line": 872,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "I've never heard of it，but it's gotta be a terrible disease!<br> ",
+      "vi_text": "Mình mới nghe lần đầu... nhưng chắc chắn là bệnh chẳng ra gì rồi!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 66,
+      "line": 879,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Yes，it's a truly magnifi... terrible disease.<br> ",
+      "vi_text": "Vâng‚ đó là một căn bệnh hết sức tuyệt v... chẳng ra gì.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 67,
+      "line": 890,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "As the symptoms progress，you will become a lewd creature at an<br>accelerating pace.<br> ",
+      "vi_text": "Khi triệu chứng tiến triển‚ cô Frederica sẽ tăng tốc biến thành<br>một sinh vật dâm đãng.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 68,
+      "line": 901,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Since you're steeped in lust，your magical power is affected. So any<br>alchemy you do will only produce the most obscene things.<br> ",
+      "vi_text": "Vì bản thân cô bị sắc dục bao phủ nên đương nhiên ma lực cũng chịu ảnh hưởng.<br>Do đó dù cô có luyện thành thuật bao nhiêu lần thì cũng chỉ tạo ra những thứ cực kỳ dâm đãng.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 69,
+      "line": 912,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Wh-what a terrifying condition...!<br> ",
+      "vi_text": "T-triệu chứng đáng sợ quá...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 70,
+      "line": 914,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I actually read about this condition once in a book. If I recall，a kiss<br>from a loved one can improve the symptoms?<br> ",
+      "vi_text": "Anh từng đọc về căn bệnh này một lần trong sách.<br>Anh nhớ là nụ hôn của người mình yêu có thể làm dịu triệu chứng thì phải?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 71,
+      "line": 925,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "A-a loved one's... k-k-kiss!<br> ",
+      "vi_text": "N-n-người mình yêu... h-h-hôn á!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 72,
+      "line": 936,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "That's right. You need a passionate kiss，one that entwines tongues<br>and saliva until your brain melts.<br> ",
+      "vi_text": "Đúng vậy. Cần một nụ hôn thật nồng nhiệt‚ cuốn lưỡi và nước bọt<br>vào nhau đến mức não như tan chảy.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 73,
+      "line": 947,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "A kiss where tongues and saliva intertwine... deep and passionate...<br> ",
+      "vi_text": "Cuốn lưỡi và nước bọt vào nhau... một nụ hôn thật sâu...<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 74,
+      "line": 949,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Huh? What's wrong? Why are you staring at me?<br> ",
+      "vi_text": "...Hửm? Sao thế‚ cứ nhìn chằm chằm về phía anh vậy...?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 75,
+      "line": 960,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Ahem. Ah... Commander. Come to think of it，haven't you been lacking<br>sleep lately?<br> ",
+      "vi_text": "Khụ khụ. À... Chỉ Huy. Nghĩ lại thì dạo gần đây<br>anh ngủ không đủ phải không?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 76,
+      "line": 962,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Ah... true，I've been swamped with work lately.<br> ",
+      "vi_text": "Ừ... đúng là gần đây công việc dồn dập thật.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 77,
+      "line": 973,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "I see，I see. Ah... you know，I've heard that a kiss can help you sleep<br>better.<br> ",
+      "vi_text": "Ra vậy ra vậy. À... nhắc mới nhớ‚ mình từng nghe nói hôn<br>có tác dụng giúp ngủ ngon đấy.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 78,
+      "line": 975,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Huh...? H-hey，Frederica. This conversation is going in a weird<br>direction?<br> ",
+      "vi_text": "Hửm...? N-này Frederica.<br>Hình như câu chuyện đang rẽ sang hướng kỳ lạ rồi đấy?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 79,
+      "line": 986,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "What are you talking about? This is for our own good! If we k-kiss...<br>you'll get better sleep and I can ease my symptoms!<br> ",
+      "vi_text": "Anh nói gì thế. Đây là vì chúng ta mà! Nếu chúng ta h-hôn<br>nhau... Chỉ Huy sẽ ngủ ngon hơn‚ còn mình thì dịu triệu chứng đấy?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 80,
+      "line": 998,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Then let's go for it with a bang!<br> ",
+      "vi_text": "Vậy thì lúc này... chẳng phải nên làm một phát thật hoành tráng sao!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 81,
+      "line": 1000,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "What the hell are you saying all of a sudden!?<br> ",
+      "vi_text": "Tự nhiên em nói cái gì vậy!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 82,
+      "line": 1007,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "No，there's no need to limit it to just once. Doing it two or three<br>times would surely be more effective.<br> ",
+      "vi_text": "Không‚ đâu cần giới hạn chỉ một lần.<br>Lặp lại hai lần ba lần chắc chắn sẽ có hiệu quả hơn.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 83,
+      "line": 1048,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Come on，Commander... *pant*，*pant*... come on，come on!<br> ",
+      "vi_text": "Nào‚ Chỉ Huy... hà‚ hà... nào‚ nào!!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 84,
+      "line": 1050,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "C-calm down! Adelheid，do something...!<br> ",
+      "vi_text": "B-bình tĩnh! Adelheid‚ làm gì đó đi...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 85,
+      "line": 1062,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "You are the one who remembered the treatment method，Commander.<br>I will focus on recording the session.<br> ",
+      "vi_text": "Người nhớ ra phương pháp điều trị là Chỉ Huy mà.<br>Tôi sẽ chuyên tâm ghi chép cảnh điều trị.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 86,
+      "line": 1064,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "You said that as if it's nothing!<br> ",
+      "vi_text": "Em vừa tỉnh bơ nói chuyện động trời đấy!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 87,
+      "line": 1076,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Mmph... Commander...!♡<br> ",
+      "vi_text": "Ưm hư~... Chỉ Huy~...♡<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 88,
+      "line": 1132,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "source_text": "A few days later，Frederica went home alone. She explained to her mother and learned she was a succubus.",
+      "vi_text": "Vài ngày sau khi được nghe sự thật‚ Frederica một mình về quê. Cô giải thích với mẹ và được bà thổ lộ rằng bà là nữ quỷ mộng ma.",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 89,
+      "line": 1146,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "source_text": "It seemed the strength of the inherited secret art varied，and Frederica was apparently under a particularly strong one.",
+      "vi_text": "Có vẻ sức mạnh của bí thuật được truyền lại khác nhau theo từng đời‚ và Frederica hình như đã chịu một bí thuật khá mạnh.",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 90,
+      "line": 1150,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "source_text": "Her mother suppressed the technique's effects，and Frederica was overjoyed that she could now throw herself into her research... but...",
+      "vi_text": "Mẹ cô đã giúp kìm hãm hiệu lực của bí thuật‚ Frederica mừng rỡ vì từ nay có thể toàn tâm toàn ý dấn thân vào nghiên cứu... nhưng...",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 91,
+      "line": 1185,
+      "type": "message",
+      "speaker": "",
+      "source_text": "*poof*<br> ",
+      "vi_text": "Bụp!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 92,
+      "line": 1187,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Funyaaaah!<br> ",
+      "vi_text": "Funyaaaa!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 93,
+      "line": 1189,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Huh? From Frederica's lab... pink smoke! Not again...!<br> ",
+      "vi_text": "Hửm? Từ phòng thí nghiệm của Frederica... khói hồng!? Lại nữa sao...!<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 94,
+      "line": 1224,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Frederica! You okay!?<br> ",
+      "vi_text": "Frederica! Em ổn không!?<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 95,
+      "line": 1235,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "*pant*...♡ N-nooo... when I'm held... hyawaaa...♡<br> ",
+      "vi_text": "Ha hi...♡ k-không được... bị bế lên là... hya waaaa...♡<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 96,
+      "line": 1237,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...Looks like she's gone and made an aphrodisiac again.<br> ",
+      "vi_text": "...Có vẻ em ấy lại tạo ra thuốc kích dục một cách ngoạn mục rồi.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 97,
+      "line": 1248,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Ugh... this wasn't supposed to happen... one in three times... I end up<br>making something super lewd...♡<br> ",
+      "vi_text": "Ưư~... đáng lẽ không phải thế này... cứ ba lần thì một lần... mình lại<br>tạo ra thứ siêu dâm đãng mất...♡<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 98,
+      "line": 1250,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...It's going to be a long road.<br> ",
+      "vi_text": "...Con đường phía trước còn dài lắm.<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 99,
+      "line": 1261,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Ah，hyawaa!♡ N-no，just being held by the Commander... Hn! *gasp*<br>Ah! Aaaah...♡<br> ",
+      "vi_text": "A‚ hya waa!♡ k-không được‚ chỉ cần được Chỉ Huy<br>bế thôi mà... hưn‚ hả‚ a‚ aaaa...♡<br> ",
+      "status": "TRANSLATED"
+    },
+    {
+      "index": 100,
+      "line": 1272,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Funyaaaaaaa...♡<br> ",
+      "vi_text": "Funyaaaaaaaaa~~~~...♡<br> ",
+      "status": "TRANSLATED"
+    }
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 96,
+    "messageTextUnder": 3,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 101,
+  "changed_lines": 101,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1281,
+    "vi": 1281,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "7f72796feba0252afe7e6e7d9efd0dea5a940e8412fb6f95ffa6b477e034ecd7",
+  "output_sha256": "ec72fce575aefd109b40ec34b247eca52402b3e51d225f8a13f7c1eeb2ee4da7",
+  "qa_status": "PASS"
+}

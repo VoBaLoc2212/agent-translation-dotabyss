@@ -1,0 +1,751 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10140100022
+
+charaload,chara_1,101401000X,ピコ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10140100022_001_01,1,on
+
+
+
+
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+window,on,0.15
+l2dmessage,ピコ,H-here，like this... is it okay...?<br> ,,vc_10140100022_001_01
+
+message,,Crouching before the customer，Pico nervously took his cock in her<br>hand.<br> 
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3.3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6.5
+
+l2dmessage,ピコ,Mmph! Mister's thing is already getting big... a-are you excited...?<br> ,,vc_10140100022_002_01
+
+message,,In response to Pico's question，the customer nodded eagerly.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+
+l2dmessage,ピコ,I-I guess... it's already rock hard... Ahaha...<br> ,,vc_10140100022_003_01
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+
+
+message,ピコ,(I'm going to lick this now... my heart's pounding... but... I'm recording<br>too，so I gotta do it right...)<br> ,,vc_10140100022_004_01
+
+l2dmotion,EyeOpenReset
+
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleReset
+
+
+l2dmessage,ピコ,Alright then... I'll lick it，okay...?<br> ,,vc_10140100022_005_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10140100022_002_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+message,ピコ,*pant*... Ah... Ahm... Mmph! *kiss*，*slurp*，*kiss*... mmm，*huff*...<br>*gulp*... Mmph! *pant*... mmm.<br> ,,vc_10140100022_006_01
+
+message,,Pico took the head of the customer's cock into her mouth and slowly<br>began to lick.<br> 
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.5
+
+
+
+
+message,ピコ,So this is what a thing tastes like... I wonder if the Commaander's<br>thing is the same? I'll have to get him to let me lick it next time...<br> ,,vc_10140100022_007_01
+
+l2dmotion,EyeEmotionReset
+
+
+
+
+
+message,ピコ,*kiss*... *slurp*... *kiss*... *mwah*... Mmph... *slurp*... Mmph... *huff*...<br>Mmmph...<br> ,,vc_10140100022_008_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+
+
+
+message,ピコ,(Am I doing this right...? It's my first time，so I don't really know...)<br> ,,vc_10140100022_009_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+
+message,ピコ,(But Mister looks like he's enjoying it... I'll just keep going for now.)<br> ,,vc_10140100022_010_01
+
+message,ピコ,*slurp*... *smooch*... mmm... *sigh*... Mmph... *slurp*... Mmph...<br>*gulp*... *huff*...<br> ,,vc_10140100022_011_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpenReset
+
+
+
+
+message,ピコ,(I see... so it's like a game... a raid on Mister's thing to make him<br>cum...)<br> ,,vc_10140100022_012_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.4
+
+
+
+
+message,ピコ,(If that's the case... where should I launch my attack...?)<br> ,,vc_10140100022_013_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+
+
+
+
+message,ピコ,*slurp*... *kiss*... *sluuurp*... Hey... here... d-does it feel good...?<br> ,,vc_10140100022_014_01
+
+message,,Pico spoke to the customer with his cock still in her mouth，but he<br>was too lost in pleasure to pay attention.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+
+
+
+
+message,ピコ,(When I'm licking his thing，I can't talk properly... more importantly...<br>I can't breathe...!)<br> ,,vc_10140100022_015_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10140100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+
+
+l2dmessage,ピコ,*pant*... *cough*，*cough*... *pant*... *phew*... *cough*...<br> ,,vc_10140100022_016_01
+
+
+
+
+
+
+message,,Pico abruptly pulled her mouth away，and the customer's expression<br>shifted to concern.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.5
+
+
+
+l2dmessage,ピコ,S-sorry... *cough*... I just can't catch my breath... *pant*...<br> ,,vc_10140100022_017_01
+
+message,,As Pico apologized，the customer assured her she didn't need to push<br>herself.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+
+l2dmessage,ピコ,U-um... thanks...<br> ,,vc_10140100022_018_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmotion,FaceAngleLeft
+
+
+
+
+message,ピコ,(Thank goodness... Mister's quiet，but he's kind...)<br> ,,vc_10140100022_019_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+asyncl2dmotion,MouthEmotion05,on,STOP,8.3
+
+message,ピコ,(But I can't just keep taking it easy... If I take it easy too long，I'll<br>run out of time and it'll be game over... I have to try again...)<br> ,,vc_10140100022_020_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+
+
+
+message,,As Pico steadied herself，the customer suggested she use her hand<br>instead if oral was too much for her.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1.8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1.8
+
+l2dmessage,ピコ,With my hand...? Is that okay...?<br> ,,vc_10140100022_021_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,ExEmotion02,on,STOP,3
+
+asyncl2dmotion,MouthEmotion04,on,STOP,3
+
+message,ピコ,(Then even I can handle that... Alright，I get a strategy point!♪)<br> ,,vc_10140100022_022_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+l2dmessage,ピコ,Then... I'll use my hand，okay...<br> ,,vc_10140100022_023_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10140100022_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+
+
+
+l2dmessage,ピコ,Ngh... *huff*... Mmph... ngh... Mmph... *huff*... *pant*...<br> ,,vc_10140100022_024_01
+
+message,,Pico gripped the customer's cock and awkwardly began to stroke it.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+
+
+
+l2dmessage,ピコ,Mmph... So this is how a handjob works，right? Am I doing it right...?<br> ,,vc_10140100022_025_01
+
+message,,In response，the customer nodded eagerly.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,ExEmotion02,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+l2dmessage,ピコ,Ngh... Good... Then I'll keep going like this... Mmph... Ngh... Mmph...<br> ,,vc_10140100022_026_01
+
+message,,Pico stroked the customer's cock in a steady rhythm.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+
+
+
+
+l2dmessage,ピコ,*pant*... *huff*... ngh... ngh... *huff*... Mmph...!<br> ,,vc_10140100022_027_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotion02
+
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.2
+
+message,ピコ,(This is kinda tiring... but Mister seems to be enjoying it... and I can<br>feel his thing throbbing...)<br> ,,vc_10140100022_028_01
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,4.6
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4.6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.6
+
+asyncl2dmotion,MouthEmotion04,on,STOP,4.6
+
+
+message,ピコ,(If I keep stroking him like this，Mister will cum，and I'll win the<br>game...!)<br> ,,vc_10140100022_029_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8.3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,11
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8.3
+
+l2dmessage,ピコ,Mmph... *huff*... *pant*... ngh... H-how's the pressure...? Should I<br>squeeze harder，or move faster...?<br> ,,vc_10140100022_030_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,When Pico asked，the customer told her she could keep stroking，but<br>he wanted her to use her mouth too.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.5
+
+
+l2dmessage,ピコ,Huh... m-my mouth too...? You mean... lick it again like before...?<br> ,,vc_10140100022_031_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotion01
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+
+message,ピコ,(I have to lick his cock while stroking with my hand... isn't that pretty<br>tough...? But Mister wants me to...)<br> ,,vc_10140100022_032_01
+
+message,,The customer added another request: he wanted her to suck his<br>cock，taking it as deep into her throat as possible.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,ExEmotion02
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8.5
+
+
+l2dmessage,ピコ,O-okay... got it，Mister... I'll stroke your cock with my hand... take it<br>deep in my throat... and suck it...<br> ,,vc_10140100022_033_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10140100022_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+
+
+message,ピコ,*pant*... Ahm!... *squelch*，mmm... *huff*... *gulp*... *pop*... *pant*...<br>Mmph!<br> ,,vc_10140100022_034_01
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+
+
+
+message,ピコ,Mmph!... slow... deep throat... Ngh!... Guh!... *slurrrp*... Ngh!...<br>*gulp*... *slurp*... *slurrrp*... *squelch*...!<br> ,,vc_10140100022_035_01
+
+l2dmotion,EyeOpenReset
+
+
+
+
+
+message,,As requested，Pico deep-throated his cock，bobbing her head and<br>sucking him with her whole mouth.<br> 
+
+l2dmotion,EyeOpen00
+
+
+
+
+
+message,ピコ,*huff*，Guh，Mmph，*gulp*，Ngh，Guh，Mmph!<br> ,,vc_10140100022_036_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotion01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+
+
+message,ピコ,(Just as I thought，it's hard to breathe... but if I don't do this，he<br>doesn't seem like he'll cum...)<br> ,,vc_10140100022_037_01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5.2
+
+asyncl2dmotion,EyeOpen02,on,STOP,5.2
+
+
+
+message,ピコ,Ngh... Mmph... *slurp*... *kiss*... Feel good...?<br> ,,vc_10140100022_038_01
+
+message,,The customer nodded blissfully in response but still seemed a long<br>way from cumming.<br> 
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+
+
+message,ピコ,(He seems to be enjoying it，but... still doesn't look like he's going to<br>cum... At this rate，I'm going to be the one suffering first...)<br> ,,vc_10140100022_039_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.2
+
+
+
+message,ピコ,(To conquer this impregnable Mister，I've got no choice but to use my<br>secret weapon...! Alright... Turbo Mode，activate...!)<br> ,,vc_10140100022_040_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10140100022_006_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+
+
+
+
+message,ピコ,Ngh! *pop*! *kiss*! Mmph! *pop*! *slurp*! *huff*...!<br> ,,vc_10140100022_041_01
+
+message,,Pico activated Turbo Mode (named by Pico herself)，suddenly<br>increasing the speed and range of her strokes.<br> 
+
+l2dmotion,EyeOpen01
+
+
+
+
+
+message,ピコ,Mmm! *slurp*! *lick*! *pop*! *gulp*! *gulp*! mmm... *gulp*...!<br> ,,vc_10140100022_042_01
+
+
+
+message,,She also tightened her grip on the base of his cock and sped up，<br>trying to make him cum in one go.<br> 
+
+l2dmotion,EyeOpenReset
+
+
+message,ピコ,Ngh! Ngh! Mmph! *gulp*! *huff*... mmm... Ngh...!<br> ,,vc_10140100022_043_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeEmotionTop
+
+
+
+
+message,ピコ,Come on! Let it all out! Cum!<br> ,,vc_10140100022_044_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen02
+
+
+
+
+message,ピコ,Mmmghhh! Mmmgh! Mmf! *gulp*! Mgh... *slurp*...!<br> ,,vc_10140100022_045_01
+
+l2dmotion,EyebrowEmotionReset
+
+
+message,,At Pico's intense service，the customer closed his eyes，his mouth<br>hung half-open，and his hips quivered.<br> 
+
+l2dmotion,EyeOpen01
+
+
+
+
+
+message,ピコ,*kiss*! *slurp*! Mgh! *pop*! Gmmmm... Mmmnnh...!<br> ,,vc_10140100022_046_01
+
+message,,As Pico frantically sucked his cock，the customer told her in a hoarse<br>voice，'I'm coming...!' and then—<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10140100022_007_01,1,on
+
+l2dmotion,EyeOpenReset
+
+
+
+
+
+message,ピコ,Mmph... Mmmuuuuhhh!<br> ,,vc_10140100022_047_01
+
+message,,Surprised by the gush of hot semen bursting from his straining cock<br>into the back of her throat，Pico paused before pulling her mouth away.<br> 
+
+message,ピコ,Mmm... mmm，mmm...<br> ,,vc_10140100022_048_01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+
+
+message,ピコ,(A lot of Mister's hot semen is being poured into my mouth... What<br>should I do...? Is it okay to spit it out...?)<br> ,,vc_10140100022_049_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8
+
+
+message,ピコ,(But there are no tissues nearby... I might dirty the floor... After all...<br>I have to swallow it...)<br> ,,vc_10140100022_050_01
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10140100022_008_01,1,on
+
+
+
+
+
+
+message,ピコ,Mmm... Mmph... *gulp*... *gulp*... Mmph...<br> ,,vc_10140100022_051_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+
+
+message,ピコ,(So much... it's caught in my throat，making it hard to swallow... but<br>I'll take a little more...)<br> ,,vc_10140100022_052_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2.3
+
+asyncl2dmotion,ExEmotion02,on,STOP,2.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.3
+
+
+
+message,ピコ,Mmm... Mmph... *gulp*!<br> ,,vc_10140100022_053_01
+
+asyncl2dmotion,MouthEmotion03,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2
+
+
+
+l2dmessage,ピコ,*phew*... mission complete...<br> ,,vc_10140100022_054_01
+
+message,,As Pico sighed with relief，the customer looked surprised and asked<br>in bewilderment，'You... swallowed it...?'<br> 
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2
+
+l2dmessage,ピコ,Eh...?! Wh-What? Was that bad?<br> ,,vc_10140100022_055_01
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+
+
+message,ピコ,(Mister was surprised earlier，but all things considered，he seems<br>pretty happy about it...)<br> ,,vc_10140100022_056_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.6
+
+asyncl2dmotion,MouthEmotion03,on,STOP,3
+
+
+
+
+l2dmessage,ピコ,...How weird. Well anyway，game clear，right!<br> ,,vc_10140100022_057_01
+
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

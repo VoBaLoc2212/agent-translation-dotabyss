@@ -1,0 +1,818 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg12000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,101601000G,ウィステリア
+
+charaload,chara_2,300301000,ルディア
+charascale,chara_2,1.3,0
+
+charaload,chara_3,401001000,ミレスガルド兵（女）
+
+charaload,chara_4,401301000,エルドラーナ兵（女）
+
+charaload,chara_5,401101000,ペルディオン兵（女）
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Tiêu Đề
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0027,0.75,1
+
+
+messagetextwindow,on,0.15
+
+messageTextCenter,,<size=48>――Quán Rượu Căn Cứ Tiền Tuyến</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+window,on,0.15
+message,,Ngày hôm sau khi gặp Wisteria trong rừng‚ %user% đi đến<br>quán rượu của Căn Cứ Tiền Tuyến.<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+charafocusonall
+
+bg,abg12000a
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+asyncmove,BACK,,0,-300,0,Set,CONT
+
+charapose,chara_2,1
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+
+charashowalpha,chara_2,1,0
+
+transitionCrossFade,Tra01,1
+wait,1
+
+window,on,0.15
+message,<user>,...Ludia‚ cô rảnh một chút không?<br> 
+
+asynccharaface,chara_2,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_2,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_1,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_2,Question,CONT,0
+
+
+message,ルディア,Ôi‚ giờ này ban ngày mà có chuyện gì thế? Anh muốn uống rượu sao?<br> ,300301000,vc_10160100002_001_01,chara_2
+
+message,<user>,Tôi đang tìm một người nên muốn hỏi thông tin.<br>Là Wisteria‚ cung thủ lão luyện.<br> 
+
+asynccharaface,chara_2,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_2,-30,0.25,1,off,0,CONT
+
+
+message,ルディア,Wisteria...<br>Cô ấy là người được gọi là Chiến Thần nhỉ?<br> ,300301000,vc_10160100002_002_01,chara_2
+
+message,<user>,Ừ‚ chính là cô ấy. Tôi có chút duyên gặp gỡ với cô ấy<br>nên định mời cô ấy đi ăn một bữa...<br> 
+
+asynccharaface,chara_2,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_2,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_2,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_2,Spirits,CONT,0
+
+
+message,ルディア,Ôi chà♪<br>Quả không hổ là anh‚ luôn gặp được những mối duyên tốt nhỉ.<br> ,300301000,vc_10160100002_003_01,chara_2
+
+asynccharaface,chara_2,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_2,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_3,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_2,Sweat,CONT,0
+
+
+message,ルディア,Nhưng... khó rồi đây.<br>Tôi không có nhiều thông tin về Wisteria đâu.<br> ,300301000,vc_10160100002_004_01,chara_2
+
+message,<user>,Ngay cả Ludia cũng vậy sao...?<br> 
+
+asyncjump,CHARA,chara_2,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_2,Trouble,CONT,0
+
+
+message,ルディア,Vốn dĩ cô ấy là người thoắt ẩn thoắt hiện.<br>Đến mức tôi còn không biết cô ấy có dùng phòng trong doanh trại không.<br> ,300301000,vc_10160100002_005_01,chara_2
+
+message,<user>,Vậy à... Được rồi‚ tôi sẽ tự đi tìm thêm một chút.<br> 
+
+asynccharaface,chara_2,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_2,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_2,Laugh,CONT,0
+
+
+message,ルディア,Ừ‚ cố lên nhé♪<br> ,300301000,vc_10160100002_006_01,chara_2
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+charafocusonall
+
+charahide,chara_2,0
+
+emodelete,chara_2,0,0
+
+bg,abg11100a
+
+scale,BACK,,0,1,1,Set
+
+blur,off,BACK,0
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_3,FaceSad
+
+charashowalpha,chara_3,1,0
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+asyncshake,CHARA,chara_3,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_3,Silence,CONT,0
+
+
+window,on,0.15
+message,兵士Ａ,Wisteria... ạ? Bọn em ở cùng đơn vị nhưng không thân thiết lắm...<br> ,401001000,vc_10160100002_007_01,chara_3
+
+message,<user>,Cô có từng thấy cô ấy trong Căn Cứ Tiền Tuyến không?<br> 
+
+asyncjump,CHARA,chara_3,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_3,Trouble,CONT,0
+
+
+message,兵士Ａ,Dạ‚ em hầu như chưa từng thấy cô ấy nghỉ ngơi hay ăn uống.<br> ,401001000,vc_10160100002_008_01,chara_3
+
+message,<user>,Ra vậy... cảm ơn.<br> 
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+charafocusonall
+
+charahide,chara_3,0
+
+emodelete,chara_3,0,0
+
+bg,abg10200a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_4,FaceSad
+
+charashowalpha,chara_4,1,0
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+asyncjump,CHARA,chara_4,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_4,Panic,CONT,0
+
+
+window,on,0.15
+message,兵士Ｂ,À‚ Wisteria hả? Khi nói chuyện thì cô ấy cũng chẳng phản ứng mấy<br>nên em chưa từng thật sự trò chuyện với cô ấy.<br> ,401301000,vc_10160100002_009_01,chara_4
+
+asyncshake,CHARA,chara_4,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_9,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_4,Silence,CONT,0
+
+
+message,兵士Ｂ,Nhiều binh sĩ kính trọng cô ấy vì rất đáng tin trên chiến trường<br>nhưng chuyện riêng tư thì hoàn toàn...<br> ,401301000,vc_10160100002_010_01,chara_4
+
+message,<user>,Quả nhiên là vậy... Thông tin đó giúp ích lắm‚ cảm ơn.<br> 
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra08,out,black,1
+
+charafocusonall
+
+charahide,chara_4,0
+
+emodelete,chara_4,0,0
+
+bg,abg11200a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_5,EyeOpen
+charaface,chara_5,FaceNormal
+
+charashowalpha,chara_5,1,0
+
+wait,1
+
+transitionFade,Tra07,in,black,1
+
+asyncjump,CHARA,chara_5,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800005,0,1,CONT,0
+
+asynccharaemo,chara_5,Flash,CONT,0
+
+
+window,on,0.15
+message,兵士Ｃ,Nếu là Chiến Thần thì thỉnh thoảng em thấy cô ấy đi mua đồ.<br> ,401101000,vc_10160100002_011_01,chara_5
+
+message,<user>,Thật sao? Lúc đó trông cô ấy thế nào?<br> 
+
+asynccharaface,chara_5,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_5,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_5,Laugh,CONT,0
+
+
+message,兵士Ｃ,Chủ yếu là mua lương thực ạ. Ngoài ra em cũng từng thấy cô ấy chuẩn bị dụng cụ cắm trại.<br> ,401101000,vc_10160100002_012_01,chara_5
+
+message,<user>,Ra vậy... Xin lỗi vì đã làm mất thời gian của cô.<br> 
+
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+sestop,setag1_11,0.1
+
+bg,abg18200a
+
+scale,BACK,,0,1,1,Set
+
+charahide,chara_5,0
+
+emodelete,chara_5,0,0
+
+fade,In,Black,1
+
+window,on,0.15
+message,<user>,Wisteria có vẻ không dùng phòng trong doanh trại.<br>Cô ấy cũng không ăn hay nghỉ ngơi trong căn cứ.<br> 
+
+message,<user>,Nhưng cô ấy vẫn đi mua sắm‚ tích trữ lương thực và chuẩn bị cho việc cắm trại.<br> 
+
+message,<user>,Và nếu xét đến nơi tôi đã gặp cô ấy trong rừng――.<br>Được‚ thử đến đó xem sao...!<br> 
+
+bgmstop,bgmtag1_1,1.5,0
+
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,-300,0,Set,CONT
+
+wait,1
+
+bgmplay,bgmtag1_2,bgm0033,0.75,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,<user>,Xét theo nơi chúng tôi chạm mặt lần trước thì có lẽ là hướng này.<br>Ừm... nếu làm giống lần trước thì...<br> 
+
+message,<user>,A‚ tự nhiên thấy buồn đi quá! Chắc phải giải quyết một chút thôi!<br> 
+
+message,<user>,Nào‚ kéo quần xuống...<br> 
+
+message,？？？,――Đứng yên.<br> ,900000001,vc_10160100002_013_01,on
+
+message,<user>,...! Ừ‚ tôi sẽ không chống cự. Đừng mạnh tay nhé?<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+charafocusonall
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_1,FaceSad
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+transitionCrossFade,Tra01,1
+wait,1
+
+window,on,0.15
+message,,Chỉ Huy quay lại khi quần vẫn đang tụt xuống. Đứng đó là Wisteria<br>với vẻ mặt hơi ngán ngẩm.<br> 
+
+asyncjump,CHARA,chara_1,-40,0.7,1,off,0,CONT
+
+asyncseplay,setag1_12,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,...Quả nhiên là cậu. Tôi đã nghĩ bóng lưng này trông quen quen mà...<br> ,101601000G,vc_10160100002_014_01,chara_1
+
+message,<user>,Ha ha‚ tình cờ ghê nhỉ Wisteria.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_13,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,ウィステリア,Sao cậu lại thong dong thế...<br>Đây đâu phải nơi có thể tình cờ gặp người khác.<br> ,101601000G,vc_10160100002_015_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ウィステリア,Vì sao cậu lại ở đây? Lại khảo sát địa hình à?<br> ,101601000G,vc_10160100002_016_01,chara_1
+
+message,<user>,Không‚ lần này tôi đến để gặp cô.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,ウィステリア,Gặp tôi...? Chẳng lẽ cậu cứ đi lung tung để tìm tôi sao?<br> ,101601000G,vc_10160100002_017_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_16,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,Chỉ vì từng gặp tôi trong khu rừng này<br>đâu có nghĩa là sẽ có lần thứ hai...<br> ,101601000G,vc_10160100002_018_01,chara_1
+
+message,<user>,Không‚ tôi tin chắc cô sẽ tới.<br>Wisteria‚ căn cứ bí mật của cô ở quanh đây đúng không?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_17,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ウィステリア,…!?<br> ,101601000G,vc_10160100002_019_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_18,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,Sao cậu biết được!?<br> ,101601000G,vc_10160100002_020_01,chara_1
+
+message,<user>,Tôi suy luận từ thông tin thu thập ở căn cứ.<br>Tôi đoán cô đang cắm trại ở đâu đó.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_19,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ウィステリア,...Vì sao cậu lại đợi ở đây?<br>Nơi này đáng lẽ phải cách xa chỗ chúng ta gặp lần trước.<br> ,101601000G,vc_10160100002_021_01,chara_1
+
+message,<user>,Vì cô từng nói mình cẩn thận vòng ra sau lưng tôi.<br>Nghĩa là khi thấy tôi sắp đi giải quyết‚ cô đã cố ý vòng ra phía sau.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_20,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,ウィステリア,Chỉ từ cuộc nói chuyện ngắn đó...!?<br> ,101601000G,vc_10160100002_022_01,chara_1
+
+message,<user>,Wisteria trông rất nghiêm túc mà.<br>Tôi nghĩ cô sẽ không cố ý nói dối đâu.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_21,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,...Cậu cũng đã thu thập thông tin về khu rừng này nhỉ.<br> ,101601000G,vc_10160100002_023_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,ウィステリア,Từ thông tin về thảm thực vật và địa hình đã thu thập<br>cậu khoanh vùng những nơi thích hợp để cắm trại...<br> ,101601000G,vc_10160100002_024_01,chara_1
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_22,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,Rồi cố ý để lộ sơ hở ở vị trí tôi sẽ nhận ra<br>và dụ tôi ra như thế này sao.<br> ,101601000G,vc_10160100002_025_01,chara_1
+
+message,<user>,Chính xác.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,...Tôi cứ tưởng mình giỏi lén bước<br>vậy mà lại bị dụ ra một cách hoàn hảo như thế.<br> ,101601000G,vc_10160100002_026_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_24,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ウィステリア,Có vẻ nhận định của tôi đã sai.<br>Cậu là một Chỉ Huy xuất sắc hơn tôi tưởng rất nhiều.<br> ,101601000G,vc_10160100002_027_01,chara_1
+
+message,<user>,Được cô khen vậy là vinh hạnh cho tôi rồi.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_25,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,ウィステリア,Nhưng thật lạ là cậu lại thu thập được thông tin về tôi...<br> ,101601000G,vc_10160100002_028_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_26,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Ở căn cứ đó đáng lẽ hầu như không có ai biết về tôi mới phải.<br> ,101601000G,vc_10160100002_029_01,chara_1
+
+message,<user>,Không đâu‚ mọi người đều để ý đến Wisteria đấy.<br>Đúng là Chiến Thần‚ cô nổi tiếng thật đấy.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_27,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,Tôi đâu có tự xưng như vậy. Làm gì có chuyện tôi nổi tiếng.<br> ,101601000G,vc_10160100002_030_01,chara_1
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_28,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Người cất công đến tìm tôi như thế này<br>chỉ có mình cậu thôi‚ Chỉ Huy.<br> ,101601000G,vc_10160100002_031_01,chara_1
+
+message,<user>,Tôi không nghĩ là vậy đâu...<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,Đúng là tôi giỏi ẩn mật<br>nhưng ngay cả khi cư xử bình thường‚ rất nhiều người vẫn không nhận ra tôi.<br> ,101601000G,vc_10160100002_032_01,chara_1
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_30,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Nếu tôi xóa đi khí tức<br>thì có khi đứng ngay bên cạnh cũng không ai nhận ra.<br> ,101601000G,vc_10160100002_033_01,chara_1
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_31,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ウィステリア,Không ai hứng thú với tôi cả. Dù là đồng đội cùng căn cứ cũng vậy.<br> ,101601000G,vc_10160100002_034_01,chara_1
+
+message,<user>,Ừm... có khi chỉ là vì Wisteria xóa khí tức quá giỏi thôi...<br> 
+
+message,<user>,Dù sao thì tôi cũng đã đến tận đây rồi. Cô có thể mời tôi đến căn cứ bí mật được không?<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_32,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,...Tôi khó xử lắm. Tôi chưa từng mời ai đến đó cả.<br> ,101601000G,vc_10160100002_035_01,chara_1
+
+message,<user>,Tức là tôi sẽ là vị khách đầu tiên sao. Vinh hạnh thật đấy.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_33,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Cậu đúng là người tích cực thật...<br>...Thôi được‚ giấu nơi cắm trại với cấp trên cũng là vấn đề nhỉ.<br> ,101601000G,vc_10160100002_036_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_34,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,Hơn nữa... nếu là cậu‚ người đã tìm thấy tôi...<br> ,101601000G,vc_10160100002_037_01,chara_1
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ウィステリア,Được rồi‚ tôi sẽ dẫn đường.<br> ,101601000G,vc_10160100002_038_01,chara_1
+
+message,<user>,Thật sao? Cảm ơn cô‚ Wisteria.<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_36,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ウィステリア,...Nhưng trước đó‚ Chỉ Huy. Ừm... chuyện... c-cái đó...<br> ,101601000G,vc_10160100002_039_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_37,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Phía trước quần của cậu... đã kéo lại chưa...?<br> ,101601000G,vc_10160100002_040_01,chara_1
+
+message,<user>,Ừ‚ hôm nay không sao.<br>Tôi đã kéo lại đàng hoàng trước khi cô nói rồi.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+wait,0.5
+
+asyncjump,CHARA,chara_1,-40,0.8,1,off,0,CONT
+
+asyncwait
+
+window,on,0.15
+message,,Wisteria‚ người vẫn luôn khẽ tránh ánh mắt‚ cuối cùng cũng nhìn<br>Chỉ Huy và thở phào nhẹ nhõm.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_38,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Tôi thất lễ rồi.<br>Ấn tượng lần trước quá mạnh nên bất giác...<br> ,101601000G,vc_10160100002_041_01,chara_1
+
+message,<user>,Ồ‚ ra là vậy à. Vậy thì xin lỗi nhé.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_39,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,Thật sự là vậy... chẳng hiểu sao nó cứ mắc kẹt trong đầu tôi...<br> ,101601000G,vc_10160100002_042_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_40,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,Thỉnh thoảng tôi lại nhớ đến...<br>thậm chí còn xuất hiện trong mơ...<br> ,101601000G,vc_10160100002_043_01,chara_1
+
+message,<user>,Trong mơ...?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_41,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ウィステリア,K-không. Chuyện riêng của tôi thôi.<br>Quên đi.<br> ,101601000G,vc_10160100002_044_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_42,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ウィステリア,Nơi cắm trại của tôi ở hướng này.<br>Tôi không biết cậu có thấy thoải mái không... nhưng tôi chào đón cậu.<br> ,101601000G,vc_10160100002_045_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_43,se4000203,0,1,CONT,0
+
+asynccharahide,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,100,0.3,CONT,0
+
+emodelete,chara_1,0,0
+
+asyncwait
+
+bgmstop,bgmtag1_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

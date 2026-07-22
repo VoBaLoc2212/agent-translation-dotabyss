@@ -1,0 +1,760 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10140100032
+
+charaload,chara_1,101401000G,ピコ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10140100032_001_01,1
+
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.6
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,4.6
+
+window,on,0.15
+l2dmessage,ピコ,*pant*... I-I'm so nervous...<br> ,,vc_10140100032_001_01
+
+message,,Pico lay naked on the bed，wearing only her usual headphones. Her<br>expression was tense as she breathed out a hot breath.<br> 
+
+message,,To be safe，I asked Pico if she was really sure. If she was forcing<br>herself out of stubbornness...<br> 
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+l2dmessage,ピコ,No... I'm not being stubborn，and I'm not forcing myself...?<br> ,,vc_10140100032_002_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4.2
+
+l2dmessage,ピコ,When I was working at the brothel，I always pretended my partner was<br>the Commander... that's how I got through it...<br> ,,vc_10140100032_003_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ピコ,You know what I mean，right...?<br> ,,vc_10140100032_004_01
+
+message,,In other words，she wanted to sleep with me that badly...?<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5.6
+
+asyncl2dmotion,MouthEmotion04,on,STOP,5.6
+
+l2dmessage,ピコ,It's not a hookup，it's a boss battle! ... Fufu...♪<br> ,,vc_10140100032_005_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4.5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,4.5
+
+l2dmessage,ピコ,Today，I get to do it with the real you，right? I'm happy...♪<br> ,,vc_10140100032_006_01
+
+l2dmotion,MouthEmotion00
+
+message,,Pico blushed shyly. Though she called it a boss battle，she seemed to<br>have been waiting eagerly for this moment. It was endearing.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,ピコ,Come... Commander.♡<br> ,,vc_10140100032_007_01
+
+message,,Perhaps it was the training at the brothel，but Pico had grown<br>unexpectedly sensual and seductive. My heart raced as I drew closer to her.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10140100032_002_01,1,on
+
+wait,1.6
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,11.2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,11.2
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,11.2
+
+l2dmessage,ピコ,*pant* Mmph... *huff*，Ah... Aah... mmm *huff*... *pant*... Ah...<br>Commander's thing is hitting my sweet spot... Aaah... *pant*...<br> ,,vc_10140100032_008_01
+
+message,,The moment the tip of his cock touched Pico，she twitched and<br>moaned sweetly，love juice spilling from her opening，her lips glistening invitingly.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+l2dmessage,ピコ,Mmph! Wh-what's wrong，Commander...? You're not putting it in<br>yet...?<br> ,,vc_10140100032_009_01
+
+message,,I really wanted to thrust inside right away. But that would have felt<br>like losing to Pico right from the start...<br> 
+
+l2dmotion,FaceAngleReset
+
+message,,To mask my impatience，I ordered Pico to give live commentary on<br>what her pussy was doing at that moment.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyebrowEmotion02
+
+l2dmessage,ピコ,Huh... you want me to do live commentary...?<br> ,,vc_10140100032_010_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,ピコ,Um，well... Pico-nyan's pussy wants the Commander's thing so badly...<br>it's all soaking wet...<br> ,,vc_10140100032_011_01
+
+l2dmotion,MouthEmotion00
+
+message,,Pico shyly began her live commentary. Seeing her like that made the<br>very core of my body burn with heat.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3
+
+l2dmessage,ピコ,Is this okay...? Or should I... beg for more...?<br> ,,vc_10140100032_012_01
+
+message,,To test her，I told her to continue—<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotion02
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,MouthEmotion03,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+l2dmessage,ピコ,Pico-nyan's... p-pussy... wants Commander's... t-thing to... thrust<br>inside...<br> ,,vc_10140100032_013_01
+
+message,,Pico was getting aroused by her own words. More love juice seeped<br>from deep inside her，wetting her slit.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+message,,I confirmed she was ready for insertion and pressed my cock against<br>her slit.<br> 
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10140100032_003_01,1,on
+
+l2dmessage,ピコ,Hyaah!♡ Ah!... Mmph!... Ngh!... *gasp*，Aah!♡<br> ,,vc_10140100032_014_01
+
+message,,Without inserting right away，I slowly rubbed my cock from the tip<br>down the underside against Pico's hot，slick slit.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+l2dmessage,ピコ,Hyaah! Ah，Aah!... Yah! That feels so good... Mmph! I'm feeling it so<br>much... *whimper*，*pant*...<br> ,,vc_10140100032_015_01
+
+message,,I carefully rubbed my cock from her entrance up to her clit，and<br>Pico's body twitched and quivered in response.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceEmotion01,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,8.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,8.5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,8.5
+
+l2dmessage,ピコ,Mmm... Don't be mean and tease me... Commander... Aah!... Hurry... I<br>want Commander's thing inside my pussy...!<br> ,,vc_10140100032_016_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotionReset
+
+message,,Seeing Pico's desperate pleading stirred my own lust. Feeling I<br>couldn't hold back any longer，I aligned the head with her entrance—<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10140100032_004_01,1,on
+
+wait,1
+
+l2dmessage,ピコ,Hyaah! Aah! *pant*!♡♡<br> ,,vc_10140100032_017_01
+
+message,,I pushed the head in，then slid all the way to the base in one smooth<br>motion.<br> 
+
+message,,At that moment，Pico's body jerked and shuddered，and she let out a<br>loud moan I'd never heard from her before.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyebrowEmotion00
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,3.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3.5
+
+l2dmessage,ピコ,*pant*... Mmmph! So good... *whimper*... My body is way more<br>sensitive than before... Mmmph!<br> ,,vc_10140100032_018_01
+
+message,,Pico's reaction made me involuntarily happy too. But if this was a<br>match，I couldn't afford to show weakness.<br> 
+
+message,,I threw a taunt at the ecstatic Pico，asking if the live commentary<br>was over already.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+l2dmessage,ピコ,U-um... Commander's thing is inside Pico-nyan's pussy right now... i-it<br>went in... Mmph! Aah!<br> ,,vc_10140100032_019_01
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8.6
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.6
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,8.6
+
+l2dmessage,ピコ,All the way... Mmph! It's all in... So hot... F-feels so good... Mmph!<br>*pant*...<br> ,,vc_10140100032_020_01
+
+l2dmotion,FaceAngleReset
+
+message,,Spurred on by my taunt，Pico continued the live commentary.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,5.1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5.1
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,9
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,9
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9
+
+l2dmessage,ピコ,At this rate... Pico-nyan's gonna get fucked by the Commander...<br>Mmph... Hey，Commander... I-it's about time... please...<br> ,,vc_10140100032_021_01
+
+message,,I gave in to Pico's wish and thrust my hips forward.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10140100032_005_01,1,on
+
+l2dmessage,ピコ,Ngh... mmm，Ah... *pant*... *pant*，*whimper*... Mmph... Aah... *pant*<br>Ah... *pant!*♡<br> ,,vc_10140100032_022_01
+
+message,,As I thrust，Pico's body rocked. Her bouncing breasts fueled my<br>desire.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+l2dmessage,ピコ,*huff!* Mmph... C-Commander's thrusts...<br>Mmph... they're... gradually... getting stronger... Ngh...<br> ,,vc_10140100032_023_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5.2
+
+l2dmessage,ピコ,They're... getting faster... bit by bit... Mmph... *huff!*♡<br> ,,vc_10140100032_024_01
+
+message,,Even as she was being pounded，Pico somehow kept up her live<br>commentary.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ピコ,The tip... of your thing... Mmph... is reaching... the back of<br>Pico-nyan's pussy... All the way to the baby room... mmm，Aah...<br> ,,vc_10140100032_025_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4.5
+
+l2dmessage,ピコ,Ah... No... Tapping my deepest spot... Aaaah...<br>I-it feels too good... Ah，ah，Aaaah...!<br> ,,vc_10140100032_026_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+l2dmessage,ピコ,Ah... Mmph... I-it feels so good...<br>I can't help... Mmph... these naughty moans... Ah，Aah，*whimper!*♡<br> ,,vc_10140100032_027_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+message,,To win Pico's challenge，I had to make her feel so good she couldn't<br>keep up her live commentary，then make her hit the Final Boss.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion02
+
+message,,But Pico kept desperately doing her live commentary despite the<br>pleasure. Seeing her like that only got me more excited instead...<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,6
+
+l2dmessage,ピコ,*pant*，Aah... *huff*... Commander's thing feels so good... Mmph!<br>*huff*... Pico-nyan loves this thing... so much... Ahaaah!♡<br> ,,vc_10140100032_028_01
+
+message,,Every word Pico said made my body react. My arousal mounted，my<br>instincts took over，and I craved Pico...!<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10140100032_006_01,1,on
+
+l2dmessage,ピコ,Aah... Ahh... Aaaah! S-so amazing... s-so rough! Mmph! Aaah...<br>th-this... is amazing... Aaaah...!<br> ,,vc_10140100032_029_01
+
+l2dmessage,ピコ,Ah，*gasp*... C-Commander's... th-thing... Mmph! *whimper*... so<br>rough... thrusting my pussy... Hyaah!♡<br> ,,vc_10140100032_030_01
+
+message,,My thrusts grew more violent. *squelch，squelch*—a lewd sound. Love<br>juice splashed from our union，soaking the sheets.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3
+
+asyncl2dmotion,MouthEmotion02,on,STOP,3
+
+
+asyncl2dmotion,FaceEmotion01,on,STOP,9
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,9
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9
+
+l2dmessage,ピコ,Mmm! Aaah，*pant*，Ah! *whimper*... Aah! *pant*... I-it feels so<br>good... Pico's falling apart...!<br> ,,vc_10140100032_031_01
+
+message,,At this rate，I felt like I'd cum first. But even so，my hips wouldn't<br>stop; they moved on their own.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+l2dmessage,ピコ,Mmph! Aah! Mmph! *whimper*... C-Commander's thing... It's<br>twitching... Ah! Mmph! Aah! *pant*...<br> ,,vc_10140100032_032_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,ピコ,M-maybe... it's about time... Ngh... I'm about to cum... Mmph... mmm<br>Ah! *pant*!<br> ,,vc_10140100032_033_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+message,,It was frustrating，but Pico's call was right. I honestly told her I was<br>about to cum.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion04
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+l2dmessage,ピコ,Ah... *pant*... Shoot it inside... mmm Aahn... Commander's cum... Ngh...<br>inside me... Aah... mmm...<br> ,,vc_10140100032_034_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,5
+
+l2dmessage,ピコ,Into Pico-nyan's pussy... All of it... Shoot it all in...! Ah，Aah...<br>Nghhh...!<br> ,,vc_10140100032_035_01
+
+message,,The feeling of cumming surged up. I held it back until the last<br>moment，then let it all out.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10140100032_007_01,1,on
+
+
+l2dmessage,ピコ,Aah，mmmmm... aaaaaaahhhhh...!<br> ,,vc_10140100032_036_01
+
+message,,At the same time，as Pico reached her climax，an endless stream of<br>semen was poured inside her pussy.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionRight
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+l2dmessage,ピコ,*pant*... *pant*... *pant*... *gasp*... Ah，it's so hot... inside me... so<br>much is coming out... *gasp*... *pant*...<br> ,,vc_10140100032_037_01
+
+l2dmotion,EyeEmotionReset
+
+message,,The semen Pico's womb couldn't absorb spilled from our joining. I was<br>surprised at how excited I'd been，seeing the large amount.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,MouthEmotion04,on,STOP,8
+
+l2dmessage,ピコ,*pant*... mmm *sigh*... Commander... by the looks of it... Pico-nyan's<br>insides felt amazing... Fufu...<br> ,,vc_10140100032_038_01
+
+message,,...I honestly admitted it. It seemed I had lost this match.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+l2dmessage,ピコ,I-I did it... Final Boss defeated... With this... game clear... I'm so<br>glad...<br> ,,vc_10140100032_039_01
+
+l2dmotion,EyeOpen03
+
+message,,Pico murmured，her face blissful.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10140100032_008_01,1,on
+
+l2dmessage,ピコ,*huff*... That was one tough Final Boss... mmm... *sigh*!♡<br> ,,vc_10140100032_040_01
+
+message,,Basking in the afterglow，Pico had a satisfied smile，but she suddenly<br>noticed something.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3
+
+l2dmessage,ピコ,Oh? Commander's thing is still hard? Are we getting a Final Boss<br>rematch...?<br> ,,vc_10140100032_041_01
+
+message,,I don't know what she's talking about... but at least，it's true that I'm<br>still excited.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+l2dmessage,ピコ,Hmm... then... it's a game continue，huh... Bring it on... Fufufu!♡<br> ,,vc_10140100032_042_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ピコ,Well then... Pico-nyan is entering the extra stage...<br> ,,vc_10140100032_043_01
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

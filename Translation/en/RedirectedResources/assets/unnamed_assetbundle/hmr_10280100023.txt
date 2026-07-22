@@ -1,0 +1,95 @@
+﻿adultui,off
+
+bg,abg12000b,off
+
+charaload,chara_1,102801000X,エミリー
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0031,1
+
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,,After coming multiple times，the man had a lively smile，as if he could<br>work hard again starting tomorrow.<br> 
+
+asyncseplay,setag3_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+message,エミリー,I'm glad you enjoyed it!♪ I had a really great time，too!<br> ,,vc_10280100023_001_01
+
+asyncseplay,setag3_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+message,エミリー,Well then，please be sure to come again!<br> ,,vc_10280100023_002_01
+
+message,,The man left with a light step，completely different from when he<br>arrived. Seeing that，Emily looked truly delighted.<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,エミリー,I get to see my customers' happy faces and earn money too—it's such<br>a great job!♪<br> ,,vc_10280100023_003_01
+
+asyncseplay,setag3_3,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+charaface,chara_1,FaceUnique01
+message,エミリー,But still... that customer's load was amazing... So that's how much<br>guys can store up，huh.<br> ,,vc_10280100023_004_01
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceHappy
+message,エミリー,He came a lot，so that means he enjoyed it that much，right? Fufu，<br>that makes me happy!♪<br> ,,vc_10280100023_005_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceShy
+message,エミリー,Oh，that's right... Maybe next time I'll get Commaander to cum a lot<br>too...<br> ,,vc_10280100023_006_01
+
+asyncseplay,setag3_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceUnique01
+message,エミリー,Ehehe，I'm starting to want to see Commaander!♪<br> ,,vc_10280100023_007_01
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

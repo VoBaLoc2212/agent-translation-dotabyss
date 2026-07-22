@@ -1,0 +1,64 @@
+{
+  "scene": "hmn_10460100003",
+  "scene_description": "Elmia first meeting - bodyguard helps retrieve stolen sword from bandits",
+  "character": "エルミア (Elmia)",
+  "character_role": "elf bodyguard and appraiser, recruited to Frontline Base",
+  "addressing": {
+    "Elmia_self": "tôi",
+    "Elmia_to_Commander": "cậu/Chỉ Huy/anh (context: hired bodyguard, registers as colleague)",
+    "Commander_self": "tôi",
+    "Commander_to_Elmia": "cậu/Elmia"
+  },
+  "source_language": "JP (via ja.json identity map) + EN asset (English text)",
+  "detection": "EN-asset-is-English (en.json non-empty, asset text English; title field still JP)",
+  "text_commands": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 99
+  },
+  "translation_notes": "Arrow Rain kept as English per convention (skill-name). Star Blade/Star Edge kept in quotes. 『司令官』→『Chỉ Huy』. Bandit speaker label 盗賊たち kept as-is. %user% preserved from EN asset.",
+  "issues": [],
+  "independent_verify": {
+    "scene": "hmn_10460100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 98,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 99,
+    "translated_records": 99,
+    "changed_lines": 99,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1495,
+      "vi": 1495,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "a1d33695b1a9e8eb10e032bb59e50a33cfaf754c9e5dc09ee41828b837af4315",
+    "output_sha256": "304716881fc0d6b9325732bbc2b9a5c48e8d58a2b65ef8090ad55e7a57a8e971"
+  },
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 99
+  },
+  "translatable_records": 99,
+  "translated_records": 99,
+  "changed_lines": 99,
+  "status": "PASS"
+}

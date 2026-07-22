@@ -1,0 +1,69 @@
+{
+  "scene": "hmn_10260100003",
+  "task": "Translate Dot Abyss asset hmn_10260100003 (JP->VI) under dotabyss-rpg-vn-translator rules",
+  "case": "EN-asset-is-English (en.json holds English; asset text fields are English structural authority; ja.json is JP primary meaning source)",
+  "source": {
+    "jp_primary": "dotabyss-translation-main/translations/novels/hmn_10260100003/ja.json",
+    "en_structure_authority": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10260100003.txt",
+    "en_json": "dotabyss-translation-main/translations/novels/hmn_10260100003/en.json"
+  },
+  "output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10260100003.txt",
+  "work_dir": "dotabyss-rpg-vn-translator/work/hmn_10260100003_full",
+  "generator": "build_vi.py (positional field replace; mirrors EN asset <br>/<size> tag counts; U+201A for in-text commas)",
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "title_case_vietnamese": "Những Điều Cô Gái Cô Đơn Thiếu",
+    "ascii_comma_replaced_with_U+201A": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "delimiters_ids_tags_placeholders_preserved": true,
+    "en_source_not_modified": true,
+    "h18_adult_content_translated_normally": true,
+    "character_names_kept_jp": [
+      "シルヴィア (charaload/speaker label kept verbatim)",
+      "お兄様/Đại Huynh addressing localized"
+    ]
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 84,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "notes": [
+    "Line 1 silent pause: JP '…………', EN asset rendered as '...'; VI uses '…………' to clear the UNCHANGED_TEXT_RECORDS flag while preserving the silent-pause meaning (intentional).",
+    "お兄様 -> 'Đại Huynh' (Elder Brother) per JP primary; EN asset used 'Onii' but JP source is authoritative for meaning.",
+    "Sylvia (シルヴィア) is the in-dialogue romanization matching shipped VI convention; speaker/charaload label 'シルヴィア' kept byte-identical.",
+    "Đại Huyệt = Abyss (大穴) terminology used consistently."
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10260100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 84,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 86,
+    "translated_records": 86,
+    "changed_lines": 86,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 908,
+      "vi": 908,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "7e8f5f99135ac6e60a8afacf2cad4d3a53c04ae9d0e52b88b24e26cc7fdbf5bf",
+    "output_sha256": "8df0e5f40ed58e4ba796f81f1b0feecabe61276960ecb49ff1b016875b666aad"
+  }
+}

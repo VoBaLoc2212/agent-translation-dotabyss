@@ -1,0 +1,830 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10430100022
+
+charaload,chara_1,104301000X,ジェンマ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10430100022_001_01,1
+
+
+
+
+l2dmotion,Blush00
+
+window,on,0.15
+message,,Gemma's hands were bound above her head，her underwear stripped.<br>Though powerless，she remained perfectly at ease.<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,0.7
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+l2dmessage,ジェンマ,Well，well，you've prepared quite the elaborate setup. So this kind of<br>play is to your liking，my guest?<br> ,,vc_10430100022_001_01
+
+
+message,,The Strongest Prostitute 'J'—I'm here today to defeat you. I'm known<br>as a sexual champion. I should be more than enough as an opponent.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+message,,Gemma's expression remained composed at the man's declaration of<br>war.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.3
+
+l2dmessage,ジェンマ,Hah，I see，I see. So we're having a match，are we? And you even<br>prepared magic restraint tools for it.<br> ,,vc_10430100022_002_01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.3
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+l2dmessage,ジェンマ,It's not my specialty，but I know a thing or two. This toy wasn't<br>cheap，was it?<br> ,,vc_10430100022_003_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+message,,Indeed，the man had paid the magic tool artisan handsomely. She saw<br>through his insecurity，and humiliation washed over him.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,ジェンマ,So you want to beat me that badly... I suppose it's the duty of a<br>senior to be an obstacle for the young.<br> ,,vc_10430100022_004_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+
+l2dmessage,ジェンマ,So，what are you going to do now? Are you satisfied just staring at<br>me like this?<br> ,,vc_10430100022_005_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+message,,Though he had her restrained，the man was on the defensive. To hide<br>his frustration，he thrust his hips toward her exposed cunt.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10430100022_002_01,1,on
+
+wait,0.7
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+l2dmessage,ジェンマ,Mmm... Ah，*pant*...<br> ,,vc_10430100022_006_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+l2dmessage,ジェンマ,*huff*，*gasp*... Fufu... Pretty forceful，aren't you? Did you get<br>impatient，my guest?<br> ,,vc_10430100022_007_01
+
+
+message,,The man's expression twisted. Normally he'd have used foreplay，but<br>Gemma's taunts made him thrust his cock inside without thinking.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8.5
+
+l2dmessage,ジェンマ,*sigh*... Ah... *pant*... Honestly，you don't know how to handle a<br>woman. You came to beat me，but at this rate，I can't lose to you.<br> ,,vc_10430100022_008_01
+
+
+message,,Even though he inserted without preparation，her cunt was soaking<br>wet，giving his cock only a slick，painless pleasure.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+l2dmessage,ジェンマ,*pant*... mmm... The size is decent，but your hip movements lack<br>power. Come on，come on，put a bit more spirit into it!<br> ,,vc_10430100022_009_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Her cunt was incredible，delivering new pleasure with every stroke of<br>his cock. He was stunned that his own pleasure surged as he thrust.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+l2dmessage,ジェンマ,Oh，you changed your movement，did you? Grinding the tip of your<br>cock against that spot... *huff*...<br> ,,vc_10430100022_010_01
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,10
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,10
+
+
+l2dmessage,ジェンマ,Ngh... at the entrance，huh... I hear many girls are weak there，but<br>for me，it's still not enough. Try harder!♪<br> ,,vc_10430100022_011_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The sexual techniques that had made many women cry out were<br>casually brushed aside by 'J'.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,9.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,9.5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,9.5
+
+l2dmessage,ジェンマ,*sigh*... Your hips lack confidence. At this rate，even a virgin<br>wouldn't moan. Hoh hoh... Let me show you the power of experience.<br> ,,vc_10430100022_012_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10430100022_003_01,1
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,Even while bound，Gemma began to stroke the man's cock with lewd<br>movements of her hips.<br> 
+
+l2dmotion,FaceAngleLeft
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+l2dmessage,ジェンマ,*pant*，Ah... *pant*... Fufu... All I can use is my hips and cunt，but<br>even so，it's too much for you to handle，isn't it，boy?<br> ,,vc_10430100022_013_01
+
+
+message,,Her cunt，already more than pleasurable enough，writhed and<br>engulfed the head of his cock with each movement of her hips.<br> 
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7
+
+l2dmessage,ジェンマ,Ah... Ah... *sigh*... There now，your cock is trembling inside me，isn't<br>it? What's wrong，boy? Are you about to cum already?<br> ,,vc_10430100022_014_01
+
+
+message,,With the slightest movement from her，the man's hips nearly gave<br>way，and at the sudden climax，fear crept in alongside the pleasure.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,ジェンマ,You brought such impressive bondage gear，is it really okay to finish<br>like this? You haven't even gotten your money's worth，have you? Mmm?<br> ,,vc_10430100022_015_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+message,,That's right，I didn't come here to lose so easily... With his last shred<br>of pride，the man reached for Gemma's tits.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10430100022_004_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,BlushReset,on,STOP,1.5
+
+wait,0.5
+
+l2dmessage,ジェンマ,—Ah，aah...!<br> ,,vc_10430100022_016_01
+
+
+message,,When the man's hand toyed with her nipples，Gemma twitched in<br>response.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+l2dmessage,ジェンマ,Aahn... Aah... Fufu，that's right... Mmph!... Unlike me，you've got your<br>hands free，don't you，boy...<br> ,,vc_10430100022_017_01
+
+
+message,,But Gemma's smile did not falter. She even seemed to find a certain<br>charm in the man desperately resisting while enduring the pleasure.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+l2dmessage,ジェンマ,Mmm!♡ *sigh*... Good，good，not bad technique at all. You're worthy<br>of the name 'sexual champion'. You certainly know how to serve.<br> ,,vc_10430100022_018_01
+
+
+message,,Unlike Gemma，who kept her composure，the man，savoring the skin<br>clinging to his hand and her soft tits，grew even more aroused.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,ジェンマ,Ah... Aah... *huff*... There now，you're going to win，aren't you? Use<br>both your hands and hips to make me feel it... *pant*...<br> ,,vc_10430100022_019_01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,By now，the man could only take shallow breaths，barely able to<br>suppress the sensation of his sperm rising.<br> 
+
+l2dmotion,FaceAngleBottom
+
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+l2dmessage,ジェンマ,...It seems you can't go on. I'll take pity on you. Mmph! *sigh*... I'll<br>make sure you feel good before I send you home!♪<br> ,,vc_10430100022_020_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Gemma slid her cunt up and down，tightening her walls，the soft lewd<br>flesh wrapping around his cock's head like a ring，stroking upward——<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10430100022_005_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ジェンマ,*huff*，*grunt*... *pant*...<br> ,,vc_10430100022_021_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+message,,The man climaxed too easily，spilling his semen like a leak. For a man<br>who prided himself on his lower body，it was a pathetic ejaculation.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleRight,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+l2dmessage,ジェンマ,*pant*... *pant*... What's this，boy? Already came? You talked big，but<br>this is all you've got，huh.<br> ,,vc_10430100022_022_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,7
+
+asyncl2dmotion,MouthEmotion03,on,STOP,7
+
+l2dmessage,ジェンマ,Well，the amount was about average，boy. And the force was lacking<br>too... I suppose I'll have to look forward to next time.<br> ,,vc_10430100022_023_01
+
+
+message,,He was even criticized for his weak ejaculation，shredding his pride<br>and negating any satisfaction from his climax.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7
+
+l2dmessage,ジェンマ,...Well now，you were saying you'd beat me，so I feel a bit sorry for<br>you，boy... but we still have time，y'know.<br> ,,vc_10430100022_024_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+l2dmessage,ジェンマ,I'll be gentle from here on. Customer，how about you remove these<br>restraints already...<br> ,,vc_10430100022_025_01
+
+
+message,,Figuring the match was over，Gemma tried to return to her work as a<br>courtesan. But the man could not accept his one-sided defeat.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,1
+
+bgvplay,bgvtag2_6,bgv_10430100022_006_01,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+l2dmotion,EyebrowEmotionReset
+
+message,,—He had a final trump card for times like this. He downed a bottle<br>he'd taken out，and a surge of blood flooded into his cock.<br> 
+
+
+l2dmessage,ジェンマ,Oh，ohhh...!<br> ,,vc_10430100022_026_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+message,,The man thrust，spreading Gemma's pussy with his explosively swollen<br>cock. His cock，sensitive after cumming，held on thanks to the drug.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,ジェンマ,Aah... ah，*pant*... Fufu，I see，hmm... Th-this isn't a bad cock，is it...<br>aah!<br> ,,vc_10430100022_027_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+l2dmessage,ジェンマ,But to think you'd bring out a drug... *puff*，*gasp*... I can feel how<br>much you want this，customer... Aahn...!<br> ,,vc_10430100022_028_01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,Gemma，who'd kept her composure，let out an unmistakable moan of<br>pleasure. The man regained his confidence and thrust into her harder.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10430100022_007_01,1,on
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+l2dmotion,EyeEmotionReset
+
+wait,1.3
+
+l2dmessage,ジェンマ,Aah! Ngh! Mmmmph!<br> ,,vc_10430100022_029_01
+
+
+message,,His hand once again reached for her nipples，and his full-powered<br>thrusts sent pleasure surging through Gemma.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+l2dmessage,ジェンマ,Ngh! Mmmph! Ah! Aahn... This is amazing! Even I can't hold back my<br>moans... *pant*!<br> ,,vc_10430100022_030_01
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+
+l2dmessage,ジェンマ,It's hitting my deep，good spot too... Ahaah... Aahn... It feels so<br>good... *pant*...<br> ,,vc_10430100022_031_01
+
+
+message,,Gemma closed her eyes and swayed，savoring the pleasure. Her juices<br>spilled from her slit，revealing the intensity of her ecstasy.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,But the man was not unscathed either. His drug-swollen cock felt the<br>hot，squelching grip of her cunt to an almost excessive degree.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,ジェンマ,That big one twitched and shuddered... ahh... good...! At this rate，I<br>think I can cum... hahn，ah...!<br> ,,vc_10430100022_032_01
+
+l2dmotion,EyeEmotionReset
+
+message,,Just as the man was convinced he could make the Strongest<br>Courtesan cum，Gemma opened her eyes.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10430100022_008_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmessage,ジェンマ,Here... my turn!<br> ,,vc_10430100022_033_01
+
+
+message,,Matching his rhythm，Gemma thrust back hard. Her cunt clamped his<br>cockhead，sending a pleasure jolt that nearly blanked his mind.<br> 
+
+
+l2dmotion,FaceAngleBottom
+
+l2dmessage,ジェンマ,Aahn，ahh... there we go! How's that? Feels good，yeah?<br> ,,vc_10430100022_034_01
+
+
+message,,The pleasure was so intense he nearly nodded in response. The cum<br>inside his cock was being pulled out in rapid，tight little pulses.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Though he had already come once，he was driven deeper into<br>pleasure. He felt his cockhead trembling，readying for the next orgasm.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+l2dmessage,ジェンマ,Aaaah，ahh，*pant*...! You look like you're about to lose，huh? That<br>okay with you? You came all this way to beat me，didn't you? Hmm，ah!<br> ,,vc_10430100022_035_01
+
+
+message,,That's right，he couldn't lose. He had restrained her and even taken<br>that drug.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+l2dmessage,ジェンマ,Aahn! *pant*... you can still go，can't you，customer! More! Give me<br>more! Come on，keep going!<br> ,,vc_10430100022_036_01
+
+
+message,,And yet Gemma's cunt，her stiff nipples，and her sweet voice all<br>assaulted him，trying to overwhelm him with pleasure and make him submit.<br> 
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,6.5
+
+l2dmessage,ジェンマ,Fufu... that desperate face of yours is irresistible...! Mmph，ngh...<br>*pant*! Then I'll show you my real power...!<br> ,,vc_10430100022_037_01
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene09,on,STOP,1
+
+bgvplay,bgvtag2_9,bgv_10430100022_009_01,1
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion05,on,STOP,2
+
+
+message,,Gemma thrust her hips wildly，her cunt milking him. The same grip<br>that brought him to climax returned，unleashing overwhelming pleasure.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+
+l2dmessage,ジェンマ,Come on，now! What's wrong?! Ahn! Ah! Your hands are slacking，<br>customer!<br> ,,vc_10430100022_038_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Her words made him realize his hand had fallen away from her nipples.<br>Now he could only arch back and endure the pleasure.<br> 
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+
+l2dmessage,ジェンマ,I see... feels too good，does it? That's it! You adorable little rascal!<br>Aahn! Ahaah!<br> ,,vc_10430100022_039_01
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+l2dmessage,ジェンマ,You have worked hard，you are quite the sexual champion... Ngh!<br>*pant*...! So cum now! Cumming now feels the best，doesn't it?<br> ,,vc_10430100022_040_01
+
+
+message,,She was right. Letting go now would feel incredible. Unlike the earlier<br>leakage from holding back，he wanted to release everything.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,But if he came by choice，admitting defeat，that was total surrender.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+
+l2dmessage,ジェンマ,Admit defeat and let it out nicely! Ahn! Ah! Ah! There! Cum! Cum!<br> ,,vc_10430100022_041_01
+
+
+message,,He already wanted to let it out，to cum – to lose to this woman. The<br>moment he thought that，his testicles tightened and his cock trembled violently.<br> 
+
+bgvstop,bgvtag2_9,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene10
+
+bgvplay,bgvtag2_10,bgv_10430100022_010_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ジェンマ,Ahh，ngh...! Aaaaah...!<br> ,,vc_10430100022_042_01
+
+
+message,,A massive ejaculation，far surpassing the first. Gemma savored semen<br>striking deep inside her cunt as she came lightly too.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+l2dmessage,ジェンマ,*pant*... *pant*... *sigh*... I came too... Fufu，that was quite good... my<br>customer...<br> ,,vc_10430100022_043_01
+
+
+message,,While the man gasped for breath，Gemma calmly basked in pleasure. It<br>wasn't a climax forced on her—she accepted it with satisfaction.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+message,,—I lose. The man accepted defeat and bowed before 'J'.<br> 
+
+
+l2dmessage,ジェンマ,Mmm... *pant*... Ahaha.<br> ,,vc_10430100022_044_01
+
+
+message,,Gemma gazed at the man，crushed by defeat，with a look of loving<br>compassion.<br> 
+
+bgvstop,bgvtag2_10,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene11,on,STOP,0.5
+
+bgvplay,bgvtag2_11,bgv_10430100022_011_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ジェンマ,...Well，it's because you asked that we had this contest. But is there<br>really any need to suffer over winning or losing at sex?<br> ,,vc_10430100022_045_01
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+asyncl2dmotion,FaceAngleRight,on,STOP,8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+l2dmessage,ジェンマ,Even I have a man I want to beat. That's why I want to be a good<br>woman. But y'know，if losing makes you sad，I wouldn't even want to win.<br> ,,vc_10430100022_046_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,ジェンマ,You want to win because you love，and to please because you care.<br>Wanting the other person to be happy—that should be the foundation.<br> ,,vc_10430100022_047_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+l2dmessage,ジェンマ,You tried your best to make me feel good，boy. You were splendid，<br>and I enjoyed myself too.<br> ,,vc_10430100022_048_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+l2dmessage,ジェンマ,We worked together and had wonderful sex. That's enough，isn't it，<br>hmm?<br> ,,vc_10430100022_049_01
+
+
+
+message,,Gemma adapted to the man fixated on winning and losing，hoping he<br>would enjoy a satisfying night.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+message,,At that realization，the man was moved beyond mere defeat. He had<br>submitted to her not through sexual skill but as a human being.<br> 
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+message,,And so，once again，the Strongest Prostitute 'J' had created another<br>legend.<br> 
+
+
+bgvstop,bgvtag2_11,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

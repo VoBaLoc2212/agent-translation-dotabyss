@@ -1,0 +1,1166 @@
+{
+  "scene": "hmn_10080100001",
+  "status": "PASS",
+  "generated_at": "2026-07-19T09:59:12.511244+00:00",
+  "paths": {
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10080100001.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10080100001.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10080100001\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10080100001\\en.json",
+    "workdir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10080100001_full"
+  },
+  "source": {
+    "sha256_en_asset": "433e87b7d1d881bb8773dfed15b85daaf0b24b2e98a1ca114503db53bcf87602",
+    "sha256_ja_json": "69c8eaa1c270bc9c25b033fde67cca9dc63b4deaed90ba04162c0f4912d3d0b9",
+    "sha256_en_json": "956a78d447dd54ba1f2edb6c0cb07a6e2f8565791b93c4ff4625512ff8915afc",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 2084
+  },
+  "candidate_counts": {
+    "message": 109,
+    "messageTextCenter": 0,
+    "messageTextUnder": 0,
+    "title": 1
+  },
+  "text_records_total": 110,
+  "records": [
+    {
+      "index": 1,
+      "line": 23,
+      "command": "title",
+      "status": "TRANSLATED",
+      "source_en": "A Visitor from Perdion",
+      "translation_vi": "Vị Khách Từ Perdion",
+      "delimiter_count": 1,
+      "tag_count": 0
+    },
+    {
+      "index": 2,
+      "line": 68,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Here you go. Today's tea and snacks.<br> ",
+      "translation_vi": "Xin mời. Trà và bánh hôm nay đây ạ.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 3,
+      "line": 70,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Oh，thanks.<br> ",
+      "translation_vi": "Ồ‚ cảm ơn nhé.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 4,
+      "line": 125,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Wow，thanks! Muffins today，how awesome!<br> ",
+      "translation_vi": "Wa‚ cảm ơn♪ Hôm nay là bánh muffin à‚ tuyệt quá……!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 5,
+      "line": 136,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Please，help yourself!<br> ",
+      "translation_vi": "Mời mọi người cứ tự nhiên♪<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 6,
+      "line": 160,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Nom，nom... mmm，delicious! The inside is moist and perfectly sweet，<br>it's the best!<br> ",
+      "translation_vi": "Măm măm…… ưm～ ngon quá～!<br>Bên trong mềm ẩm‚ vị ngọt thanh nhã‚ tuyệt nhất luôn!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 7,
+      "line": 172,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Fufu... I'm glad you like them.<br> ",
+      "translation_vi": "Fufu…… em mừng là chị thích.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 8,
+      "line": 183,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I'll go do some shopping，so take your time，Verisa.<br> ",
+      "translation_vi": "Em đi mua sắm một chút‚ nên chị cứ thong thả nhé‚ Verisa.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 9,
+      "line": 194,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "See you later! Nom，nom...<br> ",
+      "translation_vi": "Đi vui nhé～♪ Măm măm……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 10,
+      "line": 247,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "You just waltz in，eat for free，and still have the nerve to critique?<br> ",
+      "translation_vi": "Cô tự tiện ở lì đây‚ ăn chùa‚ vậy mà vẫn bày đặt nhận xét hách dịch được nhỉ.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 11,
+      "line": 258,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "You say that，Big Bro，but you're happy to have tea together，aren't<br>you?<br> ",
+      "translation_vi": "Anh nói vậy thôi chứ‚ anh ơi‚<br>được uống trà cùng Verisa làm anh vui lắm đúng không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 12,
+      "line": 277,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "What，can't you eat unless I say \"\"ahh\"\"? Did you get all needy even<br>with your adjutant here? Fufu!<br> ",
+      "translation_vi": "Hay là anh không ăn được nếu em không đút “a～” cho? <br>Trước mặt chị phó quan mà cũng muốn làm nũng rồi sao～? Fufu♪<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 13,
+      "line": 279,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...Whatever，just eat as you like.<br> ",
+      "translation_vi": "……Thôi được rồi‚ cứ ăn tùy cô đi.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 14,
+      "line": 290,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "See，Big Bro is so kind! I can't wait for tomorrow's snack!<br> ",
+      "translation_vi": "Đúng là anh hiền ghê♪ Em mong bánh ngày mai quá đi～.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 15,
+      "line": 292,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "She's planning to come again，huh...<br> ",
+      "translation_vi": "Cô ta còn định đến nữa à……<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 16,
+      "line": 303,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Hey hey Big Bro，how about frozen treats for tomorrow?<br> ",
+      "translation_vi": "Nè nè anh ơi‚ bánh ngày mai là đồ đá lạnh thì sao?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 17,
+      "line": 314,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Something cold to cool down your overheated body!<br> ",
+      "translation_vi": "Loại lạnh buốt giúp hạ nhiệt cơ thể đang nóng bừng ấy!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 18,
+      "line": 316,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Don't be selfish. Besides，a fire mage shouldn't be asking for frozen<br>treats.<br> ",
+      "translation_vi": "Đừng có đòi hỏi vô lý.<br>Với lại pháp sư lửa thì đừng đòi ăn đồ đá lạnh chứ.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 19,
+      "line": 328,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Exactly because I'm good at fire magic，right? Frozen treats that cool<br>a body heated by magic are the best.<br> ",
+      "translation_vi": "Chính vì em giỏi ma pháp lửa mà‚ đúng không?<br>Đồ đá lạnh làm mát cơ thể nóng lên vì ma pháp là tuyệt nhất đó.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 20,
+      "line": 339,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "In Perdion，I used to have them after missions.<br> ",
+      "translation_vi": "Ở Perdion‚ em thường ăn sau nhiệm vụ lắm～.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 21,
+      "line": 341,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Oh? So you actually had work over there too?<br> ",
+      "translation_vi": "Ồ? Ở bên đó cô cũng có việc làm cơ à.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 22,
+      "line": 352,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Obviously! The brilliant mage Verisa was in high demand，after all!<br> ",
+      "translation_vi": "Tất nhiên rồi～? Pháp sư ưu tú Verisa-chan được săn đón khắp nơi mà!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 23,
+      "line": 363,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...My little sister got more assignments than me，though.<br> ",
+      "translation_vi": "……Dù em gái em được giao nhiều việc hơn em.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 24,
+      "line": 365,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Oh，you have a little sister. So she's been outshining you，then?<br> ",
+      "translation_vi": "Ồ‚ cô có em gái à. Vậy là cô thua kém em gái mình về thực lực nhỉ.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 25,
+      "line": 376,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "That's not true! It's just that by Perdion's standards，she's rated a<br>teeeeny bit higher than me.<br> ",
+      "translation_vi": "Không có chuyện đó đâu nhé?<br>Theo tiêu chuẩn của Perdion thì em ấy chỉ được đánh giá cao hơn em mộ～t chút thôi.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 26,
+      "line": 378,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...So that means you're just plain losing to her as a mage，doesn't it?<br> ",
+      "translation_vi": "……Vậy chẳng phải đơn giản là cô thua em ấy trên tư cách pháp sư sao?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 27,
+      "line": 389,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ugh. So that's the kind of thing you say，Mister?<br> ",
+      "translation_vi": "À～. Anh ơi‚ hóa ra anh nói kiểu đó đấy hả～?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 28,
+      "line": 407,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Look，my sister's always been—<br> ",
+      "translation_vi": "Nghe này‚ con bé đó từ xưa đã――<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 29,
+      "line": 453,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "With a loud bang，the door burst open，and a robed woman stepped<br>into the command room.<br> ",
+      "translation_vi": "――Rầm!<br>Cánh cửa bật mở kèm một tiếng động lớn‚ và một phụ nữ mặc áo choàng bước vào phòng chỉ huy.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 30,
+      "line": 457,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Who are you?<br> ",
+      "translation_vi": "Ngươi là ai!?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 31,
+      "line": 459,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Never seen you before. That outfit... you're a mage from Perdion，<br>aren't you?<br> ",
+      "translation_vi": "Mặt lạ nhỉ.<br>Bộ đồ đó…… có vẻ là pháp sư của Perdion……<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 32,
+      "line": 501,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Y-you! What are you doing here?<br> ",
+      "translation_vi": "A‚ cô……! Sao cô lại ở đây!?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 33,
+      "line": 503,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "A friend of yours，Verisa?<br> ",
+      "translation_vi": "Người quen của cô à‚ Verisa?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 34,
+      "line": 514,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "F-friend? That's not even...<br> ",
+      "translation_vi": "Q-quen hay không thì……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 35,
+      "line": 576,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...Long time no see，Sis.<br> ",
+      "translation_vi": "……Lâu rồi không gặp‚ chị.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 36,
+      "line": 578,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Sis...? Did I hear that right...?<br> ",
+      "translation_vi": "Chị…… sao……?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 37,
+      "line": 597,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Veera! Why are you here...!<br> ",
+      "translation_vi": "Veera!? Sao em lại đến nơi này……!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 38,
+      "line": 608,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I volunteered to join the reinforcements from Perdion. I thought I'd<br>get to see Sis if I came here.<br> ",
+      "translation_vi": "Em tình nguyện gia nhập viện quân từ Perdion.<br>Em nghĩ nếu đến đây thì có thể gặp chị.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 39,
+      "line": 660,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Reinforcements! H-hey，come here a second!<br> ",
+      "translation_vi": "Viện quân……!? N-này‚ qua đây một chút!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 40,
+      "line": 723,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Huh? Sis?<br> ",
+      "translation_vi": "Ơ‚ chị?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 41,
+      "line": 807,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Verisa took Veera by the hand and led her to a corner of the<br>command room.<br> ",
+      "translation_vi": "Verisa nắm tay Veera‚<br>dẫn cô ấy tới một góc phòng chỉ huy.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 42,
+      "line": 816,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Veera，why are you here? You know this place is dangerous，don't<br>you?<br> ",
+      "translation_vi": "Veera‚ sao em lại đến đây?<br>Em biết nơi này nguy hiểm mà đúng không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 43,
+      "line": 827,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yeah. Because it's dangerous，I thought Sis must be having a hard<br>time.<br> ",
+      "translation_vi": "Vâng. Vì nguy hiểm‚<br>nên em nghĩ chắc chị đang gặp khó khăn.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 44,
+      "line": 838,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Wh—I'm not having any trouble at all! Nothing's been going wrong!<br> ",
+      "translation_vi": "C-chị đâu có gặp khó khăn gì đâu! Chẳng có vấn đề gì xảy ra hết mà!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 45,
+      "line": 858,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Really?<br> ",
+      "translation_vi": "……Thật không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 46,
+      "line": 869,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Of course! With my magic，even the huge monsters in the Abyss are<br>toast in no time!<br> ",
+      "translation_vi": "Tất nhiên rồi! Có ma pháp của chị‚<br>thì cả quái vật to đùng trong Hố Sâu cũng hóa tro dễ ợt thôi!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 47,
+      "line": 884,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(So that's Veera—Verisa's little sister? Verisa's really talking big，<br>saying she can turn monsters to ash like it's nothing...)<br> ",
+      "translation_vi": "(Cô Veera đó hình như là em gái Verisa……<br>Verisa khoác lác ghê thật‚ nói cứ như biến quái vật thành tro dễ như không……)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 48,
+      "line": 886,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(But Veera's a famous mage even in Perdion，isn't she? You'd think<br>she'd realize right away that Verisa can't use magic like that...)<br> ",
+      "translation_vi": "(Nhưng Veera là pháp sư nổi tiếng ngay cả ở Perdion mà nhỉ?<br>Đáng lẽ cô ấy phải nhận ra ngay Verisa không dùng được ma pháp cỡ đó chứ……)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 49,
+      "line": 934,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Uh-huh，monsters wouldn't stand a chance against Sis.<br> ",
+      "translation_vi": "Vâng‚ nếu là chị thì quái vật chẳng là gì cả.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 50,
+      "line": 949,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(Huh? That's not going the way I expected...)<br> ",
+      "translation_vi": "(……Ủa? Câu chuyện đang lệch khỏi dự đoán của mình rồi?)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 51,
+      "line": 973,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Sis is incredible，so you must be having a really tough time helping<br>everyone.<br> ",
+      "translation_vi": "Vì chị tuyệt vời lắm‚ nên để giúp mọi người‚<br>chắc chị phải vất vả lắm đúng không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 52,
+      "line": 984,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "There are monsters only you can beat，crises that only powerful<br>magic can handle... Plenty of them，right?<br> ",
+      "translation_vi": "Những quái vật chỉ chị mới đánh bại được‚<br>những nguy cơ phải có ma pháp mạnh mới xử lý nổi…… nhiều lắm phải không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 53,
+      "line": 995,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "It must be too much for just you. That's why I came to help.<br> ",
+      "translation_vi": "Một mình chị chắc vất vả lắm. Nên em đến để giúp chị.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 54,
+      "line": 1049,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ngh...!<br> ",
+      "translation_vi": "A…… ư…… khưư……!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 55,
+      "line": 1064,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(Verisa has a really complicated look on her face! It's a mix of<br>happiness and awkwardness!)<br> ",
+      "translation_vi": "(Mặt Verisa phức tạp kinh khủng……!<br>Biểu cảm pha trộn giữa vui sướng và khó xử!)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 56,
+      "line": 1098,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "See? That's my little sis—you really get it! Your big sis Verisa is way<br>too in demand，you know!♪<br> ",
+      "translation_vi": "Q-quả không hổ là em gái chị‚ em hiểu rõ ghê!<br>Verisa-chan này được khắp nơi trông cậy nên bận tối mắt đấy♪<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 57,
+      "line": 1113,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(She totally ran with it! She's laying it on way too thick!)<br> ",
+      "translation_vi": "(Cô ta hùa theo luôn rồi! Dù thế nào cũng phóng đại quá mức rồi đấy!)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 58,
+      "line": 1135,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Just as I thought. That's Sis for you.<br> ",
+      "translation_vi": "Đúng như em nghĩ. Không hổ là chị.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 59,
+      "line": 1146,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "From now on，I'll be here to help too，so you can count on me.<br> ",
+      "translation_vi": "Từ giờ em cũng sẽ giúp chị‚ nên chị cứ yên tâm nhé.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 60,
+      "line": 1157,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Y-yeah... I guess you are reliable，Veera，but...<br> ",
+      "translation_vi": "Ừ-ừm…… đúng vậy‚ Veera đáng tin lắm‚ nhưng mà……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 61,
+      "line": 1206,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Uh，Verisa? Since that's settled，mind introducing me?<br> ",
+      "translation_vi": "……À‚ Verisa? Nếu nói chuyện xong rồi thì giới thiệu cho tôi được không?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 62,
+      "line": 1217,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ah，sorry，sorry.<br> ",
+      "translation_vi": "À‚ xin lỗi‚ xin lỗi.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 63,
+      "line": 1273,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Oh，this is my sister Veera I mentioned. She's a mage just as amazing<br>as me，so treat her well，okay!♪<br> ",
+      "translation_vi": "Đây là em gái chị vừa nhắc tới‚ Veera.<br>Em ấy là pháp sư ưu tú chẳng thua gì chị‚ nên hãy thân với em ấy nhé♪<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 64,
+      "line": 1322,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "My apologies for the belated introduction. I am Veera，sent here from<br>Perdion.<br> ",
+      "translation_vi": "Xin lỗi vì chào hỏi muộn.<br>Em là Veera‚ được phái đến từ Perdion.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 65,
+      "line": 1331,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "So you're... Lord Commander?<br> ",
+      "translation_vi": "Ngài là Chỉ Huy…… phải không ạ?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 66,
+      "line": 1333,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yeah，I'm Commander %user%.<br> ",
+      "translation_vi": "Ừ‚ tôi là Chỉ Huy %user%.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 67,
+      "line": 1344,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yes，it's a pleasure to meet you.<br> ",
+      "translation_vi": "Vâng‚ rất mong được ngài giúp đỡ.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 68,
+      "line": 1355,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "... Fufu.<br> ",
+      "translation_vi": "……Fufu.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 69,
+      "line": 1357,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Hm? What is it? What's so funny?<br> ",
+      "translation_vi": "Hửm‚ sao vậy? Có gì buồn cười à?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 70,
+      "line": 1368,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "As I thought，the leaders of this base are Lord Commander and Sis.<br> ",
+      "translation_vi": "Quả nhiên người đứng đầu căn cứ này là ngài Chỉ Huy và chị nhỉ.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 71,
+      "line": 1422,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Wha?! V-Veera? Why would you think that?<br> ",
+      "translation_vi": "Hể!? V-Veera? Sao em lại nghĩ vậy?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 72,
+      "line": 1433,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Because it was you and Lord Commander in the command room of the<br>Frontline Base.<br> ",
+      "translation_vi": "Vì trong phòng chỉ huy của Căn Cứ Tiền Tuyến<br>có ngài Chỉ Huy và chị mà.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 73,
+      "line": 1444,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "You're the key members of this base，so you were discussing future<br>operations，right?<br> ",
+      "translation_vi": "Hai người là thành viên chủ chốt của căn cứ này‚<br>nên đang bàn về các chiến dịch sắp tới đúng không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 74,
+      "line": 1455,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "W-Well... ugh... I was just using it to slack off and eat snacks...<br> ",
+      "translation_vi": "C-cái đó…… ưư…… Chị chỉ dùng nơi này để lười biếng ăn bánh một chút thôi……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 75,
+      "line": 1457,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yeah，there's no doubt Verisa is a key member.<br> ",
+      "translation_vi": "Ừ‚ Verisa là thành viên chủ chốt thì không nghi ngờ gì.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 76,
+      "line": 1468,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "M-Mister?!<br> ",
+      "translation_vi": "A-anh ơi!?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 77,
+      "line": 1516,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "As I thought. Sis is dependable，right?<br> ",
+      "translation_vi": "Quả nhiên là vậy. Chị đáng tin cậy lắm đúng không?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 78,
+      "line": 1518,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yes，she's highly knowledgeable in magic，and she's actually quite<br>caring.<br> ",
+      "translation_vi": "Ừm‚ cô ấy có kiến thức ma pháp phong phú‚<br>và trông vậy thôi chứ cũng rất biết quan tâm.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 79,
+      "line": 1520,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Having her in the squad really boosts its stability. She's what you'd<br>call valuable personnel.<br> ",
+      "translation_vi": "Có cô ấy trong đội thì độ ổn định tăng hẳn.<br>Đúng là nhân lực quý giá.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 80,
+      "line": 1531,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "You really understand Sis's worth... As expected of Lord Commander.<br> ",
+      "translation_vi": "Ngài thật sự hiểu giá trị của chị…… Quả không hổ là ngài Chỉ Huy.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 81,
+      "line": 1542,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I'm truly relieved... I can trust you to lead.<br> ",
+      "translation_vi": "Em thật sự mừng…… Có lẽ em có thể đi theo ngài.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 82,
+      "line": 1544,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Haha，there's no way we can afford to let a talented mage like you<br>slack off! Not at this base!<br> ",
+      "translation_vi": "Haha‚ căn cứ này không dư dả đến mức<br>để một pháp sư tài năng được lười biếng đâu!<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 83,
+      "line": 1598,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Just because Veera's here，you're getting cocky...<br>How cheeky of you，Mister!<br> ",
+      "translation_vi": "Anh cậy có Veera ở đây nên lên mặt……<br>Anh ơi mà dám láo quá……!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 84,
+      "line": 1600,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "No，I'm being serious here.<br>There's no substitute for you.<br> ",
+      "translation_vi": "Không‚ chuyện này tôi nói thật đấy.<br>Không ai thay thế được cô đâu.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 85,
+      "line": 1611,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Agh! ...Geez...<br>Don't give me weird compliments at a time like this...<br> ",
+      "translation_vi": "Hự!? ……Trời ạ……<br>Đừng khen kiểu kỳ quặc vào lúc thế này chứ……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 86,
+      "line": 1620,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...Lord Commander，you're close with my big sister，aren't you?<br> ",
+      "translation_vi": "……Ngài Chỉ Huy‚ ngài thân với chị nhỉ?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 87,
+      "line": 1622,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yeah，I'd say she's my one and only partner.<br> ",
+      "translation_vi": "Ừ‚ có thể nói cô ấy là cộng sự độc nhất của tôi.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 88,
+      "line": 1633,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "You're really exaggerating there!<br> ",
+      "translation_vi": "Cái đó thật sự là nói quá rồi đó～!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 89,
+      "line": 1644,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Fufu... you really are close.<br>It's rare for my big sister to let her guard down this much...<br> ",
+      "translation_vi": "Fufu…… hai người thân nhau thật.<br>Hiếm khi chị lại thả lỏng cảnh giác đến vậy……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 90,
+      "line": 1646,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I'd like to get close to you too，Veera.<br> ",
+      "translation_vi": "Tôi cũng rất muốn thân với em nữa‚ Veera.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 91,
+      "line": 1657,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Yes，Lord Commander. I welcome you，since you're close with my big<br>sister.<br> ",
+      "translation_vi": "Vâng‚ ngài Chỉ Huy. Nếu ngài thân thiết với chị‚<br>em rất hoan nghênh.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 92,
+      "line": 1668,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ah，Mister!<br>Don't look at her with weird eyes just because she's cute!<br> ",
+      "translation_vi": "A‚ anh ơi!<br>Đừng nhìn Veera bằng ánh mắt kỳ lạ chỉ vì em ấy dễ thương nhé?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 93,
+      "line": 1670,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Haha，as payback for always calling me Mister，<br>I could call you Big Sis，you know?<br> ",
+      "translation_vi": "Haha‚ để đáp lễ chuyện cô cứ gọi tôi là anh ơi suốt‚<br>tôi gọi cô là chị vợ cũng được đấy?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 94,
+      "line": 1720,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ahaha... Hey，Mister?<br>That joke is... not funny... at all，now is it?<br> ",
+      "translation_vi": "Ahaha…… này‚ anh ơi?<br>Trò đùa đó…… không vui…… chút nào…… đâu nhỉ～～～?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 95,
+      "line": 1722,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...I won't say it again，so I'd appreciate it if you'd stop directing that<br>murderous intent at me.<br> ",
+      "translation_vi": "……Tôi sẽ không nói lần thứ hai‚<br>nên cô dừng chĩa sát khí vào tôi thì tôi mừng lắm……<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 96,
+      "line": 1776,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "...Fufu. I'm glad to see my big sister seems to be doing well.<br> ",
+      "translation_vi": "……Fufu. Em mừng vì chị có vẻ vẫn khỏe.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 97,
+      "line": 1785,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "So，Veera. What's your reason for coming to this base?<br> ",
+      "translation_vi": "Vậy‚ Veera. Lý do em đến căn cứ này là gì?<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 98,
+      "line": 1833,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Of course，to fight alongside everyone.<br> ",
+      "translation_vi": "Tất nhiên là để chiến đấu cùng mọi người.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 99,
+      "line": 1853,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Partly for the sake of the world，but... I came to this base because I<br>wanted to work together with my big sister.<br> ",
+      "translation_vi": "Một phần cũng là vì thế giới……<br>nhưng em đến căn cứ này vì muốn được làm việc cùng chị.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 100,
+      "line": 1864,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Please，in the battles here...<br>could you let me participate in the same missions as my big sister?<br> ",
+      "translation_vi": "Xin hãy cho em tham gia các trận chiến ở đây……<br>tham gia cùng nhiệm vụ với chị được không ạ?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 101,
+      "line": 1918,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Huh? W-what?!<br>Suddenly，the same missions as me... Is that really okay?<br> ",
+      "translation_vi": "Ơ‚ ơơ!?<br>Đột nhiên cùng nhiệm vụ với chị…… thật sự ổn chứ?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    },
+    {
+      "index": 102,
+      "line": 1929,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I'll be fine. I'll definitely prove myself.<br> ",
+      "translation_vi": "Không sao‚ em nhất định sẽ làm được.<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 103,
+      "line": 1931,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Hmm... you're right...<br> ",
+      "translation_vi": "Hmm…… đúng vậy nhỉ……<br> ",
+      "delimiter_count": 2,
+      "tag_count": 1
+    },
+    {
+      "index": 104,
+      "line": 1979,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(...Her calm demeanor and confident attitude. I can tell she's a skilled<br>mage.)<br> ",
+      "translation_vi": "(……Cử chỉ điềm tĩnh‚ thái độ tự tin.<br>Có thể thấy cô ấy là một pháp sư giỏi.)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 105,
+      "line": 1981,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "(But still，there's something childlike about her. The way she<br>overestimates Verisa and seems oddly fixated on her.)<br> ",
+      "translation_vi": "(Nhưng ngược lại‚ cô ấy vẫn có gì đó trẻ con.<br>Như việc đánh giá Verisa cao lạ thường‚ hay có vẻ bám chấp vào cô ấy.)<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 106,
+      "line": 1996,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Perfect timing，then. Alright. I'll have Veera join the mission I was<br>going to take Verisa on.<br> ",
+      "translation_vi": "Đúng lúc lắm. Được rồi.<br>Tôi sẽ để Veera đi cùng nhiệm vụ mà tôi định dẫn Verisa theo.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 107,
+      "line": 2007,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Really? I'm so glad...!<br> ",
+      "translation_vi": "Thật sao ạ? Em vui quá……!<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 108,
+      "line": 2061,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "Ehhh!? Mister，are you for real...?<br> ",
+      "translation_vi": "Hể～～!? Anh ơi‚ anh nghiêm túc đó hả……?<br> ",
+      "delimiter_count": 5,
+      "tag_count": 1
+    },
+    {
+      "index": 109,
+      "line": 2063,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "I get that you're worried about your sister，but it's just a transport<br>escort mission. It's not that dangerous.<br> ",
+      "translation_vi": "Tôi hiểu cô lo cho em gái‚ nhưng đây là nhiệm vụ hộ vệ đội vận chuyển.<br>Không phải chiến dịch nguy hiểm đến thế đâu.<br> ",
+      "delimiter_count": 2,
+      "tag_count": 2
+    },
+    {
+      "index": 110,
+      "line": 2075,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_en": "It's not like I'm worried or anything! But... I never imagined I'd be<br>working together with Veera...<br> ",
+      "translation_vi": "Chị đâu có lo đâu nhé?<br>Nhưng…… không ngờ chị lại làm việc cùng Veera……<br> ",
+      "delimiter_count": 5,
+      "tag_count": 2
+    }
+  ],
+  "translation_notes": [
+    "JP primary; EN asset used for line/tag alignment.",
+    "Commander/司令官 -> Chỉ Huy.",
+    "Speaker names and charaload names preserved.",
+    "ASCII commas avoided inside Vietnamese text fields; U+201A used where needed.",
+    "No H18 content present in this scene."
+  ],
+  "unresolved": [],
+  "independent_verify": {
+    "scene": "hmn_10080100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 109,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 110,
+    "translated_records": 110,
+    "changed_lines": 110,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2084,
+      "vi": 2084,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "433e87b7d1d881bb8773dfed15b85daaf0b24b2e98a1ca114503db53bcf87602",
+    "output_sha256": "c009da4924ddfca48254a43f5d4ef4cab4aa7ddeabf531f265c6cb0b44ecbc72"
+  }
+}

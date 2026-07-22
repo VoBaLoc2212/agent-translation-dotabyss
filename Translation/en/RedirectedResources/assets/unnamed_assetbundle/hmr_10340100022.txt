@@ -1,0 +1,694 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10340100022
+
+charaload,chara_1,103401000X,カーラ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10340100022_001_01,1,on
+
+
+
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+window,on,0.15
+message,カーラ,(D-dammit，I let my guard down... Getting swept up in his pace so<br>quickly...)<br> ,,vc_10340100022_001_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+l2dmotion,MouthEmotionReset
+
+message,,The man roughly pulled at her uniform，exposing Carla's ample<br>breasts.<br> 
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyeOpen02
+
+message,,Her bared body，while full of feminine charm，also possessed the<br>beauty forged through rigorous training.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+message,,'Heh，you're pretty well built，aren't you?' The man's words sent a<br>jolt of unease through her.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+message,カーラ,(...! As expected，I can't hide the results of my daily drills...)<br> ,,vc_10340100022_002_01
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+message,,However，the man seemed to prefer muscular women，and he leered at<br>Carla's body with a vulgar smile.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+message,カーラ,(There are plenty of muscular women at this Frontline Base... G-good.<br>Maybe he hasn't figured out I'm with the Republic Guard...)<br> ,,vc_10340100022_003_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+message,,'Huh? That's a pretty distinct tan line.' The man's words made Carla<br>uneasy again.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.5
+
+
+message,カーラ,(...! This swimsuit tan line is from coast guard duty... T-this could be<br>bad!)<br> ,,vc_10340100022_004_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmessage,カーラ,I'm sorry... it's from when I went swimming at the beach... I got a bit<br>carried away...<br> ,,vc_10340100022_005_01
+
+l2dmotion,EyeEmotionReset
+
+message,,Carla blurted a lie to cover herself，but the man bought it，saying<br>'You're a fun-loving gal，huh?' and laughed vulgarly.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.5
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+message,カーラ,(G-good... He bought it...! He hasn't figured out I'm with the Republic<br>Guard...!)<br> ,,vc_10340100022_006_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1.5
+
+message,カーラ,(Alright... this is where it gets serious. First，according to plan，I'll<br>use my body to make this man putty in my hands...)<br> ,,vc_10340100022_007_01
+
+l2dmotion,EyeEmotionReset
+
+message,,Just as Carla was about to retake control，the man's fingers touched<br>her most private spot.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10340100022_002_01,1,on
+
+
+
+wait,2.6
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,カーラ,Eh! Mmph...! Ah! W-wait... Stop!<br> ,,vc_10340100022_008_01
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+l2dmessage,カーラ,S-sir，ah... um...! W-why don't we go to bed...? P-please wait...!<br> ,,vc_10340100022_009_01
+
+
+message,,'What，I can't do what I want?' The man blustered，and Carla<br>swallowed her words.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+
+message,カーラ,(H-he's planning to do it standing up right here...! Ngh... b-but<br>resisting rashly might be dangerous...)<br> ,,vc_10340100022_010_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.5
+
+l2dmessage,カーラ,N-no... Please do as you wish，sir...<br> ,,vc_10340100022_011_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+l2dmessage,カーラ,Ngh! Aaah... Ngh... *pant*，Aaah... Mmph...<br> ,,vc_10340100022_012_01
+
+
+message,,The man's fingers writhed inside her vagina like caterpillars，but<br>Carla endured，stifling her voice.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+message,カーラ,(What the hell! The way his fingers move... If he stirs me like that，I'm<br>bound to react...)<br> ,,vc_10340100022_013_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,Her tightness and inexperience fueled the man's excitement. He<br>smirked，""Hey，you've barely done this，have you?""<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+l2dmessage,カーラ,Tch... Th-that's not...<br> ,,vc_10340100022_014_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+message,カーラ,(Dammit... Is my inexperience going to show? What should I do...<br>Mmph!... Ah!... I can't think straight...)<br> ,,vc_10340100022_015_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+l2dmessage,カーラ,Y-your fingers are just too skilled，sir... Mmph!... I've never met such<br>an expert before...<br> ,,vc_10340100022_016_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Pleased by her words，the man said，""If you're this good with one<br>finger，how about two?"" and intensified his assault.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10340100022_003_01,1,on
+
+l2dmotion,FaceAngleReset
+
+wait,2.5
+
+l2dmotion,MouthEmotion03
+
+l2dmessage,カーラ,Haungh! Ngh... Aah，*pant*!<br> ,,vc_10340100022_017_01
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,カーラ,Uunn... Mmph! Mmmph! *pant*! Aaah! Ah! Unn... Mmph! Kuh! Hau!<br>Uunn!<br> ,,vc_10340100022_018_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4
+
+message,カーラ,(N-no，stop... t-two fingers...! Ah... I'm gonna climax from just your<br>fingers...!)<br> ,,vc_10340100022_019_01
+
+
+
+message,,""If it goes that deep，you're no virgin. So how many men have you<br>been with?"" The man asked，a vulgar grin spreading across his face.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionLeft
+
+l2dmessage,カーラ,Ngh... ex... experience... with... men...?<br> ,,vc_10340100022_020_01
+
+
+message,,Carla's confusion only made his grin wider. ""I'm asking how many<br>cocks you've taken.""<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+l2dmessage,カーラ,Huh... ah...<br> ,,vc_10340100022_021_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+message,カーラ,(W-what should I do... If I lie poorly，he'll definitely see through it...<br>Instead of playing games，I should answer honestly...)<br> ,,vc_10340100022_022_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+l2dmessage,カーラ,Well... then... just one... only one person...<br> ,,vc_10340100022_023_01
+
+
+
+message,,At Carla's answer，the man was taken aback and asked，""Doing this<br>kind of work，really only one?""<br> 
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1.5
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,カーラ,Mmph... y-yes... Today is my first day on the job，so...<br> ,,vc_10340100022_024_01
+
+
+message,,At that，the man muttered 'I see' and went silent. Wordlessly，he ran<br>his fingers over Carla's body，as if searching for something.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+message,カーラ,(He's gone silent... Has he found out I'm undercover here...?)<br> ,,vc_10340100022_025_01
+
+
+message,,Then the man suddenly cried out in sheer delight.<br>'Isn't this just the best?'<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,FaceAngleLeft
+
+l2dmessage,カーラ,Wha...!<br> ,,vc_10340100022_026_01
+
+
+message,,'I love tough gals who don't look it!'<br>the man shouted，breathing heavily.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+message,カーラ,(A gal? Actually，there's a culture where girls tan and wear flashy<br>makeup，and it's called something like that...)<br> ,,vc_10340100022_027_01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+message,カーラ,(Th-thank goodness... It seems he's mistaken my tan lines for that gal<br>culture...!)<br> ,,vc_10340100022_028_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,The man shouted excitedly.<br>'I'm taking your second virginity!'<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene04,on,STOP,1.5
+
+bgvplay,bgvtag2_4,bgv_10340100022_004_01,1,on
+
+
+l2dmessage,カーラ,Ehh! Mmph... Aaaaaaah! Ngh...<br> ,,vc_10340100022_029_01
+
+
+message,,Carla cried out as he entered her without warning. The head of his<br>penis，which she had let inside，pressed against her womb entrance.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+l2dmotion,EyeOpen00
+
+l2dmessage,カーラ,Mmph... Ngh... Mmph... *pant*，*pant*...<br>Mmph... Mmph... *sigh*...<br> ,,vc_10340100022_030_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,With tears welling up in her eyes，Carla endured the humiliation as<br>the man pressed on. 'How does my dick taste?'<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+message,カーラ,(Even if you press me for an impression... all I can think is that his<br>penis is a little smaller than the Commander's... um，uhh...)<br> ,,vc_10340100022_031_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,カーラ,How should I put it... compared to what I've experienced before... it<br>feels like something d-different is entering me...<br> ,,vc_10340100022_032_01
+
+
+message,,Hearing Carla's faltering words，the man mistook them for an<br>innocent，inexperienced reaction，and his excitement grew.<br> 
+
+l2dmotion,FaceAngleRight
+
+
+message,,""This is good... I'm gonna enjoy you plenty."" With that，the man's hips<br>started thrusting violently.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10340100022_005_01,1,on
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+l2dmessage,カーラ,*pant* Mmph! Ahn!... mmm，Aaaahn! *pant*... Mmph!... No...!<br> ,,vc_10340100022_033_01
+
+
+message,,The man thrust his hips roughly，a lecherous grin on his face.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+l2dmessage,カーラ,Mmph!... Aah! Ah!... Mmph!... *pant*! Mmph!... *sob*... Mmph!...<br>Aaaah!... *pant*!<br> ,,vc_10340100022_034_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+l2dmessage,カーラ,Ah!... Ngh... No!... Aah!... Ngh!... No!... Ah!... *pant*!<br> ,,vc_10340100022_035_01
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+l2dmotion,MouthEmotion00
+
+message,カーラ,(Wh-what is this feeling of being forcibly violated... Th-this is...)<br> ,,vc_10340100022_036_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Carla was supposed to feel resistance to the man's forceful thrusts.<br>But—<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2
+
+message,カーラ,(Eh? N-no... no way... Why!?)<br> ,,vc_10340100022_037_01
+
+
+message,,Contrary to Carla's feelings，her own wetness gushed from deep<br>within her womb.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+message,カーラ,(Wh-why is this happening!? I... I'm supposed to hate this... but I'm<br>soaking wet... why!?)<br> ,,vc_10340100022_038_01
+
+
+message,,Her slick walls tightened around his shaft，swallowing it. The man<br>couldn't hold back and shouted，'This is the best cunt!'<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,カーラ,Ah... d-don't say such embarrassing things! P-please don't say that!<br> ,,vc_10340100022_039_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10340100022_006_01,1,on
+
+
+l2dmotion,EyebrowEmotionReset
+
+wait,0.5
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,カーラ,Uunn... Aaaaah!<br> ,,vc_10340100022_040_01
+
+
+message,,Growing more excited，the man thrust violently. His hard cockhead<br>scraping her womb's entrance sent sparks behind Carla's eyelids.<br> 
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+l2dmessage,カーラ,Ngh... Ah... Aaaah... Ngh... Ah... *pant*! If this keeps up... I'm going to<br>lose my mind...!<br> ,,vc_10340100022_041_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2
+
+l2dmessage,カーラ,Ah... Uunn... *pant*... Aaaah! My body... it's going to break...!<br> ,,vc_10340100022_042_01
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+l2dmessage,カーラ,Ah... Aah... *pant*... Aaaaah! This is too rough... I can't take it...!<br> ,,vc_10340100022_043_01
+
+
+message,,Carla's mind went blank from relentless pleasure. Even with all her<br>training，she couldn't endure it.<br> 
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleRight
+
+message,カーラ,(No... Nnh... mm... I have to complete the mission... but before that...<br>I'm going to break...)<br> ,,vc_10340100022_044_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen00
+
+l2dmessage,カーラ,N-no... I'm going to... cum...!<br> ,,vc_10340100022_045_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,0.5
+
+bgvplay,bgvtag2_7,bgv_10340100022_007_01,1,on
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmessage,カーラ,Ah! Mmph! Ahaaaahh!<br> ,,vc_10340100022_046_01
+
+
+message,,Carla's body went rigid for an instant as a torrent of thick white cum<br>flooded into her vagina，searing her from within.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmessage,カーラ,*pant*，*pant*，*pant*... Mmph... *whimper*... Mmph...<br> ,,vc_10340100022_047_01
+
+
+message,,The hot semen that couldn't be contained spilled from where they<br>were joined and trickled down Carla's sun-tanned thighs.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+message,カーラ,(Good... I managed to make him cum at the same time as me...)<br> ,,vc_10340100022_048_01
+
+asyncl2dmotion,MouthEmotion00,on,STOP,2
+
+l2dmotion,EyeOpen00
+
+message,,In her dazed mind，Carla savored the success of the mission.<br>However，it wasn't over yet.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The man flashed another lewd grin. 'Hey，hey，don't you know? You<br>could end up with my baby.'<br> 
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1
+
+l2dmessage,カーラ,No... I'm on birth control，so...<br> ,,vc_10340100022_049_01
+
+
+message,,Carla answered coldly. Yes，everything was going according to plan.<br> 
+
+l2dmotion,FaceAngleLeft
+
+
+l2dmessage,カーラ,...Shall we continue?<br> ,,vc_10340100022_050_01
+
+
+message,,To Carla's question，the man smiled wryly and said，""Whoa，give me a<br>break. My body can't handle it.""<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion02
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen04,on,STOP,5
+
+l2dmessage,カーラ,No，we still have time... so allow me to serve you thoroughly. For the<br>rest... with this play...<br> ,,vc_10340100022_051_01
+
+window,off
+bgmstop,bgmtag2_1,1
+fade,Out,Black,1
+
+bgvstop,bgvtag2_7,1.5,1
+
+l2dhide
+
+bg,abg18200a
+
+wait,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,,With that，Carla took out the hidden rope and skillfully tied up the<br>man's hands，still weak from his recent ejaculation.<br> 
+
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

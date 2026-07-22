@@ -1,0 +1,468 @@
+Abyss
+深淵=Vực Thẳm
+倍=x
+挑む=Thử Thách
+ゲートキー=Chìa Khóa Cổng
+探索地点選択=Chọn Điểm Thám Hiểm
+到達報酬=Phần Thưởng Đạt Được
+月間報酬=Phần Thưởng Hàng Tháng
+初期地点から<br>ゲームを開始する=Bắt đầu từ<br>điểm khởi đầu
+r:"^([0-9]+)Fからゲームを<br>開始する$"=Bắt đầu trò chơi<br>từ $1F
+チェックポイント<br>から始める=Bắt đầu từ<br>điểm lưu nghiệm
+初期地点=Điểm Khởi Đầu
+10階分のスコア計算=Tính Điểm Số 10 Tầng
+10階分のドロップ数=Tính Rơi Đồ 10 Tầng
+複数のゲートキーを消費して、スコアとドロップに倍率をかけることができます。=Bạn có thể tiêu hao nhiều Chìa Khóa Cổng để nhân lên Điểm Số và Rơi Đồ.
+ゲートキー消費効果=Hiệu ứng tiêu hao Chìa Khóa Cổng
+編成したキャラの強化や装備の変更は探索から帰還するまで反映されません=<size\=80%>Những thay đổi cho Đội sẽ không có hiệu lực cho đến khi bạn trở về từ Thám Hiểm.
+深淵内では編成の変更ができません。<br>選択した編成で深淵に挑みますか？=Bạn không thể thay đổi Đội khi ở trong Vực Thẳm.<br>Thử Thách Vực Thẳm với Đội hiện tại?
+ゲートキー獲得まで=<size\=80%>Chìa Khóa Cổng tiếp theo
+フロア=Tầng
+現在:=Độ Sâu:
+r:"^([0-9]+)フロア目$"=Tầng $1
+獲得アビスコイン：=Xu Vực Thẳm Nhận Được:
+獲得ナゾの鍵：=<size\=90%>Chìa Khóa Bí Ẩn:
+最大到達フロア=Tầng Đạt Được Tối Đa
+連続踏破フロア=Tầng Liên Tiếp
+深淵実績=<size\=80%>Thành Tựu Vực Thẳm
+深淵報酬=<size\=80%>Phần Thưởng Vực Thẳm
+深淵ミッション=Sứ Mệnh Vực Thẳm
+アビスコード図鑑=<size\=80%>Bách Khoa\nToàn Thư
+深部調査=<size\=80%><cspace\=-0.1em>Điều Tra Sâu
+r:"^([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Đến $1/$2 $3:$4
+バフ戦力=<size\=68%>Chiến Lực Bổ Trợ
+sr:"^([\S\s]+)系統$"=Hệ Thống $1
+効果説明=Giải Thích Hiệu Ứng
+アビスコード所持数=<size\=70%>Số Lượng Mã Vực Thẳm
+収集報酬=Phần Thưởng Thu Thập
+変換=<size\=75%>Chuyển Đổi
+ボス\n=Trùm\n
+パーティ状況=Tình Trạng Đội
+獲得アイテム=Vật Phẩm Nhận Được
+現在地へ=<size\=90%>Đến Vị Trí Hiện Tại
+r:"^([0-9]+)フロア$"=$1 Tầng
+ゲートキー<color\=#4cf37b>1</color>を使用して探索を続行しますか？=Bạn có muốn sử dụng Chìa Khóa Cổng <color\=#4cf37b>1</color>\nđể tiếp tục Thám Hiểm không?
+探索続行確認=Xác Nhận Tiếp Tục Thám Hiểm
+次のフロア=Tầng Tiếp Theo
+現在の探索中パーティー=Đội Thám Hiểm Hiện Tại
+帰還する=Trở Về
+続行する=Tiếp Tục
+アビスコードを所持していません。=Không có Mã Vực Thẳm.
+戦闘=Chiến Đấu
+強敵=<size\=50%><cspace\=-0.1em>Kẻ Địch Mạnh
+イベント=Sự Kiện
+フロア内で取る行動を選択=Chọn hành động cần làm trên Tầng
+sr:"^([\S\s]+)系統の恩恵ゲージが<color\=#4cf37b>([0-9]+)上昇</color>しました。$"=Thanh Ban Phước của nhánh $1 đã <color\=#4cf37b>tăng thêm $2</color>.
+ゲートキーの消費=Tiêu Hao Chìa Khóa Cổng
+アビスコードを獲得しました。=Nhận Mã Vực Thẳm Sau Đây.
+探索フロア数ボーナス=Thưởng Số Tầng Thám Hiểm
+持ち帰ったアイテム=Vật Phẩm Mang Về
+インパクトコード数=Số Mã Va CHạm
+ラッシュコード数=Số Mã Đột Kích
+セーフコード数=Số Mã Phòng Ngự
+リスクコード数=Số Mã Rủi Ro
+探索フロア数=<size\=70%>Số Tầng Đã Thám Hiểm
+今回の編成=  Đội Hình Lần Này
+深淵評価=Đánh Giá Vực Thẳm
+累計報酬ポイントLv=Lv Điểm Phần Thưởng Tích Lũy
+ゲートキー消費スコアポイント=<size\=80%>Điểm số tiêu hao Chìa Khóa Cổng
+到達隠しフロア数=<size\=70%>Số Tầng Ẩn đạt được
+戦闘回数【強敵】=<size\=70%>Số lần Chiến Đấu [Kẻ Địch Mạnh]
+あと=<size\=80%>Còn lại
+最終スコア=Điểm Số Cuối Cùng
+あと=<size\=80%>Còn lại
+sr:"^(インパクトコード|ラッシュコード|セーフコード|リスクコード)([0-9]+)種獲得$"=Nhận được $2 loại $1
+
+Terms & Stats
+衝撃=<size\=90%>Xung Kích</size>
+情熱=<size\=90%>Nhiệt Huyết</size>
+ ↑ NB: both above also appear in equipment details
+浸食率=<size\=75%>Tỉ Lệ Xâm Thực</size>
+アビスコード=Mã Vực Thẳm
+インパクトコード=Mã Va Chạm
+ラッシュコード=Mã Đột Kích
+セーフコード=Mã Phòng Ngự
+リスクコード=Mã Rủi Ro
+アビスコイン=Xu Vực Thẳm
+与ダメージ= Sát Thương Gây Ra
+被ダメージ=Sát Thương Nhận
+会心ダメージ=Sát Thương Chí Mạng
+スキルチャージ効率=Hiệu Suất Tích Nạp KN
+スキルダメージ=Sát Thương Kỹ Năng
+会心ダメージ=Sát Thương Chí Mạng
+火・水・土=Hỏa・Thủy・Thổ
+
+光・闇・無=Ánh Sáng・Bóng Tối・Không
+深淵ショップ=Cửa Hàng Vực Thẳm
+所持数=<size\=75%>Đã Sở Hữu</size>
+
+深淵ショップ=Cửa Hàng Vực Thẳm
+受け取る=Nhận Lấy
+リロール=Làm Mới
+受け取らない=Không Nhận
+選択中のアビスコード=Mã Vực Thẳm Đang Chọn
+浄化=Thanh Tẩy
+休憩=Nghỉ Ngơi
+変換=<size\=75%>Chuyển Đổi
+アビスコード変換=Chuyển Đổi Mã Vực Thẳm
+確定=Xác Nhận
+恩恵一覧=Danh Sách Ban Phước
+達成条件=Điều Kiện:
+恩恵１=Phước.1
+恩恵2=Phước.2
+恩恵3=Phước.3
+ゲージ5以上で獲得=Nhận khi Thanh đạt 5+
+ゲージ10以上で獲得=Nhận khi Thanh đạt 10+
+ゲージ15以上で獲得=Nhận khi Thanh đạt 15+
+ゲージ5以上で獲得=Nhận khi Thanh đạt 5+
+ゲージ10以上で獲得=Nhận khi Thanh đạt 10+
+獲得アイテム一覧 =Danh Sách Vật Phẩm Nhận Được 
+拠点に送られたアイテム=Vật Phẩm đã được gửi về Tiền Đồn
+ナゾの鍵=Chìa Khóa Bí Ẩn
+sr:"^ナゾの袋ランク(?<rank_i>[0-9]+)\(([^\)]+)\)"=Túi Bí Ẩn Hạng ${rank_i} (<size\=95%>$1</size>)
+侵食されし歯車=Bánh Răng Bị Xâm Thực
+侵食されし宝石=Đá Quý Bị Xâm Thực
+侵食キューブ=Khối Lập Phương Bị Xâm Thực
+侵食されし結晶=Pha Lê Bị Xâm Thực
+深淵内で手に入る鍵。深淵内でのみ使用できる。=Chìa Khóa tìm thấy và chỉ có thể sử dụng trong Vực Thẳm.
+sr:"^「深淵」限定アイテム\n深淵から無事に帰還することで中身を開封できる。\n装備品の(?<type>[^ガ]+)が入っている。"=Vật phẩm giới hạn 「<size\=80%>Vực Thẳm</size>」\nCó thể mở khi trở về an toàn.\nBên trong chứa ${type}.
+「深淵」限定アイテム\n深淵に浸食されながらも動き続ける歯車。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。=Vật phẩm giới hạn 「<size\=80%>Vực Thẳm</size>」\nTiếp tục quay mặc dù bị xâm thực.\nSử dụng để mở khóa các hiệu ứng trong 「<size\=80%>Điều Tra Sâu</size>」.
+「深淵」限定アイテム\n再現不可能なほど微細で複雑なカットが施された宝石。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。=Vật phẩm giới hạn 「<size\=80%>Vực Thẳm</size>」\nĐược chạm khắc với những hoa văn phức tạp không thể tưởng tượng nổi.\nSử dụng để mở khóa các hiệu ứng trong 「<size\=80%>Điều Tra Sâu</size>」.
+「深淵」限定アイテム\n謎の技術で立方体状に切り取られ、置換された空間。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。=Vật phẩm giới hạn 「<size\=80%>Vực Thẳm</size>」\nKhông gian đã bị cắt bỏ và thay thế bằng công nghệ bí ẩn.\nSử dụng để mở khóa các hiệu ứng trong 「<size\=80%>Điều Tra Sâu</size>」.
+「深淵」限定アイテム\n闇を固めたかのような黒き水晶。\n「深部調査」で深淵限定の特殊効果の解放に使用できる。=Vật phẩm giới hạn 「<size\=80%>Vực Thẳm</size>」\nĐen nhánh như thể chính bóng tối đã hóa thành dạng rắn.\nSử dụng để mở khóa các hiệu ứng trong 「<size\=80%>Điều Tra Sâu</size>」.
+r:"^アビスコイン([0-9]+)獲得"=Nhận $1 Xu Vực Thẳm
+r:"^浸食率([0-9]+)減少"=Tỉ Lệ Xâm Thực↓ $1
+r:"^<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#4cf37b>Phục Hồi $1％ HP</color>
+アビスコード獲得=Nhận Mã Vực Thẳm
+アイテム獲得=Nhận Vật Phẩm
+
+r:"^アビスコイン([0-9]+)個消費$"=Mất $1 Xu Vực Thẳm
+r:"^浸食率([0-9]+)上昇$"=Tỉ Lệ Xâm Thực↑ $1
+r:"^浸食率([0-9]+)増加$"=Tỉ Lệ Xâm Thực↑ $1
+r:"^浸食\+([0-9]+)$"=<size\=70%>X.Thực↑+$1
+r:"^HP([0-9]+)%減少$"=Mất $1％ HP
+鍵消費=Dùng Chìa Khóa
+
+_r:"^<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#ff8232>Tỉ Lệ Xâm Thực↑ $1</color>
+_r:"^<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#ff8232>Mất $1% HP</color>
+_r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>
+_r:"^<color\=#4cf37b>アビスコイン([0-9]+)獲得</color>\r\n<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#4cf37b>Nhận $1 Xu Vực Thẳm</color>\r\n<color\=#ff8232>Giảm $2% HP</color>
+_r:"^<color\=#ff8232>浸食率([0-9]+)上昇</color>\r\n<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#ff8232>Tăng Tỉ Lệ Xâm Thực $1</color>\r\n<color\=#4cf37b>Phục hồi $2% HP</color>
+_r:"^<color\=#4cf37b>アビスコード獲得</color>\r\n<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#4cf37b>Nhận Mã Vực Thẳm</color>\r\n<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>
+_r:"^<color\=#4cf37b>アビスコード獲得</color>\r\n<color\=#ff8232>HP([0-9]+)%減少</color>$"=<color\=#4cf37b>Nhận Mã Vực Thẳm</color>\r\n<color\=#ff8232>Giảm $1% HP</color>
+_r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>アビスコイン30個消費</color>$"=<color\=#4cf37b>Nhận vật phẩm</color>\r\n<color\=#ff8232>Tiêu hao 30 Xu Vực Thẳm</color>
+_r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>\r\n<color\=#4cf37b>浸食率([0-9]+)減少</color>$"=<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>\r\n<color\=#4cf37b>Giảm Tỉ Lệ Xâm Thực $2</color>
+_r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#4cf37b>Nhận vật phẩm</color>\r\n<color\=#ff8232>Tăng Tỉ Lệ Xâm Thực $1</color>
+_r:"^<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>アビスコイン([0-9]+)個消費</color>$"=<color\=#4cf37b>Nhận vật phẩm</color>\r\n<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>
+_r:"^<color\=#4cf37b>アビスコイン([0-9]+)獲得</color>\r\n<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#4cf37b>Nhận $1 Xu Vực Thẳm</color>\r\n<color\=#ff8232>Tăng Tỉ Lệ Xâm Thực $2</color>
+_r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>\r\n<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>\r\n<color\=#4cf37b>Phục hồi $2% HP</color>
+_r:"^<color\=#4cf37b>アビスコード獲得</color>\r\n<color\=#ff8232>浸食率([0-9]+)上昇</color>$"=<color\=#4cf37b>Nhận Mã Vực Thẳm</color>\r\n<color\=#ff8232>Tăng Tỉ Lệ Xâm Thực $1</color>
+<color\=#4cf37b>アイテム獲得</color>\r\n<color\=#ff8232>ナゾの鍵1個消費</color>=<color\=#4cf37b>Nhận vật phẩm</color>\r\n<color\=#ff8232>Tiêu hao 1 Chìa Khóa Bí Ẩn</color>
+r:"^<color\=#ff8232>アビスコイン([0-9]+)個消費</color>\r\n<color\=#4cf37b>HP([0-9]+)％回復</color>$"=<color\=#ff8232>Tiêu hao $1 Xu Vực Thẳm</color>\r\n<color\=#4cf37b>Phục hồi $2% HP</color>
+_r:"^<color\=#4cf37b>浸食率([0-9]+)減少</color>$"=<color\=#4cf37b>Giảm Tỉ Lệ Xâm Thực $1</color>
+_r:"^<color\=#4cf37b>アビスコイン([0-9]+)獲得</color>$"=<color\=#4cf37b>Nhận $1 Xu Vực Thẳm</color>
+ナゾの鍵が足りないため、選択できません=Không thể chọn do không đủ Chìa Khóa Bí Ẩn
+特殊なバトル開始=Bắt đầu Chiến Đấu đặc biệt
+回復=<size\=73%>Phục Hồi
+休憩=Nghỉ Ngơi
+浄化=Thanh Tẩy
+
+Abyss Nghiên Cứu
+深淵限定の特殊効果一覧=Danh sách hiệu ứng đặc biệt giới hạn Vực Thẳm
+アビスコード所持上限=Giới hạn Mã Vực Thẳm
+ドロップ率=Tỉ lệ Rơi Đồ
+研究ポイント獲得率=Tỉ lệ nhận Điểm Nghiên Cứu
+開始時の所持アビスコイン=Xu Vực Thẳm ban đầu
+アイテム預かり=Gửi Vật Phẩm
+アビスコードリロール回数=Số lần làm mới Mã Vực Thẳm
+チェックポイントフロア数=Số Tầng Điểm Lưu Nghiệm
+選択中の研究詳細=Chi Tiết Nghiên Cứu Đang Chọn
+sr:"^研究効果：(\S+)"=$1
+_研究効果=Nghiên Cứu
+アビスコード所持上限増加=Tăng giới hạn Mã Vực Thẳm
+ドロップ率上昇=Tăng Tỉ lệ Rơi Đồ
+初期アビスコイン増加=Tăng Xu Vực Thẳm ban đầu
+研究ポイント倍率上昇=Tăng hệ số Điểm Nghiên Cứu
+深淵前輸送機能解放=Mở khóa Vận Chuyển Tiền Vực Thẳm
+アビスコードリロール回数+1=Số lần làm mới Mã Vực Thẳm +1
+r:"^チェックポイント解放\(([0-9]+)F\)"=Mở khóa Điểm Lưu Nghiệm ($1F)
+1個=1 cái
+r:"^([0-9]+)個$"=$1 cái
+r:"^\+([0-9]+)枚$"=+$1 cái
+Abyss Code Parameters
+研究する=Nghiên Cứu
+sr:"^戦闘開始時、(?<effect>\S+)"=Khi bắt đầu Chiến Đấu, ${effect}
+sr:"^(?<pos>フロント|バック)キャラ(?>クター)?(?<crest>に(?>紋章：)?(?>衝撃|情熱)(?>効果)?)が付与された時、(?<effect>\S+)"=Khi đơn vị ${pos} nhận được ${crest}, ${effect}
+sr:"^(?<pos>フロント|バック)キャラ(?>クター)?の(?>紋章：衝撃|衝撃効果)が消費された時、(?<effect>\S+)"=Khi đơn vị ${pos} tiêu hao <color\=#6a8bfc>Va Chạm</color>, ${effect}
+sr:"^(?<pos>フロント|バック)キャラ(?:クター)?の(?:紋章：情熱|情熱効果)1ごとに、(?<effect>\S+)"=Mỗi 1 <color\=#fc4e4d>Nhiệt Huyết</color> của ${pos}, ${effect}
+sr:"^(?<pos>フロント|バック|アシスト)キャラがFC発動時、(?<effect>\S+)"=Khi ${pos} kích hoạt FC, ${effect}
+sr:"^(?<dur_i>[0-9]+)秒経過ごとに、(?<effect>\S+)"=Mỗi ${dur_i}s trôi qua, ${effect}
+sr:"^戦闘開始時に浸食率(?<val_i>[0-9]+[%|％])以上の時、(?<effect>\S+?)"=Nếu <color\=#ff8232>Tỉ Lệ Xâm Thực</color> >\=${val_i}, ${effect}
+sr:"^戦闘開始時に浸食率(?<val_i>[0-9]+[%|％])以下の時、(?<effect>\S+?)"=Nếu <color\=#ff8232>Tỉ Lệ Xâm Thực</color> <\=${val_i}, ${effect}
+sr:"^浸食率が高いほど(?<effect>\S+)"=Khi <color\=#ff8232>Tỉ Lệ Xâm Thực</color> càng cao, ${effect}
+sr:"^浸食率が低いほど(?<effect>\S+)"=Khi <color\=#ff8232>Tỉ Lệ Xâm Thực</color> càng thấp, ${effect}
+大地の咆哮=Gầm Đất
+地神の祭壇=Tế Đàn Thần Đất
+sr:"^(?<stat>最大HP|攻撃力|防御力|会心率|会心ダメージ|連撃率)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${val_i}${stat}↑
+sr:"^(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=toàn bộ ${pos} ${val_i}${stat}↑
+sr:"^(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${pos} ${stat}↑, tối đa ${val_i}
+sr:"^(?<dur_i>[0-9]+)秒間(?<pos>フロント|バック|アシスト)全体の(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${pos} ${val_i}${stat}↑(${dur_i}s)
+sr:"^(?<dur_i>[0-9]+)秒間付与されたキャラの(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=${stat}↑${val_i}(${dur_i}s)
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>[^が]+)が(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)上昇する"=Đơn vị hệ ${ele} ${val_i}${stat}↑
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラ(?>クター)?の(?<stat>[^が]+)が上昇する\(最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)\)"=Đơn vị hệ ${ele} ${stat}↑(Tối đa ${val_i})
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラの(?<stat>[^が]+)が減少する\(最大(?<val_i>【[0-9]+(?>\.[0-9]+)?[%|％]】)\)"=Đơn vị hệ ${ele} ${stat}↓(Tối đa ${val_i})
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラのマナを(?<num_i>【[0-9]】)チャージ"=Đơn vị hệ ${ele} cho ${num_i}Mana
+sr:"^(?<ele>光・闇・無|火・水・土)属性のキャラのスキルを(?<num_i>【[0-9]】)チャージ"=Đơn vị hệ ${ele} tích nạp ${num_i} KN
+sr:"^(?<pos>フロント|バック|アシスト)全体(?<crest>に紋章：(?>衝撃|情熱))を(?<num_i>【[0-9]】)付与する"=cấp cho toàn bộ ${pos} ${num_i}${crest}
+sr:"^味方全体(?<crest>に(?>衝撃|情熱)効果)を(?<num_i>【[0-9]】)付与する"=cấp cho toàn bộ đồng minh ${num_i}${crest}
+今後、浸食率の上昇量が5減少し、浸食率の減少量は5増加する。=Về sau, lượng <color\=#ff8232>Tỉ Lệ Xâm Thực</color> tăng sẽ ít đi <color\=#ff8232>5</color>, và lượng <color\=#ff8232>Tỉ Lệ Xâm Thực</color> giảm sẽ nhiều hơn <color\=#ff8232>5</color>.
+今後、浸食率の上昇量が5増加し、浸食率の減少量は5減少する。=Về sau, lượng <color\=#ff8232>Tỉ Lệ Xâm Thực</color> tăng sẽ nhiều hơn <color\=#ff8232>5</color>, và lượng <color\=#ff8232>Tỉ Lệ Xâm Thực</color> giảm sẽ ít đi <color\=#ff8232>5</color>.
+ついて行ってみる=Đi theo nó
+食べ物をあげる=Dâng đồ ăn
+に紋章：衝撃=<color\=#6a8bfc>Huy Hiệu: Xung Kích</color>
+に紋章：情熱=<color\=#fc4e4d>Huy Hiệu: Nhiệt Huyết</color>
+物資の中からいくつか食べ物を渡すが、警戒しているのかよっては来ない。\nお互いに無駄な争いはしたくない。そのまま後ずさり、立ち去ることにした。=Bạn dâng đồ ăn từ tiếp tế nhưng nó vẫn cảnh giác.
+に衝撃効果=<color\=#6a8bfc>Va Chạm</color>
+に情熱効果=<color\=#fc4e4d>Nhiệt Huyết</color>
+しばらく耳を傾ける=Lắng nghe một lúc
+どこからか、奇妙な音楽が聞こえる。\n耳を澄まさなければ聞き取れないほどの音量だが、隊の皆にも聞こえるという。\nどんな楽器で演奏しているのかさえ分からない初めて聞いた曲にもかかわらず、\nどこか懐かしく、聞いているうちに郷愁にも似たもの悲しさを感じさせる。=Một giai điệu lạ vẳng đến từ đâu đó, phải lắng nghe thật kỹ mới thấy.
+何かしらの攻撃かもしれない。そう判断した探索隊は先を急ぐことにした。\n結果としてその判断が功を奏したのか、瘴気の霧が薄くなるタイミングで進むことができた。=Sợ rằng đó có thể là tấn công, đoàn thám hiểm quyết định tiến nhanh.
+sr:"^(\S+)・([改|真])"=$1 $2
+改=<size\=75%>Cải</size>
+真=<size\=75%>Chân</size>
+\n今回の目的である探索地点が近いが、周囲に野営に適した場所が見つからない。\n体力か英気か、はたまた物資か……何かしらの条件は妥協しなくてはならないだろう。\n=Đích đến đã gần nhưng không có chỗ dựng trại thích hợp. Đành phải tiếp tục tiến.
+地面はごつごつして硬いが、他は快適だ。と思わなければやってられないだろう。\n身体がギシギシするが。精神的は休むことはできた……=Mặt đất gồ ghề và cứng, nhưng ít nhất mọi thứ khác đều thoải mái... hoặc bạn tự nhủ như vậy..\nYour body aches all over, but at least you've had a chance to rest your mind...
+ブラストマニュバ=Cơ Động Bùng Nổ
+ギガスマッシュ=Đập Phá Giga
+テイルフォース=Đuôi Trợ Lực
+ソリッドアーマー=Giáp Kiên Cố
+インターバルジ=Khoảng Trống Bất Thường
+リアリーロード=Nạp Lại Ria
+リア・リバウンド=Phản Lực Ria
+スパークショット=Đạn Tia Lửa
+ファースタクト=Nhịp Giảm
+アンブッシュサイン=Dấu Hiệu Phục Kích
+戦闘態勢をとる=Chuẩn bị chiến đấu
+レゾナンスコア=Lõi Cộng Hưởng
+バーストエコー=Tiếng Vang Bùng Nổ
+ハードボディ=Cơ Thể Thép
+アクレッシャー=Tích Tụ
+ハインドフラッシュ=Chớp Sáng Sau
+アフターリズム=Nhịp Dư Âm
+デッドリーパルス=Xung Lực Chết Chóc
+ショックガード=Chắn Va Chạm
+ファーストライブ=Sống Gấp
+バックストライク=Đòn Đánh Lén
+チェインビート=Nhịp Đập Xích
+ソニックラッシュ=Đột Kích Âm Thanh
+消耗品を補給=Bổ sung tiếp tế
+食料品を補給=Bổ sung lương thực
+フルスロットル=Toàn Lực
+オーバーリミット=Vượt Giới Hạn
+エナジーレゾナンス=Cộng Hưởng Năng Lượng
+クラックスノヴァ=Tân Tinh Rạn Nứt
+ナルテージ=Điện Áp Rỗng
+リアエンカレッジ=Neo Đậu Ria
+アイアンパッション=Nhiệt Huyết Thép
+リアガーディアン=Hộ Vệ Ria
+ブラストストライク=Đòn Bùng Nổ
+マルチバースト=Đa Bùng Nổ
+ラピッドソウル=Linh Hồn Nhanh Nhẹn
+ライブエネルギー=Năng Lượng Sống
+テイルイグニッション=Đánh Lửa Đuôi
+フォーカスハート=Tập Trung Tâm Trí
+スナイプパッション=Bắn Tỉa Nhiệt Huyết
+アクセルビート=Nhịp Đập Tăng Tốc
+スターティングエール=Khởi Lệnh
+
+ターバルチャージ=Nạp Kéo Dài
+バーニビリティ=Khả Năng Cháy
+チェインラッシュ=Đột Kích Chuỗi
+ブレイズリード=Dẫn Lối Lửa
+ヒートアップレイジ=Cơn Thịnh Nộ Rực Lửa
+sr:"^(?<pos>フロント|バック|アシスト)キャラがFC発動時、(?<effect>\S+)"=Khi ${pos} kích hoạt FC, ${effect}
+ディアンサンチュリ=Thánh Địa Dian
+セレティアルドーム=Mái Vòm Không Gian
+マナ・ジェネシス=Khởi Nguyên Mana
+ソウル・アルケミー=Luyện Kim Linh Hồn
+アンタッチャブル=Bất Khả Xâm Phạm
+ルミナスゲイン=Tích Lũy Ánh Sáng
+ソリッドレジスト=Kháng Cự Kiên Cố
+ホーリーレジスト=Kháng Cự Thần Thánh
+マナポテンシャル=Tiềm Năng Mana
+クイックリゾルブ=Quyết Định Nhanh
+メンタルリゾルブ=Quyết Tâm Tinh Thần
+ナチュラクセル=Tăng Tốc Tự Nhiên
+ピュアエナジー=Năng Lượng Thuần Khiết
+ネイチャーテリトリー=Lãnh Thổ Tự Nhiên
+スピリットゾーン=Khu Vực Tinh Linh
+エレメンタルガード=Bảo Vệ Nguyên Tố
+タクティカルクリア=Giải Trừ Chiến Thuật
+アストルチャージ=Nạp Tinh Tú
+エーテルシールド=Khiên Ether
+ブレイブブースト=Tăng Cường Dũng Cảm
+シェルプロテクト=Bảo Vệ Vỏ Bọc
+サイキックライン=Tuyến Siêu Nhiên
+フェイズリンク=Liên Kết Pha
+に衝撃効果=<color\=#6a8bfc>Va Chạm</color>
+アビスエンボディ=Hiện Thân Vực Thẳm
+カタストフラム=Ngọn Lửa Tai Ương
+マッドブレイズ=Lửa Điên Cuồng
+イクリプスゲイン=Nhật Thực Hấp Thụ
+ディザスターベール=Bức Màn Thảm Họa
+カースドソース=Nguồn Nguyền Rủa
+ナイトメアチャージ=Tích Lũy Ác Mộng
+バーストトリガー=Kích Hoạt Bùng Nổ
+ファントムドライブ=Ảo Ảnh Truy Kích
+デッドリーライン=Tuyến Chết Chóc
+カオスエナジー=Năng Lượng Hỗn Mang
+インフェクシェル=Vỏ Bọc Lây Nhiễm
+ヴォイドバリア=Lá Chắn Hư Không
+ワイルドアイズ=Đôi Mắt Hoang Dã
+アビスビジョン=Ảo Ảnh Vực Thẳm
+クレイジービート=Nhịp Đập Điên Cuồng
+ロストリンク=Liên Kết Mất Mát
+ブラッドサキュレート=Tuần Hoàn Máu
+ダークレゾナンス=Cộng Hưởng Bóng Tối
+ミュータントフォース=Lực Lượng Đột Biến
+カラミティボディ=Cơ Thể Tai Ương
+ アクセルコロン=Cột Tăng Tốc
+アビスバスター=Phá Hủy Vực Thẳm
+スウィフトウェーブ=Sóng Nhanh Nhẹn
+マテリアルフロー=Dòng Vật Chất
+アクセルフォーム=Dạng Tăng Tốc
+マインドアイ=Con Mắt Tâm Trí
+
+→ Rush Codes
+フルスロットル=Toàn Lực
+オーバーリミット=Vượt Giới Hạn
+エナジーレゾナンス=Cộng Hưởng Năng Lượng
+クラックスノヴァ=Tân Tinh Rạn Nứt
+ナルテージ=Điện Áp Rỗng
+リアエンカレッジ=Neo Đậu Ria
+アイアンパッション=Nhiệt Huyết Thép
+リアガーディアン=Hộ Vệ Ria
+ブラストストライク=Đòn Bùng Nổ
+
+ターバルチャージ=Nạp Kéo Dài
+バーニビリティ=Khả Năng Cháy
+
+→ Safe Codes
+セレティアルドーム=Mái Vòm Không Gian
+ルミナスゲイン=Tích Lũy Ánh Sáng
+ ↑ natural? nature? + accel
+
+アストルチャージ=Nạp Tinh Tú
+エーテルシールド=Khiên Ether
+
+→ Risk Codes
+ファントムドライブ=Ảo Ảnh Truy Kích
+
+
+Autogeneratednames
+スウィフトウェーブ=Sóng Nhanh Nhẹn
+宝箱=<cspace\=-0.1em><size\=90%>Rương Kho Báu
+ナゾの鍵1個消費=Sử dụng 1 chìa khóa bí ẩn
+崩れた礎=Nền Móng Đổ Nát
+刃の舞踏場=<cspace\=-0.1em><line-height\=60%>Vũ Trường Lưỡi Kiếm
+鋼機皇=<cspace\=-0.1em><line-height\=60%>Hoàng Đế Cơ Khí
+地鎧の回廊=<cspace\=-0.1em><line-height\=60%>Hành Lang Giáp Đất
+滲む涙=<cspace\=-0.1em><line-height\=60%>Giọt Lệ Thấm Ướt
+淡水の回廊=<cspace\=-0.1em><line-height\=60%>Hành Lang Nước Ngọt
+蒼海覇王=<cspace\=-0.1em><line-height\=60%>Bá Chủ Biển Xanh
+虚影の道=<cspace\=-0.1em><line-height\=60%>Con Đường Hư Ảnh
+深緑の小道=<cspace\=-0.1em><line-height\=60%>Lối Mòn Xanh Thẫm
+魔獣回廊=<cspace\=-0.1em><line-height\=60%>Hành Lang Ma Thú
+業炎帝=<cspace\=-0.1em><line-height\=60%>Hoàng Đế Nghiệp Hỏa
+龍神祭壇=<cspace\=-0.1em><line-height\=60%>Tế Đàn Long Thần
+虎狼の巣=<cspace\=-0.1em><line-height\=60%>Tổ Hổ Lang
+祈りの間=<cspace\=-0.1em><line-height\=60%>Phòng Cầu Nguyện
+霊峰厳寒=<cspace\=-0.1em><line-height\=60%>Đỉnh Núi Lạnh Giá
+彩光樹林=<cspace\=-0.1em><line-height\=60%>Rừng Cây Ánh Sáng
+熱砂牢獄=<cspace\=-0.1em><line-height\=60%>Nhà Tù Cát Nóng
+鉄壁兵団=<cspace\=-0.1em><line-height\=60%>Binh Đoàn Vách Sắt
+黎明の先鋒=<cspace\=-0.1em><line-height\=60%>Tiên Phong Bình Minh
+幻創宮殿=<cspace\=-0.1em><line-height\=60%>Cung Điện Huyền Ảo
+招かれざる古城=<cspace\=-0.1em><line-height\=60%>Tòa Thành Cổ Không Mời
+双極界＝白黒=<cspace\=-0.1em><line-height\=60%>Thế Giới Song Cực=Trắng Đen
+来訪せし虹の使徒=<cspace\=-0.1em><line-height\=60%>Sứ Giả Cầu Vồng Đến Thăm
+久遠の花園=<cspace\=-0.1em><line-height\=60%>Vườn Hoa Vĩnh Cửu
+炎舞う不動の楽園=<cspace\=-0.1em><line-height\=60%>Thiên Đường Bất Động Lửa Múa
+神造の霊廟=<cspace\=-0.1em><line-height\=60%>Lăng Mộ Thần Tạo
+天命を屠る神槍=<cspace\=-0.1em><line-height\=60%>Thương Thần Hủy Thiên Mệnh
+旧き神の<size\=65%>アイドル崇拝</size>=<cspace\=-0.1em><size\=65%>Sùng Bái</size> Thần Xưa Cũ
+狂気の始まり=<cspace\=-0.1em><line-height\=60%>Khởi Đầu Của Cuồng Loạn
+神杖『ピュアスフィア』=<cspace\=-0.1em><line-height\=60%>Thần Trượng『Puresphere』
+神剣『カオスエッジ』=<cspace\=-0.1em><line-height\=60%>Thần Kiếm『Chaos Edge』
+神鎧『セイクリッド』=<cspace\=-0.1em><line-height\=60%>Thần Giáp『Sacred』
+混沌を統べし豪腕=<cspace\=-0.1em><line-height\=60%>Cánh Tay Thống Trị Hỗn Mang
+悠久を紡ぎし大樹=<cspace\=-0.1em><line-height\=60%>Đại Thự Dệt Nên Vĩnh Cửu
+無垢なる遊戯=<cspace\=-0.1em><line-height\=60%>Trò Chơi Vô Tội
+虚空の新生=<cspace\=-0.1em><line-height\=60%>Tân Sinh Hư Không
+暗黒樹海=<cspace\=-0.1em><line-height\=60%>Rừng Cây Hắc Ám
+水底の楼閣=<cspace\=-0.1em><line-height\=60%>Lầu Các Dưới Đáy Nước
+万魔殿=<cspace\=-0.1em><line-height\=60%>Vạn Ma Điện
+零度の領域=<cspace\=-0.1em><line-height\=60%>Lãnh Địa Âm Độ
+門番たちの迷路=<cspace\=-0.1em><line-height\=60%>Mê Cung Của Bọn Gác Cổng
+覇軍集結=<cspace\=-0.1em><line-height\=60%>Quân Hùng Tập Kết
+乙女達の遊技場=<cspace\=-0.1em><line-height\=60%>Sân Chơi Của Các Thiếu Nữ
+咎人の檻=<cspace\=-0.1em><line-height\=60%>Lồng Giam Kẻ Tội Đồ
+薫風の別荘地=<cspace\=-0.1em><line-height\=60%>Khu Biệt Thự Gió Thơm
+蒼の聖域=<cspace\=-0.1em><line-height\=60%>Thánh Địa Xanh
+深淵の果て=<cspace\=-0.1em><line-height\=60%>Tận Cùng Vực Thẳm
+終焉の魔境=<cspace\=-0.1em><line-height\=60%>Ma Cảnh Chung Kết
+廻廊-秘境-=<cspace\=-0.1em><line-height\=60%>Hành Lang-Bí Cảnh-
+誓いの庭園=<cspace\=-0.1em><line-height\=60%>Khu Vườn Lời Thề
+永久凍土=<cspace\=-0.1em><line-height\=60%>Đất Đóng Băng Vĩnh Cửu
+大深域=<cspace\=-0.1em><line-height\=60%>Đại Thâm Vực
+孤絶の廃道=<cspace\=-0.1em><line-height\=60%>Đường Phế Bỏ Cô Tuyệt
+滞む <size\=60%>大地の</size> 巡礼=<cspace\=-0.1em>Hành Hương <size\=60%>Đại Địa</size> Ứ Đọng
+溢るる蒼翠の碧譚=<cspace\=-0.1em><line-height\=60%>Chuyện Xanh Thẳm Của Màu Lục Tràn Trề
+魔神の降臨=<cspace\=-0.1em><line-height\=60%>Hàng Lâm Của Ma Thần
+創まりし終末=<cspace\=-0.1em><line-height\=60%>Tận Thế Được Sáng Tạo
+幾何学模様の狂演=<cspace\=-0.1em><line-height\=60%>Cuồng Diễn Của Hoa Văn Hình Học
+誓戦の妖精郷=<cspace\=-0.1em><line-height\=60%>Tiên Cảnh Giao Chiến
+
+拠点に送られたアイテムは存在しません。=Không có vật phẩm nào được gửi về cứ điểm.
+
+アビスコード効果/恩恵効果=<cspace\=-0.05em>Hiệu ứng Abyss Code / Hiệu ứng Ân Huệ
+
+アビスコード収集報酬=Phần thưởng thu thập Abyss Code
+
+r:"^アビスコイン([0-9]+)獲得$"=Nhận $1 Abyss Coin
+
+r:"^浸食率([0-9]+)減少$"=Độ xâm thực giảm $1
+
+r:"^HP([0-9]+)(%|％)回復$"=Hồi $1％ HP
+
+ナゾの鍵1個獲得=Nhận 1 Chìa Khóa Bí Ẩn
+
+アビスコインが足りないため、選択できません=Không thể chọn vì không đủ Abyss Coin
+
+黒哭の谷=Thung Lũng Hắc Khốc
+
+闇哭の迷宮=<cspace\=-0.1em><line-height\=60%>Mê Cung Hắc Khốc
+
+虚無の支配者=Chúa Tể Hư Vô
+
+機刃の監獄=Ngục Đao Cơ
+
+岩壁の監獄=Ngục Vách Đá
+
+土煙の洞=Hang Bụi Đất
+
+水牙の監獄=<cspace\=-0.1em><line-height\=60%>Ngục Thủy Nha
+
+こちらの品をご用意しました。\nなに、貴重な探索データを\nいただいたお礼ですよ。=<cspace\=-0.05em><line-height\=70%><size\=80%>Tôi đã chuẩn bị món này cho ngài.\nChỉ là chút quà cảm ơn vì\ndữ liệu thám hiểm quý giá ngài đã chia sẻ.
+
+sr:"^(?<pos>フロント|バック)キャラ(?>クター)?[のに](?>紋章：衝撃|衝撃効果)が消費された時、(?<effect>\S+)"=Khi đơn vị ${pos} tiêu hao <color\=#6a8bfc>Xung Kích</color>, ${effect}
+
+sr:"^(?<pos>フロント|バック)キャラ(?:クター)?[のに](?:紋章：情熱|情熱効果)1ごとに、(?<effect>\S+)"=Với mỗi <color\=#fc4e4d>Nhiệt Huyết</color> của tuyến ${pos}, ${effect}
+
+sr:"^(?<pos>フロント|バック|アシスト)全体(?<crest>に(?>紋章：)?(?>衝撃|情熱))を(?<num_i>【[0-9]】)付与する"=ban cho toàn bộ tuyến ${pos}${num_i}${crest}
+
+に衝撃=<color\=#6a8bfc>Xung Kích</color>
+
+に情熱=<color\=#fc4e4d>Nhiệt Huyết</color>
+
+オーバーノック=Overknock

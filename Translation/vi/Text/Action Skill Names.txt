@@ -1,0 +1,70 @@
+粉骨砕身=Dốc Hết Sức Lực
+大地の御加護=Gia Hộ Của Đại Địa
+ライトニングアッパー=Cú Đấm Cú Cắt Sét
+龍神の怒り=Cơn Thịnh Nộ Của Long Thần
+アローレイン=Mưa Tên
+清泉の癒し=Chữa Lành Của Suối Trong
+私刑執行=Thi Hành Tư Hình
+ガチ恋エール=Cổ Vũ Tình Yêu Chân Thành
+お手製爆弾=Bom Tự Chế
+霊符解放=Giải Phóng Linh Phù
+エクスプロージョンバレット=Đạn Nổ Tung
+ターゲット・ロックオン=Khóa Chặt Mục Tiêu
+スパーキング・スラッシュ=Vết Chém Tia Lửa
+百花繚乱=Bách Hoa Liêu Loạn
+ガーディアン・クリスタル=Pha Lê Hộ Vệ
+アイスワークス=Công Xưởng Băng
+セレスティアルスラッシュ=Vết Chém Trùng Kích
+ファイアボール=Quả Cầu Lửa
+ヒールポーション=Bình Thuốc Hồi Phục
+スモークバースト=Vụ Nổ Khói
+魅惑の矢=Mũi Tên Mê Hoặc
+水の型・逆袈裟=Thủy Kiếm - Nghịch Già Sa
+雷閃=Lôi Tiểm
+聖女の祈り=Lời Cầu Nguyện Của Thánh Nữ
+瞬きの死=Cái Chết Trong Chớp Mắt
+魔眼の一突き=Cú Đâm Của Ma Nhãn
+マジカルスモーキング=Khói Ma Thuật
+バーニングナックル=Cú Đấm Bốc Cháy
+ソードオブマーキス=Kiếm Của Hầu Tước
+ノヴァブラスト=Vụ Nổ Nova
+ワイルドラッシュ=Đột Kích Hoang Dã
+シルバーバレット=Viên Đạn Bạc
+カースドポーション=Thuốc Nguyền Rủa
+ゴーストライド=Chuyến Quỷ Cưỡi
+ヴァーミリオンアロー=Mũi Tên Chu Tước
+レーザーガトリング=Súng Máy Laser
+フロストスパイク=Gai Băng
+ピコピコントロール=Điều Khiển Pico-Pi
+炎陣烈覇斬=Viêm Trận Liệt Bá Trảm
+水神の怒り=Cơn Thịnh Nộ Của Thủy Thần
+植物召喚=Triệu Hồi Thực Vật
+ストームワルツ=Điệu Waltz Bão Tố
+スタチュー・デ・グラス=Tượng Băng
+ヒールエール=Cổ Vũ Chữa Lành
+スイートヒール=Chữa Lành Ngọt Ngào
+魂魄一閃=Hồn Phách Nhất Tiểm
+メイドアーツ=Nghệ Thuật Hầu Gái
+清流の祈り=Lời Cầu Nguyện Của Thanh Lưu
+煌打砕散=Hoàng Đả Toái Tán
+大自然の鎮魂歌=Khúc Cầu Hồn Của Đại Nhiên
+えぇい！持ってけドロボー！=Này! Cầm Lấy Này, Tên Trộm!
+ライトニングアロー=Mũi Tên Sét
+カノンコール=Triệu Hồi Đại Bác
+バーニングロンド=Vũ Khúc Bốc Cháy
+
+
+
+Both files have been read and compared.
+
+**Result: There are zero missing keys.** All 54 Japanese keys present in the EN file (`E:/DMMGames/dotabyss_x_cl/BepInEx/Translation/en/Text/Action Skill Names.txt`) already exist in the VI file (`E:/DMMGames/dotabyss_x_cl/BepInEx/Translation/vi/Text/Action Skill Names.txt`) with complete Vietnamese translations. No new lines need to be appended.
+
+胡蝶の時雨=Mưa Bướm Hồ Điệp
+
+妖鬼炎殺撃=Yêu Quỷ Viêm Sát Kích
+
+ドリルミサイル=Tên Lửa Khoan
+
+ガチ恋♡デビルハート=Trái Tim Quỷ Si Tình♡
+
+冥府への使役=Sai Khiến Tới Minh Phủ

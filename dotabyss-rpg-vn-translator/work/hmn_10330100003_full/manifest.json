@@ -1,0 +1,80 @@
+{
+  "scene": "hmn_10330100003",
+  "title_en_asset": "最高の記事を書いてみせます！",
+  "title_vi": "Viết Cho Xem Bài Báo Tuyệt Vời Nhất!",
+  "case": "EN-asset-is-English (en.json holds English; asset text fields are English; ja.json used as JP semantic source; EN asset is structural authority)",
+  "language_pair": "JP->VI (via ja.json semantics), EN asset structural authority",
+  "source_paths": {
+    "ja_json": "dotabyss-translation-main/translations/novels/hmn_10330100003/ja.json",
+    "en_json": "dotabyss-translation-main/translations/novels/hmn_10330100003/en.json",
+    "en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10330100003.txt",
+    "vi_asset": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10330100003.txt"
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 97,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 98,
+  "translated_records": 98,
+  "addressing_matrix": {
+    "エメルダ / Emeralda": "First-person 'em/anh'; addresses <user> as 'ngài' (Commander). Pen-name 'Scoop' kept (source: 特ダネ/Scoop).",
+    "<user> / Commander": "Translated as 'Chỉ Huy' in prose; addressed by Emeralda as 'ngài'.",
+    "アリシア / Alicia": "Kept as 'Alicia' (proper name); addresses Commander as 'Chỉ Huy'.",
+    "盗賊Ａ / 盗賊Ｂ / 露天商 / 警備隊Ａ / 警備隊Ｂ / 一般兵Ａ / 一般兵Ｂ / 先輩記者": "JP speaker labels kept byte-identical (engine character keys); dialogue Vietnamese only.",
+    "？？？": "Kept as '？？？' (unnamed speaker)."
+  },
+  "terminology": {
+    "Scoop": "Kept as 'Scoop' (Emeralda's nickname for Commander; source 特ダネ / EN 'Scoop').",
+    "Frontline Base": "Căn Cứ Tiền Tuyến",
+    "Commander": "Chỉ Huy",
+    "Emeralda": "Kept 'Emeralda'",
+    "Alicia": "Kept 'Alicia'",
+    "head office": "trụ sở chính",
+    "security guards": "đội bảo vệ",
+    "bandits/thieves": "đạo tặc",
+    "scoop (story)": "tin độc quyền",
+    "reporter / ace reporter": "phóng viên / phóng viên lão luyện",
+    "send-off party / farewell party": "bữa tiễn biệt",
+    "welcome party": "bữa chào mừng"
+  },
+  "notes": [
+    "EN-asset-is-English case: ja.json used to recover JP meaning; EN asset text field adopted as Viet base then translated; <br> count and trailing '<br> ' suffix mirrored per line from EN asset (authority).",
+    "ASCII commas inside Vietnamese text fields replaced with U+201A '‚'.",
+    "Title translated to Vietnamese Title Case: 'Viết Cho Xem Bài Báo Tuyệt Vời Nhất!'.",
+    "JP speaker-name field 1 labels kept byte-identical (盗賊Ａ, 露天商, 警備隊Ａ, 一般兵Ｂ, 先輩記者, ？？？, etc.); no TECH_FIELD_CHANGED.",
+    "<user> token preserved byte-identical (verifier treats as tag).",
+    "No H18 content in this scene; bandit 'strip her naked' line (L512) translated faithfully at source level."
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10330100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 97,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 98,
+    "translated_records": 98,
+    "changed_lines": 98,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1126,
+      "vi": 1126,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "25973b0072f0b300377acdbbed23ac2114076647d565593b9d8888f8ec73a9df",
+    "output_sha256": "9de0e285722bf6bc7a1ee4f2879a5fdf3eb724973fb4b80b439f542d0560eb31"
+  }
+}

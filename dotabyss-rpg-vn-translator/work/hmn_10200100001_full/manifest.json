@@ -1,0 +1,79 @@
+{
+  "scene": "hmn_10200100001",
+  "title": "Chị Gái Có Thể Làm Được Mọi Thứ?",
+  "status": "PASS",
+  "qa_status": "PASS",
+  "source_language": "EN (JP/EN novel pair as meaning reference)",
+  "output_language": "vi",
+  "speakers": {
+    "ラヴェリア": "Laveria (calls Commander 兄さん → anh; self-refers em)",
+    "ベリサ": "Verisa (teasing おにーさん → anh; self-refers em)",
+    "ソフィア": "Sophia (charaload name kept)",
+    "クルル": "Krulu (charaload name kept)",
+    "ヒマリ": "Himari (charaload name kept)",
+    "マリナ": "Marina (charaload name kept)",
+    "アリシア": "Alicia (calls Commander 司令官 → Chỉ Huy)",
+    "モンスター": "Monster (charaload name kept)",
+    "<user>": "Commander → Chỉ Huy (not spelled out in text fields)"
+  },
+  "term_decisions": {
+    "Frontline Base": "Căn Cứ Tiền Tuyến",
+    "Abyss (大穴)": "Đại Huyệt",
+    "Commander": "Chỉ Huy",
+    "goblin": "yêu tinh",
+    "Brother (兄さん)": "anh",
+    "Mister (おにーさん)": "anh",
+    "Honey (旦那さま)": "phu quân",
+    "Lux Nova": "Lux Nova (kept)",
+    "roar/SFX": "localized (*gầm rú*, *thở dốc*, *hà*, *thở dài*, GÀOOOOO!!, Gào...)"
+  },
+  "addressing": "Laveria→Commander anh/em; Verisa→Commander anh/em (playful); Alicia→Commander Chỉ Huy (formal); Commander→all em/anh. All characters confirmed 18+, H-scene rules N/A (no H content in this scene).",
+  "title_case": "title line translated to Vietnamese Title Case: 'Chị Gái Có Thể Làm Được Mọi Thứ?'",
+  "comma_rule": "All comma-like pauses inside VI text fields use U+201A (‚); ASCII comma forbidden. 0 ASCII-comma-in-VI failures.",
+  "structural_preserved": {
+    "bom": true,
+    "newline_crlf": true,
+    "line_count": 1576,
+    "delimiter_count_changes": 0,
+    "technical_field_changes": 0,
+    "tag_mismatches": 0,
+    "placeholder_mismatches": 0
+  },
+  "independent_verify": {
+    "scene": "hmn_10200100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 84,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 85,
+    "translated_records": 85,
+    "changed_lines": 85,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1576,
+      "vi": 1576,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "93d9f23eb4e6c546c4ce7ab250e5a074b844aa3a0e3c7a174410888fcba13233",
+    "output_sha256": "8ae743ee99466dd2ae5754f2f395088a5d6ea0fe1536b53e6a5845cbb106ffca"
+  },
+  "artifacts": {
+    "vi_output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10200100001.txt",
+    "qa_log": "dotabyss-rpg-vn-translator/work/hmn_10200100001_full/qa_log.json",
+    "manifest": "dotabyss-rpg-vn-translator/work/hmn_10200100001_full/manifest.json",
+    "focused_diff": "dotabyss-rpg-vn-translator/work/hmn_10200100001_full/focused_diff.md",
+    "builder": "dotabyss-rpg-vn-translator/work/hmn_10200100001_full/build_vi.py"
+  },
+  "issues": []
+}

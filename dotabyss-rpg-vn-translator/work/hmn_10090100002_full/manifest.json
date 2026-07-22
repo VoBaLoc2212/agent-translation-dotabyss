@@ -1,0 +1,793 @@
+{
+  "scene": "hmn_10090100002",
+  "status": "PASS",
+  "source": {
+    "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10090100002.txt",
+    "sha256": "6ee395cf32bbac41a2bf99b745d3d3158b90d5d964aacdadb9e14a3ee5a997ac",
+    "byte_length": 21468,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 885
+  },
+  "ja_json": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10090100002\\ja.json",
+    "sha256": "268423036c6020fc28545b85a316f8fa7ff5119d85a00a4e2ad23089951bca46",
+    "byte_length": 14338,
+    "bom": false,
+    "newline": "LF",
+    "line_count": 73
+  },
+  "en_json": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10090100002\\en.json",
+    "sha256": "82d3b9771fe631fdd952246227305b482cc091a8b2ca0bcf108a179964197e83",
+    "byte_length": 12743,
+    "bom": false,
+    "newline": "LF",
+    "line_count": 73
+  },
+  "output": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10090100002.txt",
+    "sha256": "de107ec2110e43fb8fc05b313a23a8f97376ff5fd08f886b7499172ab0bb828e",
+    "byte_length": 23580,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 885
+  },
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10090100002_full",
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10090100002.txt",
+  "text_commands_count": {
+    "title": 1,
+    "message": 69,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "candidate_records": 71,
+  "translated_records": 71,
+  "entries": [
+    {
+      "line": 23,
+      "cmd": "title",
+      "speaker": "Technique Alone Isn't Enough",
+      "source_text": "Technique Alone Isn't Enough",
+      "index": 1,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Chỉ Kỹ Thuật Thôi Là Chưa Đủ"
+    },
+    {
+      "line": 33,
+      "cmd": "messageTextCenter",
+      "speaker": "",
+      "source_text": "<size=48>——The Day Before the Dance Contest</size>",
+      "index": 2,
+      "status": "TRANSLATED",
+      "match_status": "CONTEXT_MATCH",
+      "vi_text": "<size=48>――Trước Ngày Thi Nhảy</size>"
+    },
+    {
+      "line": 75,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Alright，today's the last day of training.<br>Get fired up!<br> ",
+      "index": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nào‚ hôm nay là ngày đặc huấn cuối cùng rồi.<br>Lên tinh thần cho tử tế đi!<br> "
+    },
+    {
+      "line": 77,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Yeah，yeah.<br>You focus too.<br> ",
+      "index": 4,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Biết rồi.<br>Cô cũng tập trung vào đi.<br> "
+    },
+    {
+      "line": 88,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Who do you think you're talking to!<br>You're looking at Eldorana's number one dancer，Levienne!<br> ",
+      "index": 5,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Anh đang nói với ai vậy hả!<br>Trước mặt anh là Levienne‚ vũ công số một Eldorana đó!<br> "
+    },
+    {
+      "line": 130,
+      "cmd": "message",
+      "speaker": "踊り子Ａ",
+      "source_text": "...The Commander and Levienne，together again today.<br> ",
+      "index": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Chỉ Huy và Levienne hôm nay lại đi cùng nhau kìa.<br> "
+    },
+    {
+      "line": 141,
+      "cmd": "message",
+      "speaker": "踊り子Ｂ",
+      "source_text": "You don't think those two are... you know?<br> ",
+      "index": 7,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Không lẽ hai người đó… là như vậy thật sao?<br> "
+    },
+    {
+      "line": 152,
+      "cmd": "message",
+      "speaker": "踊り子Ａ",
+      "source_text": "No way!<br>A dancer and the Commander... unexpected，but kinda cute!<br> ",
+      "index": 8,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ơ kìa!<br>Vũ công với Chỉ Huy… một cặp hơi bất ngờ nhưng có khi lại hợp đấy!<br> "
+    },
+    {
+      "line": 192,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...Hey，I think people are getting the wrong idea about us.<br>You okay leaving that alone?<br> ",
+      "index": 9,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Này‚ hình như người ta đang hiểu lầm kỳ quặc về chúng ta đấy.<br>Cứ mặc kệ vậy được à?<br> "
+    },
+    {
+      "line": 212,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Huh? What are you talking about?<br>Never mind that，let's get going!<br> ",
+      "index": 10,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Hả? Anh nói gì vậy?<br>Chuyện đó để sau đi‚ mau đi thôi!<br> "
+    },
+    {
+      "line": 228,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...She doesn't even notice?<br>I hope she's just that focused...<br> ",
+      "index": 11,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Cô ấy còn chẳng nhận ra à?<br>Nếu chỉ là đang tập trung thì tốt rồi…<br> "
+    },
+    {
+      "line": 292,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Hah，haah!<br> ",
+      "index": 12,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Hự‚ haah!<br> "
+    },
+    {
+      "line": 294,
+      "cmd": "message",
+      "speaker": "",
+      "source_text": "Levienne danced with fierce intensity.<br>Her sharp，polished moves captivated everyone watching.<br> ",
+      "index": 13,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Levienne nhảy với khí thế dữ dội đến nghẹt thở.<br>Vũ điệu sắc bén tuyệt vời ấy đã hút chặt ánh mắt của người xem.<br> "
+    },
+    {
+      "line": 313,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Ha!<br>...How... was it?<br> ",
+      "index": 14,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "――Xong!<br>…Thế nào… vậy?<br> "
+    },
+    {
+      "line": 315,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "I was blown away.<br>I could feel how you pour everything into your dance.<br> ",
+      "index": 15,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Anh bị choáng ngợp thật sự.<br>Anh cảm nhận được khí thế Levienne dồn hết mọi thứ vào điệu nhảy.<br> "
+    },
+    {
+      "line": 326,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "...I see.<br>Got it.<br> ",
+      "index": 16,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Vậy à.<br>Em hiểu rồi.<br> "
+    },
+    {
+      "line": 328,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "That's... not good enough?<br>From an amateur's eye，your technique seems flawless...<br> ",
+      "index": 17,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Như vậy… vẫn chưa được sao?<br>Dưới mắt một tay nghiệp dư như anh thì kỹ thuật của em đã đạt đến đỉnh rồi mà…<br> "
+    },
+    {
+      "line": 345,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Technique alone isn't enough.<br>I'm running out of time. One more...<br> ",
+      "index": 18,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Chỉ kỹ thuật thôi là chưa đủ.<br>Không còn thời gian nữa‚ thêm lần nữa…<br> "
+    },
+    {
+      "line": 383,
+      "cmd": "message",
+      "speaker": "",
+      "source_text": "Levienne stepped onto the stage，swayed，<br>and collapsed on the spot.<br> ",
+      "index": 19,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Levienne vừa bước lên sân khấu đã loạng choạng mất thăng bằng<br>rồi ngã sụp xuống ngay tại chỗ.<br> "
+    },
+    {
+      "line": 412,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Hey!? What happened!?<br>Are you okay!?<br> ",
+      "index": 20,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Này!? Sao thế!?<br>Em ổn không!?<br> "
+    },
+    {
+      "line": 423,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I'm fine，just got a little dizzy...<br> ",
+      "index": 21,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em không sao‚ chỉ hơi choáng một chút thôi…<br> "
+    },
+    {
+      "line": 425,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "You collapsed the day before the contest! You're not fine!<br>If you're feeling sick，say so!<br> ",
+      "index": 22,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ngã quỵ ngay trước ngày thi mà bảo không sao được à!<br>Nếu thấy trong người không khỏe thì phải nói chứ!<br> "
+    },
+    {
+      "line": 436,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I'm a pro. I'm in perfect shape.<br>There's nothing wrong with——<br> ",
+      "index": 23,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em là dân chuyên nghiệp mà‚ thể trạng hoàn hảo lắm.<br>Không có vấn đề gì hết——<br> "
+    },
+    {
+      "line": 440,
+      "cmd": "message",
+      "speaker": "",
+      "source_text": "Overlapping with Levienne's words，<br>a soft grumble echoed through the air.<br> ",
+      "index": 24,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Như chồng lên giọng nói của Levienne<br>một tiếng ùng ục nhỏ vang lên.<br> "
+    },
+    {
+      "line": 452,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...Was that just...<br> ",
+      "index": 25,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Vừa rồi là…<br> "
+    },
+    {
+      "line": 461,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "N-nnh~! I'm just tired，a weird sound slipped out.<br>It's nothing，okay!<br> ",
+      "index": 26,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ư‚ ưm~! Chắc em hơi mệt nên phát ra tiếng lạ thôi.<br>Chẳng có gì đâu mà!<br> "
+    },
+    {
+      "line": 473,
+      "cmd": "message",
+      "speaker": "",
+      "source_text": "GRRRRRRRR~~~!!!<br>Levienne's stomach roared，too loud to hide.<br> ",
+      "index": 27,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ùng ục ục ục~~~!!!<br>Bụng của Levienne réo to đến mức không thể che giấu được.<br> "
+    },
+    {
+      "line": 481,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...Hey，Levienne.<br>I just heard a sound no maiden's stomach should make.<br> ",
+      "index": 28,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Này‚ Levienne.<br>Anh vừa nghe thấy một âm thanh không nên phát ra từ bụng thiếu nữ đâu đấy.<br> "
+    },
+    {
+      "line": 492,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "N-no，that's not it.<br>I just got a tiny bit hungry from all the dancing...<br> ",
+      "index": 29,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "K‚ không phải đâu.<br>Em chỉ hơi đói một chút vì đã nhảy rất cố thôi…<br> "
+    },
+    {
+      "line": 494,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "You said you eat before practice，<br>so you don't need food afterward. Right?<br> ",
+      "index": 30,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em từng nói đã ăn trước khi luyện tập<br>nên sau khi tập xong không cần ăn nữa. Đúng không?<br> "
+    },
+    {
+      "line": 505,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Ngh，nnggh...<br> ",
+      "index": 31,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ư‚ ưư…<br> "
+    },
+    {
+      "line": 507,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "You haven't been eating before practice either，have you.<br>And nothing after，either.<br> ",
+      "index": 32,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em không ăn uống tử tế trước buổi tập đúng không?<br>Rồi sau khi tập xong cũng không ăn luôn.<br> "
+    },
+    {
+      "line": 518,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "But，well... I can't gain weight before the contest...<br> ",
+      "index": 33,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Thì‚ chuyện đó… em không thể mập lên trước cuộc thi được…<br> "
+    },
+    {
+      "line": 520,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "That doesn't mean you should collapse<br>from hunger the day before the contest!<br> ",
+      "index": 34,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nhưng thế cũng đâu có nghĩa là em được ngã quỵ<br>vì đói ngay trước ngày thi chứ!<br> "
+    },
+    {
+      "line": 531,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "What else was I supposed to do!<br>I can't figure out my slump，so maybe it's my weight!<br> ",
+      "index": 35,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Biết làm sao được chứ!<br>Em không biết nguyên nhân sa sút là gì‚ có thể là do cân nặng thì sao!<br> "
+    },
+    {
+      "line": 540,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Go ahead and laugh!<br>Laugh at the idiot who collapsed worrying about her figure!<br> ",
+      "index": 36,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Cười đi!<br>Cứ cười con ngốc vì lo vóc dáng mà ngã quỵ trong lúc luyện tập đi!<br> "
+    },
+    {
+      "line": 542,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "I'm not laughing.<br>Keeping your figure while working your body this hard must be tough.<br> ",
+      "index": 37,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Anh không cười đâu.<br>Vận động nhiều thế này mà vẫn giữ vóc dáng chắc vất vả lắm.<br> "
+    },
+    {
+      "line": 552,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "But the dieting ends here.<br>Build up your strength for tomorrow. Let's eat.<br> ",
+      "index": 38,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nhưng ăn kiêng đến đây là đủ rồi.<br>Hãy bồi bổ thể lực cho ngày mai. Trước mắt cứ ăn đã.<br> "
+    },
+    {
+      "line": 563,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Ehh~... but I can't win with a pudgy belly...<br> ",
+      "index": 39,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ơơ~… nhưng bụng phình ra thì làm sao vô địch được…<br> "
+    },
+    {
+      "line": 565,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "A skin-and-bones dancer won't win either!<br>Just eat enough so you don't get pudgy!<br> ",
+      "index": 40,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Vũ công gầy rộc cũng không thắng nổi đâu!<br>Ăn vừa đủ để bụng không phình ra là được!<br> "
+    },
+    {
+      "line": 592,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "...If you insist that much，<br>then just a little...<br> ",
+      "index": 41,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Nếu anh đã nói đến mức đó<br>thì một chút thôi cũng được…<br> "
+    },
+    {
+      "line": 622,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "It's so good... so good...!<br> ",
+      "index": 42,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ngon quá… ngon quá đi mất…!<br> "
+    },
+    {
+      "line": 624,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...Were you starving yourself so much<br>that a regular meal moves you to tears?<br> ",
+      "index": 43,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Em đã không ăn đến mức<br>một bữa bình thường cũng làm em xúc động vậy sao?<br> "
+    },
+    {
+      "line": 635,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I just couldn't get out of my slump，<br>and it felt like things kept getting worse...<br> ",
+      "index": 44,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Vì em mãi không thoát khỏi sa sút<br>thậm chí còn cảm thấy mọi thứ ngày càng tệ hơn…<br> "
+    },
+    {
+      "line": 644,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Sharpness，looks，it'd all be ruined if I gained weight.<br>I just couldn't bring myself to eat.<br> ",
+      "index": 45,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Độ sắc sảo của cơ thể và vẻ đẹp bên ngoài mà mập lên thì hỏng hết đúng không?<br>Em thật sự không có tâm trạng để ăn.<br> "
+    },
+    {
+      "line": 646,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm，maybe the dieting itself was the problem?<br>You ran out of stamina from hunger and couldn't dance like before.<br> ",
+      "index": 46,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ừm… có khi nguyên nhân lại chính là chuyện giảm cân thì sao?<br>Đói quá nên thiếu sức và không thể nhảy như trước nữa.<br> "
+    },
+    {
+      "line": 657,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Maybe，but...<br>I think my technique has definitely improved.<br> ",
+      "index": 47,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Có thể là vậy… nhưng<br>em nghĩ kỹ thuật của mình thật sự đã tiến bộ.<br> "
+    },
+    {
+      "line": 668,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "But I still couldn't show you a good performance.<br>It's a slump after all...<br> ",
+      "index": 48,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nhưng em vẫn không thể cho anh xem một điệu nhảy hay.<br>Quả nhiên là em đang sa sút rồi…<br> "
+    },
+    {
+      "line": 670,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "I keep telling you，your dancing is incredible.<br>What exactly is the problem?<br> ",
+      "index": 49,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Không không‚ anh vẫn luôn nói điệu nhảy của Levienne rất tuyệt mà.<br>Vấn đề rốt cuộc là gì?<br> "
+    },
+    {
+      "line": 693,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "'Incredible' isn't good enough.<br>That doesn't satisfy me.<br> ",
+      "index": 50,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "“Rất tuyệt” là không được.<br>Như vậy em không thể hài lòng.<br> "
+    },
+    {
+      "line": 705,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I don't want to be called incredible!<br>I want people to feel joy，to feel happy watching me!<br> ",
+      "index": 51,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em không muốn được khen là rất tuyệt!<br>Em muốn người ta nghĩ rằng xem em nhảy thật vui‚ rằng họ thấy hạnh phúc!<br> "
+    },
+    {
+      "line": 707,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "...Fun... dancing?<br> ",
+      "index": 52,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Một điệu nhảy… thật vui?<br> "
+    },
+    {
+      "line": 718,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I've loved dancing since I was little.<br>I've worked hard and got results. I think I'm the best.<br> ",
+      "index": 53,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Từ nhỏ em đã rất yêu khiêu vũ.<br>Em đã nỗ lực‚ cũng đã có kết quả. Em nghĩ mình là vũ công giỏi nhất.<br> "
+    },
+    {
+      "line": 729,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "But a dancer who makes people think 'she practiced hard'<br>or 'she's really trying' is third-rate.<br> ",
+      "index": 54,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nhưng một vũ công khiến người ta nghĩ “cô ấy luyện tập chăm chỉ thật”<br>hay “cô ấy đang cố gắng nhảy thật” thì chỉ là hạng ba thôi.<br> "
+    },
+    {
+      "line": 740,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Delivering beauty，thrill，and joy without a trace of effort.<br>That's what a true dancer is!<br> ",
+      "index": 55,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Không để lộ dấu vết nỗ lực mà đem đến vẻ đẹp‚ sự phấn khích và niềm vui.<br>Đó mới là vũ công tuyệt nhất!<br> "
+    },
+    {
+      "line": 751,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I don't want them to see how hard I'm trying!<br>I want my audience to have the time of their lives!<br> ",
+      "index": 56,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em không muốn bị nhận ra là mình đang gắng sức. Em cũng chẳng muốn được khen!<br>Vì em muốn khán giả tận hưởng hết mình cơ mà!<br> "
+    },
+    {
+      "line": 753,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Levienne...<br>I get it now. I kept saying 'amazing' but never 'fun'...<br> ",
+      "index": 57,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Levienne…<br>Ra vậy. Anh chỉ toàn nói “tuyệt quá” mà chẳng thật sự tận hưởng nhỉ…<br> "
+    },
+    {
+      "line": 764,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "If someone with your eye for detail thinks that，<br>then I've still got a long way to go...<br> ",
+      "index": 58,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Nếu một người tinh mắt như anh cũng nghĩ vậy<br>thì nghĩa là em vẫn còn kém xa…<br> "
+    },
+    {
+      "line": 766,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm... it's true it didn't feel like a 'fun' dance，but...<br> ",
+      "index": 59,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ừm… đúng là có thể điệu nhảy đó không tạo ra bầu không khí để tận hưởng‚ nhưng…<br> "
+    },
+    {
+      "line": 775,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "See?<br>I know it too. This isn't good enough...<br> ",
+      "index": 60,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Đúng thế còn gì.<br>Chính em cũng biết mà‚ cứ thế này thì không được…<br> "
+    },
+    {
+      "line": 777,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Don't make such a grim face.<br>You're hungry，that's why everything seems so bleak.<br> ",
+      "index": 61,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Đừng làm vẻ mặt nghiêm trọng thế.<br>Vì đang đói nên em mới cứ nghĩ đến chuyện tiêu cực thôi.<br> "
+    },
+    {
+      "line": 779,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Eat plenty，sleep well，and enjoy the contest.<br>If you're having fun dancing，the audience will too.<br> ",
+      "index": 62,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ăn nhiều vào‚ ngủ cho kỹ rồi hãy tận hưởng cuộc thi.<br>Nếu Levienne vui vẻ khi nhảy thì khán giả cũng sẽ vui theo thôi.<br> "
+    },
+    {
+      "line": 790,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I... have fun...?<br> ",
+      "index": 63,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em… tận hưởng…?<br> "
+    },
+    {
+      "line": 792,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Yeah. Your dancing is incredible.<br>Your seriousness，your intensity — it all came through.<br> ",
+      "index": 64,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ừ. Điệu nhảy của Levienne rất tuyệt.<br>Sự nghiêm túc và khí thế ấy đều truyền đến anh.<br> "
+    },
+    {
+      "line": 794,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "That's exactly why if you dance with joy，<br>that feeling will reach them too.<br> ",
+      "index": 65,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Chính vì vậy nếu em nhảy thật vui vẻ<br>cảm xúc đó chắc chắn cũng sẽ truyền đến họ.<br> "
+    },
+    {
+      "line": 819,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "My feelings... come through...<br>So that's why you've been watching me so seriously all along...<br> ",
+      "index": 66,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Cảm xúc của em… sẽ truyền đi…<br>Ra vậy‚ nên anh mới luôn nghiêm túc dõi theo em đến thế…<br> "
+    },
+    {
+      "line": 839,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "...Right，that's how it works.<br>A dancer's heart shows through in her dance.<br> ",
+      "index": 67,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "…Đúng rồi‚ hóa ra là vậy.<br>Cảm xúc của vũ công sẽ được gửi gắm vào điệu nhảy.<br> "
+    },
+    {
+      "line": 851,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "I haven't felt happy while dancing in a long time.<br>No wonder the audience couldn't enjoy it.<br> ",
+      "index": 68,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Dạo gần đây em chưa từng thấy vui khi nhảy.<br>Khán giả không tận hưởng được cũng phải thôi.<br> "
+    },
+    {
+      "line": 862,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "Got it. Tomorrow I'll dance with more joy than anyone!<br> ",
+      "index": 69,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Em hiểu rồi. Ngày mai em sẽ nhảy vui hơn bất cứ ai!<br> "
+    },
+    {
+      "line": 874,
+      "cmd": "message",
+      "speaker": "レヴィエーヌ",
+      "source_text": "And for that — first，I eat!<br>Seconds，please!<br> ",
+      "index": 70,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Vì thế——trước hết là ăn!<br>Cho em thêm phần nữa!<br> "
+    },
+    {
+      "line": 876,
+      "cmd": "message",
+      "speaker": "<user>",
+      "source_text": "Now you're talking!<br>Just，you know，don't overdo it.<br> ",
+      "index": 71,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "vi_text": "Ừ‚ cứ thế đi!<br>Nhưng đừng để bụng phình ra nhé.<br> "
+    }
+  ],
+  "notes": [
+    "JP primary; EN asset used for alignment.",
+    "Speaker names and charaload asset names preserved.",
+    "Commander/司令官 translated as Chỉ Huy.",
+    "ASCII commas in Vietnamese fields replaced with U+201A where punctuation comma was needed."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10090100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 69,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 71,
+    "translated_records": 71,
+    "changed_lines": 71,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 885,
+      "vi": 885,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "6ee395cf32bbac41a2bf99b745d3d3158b90d5d964aacdadb9e14a3ee5a997ac",
+    "output_sha256": "de107ec2110e43fb8fc05b313a23a8f97376ff5fd08f886b7499172ab0bb828e"
+  }
+}

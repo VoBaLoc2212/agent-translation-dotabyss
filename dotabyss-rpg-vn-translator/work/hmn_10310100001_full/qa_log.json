@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10310100001",
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 107,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 108,
+  "translated_records": 108,
+  "line_count": {
+    "en": 1799,
+    "vi": 1799,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "source_sha256": "2b786a56cb9b98edf174a8a3f725e5cd15f0cb8601068fa0865ccf8a400d60bd",
+  "output_sha256": "fb36fdd6a1205dcaa23a07b693c95e1d379a5619ef81ba339a7ab0a12c0e42bd",
+  "text_command_counts": {
+    "title": 1,
+    "message": 107,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "ascii_comma_to_u201A": true,
+    "speaker_name_fields_kept": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "br_count_mirrored": true,
+    "title_vietnamese_title_case": true
+  },
+  "linguistic_notes": [
+    "EN-asset-is-English case: JP primary via ja.json; EN asset structural authority.",
+    "ハツネ -> Hatsune (kept JP field-1 label; in-dialogue name romanized), fox Beastkin, serves a young lord (thiếu chủ), addresses Commander as 'anh'.",
+    "コトノ -> Kotono (kept JP field-1 label), retainer, addresses Commander as 'Chủ Nhân' (Milord).",
+    "Commander = <user>: rendered 'anh' (male) -> females, 'em' self-reference; 兵士A uses 'Chỉ Huy' honorific for him.",
+    "Frontline Base -> Căn Cứ Tiền Tuyến; Abyss -> Hắc Huyệt; Hourai kept; Beastkin -> Thú Nhân.",
+    "Onomatopoeia localized: *pant，pant* -> *thở dốc, thở dốc*; Tch...! -> Chít...!; Guh/Gwaaah kept as Ưgh/Guaaah."
+  ],
+  "known_uncertainties": [],
+  "changed_lines": 108,
+  "kept_text_lines": [],
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0
+}

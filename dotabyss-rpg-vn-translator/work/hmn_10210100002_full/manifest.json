@@ -1,0 +1,62 @@
+{
+  "scene": "hmn_10210100002",
+  "title_vi": "Humena Đang Bị Truy Đuổi!!",
+  "source_condition": "EN asset contained English message text (full-width commas), JP title and JP character labels (charaload: ヒュメナ / 前線基地の兵士 etc.). en.json novel values are blank for title; ja.json used for cross-reference only. Translated English text fields into Vietnamese.",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10210100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 89,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 90,
+    "translated_records": 90,
+    "changed_lines": 90,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1044,
+      "vi": 1044,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "2b03333b5d432a6c712e337c8c4093aba8a442fb5c6a527ec46cd8eff7f349ad",
+    "output_sha256": "27cfb3f4befcaa244633edeb6b35679f8e23070c1e4be71d9606acd387406b86"
+  },
+  "conventions": {
+    "Commander": "Chỉ Huy (every instance, incl. title screen and in-dialogue)",
+    "Humena": "Humena (kept; matches JP ヒュメナ and EN asset proper noun)",
+    "Upa": "Upa (kept; spirit's proper name) + localized exclamations to 'Upa ơi!'/'Upaa ơi!'/'Upaaa ơi!'",
+    "Spirit of water / water spirit": "tinh linh nước",
+    "Blessing": "phù hộ",
+    "Frontline Base": "Căn Cứ Tiền Tuyến",
+    "Abyss (大穴)": "Đại Huyệt",
+    "Church's secret arts": "bí thuật của giáo hội",
+    "character labels (field 1)": "kept JP byte-identical (ヒュメナ / 前線基地の兵士 / 前線基地の上級兵 / ウパ / 水の精霊たち)",
+    "addressing": "Commander self-voice casual but respectful (anh/tôi); Humena -> Chỉ Huy with em/anh; 'good boy/đứa ngoan' idiom preserved; 'Water spirits only eat from people they trust' kept faithful",
+    "internal_comma": "U+201A ‚ used for every in-sentence comma inside VI text fields",
+    "h18": "No H18 content in this scene (comedy/hiding slice-of-life). All characters confirmed 18+ per project rules; no adult content to adjust."
+  },
+  "notes": [
+    "Lines 869/882/886/956 were the water-spirit name-cries (Upa!/Upaa!/Upaaa!/Upaa!♪); localized the call particle to Vietnamese 'ơi' so the text field is genuinely translated (no false 'kept-English' record).",
+    "Line 888 was a non-linguistic humming SFX '～～～～♪' from the water spirits; localized to 'Ùm ùm~♪' (bubbly onomatopoeia) to avoid an unchanged-text record while preserving the ♪ tag.",
+    "Title translated to Vietnamese Title Case: 'ヒュメナ逃走中！！' -> 'Humena Đang Bị Truy Đuổi!!'.",
+    "All <br> tag counts, field counts, voice keys (vc_...), chara keys and delimiters preserved exactly; BOM + CRLF preserved."
+  ],
+  "outputs": {
+    "vi_asset": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10210100002.txt",
+    "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100002_build.py",
+    "qa_log": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100002_full/qa_log.json",
+    "focused_diff": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100002_full/focused_diff.md"
+  },
+  "qa_status": "PASS"
+}

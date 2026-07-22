@@ -1,0 +1,62 @@
+{
+  "scene": "hmn_10340100003",
+  "asset_relative": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10340100003.txt",
+  "source_case": "EN-asset-is-English (title JP)",
+  "record_counts": {
+    "title": 1,
+    "message": 113,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 114
+  },
+  "translated_records": 114,
+  "unchanged_text_records": 0,
+  "bom": "preserved",
+  "newline": "CRLF preserved",
+  "delimiter": "ASCII comma (field separator) preserved; fullwidth U+FF0C and U+201A used inside VI prose",
+  "tags": "<br> counts matched to EN asset authority (25 lines adjusted to insert internal <br>)",
+  "speaker_labels": "kept byte-identical JP (e.g. アリシア, カーラ, 困っている女, <user>, 傘スカートめくりのジョー, etc.) per rule",
+  "character_notes": {
+    "Commander": "Chỉ Huy (self-address ta; calls Carla em)",
+    "Carla": "カーラ / Carla — em→Chỉ Huy; addresses brigade as đồng đội/đội trưởng",
+    "Alicia": "アリシア / Alicia — romanized in dialogue",
+    "Joe/Gordon/Kaiman/Ghee": "pervert-brigade members; names kept romanized from EN asset; 隊長=Đội trưởng when they address Carla",
+    "garbage_rascism": "生ゴミ/ゴミ → rác rưởi/ rác (Comander ta voice authority)",
+    "Abyss": "Đại Huyệt; Frontline Base=Tiền Tuyến Căn Cứ"
+  },
+  "h18_handling": "All content adult/H18 translated faithfully to source tone; confirmed all characters 18+ per project rules. Scene is comedic sexual-harassment eradication brigade — no explicit sexual acts, translated at source directness.",
+  "intentional_keeps": [
+    "Proper names + romanized pervert names kept as EN (intentional, logged)"
+  ],
+  "notes": "Field-1 speaker labels kept JP byte-identical (engine mapping keys). 25 message lines had EN source with 2 <br> while natural VI collapsed to 1 — internal <br> inserted to match EN asset tag authority. No ASCII comma inside VI text fields (U+201A/， used).",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10340100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 113,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 114,
+    "translated_records": 114,
+    "changed_lines": 114,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 3162,
+      "vi": 3162,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f02b0afe202bfc32d85edc05c5be6a336c1f184335fc5661663d1cfc19b6f8f3",
+    "output_sha256": "8b381ca18bcc6c03a08862b7a10e7c28e2a64ea776ad93630a9aeca1012a20ac"
+  }
+}

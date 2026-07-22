@@ -1,0 +1,633 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10210100032
+
+charaload,chara_1,102101000G,ヒュメナ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10210100032_001_01,1
+
+
+asyncseplay,se2_1,se5020012,0,1,CONT
+
+l2dmotion,MouthEmotionC
+
+window,on,0.15
+l2dmessage,ヒュメナ,C-Commander... w-wait... *whimper*!<br> ,,vc_10210100032_001_01
+
+message,,The slippery tentacles licked her exposed breasts and pussy. They<br>attacked her sensitive body at once，making her twitch and tremble.<br> 
+
+l2dmotion,ExEmotion00
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,ヒュメナ,W-Wait，Commander! Snap out of it... Ngh... *whimper*!<br> ,,vc_10210100032_002_01
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+message,,Despite her calls，the tentacles didn't stop，clinging to her soft skin<br>and sucking with their suckers as if tasting captured prey.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,ヒュメナ,(No use... Commander can't hear my voice... at this rate，I'll...!)<br> ,,vc_10210100032_003_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,ExEmotion01
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionC,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ヒュメナ,Hyaan! Th-there，no... *gasp*... *whimper*!<br> ,,vc_10210100032_004_01
+
+message,,Ignoring her screams，the tentacles licked her pussy repeatedly.<br>There was no kindness or consideration，only a hint of brutality.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,ExEmotion00,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+message,ヒュメナ,(*whimper*... this is so cruel... my kind Commander would never do<br>something like this...!)<br> ,,vc_10210100032_005_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,ExEmotion01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ヒュメナ,*whimper*... Ngh... *gasp*!<br> ,,vc_10210100032_006_01
+
+message,,In her mind，she was clearly feeling revulsion. Yet Humena's sensitive<br>body kept responding honestly.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,9
+
+asyncl2dmotion,FaceAngleReset,on,STOP,9
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+message,ヒュメナ,(I have to do something... Commander has become a lust-driven<br>aquatic creature... Only desire remains，and his consciousness is gone...)<br> ,,vc_10210100032_007_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+message,ヒュメナ,(Unless his lust is satisfied，Commander probably can't return to his<br>original form... Geez，Upachan—what have you done!)<br> ,,vc_10210100032_008_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+message,,Even as she cursed Upa in her heart，the situation didn't change. The<br>tentacles coiled around her thighs writhed and slithered—<br> 
+
+l2dmotion,Scene02
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10210100032_002_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヒュメナ,Eh—Mmph... Ah，Aahn!<br> ,,vc_10210100032_009_01
+
+l2dmotion,MouthEmotion00
+
+message,,A thick tentacle slithered into her pussy with a *squelch*，latching on<br>with its suckers and parting her depths，making her climax at once.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotion00,on,STOP,1
+
+l2dmessage,ヒュメナ,Hyaaah... a，aah... s-so... I came... Mmph... the tentacles ravaged my<br>pussy... and I came in a flash...<br> ,,vc_10210100032_010_01
+
+message,,The convulsions of orgasm wouldn't stop，and her pussy contracted<br>sporadically. The tentacles undulated as if delighting in the sensation.<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionLeft
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,ExEmotion00,on,STOP,8.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7.5
+
+message,ヒュメナ,(I'm being treated so roughly... *sob*... when I said I wanted it more<br>intense，this isn't what I meant...)<br> ,,vc_10210100032_011_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,10
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,10
+
+asyncl2dmotion,MouthEmotionC,on,STOP,10
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+message,ヒュメナ,(Wanting to be desired more，to be taken more... that means I wanted<br>to make love passionately with the usual Commander... th-this is...!)<br> ,,vc_10210100032_012_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion00
+
+message,,As she dwelled on the sweet intimacy she had originally imagined，her<br>eyes grew hot and her nose stung.<br> 
+
+l2dmotion,Scene03
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10210100032_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+l2dmessage,ヒュメナ,*sniffle*... Huh? Ah... *pant*!<br> ,,vc_10210100032_013_01
+
+message,,The tentacles wiped away her tears. That unexpected action gave<br>Humena a glimmer of hope.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+l2dmessage,ヒュメナ,Commander...?<br> ,,vc_10210100032_014_01
+
+l2dmotion,ExEmotion02
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1.5
+
+message,,When she called out her beloved's name without thinking，she felt the<br>tentacle near her eye give a slight nod.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion01
+
+message,ヒュメナ,(Even like this... even after losing himself... he's still so kind...)<br> ,,vc_10210100032_015_01
+
+message,,With that thought，she felt somehow relieved. Her despair gradually<br>began to settle.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.5
+
+l2dmessage,ヒュメナ,I'm sorry，Commander... It ended up like this because of me...<br> ,,vc_10210100032_016_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+message,,Humena spoke gently to the tentacles，still as if waiting. She didn't<br>know if he could hear，but she wanted to speak anyway.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotion00
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.5
+
+message,ヒュメナ,(Right... This isn't Commander's fault. I have to help him quickly.)<br> ,,vc_10210100032_017_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotion00,on,STOP,7.5
+
+message,ヒュメナ,(To do that，I need to let him release his desire... If it's for<br>Commander's sake，I can do this... I'll be strong...)<br> ,,vc_10210100032_018_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,8
+
+l2dmessage,ヒュメナ,Commander... do what you want with me... okay? Take me until you're<br>satisfied...?<br> ,,vc_10210100032_019_01
+
+l2dmotion,Scene04
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10210100032_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ヒュメナ,*pant*... Ah，Hyaahn!<br> ,,vc_10210100032_020_01
+
+message,,At Humena's gentle voice，the tentacles reacted more strongly than<br>ever，writhing and penetrating deep as if savoring her.<br> 
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,FaceAngleTop
+
+l2dmessage,ヒュメナ,Ngh，Hyaah，Aahn，Ah，Mmph!<br> ,,vc_10210100032_021_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion00
+
+message,,Vigorous thrusting while being groped all over. It was rough，to be<br>sure，but thanks to the slime，there was no pain at all. However—<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleBottom
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ヒュメナ,Aaaah，it's insane... *pant* Mmph. This feels way too good... Aaaah!<br> ,,vc_10210100032_022_01
+
+message,,Each time the suckers latched onto her nipples and the tentacles<br>scraped her slick folds，Humena convulsed as if begging for pleasure.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,ExEmotion00,on,STOP,4
+
+l2dmessage,ヒュメナ,Hyu，Aahn，*pant*... Aaah... S-so amazing... Something like this，<br>mmph... for the first time... Aaaahn!<br> ,,vc_10210100032_023_01
+
+l2dmotion,EyeOpenReset
+
+message,,The sensation felt as if her body was being swallowed by a vortex of<br>pleasure，with a hint of suffering，but Humena did not refuse.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+l2dmotion,MouthEmotionD
+
+l2dmessage,ヒュメナ,Aah，Aahn，I-it's good... Mmph，Ngh... just like that，do what you want<br>with me...!<br> ,,vc_10210100032_024_01
+
+l2dmotion,MouthEmotion01
+
+message,,She let out a shrill cry but yielded to the tentacles' hunger. Her<br>loving devotion made them throb and writhe with even greater intensity.<br> 
+
+l2dmotion,Scene05
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10210100032_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,FaceAngleTopRight
+
+l2dmessage,ヒュメナ,*pant*... Ah—Hyaan! Ah... *gasp*! Aaaahn!<br> ,,vc_10210100032_025_01
+
+l2dmotion,EyeOpen01
+
+message,,The tentacle's tip thrust deep into her womb. Humena's body<br>shuddered，her love juice splattering and pooling on the floor.<br> 
+
+message,,Assailed by pleasure so intense that she felt her whole body was an<br>erogenous zone， Humena had already climaxed multiple times.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,BodyAngleReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+l2dmessage,ヒュメナ,Auu... Ngh...! No...!<br>I'm going to break... I'm going crazy...!<br> ,,vc_10210100032_026_01
+
+message,,Insides squelched with love juice and tentacle slime. Where suckers<br>gripped，skin bubbled and foamed，sparks burst at vision's edges.<br> 
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.2
+
+l2dmessage,ヒュメナ,Aah! Ah! Ngh! Aaah!<br>Augh! Hauuu! At this rate，I'll really—Hyaaan!<br> ,,vc_10210100032_027_01
+
+message,,She panted harshly，her throat raw. Still，she endured，letting the<br>tentacles drain all their hunger into her.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,Then the tentacle that had been pistoning through her slick passage<br>began to quiver in tiny tremors.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotionD
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmessage,ヒュメナ,Haunn! Augh! Nnk! Hifu! Hyau! Aaah...!<br>It's okay! Cum... Let it all out inside me... Aaah!<br> ,,vc_10210100032_028_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+l2dmessage,ヒュメナ,And then... go back to normal...!<br> ,,vc_10210100032_029_01
+
+message,,The tentacle shuddered，grew slightly larger inside，and then—<br> 
+
+asyncl2dmotion,Scene06,on,STOP,1
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10210100032_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+l2dmessage,ヒュメナ,*gasp* Ah! Ah! Mmph!—Aaaaaaaah...!<br> ,,vc_10210100032_030_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+message,,Humena shuddered as the day's biggest climax hit her in surging<br>waves. The tentacles climaxed too，spewing white cloudy fluid from all tips.<br> 
+
+l2dmotion,MouthEmotionD
+
+asyncl2dmotion,EyeEmotion00,on,STOP,1
+
+l2dmessage,ヒュメナ,Ah，Aaah! *pant*... s-so amazing... so much came out... mmm...<br> ,,vc_10210100032_031_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.8
+
+message,,Inside and out，she was drenched in semen，and a stifling smell<br>soaked into her body. But for Humena now，even that was pleasure.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+l2dmessage,ヒュメナ,Hot... Mmph! *pant*... it's my first time being bathed in so much<br>semen... *pant*... *pant*... Ah! Aah...<br> ,,vc_10210100032_032_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,,Feeling the climax waves finally receding，she gazed at the tentacle<br>deep inside her. It moved languidly，as if watching over her gently.<br> 
+
+l2dmotion,Scene07
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10210100032_007_01,1,on
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionLeft
+
+l2dmessage,ヒュメナ,*pant*，Mmph!... *pant*... Ah... Commander...<br>Did it feel good...? Are you satisfied now...?<br> ,,vc_10210100032_033_01
+
+message,,Then，the tentacles' movements changed to a sinuous motion，and<br>they began to grope Humena's body once more.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotion00,on,STOP,6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7
+
+l2dmessage,ヒュメナ,I see... you still need more，don't you...?<br>...Yeah，it's okay...?<br> ,,vc_10210100032_034_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+sestop,se2_1,14
+
+l2dmessage,ヒュメナ,If you don't let it all out，Commander can't go back to normal，<br>right...? *pant* Ah! Don't worry about me，take me as much as you need?<br> ,,vc_10210100032_035_01
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

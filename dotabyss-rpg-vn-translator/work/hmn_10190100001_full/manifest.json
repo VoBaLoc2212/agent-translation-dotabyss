@@ -1,0 +1,68 @@
+{
+  "scene": "hmn_10190100001",
+  "title_vi": "Tiến Trận! Thiếu Nữ Hải Tặc Tiền Tuyến Căn Địa!!",
+  "source_language": "ja",
+  "source_note": "en.json was blank for this scene; asset JP text used as authoritative source (EN-asset-is-JP condition).",
+  "output_language": "vi",
+  "character_voice": {
+    "ルシータ": "Lucita — energetic pirate/merchant captain; アタシ (atashi) -> em/anh toggle; 司令官 -> Chỉ Huy.",
+    "<user>": "Commander (Chỉ Huy) — male protagonist; 俺 -> anh.",
+    "野盗/輸送隊員A/輸送隊員B": "kept as asset labels (no glossary remap).",
+    "アウラ": "Aura — mentioned only, kept as Aura."
+  },
+  "counts": {
+    "title": 1,
+    "message": 77,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 79,
+  "translated_records": 79,
+  "structural": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0
+  },
+  "independent_verify": {
+    "scene": "hmn_10190100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 77,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 79,
+    "translated_records": 79,
+    "changed_lines": 79,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1153,
+      "vi": 1153,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "967e6f16eaca31d6a4d831e438345aa157e03ab02e006acd3e6573aaff58793a",
+    "output_sha256": "fa318f93a5e60a9c1500defcf5c864f0d9c037c37177cca84ef56c6465aa4adf"
+  },
+  "status": "PASS",
+  "artifacts": {
+    "output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10190100001.txt",
+    "qa_log": "dotabyss-rpg-vn-translator/work/hmn_10190100001_full/qa_log.json",
+    "manifest": "dotabyss-rpg-vn-translator/work/hmn_10190100001_full/manifest.json",
+    "focused_diff": "dotabyss-rpg-vn-translator/work/hmn_10190100001_full/focused_diff.md",
+    "build_script": "dotabyss-rpg-vn-translator/work/hmn_10190100001_full/build_vi.py"
+  }
+}

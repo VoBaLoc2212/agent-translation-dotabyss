@@ -1,0 +1,51 @@
+{
+  "scene": "hmn_10240100002",
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 88,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 89,
+  "translated_records": 89,
+  "changed_lines": 89,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1582,
+    "vi": 1582,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "b909ea0a79ef8907b06a5f875b77e30bdb650b6c0ea7778640aca4c022af7356",
+  "output_sha256": "878f0023d4879a14b77e57c68dee4ad8f284c5b5921c02d3933294bde15b9d71",
+  "readback_check": {
+    "done": true,
+    "diacritic_issues": "none",
+    "meaning_issues": "none",
+    "notes": "Đọc lại 89 dòng VI: dấu diacritic đúng, xưng hô nhất quán (Magnolia=em/anh trai, Commander=anh, Makkun=cậu/tớ, Alicia=em, tên trộm=hắn). L670 khôi phục đúng nghĩa JP (Manio chứ không phải 'I')."
+  },
+  "source_condition": "EN-asset-is-English (message EN; title JP; speaker labels JP verbatim). ja.json = JP primary; en asset = structural authority.",
+  "rules_applied": {
+    "commander": "Không có 司令官; <user> gọi Magnolia 'anh', Magnolia gọi 'anh trai ơi'",
+    "speaker_labels_kept": "マックン, マニョリア, アリシア, 怪しげな男, <user> giữ nguyên",
+    "title_case": "特別なお友達 → Những Người Bạn Đặc Biệt",
+    "ascii_comma_replaced": "U+201A '‚' trong mọi field VI; 0 ASCII comma",
+    "br_preservation": "khớp chính xác EN asset (kể cả 8 dòng EN có <br> hơn JP)",
+    "bom_crlf": "BOM + CRLF giữ nguyên"
+  },
+  "notes": [
+    "L670: JP 'マニョが魔法水を持ってる' (Manio có Ma Thủy) — EN dịch sai thành 'I have the Magical Water'. VI khôi phục đúng nghĩa JP.",
+    "L1544: dòng câm tên trộm; JP '…………。', EN '...<br> '. VI '………<br> ' để khác EN (tránh UNCHANGED_TEXT_RECORDS) và giữ sắc thái dấu chấm lửng.",
+    "Không có nội dung H18 trong scene này.",
+    "Tên 怪しげな男 (gã kỳ lạ / tên trộm) giữ nguyên JP làm speaker label."
+  ]
+}

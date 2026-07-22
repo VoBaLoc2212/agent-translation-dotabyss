@@ -1,0 +1,99 @@
+﻿
+fade,Out,Black,0
+
+adultui,off
+
+bg,abg12100a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,100101000X,ローザ
+
+charaface,chara_1,FaceSurprise
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0031,1
+
+
+asyncjump,CHARA,chara_1,40,0.5,2,off,0,CONT
+
+asyncseplay,setag3_1,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ローザ,Commander! Commander! Are you all right?!<br>P-Please，stay with me...!<br> ,100101000X,vc_10010100013_001_01,chara_1
+
+message,<user>,Nah，I'm fine. Just overdid it a bit... I didn't think we'd go at it for<br>hours straight... As expected of Rosa... You've got bottomless stamina.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag3_2,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,ローザ,I-I'm so sorry...! To have drained my lord so completely... That's<br>unbefitting of a knight...! How can I ever apologize...!<br> ,100101000X,vc_10010100013_002_01,chara_1
+
+message,<user>,No，I really mean it，don't worry about it. I got carried away too.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_3,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ローザ,Carried away... So you mean... by me...?<br> ,100101000X,vc_10010100013_003_01,chara_1
+
+message,<user>,Well... something like that. I was surprised. I never knew you had this<br>kind of talent. At this rate，you'd do well at a brothel.<br> 
+
+message,<user>,Honestly，if you worked at the brothel，it'd be a huge help. ...Will you<br>do it?<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag3_4,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ローザ,As you command! If it is my lord's wish，I shall devote myself with all<br>my might!<br> ,100101000X,vc_10010100013_004_01,chara_1
+
+message,<user>,Haha，reassuring. I'm counting on you.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

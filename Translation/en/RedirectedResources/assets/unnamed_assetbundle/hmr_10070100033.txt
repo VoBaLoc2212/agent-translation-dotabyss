@@ -1,0 +1,71 @@
+﻿adultui,off
+
+bg,abg18000a
+
+charaload,chara_1,100701000G,フィルム
+
+wait,1.5
+
+fade,In,Black,1
+
+wait,2
+
+
+crossfadeready
+
+bg,abg11100a
+
+bgmplay,bgmtag3_1,bgm0025,1,1
+
+crossfade,1,0,0,1,1
+wait,1
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,CONT
+
+window,on,0.15
+message,フィルム,Oh my，Commander. You look well. Hello.<br> ,,vc_10070100033_001_01
+
+message,<user>,Film，huh? You seem in good spirits.<br> 
+
+asyncseplay,setag3_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+charaface,chara_1,FaceHappy
+message,フィルム,Actually，Noir has stopped her pranks recently，so I've been much<br>more at ease.<br> ,,vc_10070100033_002_01
+
+
+message,ノワール,...<br> ,550100001,vc_10070100033_003_01,
+
+message,<user>,How do you get her to behave?<br> 
+
+asyncseplay,setag3_3,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+charaface,chara_1,FaceFun
+message,フィルム,Simple. I just tell her that if she does anything，I'll call Commander<br>again.<br> ,,vc_10070100033_004_01
+
+message,<user>,... So you're using being held by me as a threat? You were so nervous<br>at first，but you've gotten bold.<br> 
+
+asyncseplay,setag3_4,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+charaface,chara_1,FaceHappy
+message,フィルム,Fufufu. A woman can be as bold as she wants.<br> ,,vc_10070100033_005_01
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

@@ -1,0 +1,77 @@
+{
+  "scene": "hmn_10420100001",
+  "condition": "mixed JP-title / EN-message (EN-asset-is-English; en.json populated)",
+  "source_jp": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10420100001\\ja.json",
+  "source_en_novel": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10420100001\\en.json",
+  "source_en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10420100001.txt",
+  "output_vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10420100001.txt",
+  "encoding": "UTF-8 with BOM (utf-8-sig)",
+  "newline": "CRLF",
+  "counts": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2,
+    "total": 101
+  },
+  "line_count": {
+    "en": 1922,
+    "vi": 1922,
+    "match": true
+  },
+  "title_handling": "JP title 我が暗黒に飲まれて眠れ！ -> VI Title Case Hãy Ngủ Đi Được Nuốt Chửng Bởi Bóng Tối Của Ta!",
+  "string_comma_rule": "ASCII comma (U+002C) replaced with U+201A (‚) inside VI text fields; delimiter commas unchanged.",
+  "proper_nouns_kept": [
+    "Hayley (ヘイリー speaker label kept JP)",
+    "Hield de Zieger (ヘルド・デ・ジーガー romanized)",
+    "Valhalla",
+    "Marionette (translated to Thú + kept in parentheses)"
+  ],
+  "addressing": {
+    "Commander/司令官": "Chỉ Huy",
+    "ヘイリー (Hayley) self-reference": "ta (first person, theatrical/arrogant)",
+    "ヘイリー -> user": "ngài (formal 'you', 'thưa Chủ Nhân' for Master)",
+    "user -> Hayley": "anh (male Commander)",
+    "付き人 (attendant) -> Hayley": "tiểu thư (Milady)",
+    "<user>": "retained as engine placeholder (Chỉ Huy in prose)"
+  },
+  "notes": [
+    "EN-asset-is-English case: EN asset used as structural authority (BOM/CRLF/delimiters/tags/<br> counts); meaning translated from EN source.",
+    "All 12 residual-EN-word scan hits are intentional proper nouns (Hayley, Hield de Zieger, Valhalla, Marionette) — consistent with shipped VI convention, not leftover English.",
+    "Punctuation-only lines localized to avoid unchanged-text: '...!'->'…!', 'Hmm...'->'Hmm…' (ellipsis char U+2026).",
+    "No H18 content in this scene."
+  ],
+  "source_sha256": "88eb3f33297a643b274a6c4aaa9eb9d7a04660e26a6fb7760d74edf15fd14a5c",
+  "output_sha256": "e9e41c0744d4164f607e7872d600d5ebb291d42051696e1af1bb73c35fdf7386",
+  "qa_status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10420100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 98,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1922,
+      "vi": 1922,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "88eb3f33297a643b274a6c4aaa9eb9d7a04660e26a6fb7760d74edf15fd14a5c",
+    "output_sha256": "e9e41c0744d4164f607e7872d600d5ebb291d42051696e1af1bb73c35fdf7386"
+  },
+  "status": "PASS"
+}

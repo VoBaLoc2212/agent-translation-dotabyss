@@ -1,0 +1,63 @@
+{
+  "scene": "hmn_10410100002",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 87,
+    "messageTextUnder": 0,
+    "messageTextCenter": 3
+  },
+  "translatable_records": 91,
+  "translated_records": 91,
+  "changed_lines": 91,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1049,
+    "vi": 1049,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "c134d9c8ba0cba9ac86a072e9f1a4ea421091c8d41643a7dcd6e8ae2de3d5400",
+  "output_sha256": "53f353325c5c48a6accd6ca24870811ff5ccc961d888308aa41bd6a98889d61f",
+  "qa_status": "PASS",
+  "project": "AgentTranslation",
+  "language": "vi",
+  "source_case": "EN-asset-is-English",
+  "rules": [
+    "JP primary, EN alignment only",
+    "Commander/司令官 -> Chị Huy",
+    "fullwidth comma U+FF0C mirrored (no ASCII comma)",
+    "title Title Case",
+    "speaker labels kept verbatim",
+    "H18 confirmed (all 18+)"
+  ],
+  "counts": {
+    "title": 1,
+    "message": 87,
+    "messageTextUnder": 0,
+    "messageTextCenter": 3,
+    "total_text_records": 91,
+    "translated": 91
+  },
+  "kept_or_intentional": [
+    {
+      "line": 999,
+      "field_ja": "殺すべきではありませんか？",
+      "action": "translated JP->VI",
+      "vi": "Chẳng phải chúng ta nên giết bọn họ sao?"
+    },
+    {
+      "line": 1001,
+      "field_en": "...",
+      "action": "ellipsis normalized to … (U+2026)",
+      "vi": "…<br> "
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "scene": "hmn_10180100002",
+  "generated_at": "2026-07-19T10:39:27.827600+00:00",
+  "paths": {
+    "source_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100002.txt",
+    "output_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100002.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100002\\en.json",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100002_full"
+  },
+  "source": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1029,
+    "sha256": {
+      "asset_en_sha256": "5961f7e68264149f7b051515ed65971c1fda4c3ab600e31cdc2ad2920fab127b",
+      "ja_json_sha256": "e434f516e7f861aeb60e13d6d42c4fbcf6918e9ecee80235fd478bc4968b7407",
+      "en_json_sha256": "9110d717dc58a6b11ed528feaa424da26155402f334a54b8854650cd753773fb"
+    }
+  },
+  "output": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1029,
+    "sha256": "ab004e9d2d8459825d7a73f909aae7d9490694e9df80fc7c000177cf59dbfaf5"
+  },
+  "format": {
+    "delimiter": ",",
+    "text_commands_counted": [
+      "title",
+      "message",
+      "messageTextUnder",
+      "messageTextCenter"
+    ],
+    "command_counts": {
+      "message": 63,
+      "messageTextCenter": 1,
+      "messageTextUnder": 0,
+      "title": 1
+    }
+  },
+  "translation_basis": "JP primary; en.json values blank; asset source text is JP, EN alignment unavailable except ordering.",
+  "character_voice": {
+    "グラディア": "terse engineer/drill enthusiast; keeps asset speaker/name; self often mình; mixed キミ/cậu maintained where source distant/casual",
+    "司令官/Commander": "Chỉ Huy when title/addressed"
+  },
+  "records_total": 65,
+  "records_translated": 65,
+  "records_unmatched": 0,
+  "unmatched": [],
+  "errors": [],
+  "qa_status": "PASS",
+  "structural_qa": {
+    "status": "PASS",
+    "errors": []
+  },
+  "linguistic_qa": {
+    "status": "PASS",
+    "notes": [
+      "Title translated in Vietnamese Title Case.",
+      "ASCII commas inside VI text fields replaced with U+201A where needed.",
+      "No H18 content in this scene."
+    ]
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 63,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 65,
+  "translated_records": 65,
+  "changed_lines": 65,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1029,
+    "vi": 1029,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "5961f7e68264149f7b051515ed65971c1fda4c3ab600e31cdc2ad2920fab127b",
+  "output_sha256": "ab004e9d2d8459825d7a73f909aae7d9490694e9df80fc7c000177cf59dbfaf5"
+}

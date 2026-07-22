@@ -1,0 +1,1277 @@
+{
+  "scene": "hmn_10100100002",
+  "status": "PASS",
+  "source_paths": {
+    "jp_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10100100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10100100002\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10100100002.txt"
+  },
+  "output_paths": {
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10100100002.txt",
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10100100002_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10100100002_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10100100002_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10100100002_full\\generate_vi.py"
+  },
+  "hashes": {
+    "jp_json_sha256": "2305f09cd19132ce403253196bcb424a064ed5c4b7bb2483d24e309753b4dd91",
+    "en_json_sha256": "b52123cf2428c22126738554ab8dcb68b20ceaa995895b78befaa1df9f1d66d8",
+    "en_asset_sha256": "ad74ebb50c4890d0e09d97412193589c42fd2e65650657d946dde242ae2cd247",
+    "vi_asset_sha256": "3778242ee311e2af1873eb86eaf7247f754f78757449b0104d88dd8d4da9a0a5"
+  },
+  "source_properties": {
+    "bytes": 42366,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1925
+  },
+  "output_properties": {
+    "bytes": 42167,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1925
+  },
+  "candidate_counts": {
+    "messageTextUnder": 0,
+    "title": 1,
+    "message": 115,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 116,
+  "translated_records": 116,
+  "entries": [
+    {
+      "candidate_index": 0,
+      "line": 35,
+      "record_type": "title",
+      "source_text": "タイトル",
+      "jp_primary": "タイトル",
+      "vi": "Cuộc Thi Săn Bắn",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 1,
+      "line": 43,
+      "record_type": "message",
+      "source_text": "前線基地にて開催された狩猟コンテスト。<br>獲物を狩って料理を作り、その味で審査をおこなうという大会だ。",
+      "jp_primary": "前線基地にて開催された狩猟コンテスト。<br>獲物を狩って料理を作り、その味で審査をおこなうという大会だ。",
+      "vi": "Cuộc thi săn bắn được tổ chức tại căn cứ tiền tuyến.<br>Đây là cuộc thi săn mồi‚ chế biến món ăn rồi chấm điểm bằng hương vị.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 2,
+      "line": 45,
+      "record_type": "message",
+      "source_text": "そして狩猟コンテストは高級食材ウシトリブタの出現という、<br>大きな山場を迎えようとしていた――",
+      "jp_primary": "そして狩猟コンテストは高級食材ウシトリブタの出現という、<br>大きな山場を迎えようとしていた――",
+      "vi": "Và rồi cuộc thi săn bắn sắp bước vào cao trào lớn――<br>sự xuất hiện của nguyên liệu cao cấp Ushitoributa.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 3,
+      "line": 83,
+      "record_type": "message",
+      "source_text": "ウシトリブタは大穴の瘴気で突然変異した動物って言われてるの。<br>牛の胴体、豚の脚と鼻、そして鳥の翼とクチバシを持つキメラ動物だよ。",
+      "jp_primary": "ウシトリブタは大穴の瘴気で突然変異した動物って言われてるの。<br>牛の胴体、豚の脚と鼻、そして鳥の翼とクチバシを持つキメラ動物だよ。",
+      "vi": "Người ta nói Ushitoributa là loài vật bị đột biến bởi chướng khí của Đại Huyệt.<br>Nó là sinh vật lai có thân bò‚ chân và mũi heo‚ cùng cánh và mỏ chim.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 4,
+      "line": 85,
+      "record_type": "message",
+      "source_text": "……それ、大穴から遠い国で見つかったら<br>モンスター扱いされるんじゃないか？",
+      "jp_primary": "……それ、大穴から遠い国で見つかったら<br>モンスター扱いされるんじゃないか？",
+      "vi": "……Nếu thứ đó được phát hiện ở một nước xa Đại Huyệt<br>thì chẳng phải sẽ bị xem là quái vật sao?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 5,
+      "line": 96,
+      "record_type": "message",
+      "source_text": "調査で動物だって分かってるから、大丈夫！<br>とっても美味しいんだよ～♪",
+      "jp_primary": "調査で動物だって分かってるから、大丈夫！<br>とっても美味しいんだよ～♪",
+      "vi": "Điều tra đã xác nhận nó là động vật rồi nên không sao đâu!<br>Nó ngon lắm đó～♪",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 6,
+      "line": 98,
+      "record_type": "message",
+      "source_text": "勝つためには逃せない獲物だな……！<br>っと、鳴き声が近くなってきたな。",
+      "jp_primary": "勝つためには逃せない獲物だな……！<br>っと、鳴き声が近くなってきたな。",
+      "vi": "Đó là con mồi không thể bỏ qua nếu muốn thắng……!<br>Khoan‚ tiếng kêu đang đến gần rồi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 7,
+      "line": 125,
+      "record_type": "message",
+      "source_text": "――モーケッコブヒー！！！",
+      "jp_primary": "――モーケッコブヒー！！！",
+      "vi": "――Mò-kéc-cô-bụhiii!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 8,
+      "line": 135,
+      "record_type": "message",
+      "source_text": "大きな鳴き声を上げてウシトリブタが森の中を駆け抜けていく。<br>その背後を何人ものハンターが追走していた。",
+      "jp_primary": "大きな鳴き声を上げてウシトリブタが森の中を駆け抜けていく。<br>その背後を何人ものハンターが追走していた。",
+      "vi": "Ushitoributa cất tiếng kêu lớn rồi lao xuyên qua khu rừng.<br>Phía sau nó là rất nhiều thợ săn đang truy đuổi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 9,
+      "line": 168,
+      "record_type": "message",
+      "source_text": "絶対に仕留めろっ！<br>逃がしたら優勝も逃がすと思えっ！",
+      "jp_primary": "絶対に仕留めろっ！<br>逃がしたら優勝も逃がすと思えっ！",
+      "vi": "Nhất định phải hạ nó!<br>Để nó chạy thoát thì coi như tuột luôn chức vô địch đấy!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 10,
+      "line": 201,
+      "record_type": "message",
+      "source_text": "くっ……動きが早いっ！　狙いがつけられないわ！",
+      "jp_primary": "くっ……動きが早いっ！　狙いがつけられないわ！",
+      "vi": "Khự…… nó nhanh quá! Không thể ngắm chuẩn được!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 11,
+      "line": 240,
+      "record_type": "message",
+      "source_text": "微妙に飛んだり跳ねたりして……！<br>あの巨体が、お粗末な翼でちょっと飛ぶの、おかしくないっ！？",
+      "jp_primary": "微妙に飛んだり跳ねたりして……！<br>あの巨体が、お粗末な翼でちょっと飛ぶの、おかしくないっ！？",
+      "vi": "Nó cứ bay bay nhảy nhảy kiểu gì ấy……!<br>Cái thân to đùng đó mà còn bay lên được bằng đôi cánh tệ hại kia‚ không thấy kỳ sao!?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 12,
+      "line": 271,
+      "record_type": "message",
+      "source_text": "あれ本当にモンスターじゃないの！？　ねえっ！？<br>私の魔法が全然当たらないわよっ！",
+      "jp_primary": "あれ本当にモンスターじゃないの！？　ねえっ！？<br>私の魔法が全然当たらないわよっ！",
+      "vi": "Thứ đó thật sự không phải quái vật à!? Này!?<br>Ma pháp của tôi chẳng trúng nổi phát nào!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 13,
+      "line": 318,
+      "record_type": "message",
+      "source_text": "わぁ、大騒ぎだ。<br>これは乗り遅れちゃ楽しくないねっ！",
+      "jp_primary": "わぁ、大騒ぎだ。<br>これは乗り遅れちゃ楽しくないねっ！",
+      "vi": "Wa‚ náo nhiệt ghê.<br>Không nhập cuộc ngay thì mất vui đó!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 14,
+      "line": 320,
+      "record_type": "message",
+      "source_text": "おう、頼んだぞディアーナ！",
+      "jp_primary": "おう、頼んだぞディアーナ！",
+      "vi": "Ừ‚ trông cậy vào em đấy Diana!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 15,
+      "line": 331,
+      "record_type": "message",
+      "source_text": "任せて！　そーれっ……！",
+      "jp_primary": "任せて！　そーれっ……！",
+      "vi": "Cứ để em! Nào……!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 16,
+      "line": 357,
+      "record_type": "message",
+      "source_text": "駆け抜けるウシトリブタの進行方向へディアーナが矢を放った。<br>未来予知とすら思える狙いは、見事に獲物の頭部へと飛び――",
+      "jp_primary": "駆け抜けるウシトリブタの進行方向へディアーナが矢を放った。<br>未来予知とすら思える狙いは、見事に獲物の頭部へと飛び――",
+      "vi": "Diana bắn một mũi tên về hướng Ushitoributa đang lao tới.<br>Phát bắn như thể nhìn thấu tương lai ấy bay thẳng về đầu con mồi――",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 17,
+      "line": 359,
+      "record_type": "message",
+      "source_text": "――モーケッコブッヒヒー！！！",
+      "jp_primary": "――モーケッコブッヒヒー！！！",
+      "vi": "――Mò-kéc-cô-bụhihiii!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 18,
+      "line": 419,
+      "record_type": "message",
+      "source_text": "はず、れた……！？",
+      "jp_primary": "はず、れた……！？",
+      "vi": "Trượt… rồi……!?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 19,
+      "line": 421,
+      "record_type": "message",
+      "source_text": "ぬるりと滑るように、ウシトリブタが矢を回避してみせる。",
+      "jp_primary": "ぬるりと滑るように、ウシトリブタが矢を回避してみせる。",
+      "vi": "Ushitoributa lách mình trơn tuột như trượt đi và né được mũi tên.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 20,
+      "line": 423,
+      "record_type": "message",
+      "source_text": "今のはなんだ……？<br>ディアーナの狙いは完璧だったのに……！",
+      "jp_primary": "今のはなんだ……？<br>ディアーナの狙いは完璧だったのに……！",
+      "vi": "Vừa rồi là sao……?<br>Diana đã ngắm hoàn hảo mà……!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 21,
+      "line": 434,
+      "record_type": "message",
+      "source_text": "もう、１回……！",
+      "jp_primary": "もう、１回……！",
+      "vi": "Một… lần nữa……!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 22,
+      "line": 476,
+      "record_type": "message",
+      "source_text": "再び放たれた矢は、やはり妙な動きで避けられてしまう。<br>追いかけるハンターたちを引き連れ、ウシトリブタは森へ消えていった。",
+      "jp_primary": "再び放たれた矢は、やはり妙な動きで避けられてしまう。<br>追いかけるハンターたちを引き連れ、ウシトリブタは森へ消えていった。",
+      "vi": "Mũi tên được bắn ra lần nữa vẫn bị nó né bằng chuyển động kỳ lạ.<br>Kéo theo đám thợ săn truy đuổi‚ Ushitoributa biến mất vào trong rừng.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 23,
+      "line": 513,
+      "record_type": "message",
+      "source_text": "逃がしたか……。<br>どういうことなんだ、外したようには見えなかったが……",
+      "jp_primary": "逃がしたか……。<br>どういうことなんだ、外したようには見えなかったが……",
+      "vi": "Để nó chạy mất rồi……<br>Chuyện gì vậy‚ anh không thấy em bắn trượt mà……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 24,
+      "line": 524,
+      "record_type": "message",
+      "source_text": "きっと鳥と同じ理屈だと思う。<br>風の流れに乗って、ふわりと矢を回避してるんだよ。",
+      "jp_primary": "きっと鳥と同じ理屈だと思う。<br>風の流れに乗って、ふわりと矢を回避してるんだよ。",
+      "vi": "Em nghĩ chắc là cùng nguyên lý với loài chim.<br>Nó nương theo luồng gió rồi nhẹ nhàng né mũi tên.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 25,
+      "line": 526,
+      "record_type": "message",
+      "source_text": "……あの巨体に小さな翼で、しかも地面を突進してるんだぞ。<br>なんで鳥と同じ理屈で回避してんだよ……。",
+      "jp_primary": "……あの巨体に小さな翼で、しかも地面を突進してるんだぞ。<br>なんで鳥と同じ理屈で回避してんだよ……。",
+      "vi": "……Cái thân khổng lồ đó với đôi cánh bé tí‚ lại còn đang lao trên mặt đất nữa.<br>Sao nó lại né theo nguyên lý của chim được chứ……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 26,
+      "line": 537,
+      "record_type": "message",
+      "source_text": "ボクの矢じゃどれだけ射っても当たらないかも。<br>でもね、他にも手はあるよ。",
+      "jp_primary": "ボクの矢じゃどれだけ射っても当たらないかも。<br>でもね、他にも手はあるよ。",
+      "vi": "Có lẽ dù em bắn bao nhiêu mũi tên cũng không trúng được.<br>Nhưng mà vẫn còn cách khác đó.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 27,
+      "line": 539,
+      "record_type": "message",
+      "source_text": "ほう？　どういう手段だ？",
+      "jp_primary": "ほう？　どういう手段だ？",
+      "vi": "Ồ? Cách gì vậy?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 28,
+      "line": 550,
+      "record_type": "message",
+      "source_text": "ハンターにとって、頼れるもう１つの武器！<br>――トラップだよ！",
+      "jp_primary": "ハンターにとって、頼れるもう１つの武器！<br>――トラップだよ！",
+      "vi": "Một vũ khí đáng tin cậy khác của thợ săn!<br>――Bẫy đó!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 29,
+      "line": 603,
+      "record_type": "message",
+      "source_text": "よし、と。<br>これで全部仕掛け終わったかな。",
+      "jp_primary": "よし、と。<br>これで全部仕掛け終わったかな。",
+      "vi": "Được rồi.<br>Vậy là đã đặt xong hết rồi nhỉ.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 30,
+      "line": 605,
+      "record_type": "message",
+      "source_text": "地面に残った蹄の痕跡……これはウシトリブタの足跡か。<br>移動ルートをしっかり分析してるとは、さすが１流のハンターだな。",
+      "jp_primary": "地面に残った蹄の痕跡……これはウシトリブタの足跡か。<br>移動ルートをしっかり分析してるとは、さすが１流のハンターだな。",
+      "vi": "Dấu móng còn lại trên mặt đất…… đây là dấu chân của Ushitoributa à.<br>Phân tích kỹ cả tuyến di chuyển như vậy‚ đúng là thợ săn hạng nhất.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 31,
+      "line": 616,
+      "record_type": "message",
+      "source_text": "追いかけて矢を射るだけが狩りじゃないからね♪",
+      "jp_primary": "追いかけて矢を射るだけが狩りじゃないからね♪",
+      "vi": "Săn đâu chỉ là đuổi theo rồi bắn tên thôi mà♪",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 32,
+      "line": 627,
+      "record_type": "message",
+      "source_text": "普段なら１晩は待つけど、ウシトリブタは走り回ってるみたいだし。<br>ボクの予想では、最初に仕掛けたトラップの近くを通過する頃かな。",
+      "jp_primary": "普段なら１晩は待つけど、ウシトリブタは走り回ってるみたいだし。<br>ボクの予想では、最初に仕掛けたトラップの近くを通過する頃かな。",
+      "vi": "Bình thường thì phải đợi cả đêm‚ nhưng có vẻ Ushitoributa đang chạy khắp nơi.<br>Theo dự đoán của em‚ chắc sắp đến lúc nó đi ngang qua chiếc bẫy đặt đầu tiên rồi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 33,
+      "line": 629,
+      "record_type": "message",
+      "source_text": "よーし、様子を見に行ってみよう。<br>急がないと他のハンターに狩られるかもしれん！",
+      "jp_primary": "よーし、様子を見に行ってみよう。<br>急がないと他のハンターに狩られるかもしれん！",
+      "vi": "Được rồi‚ đi xem tình hình nào.<br>Nếu không nhanh lên thì có thể bị thợ săn khác hạ mất!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 34,
+      "line": 663,
+      "record_type": "message",
+      "source_text": "美味しく料理できるハンターが狩ってくれたらいいな～。",
+      "jp_primary": "美味しく料理できるハンターが狩ってくれたらいいな～。",
+      "vi": "Hy vọng người săn được nó là một thợ săn biết nấu món thật ngon～.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 35,
+      "line": 665,
+      "record_type": "message",
+      "source_text": "俺たちが！　狩るんだよ！！！",
+      "jp_primary": "俺たちが！　狩るんだよ！！！",
+      "vi": "Chúng ta! Mới là người săn nó!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 36,
+      "line": 707,
+      "record_type": "message",
+      "source_text": "ここに仕掛けた、んだけど……これは……",
+      "jp_primary": "ここに仕掛けた、んだけど……これは……",
+      "vi": "Em đã đặt ở đây‚ nhưng mà…… đây là……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 37,
+      "line": 709,
+      "record_type": "message",
+      "source_text": "トラップが外されて地面に転がってる……こっちもだ……",
+      "jp_primary": "トラップが外されて地面に転がってる……こっちもだ……",
+      "vi": "Cái bẫy đã bị tháo ra và nằm lăn trên đất…… bên này cũng vậy……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 38,
+      "line": 711,
+      "record_type": "message",
+      "source_text": "ディアーナのトラバサミが解除され、地面に放り投げられている。<br>明らかにウシトリブタではなく、人間の仕業だった。",
+      "jp_primary": "ディアーナのトラバサミが解除され、地面に放り投げられている。<br>明らかにウシトリブタではなく、人間の仕業だった。",
+      "vi": "Bẫy kẹp của Diana đã bị gỡ và ném xuống đất.<br>Rõ ràng đây không phải do Ushitoributa mà là do con người làm.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 39,
+      "line": 722,
+      "record_type": "message",
+      "source_text": "……偶然、かもしれないね。<br>次のトラップに行ってみようっ！",
+      "jp_primary": "……偶然、かもしれないね。<br>次のトラップに行ってみようっ！",
+      "vi": "……Có thể chỉ là trùng hợp thôi.<br>Thử đến cái bẫy tiếp theo nào!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 40,
+      "line": 724,
+      "record_type": "message",
+      "source_text": "あ、ああ……",
+      "jp_primary": "あ、ああ……",
+      "vi": "À‚ ừ……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 41,
+      "line": 748,
+      "record_type": "message",
+      "source_text": "２人の期待とは裏腹に、落とし穴も、足をひっかけるトラップも、<br>埋められ、外され、台無しにされていた。",
+      "jp_primary": "２人の期待とは裏腹に、落とし穴も、足をひっかけるトラップも、<br>埋められ、外され、台無しにされていた。",
+      "vi": "Trái với kỳ vọng của hai người‚ cả hố bẫy lẫn bẫy vướng chân<br>đều đã bị lấp‚ bị tháo và phá hỏng.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 42,
+      "line": 787,
+      "record_type": "message",
+      "source_text": "……次が最後だね。",
+      "jp_primary": "……次が最後だね。",
+      "vi": "……Cái tiếp theo là cuối cùng rồi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 43,
+      "line": 789,
+      "record_type": "message",
+      "source_text": "かかってるといいんだが……",
+      "jp_primary": "かかってるといいんだが……",
+      "vi": "Mong là nó mắc bẫy……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 44,
+      "line": 813,
+      "record_type": "message",
+      "source_text": "最後の罠の場所に近づくと、焦った話し声が耳に届く。<br>そこにはごそごそと罠をいじる、２人のハンターの姿があった。",
+      "jp_primary": "最後の罠の場所に近づくと、焦った話し声が耳に届く。<br>そこにはごそごそと罠をいじる、２人のハンターの姿があった。",
+      "vi": "Khi đến gần vị trí chiếc bẫy cuối cùng‚ họ nghe thấy tiếng nói chuyện hốt hoảng.<br>Ở đó có hai thợ săn đang loay hoay đụng vào cái bẫy.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 45,
+      "line": 847,
+      "record_type": "message",
+      "source_text": "おいっ、さっさと外せ！<br>何を手間取ってんだ！",
+      "jp_primary": "おいっ、さっさと外せ！<br>何を手間取ってんだ！",
+      "vi": "Này‚ tháo nhanh lên!<br>Mày còn lề mề cái gì hả!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 46,
+      "line": 856,
+      "record_type": "message",
+      "source_text": "だって兄貴ぃ、これすげえしっかり仕掛けてあるんすよぉ。<br>凄腕のハンターの仕業ですってぇ！",
+      "jp_primary": "だって兄貴ぃ、これすげえしっかり仕掛けてあるんすよぉ。<br>凄腕のハンターの仕業ですってぇ！",
+      "vi": "Nhưng mà đại ca ơi‚ cái này được đặt chắc cực kỳ luôn ấy.<br>Chắc chắn là do thợ săn cao tay làm đấy ạ!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 47,
+      "line": 865,
+      "record_type": "message",
+      "source_text": "ばーかっ！　<br>だからこそ邪魔すんだろうが！　",
+      "jp_primary": "ばーかっ！　<br>だからこそ邪魔すんだろうが！　",
+      "vi": "Đồ ngu!<br>Chính vì thế mới phải phá chứ!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 48,
+      "line": 879,
+      "record_type": "message",
+      "source_text": "お前らの仕業かああああああっ！",
+      "jp_primary": "お前らの仕業かああああああっ！",
+      "vi": "Là do bọn bay làm hảảảảảảả!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 49,
+      "line": 925,
+      "record_type": "message",
+      "source_text": "げええっ、司令官っ！？<br>それにディアーナ……お前らのトラップかっ！",
+      "jp_primary": "げええっ、司令官っ！？<br>それにディアーナ……お前らのトラップかっ！",
+      "vi": "Ghêêê‚ Chỉ Huy!?<br>Cả Diana nữa…… bẫy của bọn mày à!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 50,
+      "line": 995,
+      "record_type": "message",
+      "source_text": "そうだよ～。<br>ね、どうしてトラップを壊しちゃったの？",
+      "jp_primary": "そうだよ～。<br>ね、どうしてトラップを壊しちゃったの？",
+      "vi": "Đúng rồi đó～.<br>Nè‚ sao các anh lại phá bẫy vậy?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 51,
+      "line": 1006,
+      "record_type": "message",
+      "source_text": "あぁ？　決まってんだろ！<br>俺たちが優勝をいただくためだよ！",
+      "jp_primary": "あぁ？　決まってんだろ！<br>俺たちが優勝をいただくためだよ！",
+      "vi": "Hả? Còn phải hỏi sao!<br>Để bọn tao giành chức vô địch chứ sao!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 52,
+      "line": 1017,
+      "record_type": "message",
+      "source_text": "妨害はルール違反じゃねえ！　悪く思うなよ！<br>ほら、行くぞ！",
+      "jp_primary": "妨害はルール違反じゃねえ！　悪く思うなよ！<br>ほら、行くぞ！",
+      "vi": "Cản trở đâu có phạm luật! Đừng trách bọn tao!<br>Nào‚ đi thôi!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 53,
+      "line": 1042,
+      "record_type": "message",
+      "source_text": "へい、兄貴っ！",
+      "jp_primary": "へい、兄貴っ！",
+      "vi": "Vâng‚ đại ca!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 54,
+      "line": 1085,
+      "record_type": "message",
+      "source_text": "あいつら……！<br>なんという卑怯な手段を！",
+      "jp_primary": "あいつら……！<br>なんという卑怯な手段を！",
+      "vi": "Bọn chúng……!<br>Thủ đoạn hèn hạ gì thế này!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 55,
+      "line": 1096,
+      "record_type": "message",
+      "source_text": "……勝つため、だけで……？",
+      "jp_primary": "……勝つため、だけで……？",
+      "vi": "……Chỉ để… thắng thôi sao……?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 56,
+      "line": 1105,
+      "record_type": "message",
+      "source_text": "美味しい料理を作って、みんなと食べたい。<br>目的は同じはずなのに、どうして妨害なんてするんだろう。",
+      "jp_primary": "美味しい料理を作って、みんなと食べたい。<br>目的は同じはずなのに、どうして妨害なんてするんだろう。",
+      "vi": "Muốn làm món ngon rồi ăn cùng mọi người.<br>Lẽ ra mục đích của chúng ta phải giống nhau‚ vậy sao họ lại đi cản trở chứ.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 57,
+      "line": 1114,
+      "record_type": "message",
+      "source_text": "獲物を手に入れられるのは１人かもしれない。<br>でも、危険な狩り場で助け合えるのはハンター同士だけなんだよ。",
+      "jp_primary": "獲物を手に入れられるのは１人かもしれない。<br>でも、危険な狩り場で助け合えるのはハンター同士だけなんだよ。",
+      "vi": "Có thể chỉ một người lấy được con mồi.<br>Nhưng trong bãi săn nguy hiểm‚ chỉ những thợ săn mới có thể giúp đỡ lẫn nhau.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 58,
+      "line": 1125,
+      "record_type": "message",
+      "source_text": "あんなふうに誰かを困らせて、<br>それじゃ自分が困った時に助けてもらえなくなっちゃう。",
+      "jp_primary": "あんなふうに誰かを困らせて、<br>それじゃ自分が困った時に助けてもらえなくなっちゃう。",
+      "vi": "Làm khó người khác như vậy<br>thì đến lúc bản thân gặp khó cũng sẽ không còn ai giúp nữa.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 59,
+      "line": 1136,
+      "record_type": "message",
+      "source_text": "みんな一緒に楽しもうよ。<br>楽しい時間を過ごして、同じ料理を食べようよ。",
+      "jp_primary": "みんな一緒に楽しもうよ。<br>楽しい時間を過ごして、同じ料理を食べようよ。",
+      "vi": "Mọi người cùng vui với nhau đi mà.<br>Cùng trải qua thời gian vui vẻ rồi ăn chung một món đi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 60,
+      "line": 1153,
+      "record_type": "message",
+      "source_text": "そしたら誰かの邪魔をしようなんて、きっと思わなくなるのに……。<br>ね、司令官くん？",
+      "jp_primary": "そしたら誰かの邪魔をしようなんて、きっと思わなくなるのに……。<br>ね、司令官くん？",
+      "vi": "Nếu vậy thì chắc sẽ không ai nghĩ đến chuyện cản trở người khác nữa……<br>Đúng không‚ Chỉ Huy?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 61,
+      "line": 1155,
+      "record_type": "message",
+      "source_text": "あ、ああ……そう、だな。<br>俺もそう思うよ、うん……",
+      "jp_primary": "あ、ああ……そう、だな。<br>俺もそう思うよ、うん……",
+      "vi": "À‚ ừ…… đúng… vậy.<br>Anh cũng nghĩ thế‚ ừm……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 62,
+      "line": 1166,
+      "record_type": "message",
+      "source_text": "全然同意してない空気だーっ！<br>なんで！？　あの人たちとも楽しくご飯を食べたいって思わない！？",
+      "jp_primary": "全然同意してない空気だーっ！<br>なんで！？　あの人たちとも楽しくご飯を食べたいって思わない！？",
+      "vi": "Không hề có bầu không khí đồng ý chút nào!<br>Sao vậy!? Anh không muốn cùng ăn vui vẻ với mấy người đó sao!?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 63,
+      "line": 1168,
+      "record_type": "message",
+      "source_text": "むしろコンテストが終わったら呼び出しをかけて、<br>上官になんて態度だと詰めてやりたい……",
+      "jp_primary": "むしろコンテストが終わったら呼び出しをかけて、<br>上官になんて態度だと詰めてやりたい……",
+      "vi": "Ngược lại anh còn muốn gọi chúng ra sau khi cuộc thi kết thúc<br>rồi chất vấn xem dám có thái độ đó với cấp trên à……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 64,
+      "line": 1179,
+      "record_type": "message",
+      "source_text": "司令官の立場を使っちゃダメでしょ！？<br>それにコンテストの結果をあとに引きずらないのっ！",
+      "jp_primary": "司令官の立場を使っちゃダメでしょ！？<br>それにコンテストの結果をあとに引きずらないのっ！",
+      "vi": "Không được dùng vị trí Chỉ Huy như thế chứ!?<br>Với lại đừng để kết quả cuộc thi ám ảnh sau này nữa!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 65,
+      "line": 1181,
+      "record_type": "message",
+      "source_text": "そうだな。<br>仕方ない……俺はあいつらを、ゆ、ゆる、許すっ！",
+      "jp_primary": "そうだな。<br>仕方ない……俺はあいつらを、ゆ、ゆる、許すっ！",
+      "vi": "Đúng vậy.<br>Hết cách rồi…… anh sẽ th… tha… tha thứ cho bọn chúng!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 66,
+      "line": 1192,
+      "record_type": "message",
+      "source_text": "すっごくためらってる……。<br>本当に怒ってるんだ、司令官くん……",
+      "jp_primary": "すっごくためらってる……。<br>本当に怒ってるんだ、司令官くん……",
+      "vi": "Anh do dự dữ quá……<br>Anh giận thật rồi nhỉ‚ Chỉ Huy……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 67,
+      "line": 1194,
+      "record_type": "message",
+      "source_text": "当然だろうが！<br>ディアーナが知恵と技術で仕掛けたトラップを、台無しにしやがって……！",
+      "jp_primary": "当然だろうが！<br>ディアーナが知恵と技術で仕掛けたトラップを、台無しにしやがって……！",
+      "vi": "Đương nhiên rồi!<br>Chúng phá hỏng những cái bẫy Diana đặt bằng trí tuệ và kỹ thuật mà……!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 68,
+      "line": 1196,
+      "record_type": "message",
+      "source_text": "だが、それでも許す！<br>それがディアーナにとって楽しいコンテストなんだろ？",
+      "jp_primary": "だが、それでも許す！<br>それがディアーナにとって楽しいコンテストなんだろ？",
+      "vi": "Nhưng dù vậy anh vẫn sẽ tha!<br>Vì đó mới là cuộc thi vui vẻ đối với Diana đúng không?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 69,
+      "line": 1207,
+      "record_type": "message",
+      "source_text": "……うん！<br>本当に、キミがパートナーで良かった……",
+      "jp_primary": "……うん！<br>本当に、キミがパートナーで良かった……",
+      "vi": "……Ừ!<br>Thật sự may quá vì anh là cộng sự của em……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 70,
+      "line": 1218,
+      "record_type": "message",
+      "source_text": "でも、ボクにはもう手が思いつかないな～。<br>今回はどうしようもないかも……",
+      "jp_primary": "でも、ボクにはもう手が思いつかないな～。<br>今回はどうしようもないかも……",
+      "vi": "Nhưng em không nghĩ ra cách nào nữa rồi～.<br>Lần này có lẽ hết cách thật……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 71,
+      "line": 1220,
+      "record_type": "message",
+      "source_text": "そのために俺がいるんだ、何か考えてみるよ。<br>別の手……やはりあの雷の矢がキーだと思うんだが……",
+      "jp_primary": "そのために俺がいるんだ、何か考えてみるよ。<br>別の手……やはりあの雷の矢がキーだと思うんだが……",
+      "vi": "Anh ở đây là vì lúc này mà‚ để anh thử nghĩ xem.<br>Một cách khác…… quả nhiên mũi tên sét kia là chìa khóa……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 72,
+      "line": 1231,
+      "record_type": "message",
+      "source_text": "無理しなくていいんだよ？<br>ビーストヴァルチャーもフレアフォックスも美味しいんだから。",
+      "jp_primary": "無理しなくていいんだよ？<br>ビーストヴァルチャーもフレアフォックスも美味しいんだから。",
+      "vi": "Anh không cần cố quá đâu?<br>Beast Vulture và Flare Fox cũng ngon mà.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 73,
+      "line": 1242,
+      "record_type": "message",
+      "source_text": "あとはキノコでも集めて、基地に戻ろうよ。<br>すっごく美味しい料理を用意してあげる♪",
+      "jp_primary": "あとはキノコでも集めて、基地に戻ろうよ。<br>すっごく美味しい料理を用意してあげる♪",
+      "vi": "Sau đó mình hái ít nấm rồi về căn cứ đi.<br>Em sẽ chuẩn bị món cực kỳ ngon cho anh♪",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 74,
+      "line": 1244,
+      "record_type": "message",
+      "source_text": "それも悪くないが……ん、キノコ……？",
+      "jp_primary": "それも悪くないが……ん、キノコ……？",
+      "vi": "Cũng không tệ…… hửm‚ nấm……?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 75,
+      "line": 1256,
+      "record_type": "message",
+      "source_text": "うん、これでもハンターだからね。<br>トラップをしかけるついでに、美味しいキノコの群生地も見ておいたんだ。",
+      "jp_primary": "うん、これでもハンターだからね。<br>トラップをしかけるついでに、美味しいキノコの群生地も見ておいたんだ。",
+      "vi": "Ừ‚ dù sao em cũng là thợ săn mà.<br>Nhân lúc đặt bẫy‚ em cũng đã xem qua chỗ nấm ngon mọc thành cụm rồi.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 76,
+      "line": 1258,
+      "record_type": "message",
+      "source_text": "キノコ……キノコ！　そうか、それだ！<br>いけるぞディアーナ！　俺たちのハンティングはまだ終わってない！",
+      "jp_primary": "キノコ……キノコ！　そうか、それだ！<br>いけるぞディアーナ！　俺たちのハンティングはまだ終わってない！",
+      "vi": "Nấm…… nấm! Ra vậy‚ chính là nó!<br>Làm được đấy Diana! Cuộc săn của chúng ta vẫn chưa kết thúc!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 77,
+      "line": 1269,
+      "record_type": "message",
+      "source_text": "ど、どういうこと……？",
+      "jp_primary": "ど、どういうこと……？",
+      "vi": "S… sao cơ……?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 78,
+      "line": 1296,
+      "record_type": "message",
+      "source_text": "――しばらく後<br>ディアーナは水辺で１人、集中力を高めていた。",
+      "jp_primary": "――しばらく後<br>ディアーナは水辺で１人、集中力を高めていた。",
+      "vi": "――Một lúc sau<br>Diana ở một mình bên mép nước‚ nâng cao sự tập trung.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 79,
+      "line": 1344,
+      "record_type": "message",
+      "source_text": "司令官くんは任せろって言ってたけど。<br>狩りは素人なのに、そう上手くいくのかな……",
+      "jp_primary": "司令官くんは任せろって言ってたけど。<br>狩りは素人なのに、そう上手くいくのかな……",
+      "vi": "Chỉ Huy đã bảo cứ để anh ấy lo.<br>Nhưng anh ấy là tay mơ trong chuyện săn bắn‚ liệu có suôn sẻ không nhỉ……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 80,
+      "line": 1356,
+      "record_type": "message",
+      "source_text": "でも、信じられる。<br>ううん、信じたいって思ってる。",
+      "jp_primary": "でも、信じられる。<br>ううん、信じたいって思ってる。",
+      "vi": "Nhưng mình có thể tin.<br>Không‚ mình muốn tin anh ấy.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 81,
+      "line": 1367,
+      "record_type": "message",
+      "source_text": "不思議だな、司令官くんって。<br>苦しいことも、悲しいことも、キミと一緒だと全部が楽しいことになる。",
+      "jp_primary": "不思議だな、司令官くんって。<br>苦しいことも、悲しいことも、キミと一緒だと全部が楽しいことになる。",
+      "vi": "Chỉ Huy thật kỳ lạ.<br>Cả những điều khổ sở lẫn buồn bã‚ khi ở cùng anh thì tất cả đều trở thành chuyện vui.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 82,
+      "line": 1378,
+      "record_type": "message",
+      "source_text": "今だってそう。待っているのは不安で、心配だけど……<br>きっと何か楽しい事が起こるって、ワクワクしてる！",
+      "jp_primary": "今だってそう。待っているのは不安で、心配だけど……<br>きっと何か楽しい事が起こるって、ワクワクしてる！",
+      "vi": "Ngay lúc này cũng vậy. Chờ đợi thì bất an và lo lắng……<br>nhưng mình lại háo hức vì chắc chắn sẽ có chuyện vui nào đó xảy ra!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 83,
+      "line": 1380,
+      "record_type": "message",
+      "source_text": "そう口にした直後。<br>森の中から大きな鳴き声が響いた。",
+      "jp_primary": "そう口にした直後。<br>森の中から大きな鳴き声が響いた。",
+      "vi": "Ngay sau khi cô nói vậy.<br>Một tiếng kêu lớn vang lên từ trong rừng.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 84,
+      "line": 1404,
+      "record_type": "message",
+      "source_text": "――モーケッコブヒー！！！",
+      "jp_primary": "――モーケッコブヒー！！！",
+      "vi": "――Mò-kéc-cô-bụhiii!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 85,
+      "line": 1441,
+      "record_type": "message",
+      "source_text": "……来た！",
+      "jp_primary": "……来た！",
+      "vi": "……Tới rồi!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 86,
+      "line": 1443,
+      "record_type": "message",
+      "source_text": "ディアーナァァァァァッ！<br>射撃準備だあぁぁぁっ！",
+      "jp_primary": "ディアーナァァァァァッ！<br>射撃準備だあぁぁぁっ！",
+      "vi": "Dianaaaaa!<br>Chuẩn bị bắắắắn!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 87,
+      "line": 1445,
+      "record_type": "message",
+      "source_text": "森の奥から飛び出してきた<user>は<br>胸元に大量のキノコを抱え、ウシトリブタを引き連れていた――",
+      "jp_primary": "森の奥から飛び出してきた<user>は<br>胸元に大量のキノコを抱え、ウシトリブタを引き連れていた――",
+      "vi": "<user> lao ra từ sâu trong rừng<br>ôm đầy nấm trước ngực và kéo theo Ushitoributa――",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 88,
+      "line": 1473,
+      "record_type": "message",
+      "source_text": "キノコで誘導する……？<br>ウシトリブタを？",
+      "jp_primary": "キノコで誘導する……？<br>ウシトリブタを？",
+      "vi": "Dùng nấm để dẫn dụ……?<br>Ushitoributa sao?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 89,
+      "line": 1475,
+      "record_type": "message",
+      "source_text": "ああ。あいつはあれこれ混ざってるが、鼻はブタだろう？<br>ブタってのは鼻の利く動物でな、食べ物を探すのが得意なんだ。",
+      "jp_primary": "ああ。あいつはあれこれ混ざってるが、鼻はブタだろう？<br>ブタってのは鼻の利く動物でな、食べ物を探すのが得意なんだ。",
+      "vi": "Ừ. Nó pha trộn đủ thứ nhưng mũi là của heo đúng không?<br>Heo là loài có khứu giác nhạy‚ rất giỏi tìm thức ăn.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 90,
+      "line": 1477,
+      "record_type": "message",
+      "source_text": "どっかの国ではブタにキノコを探させてる、なんて話もあるが……<br>そうでなくても、キノコはブタの好物なんだよ。",
+      "jp_primary": "どっかの国ではブタにキノコを探させてる、なんて話もあるが……<br>そうでなくても、キノコはブタの好物なんだよ。",
+      "vi": "Ở một nước nào đó còn có chuyện để heo đi tìm nấm nữa……<br>Mà dù không vậy‚ nấm cũng là món heo thích.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 91,
+      "line": 1497,
+      "record_type": "message",
+      "source_text": "……ウシもトリもブタも、頻繁に食事が必要。<br>ハンターに追われたウシトリブタはお腹が減ってるはず……",
+      "jp_primary": "……ウシもトリもブタも、頻繁に食事が必要。<br>ハンターに追われたウシトリブタはお腹が減ってるはず……",
+      "vi": "……Bò‚ chim‚ heo đều cần ăn thường xuyên.<br>Ushitoributa bị thợ săn đuổi chắc hẳn đang đói……",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 92,
+      "line": 1499,
+      "record_type": "message",
+      "source_text": "たくさんのキノコを抱えてれば、あいつのほうから寄ってくるはずだ。<br>あとは……ディアーナを信じる。",
+      "jp_primary": "たくさんのキノコを抱えてれば、あいつのほうから寄ってくるはずだ。<br>あとは……ディアーナを信じる。",
+      "vi": "Nếu ôm nhiều nấm như vậy‚ nó hẳn sẽ tự tiến lại gần.<br>Còn lại thì…… tin vào Diana.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 93,
+      "line": 1527,
+      "record_type": "message",
+      "source_text": "こんな手段でウシトリブタを誘導するなんて……！<br>本当に楽しい人だね、司令官くん！",
+      "jp_primary": "こんな手段でウシトリブタを誘導するなんて……！<br>本当に楽しい人だね、司令官くん！",
+      "vi": "Dẫn dụ Ushitoributa bằng cách như thế này……!<br>Anh đúng là người thú vị thật đó‚ Chỉ Huy!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 94,
+      "line": 1552,
+      "record_type": "message",
+      "source_text": "ついてこい、このまま、このまま……！<br>いけーっ！",
+      "jp_primary": "ついてこい、このまま、このまま……！<br>いけーっ！",
+      "vi": "Theo tao nào‚ cứ thế‚ cứ thế……!<br>Được rồi!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 95,
+      "line": 1554,
+      "record_type": "message",
+      "source_text": "<user>は水中へキノコを投げ入れる。<br>ウシトリブタはキノコを追って水へと足を踏み入れた。",
+      "jp_primary": "<user>は水中へキノコを投げ入れる。<br>ウシトリブタはキノコを追って水へと足を踏み入れた。",
+      "vi": "<user> ném nấm xuống nước.<br>Ushitoributa đuổi theo nấm và bước chân xuống nước.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 96,
+      "line": 1556,
+      "record_type": "message",
+      "source_text": "――今だっ！",
+      "jp_primary": "――今だっ！",
+      "vi": "――Ngay lúc này!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 97,
+      "line": 1596,
+      "record_type": "message",
+      "source_text": "うんっ！　ボクの矢でキミの期待に応えるっ！<br>お願い……パラライズアローッ！！！",
+      "jp_primary": "うんっ！　ボクの矢でキミの期待に応えるっ！<br>お願い……パラライズアローッ！！！",
+      "vi": "Ừ! Em sẽ dùng mũi tên của mình đáp lại kỳ vọng của anh!<br>Xin hãy trúng…… Mũi Tên Tê Liệt!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 98,
+      "line": 1624,
+      "record_type": "message",
+      "source_text": "雷をまとった矢が空中を駆け抜け、ウシトリブタの胴体に向かう。<br>しかし――",
+      "jp_primary": "雷をまとった矢が空中を駆け抜け、ウシトリブタの胴体に向かう。<br>しかし――",
+      "vi": "Mũi tên mang sấm sét lao xuyên không trung về phía thân Ushitoributa.<br>Thế nhưng――",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 99,
+      "line": 1628,
+      "record_type": "message",
+      "source_text": "――モーケッコブヒッ！？",
+      "jp_primary": "――モーケッコブヒッ！？",
+      "vi": "――Mò-kéc-cô-bụh!?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 100,
+      "line": 1654,
+      "record_type": "message",
+      "source_text": "足が水に浸かっていても、その動きに遜色はなかった。<br>ウシトリブタはぬるりと矢を避けてみせる。",
+      "jp_primary": "足が水に浸かっていても、その動きに遜色はなかった。<br>ウシトリブタはぬるりと矢を避けてみせる。",
+      "vi": "Dù chân đang ngập nước‚ chuyển động của nó vẫn không hề kém đi.<br>Ushitoributa lách mình và né được mũi tên.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 101,
+      "line": 1693,
+      "record_type": "message",
+      "source_text": "避けたところで無駄だよっ！<br>さあ、弾けてっ！",
+      "jp_primary": "避けたところで無駄だよっ！<br>さあ、弾けてっ！",
+      "vi": "Có né cũng vô ích thôi!<br>Nào‚ nổ tung đi!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 102,
+      "line": 1718,
+      "record_type": "message",
+      "source_text": "水面に突き刺さった雷の矢が、雷光を炸裂させる。<br>雷が水を通じて広がり、ウシトリブタの濡れた前足へとほとばしる。",
+      "jp_primary": "水面に突き刺さった雷の矢が、雷光を炸裂させる。<br>雷が水を通じて広がり、ウシトリブタの濡れた前足へとほとばしる。",
+      "vi": "Mũi tên sét cắm xuống mặt nước và bùng nổ ánh chớp.<br>Sấm sét lan qua nước rồi phóng vào đôi chân trước ướt đẫm của Ushitoributa.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 103,
+      "line": 1738,
+      "record_type": "message",
+      "source_text": "――モーケッコブヒィィィイッ！！！",
+      "jp_primary": "――モーケッコブヒィィィイッ！！！",
+      "vi": "――Mò-kéc-cô-bụhiiii!!!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 104,
+      "line": 1756,
+      "record_type": "message",
+      "source_text": "痺れに襲われ動きを止める獲物。<br>ハンターの前にさらしたその姿は、余りに無防備だった。",
+      "jp_primary": "痺れに襲われ動きを止める獲物。<br>ハンターの前にさらしたその姿は、余りに無防備だった。",
+      "vi": "Con mồi bị tê liệt và dừng hẳn lại.<br>Dáng vẻ nó phơi ra trước mặt thợ săn quá mức không phòng bị.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 105,
+      "line": 1794,
+      "record_type": "message",
+      "source_text": "これで、終わりだよ……！",
+      "jp_primary": "これで、終わりだよ……！",
+      "vi": "Kết thúc ở đây thôi……!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 106,
+      "line": 1822,
+      "record_type": "message",
+      "source_text": "痺れた翼で風をとらえることはできなかった。<br>今度こそ、ディアーナの矢がウシトリブタへと突き刺さる。",
+      "jp_primary": "痺れた翼で風をとらえることはできなかった。<br>今度こそ、ディアーナの矢がウシトリブタへと突き刺さる。",
+      "vi": "Đôi cánh tê liệt không thể bắt lấy gió.<br>Lần này‚ mũi tên của Diana cuối cùng cũng cắm vào Ushitoributa.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 107,
+      "line": 1824,
+      "record_type": "message",
+      "source_text": "ケッコブヒモォォォォ――",
+      "jp_primary": "ケッコブヒモォォォォ――",
+      "vi": "Kéc-cô-bụh-mòoooo――",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 108,
+      "line": 1836,
+      "record_type": "message",
+      "source_text": "力なく崩れ落ちるウシトリブタ。<br>その巨体はもう身動き１つすることはなかった。",
+      "jp_primary": "力なく崩れ落ちるウシトリブタ。<br>その巨体はもう身動き１つすることはなかった。",
+      "vi": "Ushitoributa đổ sụp xuống không còn sức.<br>Thân hình khổng lồ ấy không hề nhúc nhích thêm một chút nào nữa.",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 109,
+      "line": 1838,
+      "record_type": "message",
+      "source_text": "や……った……？",
+      "jp_primary": "や……った……？",
+      "vi": "Làm… được rồi……?",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 110,
+      "line": 1876,
+      "record_type": "message",
+      "source_text": "うんっ！　ボクたちが狩ったんだよ、司令官くん！",
+      "jp_primary": "うんっ！　ボクたちが狩ったんだよ、司令官くん！",
+      "vi": "Ừ! Chúng ta đã săn được nó rồi đó‚ Chỉ Huy!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 111,
+      "line": 1878,
+      "record_type": "message",
+      "source_text": "お、おおおおっ！<br>やったぞ、ディアーナっ！",
+      "jp_primary": "お、おおおおっ！<br>やったぞ、ディアーナっ！",
+      "vi": "Ô‚ ôôôôô!<br>Làm được rồi‚ Diana!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 112,
+      "line": 1880,
+      "record_type": "message",
+      "source_text": "アリシアめ、俺のことをハンデなんて言いやがって！<br>このコンテスト、もらったぜ！",
+      "jp_primary": "アリシアめ、俺のことをハンデなんて言いやがって！<br>このコンテスト、もらったぜ！",
+      "vi": "Alicia còn dám nói anh là gánh nặng!<br>Cuộc thi này thuộc về chúng ta rồi!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 113,
+      "line": 1891,
+      "record_type": "message",
+      "source_text": "うん！　最高に美味しい料理を、<br>みんなに振る舞おうっ！",
+      "jp_primary": "うん！　最高に美味しい料理を、<br>みんなに振る舞おうっ！",
+      "vi": "Ừ! Hãy đãi mọi người<br>món ăn ngon tuyệt nhất nào!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 114,
+      "line": 1893,
+      "record_type": "message",
+      "source_text": "……あー、まあ、うん……。<br>そう、だな！　そういうことだ！",
+      "jp_primary": "……あー、まあ、うん……。<br>そう、だな！　そういうことだ！",
+      "vi": "……À‚ ừ‚ phải……<br>Đúng vậy! Chính là thế!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "candidate_index": 115,
+      "line": 1916,
+      "record_type": "message",
+      "source_text": "ウシトリブタという高級食材を手に、基地へと舞い戻る２人。<br>その重量は、２人がかりでも苦労するほどだった――",
+      "jp_primary": "ウシトリブタという高級食材を手に、基地へと舞い戻る２人。<br>その重量は、２人がかりでも苦労するほどだった――",
+      "vi": "Hai người mang nguyên liệu cao cấp Ushitoributa quay về căn cứ.<br>Trọng lượng của nó nặng đến mức cả hai cùng khiêng cũng rất vất vả――",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "qa": {
+    "scene": "hmn_10100100002",
+    "qa_status": "PASS",
+    "blockers": [],
+    "warnings": [],
+    "candidate_counts": {
+      "messageTextUnder": 0,
+      "title": 1,
+      "message": 115,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 116,
+    "translated_records": 116,
+    "line_count": {
+      "source": 1925,
+      "output": 1925,
+      "match": true
+    },
+    "bom": {
+      "source": true,
+      "output": true,
+      "match": true
+    },
+    "newline": {
+      "source": "CRLF",
+      "output": "CRLF",
+      "match": true
+    },
+    "delimiter_mismatches": [],
+    "technical_field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_comma_in_vi_text_lines": [],
+    "unchanged_text_lines": [],
+    "adult_content": {
+      "present": false,
+      "all_characters_confirmed_18_plus_by_user_context": true
+    },
+    "notes": [
+      "JP/asset text is primary; en.json values are identical/blank in this source snapshot and used only as alignment artifact.",
+      "Asset contains one repeated Ushitoributa cry record not represented as a distinct novel JSON key; translated directly from asset JP and logged as ASSET_DIRECT_JP if unmatched.",
+      "Diana voice: playful bokukko; localized to em–anh with Chỉ Huy for 司令官くん where natural."
+    ]
+  },
+  "independent_verify": {
+    "scene": "hmn_10100100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 115,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 116,
+    "translated_records": 116,
+    "changed_lines": 116,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1925,
+      "vi": 1925,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "ad74ebb50c4890d0e09d97412193589c42fd2e65650657d946dde242ae2cd247",
+    "output_sha256": "3778242ee311e2af1873eb86eaf7247f754f78757449b0104d88dd8d4da9a0a5"
+  }
+}

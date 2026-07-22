@@ -1,0 +1,89 @@
+{
+  "scene": "hmn_10440100003",
+  "asset_prefix": "hmn_1044",
+  "source_info": {
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10440100003.txt",
+    "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10440100003.txt",
+    "ja_novel": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10440100003/ja.json",
+    "en_novel": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10440100003/en.json"
+  },
+  "detection": "EN-asset-is-English (mixed JP-title / EN-message)",
+  "characters": {
+    "ヤチヨ": "Yachiyo - shrine maiden/weather forecaster with Dragon God blessing",
+    "アリシア": "Alicia - friend/colleague",
+    "モンスターＡ": "Monster A",
+    "モンスターＢ": "Monster B",
+    "市民": "Citizen",
+    "踊り子": "Dancer"
+  },
+  "addressing": {
+    "ヤチヨ→司令官": "Chỉ Huy (respectful, 司令官さま→Chỉ Huy)",
+    "ユーザー→ヤチヨ": "em/Yachiyo (俺→anh, お前→em)",
+    "ユーザー self": "anh (俺→anh)",
+    "ヤチヨ self": "em (私→em, to Commander)",
+    "市民→ヤチヨ": "cháu (casual)",
+    "踊り子→ヤチヨ": "cháu (casual)"
+  },
+  "record_counts": {
+    "title": 1,
+    "message": 101,
+    "messageTextCenter": 1,
+    "messageTextUnder": 0,
+    "total": 103
+  },
+  "structural": {
+    "input_lines": 2041,
+    "output_lines": 2041,
+    "has_bom": true,
+    "has_crlf": true,
+    "delimiter": "ASCII comma (,)",
+    "vi_text_comma": "U+201A (‚) for Vietnamese text"
+  },
+  "notes": [
+    "Title translated from JP (still JP in EN asset): 龍神さまのご加護です！→ Đó Là Phước Lành Của Long Thần!",
+    "All 101 message records translated from JP primary (ja.json) with EN alignment",
+    "1 messageTextCenter card translated: <size=48>—A few days later</size> → <size=48>——Một Vài Ngày Sau</size>",
+    "Internal <br> counts preserved against EN asset authority",
+    "Speaker name labels (field 1) preserved byte-identical (JP: ヤチヨ, アリシア, モンスターＡ, 市民, 踊り子)",
+    "Dragon God terminology: 龍神さま → Long Thần",
+    "Hourai name kept: ホウライ → Hourai",
+    "Technology terms: 大穴 → Đại Huyệt, 前線基地 → Căn Cứ Tiền Tuyến",
+    "Sound effects localized: CRACK!/crack! → *Rẹt!*, Gyahaha/Gyaaaa/Grahhh kept as-is (monster SFX)",
+    "Characters confirmed 18+ per project rules; adult-adjacent banter translated naturally (seq 79: bed warming)",
+    "User placeholder: <user> and %user% preserved as-is in translated text"
+  ],
+  "independent_verify": {
+    "scene": "hmn_10440100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 101,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 103,
+    "translated_records": 103,
+    "changed_lines": 103,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2041,
+      "vi": 2041,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "30473d803bcb0a36eff79dd9f88f8ef45feab7ae9b751bd8d1e69de55e811dc3",
+    "output_sha256": "f2612da67d736916d0c73083ebffe711eb7c6e0844521fe795fa2dfaafe742b3"
+  },
+  "status": "PASS",
+  "qa_status": "PASS",
+  "kept_text_lines": [],
+  "translated_records": 103,
+  "changed_lines": 103
+}

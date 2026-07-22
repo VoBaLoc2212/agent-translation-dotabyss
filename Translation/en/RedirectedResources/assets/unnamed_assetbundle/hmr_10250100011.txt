@@ -1,0 +1,158 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg11000b,off
+
+charaload,chara_1,102501000G,ウェンディ
+
+charaface,chara_1,FaceSad
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,I Might Be Broken
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+window,on,0.15
+message,,Wendy entered the room looking grave，saying she had something to<br>discuss. The fact she came this late meant it was serious.<br> 
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharareaction,chara_1,Nod,0.5,STOP,0.3
+
+asyncseplay,setag1_1,se4800015,0.3,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP,0.3
+message,ウェンディ,Commander... perhaps... I may have broken down.<br> ,,vc_10250100011_001_01
+
+message,,What did she mean? I asked her to explain in detail.<br> 
+
+asyncseplay,setag1_2,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ウェンディ,Something's wrong with my body... It's like I'm experiencing thermal<br>runaway—I'm burning up constantly...<br> ,,vc_10250100011_002_01
+
+charaface,chara_1,FaceAnger
+
+asyncseplay,setag1_3,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,5
+message,ウェンディ,This is a sign that I'll break down soon... or perhaps I've already<br>started to malfunction.<br> ,,vc_10250100011_003_01
+
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,3.5
+asynccharaface,chara_1,FaceNormal,STOP,3.5
+
+asynccharaface,chara_1,EyeOpen,STOP,5
+asynccharaface,chara_1,FaceNormal,STOP,5
+
+asynccharaface,chara_1,EyeOpen,STOP,8
+asynccharaface,chara_1,FaceNormal,STOP,8
+message,ウェンディ,At this rate，I won't be able to stay by your side，Commander. But I<br>still want to help you.<br> ,,vc_10250100011_004_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1.3,0,LinearTarget
+
+blur,on,BACK,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+asynccharareaction,chara_1,Nod,1,CONT
+
+asynccharaface,chara_1,FaceShy,CONT,3.5
+window,on,0.15
+message,ウェンディ,So... please，use me as a fixture in the brothel.<br> ,,vc_10250100011_005_01
+
+asyncskipwait
+
+message,,What was she talking about? I immediately rejected her proposal，<br>saying there was no way I could do such a thing.<br> 
+
+message,,First of all，I didn't even know if she was really broken. Even if she<br>was on the verge of breaking，I told her there had to be a solution.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag1_4,se4800005,2.5,1,CONT
+
+asynccharaemo,chara_1,Flash,STOP,2.5
+
+asynccharaface,chara_1,FaceSurprise,STOP,2.5
+
+asynccharaface,chara_1,FaceFun,STOP,9
+
+message,ウェンディ,A solution... Actually，my father once told me to try a certain method<br>if I ever found myself in this situation.<br> ,,vc_10250100011_006_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_5,se4800012,4,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP,4
+asynccharaemo,chara_1,Shy,STOP,4
+
+asynccharaface,chara_1,FaceShy,STOP,4
+message,ウェンディ,Could I try that method? If possible，I would like your cooperation as<br>well，Commander...<br> ,,vc_10250100011_007_01
+
+message,,I said I'd be happy to help if I could，and suggested we try it right<br>away.<br> 
+
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+
+bg,abg18200a
+
+camerazoom,1,0,LinearTarget
+
+blur,off,BACK,0
+
+charahide,chara_1,0.1
+
+wait,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,,...Was this method really okay? Feeling anxious，I asked Wendy to<br>confirm just in case.<br> 
+
+message,ウェンディ,...Yes. If my memory serves，this method is definitely correct.<br> ,,vc_10250100011_008_01
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+

@@ -1,0 +1,104 @@
+{
+  "scene": "hmn_10460100002",
+  "qa_timestamp": "2026-07-21",
+  "structural_qa": {
+    "line_count": {
+      "en": 1349,
+      "vi": 1349,
+      "match": true
+    },
+    "record_count": {
+      "en": 71,
+      "vi": 71,
+      "match": true
+    },
+    "title": {
+      "en": 1,
+      "vi": 1,
+      "match": true
+    },
+    "message": {
+      "en": 70,
+      "vi": 70,
+      "match": true
+    },
+    "messageTextUnder": {
+      "en": 0,
+      "vi": 0,
+      "match": true
+    },
+    "messageTextCenter": {
+      "en": 0,
+      "vi": 0,
+      "match": true
+    },
+    "bom": {
+      "en": true,
+      "vi": true,
+      "match": true
+    },
+    "crlf": {
+      "en": true,
+      "vi": true,
+      "match": true
+    },
+    "ascii_comma_in_text": {
+      "vi": 0,
+      "status": "clean"
+    }
+  },
+  "br_count_qa": {
+    "status": "PASS",
+    "details": "All 71 records have matching <br> count between EN and VI"
+  },
+  "field_qa": {
+    "field_1_speaker_labels_preserved": true,
+    "trailing_technical_fields_preserved": true,
+    "notes": "All speaker labels (エルミア, 盗賊A, <user>) kept byte-identical"
+  },
+  "translation_qa": {
+    "commander_translated": "Chỉ Huy",
+    "user_tag_handled": "<user> lines use Chỉ Huy in VI (3 occurrences: seq37 Elmia line, seq47 narration, and implicit in seq seq 1/3/7/12/16/18/19/22/24/25/32/34/38/39/40/42/51/52/56/57/59/60/62/66/68)",
+    "addressing_consistency": "Elmia: tôi ↔ Chỉ Huy: anh/cô; Thief: tao/mày ↔ Elmia/Chỉ Huy: mày/bọn mày",
+    "adult_content": "none (standard action/adventure scene)",
+    "character_voices": {
+      "エルミア": "Self-confident elf archer, uses standard tôi. Touchy about body image complaints. Uses Chỉ Huy when addressing Commander directly.",
+      "盗賊A": "Rough, mocking tone. Calls Elmia 'nhóc' (kid). Uses mày/tao with Elmia.",
+      "<user> (Commander)": "Strategic, encouraging. Uses tôi/cô with Elmia."
+    }
+  },
+  "unsure_points": [],
+  "notes": [
+    "EN asset uses fullwidth ，(U+FF0C) inside text fields — VI follows same convention",
+    "Title: エルミアの弓と聖剣奪還作戦 → Chiến Dịch Thu Hồi Cung Và Thánh Kiếm Của Elmia (Vietnamese Title Case)",
+    "EN 'boss' (seq37) rendered as 'Chỉ Huy' — JP source has <user>",
+    "EN 'Elmia and the Commander' (seq47 narration) follows JP エルミア達 — rendered as 'Elmia và Chỉ Huy'"
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 70,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 71,
+  "translated_records": 71,
+  "changed_lines": 71,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1349,
+    "vi": 1349,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "005a71ff41dd0f149c52e7c81668b30182eae111829493633cd595f17c243b7d",
+  "output_sha256": "d0eca25df6b4bb33a3cf3d3eaba99a1c9636e6156274a57aebabbc70d3ec5a9d",
+  "qa_status": "PASS"
+}

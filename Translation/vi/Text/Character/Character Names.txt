@@ -1,0 +1,160 @@
+Name
+マニョリア=Magnolia
+ベリサ=Verisa
+ハツネ=Hatsune
+マーガレット=Margaret
+ヒナギ=Hinagi
+エティア=Etia
+マリナ=Marina
+ヘイリー=Hailey
+イオラ=Iola
+ソフィア=Sophia
+ホノカ=Honoka
+ノエミ=Noemi
+シャオレイ=Xiaolei
+シャノン=Shanon
+ベティ=Betty
+クロエ=Chloe
+ニナ=Nina
+フィルム=Film
+メリッサ=Melissa
+エミリー=Emily
+ミルティーユ=Myrtille
+ラモーナ=Ramona
+ウィステリア=Wisteria
+ウェンディ=Wendy
+エレクトラ=Electra
+リタ=Rita
+メレム=Merem
+ヴィーラ=Villa
+カーラ=Carla
+クルル=Kururu
+ジェンマ=Gemma
+ライム=Lime
+ローザ=Rosa
+シルヴィア=Sylvia
+フェイリン=Fei Lin
+アヤメ=Ayame
+スティーラ=Stella
+エルミア=Hermia
+ルカ=Ruka
+エメルダ=Emelda
+ダリア=Daria
+ヒマリ=Himari
+シェリル=Cheryl
+フレイヤ=Freya
+テルー=Teru
+セレスト=Celeste
+ヤチヨ=Yachiyo
+ディアーナ=Diana
+ルシータ=Lucita
+クレハ=Kureha
+シラエス=Shiraes
+グラディア=Gladia
+エアリエル=Aeriel
+ヘンリエッタ=Henrietta
+レヴィエーヌ=Levienne
+フレデリカ=Frederica
+ヒュメナ=Humena
+ラヴェリア=Laveria
+ピコ=Pico
+
+NPC
+ルディア=Ludia
+アリシア=Alicia
+オレンジ髪の少女=Cô Gái Tóc Cam
+r:"^客([\S\s]+)$"=r:"^Khách([\S\s]+)$"
+r:"^兵士([\S\s]+)$"=r:"^Lính([\S\s]+)$"
+キッチンスタッフ=Nhân Viên Bếp
+女店長=Bà Chủ Tiệm
+作業員=Công Nhân
+r:"^客([\S\s]+)$"=Khách $1
+r:"^兵士([\S\s]+)$"=Lính $1
+r:"^傭兵([\S\s]+)$"=Lính đánh thuê $1
+キッチンスタッフ=Nhân viên nhà bếp
+女店長=Nữ quản lý
+作業員=Công nhân
+
+コトノ=Kotono
+
+ノワール=Noir
+
+アイシャ=Aisha
+
+リエラ=Riela
+
+アーデルハイト=Adelheid
+
+客の男=Nam khách hàng
+
+r:"^客(A|B|C|Ａ|Ｂ|Ｃ)$"=Khách $1
+
+兵士=Binh sĩ
+
+r:"^兵士(A|B|C|Ａ|Ｂ|Ｃ)$"=Binh sĩ $1
+
+r:"^傭兵(A|B|C|Ａ|Ｂ|Ｃ)$"=Lính đánh thuê $1
+
+r:"^街の人(A|B|C|Ａ|Ｂ|Ｃ)$"=Người dân $1
+
+踊り子=Vũ công
+
+r:"^踊り子(A|B|C|Ａ|Ｂ|Ｃ)$"=Vũ công $1
+
+観客たち=Khán giả
+
+r:"^観客(A|B|C|Ａ|Ｂ|Ｃ)$"=Khán giả $1
+
+娼館客=Khách lầu xanh
+
+r:"^娼館客(A|B|C|Ａ|Ｂ|Ｃ)$"=Khách lầu xanh $1
+
+狼=Sói
+
+ホウライの青年=Thanh niên Hourai
+
+騎士風の女性=Nữ nhân như hiệp sĩ
+
+フードの女性=Người phụ nữ đội mũ trùm
+
+不気味なうめき声=Tiếng rên rỉ rợn người
+
+慌てた兵士=Binh sĩ hoảng hốt
+
+商人風の男=Người đàn ông dáng thương nhân
+
+市民=Cư dân
+
+酒場の客たち=Khách quán rượu
+
+モンスター=Quái vật
+
+鬼族=Quỷ tộc
+
+鬼族たち=Quỷ tộc
+
+r:"^鬼族(A|B|C|Ａ|Ｂ|Ｃ)$"=Quỷ tộc $1
+
+子供=Trẻ em
+
+一同=Mọi người
+
+r:"^村人(A|B|C|Ａ|Ｂ|Ｃ)$"=Dân làng $1
+
+村人たち=Dân làng
+
+鬼族の門番=Môn vệ Quỷ tộc
+
+ブローチ=Trâm cài
+
+採掘場の兵士=Binh sĩ khu mỏ
+
+捜索隊の兵士=Binh sĩ đội tìm kiếm
+
+捜索隊一同=Toàn đội tìm kiếm
+
+魔術師=Pháp sư
+
+マックン=Mac-kun
+
+盗賊団のお頭=Đầu lĩnh băng cướp

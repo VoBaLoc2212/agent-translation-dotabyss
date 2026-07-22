@@ -1,0 +1,63 @@
+{
+  "scene": "hmn_10340100001",
+  "source_language": "ja",
+  "target_language": "vi",
+  "asset_case": "EN-asset-is-English; title field still JP",
+  "record_counts": {
+    "title": 1,
+    "message": 73,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 74
+  },
+  "addressing_matrix": {
+    "Commander": "Chỉ Huy (and first-person 'ta' in inner monologue / 'anh' to Carla)",
+    "Carla (カーラ)": "em/anh to Commander; self-name kept as Carla in dialogue"
+  },
+  "terminology": {
+    "エルドラーナ共和国警備隊": "Đội Cảnh Vệ Cộng Hòa Eldorana",
+    "前線基地": "Căn Cứ Tiền Tuyến",
+    "水着": "đồ bơi",
+    "盾": "khiên",
+    "制服": "đồng phục",
+    "セクハラ/sexual harassment": "quấy rối tình dục"
+  },
+  "notes": [
+    "Title translated JP->VI Title Case: これは制服ですっ！ -> Đây Là Đồng Phục Đấy!",
+    "All message text fields were English in the EN asset; translated EN->VI.",
+    "ja.json is an identity map; JP source recovered from ja.json key order, EN text from en.json/asset.",
+    "Trailing '<br> ' suffix mirrored per record; fullwidth comma converted to U+201A (‚).",
+    "H18 content (sexual-harassment banter) translated directly per confirmed 18+ project rule.",
+    "Speaker labels (カーラ, <user>) kept byte-identical per field-1 rule."
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10340100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 73,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 74,
+    "translated_records": 74,
+    "changed_lines": 74,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 708,
+      "vi": 708,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "83704cfada00ba56451854209de522d5c922a42fa7f34e0f0f386d579fde5ed9",
+    "output_sha256": "2da9acd42aefbbf5ef54d0ae01b359c9cc04f028820af049ea05466a2d896497"
+  }
+}

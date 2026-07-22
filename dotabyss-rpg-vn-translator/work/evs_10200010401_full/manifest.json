@@ -1,0 +1,1508 @@
+{
+  "scene": "evs_10200010401",
+  "created_at_utc": "2026-07-19T08:41:59.809296+00:00",
+  "paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010401\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010401\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010401.txt",
+    "vi_output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010401.txt"
+  },
+  "records": [
+    {
+      "seq": 1,
+      "asset_line": 32,
+      "speaker": "",
+      "field_count": 2,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "タイトルを設定してください",
+      "en_novel": "Title",
+      "en_asset": "Title",
+      "vi": "Hãy Đặt Tiêu Đề",
+      "tags": [],
+      "placeholders": []
+    },
+    {
+      "seq": 2,
+      "asset_line": 40,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "あのまま訓練所に居座ってると迷惑だから、<br>出てきたはいいものの……",
+      "en_novel": "Sticking around the training grounds would've been a nuisance,<br>so we left, but...<br> ",
+      "en_asset": "Sticking around the training grounds would've been a nuisance，<br>so we left，but...<br> ",
+      "vi": "Cứ ở lì trong khu huấn luyện thì sẽ làm phiền người ta nên<br>bọn anh ra ngoài rồi…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 3,
+      "asset_line": 75,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "うぅぅ～……これ、どうしたらいいのでしょう……にゃん♡",
+      "en_novel": "Uuu~... what am I supposed to do about this... nya♡<br> ",
+      "en_asset": "Uuu~... what am I supposed to do about this... nya♡<br> ",
+      "vi": "Ưưư~… chuyện này phải làm sao đây… nya♡<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 4,
+      "asset_line": 118,
+      "speaker": "少女",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "おかーさん！　『にゃん！』だって～！<br>猫さん好きなのかな～？",
+      "en_novel": "Mommy! She said 'nya'~!<br>Does she like kitties~?<br> ",
+      "en_asset": "Mommy! She said 'nya'~!<br>Does she like kitties~?<br> ",
+      "vi": "Mẹ ơi! Chị ấy nói “nya” kìa~!<br>Chị ấy thích mèo sao ạ~?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 5,
+      "asset_line": 129,
+      "speaker": "母親",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "しっ、見ちゃいけません。<br>そういう年頃なのっ。",
+      "en_novel": "Shh, don't stare.<br>She's at that age.<br> ",
+      "en_asset": "Shh，don't stare.<br>She's at that age.<br> ",
+      "vi": "Suỵt‚ đừng nhìn.<br>Con bé đang ở cái tuổi đó đấy.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 6,
+      "asset_line": 192,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "あぁっ、また可哀想なオートマタを見るような目をされたにゃん！<br>穴があったら入りたいにゃん！　もういやですにゃ～～ん！",
+      "en_novel": "Ahh, they looked at me with pity again, nya!<br>I want to crawl into a hole, nya! I can't take this anymore, nya~~n!<br> ",
+      "en_asset": "Ahh，they looked at me with pity again，nya!<br>I want to crawl into a hole，nya! I can't take this anymore，nya~~n!<br> ",
+      "vi": "A á‚ mình lại bị nhìn bằng ánh mắt thương hại như nhìn automata tội nghiệp nữa rồi nya!<br>Ước gì có cái hố để chui xuống nya! Mình chịu hết nổi rồi nya~~n!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 7,
+      "asset_line": 249,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "可哀想なオートマタってなんなのぉ？<br>まあ、ちょっと胸の痛い光景だったけどぉ～。",
+      "en_novel": "What's a 'pitiful automaton' supposed to mean?<br>Well, it was a bit painful to watch though~.<br> ",
+      "en_asset": "What's a 'pitiful automaton' supposed to mean?<br>Well，it was a bit painful to watch though~.<br> ",
+      "vi": "Automata tội nghiệp là sao vậy trời?<br>Ừ thì cảnh đó nhìn cũng hơi nhói lòng thật đó~.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 8,
+      "asset_line": 258,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "アーデルハイトさんの見立てでは、このにゃんにゃん症は<br>時間が経てばそのうち治るということでしたが……",
+      "en_novel": "According to Adelheid-san, this nya-nya syndrome<br>should resolve on its own with time, but...<br> ",
+      "en_asset": "According to Adelheid-san，this nya-nya syndrome<br>should resolve on its own with time，but...<br> ",
+      "vi": "Theo chẩn đoán của Adelheid-san thì chứng nya-nya này<br>để thêm một thời gian sẽ tự khỏi nhưng…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 9,
+      "asset_line": 311,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そのうちって、いつですかにゃん！？　恥ずかしいにゃんっ！<br>なんとかしたいにゃぁ～～ん！",
+      "en_novel": "When is 'on its own', nya!? This is embarrassing, nya!<br>I want to fix this, nya~~n!<br> ",
+      "en_asset": "When is 'on its own'，nya!? This is embarrassing，nya!<br>I want to fix this，nya~~n!<br> ",
+      "vi": "Một thời gian là bao giờ vậy nya!? Xấu hổ chết đi được nya!<br>Em muốn làm gì đó để chữa ngay nya~~n!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 10,
+      "asset_line": 378,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "わたしは、かわいくていいと思いますけど……。<br>ウェンディさんが嫌がっている以上、放置はできませんね……よし。",
+      "en_novel": "I think it's cute and all, but...<br>If Wendy-san doesn't like it, we can't just leave it be... Okay.<br> ",
+      "en_asset": "I think it's cute and all，but...<br>If Wendy-san doesn't like it，we can't just leave it be... Okay.<br> ",
+      "vi": "Em thì thấy dễ thương cũng tốt mà…<br>Nhưng Wendy-san đã không thích thì không thể bỏ mặc được… được rồi.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 11,
+      "asset_line": 433,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "――ウェンディさん、元気を出してほしいにゃんっ。",
+      "en_novel": "——Wendy-san, I want you to cheer up, nya!<br> ",
+      "en_asset": "——Wendy-san，I want you to cheer up，nya!<br> ",
+      "vi": "――Wendy-san‚ hãy phấn chấn lên nya!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 12,
+      "asset_line": 476,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "へ……？　ヴィーラさん……？",
+      "en_novel": "Huh...? Viera-san...?<br> ",
+      "en_asset": "Huh...? Viera-san...?<br> ",
+      "vi": "Hể…? Viera-san…?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 13,
+      "asset_line": 519,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "これこそ、ヒマリさんから聞いた日本の伝統的な風習――<br>その名も『赤信号、みんなで渡れば怖くない』ルールです。",
+      "en_novel": "This is a traditional Japanese custom I heard about from<br>Himari-san—— the 'red light, not scary if everyone crosses together' rule.<br> ",
+      "en_asset": "This is a traditional Japanese custom I heard about from<br>Himari-san—— the 'red light，not scary if everyone crosses together' rule.<br> ",
+      "vi": "Đây chính là phong tục truyền thống Nhật Bản mà em nghe từ<br>Himari-san―― luật “đèn đỏ mà cả đám cùng băng qua thì chẳng còn đáng sợ”.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 14,
+      "asset_line": 588,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そう、みんなでネコ語を喋れば、ウェンディさんも恥ずかしくないんです。<br>というわけで……さあ、お姉ちゃんも一緒に。",
+      "en_novel": "That's right——if we all speak cat, Wendy-san won't be embarrassed.<br>So with that in mind... come on, Onee-chan, join in.<br> ",
+      "en_asset": "That's right——if we all speak cat，Wendy-san won't be embarrassed.<br>So with that in mind... come on，Onee-chan，join in.<br> ",
+      "vi": "Đúng vậy――nếu mọi người cùng nói tiếng mèo thì Wendy-san sẽ không thấy xấu hổ nữa.<br>Vậy nên… nào‚ chị cũng nói cùng đi.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 15,
+      "asset_line": 643,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "はぁ～っ？　なんであたしがぁ！？",
+      "en_novel": "Huhh~? Why do I have to!?<br> ",
+      "en_asset": "Huhh~? Why do I have to!?<br> ",
+      "vi": "Hảả~? Sao lại là chị chứ!?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 16,
+      "asset_line": 712,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "お姉ちゃんのネコ語、絶対すっごくかわいいし……じゃなくって。<br>ウェンディさんのために、お願いっ。",
+      "en_novel": "Onee-chan speaking cat would be super cute... I mean, that's not the<br>point. Please, do it for Wendy-san.<br> ",
+      "en_asset": "Onee-chan speaking cat would be super cute... I mean，that's not the<br>point. Please，do it for Wendy-san.<br> ",
+      "vi": "Tiếng mèo của chị chắc chắn sẽ siêu dễ thương… à không phải.<br>Vì Wendy-san mà‚ em xin chị đó.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 17,
+      "asset_line": 723,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ヴィーラが聞きたいだけでしょ～！",
+      "en_novel": "You just want to hear it for yourself~!<br> ",
+      "en_asset": "You just want to hear it for yourself~!<br> ",
+      "vi": "Viera chỉ muốn tự mình nghe thôi chứ gì~!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 18,
+      "asset_line": 725,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "……仕方ない。俺がなんとかしてやろう。",
+      "en_novel": "...Fine. I'll figure something out.<br> ",
+      "en_asset": "...Fine. I'll figure something out.<br> ",
+      "vi": "…Hết cách rồi. Để anh nghĩ cách vậy.<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 19,
+      "asset_line": 734,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "司令官……？　何か、いい考えがあるにゃ……？",
+      "en_novel": "Commander...? Do you have a good idea, nya...?<br> ",
+      "en_asset": "Commander...? Do you have a good idea，nya...?<br> ",
+      "vi": "Chỉ Huy…? Anh có ý hay gì sao nya…?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 20,
+      "asset_line": 745,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "もしかして、司令官さまも一緒にネコ語を？<br>それはそれで――いいですね。アリだと思います。",
+      "en_novel": "Could it be... Commander-sama is going to speak cat too?<br>That would be——nice, actually. I think that works.<br> ",
+      "en_asset": "Could it be... Commander-sama is going to speak cat too?<br>That would be——nice，actually. I think that works.<br> ",
+      "vi": "Chẳng lẽ Chỉ Huy-sama cũng sẽ nói tiếng mèo cùng sao?<br>Nếu vậy thì――hay đấy. Em thấy cũng được.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 21,
+      "asset_line": 747,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "やらないし、よくないし、アリでもない！<br>ウェンディやヴィーラと違って、俺が言ったら何かしらの法に触れる！",
+      "en_novel": "I'm not doing it, it's not nice, and it doesn't work! Unlike Wendy and<br>Viera, if I said it there'd be some kind of law broken!<br> ",
+      "en_asset": "I'm not doing it，it's not nice，and it doesn't work! Unlike Wendy and<br>Viera，if I said it there'd be some kind of law broken!<br> ",
+      "vi": "Anh không làm‚ không hay‚ cũng chẳng được gì hết!<br>Khác với Wendy và Viera‚ anh mà nói vậy là đụng tới luật nào đó ngay!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 22,
+      "asset_line": 749,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "いいか、俺が思うにだな。<br>今の状態をやり過ごすなら――あそこが１番のはずだ。",
+      "en_novel": "Listen, the way I see it,<br>if we want to ride this out——that place is our best bet.<br> ",
+      "en_asset": "Listen，the way I see it，<br>if we want to ride this out——that place is our best bet.<br> ",
+      "vi": "Nghe này‚ theo anh nghĩ thì.<br>Nếu muốn vượt qua tình trạng hiện tại――chỗ đó hẳn là lựa chọn tốt nhất.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 23,
+      "asset_line": 812,
+      "speaker": "",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "――兵士たちの武具の作製やメンテナンスを請け負う工房。<br>常に金属を打つ音に包まれているこの場所に、普段以上の喧騒が響いていた。",
+      "en_novel": "——The workshop where soldiers' gear is crafted and maintained.<br>Always filled with hammering, the place was even noisier than usual today.<br> ",
+      "en_asset": "——The workshop where soldiers' gear is crafted and maintained.<br>Always filled with hammering，the place was even noisier than usual today.<br> ",
+      "vi": "――Xưởng đảm nhận chế tạo và bảo trì vũ khí phòng cụ cho binh lính.<br>Nơi vốn luôn vang tiếng kim loại va đập hôm nay còn ồn ào hơn thường lệ.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 24,
+      "asset_line": 848,
+      "speaker": "ホノカ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "武器を作る時は、そりゃ～～！　からのゴンゴンカーン！<br>で、ゴゴォ～～～って、熱い火にくべてまたドドーン！　だぞ！",
+      "en_novel": "When you make a weapon, you go hyaaa~~! Then GONK GONK CLANG!<br>And then GWOOO~~~ you shove it in the hot fire and then KABOOM! Got it!?<br> ",
+      "en_asset": "When you make a weapon，you go hyaaa~~! Then GONK GONK CLANG!<br>And then GWOOO~~~ you shove it in the hot fire and then KABOOM! Got it!?<br> ",
+      "vi": "Khi rèn vũ khí thì phải hây daaa~~! Rồi GONG GONG KENG!<br>Sau đó GÙÙÙ~~~ bỏ vào lửa nóng rồi lại ĐÙNG ĐÙNG! Hiểu chưa!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 25,
+      "asset_line": 907,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そんな教え方じゃ、わかんないってぇ～～！",
+      "en_novel": "Nobody can learn from instructions like that~~!<br> ",
+      "en_asset": "Nobody can learn from instructions like that~~!<br> ",
+      "vi": "Dạy kiểu đó thì ai mà hiểu được chứ~~!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 26,
+      "asset_line": 916,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ううぅ……暑いぃ……。<br>お姉ちゃん、わたし、溶けちゃうかもぉ……",
+      "en_novel": "Uuu... it's so hot...<br>Onee-chan, I think I might melt...<br> ",
+      "en_asset": "Uuu... it's so hot...<br>Onee-chan，I think I might melt...<br> ",
+      "vi": "Ưưư… nóng quá…<br>Chị ơi‚ em có khi tan chảy mất thôi…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 27,
+      "asset_line": 927,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "諦めちゃだめよ、ヴィーラ！　ここが勝負の分岐点なんだからぁ！<br>ほら、ウェンディも頑張ってるでしょ～！",
+      "en_novel": "Don't give up, Viera! This is the turning point!<br>Look, Wendy's doing her best too~!<br> ",
+      "en_asset": "Don't give up，Viera! This is the turning point!<br>Look，Wendy's doing her best too~!<br> ",
+      "vi": "Không được bỏ cuộc đâu Viera! Đây là bước ngoặt quyết định đó!<br>Nhìn đi‚ Wendy cũng đang cố hết sức mà~!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 28,
+      "asset_line": 978,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "気合いをこめて～～……打つにゃ！<br>にゃん！　にゃん！　にゃ～～～ん！",
+      "en_novel": "Put your heart into it~~... and strike, nya!<br>Nya! Nya! Nya~~~n!<br> ",
+      "en_asset": "Put your heart into it~~... and strike，nya!<br>Nya! Nya! Nya~~~n!<br> ",
+      "vi": "Dồn hết tinh thần vào~~… rồi đập nya!<br>Nyan! Nyan! Nya~~~n!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 29,
+      "asset_line": 1037,
+      "speaker": "ホノカ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "おおっ！　おまえ、いいかんじだな！<br>ちょっとやけくそっぽいけど、きあいばっちり、花丸だぞ！",
+      "en_novel": "Ooh! You've got the knack!<br>It's a bit desperate-looking, but the spirit is spot on! Gold star!<br> ",
+      "en_asset": "Ooh! You've got the knack!<br>It's a bit desperate-looking，but the spirit is spot on! Gold star!<br> ",
+      "vi": "Ồồ! Cô làm được đấy!<br>Nhìn hơi liều mạng một chút nhưng khí thế thì khỏi chê. Cho hoa điểm mười luôn!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 30,
+      "asset_line": 1048,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そ、そうですかにゃ？　えへへ～♪",
+      "en_novel": "R-really, nya? Ehehe~♪<br> ",
+      "en_asset": "R-really，nya? Ehehe~♪<br> ",
+      "vi": "Th-thật vậy sao nya? Ehehe~♪<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 31,
+      "asset_line": 1099,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "……鍛冶場は金属音がうるさいから、ネコ語を気にしなくていい、って……。<br>理屈は分かるけどぉ……だったら他のことでもよくな～い……？",
+      "en_novel": "...The forge is so loud that nobody will notice the cat talk...<br>I get the logic, but... couldn't we have done something else~...?<br> ",
+      "en_asset": "...The forge is so loud that nobody will notice the cat talk...<br>I get the logic，but... couldn't we have done something else~...?<br> ",
+      "vi": "…Vì lò rèn ồn tiếng kim loại nên khỏi để ý tiếng mèo…<br>Lý thì chị hiểu đó… nhưng nếu vậy làm chuyện khác cũng được mà nhỉ~…?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 32,
+      "asset_line": 1101,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "どうした、ベリサ。手が止まってるぞ？",
+      "en_novel": "What's wrong, Verisa? Your hands stopped.<br> ",
+      "en_asset": "What's wrong，Verisa? Your hands stopped.<br> ",
+      "vi": "Sao thế Verisa. Tay em dừng rồi kìa?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 33,
+      "asset_line": 1112,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "おにーさんはなんで高みの見物なのよ～！<br>一緒にやってよぉ！",
+      "en_novel": "Why are you just watching from the sidelines, Onii-san~!<br>Get in here and work too!<br> ",
+      "en_asset": "Why are you just watching from the sidelines，Onii-san~!<br>Get in here and work too!<br> ",
+      "vi": "Sao anh lại đứng ngoài xem như vậy chứ~!<br>Vào làm cùng đi mà!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 34,
+      "asset_line": 1114,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "俺は監督役だからな。それより折角、鍛冶を体験させてもらってるんだ。<br>ウェンディを見習って、もっと本気でやれ。",
+      "en_novel": "I'm the supervisor. Besides, you're getting to experience smithing<br>firsthand. Follow Wendy's example and put some real effort in.<br> ",
+      "en_asset": "I'm the supervisor. Besides，you're getting to experience smithing<br>firsthand. Follow Wendy's example and put some real effort in.<br> ",
+      "vi": "Anh là người giám sát mà. Với lại hiếm khi được trải nghiệm rèn đồ thế này.<br>Học theo Wendy rồi nghiêm túc hơn đi.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 35,
+      "asset_line": 1123,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ああもぉ～～！　ウェンディのためだもの、わかったわよ～！",
+      "en_novel": "Ugh, fine~~! It's for Wendy's sake, so I get it~!<br> ",
+      "en_asset": "Ugh，fine~~! It's for Wendy's sake，so I get it~!<br> ",
+      "vi": "Aaa thật là~~! Vì Wendy nên chị hiểu rồi~!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 36,
+      "asset_line": 1180,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "うん、わたしももっと強く叩いて、大きな音を鳴らさなきゃ。<br>ウェンディさんの声をかき消すぐらいに……！",
+      "en_novel": "Right, I need to hit harder and make even bigger sounds too.<br>Loud enough to drown out Wendy-san's voice...!<br> ",
+      "en_asset": "Right，I need to hit harder and make even bigger sounds too.<br>Loud enough to drown out Wendy-san's voice...!<br> ",
+      "vi": "Ừ‚ mình cũng phải đập mạnh hơn để tạo tiếng thật lớn.<br>Lớn đến mức át cả giọng Wendy-san…!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 37,
+      "asset_line": 1229,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "こんな灼熱の工房で、ふたりがこんなにがんばって……！<br>わたしも、もっともっと全力でいくのにゃっ！",
+      "en_novel": "Both of them working so hard in this scorching workshop...!<br>I've gotta go even harder, nya!<br> ",
+      "en_asset": "Both of them working so hard in this scorching workshop...!<br>I've gotta go even harder，nya!<br> ",
+      "vi": "Hai người cố gắng đến vậy trong xưởng nóng như thiêu thế này…!<br>Mình cũng phải dốc sức hơn nữa nya!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 38,
+      "asset_line": 1248,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "にゃっ！　にゃんっ！　にゃうぅ～～～……にゃぁ～～～ん！",
+      "en_novel": "Nya! Nyan! Nyauu~~~... nyaa~~~n!<br> ",
+      "en_asset": "Nya! Nyan! Nyauu~~~... nyaa~~~n!<br> ",
+      "vi": "Nya! Nyan! Nyauu~~~… nyaa~~~n!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 39,
+      "asset_line": 1299,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "（ウェンディ、あんなに必死に……！）",
+      "en_novel": "(Wendy, she's trying so hard...!)<br> ",
+      "en_asset": "(Wendy，she's trying so hard...!)<br> ",
+      "vi": "(Wendy đang liều mạng đến vậy…!)<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 40,
+      "asset_line": 1357,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "（自分のためじゃない。<br>わたしたちの頑張りが無駄にならないようにって、全力で……）",
+      "en_novel": "(It's not for herself.<br>She's giving everything she's got so our efforts won't be wasted...)<br> ",
+      "en_asset": "(It's not for herself.<br>She's giving everything she's got so our efforts won't be wasted...)<br> ",
+      "vi": "(Không phải vì bản thân cậu ấy.<br>Cậu ấy đang dốc hết sức để cố gắng của chúng ta không thành vô ích…)<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 41,
+      "asset_line": 1434,
+      "speaker": "ベリサ・ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "（あんないい子に、これ以上苦しい思いをさせちゃいけない！<br>何があっても、絶対に助ける……！　どんな症状でも、どーんと来い！）",
+      "en_novel": "(We can't let such a good girl suffer any more than this!<br>No matter what, we'll save her...! Whatever the symptom, bring it on!)<br> ",
+      "en_asset": "(We can't let such a good girl suffer any more than this!<br>No matter what，we'll save her...! Whatever the symptom，bring it on!)<br> ",
+      "vi": "(Không thể để một cô bé tốt như vậy chịu khổ thêm nữa!<br>Dù có chuyện gì cũng nhất định phải cứu cậu ấy…! Triệu chứng nào cũng cứ tới đây!)<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 42,
+      "asset_line": 1473,
+      "speaker": "",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "――酒場。大穴探索に挑む者たちの憩いの場。<br>その一室にある個室風呂にて……",
+      "en_novel": "——The tavern. A place of rest for those who brave the Abyss.<br>In a private bath within one of its rooms...<br> ",
+      "en_asset": "——The tavern. A place of rest for those who brave the Abyss.<br>In a private bath within one of its rooms...<br> ",
+      "vi": "――Quán rượu. Nơi nghỉ chân của những người thách thức Đại Hố.<br>Tại phòng tắm riêng trong một căn phòng ở đó…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 43,
+      "asset_line": 1511,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "冷気よ！　煮えたぎるお湯を冷ませ！<br>はぁぁぁぁ――！",
+      "en_novel": "Ice, heed my call! Cool this boiling water!<br>Haaaaaah——!<br> ",
+      "en_asset": "Ice，heed my call! Cool this boiling water!<br>Haaaaaah——!<br> ",
+      "vi": "Hỡi khí lạnh! Hãy làm nguội làn nước đang sôi sục này!<br>Haaaaa――!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 44,
+      "asset_line": 1547,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "おー、いい湯加減だ。いいぞ、ヴィーラ。<br>ウェンディの熱に負けずにがんばれ。",
+      "en_novel": "Ohh, the water's just right. Nice work, Viera.<br>Keep at it——don't let Wendy's heat win.<br> ",
+      "en_asset": "Ohh，the water's just right. Nice work，Viera.<br>Keep at it——don't let Wendy's heat win.<br> ",
+      "vi": "Ồ‚ nhiệt độ nước vừa đẹp đấy. Tốt lắm Viera.<br>Cố lên‚ đừng thua sức nóng của Wendy.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 45,
+      "asset_line": 1566,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "はいっ！",
+      "en_novel": "Yes, sir!<br> ",
+      "en_asset": "Yes，sir!<br> ",
+      "vi": "Vâng ạ!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 46,
+      "asset_line": 1611,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ふしゅぅぅぅぅ～～～……。<br>申しわけないです、ヴィーラさん……",
+      "en_novel": "Fshuuuuu~~~...<br>I'm so sorry, Viera-san...<br> ",
+      "en_asset": "Fshuuuuu~~~...<br>I'm so sorry，Viera-san...<br> ",
+      "vi": "Phù xìiiii~~~…<br>Em xin lỗi Viera-san…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 47,
+      "asset_line": 1671,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "今度の症状は発熱か～。ヴィーラが凍らせようとしてるのに<br>浴槽がお湯のままって……ウェンディってば、どんだけ熱いのよぉ～。",
+      "en_novel": "So the symptom this time is fever, huh~. Viera's trying to freeze it,<br>but the tub's still hot... how much heat are you putting out, Wendy~.<br> ",
+      "en_asset": "So the symptom this time is fever，huh~. Viera's trying to freeze it，<br>but the tub's still hot... how much heat are you putting out，Wendy~.<br> ",
+      "vi": "Triệu chứng lần này là sốt à~. Viera đang cố đóng băng nó<br>mà bồn vẫn là nước nóng… Wendy nóng tới mức nào vậy trời~.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 48,
+      "asset_line": 1682,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "……ていうかぁ～。<br>な～んでおにーさんまでウェンディと一緒に湯船に入ってるの～？",
+      "en_novel": "...Also~.<br>Why~ is Onii-san in the tub together with Wendy~?<br> ",
+      "en_asset": "...Also~.<br>Why~ is Onii-san in the tub together with Wendy~?<br> ",
+      "vi": "…Mà nói mới nhớ~.<br>Sao cả anh cũng vào bồn tắm chung với Wendy vậy~?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 49,
+      "asset_line": 1684,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "せっかく湯が沸いてるなら、ひとっ風呂浴びようと思ってな。<br>おかげでボイラー代が浮いたぜ。",
+      "en_novel": "Well, the water's already heated, so I figured I'd take a quick soak.<br>Saved us on the boiler costs, too.<br> ",
+      "en_asset": "Well，the water's already heated，so I figured I'd take a quick soak.<br>Saved us on the boiler costs，too.<br> ",
+      "vi": "Đằng nào nước cũng nóng sẵn nên anh nghĩ tranh thủ tắm một chút.<br>Nhờ vậy tiết kiệm được tiền lò hơi nữa.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 50,
+      "asset_line": 1695,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "こんなところで節約すんな～～。<br>司令官だっていうのに、財布の中身までざこざこなのぉ～？",
+      "en_novel": "Don't penny-pinch here of all places~~.<br>You're the Commander and even your wallet is helpless~?<br> ",
+      "en_asset": "Don't penny-pinch here of all places~~.<br>You're the Commander and even your wallet is helpless~?<br> ",
+      "vi": "Đừng có tiết kiệm ở chỗ này chứ~~.<br>Là Chỉ Huy mà ví tiền của anh cũng yếu xìu vậy sao~?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 51,
+      "asset_line": 1697,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "俺の財布は関係ないだろーが！<br>基地の予算を節約する有能司令官なんだよ！",
+      "en_novel": "My wallet has nothing to do with it!<br>I'm a capable commander who saves on the base's budget!<br> ",
+      "en_asset": "My wallet has nothing to do with it!<br>I'm a capable commander who saves on the base's budget!<br> ",
+      "vi": "Ví của anh thì liên quan gì chứ!<br>Anh là Chỉ Huy tài giỏi biết tiết kiệm ngân sách căn cứ đấy!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 52,
+      "asset_line": 1746,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "わ、わわわ……司令官がわたしと一緒のお風呂に……！<br>どうしよう……頭がもっとぽわぽわするぅ……！",
+      "en_novel": "W-wawawa... the Commander is in the same bath as me...!<br>What do I do... my head's getting even more fuzzy...!<br> ",
+      "en_asset": "W-wawawa... the Commander is in the same bath as me...!<br>What do I do... my head's getting even more fuzzy...!<br> ",
+      "vi": "W-wa wa wa… Chỉ Huy đang tắm chung với em…!<br>Phải làm sao đây… đầu em càng lâng lâng hơn rồi…!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 53,
+      "asset_line": 1791,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "……？　なんだか温度が高くなってる？<br>ずっと魔法を使い続けて、出力が落ちてるのかな……？",
+      "en_novel": "...? The temperature seems to be rising?<br>Maybe my output is dropping from using magic continuously...?<br> ",
+      "en_asset": "...? The temperature seems to be rising?<br>Maybe my output is dropping from using magic continuously...?<br> ",
+      "vi": "…? Hình như nhiệt độ đang tăng lên?<br>Có lẽ mình dùng phép liên tục nên công suất giảm rồi chăng…?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 54,
+      "asset_line": 1848,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ねえお姉ちゃん。わたしちょっとだけ疲れちゃったのかも。<br>もし良かったら、がんばれって励まして欲しいな～、なんて……",
+      "en_novel": "Hey, Onee-chan. I think I might be getting a little tired.<br>If you don't mind, could you cheer me on... maybe...?<br> ",
+      "en_asset": "Hey，Onee-chan. I think I might be getting a little tired.<br>If you don't mind，could you cheer me on... maybe...?<br> ",
+      "vi": "Này chị ơi. Có lẽ em hơi mệt một chút rồi.<br>Nếu được thì chị cổ vũ em cố lên được không… chẳng hạn vậy…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 55,
+      "asset_line": 1865,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "もー、仕方ないわね～～！<br>フレー、フレー、ヴィーラ！　がんばれ、がんばれ、ヴィーラ～～～！",
+      "en_novel": "Jeez, can't be helped~~!<br>Go go, Viera! You can do it, you can do it, Viera~~~!<br> ",
+      "en_asset": "Jeez，can't be helped~~!<br>Go go，Viera! You can do it，you can do it，Viera~~~!<br> ",
+      "vi": "Thật là‚ hết cách rồi~~!<br>Cố lên‚ cố lên Viera! Cố lên‚ cố lên Viera~~~!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 56,
+      "asset_line": 1916,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "わぁ……お姉ちゃんがわたしを応援してくれてる……！<br>もっと頑張らないと！　はぁぁぁぁぁぁ……！！",
+      "en_novel": "Wow... Onee-chan is cheering for me...!<br>I have to try even harder! Haaaaaaah...!!<br> ",
+      "en_asset": "Wow... Onee-chan is cheering for me...!<br>I have to try even harder! Haaaaaaah...!!<br> ",
+      "vi": "Wa… chị đang cổ vũ cho em…!<br>Em phải cố hơn nữa! Haaaaaaaa…!!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 57,
+      "asset_line": 1952,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ちょっ……やり過ぎ……！<br>凍る！　俺ごと凍る……っ！！！",
+      "en_novel": "W-wait... too much...!<br>It's freezing! I'm freezing along with it...!!!<br> ",
+      "en_asset": "W-wait... too much...!<br>It's freezing! I'm freezing along with it...!!!<br> ",
+      "vi": "Khoan… quá tay rồi…!<br>Đóng băng mất! Anh cũng bị đóng băng theo mất…!!!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 58,
+      "asset_line": 1974,
+      "speaker": "",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "兵士たちの食事を用意するためのキッチン。<br>そこでは、包丁を手にしたウェンディがすさまじい速度で食材を捌いていた。",
+      "en_novel": "The kitchen where meals are prepared for the soldiers. There, Wendy<br>stood with knife in hand, slicing through ingredients at terrifying speed.<br> ",
+      "en_asset": "The kitchen where meals are prepared for the soldiers. There，Wendy<br>stood with knife in hand，slicing through ingredients at terrifying speed.<br> ",
+      "vi": "Nhà bếp chuẩn bị bữa ăn cho binh lính.<br>Ở đó‚ Wendy cầm dao và xử lý nguyên liệu với tốc độ khủng khiếp.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 59,
+      "asset_line": 2015,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ううう、お腹が減ってお腹が減って……！<br>とても我慢できませんっ！　それそれそれ～～～！　",
+      "en_novel": "Uuuu, I'm so hungry, so incredibly hungry...!<br>I can't take it anymore! Here here here~~~!<br> ",
+      "en_asset": "Uuuu，I'm so hungry，so incredibly hungry...!<br>I can't take it anymore! Here here here~~~!<br> ",
+      "vi": "Ưưư‚ đói quá đói quá…!<br>Em không nhịn nổi nữa! Nào nào nào~~~! <br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 60,
+      "asset_line": 2060,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "これが空腹の症状……！　どんどん食材が切り分けられてます！<br>ああ、下味まで完璧にこなしてお姉ちゃんのところへ……！",
+      "en_novel": "So this is the hunger symptom...! Ingredients cut up one after<br>another! She's even seasoning them before sending them to Onee-chan...!<br> ",
+      "en_asset": "So this is the hunger symptom...! Ingredients cut up one after<br>another! She's even seasoning them before sending them to Onee-chan...!<br> ",
+      "vi": "Đây là triệu chứng đói bụng…! Nguyên liệu đang bị cắt ra liên tục!<br>Aa‚ cậu ấy còn ướp gia vị hoàn hảo rồi chuyển sang chỗ chị nữa…!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 61,
+      "asset_line": 2105,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "炎よ！　水に棲みしもの、野に息づくもの、大地に根づきしもの、<br>すべてを遍く、こんがりと焼き上げなさ～～い！",
+      "en_novel": "O flame! Creatures of the water, beasts of the field, roots of the<br>earth—— cook every last one of them to a golden crisp~~!<br> ",
+      "en_asset": "O flame! Creatures of the water，beasts of the field，roots of the<br>earth—— cook every last one of them to a golden crisp~~!<br> ",
+      "vi": "Hỡi lửa! Những loài sống dưới nước‚ những sinh vật thở nơi đồng nội‚ những gì cắm rễ trong đất‚<br>hãy nướng tất cả cho vàng thơm đi~~!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 62,
+      "asset_line": 2174,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "わぁ～～～！　とっても美味しそうですっ！",
+      "en_novel": "Waaah~~~! It all looks so delicious!<br> ",
+      "en_asset": "Waaah~~~! It all looks so delicious!<br> ",
+      "vi": "Waa~~~! Trông ngon quá đi mất!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 63,
+      "asset_line": 2231,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ふふん、そうでしょそうでしょ～♪　ベリサちゃんの魔法なら、<br>火加減もバッチリなんだから♪　さあ、遠慮せずに食べていいからね～♪",
+      "en_novel": "Hehe, I know right~♪ With Verisa-chan's magic, the heat control is<br>perfect♪ Now go ahead and eat as much as you want~♪<br> ",
+      "en_asset": "Hehe，I know right~♪ With Verisa-chan's magic， the heat control is<br>perfect♪ Now go ahead and eat as much as you want~♪<br> ",
+      "vi": "Hừ hừ‚ đúng chứ đúng chứ~♪ Phép thuật của Verisa-chan thì<br>canh lửa cũng chuẩn không cần chỉnh♪ Nào‚ cứ ăn thoải mái đi nhé~♪<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 64,
+      "asset_line": 2280,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "はいっ、いただきます！<br>モグモグ、ムグムグ、もきゅもきゅ――",
+      "en_novel": "Yes, thank you for the food!<br>Nom nom, munch munch, chomp chomp——<br> ",
+      "en_asset": "Yes，thank you for the food!<br>Nom nom，munch munch，chomp chomp——<br> ",
+      "vi": "Vâng‚ em xin phép ăn ạ!<br>Măm măm‚ nhồm nhoàm‚ chóp chép――<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 65,
+      "asset_line": 2310,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "食費が……っ！　今月分の食費がぁ～～～……！",
+      "en_novel": "The food budget...! This month's food budget~~~...!<br> ",
+      "en_asset": "The food budget...! This month's food budget~~~...!<br> ",
+      "vi": "Tiền ăn…! Tiền ăn của tháng này~~~…!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 66,
+      "asset_line": 2351,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "まだ足りません！　お腹がぐ～ぐ～鳴ってます～！<br>そーれそれそれ！　食材は全部カットカットカットです～！",
+      "en_novel": "Still not enough! My stomach is rumbling and rumbling~!<br>Here we go! Cut cut cut all the ingredients~!<br> ",
+      "en_asset": "Still not enough! My stomach is rumbling and rumbling~!<br>Here we go! Cut cut cut all the ingredients~!<br> ",
+      "vi": "Vẫn chưa đủ! Bụng em còn réo ùng ục đây~!<br>Nào nào nào! Tất cả nguyên liệu đều cắt cắt cắt hết~!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 67,
+      "asset_line": 2411,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ちょっ！　す、すごい量が来てる～！<br>これ全部焼くのぉ～！？",
+      "en_novel": "H-hey! A-an insane amount is coming in~!<br>I have to cook all of this~!?<br> ",
+      "en_asset": "H-hey! A-an insane amount is coming in~!<br>I have to cook all of this~!?<br> ",
+      "vi": "Khoan! M-một lượng khổng lồ đang tới kìa~!<br>Phải nướng hết chỗ này sao~!?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 68,
+      "asset_line": 2422,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "負けないでお姉ちゃん！　食材と戦って！<br>ウェンディさんの空腹を満たすために、お姉ちゃんの魔法が必要なの！",
+      "en_novel": "Don't give in, Onee-chan! Fight the ingredients!<br>We need your magic to satisfy Wendy-san's hunger!<br> ",
+      "en_asset": "Don't give in，Onee-chan! Fight the ingredients!<br>We need your magic to satisfy Wendy-san's hunger!<br> ",
+      "vi": "Đừng thua chị ơi! Hãy chiến đấu với nguyên liệu!<br>Để lấp đầy cơn đói của Wendy-san‚ chúng ta cần phép thuật của chị!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 69,
+      "asset_line": 2433,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そうね……そうだわ！<br>ベリサちゃんの魔法がウェンディのお腹を救うんだからぁ～！",
+      "en_novel": "That's right... you're right!<br>Verisa-chan's magic is going to save Wendy's tummy~!<br> ",
+      "en_asset": "That's right... you're right!<br>Verisa-chan's magic is going to save Wendy's tummy~!<br> ",
+      "vi": "Đúng rồi… đúng vậy!<br>Phép thuật của Verisa-chan sẽ cứu chiếc bụng của Wendy mà~!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 70,
+      "asset_line": 2484,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "いっくぞぉぉぉっ！<br>み～んなざこざこ、こんがり焼けちゃえ～～～っ！！！",
+      "en_novel": "Here I gooooo!<br>You're all helpless little weaklings, get roasted to a crisp~~~!!!<br> ",
+      "en_asset": "Here I gooooo!<br>You're all helpless little weaklings，get roasted to a crisp~~~!!!<br> ",
+      "vi": "Lên nàoooo!<br>Cả lũ yếu xìu các ngươi‚ bị nướng vàng thơm hết đi~~~!!!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 71,
+      "asset_line": 2522,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ああぁっ！？<br>ワインに合わせて奮発して買った高級肉がぁぁ……！？",
+      "en_novel": "Ahhh!?<br>The premium meat I splurged on to pair with wine...!?<br> ",
+      "en_asset": "Ahhh!?<br>The premium meat I splurged on to pair with wine...!?<br> ",
+      "vi": "Aaa!?<br>Miếng thịt cao cấp mình mạnh tay mua để dùng cùng rượu vang…!?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 72,
+      "asset_line": 2600,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ぜひゅー、ぜひゅー……！<br>な、なんとか、全部の症状がおさまったぁ……！",
+      "en_novel": "Huff, huff...!<br>S-somehow, all the symptoms have finally settled down...!<br> ",
+      "en_asset": "Huff，huff...!<br>S-somehow，all the symptoms have finally settled down...!<br> ",
+      "vi": "Hộc‚ hộc…!<br>C-cuối cùng thì mọi triệu chứng cũng lắng xuống rồi…!<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 73,
+      "asset_line": 2649,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "皆さん、ありがとうございましたぁ～～！",
+      "en_novel": "Thank you so much, everyone~~!<br> ",
+      "en_asset": "Thank you so much，everyone~~!<br> ",
+      "vi": "Cảm ơn mọi người nhiều lắm~~!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 74,
+      "asset_line": 2704,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "い、いいんですよ、気にしなくて……はぁ、はぁ……。<br>友だちじゃ、ないですか……",
+      "en_novel": "I-it's fine, don't worry about it... hah, hah...<br>We're friends, after all...<br> ",
+      "en_asset": "I-it's fine，don't worry about it... hah，hah...<br>We're friends，after all...<br> ",
+      "vi": "K-không sao đâu‚ đừng bận tâm… hộc‚ hộc…<br>Chúng ta là bạn mà…<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 75,
+      "asset_line": 2715,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そ、そういうことぉ……。あたしが面倒見るって言ったんだから、<br>遠慮なんて……ぜはぁ……しちゃ、ダメなんだからねぇ……？",
+      "en_novel": "E-exactly... I said I'd look after you, so<br>don't you dare... hah... hold back on us, okay...?<br> ",
+      "en_asset": "E-exactly... I said I'd look after you，so<br>don't you dare... hah... hold back on us，okay...?<br> ",
+      "vi": "Đ-đúng vậy đó… Chị đã nói sẽ chăm sóc em rồi nên<br>đừng có… hộc… khách sáo với bọn chị đấy… nhé…?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 76,
+      "asset_line": 2764,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ヴィーラさん、ベリサさん……！",
+      "en_novel": "Viera-san, Verisa-san...!<br> ",
+      "en_asset": "Viera-san，Verisa-san...!<br> ",
+      "vi": "Viera-san‚ Verisa-san…!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 77,
+      "asset_line": 2826,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ま、ともかく今日は安定したみたいでよかったよ。<br>できれば、明日も様子を見たいところなんだが、視察があってな。",
+      "en_novel": "At any rate, she's stable for today, so that's good. I'd like to keep<br>watch tomorrow too, but I have an inspection to attend.<br> ",
+      "en_asset": "At any rate，she's stable for today，so that's good. I'd like to keep<br>watch tomorrow too，but I have an inspection to attend.<br> ",
+      "vi": "Dù sao thì hôm nay cô ấy đã ổn định‚ vậy là tốt rồi.<br>Nếu có thể thì mai anh cũng muốn theo dõi tiếp nhưng anh phải đi thị sát.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 78,
+      "asset_line": 2837,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "視察ってことは……おにーさん、留守にするのぉ？",
+      "en_novel": "An inspection, so... you'll be away, Onii-san?<br> ",
+      "en_asset": "An inspection，so... you'll be away，Onii-san?<br> ",
+      "vi": "Thị sát tức là… anh sẽ vắng nhà sao?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 79,
+      "asset_line": 2839,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ああ。ベリサ、ヴィーラ。<br>ふたりでウェンディを助けてやってくれ。",
+      "en_novel": "Yeah. Verisa, Viera.<br>I'm counting on you two to look after Wendy.<br> ",
+      "en_asset": "Yeah. Verisa，Viera.<br>I'm counting on you two to look after Wendy.<br> ",
+      "vi": "Ừ. Verisa‚ Viera.<br>Hai em hãy cùng giúp Wendy nhé.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 80,
+      "asset_line": 2904,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "<size=30>……チャンスね、ヴィーラ。</>",
+      "en_novel": "<size=30>...This is our chance, Viera.</>",
+      "en_asset": "<size=30>...This is our chance，Viera.</>",
+      "vi": "<size=30>…Cơ hội đấy Viera.</>",
+      "tags": [
+        "<size=30>",
+        "</>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 81,
+      "asset_line": 2915,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "<size=30>……チャンスだね、お姉ちゃん。</>",
+      "en_novel": "<size=30>...It sure is, Onee-chan.</>",
+      "en_asset": "<size=30>...It sure is，Onee-chan.</>",
+      "vi": "<size=30>…Đúng là cơ hội đó chị.</>",
+      "tags": [
+        "<size=30>",
+        "</>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 82,
+      "asset_line": 2917,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ん？　何か言ったか？",
+      "en_novel": "Hm? Did you say something?<br> ",
+      "en_asset": "Hm? Did you say something?<br> ",
+      "vi": "Hửm? Hai em vừa nói gì à?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 83,
+      "asset_line": 2928,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "なんでもな～い♪<br>こっちは大丈夫だから、おにーさんはさっさと視察に行っちゃえばぁ～？",
+      "en_novel": "Nothing at all~♪ We've got things covered here, so go on and head<br>off to your inspection~?<br> ",
+      "en_asset": "Nothing at all~♪ We've got things covered here，so go on and head<br>off to your inspection~?<br> ",
+      "vi": "Không có gì đâu~♪ Bên này ổn cả nên<br>anh cứ nhanh đi thị sát đi~?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 84,
+      "asset_line": 2930,
+      "speaker": "<user>",
+      "field_count": 3,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そうか？　それじゃあ準備もあるから、俺はもう行くからな。<br>あとは任せたぞ――",
+      "en_novel": "That so? Then I've got prep to do, so I'll get going.<br>I'm leaving the rest to you——<br> ",
+      "en_asset": "That so? Then I've got prep to do，so I'll get going.<br>I'm leaving the rest to you——<br> ",
+      "vi": "Vậy à? Thế thì anh còn phải chuẩn bị nên đi đây.<br>Phần còn lại giao cho các em――<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 85,
+      "asset_line": 3006,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "――さて、おにーさんも行ったことだしぃ、<br>あたしたちも明日に備えるとするかぁ～。",
+      "en_novel": "——Alright, now that Onii-san's gone,<br>let's get ready for tomorrow~.<br> ",
+      "en_asset": "——Alright，now that Onii-san's gone，<br>let's get ready for tomorrow~.<br> ",
+      "vi": "――Nào‚ anh cũng đi rồi<br>chúng ta cũng chuẩn bị cho ngày mai thôi nhỉ~.<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 86,
+      "asset_line": 3021,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "そうですね。ウェンディさん、また明日。<br>……ウェンディさん？",
+      "en_novel": "Right. See you tomorrow, Wendy-san.<br>...Wendy-san?<br> ",
+      "en_asset": "Right. See you tomorrow，Wendy-san.<br>...Wendy-san?<br> ",
+      "vi": "Vâng. Wendy-san‚ hẹn gặp lại ngày mai.<br>…Wendy-san?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 87,
+      "asset_line": 3070,
+      "speaker": "ウェンディ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "っ……！",
+      "en_novel": "...!<br> ",
+      "en_asset": "...!<br> ",
+      "vi": "…!<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 88,
+      "asset_line": 3136,
+      "speaker": "ヴィーラ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ウェンディさん！？",
+      "en_novel": "Wendy-san!?<br> ",
+      "en_asset": "Wendy-san!?<br> ",
+      "vi": "Wendy-san!?<br> ",
+      "tags": [
+        "<br>"
+      ],
+      "placeholders": []
+    },
+    {
+      "seq": 89,
+      "asset_line": 3147,
+      "speaker": "ベリサ",
+      "field_count": 6,
+      "status": "TRANSLATED",
+      "match_status": "EXACT",
+      "jp": "ちょっと！？　どうしたってのよ！？<br>ウェンディ！　ウェンディ……！？",
+      "en_novel": "Hey!? What's wrong!?<br>Wendy! Wendy...!?<br> ",
+      "en_asset": "Hey!? What's wrong!?<br>Wendy! Wendy...!?<br> ",
+      "vi": "Này!? Chuyện gì vậy!?<br>Wendy! Wendy…!?<br> ",
+      "tags": [
+        "<br>",
+        "<br>"
+      ],
+      "placeholders": []
+    }
+  ],
+  "summary": {
+    "total_records": 89,
+    "translated": 89,
+    "exact": 89,
+    "review": 0,
+    "unmatched": 0,
+    "ambiguous": 0
+  }
+}

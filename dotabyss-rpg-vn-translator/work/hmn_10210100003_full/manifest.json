@@ -1,0 +1,81 @@
+{
+  "scene": "hmn_10210100003",
+  "title_vi": "Vở Kịch Cả Đời",
+  "source_language": "EN (asset text; JP title 一世一代の大芝居) + JP ja.json/en.json reference",
+  "target_language": "vi",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10210100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 99,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1647,
+      "vi": 1647,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "05bd044c4bf21748d3919c71c2d986b6cf9853ec21292fd516293436b90cef64",
+    "output_sha256": "b536a8947652d5abbb77fb43a6aa6793039f034dadee04d5e8bdf2f56cef7089"
+  },
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "commander_lord_commander": "Chỉ Huy",
+    "speaker_labels_kept_verbatim": [
+      "前線基地の兵士A",
+      "前線基地の兵士B",
+      "ヒュメナ",
+      "ウパ",
+      "<user>"
+    ],
+    "in_dialogue_romanization": {
+      "ヒュメナ": "Humena",
+      "ウパ": "Ưpa"
+    },
+    "ascii_comma_replaced_with_U+201A": true,
+    "tags_preserved": [
+      "<br>",
+      "<size=48>...</size>"
+    ],
+    "placeholder_preserved": [
+      "%user%"
+    ],
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "title_case_title": true
+  },
+  "character_voice": {
+    "ヒュメナ": "nữ, em/anh với Chỉ Huy; kính trọng 'Chỉ Huy', thân mật 'anh'",
+    "前線基地の兵士A/B": "lính tiền tuyến, gọi 'Chỉ Huy' / 'ngài'",
+    "ウパ": "tinh linh nước, gọi là Ưpa (tiếng kêu Ưpa!/Ưpa!)",
+    "Commander": "Chỉ Huy (nam chính)"
+  },
+  "notes": [
+    "EN asset actually contains English text (not JP) with a JP title; translated EN->VI as the authoritative source, cross-checked against ja.json/en.json.",
+    "Water-spirit name 'Upa' localized to Vietnamese-readable 'Ưpa' across all lines (incl. bark lines 'Ưpa!') to avoid kept-English false positives.",
+    "All 101 text records (1 title, 99 message, 1 messageTextCenter) translated; 0 kept-English, 0 tag/delimiter/placeholder/ascii-comma issues.",
+    "Internal <br> tag counts preserved to match EN; message fields end in '<br> ' per source."
+  ],
+  "artifacts": {
+    "output_vi": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10210100003.txt",
+    "focused_diff": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100003_full/focused_diff.md",
+    "qa_log": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100003_full/qa_log.json",
+    "manifest": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100003_full/manifest.json",
+    "generator": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10210100003_full/generate.py"
+  }
+}

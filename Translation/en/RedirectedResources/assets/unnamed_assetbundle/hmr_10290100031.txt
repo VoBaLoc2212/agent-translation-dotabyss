@@ -1,0 +1,225 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg13600a
+
+charaload,chara_1,102901000G,ミルティーユ
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,薬の入ったクッキーを……
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+
+
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+window,on,0.15
+message,ミルティーユ,Mmm，Mil's cookies turned out great! They look so yummy!<br> ,,vc_10290100031_001_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,ミルティーユ,Since no one came to the bazaar，Mil could make them without anyone<br>knowing，but...<br> ,,vc_10290100031_002_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+priority,chara_1,CHARA,1,FRONT,
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_2,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+window,on,0.15
+message,ミルティーユ,(Mil wonders if this is really okay... Baking cookies with this medicine<br>in them...)<br> ,,vc_10290100031_003_01
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ミルティーユ,(Frederica said the medicine she left behind is an aphrodisiac that<br>makes other people feel naughty，but...)<br> ,,vc_10290100031_004_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,ミルティーユ,If Mil lets Commander eat these，he'll surely think of Mil...<br> ,,vc_10290100031_005_01
+
+message,<user>,What about me?<br> 
+
+asyncseplay,setag1_3,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ミルティーユ,Hawawawawa! Commander，why are you here?<br> ,,vc_10290100031_006_01
+
+message,<user>,You weren't at the bazaar，so I came to check on you. Then I smelled<br>something good，so I figured you'd be here.<br> 
+
+message,<user>,Oh，aren't those cookies fresh out of the oven! Can I have one? I've<br>been walking around，and I'm hungry.<br> 
+
+asyncseplay,setag1_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ミルティーユ,Ehh...! Mil wants you to eat them，Commander... but，um，well... Mil is<br>not ready yet...<br> ,,vc_10290100031_007_01
+
+message,<user>,I've been eating your sweets all this time; I don't need to be mentally<br>prepared for that.<br> 
+
+asyncseplay,setag1_5,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,ミルティーユ,Ah—<br> ,,vc_10290100031_008_01
+
+message,,The Commander casually took a cookie and brought it to his mouth.<br>He crunched on the freshly baked cookie.<br> 
+
+message,<user>,Yeah，delicious! As expected of Myrtille!<br>There's plenty here，so you have one too.<br> 
+
+message,ミルティーユ,Mmph!<br> ,,vc_10290100031_009_01
+
+message,,A cookie was shoved into the stunned Myrtille's mouth.<br>Unable to spit it out，she nervously swallowed.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_6,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+window,on,0.15
+message,ミルティーユ,(W-what should Mil do? Mil ate the cookie with the medicine! And<br>Commander... waaah，he's eating so many!)<br> ,,vc_10290100031_010_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Yeah，cookies are definitely best fresh out of the oven... mm...<br> 
+
+window,off
+wait,0.15
+
+fade,Out,White,0.25
+
+asyncseplay,setag1_7,se4400023,0,1,CONT
+
+fade,In,White,0.25
+
+window,on,0.15
+message,,After eating several cookies，the Commander turned toward Myrtille，<br>his pupils dilated—<br> 
+
+message,<user>,Myrtille... you're especially cute today...<br> 
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ミルティーユ,Huh? Ah! Commander! Waaah!<br> ,,vc_10290100031_011_01
+
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+
+charahide,chara_1,0.3
+
+bg,abg18200a
+
+wait,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,<user>,That's okay，right，Myrtille?<br> 
+
+message,ミルティーユ,Buuut... w-wait，Commander...<br> ,,vc_10290100031_012_01
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

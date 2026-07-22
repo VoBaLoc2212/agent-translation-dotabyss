@@ -1,0 +1,63 @@
+{
+  "scene": "hmn_10250100002",
+  "source_condition": "EN-asset-is-English (en.json has English values; asset text fields are English; ja.json used for JP cross-check/alignment)",
+  "jp_primary_note": "ja.json = JP source of truth for meaning; EN asset = structural authority; vi = output per skill rule 12/13",
+  "records": {
+    "title": 1,
+    "message": 81,
+    "messageTextUnder": 4,
+    "messageTextCenter": 0,
+    "total_text_records": 86
+  },
+  "encoding": {
+    "bom": true,
+    "newline": "CRLF",
+    "preserved": true
+  },
+  "decisions": {
+    "Commander": "Chỉ Huy (all instances; also in-dialogue 司令官→Chỉ Huy)",
+    "Wendy(ウェンディ)": "speaker label kept JP byte-identical; in-dialogue self-name kept as 'Wendy' (matches shipped hmn_10250100003 L19)",
+    "Verisa(ベリサ)/Veera(ヴィーラ)": "speaker labels kept JP; romanized in dialogue (Verisa/Veera) per shipped convention",
+    "おにーさん/Mister": "ông anh (playful teasing address to Commander, per hmn_10020100003 convention)",
+    "Sis/Big Sis": "chị / chị lớn (Verisa→Veera 'chị'; Veera→Verisa 'chị lớn')",
+    "Father/お父様": "Cha",
+    "automaton/オートマタ": "ô-tô-mát (matches hmn_10250100001/003)",
+    "pervert/変態": "biến thái",
+    "underling/下僕": "tiểu đệ",
+    "loser/ざーこ": "kẻ lót đường",
+    "title": "Wendy Và Các Pháp Sư (Vietnamese Title Case)",
+    "ascii_comma": "replaced with U+201A '‚' inside VI text fields",
+    "h18": "no H18 content in this scene; all characters 18+ per project rule 13"
+  },
+  "independent_verify": {
+    "scene": "hmn_10250100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 81,
+      "messageTextUnder": 4,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 86,
+    "translated_records": 86,
+    "changed_lines": 86,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2186,
+      "vi": 2186,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "856c3d2ab2296d422c11d184e7b88326711e8a515736b3d4b9164698553bdaf3",
+    "output_sha256": "ffc8e6c2ecf6dd2bbf41229d0c1498e3182bc5b213f79d4283f7d0eb0912a70b"
+  },
+  "notes": "All 86 text records translated and changed (0 kept/unchanged). Title-case title applied. Internal <br> counts matched to EN asset (authoritative). Trailing <br> suffix auto-mirrored. No CRLF doubling.",
+  "status": "PASS"
+}

@@ -1,0 +1,57 @@
+{
+  "scene": "hmn_10460100003",
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "structural_qa": {
+    "bom": true,
+    "crlf": "match",
+    "line_count": {
+      "en": 1495,
+      "vi": 1495,
+      "match": true
+    },
+    "delimiter_mismatch_count": 0,
+    "field_count_mismatch": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "speaker_labels_unchanged": true,
+    "ascii_comma_in_text_fields": 0,
+    "record_count_matched": true,
+    "vi_text_records": 99,
+    "en_text_records": 99,
+    "translated_records": 99,
+    "kept_text_lines": [],
+    "changed_lines": 99
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "build_info": {
+    "builder": "build_vi.py",
+    "date": "2026-07-21"
+  },
+  "notes": "EN-asset-is-English mode. EN asset title field still JP (translated from JP directly). <br> suffix mirrored from EN asset. Internal <br> count reconciled to match EN. %user% preserved from EN asset.",
+  "translatable_records": 99,
+  "translated_records": 99,
+  "changed_lines": 99,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1495,
+    "vi": 1495,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "a1d33695b1a9e8eb10e032bb59e50a33cfaf754c9e5dc09ee41828b837af4315",
+  "output_sha256": "304716881fc0d6b9325732bbc2b9a5c48e8d58a2b65ef8090ad55e7a57a8e971"
+}

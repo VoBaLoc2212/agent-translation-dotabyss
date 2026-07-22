@@ -1,0 +1,43 @@
+{
+  "asset": "hmn_10450100001",
+  "character": "Iola (イオラ)",
+  "mode": "EN-asset-is-English",
+  "scene_title_jp": "魔法使いは可愛くてモテるから",
+  "scene_title_vi": "Pháp Sư Dễ Thương Nên Được Yêu Thích",
+  "translated_records": 89,
+  "text_command_counts": {
+    "title": 1,
+    "message": 88
+  },
+  "notes": "Iola (イオラ) female magic student from Perdion Magic Academy. Uses あたし/あんた casual feminine speech, calls Commander 先生 (Teacher)→'Thầy'. Commander addresses Iola as 'em' (student), self-refers as 'tôi'/'thầy'. Scene has H18-adjacent banter (porno mag reference, flashbang comedy)—translated directly per project-wide adult confirmation. EN-asset-is-English mode: translated JP→VI via ja.json meaning, EN asset used as structural authority.",
+  "independent_verify": {
+    "scene": "hmn_10450100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 88,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 89,
+    "translated_records": 89,
+    "changed_lines": 89,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 942,
+      "vi": 942,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "328be129754a015f229815d4802aa12d6445660a186729ea1ccec96cfeae8860",
+    "output_sha256": "2f07c011a1c547bf1472664dfb83871fc33012d22d50e3139ad8cb3ace2363aa"
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,743 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10120100012
+
+charaload,chara_1,101201000G,エティア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10120100012_001_01,1,on
+
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,10
+
+window,on,0.15
+l2dmessage,エティア,I-I'm sorry，Master... B-but I had no other way to tell you how I feel...<br> ,,vc_10120100012_001_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Surprised by Etia's uncharacteristically bold action，I noticed she<br>wore an unfamiliar collar.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I asked Etia what that collar was.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,13
+
+asyncl2dmotion,EyeOpen00,on,STOP,13
+
+l2dmessage,エティア,This... is a Magic Collar that Ludia lent me. Thanks to this collar，I<br>can be honest about my feelings...<br> ,,vc_10120100012_002_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,It seemed Etia's actions were due to the power of the Magic Collar.<br> 
+
+l2dmotion,MouthEmotion06
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.3
+
+l2dmessage,エティア,Having to rely on something like this just to express my feelings... I<br>know I'm a coward...<br> ,,vc_10120100012_003_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,10
+
+asyncl2dmotion,EyeOpen00,on,STOP,10
+
+asyncl2dmotion,MouthEmotion00,on,STOP,14
+
+l2dmessage,エティア,M-Master... Am I a coward...? Have you... come to hate me...?<br> ,,vc_10120100012_004_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,I shook my head at the sad Etia and told her no—I was just surprised.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+message,,I told her I was happy she'd go that far to convey her feelings. She<br>smiled.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,0.3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,13
+
+l2dmessage,エティア,Master... then... please accept... my service，filled with all my<br>feelings...<br> ,,vc_10120100012_005_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10120100012_002_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,エティア,Mmph... Ngh... *huff*... Mmph... *gasp* Ah... *pant*，*whimper*...<br>Master's here... it's so hard... Mmph... *huff*...<br> ,,vc_10120100012_006_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.3
+
+message,エティア,Etia pressed his hard length against her wet warmth and slowly<br>rubbed it back and forth.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,12
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+asyncl2dmotion,MouthEmotion05,on,STOP,19
+
+l2dmessage,エティア,Hyaah... Mmph... *huff*... I can feel how hot you are... mmm... I'm<br>getting tingly too... *huff*... Hyaaah...<br> ,,vc_10120100012_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Her movements were clumsy due to inexperience，but I could feel how<br>much she wanted to please me.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceEmotion02,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,8
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8.3
+
+asyncl2dmotion,MouthEmotion06,on,STOP,8.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+l2dmessage,エティア,*pant*... I'm sorry，Master... mmm... I... this is my first time doing<br>something like this... *huff*... Mmph...<br> ,,vc_10120100012_008_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6.3
+
+l2dmessage,エティア,I don't really know how to move... *huff*... Mmph... Is this right...? Am<br>I doing it... right...?<br> ,,vc_10120100012_009_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,I told the anxious Etia that there was nothing wrong. Her movements<br>were clumsy，but that actually felt good.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+l2dmessage,エティア,R-Really... Then I'm glad... Mmph... *huff*... *pant*... Aah...<br> ,,vc_10120100012_010_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,But there was no denying my growing frustration.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10120100012_003_01,1,on
+
+wait,1
+
+l2dmessage,エティア,Hyaaah...! A-Ah... Master...!<br> ,,vc_10120100012_011_01
+
+
+message,,I kneaded Etia's breasts from below with both hands，working upward.<br>Her full，plump breasts changed shape effortlessly in my palms.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.3
+
+l2dmessage,エティア,*pant*! Ah! Mmph!... *huff*，*huff*!... Aah!...<br>Master's hands... my chest，being kneaded so thoroughly...<br> ,,vc_10120100012_012_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I pinched her hard，pointed nipples between my fingers，stimulating<br>them as I squeezed her breasts，and Etia's body twitched and trembled.<br> 
+
+l2dmotion,FaceEmotion01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,10
+
+asyncl2dmotion,EyeOpen00,on,STOP,10
+
+l2dmessage,エティア,Hyaa! mmm，Aaaah!... Yahah!... M-Master... when you touch me there...<br>Mmph!... my body... is going numb... *gasp*... mmm... *sob*!<br> ,,vc_10120100012_013_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Etia's sensitive reactions were adorable，so I told her I wanted to see<br>more and continued my caresses.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.3
+
+l2dmessage,エティア,Mmm... *huff*，*gasp*... Hyaa!... *pant*!...<br>I'm shivering... I'm getting so hot...!<br> ,,vc_10120100012_014_01
+
+
+message,,More wetness overflowed from her slit，wetting the place where we<br>were joined，making a squelching，lewd sound.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10120100012_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エティア,*sigh*!... Mmph!... Honestly，Master... *pant*!...<br>Does my chest feel that good...?<br> ,,vc_10120100012_015_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,I answered that of course they were.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Etia's large，soft breasts had just the right give—they were exciting<br>to knead and gave a strange sense of security.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5.3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5.3
+
+l2dmessage,エティア,R-really...? I've always been insecure about my chest...<br>Because they're big，I often get looked at strangely...<br> ,,vc_10120100012_016_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceEmotion02,on,STOP,10
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,11
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,11.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,14
+
+l2dmessage,エティア,But... if Master says that... I'm glad...<br>This chest... Fufu.<br> ,,vc_10120100012_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Perhaps my words struck a deep chord in her heart，because Etia<br>gave a sweet，melting smile.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10120100012_005_01,1,on
+
+
+l2dmessage,エティア,Mmph... *huff*，*sigh*... *gasp*，Ah，mmm Aaaah...!<br> ,,vc_10120100012_018_01
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+l2dmessage,エティア,*huff* Mmph... My chest feels good，but... Mmph... here too...<br>Please feel good here too，Master... *gasp*... aah...<br> ,,vc_10120100012_019_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Gradually，as if she got used to it，her clumsy movements faded，and<br>Etia's hips moved smoothly，rubbing against my cock.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,8
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+l2dmessage,エティア,Hyaa，Ah，mmm *whimper*... *gasp*... *pant*，Aah，Mmph...<br>Somehow... I'm starting to feel good... too... *pant*...<br> ,,vc_10120100012_020_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Etia seemed to be gaining confidence and starting to feel pleasure.<br>We were both ready... It was almost time—<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,14
+
+asyncl2dmotion,EyeOpen01,on,STOP,14
+
+l2dmessage,エティア,Eh... ah，yes... I'm going to put Master's inside me，right...?<br>Understood... I'll try... Mmph...<br> ,,vc_10120100012_021_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+l2dmessage,エティア,Th-then... I'll put it in，okay...?<br> ,,vc_10120100012_022_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10120100012_003_01,1,on
+
+asyncl2dmotion,MouthEmotion05,on,STOP,8
+
+asyncl2dmotion,FaceEmotion01,on,STOP,9
+
+l2dmessage,エティア,Mmph! Hya! Ah... it's going in...! Nghhhh...!<br> ,,vc_10120100012_023_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,Once his cock was buried to the hilt，Etia's shoulders trembled in<br>pain as she steadied her breathing.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmessage,エティア,*pant*，Aah... *pant*... *huff*... *pant*... *pant*...<br> ,,vc_10120100012_024_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,MouthEmotion06,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,エティア,*pant*，it's inside... Master's... all of it，inside me... *pant*...<br> ,,vc_10120100012_025_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I praised her for doing well and asked if she was in pain.<br> 
+
+l2dmotion,FaceEmotion02
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.3
+
+l2dmessage,エティア,Y-yes... it hurt a lot at first... Mmph... but... I'm fine now... *gasp*...<br> ,,vc_10120100012_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Reassured by her answer，I asked if she could move.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.3
+
+l2dmessage,エティア,I-I'm fine... I can move... Mmph... Ah，but... how should I move to make<br>you feel good，Master...?<br> ,,vc_10120100012_027_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I told her to move however she liked，as what felt good to her would<br>feel good to me too.<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5
+
+asyncl2dmotion,FaceEmotion02,on,STOP,5.5
+
+l2dmessage,エティア,In a way that feels good to me...? Okay... then... I'll move... Mmph...<br> ,,vc_10120100012_028_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10120100012_007_01,1,on
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,Blush00,on,STOP,5
+
+l2dmessage,エティア,Hya... mmm... Mmph... *puff*，Ah... Ah，Hya... *pant*...!<br> ,,vc_10120100012_029_01
+
+message,,Unlike before，Etia began to bounce，gradually finding a rhythm.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,エティア,Mmph... Hmph，Hya，Ah，Aah... Mmmmph...!<br> ,,vc_10120100012_030_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Each time Etia bounced her hips，her tight walls stroked my cock. The<br>fresh pleasure was making me lose myself too.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.3
+
+l2dmessage,エティア,L-like this... *huff*... is it... good...?<br> ,,vc_10120100012_031_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,I said it felt good，and asked how she was feeling.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,エティア,Y-yes... I... mmm... it feels good... too... *gasp*... Ah，Hya...<br>Mmmmph...!<br> ,,vc_10120100012_032_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,Her words didn't sound like a lie. Etia，too，seemed intoxicated by her<br>first taste of pleasure.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+message,,As proof，she was absorbed in bouncing her hips，her face ecstatic.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+l2dmessage,エティア,*pant*... Ah，Mmph... Master's... it's hitting deep inside... *huff*...<br>*gasp*... this... feels so good... *pant*...!<br> ,,vc_10120100012_033_01
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,FaceEmotion01,on,STOP,10
+
+asyncl2dmotion,MouthEmotion06,on,STOP,10
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+l2dmessage,エティア,It feels so good... *whimper*... at this rate，I... my head's going<br>blank... *gasp*... I'm gonna lose it...!<br> ,,vc_10120100012_034_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,Swept away by waves of unknown pleasure，confusion and unease<br>began to mix in Etia's expression.<br> 
+
+message,,I gently told her，'You don't have to be afraid，Etia. I'm right here.'<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10120100012_005_01,1,on
+
+wait,1
+
+l2dmessage,エティア,Hyaah! Ngh，Aaaaah...!<br> ,,vc_10120100012_035_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,エティア,Etia stopped moving her hips from the almost fearful pleasure，but as<br>if to break that stillness，she thrust up from below.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,エティア,Ah! *gasp*! Ngh... M-Master...! If you do that... I... Mmph...<br>*whimper*...!<br> ,,vc_10120100012_036_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,At the pleasure of being thrust into，Etia's entire body quivered<br>violently.<br> 
+
+message,,Sensing that her climax was near，I told her to give in to the pleasure<br>as I thrust my cock into her depths.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceEmotion01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.3
+
+l2dmessage,エティア,N-no...! Really，I'm... Ah! Aah! Mmph... Aaaaah...!<br> ,,vc_10120100012_037_01
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10120100012_006_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,エティア,I'm... c-coming...! *whimper*! *gasp*! Mmph... *sob*...!<br> ,,vc_10120100012_038_01
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,12
+
+message,エティア,(I-I came... it feels too good... my mind's going blank... I feel like I<br>might pass out...!)<br> ,,vc_10120100012_039_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,エティア,(B-but... Master hasn't cum yet... I have to make Master cum too... I<br>have to do my best...!)<br> ,,vc_10120100012_040_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+message,エティア,(Ah，but... if I move now，I'll... again...!)<br> ,,vc_10120100012_041_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+message,エティア,(At this rate，only I'll keep cumming... please... Master，please cum<br>too...!)<br> ,,vc_10120100012_044_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Etia's inner walls，in the throes of repeated climax，clenched and<br>squeezed fiercely around his cock.<br> 
+
+
+message,,With the relentless onslaught of pleasure，I too was at my limit.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion05
+
+l2dmessage,エティア,Please cum，Master...!<br> ,,vc_10120100012_045_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The moment after hearing those words—<br> 
+
+bgvstop,bgvtag2_9,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene10
+
+bgvplay,bgvtag2_10,bgv_10120100012_011_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,エティア,Mmm，*pant*，Aaaah!<br> ,,vc_10120100012_046_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,エティア,(Inside me... Master's hot...!)<br> ,,vc_10120100012_047_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+l2dmessage,エティア,*pant*... Aah!... mmm... Aah... *pant*...<br> ,,vc_10120100012_048_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,As I reached my limit，I poured my hot cum inside her，as if squeezing<br>out every last drop.<br> 
+
+
+
+l2dmotion,Scene11
+
+
+
+l2dmessage,エティア,*pant*... *pant*... *gasp*... *pant*...<br> ,,vc_10120100012_049_01
+
+l2dmotion,FaceEmotion02
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+message,エティア,(I'm glad... Master came too... Master's seed... so warm...)<br> ,,vc_10120100012_050_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.3
+
+message,,In a daze，Etia smiled happily and muttered something as if in<br>delirium.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.5
+
+l2dmessage,エティア,Thanks to the Magic Collar... I could be brave... I'm glad... Mmm... with<br>Master... I could... feel good...<br> ,,vc_10120100012_051_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,Strength left Etia's body. Having exceeded her limits，she could no<br>longer hold on to consciousness.<br> 
+
+bgvstop,bgvtag2_10,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

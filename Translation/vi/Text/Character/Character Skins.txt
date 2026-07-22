@@ -1,0 +1,123 @@
+sr:"^([\S\s]+)基本コスチューム$"=Trang phục cơ bản của $1
+sr:"^([\S\s]+)おしごと時基本コスチューム$"=Trang phục làm việc cơ bản của $1
+sr:"^([\S\s]+)の基本コスチュームです。$"=Đây là trang phục cơ bản của $1.
+
+シャオレイたくさん学んで強くなりたい\nだから色々おしえてね、先生=Xiaolei muốn học hỏi thật nhiều và trở nên mạnh mẽ.\nVì vậy hãy dạy em đủ thứ nhé, Thầy giáo!
+何があろうと、皆さんの傷は\nこの手で癒してみせます！=Bất kể chuyện gì xảy ra, em sẽ chữa lành vết thương cho mọi người\nbằng đôi bàn tay này!
+これが世界一の格闘家の第一歩！\nあたしより強いヤツ、どこかに居る？=Đây là bước đầu tiên để trở thành võ sĩ vĩ đại nhất thế giới!\nỞ ngoài kia có ai mạnh hơn tôi không?
+これも龍神さまのお導き……\nどうかよろしくお願いします！=Đây cũng là sự chỉ dẫn của Long Thần...\nXin hãy chiếu cố em!
+ここが前線基地か……ここなら\n少しは面白いことがあるかもな=Vậy ra đây là Tiền Đồn...\ncó thể sẽ có vài thứ thú vị ở đây đấy.
+これが……\n私の新たな運命……=Đây là...\nvận mệnh mới của tôi...
+あたしの言う通りにしないと\n逮捕するから=Nếu cậu không làm theo lời tôi,\ntôi sẽ bắt giữ cậu.
+推しのためなら、最前に\n駆けつけますよ！　それが騎士活です！=Vì người tôi hâm mộ, tôi sẽ lao lên Tiền Tuyến!\nĐó chính là ý nghĩa của việc trở thành một hiệp sĩ!
+ミレスガルド工兵隊のベティ！\nただいま現場に到着したであります！=Betty của đội đặc công Millesgard!\nTôi đã đến hiện trường!
+うう、もう寒いのはいやです……\n誰か、温めてください……=Ư, em không thể chịu đựng cái lạnh được nữa...\nAi đó, xin hãy sưởi ấm cho em...
+えー、仕事ですかぁ？\nはぁ、やだなぁ、面倒だなぁ……=Ể, công việc sao?\nHaa, tôi không muốn đâu, nghe phiền phức quá...
+あんたが依頼人か？\n傭兵のシャノンだ。上手く使ってくれ。=Anh là khách hàng sao?\nTôi là Shanon, một lính đánh thuê. Hãy sử dụng tôi cho tốt nhé.
+皆さん、わたしが来たからには\nもう安心ですよ！=Mọi người, giờ tôi đã ở đây,\ncác bạn có thể yên tâm rồi!
+あぁ、憧れの司令官さま……\nようやくお会いできました！=A, thần tượng của em, ngài Chỉ huy...\nCuối cùng em cũng được gặp ngài!
+いい魔石細工ができたなあ……\n司令官様にあげたいけど……=Em đã làm được một số tác phẩm đá quý đẹp...\nEm muốn tặng nó cho ngài Chỉ huy, nhưng...
+さぁ、楽しい大道芸の始まりだよ♪ \n最後まで見逃さないでね！=Được rồi, buổi biểu diễn đường phố thú vị bắt đầu ngay bây giờ♪\nĐừng bỏ lỡ cho đến khi kết thúc nhé!
+わたしがいる限り、誰一人\n泣かせはしませんよ！=Chừng nào tôi còn ở đây, tôi sẽ không để\nbất kỳ ai phải rơi lệ!
+最強の天才美少女魔法使い\nベリサちゃん参上～♡=Nữ ma pháp sư xinh đẹp thiên tài mạnh nhất\nVerisa-chan đã đến đây~♡
+夢見るふわもこウェア=Đồ Ngủ Bồng Bềnh Mộng Mơ
+魔力が湧かないそんな日は、\nふわふわのルームウェアで１日中ゴロゴロ。\nそんな休日もあったっていいじゃない！=Vào những ngày mà ma lực của cậu chẳng chịu tuôn chảy,\nhãy thư giãn cả ngày trong bộ đồ mặc nhà bồng bềnh.\nMột kỳ nghỉ như vậy cũng ổn mà!
+ベリサちゃんの部屋着姿、かわい～？\nふふ、デレデレしちゃって♪　ざ～こ♪=Verisa-chan trong bộ đồ mặc nhà trông rất dễ thương phải không?\nFufu, bối rối rồi kìa♪ Đồ~ ngốc♪
+エルドラーナの商人、マリナですぅ～♪\nここはお金の匂いがしますねぇ～♪=Tôi là Marina, một thương gia từ Eldorana♪\nTôi có thể ngửi thấy mùi tiền ở đây đấy♪
+採掘家のダリアです。\n以後、お見知りおきを=Tôi là Daria, một thợ mỏ.\nRất hân hạnh được làm quen với anh.
+エルドラーナの記者、エメルダです！\n特ダネの情報提供お待ちしてまーす=Tôi là Emelda, một phóng viên từ Eldorana!\nTôi luôn chờ đợi những tin sốt dẻo độc quyền!
+エルドラーナ共和国警備隊より\n派遣されましたカーラです！=Tôi là Carla, được phái đến từ\nLực lượng An ninh Cộng hòa Eldorana!
+レイゼリア様は命を賭して\nお支えする！=Tôi sẽ hỗ trợ Ngài Razelia\nbằng cả mạng sống của mình!
+神の導きのままに……\n共に参りましょう=Theo sự dẫn dắt của Chúa...\nHãy cùng nhau sánh bước.
+ご安心ください。\n痛みは一瞬ですから=Xin hãy yên tâm.\nNỗi đau sẽ trôi qua trong chớp mắt.
+前世の因果と再び相まみえた喜びを\n分かち合おうではないか=Hãy cùng chia sẻ niềm vui tương phùng,\ngắn kết bởi nhân quả từ kiếp trước.
+さて、ここが新しい穴か\n存分に掘らせてもらうとしようか=Vậy ra đây là cái hố mới à?\nTôi sẽ thỏa sức đào bới nhé?
+もう落第なんてゴメンなんだから！　\nここでがっつり単位稼いじゃうよ！=Tôi chán ngấy việc thi trượt rồi!\nTôi sẽ kiếm thật nhiều tín chỉ ở đây!
+ミレスガルドの騎士、ソフィアよ。\nさっ、キビキビ働くわよ～！=Tôi là Sophia, hiệp sĩ của Millesgard.\nNào, hãy làm việc thật nhanh nhẹn!
+あ、あの……ヒマリ、です。\nな、何か手伝えること、ありますか？=Ư-Ưm... Tôi là Himari.\nC-Có việc gì tôi có thể giúp không?
+クルルだよ～！　ご主人さまっ！\nクルルにまかせて！　やっつけてあげる！=Tôi là Kururu! Chủ nhân!\nCứ giao cho Kururu! Tôi sẽ đánh nhừ tử chúng!
+最高の舞台を見せるわよ\nうちの虜にしてあ・げ・る♡=Tôi sẽ cho cậu thấy sân khấu tuyệt vời nhất.\nĐể tôi khiến cậu trở thành tù binh của tôi nhé♡
+狩猟隊所属のエティアです……\nせ、精一杯がんばります……=Tôi là Etia thuộc đội săn bắn...\nT-Tôi sẽ cố gắng hết sức...
+ハートフル・ウェイトレス=Cô Phục Vụ Tận Tâm
+いらっしゃいませ！　と元気な声が響く。\nご注文は何でしょう？\nスマイルはもちろん無料です♪="Kính chào quý khách!" Một giọng nói vui vẻ vang lên.\nQuý khách muốn gọi món gì ạ?\nNụ cười tất nhiên là miễn phí rồi♪
+ハンティングメガバーガーセット……\nお、お待たせしました……=Set Burger Mega Săn Bắn...\nX-Xin lỗi đã để quý khách đợi lâu...
+これとこれを掛け合わせれば……あれ？\nなぜかえっちな媚薬ができた！？=Nếu kết hợp cái này với cái này... hả?\nSao lại tạo ra mị dược dâm đãng thế này!?
+今どきの子はダメね～。\nフィルムお姉さんが一肌脱いであげる♪\n=Tụi nhỏ thời nay chán thật đấy.\nChị Film sẽ ra tay giúp một phen vậy♪\n
+魅惑のローブ=Áo Choàng Quyến Rũ
+ローブの隙間から、覗く肌。\nその姿は、見る者の想像力を掻き立て、\n魅惑の幻想へと誘う。=Làn da lấp ló qua khe hở của lớp áo choàng.\nDáng vẻ ấy khơi dậy trí tưởng tượng của người nhìn,\ndẫn dụ họ vào một ảo ảnh quyến rũ.
+い、急いで出て来ちゃったから……\nこの下……何も着てないのよね……=T-Tôi vội vã chạy ra nên...\nBên dưới cái này... tôi không mặc gì cả...
+炎のように揺るがぬ意志で、\n私は射抜く。逃がしはしない=Với ý chí kiên định như ngọn lửa,\ntôi sẽ bắn xuyên qua. Sẽ không để ngươi thoát đâu.
+オフタイム・ジャージ=Đồ Thể Thao Ngày Nghỉ
+休日の部屋着に迷ったらこれ！\nださ……もとい、おしゃれなデザインと、\n機能性に長けた、究極のリラックスウェア。=Nếu bạn phân vân không biết mặc gì vào ngày nghỉ, thì đây chính là lựa chọn!\nVới thiết kế quê mù... à nhầm, sành điệu và\ntính năng ưu việt, đây là trang phục thư giãn tối thượng.
+今日は休暇日だぞ？　こういう\nリラックス出来る格好でもいいだろ？=Hôm nay là ngày nghỉ mà? Mặc đồ\nthư giãn thế này cũng không sao đâu nhỉ?
+迎撃モード起動。\nエレクトラが敵を排除します=Khởi động chế độ Chặn Đánh.\nElectra sẽ tiêu diệt Kẻ Địch.
+ベリサお姉ちゃんはどこでしょうか？\nあ、わたし妹のヴィーラです。=Chị Verisa ở đâu vậy nhỉ?\nÀ, tôi là em gái của chị ấy, Veera.
+さぁ、狩りの時間だ！\nボクの弓からは逃げられないよ♪=Nào, đến giờ đi săn rồi!\nNgươi không thể thoát khỏi mũi tên của ta đâu♪
+はぁ～……撮り溜めした動画\nいつか配信したいなー……=Haa~... Tôi muốn một lúc nào đó\nstream đống video đã lưu lại quá...
+伝説の大海賊の末裔、ルシータだ！\nアタシと新たな航海に出発しようぜ！=Ta là Lucita, hậu duệ của đại hải tặc huyền thoại!\nHãy cùng ta giương buồm bắt đầu một chuyến hải trình mới nào!
+ルクスノヴァの戦士、ラヴェリアだ。\n困ったことがあればいつでも頼ってくれ=Tôi là Laveria, chiến binh của Luxnova.\nNếu gặp rắc rối, cứ việc trông cậy vào tôi bất cứ lúc nào.
+水の神官、ヒュメナだよ♪　この子は、\n精霊のウパちゃん。可愛いでしょ～？=Tôi là nữ tu Thủy Thần, Humena♪ Còn đây là\ntinh linh Upa-chan. Đáng yêu phải không?
+マニョだよ。友だちは植物だけだけど\nよろしくね……=Tôi là Magno. Bạn của tôi chỉ có thực vật thôi nhưng\nmong được giúp đỡ...
+オートマタのウェンディと申します\nあの、力仕事は得意です！=Tôi là người máy Wendy.\nƯm, tôi rất giỏi làm việc tay chân!
+ゼンマイドール=Búp Bê Lên Dây Cót
+ゼンマイが動く限り、わたしは笑い、動き続ける。\n……もし、わたしの笑顔を望むなら、\nこの背中のゼンマイを、どうか、止めないで。=Chừng nào dây cót còn xoay, tôi sẽ còn mỉm cười và cử động.\n...Nếu cậu mong muốn thấy nụ cười của tôi,\nxin đừng dừng dây cót trên lưng tôi lại.
+ゼンマイを回してくださ～い♪\n楽しい演奏、披露しますよ♪=Xin hãy vặn dây cót giúp tôi♪\nTôi sẽ biểu diễn một giai điệu thật vui tươi♪
+氷の世界から来たシルヴィアです。\nすぐ帰るつもりですがお見知りおきを。=Tôi là Sylvia, đến từ thế giới băng giá.\nTôi định sẽ về ngay, nhưng hân hạnh được gặp mặt.
+はいはーい！　ご注文はなんですかー？=Vâng vâng! Quý khách muốn gọi món gì ạ?
+キューティデビル=Ác Quỷ Đáng Yêu
+その笑顔と甘い言葉にご用心。\nこの小悪魔に心を奪われたら、後戻りなどできはしない。\n魂が燃え尽きるまでその魅力に溺れてしまうだろう。=Hãy cẩn thận với nụ cười và những lời đường mật đó.\nMột khi đã bị tiểu ác quỷ này cướp mất trái tim, bạn sẽ không thể quay đầu lại.\nBạn sẽ chìm đắm trong sự quyến rũ đó cho đến khi linh hồn rực cháy thành tro.
+サキュバスになり切れって言われても\nあ、あたしに出来るかなぁ～……=Dù có bảo tôi hóa thân thành Succubus...\nK-Không biết tôi có làm được không...
+疲れた時は、ミルの作った\n甘～いスイーツで癒されてくださいね=Khi nào mệt mỏi,\nhãy để những món đồ ngọt của Myr xoa dịu nhé.
+あたしの名はハツネ！\n刀の扱いならあたしに任せて！=Tên tôi là Hatsune!\nNếu là chuyện dùng đao kiếm thì cứ giao cho tôi!
+ペルディオンメイド協会より参りました\nニナと申します=Tôi đến từ Hiệp hội Hầu gái Perdion,\ntên tôi là Nina.
+街角の待ち合わせ=Gặp Gỡ Góc Phố
+街角で待つ、心躍る時間。\nこの日のために、選んだ一着。\n会った瞬間、あなたはどんな顔をするだろう？=Khoảng thời gian chờ đợi đầy rạo rực nơi góc phố.\nBộ trang phục được chọn lựa riêng cho ngày hôm nay.\nKhoảnh khắc gặp nhau, cậu sẽ phản ứng thế nào nhỉ?
+折角のデートなので、おめかしをと……\nいかがでしょうか、御主人様=Vì là buổi hẹn hò hiếm hoi nên tôi đã diện đồ một chút...\nTrông thế nào ạ, Chủ nhân?
+臨・兵・闘・者・皆・陣・列・在・前！\n悪しき力を祓います！=Lâm・Binh・Đấu・Giả・Giai・Trận・Liệt・Tại・Tiền!\nTa sẽ thanh tẩy mọi thế lực tà ác!
+刻を超えたセーラー服=Đồng Phục Thủy Thủ Vượt Thời Gian
+時空の狭間を超え、学園に舞い降りた陰陽師。\n古き技と新しい風を纏い、\n少女は新たな物語を紡ぎ出す。=Một Âm Dương Sư vượt qua khe nứt không gian, đáp xuống học viện.\nKhoác lên mình bí thuật cổ xưa cùng luồng gió mới,\nthiếu nữ bắt đầu dệt nên một câu chuyện mới.
+この学びの園に蔓延る邪気は、\n陰陽師である私が払い清めますっ！=Tà khí đang lan tràn trong chốn học đường này,\nsẽ do Âm Dương Sư là tôi đây thanh tẩy!
+武器がほしいなら、あたしに任せろ！\nドガズガァーンってやつを作ってやる！=Nếu muốn Vũ Khí thì cứ để đó cho tôi!\nTôi sẽ chế tạo ra một thứ kêu "BÙM CHÉO"!
+犬っ子わんだふる=Cún Con Tuyệt Vời
+普段から犬っ子な彼女が\nこの着ぐるみに身を包めばどうなるのか……。\nそれはもう、わんだふるに可愛いに決まっている！=Một cô gái bình thường đã giống cún con,\nnếu mặc thêm bộ đồ thú này thì sẽ ra sao...?\nChắc chắn là sẽ đáng yêu cực kỳ tuyệt vời rồi!
+わっふん♪　犬っ子ホノカだぞ！\nナデナデ可愛がってほしいわん♪=Gâu♪ Cún con Honoka đây!\nHãy xoa đầu và cưng nựng tôi đi gâu♪
+心を込めて歌います。この旋律が、\nあなたの心を優しく包みますように……=Tôi sẽ hát bằng cả trái tim. Mong rằng giai điệu này,\nsẽ nhẹ nhàng ôm lấy trái tim cậu...
+ワタシはメリッサ！\nトレジャーハンターをやってるんだ～=Tôi là Melissa!\nTôi làm nghề thợ săn kho báu~
+コスチュームきせかえ=Thay Đổi Trang Phục
+着せ替える=Thay Đồ
+コスチュームきせかえ=Thay Đổi Trang Phục
+r:"^武器\(([0-9]+)\)$"=Vũ Khí ($1)
+r:"^おしごと\(([0-9]+)\)$"=Nghề Nghiệp ($1)
+r:"^通常\(([0-9]+)\)$"=Bình Thường ($1)
+着せ替える=Thay Đồ
+sr:"^(.+?)(?:\\\\n)?を入手$"=<cspace\=-0.1em>Nhận $1</cspace>
+
+このスキンを手に入れるには？=Làm sao để nhận skin này?
+
+sr:"^([\S\s]+)はショップで獲得出来ます$"=Nhận $1 tại cửa hàng
+
+コスチューム情報=Thông tin trang phục
+
+勢力=Thế lực
+
+ストーリーを確認=Xem cốt truyện
+
+キャラを確認=<cspace\=-0.05em>Xem nhân vật
+
+闇属性=Bóng Tối
+
+火属性=Lửa
+
+光属性=Ánh Sáng
+
+土属性=Đất
+
+水属性=Nước
+
+無属性=Vô
+
+のコスチューム=Trang phục
+
+メモリアル・ブレザー=Blazer Kỷ Niệm
+
+う～ん……やっぱりこっちの方が\n着慣れてて落ち着くなぁ～……=Ừm... Quả nhiên bộ này quen thuộc hơn, mặc vào thấy yên tâm hơn...

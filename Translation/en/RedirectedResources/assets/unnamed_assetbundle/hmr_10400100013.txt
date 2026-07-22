@@ -1,0 +1,146 @@
+﻿adultui,off
+
+bg,abg10200a
+
+charaload,chara_1,104001000G,ルカ
+
+
+messagetextwindow,on,0.15
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+
+
+messageTextCenter,,<size=48>A few days later.</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+window,on,0.15
+message,ルカ,Ah，Commaaander!<br> ,,vc_10400100013_001_01
+
+window,off
+wait,0.15
+
+asyncseplay,setag3_2,se4000105,0,1,CONT
+
+crossfadeready
+
+
+charascale,chara_1,1.5,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+sestop,setag3_2,1
+
+window,on,0.15
+message,,A few days later，inside the Frontline Base，Luca spotted me and<br>came running at full speed.<br> 
+
+message,,After checking that no one was around，Luca whispered softly in my<br>ear.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,ルカ,Hey，about that match at the brothel the other day...<br> ,,vc_10400100013_002_01
+
+message,<user>,Huh? What's up? You're not gonna say you don't accept losing now，<br>are you?<br> 
+
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ルカ,I was wondering if... maybe you'd let me have a rematch...<br> ,,vc_10400100013_003_01
+
+message,<user>,Didn't we already settle that I won last time?<br> 
+
+asyncseplay,setag3_5,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ルカ,It's not over yet! I've only lost one round in a best of three!<br> ,,vc_10400100013_004_01
+
+message,<user>,Huh? Hold on... since when was it a best of three?<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_6,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ルカ,Actually，let's make it a best of five!<br> ,,vc_10400100013_005_01
+
+message,<user>,Why are you adding more rounds?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_7,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,ルカ,Ehh... but I don't want it to end so soon...<br> ,,vc_10400100013_006_01
+
+asynccharaface,chara_1,FaceShy,STOP
+message,,As she said that，Luca fidgeted and rubbed her thighs. It seemed she<br>had really enjoyed that 'match.'<br> 
+
+message,<user>,...Fine. Whether it's best of five or twelve rounds，I'm game.<br> 
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+asyncseplay,setag3_8,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ルカ,Really? Yay! Today I'm going to defeat you，Commaaander，and<br>become the champion!<br> ,,vc_10400100013_007_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+{
+  "scene": "hmn_10060100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP là nguồn chính; EN asset chỉ dùng để căn chỉnh thứ tự và trường văn bản.",
+    "Noemi gọi 司令官さま là Chỉ Huy; khi thân mật dùng anh theo ngữ cảnh.",
+    "Không có nội dung H18 trong cảnh này; không phát hiện vấn đề consent.",
+    "Dấu phẩy ASCII trong field tiếng Việt đã được tránh hoặc đổi thành U+201A."
+  ],
+  "counts": {
+    "title": 1,
+    "messageTextCenter": 1,
+    "message": 102,
+    "messageTextUnder": 0,
+    "total": 104
+  },
+  "paths": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100003_full\\manifest.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100003_full\\focused_diff.md",
+    "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10060100003.txt"
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 104,
+  "translated_records": 104,
+  "changed_lines": 104,
+  "source_line_count": 1640,
+  "output_line_count": 1640,
+  "source_sha256": "a85ce82859cbfc8aaf95794ae036f467db0bdcf4f0d19ebe92487744878f9c84",
+  "output_sha256": "78247c071d9c1d67d483e9171654b08a9f5f39e34dd9fa60cc1661eda250c791"
+}

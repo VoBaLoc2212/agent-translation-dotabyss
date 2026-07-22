@@ -1,0 +1,44 @@
+{
+  "scene": "hmn_10190100003",
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "summary": "Translated JP source (held in EN asset bundle) to Vietnamese. 1 title + 96 message records, all 97 translatable text fields translated. Structural QA independent-verify PASS: line count 1038=1038, BOM preserved, CRLF preserved, 0 delimiter mismatches, 0 technical-field changes, 0 tag mismatches, 0 placeholder mismatches, 0 ASCII commas inside VI text fields.",
+  "candidate_counts": {
+    "title": 1,
+    "message": 96,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 97,
+  "translated_records": 97,
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "Source EN asset bundle actually contains JP text for this project; ja.json/en.json were JP/blank reference only. Translation driven by asset text field order.",
+    "Title translated to Vietnamese Title Case: 決着！　勝負の行方は……！？ -> Quyết Đấu! Kết Cục Trận Đấu Là……!?",
+    "Commander 司令官 -> Chỉ Huy; male Commander first-person 俺 -> anh; women (Aura/Lucita) first-person アタシ -> tôi; mutual second-person アンタ/おまえ -> cậu; ワタシ -> tôi.",
+    "Speaker names kept unchanged per rules (no explicit mapping): ルシータ, アウラ, <user> (Commander), ルシータ・アウラ (dual).",
+    "Character voices: Aura = confident rival merchant (tôi/cậu, teasing); Lucita = earnest ex-pirate merchant (tôi/anh to Commander, cậu to Aura); Commander =  anh/cậu.",
+    "Placeholders/tags (<br>, voice IDs, chara IDs, scene IDs) preserved exactly; one dropped <br> in message #14 restored to match source tag count.",
+    "All ASCII commas inside VI prose converted to U+201A (‚) to protect delimiter integrity.",
+    "No H18 content in this scene; no adult-content handling needed. No kept-English text records.",
+    "Manifest, focused_diff.md, qa_log.json and generate_vi.py written to work/hmn_10190100003_full."
+  ],
+  "source_sha256": "fac136f0565bc1081bef735d00444b1c3ecd97806c07dd33e412c04eddb258c4",
+  "output_sha256": "bf3b2670afbc4b1ea8c4035ff03b38a863f3e759c0098b2b78810e08cb055709",
+  "changed_lines": 97,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1038,
+    "vi": 1038,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0
+}

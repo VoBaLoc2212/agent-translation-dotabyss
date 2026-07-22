@@ -1,0 +1,612 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+cameramove,LinearTarget,X,-100,0
+
+charaload,chara_1,102001000G,ラヴェリア
+charamove,chara_1,Set,X,-200,0
+
+charaload,chara_2,300201000,アリシア
+charamove,chara_2,Set,X,600,0
+
+charaface,chara_1,FaceFun
+
+charaface,chara_2,FaceUnique01
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,Đến Chiến Trường Quyết Định……!
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0036,0.75,1
+
+
+
+
+charashow,chara_1,0.3
+
+seplay,setag1_1,se4400021,0,1
+
+wait,1
+
+seplay,setag1_2,se4400137,0,1
+
+wait,1
+
+asynccharareaction,chara_1,Nod,1,STOP
+window,on,0.15
+message,ラヴェリア,Được rồi‚ báo cáo của chuyến thám hiểm trước đã tổng hợp xong. Anh‚<br>anh có thể xác nhận giúp em được không?<br> ,,vc_10200100002_001_01
+
+message,<user>,Ừm… ừ‚ không có vấn đề gì. Vậy là chốt rồi‚ Alicia‚ gửi cho các<br>nước đi!<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_3,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+message,ラヴェリア,Này‚ này‚ anh ơi‚ anh có thể qua loa thế không?<br> ,,vc_10200100002_002_01
+
+message,<user>,Anh đã xem nội dung rồi. Anh cũng biết em giỏi thế nào‚<br>Laveria. Đây gọi là tiết kiệm thời gian.<br> 
+
+message,<user>,Nếu phải nói thì‚ Laveria… anh nghĩ em hơi tự khiêm tốn<br>về thành tích của mình đấy.<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_4,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ラヴェリア,Ồ? Anh đọc kỹ thế cơ à. Đúng là Chỉ Huy<br>có khác.<br> ,,vc_10200100002_003_01
+
+charaface,chara_1,FaceHappy
+
+asynccharaface,chara_1,FaceFun,STOP,2
+message,ラヴェリア,Vậy nhé‚ Alicia‚ việc này giao cho em. Chỉ Huy đã<br>duyệt rồi.<br> ,,vc_10200100002_004_01
+
+window,off
+wait,0.15
+
+asynccameramove,LinearTarget,X,100,1,STOP
+
+asynccharashow,chara_2,0.3,STOP,0.5
+asynccharamove,chara_2,LinearTarget,X,500,0.3,STOP,0.5
+
+asyncseplay,setag1_5,se4800004,1,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP,1
+asynccharaemo,chara_2,Laugh,STOP,1
+window,on,0.15
+message,アリシア,Vâng‚ em sẽ nộp! Mọi người đã vất vả rồi!<br> ,,vc_10200100002_005_01
+
+window,off
+wait,0.15
+
+asynccharaface,chara_2,EyeOpen,STOP
+asynccharaface,chara_2,FaceNormal,STOP
+
+asynccameramove,LinearTarget,X,-100,1,STOP
+
+asynccharahide,chara_2,0.3,STOP
+asynccharamove,chara_2,LinearTarget,X,600,0.3,STOP
+
+window,on,0.15
+message,<user>,Phần hôm nay cuối cùng cũng xong… Cảm ơn em‚ Laveria‚ em giúp đỡ nhiều lắm.<br> 
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,Em quen mấy việc giấy tờ kiểu này rồi. Dễ ợt thôi.<br> ,,vc_10200100002_006_01
+
+message,<user>,Ra thế. Nhưng em vốn làm công việc giấy tờ cơ mà‚<br>tại sao giờ lại muốn chiến đấu như một chiến binh?<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Đó là điều cần thiết để bảo vệ đồng đội. Anh cũng nghĩ vậy mà‚<br>đúng không anh?<br> ,,vc_10200100002_007_01
+
+message,<user>,Ừm… Còn anh‚ giống như bị giao nhiệm vụ ấy. Còn cái cảm giác<br>trách nhiệm như em… anh không chắc.<br> 
+
+message,<user>,Thôi nào. Này Laveria‚ đây là thưởng hôm nay của em.<br>Cũng không nhiều vàng‚ nhưng hãy nhận lấy.<br> 
+
+asyncseplay,setag1_6,se4400068,0,1,CONT
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_7,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Hả!? Em không cần thưởng đâu! Em chỉ giúp một tay thôi mà!<br> ,,vc_10200100002_008_01
+
+message,<user>,Anh đã nhờ em làm việc ngoài phận sự. Không trả thưởng thì anh<br>thấy áy náy lắm.<br> 
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Nhưng… cảm giác nhận tiền dù chẳng làm được gì nhiều thì…<br> ,,vc_10200100002_009_01
+
+message,<user>,Hãy coi như là tấm lòng của anh. Em cứ tiêu vào sở thích hay<br>thứ gì em thích cũng được.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,0.1
+
+asyncseplay,setag1_8,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,0.2
+asynccharaface,chara_1,FaceNormal,STOP,0.2
+
+asynccharaface,chara_1,EyeOpen,STOP,4.8
+asynccharaface,chara_1,FaceNormal,STOP,4.8
+message,ラヴェリア,Đồ em thích‚ hử… Được rồi‚ em sẽ nhận với lòng biết ơn.<br> ,,vc_10200100002_010_01
+
+message,<user>,Tốt. Vẫn còn nhiều báo cáo chưa xử lý… Em có thể giúp anh<br>ngày mai và cả ngày mốt được không?<br> 
+
+asyncseplay,setag1_9,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,3
+asynccharaface,chara_1,FaceNormal,STOP,3
+
+asynccharaface,chara_1,EyeOpen,STOP,5
+asynccharaface,chara_1,FaceNormal,STOP,5
+
+message,ラヴェリア,Ngày mai lẫn ngày mốt cơ à… Thôi‚ được. Em sẽ ở lại<br>Căn Cứ Tiền Tuyến một thời gian.<br> ,,vc_10200100002_011_01
+
+message,<user>,Đúng ý anh! Em đúng là cứu tinh!<br> 
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,Thật tình‚ anh đúng là Chỉ Huy hay sai khiến người khác. Hôm nay<br>em xin phép về đây. Mọi người vất vả rồi!<br> ,,vc_10200100002_012_01
+
+window,off
+wait,0.15
+
+seplay,setag1_10,se4010003,0,1
+
+asynccharahide,chara_1,0.3,STOP,0
+
+asynccharamove,chara_1,LinearTarget,X,100,0.3,STOP
+
+window,on,0.15
+message,<user>,Được‚ thế là có thêm một người lo được việc giấy tờ. Anh nghĩ<br>chúng ta sẽ vượt qua được tình hình này thôi.<br> 
+
+window,off
+wait,0.15
+
+charamove,chara_2,Set,X,0,0
+
+asynccharashow,chara_2,0.3,STOP
+asynccharamove,chara_2,LinearTarget,X,-100,0.3,STOP
+
+charaface,chara_2,FaceAnger
+
+asyncseplay,setag1_11,se4800016,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP,0.6
+asynccharaemo,chara_2,BePeevish,STOP,0.6
+window,on,0.15
+message,アリシア,Ôi‚ Chỉ Huy. Laveria cũng bận mà‚ anh đừng ép<br>cô ấy quá đấy.<br> ,,vc_10200100002_013_01
+
+message,<user>,Anh có trả thù lao đàng hoàng cơ mà‚ nên không tính là ép buộc đúng không?<br> 
+
+message,<user>,Hơn nữa‚ Laveria dù không trả tiền cũng sẽ giúp anh. Cô ấy thật đáng tin cậy.<br> 
+
+charaface,chara_2,FaceHappy
+
+asynccharareaction,chara_2,Nod,1,STOP
+message,アリシア,Vâng‚ chúng em thực sự biết ơn Laveria. Mạnh mẽ và đáng tin trên<br>chiến trường‚ lại còn giỏi giấy tờ nữa……<br> ,,vc_10200100002_014_01
+
+message,<user>,Anh ước gì có thêm năm Laveria nữa. Sẽ cho họ luân phiên trực ở<br>phòng chỉ huy.<br> 
+
+charaface,chara_2,FaceSad
+
+asynccharareaction,chara_2,Shake,1,STOP
+message,アリシア,Ư… thế thì em thành thừa thãi mất rồi……<br> ,,vc_10200100002_015_01
+
+
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+
+bg,abg18000b
+
+cameramove,LinearTarget,X,0,0
+
+charamove,chara_2,Set,X,400,0
+
+charamove,chara_1,Set,X,-400,0
+
+charahide,chara_2,0
+
+wait,1
+
+fade,In,Black,1
+
+wait,1
+
+crossfadeready
+
+bg,abg18000a
+
+crossfade,1,0,0,1,1
+wait,1
+
+wait,1
+
+crossfadeready
+
+bg,abg11000a
+
+crossfade,1,0,0,1,1
+wait,1
+
+wait,1
+
+bgmplay,bgmtag1_2,bgm0035,0.75,1
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharashow,chara_2,0.3,STOP
+
+
+seplay,setag1_12,se4400021,0,1
+
+wait,1
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_13,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+window,on,0.15
+message,アリシア,Laveria‚ cảm ơn em đã giúp đỡ hôm nay nữa.<br> ,,vc_10200100002_016_01
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,Em đã hứa với anh. Với lại em rảnh‚ nên giúp một tay không<br>thành vấn đề.<br> ,,vc_10200100002_017_01
+
+message,<user>,Nhờ em mà‚ Laveria‚ chúng ta có thể tránh được làm đêm. Hôm nay<br>cũng nhờ em! Tiểu thư Laveria mạnh mẽ‚ giỏi giấy tờ lại xinh đẹp!<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_14,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,2.5
+message,ラヴェリア,Đừng có nịnh hót kỳ cục. Nào‚ đưa file tiếp theo cho anh đi.<br> ,,vc_10200100002_018_01
+
+message,<user>,Được rồi‚ anh nhờ em đấy‚ Laveria.<br> 
+
+charaface,chara_2,FaceSad
+
+asyncseplay,setag1_15,se4800014,0,1,CONT
+
+asynccharaemo,chara_2,Silence,STOP
+message,アリシア,May quá……<br> ,,vc_10200100002_019_01
+
+asyncseplay,setag1_16,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Hử? Có chuyện gì sao‚ Alicia?<br> ,,vc_10200100002_020_01
+
+charaface,chara_2,FaceUnique06
+
+asyncseplay,setag1_17,se4800003,0,1,CONT
+
+asynccharaemo,chara_2,Twinkle,STOP
+message,アリシア,Em mạnh mẽ‚ ngầu lại còn được Chỉ Huy dựa dẫm……<br>Laveria‚ em luôn nghĩ chị thật tuyệt vời!<br> ,,vc_10200100002_021_01
+
+
+charaface,chara_1,FaceFun
+
+asynccharaface,chara_1,EyeOpen,STOP,3.5
+asynccharaface,chara_1,FaceNormal,STOP,3.5
+message,ラヴェリア,Haha‚ em có gì đâu. Chỉ là làm được hơi nhiều việc một chút thôi.<br> ,,vc_10200100002_022_01
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_18,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,2
+asynccharaface,chara_1,FaceNormal,STOP,2
+
+asynccharaface,chara_1,EyeClose,STOP,5.1
+asynccharaface,chara_1,FaceNormal,STOP,5.1
+message,ラヴェリア,Điểm yếu của em cũng nhiều lắm. Hôm nọ lúc chiến đấu em nóng quá<br>nên đã lao lên quá đà đúng không?<br> ,,vc_10200100002_023_01
+
+charaface,chara_2,FaceSad
+message,アリシア,Đó đâu tính là khuyết điểm! Em cũng muốn trở thành như chị‚ tiểu thư Laveria……<br> ,,vc_10200100002_024_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharaface,chara_1,FaceUnique01,STOP,2.3
+message,ラヴェリア,Alicia cứ là chính em là được. Bên cạnh anh cần có một người như em.<br> ,,vc_10200100002_025_01
+
+
+charaface,chara_2,FaceSurprise
+
+asyncseplay,setag1_19,se4800010,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Exclamation,STOP
+message,アリシア,Hể…… thật vậy sao?<br> ,,vc_10200100002_026_01
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Ừ‚ em làm không khí vui hơn mà. Chỉ có mình anh cau có thì chẳng<br>thể chỉ huy dễ dàng được.<br> ,,vc_10200100002_027_01
+
+charaface,chara_2,FaceFun
+
+asyncseplay,setag1_20,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,アリシア,Thật ư? Chỉ Huy‚ hóa ra em có ích thật!<br> ,,vc_10200100002_028_01
+
+message,<user>,Ừ‚ em có ích đấy. Nói sao nhỉ…… em kiểu như linh vật của<br>căn cứ ấy.<br> 
+
+charaface,chara_2,FaceSad
+
+asynccharareaction,chara_2,Shake,1,STOP
+message,アリシア,Ư… linh vật……<br> ,,vc_10200100002_029_01
+
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_21,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,1.6
+message,ラヴェリア,Fufu… ý là em là một sự hiện diện dễ thương đấy‚ Alicia.<br> ,,vc_10200100002_030_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Này‚ anh có chuyện muốn hỏi. Anh ơi‚ anh hình dung em là<br>kiểu người như thế nào?<br> ,,vc_10200100002_031_01
+
+message,<user>,Hử? Cách anh nhìn em á? Thì…<br> 
+
+message,<user>,Chiến đấu xuất sắc‚ tâm lý vững vàng ngay cả trong khủng hoảng‚<br>và là một chiến binh được mọi người tin tưởng.<br> 
+
+message,<user>,Em có thói quen tập trung vào chiến đấu nên với tư cách chỉ huy anh<br>kỳ vọng em phát triển thêm. Nói chung thì‚ em là một mỹ nhân đáng tin.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_22,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,Đáng tin‚ hử. Đánh giá cao thật đấy……<br> ,,vc_10200100002_032_01
+
+message,<user>,Anh định khen cao thế mà trông em không vui lắm nhỉ.<br> 
+
+
+charaface,chara_1,FaceHappy
+message,ラヴェリア,Không‚ em đang có động lực đây. Em phải luôn là chỗ dựa đáng tin cho anh‚ anh ơi.<br> ,,vc_10200100002_033_01
+
+charaface,chara_2,FaceSad
+
+asyncseplay,setag1_23,se4800015,0,1,CONT
+
+asynccharaemo,chara_2,Dull,STOP
+
+asynccharaface,chara_2,FaceFun,STOP,1
+
+message,アリシア,Em cũng muốn trở thành một Phó Chỉ Huy đáng tin…… Nếu có dịp‚<br>hãy kể em nghe thêm nhé!<br> ,,vc_10200100002_034_01
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_24,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,アリシア,À‚ lần tới sao không cùng mọi người<br>từ Lux Nova đi chơi phố?<br> ,,vc_10200100002_035_01
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Ừ‚ nghe vui đấy. Nhất định hãy mời em nhé.<br> ,,vc_10200100002_036_01
+
+charaface,chara_2,FaceUnique01
+
+charareaction,chara_2,Nod,1
+message,アリシア,Vâng‚ chắc chắn! Nghe nói có cửa hàng mới khai trương nên em sẽ dẫn anh đi!<br> ,,vc_10200100002_037_01
+
+
+asyncseplay,setag1_25,se4800014,0,1,CONT
+
+charaemo,chara_1,Silence
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+message,ラヴェリア,Cửa hàng mới…… là kiểu cửa hàng gì vậy?<br> ,,vc_10200100002_038_01,chara_1
+
+charaface,chara_2,FaceUnique07
+
+asyncseplay,setag1_26,se4800013,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Spirits,STOP
+message,アリシア,Là một cửa hàng đầy những món đồ dễ thương ạ. Em cũng đang mong được đi cùng!<br> ,,vc_10200100002_039_01
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_27,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,…Một cửa hàng đầy đồ dễ thương……! Vậy là cuối cùng cửa hàng đó……!<br> ,,vc_10200100002_040_01
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Được rồi! Không phải lúc tán gẫu! Quay lại làm việc thôi!<br> ,,vc_10200100002_041_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,Sao thế Laveria‚ tự dưng lại có động lực thế?<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charamove,chara_1,Set,X,0,0
+
+charahide,chara_2,0
+
+camerazoom,1.5,0,LinearTarget
+
+cameramove,LinearTarget,Y,200,0
+
+blur,on,BACK,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+linework,on,White,Light
+
+charaface,chara_1,FaceAnger
+window,on,0.15
+message,ラヴェリア,Ít nói đi‚ làm nhiều lên! Ta sẽ xong nhanh thôi!<br> ,,vc_10200100002_042_01
+
+linework,off,White,Light
+
+message,<user>,Đ-được rồi…… Sao anh lại thế? Động lực kinh khủng thật……<br> 
+
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_2,0.5,0
+
+transitionFade,Tra01,out,black,0.5
+
+camerazoom,1,0,LinearTarget
+
+cameramove,LinearTarget,Y,0,0
+
+blur,off,BACK,0
+
+bg,abg11200a
+
+charahide,chara_1,0
+
+charamove,chara_1,Set,X,-100,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,1
+
+bgmplay,bgmtag1_3,bgm0035,0.5,1
+
+transitionFade,Tra02,in,black,0.5
+
+window,on,0.15
+message,<user>,A‚ cuối cùng cũng được tự do. Không có sự giúp đỡ của Laveria thì<br>anh không biết mọi chuyện sẽ ra sao……<br> 
+
+message,<user>,Hử……? Người ở kia là……<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charashow,chara_1,0
+
+cameramove,LinearTarget,Y,150,0
+
+camerazoom,1.3,0,LinearTarget
+
+blur,on,BACK,0
+
+crossfade,1,1,1,1.3,1.3
+wait,1
+
+asyncseplay,setag1_28,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+window,on,0.15
+message,ラヴェリア,……<br> ,,vc_10200100002_043_01
+
+message,<user>,Laveria‚ hử. Trông cô ấy nghiêm túc lạ thường…… đang làm gì thế nhỉ?<br> 
+
+window,off
+wait,0.15
+
+charaface,chara_1,FaceSad
+
+charamove,chara_1,EaseOutTarget,X,0,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-300,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-200,0.3
+
+asynccharareaction,chara_1,Nod,1,STOP
+window,on,0.15
+message,ラヴェリア,Đ-được rồi‚ không ai nhìn thấy chứ? Không ai phát hiện ra em chứ……?<br> ,,vc_10200100002_044_01
+
+message,<user>,Cô ấy có vẻ đang nhìn quanh đầy bồn chồn…… Nhưng hơn là cảnh giác‚<br>trông cô ấy như đang nôn nao……<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag1_29,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,Có thật là ổn không……? Nhưng…… chỉ một lần‚ chỉ một chút thôi……!<br> ,,vc_10200100002_045_01
+
+window,off
+wait,0.15
+
+charaface,chara_1,FaceSad
+
+charamove,chara_1,EaseOutTarget,X,100,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-400,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-100,0.3
+
+window,on,0.15
+message,<user>,Cô ấy đang len lỏi đi trong khi liếc quanh…… Đáng ngờ‚ quá đỗi<br>lộ liễu đáng ngờ!<br> 
+
+message,<user>,Laveria định làm gì giữa phố phường thế này……?<br> 
+
+message,<user>,…Anh có nên đi theo không? Nếu cô ấy gặp rắc rối thì anh không thể bỏ mặc được.<br> 
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_30,se4800003,6,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP,6
+message,ラヴェリア,Đ-được rồi‚ ta đi đến chiến trường quyết định……! Fufu‚ fufufufufu!<br> ,,vc_10200100002_046_01
+
+window,off
+bgmstop,bgmtag1_3,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

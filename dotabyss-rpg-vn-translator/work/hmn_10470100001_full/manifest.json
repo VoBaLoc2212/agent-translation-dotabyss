@@ -1,0 +1,82 @@
+{
+  "scene": "hmn_10470100001",
+  "source_jp": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10470100001/ja.json",
+  "source_en_novel": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10470100001/en.json",
+  "source_en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10470100001.txt",
+  "output_vi": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10470100001.txt",
+  "detection": "EN-asset-is-English with title still JP (en.json has English values, asset text fields are English, title field is JP)",
+  "record_counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 80
+  },
+  "line_count_en": 1334,
+  "line_count_vi": 1334,
+  "bom": "both have BOM (EF BB BF)",
+  "newline": "LF (no CRLF)",
+  "ascii_comma_in_text": 0,
+  "tag_mismatches": 0,
+  "delimiter_mismatches": 0,
+  "placeholder_mismatches": 0,
+  "kept_text_lines": [],
+  "independent_verify": {
+    "scene": "hmn_10470100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 79,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 80,
+    "translated_records": 80,
+    "changed_lines": 80,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1334,
+      "vi": 1334,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "93e8194317cef0137a46323b3855db5d78d757201feda092125d8059d8f77fc7",
+    "output_sha256": "6246c1e4e4a16056185160e473d13d09a730e516181c13ad6279cd090630de2c"
+  },
+  "characters": {
+    "メレム (Merem)": "fortune teller, uses tôi/Chỉ Huy, polite but familiar tone",
+    "アリシア (Alicia)": "secretary/companion, uses em/Chỉ Huy addressing, energetic",
+    "<user> (Chỉ Huy/Commander)": "uses tôi/anh, casual male voice"
+  },
+  "terminology": {
+    "Commander / 司令官": "Chỉ Huy",
+    "Abyss / 大穴": "Đại Huyệt",
+    "scrying basin": "bát nước thủy chiếu / bát thủy chiếu",
+    "Dark Star": "Ngôi Sao Tối",
+    "House of Divination": "Tiệm Bói Toán",
+    "grimoire": "ma đạo thư"
+  },
+  "addressing": {
+    "Alicia → Commander": "em → Chỉ Huy / anh",
+    "Commander → Alicia": "anh → em",
+    "Merem → Commander": "tôi → anh / Chỉ Huy / Ngôi Sao Tối",
+    "Commander → Merem": "tôi → chị (later respectful)"
+  },
+  "notes": [
+    "All characters confirmed 18+ per project rule — adult/romantic content translated directly",
+    "Fullwidth comma ，(U+FF0C) used in VI text fields matching EN asset convention",
+    "Title translated to Vietnamese Title Case: Chào Mừng Đến Tiệm Bói Toán Của Merem",
+    "JP title source: ようこそ、メレムの占い館へ (Welcome to Merem's Fortune-Telling Shop)",
+    "EN asset text fields used as structural authority for <br> counts and tag preservation",
+    "Built with field-index generator (split by , max 5) preserving trailing voice key/chara fields"
+  ],
+  "qa_timestamp": "2026-07-21T00:00:00",
+  "status": "PASS"
+}

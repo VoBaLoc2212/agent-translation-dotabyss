@@ -1,0 +1,545 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg12000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,103401000G,カーラ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Huấn Luyện Khắc Nghiệt Cận Kề Cái Chết
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1.3,0,CONT,0
+
+asynccharashowalpha,chara_1,1,0.3,CONT,0
+
+window,on,0.15
+message,<user>,Thế thì... cạn ly!<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_1,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Vâng‚ Chỉ Huy.<br>...cạn ly!<br> ,103401000G,vc_10340100002_001_01,chara_1
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_2,se4400227,0,1,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,<user>,Xin lỗi‚ chào mừng chỉ có hai chúng ta trong buổi tiệc này thôi.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,カーラ,Không có gì đâu. Em thực sự rất vui vì được Chỉ Huy đón tiếp như thế này‚<br>Chỉ Huy ơi!<br> ,103401000G,vc_10340100002_002_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Lúc em được phân công về Đội Cảnh Vệ‚ họ cũng đã bày một bữa nhậu<br>như thế này cho em.<br> ,103401000G,vc_10340100002_003_01,chara_1
+
+message,<user>,Hóa ra đó thật sự là một truyền thống.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,カーラ,Vâng. Sau khi vượt qua khóa huấn luyện khắc nghiệt‚ đó là khoảnh khắc em<br>cuối cùng được công nhận là một người lính...<br> ,103401000G,vc_10340100002_004_01,chara_1
+
+message,<user>,Huấn luyện của Eldorana khắc nghiệt đến thế sao?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Không hẳn là Eldorana‚ mà có lẽ Đội Cảnh Vệ Cộng Hòa mới là nơi<br>khắc nghiệt đặc biệt.<br> ,103401000G,vc_10340100002_005_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Eldorana là một quốc gia của những người đi biển‚ và hầu hết biên giới của họ là biển. Và<br>nhiệm vụ của Đội Cảnh Vệ là bảo vệ biển và bờ biển.<br> ,103401000G,vc_10340100002_006_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Tân binh phải chịu đựng huấn luyện khắc nghiệt để sinh tồn qua hải chiến‚ nơi cái chết<br>luôn cận kề‚ trước khi được phép nhập ngũ.<br> ,103401000G,vc_10340100002_007_01,chara_1
+
+message,<user>,Hừm‚ nhưng em đã trải qua kiểu huấn luyện cụ thể nào?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_9,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,...họ ép cậu vượt qua giới hạn tâm trí‚ và cảm giác như cả nhân cách của cậu<br>được tái tạo thành một người lính.<br> ,103401000G,vc_10340100002_008_01,chara_1
+
+message,<user>,Chỉ nghe thôi cũng thấy sợ. Anh chắc chắn không thể chịu nổi như thế.<br> 
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,カーラ,Nhưng Chỉ Huy ơi‚ sau huấn luyện kiểu Đội Cảnh Vệ‚ em nghĩ anh sẽ chẳng bao giờ<br>quấy rối tình dục ai nữa đâu.<br> ,103401000G,vc_10340100002_009_01,chara_1
+
+message,<user>,Đừng có tái tạo nhân cách của anh chỉ để ngăn quấy rối!<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Fufu‚ xin lỗi. Em chỉ muốn trả đũa anh một chút nãy giờ thôi.<br> ,103401000G,vc_10340100002_010_01,chara_1
+
+message,<user>,Thật tình... Nhưng Carla‚ em có vẻ đã bớt căng thẳng hơn chút đỉnh.<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_12,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,カーラ,Á... em xin lỗi nhiều! Tại Chỉ Huy rất dễ nói chuyện‚<br>nên em mới thế‚ Chỉ Huy ơi...<br> ,103401000G,vc_10340100002_011_01,chara_1
+
+message,<user>,Thế cũng tốt mà‚ phải không? Đấy là mục đích của một buổi tiệc chào đón<br>kiểu Eldorana‚ đúng không?<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_13,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,カーラ,...Vâng. Chúng em uống như thế này để thân thiết với đồng đội mới.<br> ,103401000G,vc_10340100002_012_01,chara_1
+
+message,<user>,Vậy là việc bày ra buổi này cũng có ý nghĩa. Từ nay về sau‚ cứ thoải mái<br>nói chuyện suồng sã như thế nhé.<br> 
+
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Chỉ Huy... em cảm ơn anh rất nhiều!<br> ,103401000G,vc_10340100002_013_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,カーラ,...em không bao giờ tưởng tượng lúc mới đến rằng em có thể nói chuyện với<br>Chỉ Huy như thế này.<br> ,103401000G,vc_10340100002_014_01,chara_1
+
+message,<user>,Em có nghĩ anh chỉ là một Chỉ Huy hay quấy rối tình dục không?<br> 
+
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,カーラ,K-không‚ à‚ k-không có chuyện đó đâu! Em-em nghĩ anh là một<br>Chỉ Huy tuyệt vời.<br> ,103401000G,vc_10340100002_015_01,chara_1
+
+message,<user>,Này‚ chối gay gắt thế khiến trông như em đang nói dối đấy.<br> 
+
+message,<user>,Đây là bữa nhậu. Đừng bận tâm đến lễ nghi. Nào‚ hãy nói ra<br>suy nghĩ thật của em đi.<br> 
+
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_16,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,...À‚ thành thật mà nói‚ em có hơi bất ngờ.<br> ,103401000G,vc_10340100002_016_01,chara_1
+
+message,<user>,Anh cũng nghĩ vậy. À‚ thế cũng tự nhiên thôi. Nói gì thì nói‚ em cũng đã chịu đựng khá tốt.<br> 
+
+message,<user>,Nếu em là một người lính nghiêm túc‚ anh nghĩ có khi nắm đấm đã bay vào mặt anh rồi.<br> 
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_17,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,Không! Em sẽ không bao giờ đánh Chỉ Huy.<br> ,103401000G,vc_10340100002_017_01,chara_1
+
+message,<user>,Không tưởng tượng nổi‚ hử? Carla‚ em đúng là hình mẫu của đức hạnh. Thật sự là một người lính<br>chính trực.<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_18,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,Là vậy sao...?<br> ,103401000G,vc_10340100002_018_01,chara_1
+
+message,<user>,Thế thì tại sao em lại bị điều đến Căn Cứ Tiền Tuyến này? Em có gặp<br>rắc rối ở Eldorana không?<br> 
+
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,カーラ,Em-em không có nghịch ngợm đâu!<br> ,103401000G,vc_10340100002_019_01,chara_1
+
+message,<user>,Đừng giấu nữa‚ đừng giấu nữa. Em có đấm một cấp trên hay quấy rối không? Hay là<br>đá vào hạ bộ một đồng nghiệp đang tán tỉnh em?<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_20,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Em xin nhắc lại: tấn công cấp trên hay đồng nghiệp là chuyện hoàn toàn không thể tưởng tượng nổi!<br> ,103401000G,vc_10340100002_020_01,chara_1
+
+bgmstop,bgmtag1_1,1,0
+
+message,<user>,...Thế thì tại sao em lại ở căn cứ này? Chắc phải có lý do nào đó‚ đúng không?<br> 
+
+bgmplay,bgmtag1_2,bgm0030,0.75,1
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_21,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,カーラ,Thực ra... à...<br> ,103401000G,vc_10340100002_021_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_22,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,Em đang làm nhiệm vụ cảnh vệ và đã đưa một công dân say rượu vào tạm giữ bảo hộ.<br>Em định đưa anh ta về nhà‚ nhưng...<br> ,103401000G,vc_10340100002_022_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,Công dân say rượu đó‚ với những lời dâm dục‚ đã đặt tay lên... lên<br>ngực em...<br> ,103401000G,vc_10340100002_023_01,chara_1
+
+message,<user>,Anh ta đã sờ mó em?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_24,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,カーラ,S-sờ mó!<br> ,103401000G,vc_10340100002_024_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_25,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,カーラ,...Vâng‚ đúng vậy.<br> ,103401000G,vc_10340100002_025_01,chara_1
+
+message,<user>,Nghe hơi kỳ đến từ anh‚ nhưng đó là quấy rối tình dục kinh khủng. Em có bắt được<br>hắn tại trận không?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_26,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,À‚ em bị bất ngờ vì sự việc quá đột ngột‚ và với tư cách người lính thì việc đó<br>không thể tha thứ được‚ nhưng...<br> ,103401000G,vc_10340100002_026_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_27,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,Em đã đấm anh ta hết sức lực.<br> ,103401000G,vc_10340100002_027_01,chara_1
+
+message,<user>,Ồ... nghe có vẻ em đã thực sự cho anh ta một trận.<br> 
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Người lính tấn công thường dân là hoàn toàn không thể tha thứ. Đó là hành vi<br>có thể dễ dàng khiến em bị giải ngũ...<br> ,103401000G,vc_10340100002_028_01,chara_1
+
+message,<user>,Em nói gì thế? Carla‚ em hoàn toàn không sai!<br> 
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,Hả...?<br> ,103401000G,vc_10340100002_029_01,chara_1
+
+message,<user>,Anh ta sờ mó ngực em‚ mà em chỉ đấm một phát thôi‚ đúng không?<br> 
+
+message,<user>,Thế là quá nhẹ. Đáng lẽ em nên đánh anh ta nửa sống nửa chết.<br> 
+
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_30,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,カーラ,Chỉ Huy... em cảm ơn anh.<br> ,103401000G,vc_10340100002_030_01,chara_1
+
+message,<user>,Anh không tha thứ cho kẻ quấy rối tình dục. Người duy nhất được phép<br>quấy rối tình dục ở căn cứ này là anh.<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,カーラ,Ngay cả anh cũng không được‚ Chỉ Huy!<br> ,103401000G,vc_10340100002_031_01,chara_1
+
+message,<user>,Thật đáng tiếc.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+message,<user>,Anh hiểu rồi. Vậy là em bị điều đến Căn Cứ Tiền Tuyến vì họ đã<br>làm lớn chuyện việc em đánh một thường dân.<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_32,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Vâng... Đây là tiền tuyến bảo vệ mọi người.<br> ,103401000G,vc_10340100002_032_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_33,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Em muốn chiến đấu ở đây‚ liều mạng sống của mình‚ và thực sự nhìn lại bản thân.<br> ,103401000G,vc_10340100002_033_01,chara_1
+
+message,<user>,Em đúng là một người rất nghiêm túc. À‚ đó là điều anh thích ở<br>em‚ Carla.<br> 
+
+message,<user>,Anh muốn giao cho em một nhiệm vụ tận dụng phẩm chất đó của em‚<br>nhưng...<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_34,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+window,on,0.15
+message,<user>,Phải. Anh có một đề xuất.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,カーラ,Một nhiệm vụ tận dụng phẩm chất của em... ý anh là sao?<br> ,103401000G,vc_10340100002_034_01,chara_1
+
+message,<user>,Em có thể sẽ bất ngờ về chi tiết. Thế nào‚ nếu em tin<br>anh‚ có muốn thử không?<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncseplay,setag1_36,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asynccharaface,chara_1,EyeOpen,STOP,1
+asynccharaface,chara_1,FaceNormal,STOP,1
+
+asyncseplay,setag1_37,se4800010,0,1,STOP,1
+
+asynccharaemo,chara_1,Exclamation,STOP,1
+
+asynccharaface,chara_1,FaceFun,STOP,3
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,3,STOP
+
+
+window,on,0.15
+message,カーラ,...Vâng‚ em tin anh‚ Chỉ Huy! Làm ơn‚ hãy để em làm!<br> ,103401000G,vc_10340100002_035_01,chara_1
+
+window,off
+bgmstop,bgmtag1_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

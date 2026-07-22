@@ -1,0 +1,26 @@
+{
+  "scene": "hmn_10030100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    {
+      "code": "ADULT_RULE",
+      "message": "All characters confirmed 18+ by project context; adult-adjacent book title translated normally."
+    },
+    {
+      "code": "ADDRESSING",
+      "message": "Marina uses phu quân/em toward Commander per 旦那さま and playful merchant-spouse tone; Commander uses anh/em."
+    }
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 109,
+  "translated_records": 109,
+  "changed_lines": 109,
+  "source_line_count": 2086,
+  "output_line_count": 2086,
+  "source_sha256": "5b318651ebe1e7206c73a2b9789f7916996b4dddc9a8b7a791fc784e967b26b2",
+  "output_sha256": "0a6ed9969794d25faf72511fbb87cdacf61a1d730b1147eda1c617882dafd7c3"
+}

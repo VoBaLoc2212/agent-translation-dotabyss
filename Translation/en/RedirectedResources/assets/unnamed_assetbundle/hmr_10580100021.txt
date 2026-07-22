@@ -1,0 +1,166 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000a
+
+charaload,chara_1,105801000G,クレハ
+
+charaload,chara_2,105801000X,クレハ<娼館>
+
+charaload,chara_3,300301000,ルディア
+
+fade,In,Black,0.5
+
+charapose,chara_3,1
+
+seplay,seopening_tag,se5030001
+title,For the Sake of My Beloved Darling...
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0027,0.75,1
+
+
+
+
+
+
+
+asynccharaface,chara_3,FaceSad,STOP
+
+charashow,chara_3,0.5
+window,on,0.15
+message,<user>,The brothel's short-staffed，huh.<br> 
+
+asynccharareaction,chara_3,nod,1,STOP
+
+asynccharaface,chara_3,FaceSad,STOP
+message,ルディア,We're still recruiting，so it should sort itself out eventually...<br>but a short-term shortage is unavoidable.<br> ,,vc_10580100021_001_01
+
+charapose,chara_3,1
+
+asyncseplay,setag1_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_3,Panic,CONT
+
+asynccharareaction,chara_3,shake,0.5,STOP
+
+asynccharaface,chara_3,FaceSad,STOP
+message,ルディア,But I can't ask everyone to overwork themselves either.<br>This brothel only works because of everyone's cooperation.<br> ,,vc_10580100021_002_01
+
+message,<user>,But without the brothel，this base can't function properly.<br>That's a real problem...<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charahide,chara_3,0
+
+charamove,chara_3,Set,X,400,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+window,on,0.15
+message,クレハ,Darling.<br>Might I be of help?<br> ,,vc_10580100021_003_01
+
+message,,Turning at the voice from behind，<br>he finds Kureha watching the two of them with a serious expression.<br> 
+
+message,<user>,Kureha...!?<br>How long have you been there!?<br> 
+
+asyncseplay,setag1_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT
+
+asynccharareaction,chara_1,shake,1,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,クレハ,I didn't mean to eavesdrop，<br>but I heard your troubled voice，darling，and I just...<br> ,,vc_10580100021_004_01
+
+message,<user>,Well，I am having some trouble，but...<br>when you say you could help，don't tell me...<br> 
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,クレハ,Yes. If you'll have me，<br>I would like to work here.<br> ,,vc_10580100021_005_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+message,<user>,Work，here? This is a brothel，you know?<br>Do you really understand what that means?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,クレハ,In Hourai terms — a pleasure district，is it not?<br>Of course，I understand fully.<br> ,,vc_10580100021_006_01
+
+asynccharaface,chara_1,FaceFun,STOP
+message,クレハ,I am a daughter of the oni-folk. My body is sturdy，<br>so serving customers should burden me less than most.<br> ,,vc_10580100021_007_01
+
+message,<user>,That may well be true... but are you sure?<br>Kureha，didn't you come to this base to marry me?<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,クレハ,Of course.<br>That's precisely why I wish to be of help to you，darling.<br> ,,vc_10580100021_008_01
+
+asyncseplay,setag1_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,クレハ,No matter what happens，my heart will never leave your side.<br>Please，allow me to prove it.<br> ,,vc_10580100021_009_01
+
+message,<user>,Alright.<br>I'm sorry，Kureha，please lend me your strength.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+asyncseplay,setag1_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,クレハ,Yes...!<br>I will surely live up to your expectations，darling.<br> ,,vc_10580100021_010_01
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

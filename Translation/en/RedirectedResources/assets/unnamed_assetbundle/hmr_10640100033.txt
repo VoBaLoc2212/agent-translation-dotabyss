@@ -1,0 +1,214 @@
+﻿
+fade,Out,Black,0
+
+adultui,off
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,106401000G,ラモーナ
+
+charaface,chara_1,FaceSurprise
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0031,1
+
+asyncshake,CHARA,chara_1,20,0,0.8,2,off,off,0,off,CONT,0
+
+asyncseplay,setag3_1,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ラモーナ,...Huh? What... what did I...?<br> ,106401000G,vc_10640100033_001_01,chara_1
+
+message,,Ramona woke up and glanced around restlessly. Her eyes were no<br>longer moist—the fruit's effect seemed to have worn off.<br> 
+
+message,,I'd straightened her disheveled clothes while she slept，but she still<br>felt the physical aftereffects of our lovemaking.<br> 
+
+message,<user>,Look，Ramona. This is hard for me to say，but...<br> 
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg18200a
+
+scale,BACK,,0,1,1,Set
+
+fade,In,Black,0.1
+
+window,on,0.15
+message,,I explained to her what had just happened—that the pink fruit she'd<br>eaten likely had an aphrodisiac effect and made her lose control...<br> 
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_1,FaceSad
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+fade,In,Black,1
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag3_2,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+window,on,0.15
+message,ラモーナ,O-oh，I see...<br> ,106401000G,vc_10640100033_002_01,chara_1
+
+message,<user>,I'm sorry I couldn't stop and ended up going all the way.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_3,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ラモーナ,No，no! If that's the case，I'm the one who should apologize! I<br>committed a terrible blunder toward you，Commander. And...<br> ,106401000G,vc_10640100033_003_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag3_4,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ラモーナ,From what I can tell，that fruit didn't so much act as an<br>aphrodisiac—it just seemed to remove my inner inhibitions...<br> ,106401000G,vc_10640100033_004_01,chara_1
+
+message,<user>,Your inner inhibitions?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_5,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ラモーナ,It seems I ended up doing... the things I usually imagine doing with<br>you，Commander...<br> ,106401000G,vc_10640100033_005_01,chara_1
+
+message,<user>,Is that so? In your imagination...?<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,So Ramona's been having those kinds of fantasies all along? She's<br>surprisingly... a closet pervert，huh.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_6,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+window,on,0.15
+message,ラモーナ,Yes... I've always wanted you to release a lot inside me... So，you have<br>nothing to apologize for，Commander.<br> ,106401000G,vc_10640100033_006_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-40,1,1,off,0,CONT
+
+asyncseplay,setag3_7,se4800002,0,1,CONT,0
+
+asynccharaemo,chara_1,Heart,CONT,0
+
+
+message,ラモーナ,My belly is still warm... I feel so happy.<br> ,106401000G,vc_10640100033_007_01,chara_1
+
+message,,Ramona dreamily placed a hand on her lower belly. Seeing her so<br>satisfied，I felt the depth of her love.<br> 
+
+message,,Then perhaps all of this was for the best.<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_8,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ラモーナ,The sun is starting to set. It's going to get cold... Um，would you like<br>to go to your room together，Commander?<br> ,106401000G,vc_10640100033_008_01,chara_1
+
+message,,As she invited me，Ramona's eyes were moist again，just like when she<br>had eaten that pink fruit.<br> 
+
+message,,So this was her true nature—a naughty girl. I felt myself falling for<br>her even more.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

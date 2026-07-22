@@ -1,0 +1,464 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10470100022
+
+charaload,chara_1,104701000X,メレム
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10470100022_001_01,1
+
+
+
+
+window,on,0.15
+message,,Merem laid the male customer on the bed，spread her legs wide，and<br>straddled him.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+message,メレム,*sigh*... Even though this is the most accurate way to see the future，<br>I still get nervous no matter how many times I do it...<br> ,,vc_10470100022_001_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,0.5
+
+asyncl2dmotion,ExEmotion00,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+message,メレム,No，I have to be confident! As a professional fortune teller，I'm<br>guiding my customer to a wonderful future.<br> ,,vc_10470100022_002_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmessage,メレム,Th-then... allow me to begin the fortune telling...<br> ,,vc_10470100022_003_01
+
+l2dmotion,Scene02
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10470100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+l2dmessage,メレム,Mmph! *pant*，Mmph! s-so... hot...<br> ,,vc_10470100022_004_01
+
+message,,The male customer's member hardened rapidly. He said，his breath<br>rough，'This is fortune telling，right?'<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,13
+
+asyncl2dmotion,EyeOpen01,on,STOP,13
+
+l2dmessage,メレム,Mmph! o-of course... j-just a little more... let me prepare... Ngh!<br> ,,vc_10470100022_005_01
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7
+
+asyncl2dmotion,EyeEmotion02,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,7
+
+message,メレム,Even just touching like this lets me see the future a little... but to see<br>it clearly，I have to put it inside...<br> ,,vc_10470100022_006_01
+
+message,,Gradually，her love juice welled up from deep within，wetting her<br>entrance. It became a slick lubricant，and lewd sounds followed.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,MouthEmotion00,on,STOP,8
+
+l2dmessage,メレム,Mmph!，Ngh!，*pant*，Mmph!，*pant*，Ngh!，Mmph!，*huff*，Mmph!<br> ,,vc_10470100022_007_01
+
+message,,Merem barely held back her voice. The aroused customer pleaded，'I<br>can't hold back.'<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+l2dmessage,メレム,*pant*... *pant*... I understand. I-I think it's about ready. I-I'll put it<br>in... okay?<br> ,,vc_10470100022_008_01
+
+l2dmotion,Scene03
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10470100022_003_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,メレム,*gasp*... Mmph!... Aaah *pant*...!<br> ,,vc_10470100022_009_01
+
+message,,Merem lowered her hips，swallowing his rock-hard manhood. It slid<br>through her slick walls，the tip catching on an inner wall with a bump.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+l2dmessage,メレム,Ah，*pant*!... Mmph!... Mmph!...<br> ,,vc_10470100022_010_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+message,メレム,(S-so amazing... my customer's thing is throbbing... I can feel his<br>excitement directly...)<br> ,,vc_10470100022_011_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5.5
+
+l2dmessage,メレム,I-It's all in... H-how is it? Any pain or discomfort...?<br> ,,vc_10470100022_012_01
+
+message,,At Merem's continued professionalism as a fortune teller，the male<br>customer，enduring his excitement，asked，'Can you see anything?'<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8
+
+l2dmessage,メレム,Just from insertion，I can only see a vague image. What I see clearly<br>is the moment we both feel good...<br> ,,vc_10470100022_013_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+l2dmessage,メレム,So... um... I'll move... okay?<br> ,,vc_10470100022_014_01
+
+l2dmotion,Scene04
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10470100022_004_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,メレム,Mmph... mmm... mmph... *pant*...<br>mmph... mmph... *sigh*... mmph... mmph...<br> ,,vc_10470100022_015_01
+
+l2dmotion,EyeOpen00
+
+message,メレム,(I-it feels good... no... t-this is just the fortune telling... I need to<br>focus...)<br> ,,vc_10470100022_016_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmessage,メレム,*huff*... *pant*... Aah!...<br>My client's thing is grinding inside me...<br> ,,vc_10470100022_017_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionBottom
+
+l2dmessage,メレム,Does it feel good，sir...? Are you all right?<br>Because if not，I can't do the fortune telling properly...<br> ,,vc_10470100022_018_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,7
+
+l2dmessage,メレム,I'll do my best with the fortune telling，so I'll make you feel good...<br>*pant* Aaaaaaah...<br> ,,vc_10470100022_019_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion00
+
+message,メレム,(This is for the fortune telling... I'm moving my hips because it's my<br>job... Because I have to feel good to tell the fortune properly...)<br> ,,vc_10470100022_020_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+message,,Merem stifled her moans，trying not to let them slip.<br>Still，she slowly swayed her hips to encourage her client's pleasure.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+l2dmessage,メレム,Mmph... *pant*... aaah... Mmph...<br>mmph... Mmph... *sigh*... mmph...<br> ,,vc_10470100022_021_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,6
+
+l2dmessage,メレム,Mmph... Mmph... aah... Mmph...<br>I-it feels... gooood...<br> ,,vc_10470100022_022_01
+
+message,,The voice admitting pleasure mixed into her moans. That word<br>shattered the client's resolve，which had held out for 'the fortune.'<br> 
+
+l2dmotion,Scene05
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10470100022_005_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,メレム,Ahhh... w-wait a moment...<br>W-why are you moving，sir...?<br> ,,vc_10470100022_023_01
+
+message,,The aroused customer moved his hips on his own，thrusting into<br>Merem. Overwhelmed by the sudden pleasure，Merem grew confused.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+l2dmessage,メレム,Ahh... no... stop...<br>Ah，ah，aah... I can't concentrate like this...!<br> ,,vc_10470100022_024_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,7
+
+l2dmessage,メレム,Ah，no，I said stop...!<br>Mmph... this is no good... ahh... I'll lose control...!<br> ,,vc_10470100022_025_01
+
+message,,The man pleaded that he couldn't hold back any longer，<br>and Merem cried out in desperation.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,7
+
+l2dmessage,メレム,Ah，mmm... no，nooo! Ah，*pant*，ah...<br>mmm，ahh... no... at this rate...<br> ,,vc_10470100022_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+l2dmessage,メレム,Mmph... Ah，*pant*... no... I-I can't...<br>I think I'm going to climax...!<br> ,,vc_10470100022_027_01
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,2.5
+
+bgvplay,bgvtag2_6,bgv_10470100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,ExEmotion01,on,STOP,5
+
+l2dmessage,メレム,No... ah，stop! I'm climaxing! I'm going to climax...!<br> ,,vc_10470100022_028_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+l2dmessage,メレム,*pant*... *pant*... *pant*...<br>I-I'm sorry... I climaxed before you...<br> ,,vc_10470100022_029_01
+
+message,,Merem，having reached climax，apologized breathlessly for climaxing<br>first.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6
+
+l2dmessage,メレム,I'm sorry... For the fortune to work，I have to climax together with<br>you，sir.<br> ,,vc_10470100022_030_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,メレム,At the moment we both feel good，the future appears to me，so...<br> ,,vc_10470100022_031_01
+
+message,,'Then let's climax together!' the man said，and began thrusting even<br>harder.<br> 
+
+l2dmotion,Scene07
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10470100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,メレム,Huh! Aah... W-wait，please wait! Aah... mmm... no... I said wait!<br> ,,vc_10470100022_032_01
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+l2dmessage,メレム,Aahn... I just climaxed... *pant*... I'm still sensitive...! Aah... No... Aah!<br>*pant*!<br> ,,vc_10470100022_033_01
+
+message,,Despite Merem's desperate pleas，the male customer continued his<br>fierce thrusting.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+l2dmessage,メレム,Aaaah... If you thrust so hard...! No... I'll climax again，you know!<br> ,,vc_10470100022_034_01
+
+l2dmotion,EyeOpen02
+
+message,メレム,(Oh dear，this customer is so excited he's lost all reason... I need to<br>somehow... climax together with him...)<br> ,,vc_10470100022_035_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmessage,メレム,Aah... H-how is it? A-are you feeling... good... too...? Ngh... Aaaaah!<br> ,,vc_10470100022_036_01
+
+message,,The customer，while continuing his fierce thrusting，replied in an<br>excited voice that it felt good.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,5
+
+l2dmessage,メレム,Aah... ah... mm... no...! If you thrust so deep and hard... I'll... climax<br>again...<br> ,,vc_10470100022_037_01
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,FaceAngleReset
+
+message,メレム,(At this rate，I'll climax alone again! I have to hold back... until the<br>customer climaxes...)<br> ,,vc_10470100022_038_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,MouthEmotion02,on,STOP,6
+
+message,メレム,(I have to hold back! Until the customer climaxes... mmm... Aaaaah!)<br> ,,vc_10470100022_039_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,メレム,Ah... aah... n-no...! My mind... it's going blank...!<br> ,,vc_10470100022_040_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+l2dmessage,メレム,I-I can't anymore...! I can't hold back!<br> ,,vc_10470100022_041_01
+
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene08,on,STOP,2.7
+
+bgvplay,bgvtag2_8,bgv_10470100022_008_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,メレム,Aah... No! Aaaaaah!<br> ,,vc_10470100022_042_01
+
+message,,As Merem reached her second peak，the male customer also climaxed<br>and spilled his seed deep into her core.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+message,メレム,(G-good... we managed to climax together...)<br> ,,vc_10470100022_043_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+message,メレム,(Ah... I saw...)<br> ,,vc_10470100022_044_01
+
+message,,Into Merem's mind，blank with pleasure，a clear vision of the male<br>customer's future appeared.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+asyncl2dmotion,MouthEmotion00,on,STOP,10
+
+l2dmessage,メレム,*pant*... *pant*... I managed to... complete the fortune telling<br>properly. The results... I-I'm sorry. I-I'll tell you later... okay?<br> ,,vc_10470100022_045_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Merem，gasping for breath，said this before collapsing limply onto<br>the bed and passing out.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+

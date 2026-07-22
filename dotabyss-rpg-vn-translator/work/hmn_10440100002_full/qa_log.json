@@ -1,0 +1,57 @@
+{
+  "scene": "hmn_10440100002",
+  "character": "ヤチヨ (Yachiyo) - Weather Shrine Maiden",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "independent_verify_ts": "2026-07-21T00:00:00Z",
+  "candidate_counts": {
+    "title": 1,
+    "message": 89,
+    "messageTextUnder": 3,
+    "messageTextCenter": 7
+  },
+  "translatable_records": 100,
+  "translated_records": 100,
+  "changed_lines": 100,
+  "kept_text_lines": [],
+  "qa_structural": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "field_count_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0
+  },
+  "qa_linguistic": {
+    "commander_translated": true,
+    "title_case_title": true,
+    "char_names_preserved": true,
+    "sjis_comma_replaced": true,
+    "adult_content_normal": true,
+    "h18_confirmed": true
+  },
+  "notes": "EN-asset-is-English case. Title field still JP. 2 extra messageTextCenter cards. <user> tag not present in EN asset for 3 narration lines (EN used 'the Commander') - used Chỉ Huy. Monster SFX localized: Giíii, Gừooooo, Gíii. All 100/100 records translated. Independent verifier PASS.",
+  "build_notes": [
+    "suffix-mirror applied only to message, lines (not center/under/title)",
+    "ASCII comma replaced with U+201A in all VI text fields",
+    "<br> count matched EN asset exactly via suffix mirror (21 fixes)",
+    "<user> removed from 3 VI records to match EN tag list (no <user> in EN narration)"
+  ],
+  "line_count": {
+    "en": 2423,
+    "vi": 2423,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "38b55078cbd483bae2d6ffe9d64a6f9b3747489a47fd9ab4ddf0bfe407e50a05",
+  "output_sha256": "7638f5f31d4e8ebe2c25df62ce33411093c45d4a621d3f5091cb7ee9d7466ed4",
+  "qa_status": "PASS"
+}

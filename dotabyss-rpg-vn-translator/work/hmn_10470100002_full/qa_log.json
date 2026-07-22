@@ -1,0 +1,58 @@
+{
+  "scene": "hmn_10470100002",
+  "character": "Merem",
+  "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10470100002_full/build_vi.py",
+  "preflight_result": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 69,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "record_count": 71,
+    "title_translated": true,
+    "messageTextCenter_translated": true,
+    "message_records_translated": 69,
+    "messageTextUnder_records_translated": 0,
+    "br_count_match": true,
+    "ascii_comma_in_vi": false,
+    "translated_records": 71,
+    "changed_lines": 71,
+    "kept_text_lines": []
+  },
+  "issues": [],
+  "notes": [
+    "JP title translated to Vietnamese Title Case",
+    "EN-asset-is-English mode (EN asset text fields are English, en.json has values)",
+    "All commas in VI content replaced with U+201A ‚",
+    "BR count matches EN asset (BR fix for seq 11/33/36/54/60 — inserted missing <br>)",
+    "Merem: polite tôi/Chỉ Huy, shifts to tôi/anh when emotional/distressed",
+    "Commander: tôi/cô (polite male to female, keeps respectful distance)",
+    "Monster SFX localized: Gừ/Gá (not left as English Grrr/Gaah)"
+  ],
+  "translatable_records": 71,
+  "translated_records": 71,
+  "changed_lines": 71,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1100,
+    "vi": 1100,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "8af42212e8dca4d89923d60681e7bd694167345d28403ac0bc7199383a9dc5d5",
+  "output_sha256": "9d4b99619612d822471ec54d28dc6d76d1fd7e648eb3fe49905256e76c6ae5a6",
+  "qa_status": "PASS"
+}

@@ -1,0 +1,937 @@
+{
+  "scene": "hmn_10130100002",
+  "status": "PASS",
+  "created_at": "2026-07-19T10:20:13.023255+00:00",
+  "paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100002\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100002.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100002.txt",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10130100002_full"
+  },
+  "source": {
+    "bytes": 19431,
+    "sha256": "fc760879f567c32ce07a8c60ffafd57568c560e5c4480c2e47a2636fa1b20fff",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 730,
+    "endswith_newline": true
+  },
+  "output": {
+    "bytes": 21120,
+    "sha256": "6c718a9a36e96aefdddb536bd72565ed45e90878590d5436295846d62712fbe8",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 730,
+    "endswith_newline": true
+  },
+  "candidate_record_counts": {
+    "messageTextCenter": 0,
+    "message": 83,
+    "messageTextUnder": 0,
+    "title": 1
+  },
+  "entries": [
+    {
+      "record_index": 1,
+      "line": 17,
+      "type": "title",
+      "speaker": "Title",
+      "source_text": "Title",
+      "vi_text": "Tiêu Đề",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 2,
+      "line": 49,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "This is Master's house... *pant*. We actually made it...<br> ",
+      "vi_text": "Đây là nhà của sư phụ đấy… hà.<br>Cuối cùng cũng tới nơi rồi… ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 3,
+      "line": 51,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Your mood's dropping even more，huh...<br> ",
+      "vi_text": "Tâm trạng em lại tụt thêm nữa rồi nhỉ…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 4,
+      "line": 62,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "It took a hell of a lot of effort just to get here，you know? That's why<br>I'm even more sick of it.<br> ",
+      "vi_text": "Chỉ riêng việc tới được đây đã lằng nhằng đủ thứ rồi còn gì?<br>Thế nên tôi càng thấy ngán hơn đấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 5,
+      "line": 64,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "So every so often you have to drop a specific chemical on the ground<br>to temporarily disable the perception-blocking barrier before the place even shows up... huh. Really is a secret hideout.<br> ",
+      "vi_text": "Cứ cách một quãng lại phải nhỏ loại thuốc đặc biệt xuống đất<br>để tạm thời gỡ kết giới cản nhận thức thì mới thấy nơi này… à. Đúng là chỗ ẩn thân thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 6,
+      "line": 75,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Even if the army attacked，they'd never find this place，I bet.<br> ",
+      "vi_text": "Dù quân đội có kéo tới tấn công thì chắc cũng chẳng tìm ra căn nhà này đâu.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 7,
+      "line": 77,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Your master's a pretty amazing mage，huh.<br> ",
+      "vi_text": "Sư phụ của em là một pháp sư khá tài giỏi nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 8,
+      "line": 87,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Yeah. His magical ability is amazing，no doubt. But everything else<br>about him is the worst.<br> ",
+      "vi_text": "Ừ. Nếu chỉ nói về tay nghề ma thuật thì đúng là lão giỏi thật.<br>Còn mọi thứ khác thì tệ hết mức.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 9,
+      "line": 89,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "You look like you really don't want to，but aren't you going in?<br> ",
+      "vi_text": "Trông em ghét ra mặt đấy‚ không vào à?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 10,
+      "line": 100,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Now that I'm actually here... all those grim memories come flooding<br>back... urrgh...!<br> ",
+      "vi_text": "Đến tận trước cửa rồi mới…<br>bao ký ức đáng nguyền rủa lại… ưưư…!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 11,
+      "line": 112,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Alright，now how about I toss in some explosives instead of<br>knocking?♪<br> ",
+      "vi_text": "Nào‚ vậy thay vì gõ cửa‚<br>tôi ném thuốc nổ vào nhé♪<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 12,
+      "line": 114,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Don't start a forest fire... Come on，let's go.<br> ",
+      "vi_text": "Đừng gây cháy rừng chứ… Nào‚ đi thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 13,
+      "line": 125,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Ughhh... okay，fine，I'm going...<br> ",
+      "vi_text": "Ưềềề… biết rồi‚ đi thì đi…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 14,
+      "line": 147,
+      "type": "message",
+      "speaker": "",
+      "source_text": "Knock knock!<br> ",
+      "vi_text": "Cộc cộc!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 15,
+      "line": 149,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Come in.<br> ",
+      "vi_text": "Vào đi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 16,
+      "line": 160,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...Figures. The moment we dropped the barrier，he knew we were<br>coming.<br> ",
+      "vi_text": "…Quả nhiên ngay lúc gỡ kết giới<br>là lão biết bọn mình tới rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 17,
+      "line": 171,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Pardon the intrusion...<br> ",
+      "vi_text": "Xin phép làm phiền ạ…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 18,
+      "line": 216,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Umm，Master... it's been a while—<br> ",
+      "vi_text": "Ờm‚ sư phụ… lâu rồi không gặp—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 19,
+      "line": 218,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "At a time like this，it's \"\"I'm home\"\" that's proper，I reckon.<br> ",
+      "vi_text": "Những lúc thế này phải nói \"\"Con về rồi\"\" mới đúng chứ nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 20,
+      "line": 230,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Wha!<br> ",
+      "vi_text": "Ưẹ!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 21,
+      "line": 232,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "When did he get behind her!?<br> ",
+      "vi_text": "Lão vòng ra sau lưng Frederica từ lúc nào vậy…!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 22,
+      "line": 234,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "It is the effect of the presence-hiding potion，Hoho.<br> ",
+      "vi_text": "Là hiệu quả của thuốc xóa khí tức đấy‚ hô hô.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 23,
+      "line": 236,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "But Frederica，it has been a good long time. As always，you have that<br>lovely，fair，smooth skin.<br> ",
+      "vi_text": "Nhưng Frederica à‚ lâu lắm rồi mới gặp con. Da con vẫn trắng trẻo<br>mịn màng thật đẹp như xưa.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 24,
+      "line": 238,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Now，let's see... *lick*.<br> ",
+      "vi_text": "Nào nào… liếm gáy một cái.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 25,
+      "line": 248,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "GYAAAAAA!<br> ",
+      "vi_text": "Áaaaaaaaaaa!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 26,
+      "line": 250,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I see... So that's how it is.<br> ",
+      "vi_text": "…Ra vậy‚ là chuyện thế này à.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 27,
+      "line": 252,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Mmm，mmm，aged to perfection，the flavor is—*gurk*!<br> ",
+      "vi_text": "Ừm ừm‚ càng lớn tuổi lại càng thêm hương vị‚ ọc…!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 28,
+      "line": 275,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "You show up after so long and immediately lick your apprentice's<br>neck! What kind of perverted old man are you!<br> ",
+      "vi_text": "Đệ tử lâu ngày mới ghé mặt mà ông lập tức liếm cổ là sao hả?<br>Cái lão già dê biến thái này nghĩ gì trong đầu vậy!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 29,
+      "line": 282,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Shame on you! You! You! Take that!<br> ",
+      "vi_text": "Biết xấu hổ đi!! Này! Này!! Chết đi!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 30,
+      "line": 284,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Oof! *gasp*! *groan*... That is a pretty good kick...! Hey，you there，<br>young man. If you could stop this beast soon—<br> ",
+      "vi_text": "Ọc! Khụ!? Ưưư… cú đá khá đấy…!<br>Này‚ cậu trẻ kia. Nếu cậu sắp sửa ngăn con bé lại thì—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 31,
+      "line": 297,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...<br> ",
+      "vi_text": "……………………<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 32,
+      "line": 299,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Gwaaaah! You are joining in too... Quite the sadist you are，Hohoho...<br>Ow，ow，ow，ow，ow!<br> ",
+      "vi_text": "Gwooooo!? Ngươi cũng hùa vào sao… đúng là quỷ dữ mà‚<br>hô hô hô… đau‚ đau đau‚ á đau đau đau…!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 33,
+      "line": 306,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Thanks. Let's destroy this lecherous beast together.<br> ",
+      "vi_text": "Cảm ơn. Cùng tôi tiêu diệt con dâm thú này nào.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 34,
+      "line": 308,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Oh，Frederica... Since when did you learn to make such a wonderful<br>'looking at trash' expression—owowowowow!<br> ",
+      "vi_text": "Ôi‚ Frederica… từ khi nào con biết bày ra vẻ mặt tuyệt vời<br>như đang nhìn rác rưởi thế này‚ a đau đau đau đau!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 35,
+      "line": 319,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "You're pretty tenacious...<br> ",
+      "vi_text": "Dai sức thật đấy…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 36,
+      "line": 321,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Hey，um，can you just take a break already...!<br> ",
+      "vi_text": "Này‚ à thì‚ ít nhất cũng tạm dừng một chút được không…!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 37,
+      "line": 356,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "...Well now，I imagine you have something to ask? Let us talk，my<br>beloved apprentice and Lord Commander.<br> ",
+      "vi_text": "…Nào‚ hai người có chuyện muốn hỏi đúng không?<br>Ta sẽ nghe chuyện của ái đồ và ngài Chỉ Huy đây.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 38,
+      "line": 365,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "You get the crap knocked out of you and still calmly change the<br>subject...<br> ",
+      "vi_text": "Bị đánh bầm dập tới vậy<br>mà ông vẫn thản nhiên vào lại chủ đề được à…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 39,
+      "line": 377,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "...Wait，huh? How'd you know he's the Commander? We haven't even<br>told you...<br> ",
+      "vi_text": "…Khoan‚ hả? Sao sư phụ biết người này là Chỉ Huy?<br>Bọn tôi còn chưa xưng danh mà…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 40,
+      "line": 379,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Word of the Frontline Base has reached even this remote land. And<br>rumors of a young and skilled Lord Commander as well.<br> ",
+      "vi_text": "Chuyện về Căn Cứ Tiền Tuyến đã truyền tới cả vùng hẻo lánh này.<br>Và cả lời đồn về ngài Chỉ Huy trẻ tuổi tài giỏi nữa.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 41,
+      "line": 381,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "I saw you through this crystal as you entered the forest. Your<br>intelligent demeanor showed me you were the Lord Commander.<br> ",
+      "vi_text": "Ngay lúc các ngươi bước vào rừng‚ ta đã nhìn thấy qua thủy tinh cầu này.<br>Nhìn phong thái trí tuệ ấy là ta đoán ra ngài là Chỉ Huy ngay.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 42,
+      "line": 383,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "You were watching us through the crystal...? You really are an<br>incredibly skilled mage.<br> ",
+      "vi_text": "Ông quan sát chúng tôi qua thủy tinh cầu…?<br>Quả nhiên ông là một thuật sư rất tài giỏi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 43,
+      "line": 385,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "If you acknowledge me that much，I wish you'd gone a little easier on<br>me when you were beating me up...<br> ",
+      "vi_text": "Nếu ngài đã công nhận ta tới mức đó<br>thì lúc đánh cũng nên nương tay hơn chút chứ…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 44,
+      "line": 397,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "By the way，Master. That's the first time I've seen that crystal... You<br>haven't been using it for anything dirty，have you?<br> ",
+      "vi_text": "Nhân tiện‚ sư phụ. Đây là lần đầu tôi thấy thủy tinh cầu đó…<br>Chẳng lẽ ông dùng nó vào việc bất chính nào đấy chứ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 45,
+      "line": 399,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "I'm not using it，I'm not! It's the truth! Stop putting on the pressure<br>with that smile，my beloved apprentice.<br> ",
+      "vi_text": "Không có không có. …Không‚ thật sự là không mà?<br>Đừng dùng nụ cười ấy gây áp lực nữa‚ ái đồ của ta.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 46,
+      "line": 401,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Alright，let's move on to the main issue. This is hard for Frederica to<br>talk about，so let me explain. The truth is—<br> ",
+      "vi_text": "Vậy vào chuyện chính thôi. Nội dung này khó nói với Frederica<br>nên để tôi giải thích. Thật ra—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 47,
+      "line": 434,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "I see...<br> ",
+      "vi_text": "…Ra là vậy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 48,
+      "line": 436,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Hmm，a most pleasant— I mean，perilous situation，indeed.<br> ",
+      "vi_text": "Hừm… đúng là tình huống khá ngon… khá phiền phức nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 49,
+      "line": 447,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Hold on，you nearly said 'pleasant' just now，didn't you?<br> ",
+      "vi_text": "Vừa rồi ông suýt nói \"\"ngon\"\" đấy à…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 50,
+      "line": 449,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Frederica，hold off on attacking until we've heard what he has to say.<br> ",
+      "vi_text": "Frederica‚ muốn ra tay thì nghe lão nói xong đã.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 51,
+      "line": 451,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I think it's because of some spell or curse you cast on Frederica.<br>What do you think?<br> ",
+      "vi_text": "Tôi nghĩ… nguyên nhân là một loại ma pháp hay lời nguyền nào đó<br>mà ông đã đặt lên Frederica. Ông thấy sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 52,
+      "line": 462,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "What! Is that true，Master?<br> ",
+      "vi_text": "Hả! Thật vậy sao sư phụ!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 53,
+      "line": 464,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Ho ho ho. Well now，I wonder about that.<br> ",
+      "vi_text": "Hô hô hô. Nào nào‚ chuyện thế nào nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 54,
+      "line": 475,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Let's see... Is this all the explosives I brought?<br> ",
+      "vi_text": "Để xem‚ thuốc nổ mình mang theo chỉ có bấy nhiêu thôi à…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 55,
+      "line": 477,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "...It seems my life is in danger if I don't tell the truth，so I'll confess.<br>I did try to cast pervy magic on her.<br> ",
+      "vi_text": "…Nếu không nói thật thì mạng ta có vẻ nguy hiểm‚ nên ta thú nhận vậy.<br>Thật ra từng có lúc ta định dùng ma thuật dâm dục lên con bé.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 56,
+      "line": 488,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "So it is you after all，Master... Wait，huh? 'Tried to'? What do you<br>mean?<br> ",
+      "vi_text": "Quả nhiên nguyên nhân là sư phụ… khoan‚ hả?<br>\"\"Định dùng\"\" là sao…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 57,
+      "line": 490,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "All the pervy magic was deflected. Even though I cast it many times.<br> ",
+      "vi_text": "Tất cả ma thuật dâm dục đều bị bật ngược. Dù ta đã dùng nhiều lần vẫn thế.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 58,
+      "line": 492,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "This is just a hypothesis，but it seems Frederica has been protected<br>since birth by a powerful succubus's secret technique.<br> ",
+      "vi_text": "Đây vẫn chỉ là giả thuyết thôi… nhưng có lẽ Frederica<br>được một bí thuật dâm ma mạnh mẽ bảo vệ từ khi sinh ra.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 59,
+      "line": 502,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Eww...? Me... a succubus's secret technique...? And from birth...?<br> ",
+      "vi_text": "Ưeeee…? Tôi… bí thuật dâm ma…? Lại còn từ khi sinh ra…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 60,
+      "line": 513,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Th-there's no way that's true! My Papa and Mama are both human!<br> ",
+      "vi_text": "C-chuyện vô lý như thế… làm gì có được! Ba mẹ tôi đều là con người mà!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 61,
+      "line": 515,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "You call them Papa and Mama? That's cute.<br> ",
+      "vi_text": "Em gọi là ba mẹ à. Dễ thương thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 62,
+      "line": 526,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "*urgh*，shut up! That's not the point!<br> ",
+      "vi_text": "I-i-im đi! Trọng điểm đâu phải chuyện đó!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 63,
+      "line": 537,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Anyway... what are you saying，Master?<br> ",
+      "vi_text": "Tóm lại… sư phụ đang nói cái gì vậy!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 64,
+      "line": 539,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "I kept casting erotic magic of various intensities on ye，and that's my<br>guess after all of 'em were deflected! How's that for—*wheeze*!<br> ",
+      "vi_text": "Ta liên tục dùng ma pháp dâm dục với đủ cường độ lên con bé<br>và tất cả đều bị bật ngược nên mới suy đoán như vậy! Sao nào‚ thuyết phục chư—ọc!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 65,
+      "line": 561,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "There were so many surprises I was letting 'em slide，but you said<br>something I can't ignore!<br> ",
+      "vi_text": "Có quá nhiều chuyện gây sốc nên tôi lỡ nghe cho qua<br>nhưng ông vừa nói một chuyện không thể bỏ qua đấy!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 66,
+      "line": 582,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "What do you mean you kept casting erotic magic on me!?<br> ",
+      "vi_text": "Ông nói đã nhiều lần dùng ma pháp dâm dục lên tôi là sao hảaaa!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 67,
+      "line": 586,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "*choke*，*cough*，*wheeze*! Y-you're unusually aggressive today，<br>aren't ye... *choke*!<br> ",
+      "vi_text": "Khụ‚ khặc‚ hộc!? H-hôm nay con hung hăng hơn thường lệ nhỉ‚<br>khụụụ!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 68,
+      "line": 601,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "(So she's had the succubus secret technique since birth... If so，the<br>possible cause is...)<br> ",
+      "vi_text": "(Bị bí thuật dâm ma bẩm sinh tác động… à.<br>Nếu vậy‚ nguyên nhân có thể nghĩ tới là…)<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 69,
+      "line": 616,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Frederica. We've got what we came for，so let's take our leave.<br> ",
+      "vi_text": "Frederica. Mục đích đã đạt được rồi‚ chúng ta nên cáo lui thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 70,
+      "line": 631,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Hmph... I guess. I was just starting to enjoy beating you up，Master...<br> ",
+      "vi_text": "Ừm… vậy à. Tôi vừa mới bắt đầu thấy việc đánh sư phụ cũng vui vui rồi…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 71,
+      "line": 633,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Oh，my beloved apprentice is on the verge of awakening to dangerous<br>tastes... But... you've really grown，Frederica.<br> ",
+      "vi_text": "Ôi‚ ái đồ của ta sắp thức tỉnh một sở thích nguy hiểm rồi…<br>Nhưng… con thật sự đã trưởng thành rồi‚ Frederica à.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 72,
+      "line": 642,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Master...<br> ",
+      "vi_text": "Sư phụ…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 73,
+      "line": 644,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "If the situation ain't resolved，come again. I'll think up a<br>countermeasure.<br> ",
+      "vi_text": "Nếu sự việc vẫn chưa giải quyết được thì hãy lại tới đây.<br>Ta sẽ nghĩ cách đối phó.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 74,
+      "line": 655,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "B-but you can only make pervy stuff...?<br> ",
+      "vi_text": "N-nhưng mà ông chỉ tạo được mấy thứ dâm dục thôi mà…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 75,
+      "line": 657,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Pshaw，I can tinker with those ingredients and make 'em<br>combat-ready. Who do ye think I am?<br> ",
+      "vi_text": "Có gì đâu‚ ta chỉ cần chỉnh lại thành phần của chúng<br>để dùng được trong thực chiến là xong. Con nghĩ ta là ai chứ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 76,
+      "line": 668,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "A super-stealth-pervy-old-man...<br> ",
+      "vi_text": "Lão già dâm tặc biến thái siêu tàng hình…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 77,
+      "line": 670,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "I'm about to cry... So this is the burden I've gotta bear...<br> ",
+      "vi_text": "Ta sắp khóc tới nơi rồi… Đây chính là nghiệp ta phải gánh sao…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 78,
+      "line": 672,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I think it's just the accumulated sexual harassment from all these<br>years...<br> ",
+      "vi_text": "Tôi nghĩ đó chỉ là hậu quả tích tụ<br>từ bao lần quấy rối tình dục của ông thôi…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 79,
+      "line": 680,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "But... I see. Even if it's not resolved，there's a way... Just knowing<br>that makes me feel a lot better.<br> ",
+      "vi_text": "Nhưng… ra vậy‚ dù không giải quyết được vẫn có cách…<br>Chỉ cần nghĩ được như thế là tôi đã nhẹ nhõm hơn nhiều rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 80,
+      "line": 692,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Thank you，Master.<br> ",
+      "vi_text": "Cảm ơn sư phụ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 81,
+      "line": 694,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "Oh，my beloved apprentice...! Now then，how about a big hug before<br>we part...?<br> ",
+      "vi_text": "Ôi‚ ái đồ của ta…!<br>Nào nào‚ trước lúc chia tay cho ta ôm thật chặt một cái…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 82,
+      "line": 705,
+      "type": "message",
+      "speaker": "フレデリカ",
+      "source_text": "Thank you，Master.<br> ",
+      "vi_text": "Cảm ơn sư phụ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 83,
+      "line": 719,
+      "type": "message",
+      "speaker": "",
+      "source_text": "*thud*<br> ",
+      "vi_text": "Bụp.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    },
+    {
+      "record_index": 84,
+      "line": 721,
+      "type": "message",
+      "speaker": "師匠",
+      "source_text": "A body blow and then the same smile... You're something，beloved<br>apprentice!<br> ",
+      "vi_text": "Vừa tung cú đấm vào bụng mà vẫn giữ nguyên nụ cười ấy…<br>khá lắm‚ ái đồ của ta…!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT"
+    }
+  ],
+  "qa_summary": {
+    "qa_status": "PASS",
+    "blocker_count": 0,
+    "translated_records": 84,
+    "changed_text_records": 84,
+    "independent_verify": "PASS",
+    "independent_issue_count": 0
+  },
+  "independent_verify": {
+    "scene": "hmn_10130100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 83,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 84,
+    "translated_records": 84,
+    "changed_lines": 84,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 730,
+      "vi": 730,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "fc760879f567c32ce07a8c60ffafd57568c560e5c4480c2e47a2636fa1b20fff",
+    "output_sha256": "6c718a9a36e96aefdddb536bd72565ed45e90878590d5436295846d62712fbe8"
+  },
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 83,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 84,
+  "changed_lines": 84,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 730,
+    "vi": 730,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "fc760879f567c32ce07a8c60ffafd57568c560e5c4480c2e47a2636fa1b20fff",
+  "output_sha256": "6c718a9a36e96aefdddb536bd72565ed45e90878590d5436295846d62712fbe8"
+}

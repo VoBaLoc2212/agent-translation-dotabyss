@@ -1,0 +1,128 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,103301000G,エメルダ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0026,1
+
+charaface,chara_1,FaceSurprise
+
+
+
+
+window,on,0.15
+message,,A few hours later，Emeralda finally had her blindfold and ropes<br>removed and stared blankly at the man who had so thoroughly taken her.<br> 
+
+charashow,chara_1,0.3
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_1,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,エメルダ,...Scoop?<br> ,,vc_10330100013_001_01
+
+message,<user>,Ah，sorry. It was actually me. Ludia called me and I helped with the<br>discipline... yeah.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,エメルダ,N-no way...<br> ,,vc_10330100013_002_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,エメルダ,I'm... so relieved! Waaaaah!<br> ,,vc_10330100013_003_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_4,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+message,エメルダ,My first partner was Scoop...! And I won't be thrown into the Abyss<br>after all...!<br> ,,vc_10330100013_004_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_5,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,エメルダ,I'm so glad! I'm so glad! Waaaaah!<br> ,,vc_10330100013_005_01
+
+message,<user>,I hate to interrupt your gratitude，but you're out of line. This time<br>was a light lesson，but next time won't be this easy.<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_6,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,エメルダ,Eh... then... will you do worse things... and be rougher?<br> ,,vc_10330100013_006_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,,Emeralda rubbed her thighs together slightly. It was an unconscious<br>movement，but the Commander didn't miss it.<br> 
+
+message,<user>,Has this girl just discovered she's an M...?<br> 
+
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_8,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+charaface,chara_1,FaceUnique02
+message,エメルダ,Th-then... should I sneak in again...?<br> ,,vc_10330100013_007_01
+
+message,<user>,What was supposed to be discipline has turned into a reward... Oh<br>well. I can't win with this girl...<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

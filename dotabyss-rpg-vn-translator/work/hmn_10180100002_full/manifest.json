@@ -1,0 +1,477 @@
+{
+  "scene": "hmn_10180100002",
+  "generated_at": "2026-07-19T10:39:27.827600+00:00",
+  "paths": {
+    "source_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100002.txt",
+    "output_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100002.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100002\\en.json",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100002_full"
+  },
+  "source": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1029,
+    "sha256": {
+      "asset_en_sha256": "5961f7e68264149f7b051515ed65971c1fda4c3ab600e31cdc2ad2920fab127b",
+      "ja_json_sha256": "e434f516e7f861aeb60e13d6d42c4fbcf6918e9ecee80235fd478bc4968b7407",
+      "en_json_sha256": "9110d717dc58a6b11ed528feaa424da26155402f334a54b8854650cd753773fb"
+    }
+  },
+  "output": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1029,
+    "sha256": "ab004e9d2d8459825d7a73f909aae7d9490694e9df80fc7c000177cf59dbfaf5"
+  },
+  "format": {
+    "delimiter": ",",
+    "text_commands_counted": [
+      "title",
+      "message",
+      "messageTextUnder",
+      "messageTextCenter"
+    ],
+    "command_counts": {
+      "message": 63,
+      "messageTextCenter": 1,
+      "messageTextUnder": 0,
+      "title": 1
+    }
+  },
+  "translation_basis": "JP primary; en.json values blank; asset source text is JP, EN alignment unavailable except ordering.",
+  "character_voice": {
+    "グラディア": "terse engineer/drill enthusiast; keeps asset speaker/name; self often mình; mixed キミ/cậu maintained where source distant/casual",
+    "司令官/Commander": "Chỉ Huy when title/addressed"
+  },
+  "records_total": 65,
+  "records_translated": 65,
+  "records_unmatched": 0,
+  "unmatched": [],
+  "errors": [],
+  "qa_status": "PASS",
+  "records": [
+    {
+      "line": 17,
+      "command": "title",
+      "source_text": "進め、ドリルの力を信じて！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 27,
+      "command": "messageTextCenter",
+      "source_text": "<size=48>――大穴浅層　探索済領域</size>",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 40,
+      "command": "message",
+      "source_text": "グオォォォン！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 87,
+      "command": "message",
+      "source_text": "この新型ドリルなら、<br>ゴーレムぐらい、簡単に貫ける……！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 117,
+      "command": "message",
+      "source_text": "ガリガリガリガリ！　と硬質な音を立て、<br>グラディアのドリルがゴーレムのコアを穿った。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 121,
+      "command": "message",
+      "source_text": "ォォォォ……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 164,
+      "command": "message",
+      "source_text": "新型ドリル、期待以上の性能。<br>さすが私。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 200,
+      "command": "message",
+      "source_text": "見た目はあまり変わらないが、<br>性能はずいぶんと良くなったみたいだな。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 211,
+      "command": "message",
+      "source_text": "使い勝手を維持したままの新型。<br>これ以上の改良はない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 213,
+      "command": "message",
+      "source_text": "手に馴染んだ武器が１番だからな。<br>それでも、ドリルで戦うってのは珍しいけどさ。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 224,
+      "command": "message",
+      "source_text": "……ドリルはいい。<br>他の人が使わない理由がわからない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 232,
+      "command": "message",
+      "source_text": "元々は岩盤に穴を開けるための道具だから、<br>硬いモンスターでも貫くパワーがある。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 241,
+      "command": "message",
+      "source_text": "先端部分はとっても丈夫だから、<br>防御する時にだって役立つ。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 252,
+      "command": "message",
+      "source_text": "求められる働きが単純だからこそ、<br>様々なパーツが組み込めて、拡張性も高い。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 263,
+      "command": "message",
+      "source_text": "何よりも、ドリルで敵を貫くのは、<br>とってもロマンがある。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 265,
+      "command": "message",
+      "source_text": "ドリルのロマンは、俺も共感できるぞ。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 267,
+      "command": "message",
+      "source_text": "いいよな、ドリル。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 276,
+      "command": "message",
+      "source_text": "いいよね、ドリル。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 287,
+      "command": "message",
+      "source_text": "デザインが武骨だったり、<br>何でも出来るわけじゃないのも、ドリルのロマン。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 289,
+      "command": "message",
+      "source_text": "不器用だけど愚直に貫くってのが格好いいんだよな。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 300,
+      "command": "message",
+      "source_text": "司令官、よくわかってる。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 340,
+      "command": "message",
+      "source_text": "（こんなに饒舌に話すグラディアははじめて見たな。<br>本当にドリルが好きなんだろう）",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 355,
+      "command": "message",
+      "source_text": "……しかし、どうしてドリルにこだわっているんだ？<br>単純に好きだから、というだけの理由なのか？",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 367,
+      "command": "message",
+      "source_text": "ん……好きなのは間違いない。<br>ドリルはロマンだから……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 403,
+      "command": "message",
+      "source_text": "でも、それだけじゃない。<br>私のお父さんも、ドリルが好きだった。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 405,
+      "command": "message",
+      "source_text": "ああ、失敗こそ大事にしろって語ってた親父さんか。<br>ドリルの開発をしていたんだな。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 416,
+      "command": "message",
+      "source_text": "私よりすごいドリルを作ってた。<br>……まだまだお父さんには届かない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 418,
+      "command": "message",
+      "source_text": "へえ、そんなに優秀な技術者だったのか。<br>それは部下にスカウトしたいぐらいだな。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 429,
+      "command": "message",
+      "source_text": "難しいと思う。<br>今どこにいるのか、わからないから。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 431,
+      "command": "message",
+      "source_text": "それは……行方不明、なのか？",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 438,
+      "command": "message",
+      "source_text": "……大穴が出現した時、<br>お父さんはこの辺りに、鉱石の採掘に来てた。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 449,
+      "command": "message",
+      "source_text": "最後にお父さんを見た人は、<br>大穴に飲み込まれていった、って。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 451,
+      "command": "message",
+      "source_text": "それは……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 460,
+      "command": "message",
+      "source_text": "もう死んでる、かもしれない。<br>でもお父さんはすごい発明家で、採掘者だったんだ。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 471,
+      "command": "message",
+      "source_text": "きっと簡単に死んだりしない。<br>今も帰還しようと頑張ってるはず。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 493,
+      "command": "message",
+      "source_text": "それにお父さんは……すごく諦めが悪かったから。<br>何度失敗してもそれが成功につながるって言い張る、そんな人だった。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 504,
+      "command": "message",
+      "source_text": "大穴の中でだって、絶対に諦めたりしない。<br>そう信じてる。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 519,
+      "command": "message",
+      "source_text": "（強がりじゃなく、本当に諦めてないんだな。<br>グラディアが信じているのなら、俺も信じてみよう）",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 534,
+      "command": "message",
+      "source_text": "そうだな、大穴には様々な危険があるが、大いなる恵みもある。<br>上手くやれば生き残るのも不可能じゃない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 541,
+      "command": "message",
+      "source_text": "うん。ドリルがあれば壁を掘って安全地帯を作ることもできる。<br>地面を掘って水を探すこともできる。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 550,
+      "command": "message",
+      "source_text": "自分で大穴を歩いてみて、<br>可能性はあるんだって思った。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 561,
+      "command": "message",
+      "source_text": "今のドリルじゃ行けないような危険な場所にいるのかもしれない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 570,
+      "command": "message",
+      "source_text": "だからもっともっとすごいドリルを作って<br>お父さんの元へたどりつく。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 585,
+      "command": "message",
+      "source_text": "（……本当に強いな、グラディアは）",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 600,
+      "command": "message",
+      "source_text": "さて、そろそろ戻りたいところだが……<br>新型ドリルの採掘性能は確認しなくていいのか？",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 611,
+      "command": "message",
+      "source_text": "うん、岩壁のほうに行こう。<br>キミにこのドリルのもっとすごいところ、見せるから。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 666,
+      "command": "message",
+      "source_text": "うん、ここならいいかな。<br>戦闘だけじゃなく、採掘にも使えるところ、見てて。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 711,
+      "command": "message",
+      "source_text": "グラディアが壁へドリルを押し当て、スイッチを入れる。<br>軽快に回転を始めたドリルは見る見る内に壁へと穴を開けた。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 722,
+      "command": "message",
+      "source_text": "うん、順調。<br>これなら採掘にも使える。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 724,
+      "command": "message",
+      "source_text": "あれ、壁の中に何か……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 743,
+      "command": "message",
+      "source_text": "あ……司令官、下がって！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 769,
+      "command": "message",
+      "source_text": "グォォォォォン！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 781,
+      "command": "message",
+      "source_text": "眠っていた大型ゴーレムが、ドリルの振動で目を覚ました。<br>自身を封じていた壁を叩き壊しながら、激しく暴れ始める。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 791,
+      "command": "message",
+      "source_text": "ちっ、眠っていた強敵を叩き起こしたみたいだな。<br>すぐに撤退するぞ！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 820,
+      "command": "message",
+      "source_text": "大丈夫。<br>新しいドリルはあんなゴーレムに負けない。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 830,
+      "command": "message",
+      "source_text": "まだ壁から出てこない内に……！<br>えーいっ！！！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 859,
+      "command": "message",
+      "source_text": "グラディアは大穴の壁から脱出しようとするゴーレムへ、<br>回転するドリルを押し込んだ。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 863,
+      "command": "message",
+      "source_text": "ゴーレムの胴体へ食い込んだドリルは回転速度を不安定に歪め、<br>なんとか回転しようと甲高い音を立てて震える。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 899,
+      "command": "message",
+      "source_text": "通らない……回転が安定しないの！？<br>そんなはずない、どんな相手でも、このドリルなら……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 921,
+      "command": "message",
+      "source_text": "限界を超えたドリルは、ギャリギャリギャリ！　<br>と断末魔のような音を立て、完全に動きを止めた。",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 932,
+      "command": "message",
+      "source_text": "う、そ……私のドリルが<br>通らなかった……？",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 934,
+      "command": "message",
+      "source_text": "こりゃマズイ、もう出てくるぞ！<br>すぐに逃げよう、グラディアっ！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 945,
+      "command": "message",
+      "source_text": "あ……うん……",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 973,
+      "command": "message",
+      "source_text": "グォォォォォン！",
+      "status": "TRANSLATED"
+    },
+    {
+      "line": 1020,
+      "command": "message",
+      "source_text": "（私のドリルじゃ、駄目、だった……）",
+      "status": "TRANSLATED"
+    }
+  ],
+  "independent_verify": {
+    "scene": "hmn_10180100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 63,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 65,
+    "translated_records": 65,
+    "changed_lines": 65,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1029,
+      "vi": 1029,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "5961f7e68264149f7b051515ed65971c1fda4c3ab600e31cdc2ad2920fab127b",
+    "output_sha256": "ab004e9d2d8459825d7a73f909aae7d9490694e9df80fc7c000177cf59dbfaf5"
+  },
+  "status": "PASS"
+}

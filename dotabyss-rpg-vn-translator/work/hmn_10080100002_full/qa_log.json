@@ -1,0 +1,37 @@
+{
+  "scene": "hmn_10080100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP primary; EN asset used for alignment. Character names in technical fields preserved. Verisa/Veera romanization used in Vietnamese text. No H18 content in this file."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 118,
+  "translated_records": 118,
+  "changed_lines": 118,
+  "source_line_count": 2714,
+  "output_line_count": 2714,
+  "source_sha256": "927f1a298352e9f8cdb1cfeabea5d2f4b59ae10c07d84d7e5d6f8b9386557b9e",
+  "output_sha256": "ba3b7e79d9c34092600e29612275657d58874e4f6d5f924c9089877538862ac9",
+  "candidate_counts": {
+    "title": 1,
+    "message": 116,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "line_count": {
+    "en": 2714,
+    "vi": 2714,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0
+}

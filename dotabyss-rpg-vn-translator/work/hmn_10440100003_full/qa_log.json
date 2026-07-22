@@ -1,0 +1,51 @@
+{
+  "scene": "hmn_10440100003",
+  "qa_timestamp": "2026-07-21",
+  "qa_tool": "build_vi.py (inline preflight) + independent_verify",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "preflight_checks": {
+    "br_count_match": true,
+    "no_ascii_comma_in_vi": true,
+    "line_count_match": true,
+    "record_count_match": true
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 101,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "unchanged_text_records": [],
+  "structural_issues": [],
+  "addressing_notes": [
+    "Yachiyo→Chỉ Huy (司令官さま), Yachiyo self→em (私), user→Yachiyo: em (お前)",
+    "user self→anh (俺), Alicia addressing Yachiyo directly by name"
+  ],
+  "terminology": {
+    "龍神さま": "Long Thần",
+    "司令官さま/Commander": "Chỉ Huy",
+    "大穴": "Đại Huyệt",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "ホウライ/Hourai": "Hourai"
+  },
+  "translatable_records": 103,
+  "translated_records": 103,
+  "changed_lines": 103,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2041,
+    "vi": 2041,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "30473d803bcb0a36eff79dd9f88f8ef45feab7ae9b751bd8d1e69de55e811dc3",
+  "output_sha256": "f2612da67d736916d0c73083ebffe711eb7c6e0844521fe795fa2dfaafe742b3",
+  "qa_status": "PASS"
+}

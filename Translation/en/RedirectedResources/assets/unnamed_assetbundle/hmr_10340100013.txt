@@ -1,0 +1,139 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,103401000G,カーラ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceHappy
+
+
+charashow,chara_1,0.3
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+window,on,0.15
+message,カーラ,Thank you very much，Commander. As planned，I will capture that<br>pirate without fail.<br> ,,vc_10340100013_001_01
+
+message,<user>,This is a dangerous mission—you'll be facing pirates unarmed. Make<br>sure you don't overdo it.<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,カーラ,I am aware of the danger. But I cannot forgive the countless crimes<br>they have committed in the Eldorana coastal waters.<br> ,,vc_10340100013_002_01
+
+asyncseplay,setag3_3,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,カーラ,I will capture them，no matter what! I swear on the pride of the<br>Republic Guard!<br> ,,vc_10340100013_003_01
+
+message,,Carla's expression was serious. It was only natural—this was a pirate<br>she had been pursuing for a long time.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,カーラ,U-um，Commander... I have one favor to ask...<br> ,,vc_10340100013_004_01
+
+message,<user>,A request? What is it? If I can help，I'll do anything.<br> 
+
+asyncseplay,setag3_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,カーラ,W-when this operation succeeds... then... well...<br> ,,vc_10340100013_005_01
+
+message,<user>,Hm? What is it? Do you want a reward or a bonus?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_6,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,カーラ,C-could I... have that... training... again...?<br> ,,vc_10340100013_006_01
+
+message,<user>,Training! Um... once the operation is over，there's no need for<br>training，right?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,カーラ,Y-you might be right...! But，um... it felt so good... the training... with<br>the Commander...<br> ,,vc_10340100013_007_01
+
+asynccharaface,chara_1,FaceShy,STOP
+message,,Carla looked down，embarrassed. Watching her like that，I felt like<br>taking her in my arms right away.<br> 
+
+message,<user>,Alright，I promise. But you have to promise me you won't overdo it，<br>Carla.<br> 
+
+message,<user>,To me，your safe return is more important than the pride of the<br>Republic Guard.<br> 
+
+asyncseplay,setag3_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,カーラ,Commander...<br> ,,vc_10340100013_008_01
+
+asyncseplay,setag3_9,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,カーラ,Understood，Commander! I promise I will return safely to you!<br> ,,vc_10340100013_009_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

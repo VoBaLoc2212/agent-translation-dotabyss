@@ -1,0 +1,109 @@
+﻿Prolog
+探索者たち=Những Người Thám Hiểm
+挑む者たちをクリア=Vượt Qua Những Kẻ Thách Thức
+人類を救う“希望”="Niềm Hy Vọng" Cứu Rỗi Nhân Loại
+三大国会議=Hội Nghị Ba Cường Quốc
+万象の鍵=Chìa Khóa Của Vạn Vật
+
+Chpt1
+強行突破②=Đột Phá Bắt Buộc 2
+対抗手段①=Biện Pháp Đối Phó 1
+こんな部隊、最悪よ～！！！！①=Đội Này Tệ Nhất Quả Đất!!!! 1
+こんな部隊、最悪よ～！！！！②=Đội Này Tệ Nhất Quả Đất!!!! 2
+予兆？②=Điềm Báo Sao? 2
+予兆？①=Điềm Báo Sao? 1
+お金って、いいですよねぇ～♡②=Tiền Thật Tuyệt Phải Không?♡ 2
+お金って、いいですよねぇ～♡①=Tiền Thật Tuyệt Phải Không?♡ 1
+対抗手段②=Biện Pháp Đối Phó 2
+強行突破①=Đột Phá Bắt Buộc 1
+強行突破③=Đột Phá Bắt Buộc 3
+ルクスノヴァ登場①=Luxnova Xuất Hiện 1 
+遺されしメッセージ②=Thông Điệp Bị Bỏ Lại 2
+遺されしメッセージ①=Thông Điệp Bị Bỏ Lại 1
+ルクスノヴァ登場②=Luxnova Xuất Hiện 2
+建てました。①=Tôi Đã Xây Nó. 1
+建てました。②=Tôi Đã Xây Nó. 2
+みんながいたからできたこと。=Tôi Có Thể Làm Được Nhờ Có Mọi Người.
+あれが、砂嵐の元凶……！=Đó Là Khởi Nguồn Của Cơn Bão Cát...!
+
+Chpt2
+凍える前線基地=Tiền Đồn Lạnh Giá
+住民に避難勧告を！=Đưa Ra Cảnh Báo Sơ Tán Cho Người Dân!
+あなた誰？①=Ngươi Là Ai? 1
+俺たちはもう仲間だろう=Chúng Ta Đã Là Đồng Đội Rồi Phải Không?
+お互いの守りたいもの=Những Thứ Chúng Ta Muốn Bảo Vệ Cho Nhau
+犬の獣人クルル①=Thú Nhân Chó Kururu 1
+痕跡②=Dấu Vết 2
+痕跡①=Dấu Vết 1
+あなた誰？②=Ngươi Là Ai? 2
+マリナ捜索=Tìm Kiếm Marina
+厄災の習性=Tập Tính Của Tai Ương
+犬の獣人クルル②=Thú Nhân Chó Kururu 2
+
+Chpt3
+誰か助けて！=Ai Đó Cứu Tôi Với!
+声の正体は……②=Chân Tướng Của Giọng Nói… 2
+大穴からの謎の声=Giọng Nói Bí Ẩn Từ Cái Lỗ Lớn
+声の正体は……①=Chân Tướng Của Giọng Nói… 1
+キーホルダー①=Móc Khóa 1
+キーホルダー②=Móc Khóa 2
+催眠石が見せたもの=Những Gì Viên Đá Thôi Miên Tiết Lộ
+暗号解読①=Giải Mã 1
+暗号解読②=Giải Mã 2
+現場検証①=Điều Tra Tại Hiện Trường 1
+現場検証②=Điều Tra Tại Hiện Trường 2
+罠だと分かっても①=Cho Dù Tôi Biết Đó Là Một Cái Bẫy 1
+罠だと分かっても②=Cho Dù Tôi Biết Đó Là Một Cái Bẫy 2
+罠だと分かっても③=Cho Dù Tôi Biết Đó Là Một Cái Bẫy 3
+２つの誤算①=Hai Sai Lầm 1
+２つの誤算②=Hai Sai Lầm 2
+シエナとヒマリが元いた世界=Thế Giới Mà Sienna Và Himari Từng Sống
+
+Chpt4
+案内役として=Trong Vai Trò Người Dẫn Đường
+地図から消滅した小国①=Những Quốc Gia Nhỏ Bé Đã Biến Mất Khỏi Bản Đồ 1
+疲労と空腹=Mệt Mỏi Và Đói Khát
+役に立ちたい①=Tôi Muốn Trở Nên Có Ích 1
+最良の作戦=Chiến Lược Tốt Nhất
+ハグ=Ôm
+緊急退避=Sơ Tán Khẩn Cấp
+力の使い方③=Cách Sử Dụng Sức Mạnh Của Cậu 3
+役に立ちたい②=Tôi Muốn Trở Nên Có Ích 2
+地図から消滅した小国②=Những Quốc Gia Nhỏ Bé Đã Biến Mất Khỏi Bản Đồ 2
+本当は強い子①=Một Đứa Trẻ Thực Sự Mạnh Mẽ 1
+本当は強い子②=Một Đứa Trẻ Thực Sự Mạnh Mẽ 2
+力の使い方②=Cách Sử Dụng Sức Mạnh Của Cậu 2
+力の使い方①=Cách Sử Dụng Sức Mạnh Của Cậu 1
+
+Chpt5
+トモダチ大作戦①=Chiến Dịch Tomodachi 1
+トモダチ大作戦②=Chiến Dịch Tomodachi 2
+体育館を目指して①=Hướng Tới Phòng Thể Chất 1
+体育館を目指して②=Hướng Tới Phòng Thể Chất 2
+少しズレた世界①=Một Thế Giới Có Chút Khác Biệt 1
+少しズレた世界②=Một Thế Giới Có Chút Khác Biệt 2
+廃墟と化した街=Thành Phố Trong Đống Đổ Nát
+教授と助手=Giáo Sư Và Trợ Lý
+石に込められた想い①=Những Cảm Xúc Khắc Ghi Trên Đá 1
+石に込められた想い②=Những Cảm Xúc Khắc Ghi Trên Đá 2
+自爆シークエンス=Chuỗi Tự Hủy
+見覚えのある街並み=Cảnh Quan Thành Phố Quen Thuộc
+魔脈の道標①=Cột Mốc Của Long Mạch 1
+魔脈の道標②=Cột Mốc Của Long Mạch 2
+黒い東京タワー①=Tháp Tokyo Đen 1
+黒い東京タワー②=Tháp Tokyo Đen 2
+
+Chpt6
+２つの追加機能=Hai Tính Năng Mới
+催眠石の調査=Cuộc Điều Tra Những Viên Đá Thôi Miên
+内容の濃い報告書=Một Bản Báo Cáo Chi Tiết
+天使の厄災=Tai Ương Thiên Thần
+妄想の具現化①=Ảo Tưởng Trở Thành Hiện Thực 1
+妄想の具現化②=Ảo Tưởng Trở Thành Hiện Thực 2
+妄想の具現化③=Ảo Tưởng Trở Thành Hiện Thực 3
+人型の厄災=Tai Ương Hình Người
+束の間の平穏=Một Khoảnh Khắc Bình Yên Ngắn Ngủi
+盗賊団の追跡①=Truy Đuổi Băng Cướp 1
+盗賊団の追跡②=Truy Đuổi Băng Cướp 2
+絶望の声=Giọng Nói Tuyệt Vọng
+都合のよい世界=Một Thế Giới Thuận Tiện

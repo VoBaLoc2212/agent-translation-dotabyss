@@ -1,0 +1,614 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10330100022
+
+charaload,chara_1,103301000X,エメルダ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10330100022_001_01,1,on
+
+
+
+
+l2dmotion,ExEmotion02
+
+window,on,0.15
+l2dmessage,エメルダ,Yes... Likewise，I'm in your hands.<br> ,,vc_10330100022_001_01
+
+
+message,,Emeralda had bared herself to the researcher，and the shame was<br>dizzying.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleBottomRight
+
+message,エメルダ,Why did I take this job... letting a guy experiment on my cunt while I'm<br>tied up like this...<br> ,,vc_10330100022_002_01
+
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+message,エメルダ,The ropes are tighter than I thought... b-but the way they rub... it's<br>kind of... pleasurable.♡<br> ,,vc_10330100022_003_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2.6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.6
+
+
+message,エメルダ,Oh no，no no... if I keep looking at my cunt，I'll get even more turned<br>on... if I get off on this，I'm a pervert...<br> ,,vc_10330100022_004_01
+
+
+message,,The researcher matter-of-factly informed the flustered Emeralda that<br>he would first insert a vibrator into her anus.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10330100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,MouthEmotion07,on,STOP,2
+
+wait,1
+
+asyncseplay,se2_1,se5020008,0,1,CONT,1
+
+asyncseplay,se2_2,se5020009,0,1,CONT,2
+
+l2dmessage,エメルダ,Huh—mm，Aah，mmmm... Uuuuuh!<br> ,,vc_10330100022_005_01
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+message,,Before Emeralda could respond，the researcher calmly shoved the<br>vibrator into her anus.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,The lubricated vibrator slid in easily. Still，the unfamiliar stimulus<br>felt like sparks popping at the edges of her vision.<br> 
+
+l2dmotion,MouthEmotion07
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,MouthEmotion01,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,8
+
+message,エメルダ,*whimper*... it stings a bit... b-but the vibrations... they actually<br>feel... kinda nice...?<br> ,,vc_10330100022_006_01
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion04,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,7.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,7.5
+
+message,エメルダ,Ah，oh no，what's this... something deep in my belly is tickling... oh<br>shit... this is that feeling that makes your heart flutter later...<br> ,,vc_10330100022_007_01
+
+
+message,,The strange sensation of being vibrated from within coaxed sweet<br>moans from Emeralda's lips.<br> 
+
+l2dmotion,MouthEmotion06
+
+message,,Amazing. The Abyss's adult toys were high-quality and truly worth<br>studying. The researcher praised the technology while calmly recording.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6
+
+message,エメルダ,R-right... this toy is just that good... so if I get turned on，it's not my<br>fault... I'm not a bad person...<br> ,,vc_10330100022_008_01
+
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+message,エメルダ,So then，if I let myself feel it completely... no one can blame me...<br>right?<br> ,,vc_10330100022_009_01
+
+
+l2dmotion,FaceAngleReset
+
+message,,She felt a throb at her entrance. Announcing that they would move to<br>the next step，the researcher began to move his hands.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10330100022_003_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,エメルダ,Mmph! Ah!♡ Aah... *sigh* mmm!♡<br> ,,vc_10330100022_010_01
+
+
+message,,He lightly pumped the anal vibrator，and pleasure coursed through<br>her body. She twitched at the feeling of release when it was pulled out.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,12
+
+asyncl2dmotion,MouthEmotion01,on,STOP,12
+
+message,エメルダ,Ahh... he's poking around inside me... it feels ticklish... but... Mmph! it<br>feels good... I really like this!♡<br> ,,vc_10330100022_011_01
+
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Once she admitted it，her body，already acquainted with pleasure，<br>gave in easily. Emeralda's slit hung open，dripping with love juice.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,The love juice increased with each thrust and deepening pleasure，<br>until now it overflowed，streaming down in a steady flow.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,5
+
+l2dmessage,エメルダ,Huh? How does it feel，you ask? W-well，it's okay... Aah...<br> ,,vc_10330100022_012_01
+
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+message,エメルダ,(I'm lying... it actually feels good...)<br> ,,vc_10330100022_013_01
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,ExEmotion00,on,STOP,12
+
+asyncl2dmotion,MouthEmotion06,on,STOP,12
+
+message,エメルダ,(But it's embarrassing to get like this from just having it in my ass... I<br>don't want to admit I'm lewd or be thought of that way...)<br> ,,vc_10330100022_014_01
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,9
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,9
+
+message,エメルダ,(Ah! But I really know... I've been moaning in a sweet voice for a<br>while... I'm letting out these breathy，snuffling sounds...)<br> ,,vc_10330100022_015_01
+
+
+message,,To the researcher，Emeralda's lewd state，torn between shame and<br>lust，was bewitching. A dark feeling began to stir in his heart.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,N-next is this—the researcher said，his voice trembling too，as he<br>plunged into an unknown world.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10330100022_004_01,1,on
+
+asyncseplay,se2_3,se5020009,0,1,CONT,4
+
+l2dmessage,エメルダ,Mmph! Aaaaah! Aheeaah，Aah!<br> ,,vc_10330100022_016_01
+
+
+message,,With a *squelch*，another vibrator was mercilessly thrust into her<br>cunt. Emeralda's expression melted and her body jerked violently.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion02
+
+message,,Growing aroused at the sight，the researcher moved the vibrator in<br>and out of her cunt more vigorously.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,5
+
+l2dmessage,エメルダ,Mmm，Ah! D-don't... I'm going crazy! I'm losing my mind!♡<br> ,,vc_10330100022_017_01
+
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+l2dmessage,エメルダ,Too strong... attacking me at the same time，I can't... My vision is<br>flickering... I'm gonna cum!♡<br> ,,vc_10330100022_018_01
+
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+l2dmessage,エメルダ,No no nooo，Aaaaaah!♡<br> ,,vc_10330100022_019_01
+
+
+message,,Even as she said no，Emeralda felt the walls of her ego and heart<br>melting. As her resistance faded，what came to mind was that scene.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,エメルダ,(I know this feeling—already know it! The kind of sex that feels better<br>the more I want it to stop out of embarrassment—I've done that!♡)<br> ,,vc_10330100022_020_01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+asyncl2dmotion,FaceAngleTop,on,STOP,9
+
+
+message,エメルダ,(Same with Scoop the first time... Amazing... That favorite pervy play<br>from back then... It came again... It came for me!♡)<br> ,,vc_10330100022_021_01
+
+
+l2dmotion,Blush00
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion05,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,6
+
+message,エメルダ,(More，I want more... will you give it? To me，will you give it? Insane<br>fucking that'll make me fly away...♡ I want it... give it to me!♡)<br> ,,vc_10330100022_022_01
+
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Though she hadn't said it aloud，Emeralda's expression，gaze，and<br>her body's conditioned reflexes all broadcast her craving for pleasure.<br> 
+
+message,,The message reached even the researcher doing the experiment.<br>Seeing Emeralda's lewd state up close made him grit his teeth repeatedly.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,エメルダ,Please，make it stop!♡ Ease up!♡<br> ,,vc_10330100022_023_01
+
+
+l2dmotion,MouthEmotionReset
+
+message,,Was she asking him to stop the experiment，or to stop holding back<br>and surrender?<br> 
+
+message,,Amid the ambiguity，the researcher chose the correct answer by<br>instinct.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10330100022_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,2
+
+l2dmessage,エメルダ,Mmm，Aaaah!♡ I came!♡<br> ,,vc_10330100022_024_01
+
+
+l2dmotion,MouthEmotionReset
+
+message,,With ragged breaths，the researcher intensified the vibrator's<br>thrusting，giving in to the urge to drive this female crazier and crazier.<br> 
+
+l2dmotion,EyeOpen00
+
+message,,And then，to follow his own masculine instincts，the researcher threw<br>aside his records and lowered his pants.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,ExEmotion00
+
+asyncl2dmotion,MouthEmotion05,on,STOP,7
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,9
+
+l2dmessage,エメルダ,No，no，no，nooo!♡ My ass is moving on its own! I'm so embarrassed<br>but I can't help it! I can't take it anymooore!♡<br> ,,vc_10330100022_025_01
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,The researcher gripped his cock and began jerking off. His hand<br>holding the vibrator slackened slightly.<br> 
+
+message,,To make up for the lost stimulation，Emeralda started grinding her<br>hips，a greedy movement to receive more pleasure.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpen01
+
+l2dmessage,エメルダ,P-please!♡ More，more，please tease me moooore!♡<br> ,,vc_10330100022_026_01
+
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+l2dmessage,エメルダ,When I first had sex，it felt just like this!♡ That's why I became a<br>full-blown masochist pervert!♡<br> ,,vc_10330100022_027_01
+
+
+asyncl2dmotion,MouthEmotion00,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8
+
+l2dmessage,エメルダ,I love being tied up!♡ Being tormented is the best! So please，more，<br>give me moooore!♡<br> ,,vc_10330100022_028_01
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,With pleasure so intense her vision swam，Emeralda let out sloppy<br>moans. But finally，she noticed the man was masturbating.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleBottom
+
+l2dmessage,エメルダ,He's masturbating!♡ He's masturbating to this lewd，pathetic mess of<br>me!♡<br> ,,vc_10330100022_029_01
+
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4.6
+
+l2dmessage,エメルダ,*pump，pump*，*pump，pump*，the way he does it in his hand is<br>amazing!♡ Watching it gets me so hot!♡<br> ,,vc_10330100022_030_01
+
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,エメルダ,He's showing me my cunt getting pumped with his stroke，and it turns<br>me on so much... Sorry，I'm sorry for being such a pervert!♡<br> ,,vc_10330100022_031_01
+
+
+message,,By voicing her depraved fetish so lewdly，Emeralda got even more<br>aroused. She was accusing herself，as if under hypnosis.<br> 
+
+l2dmotion,MouthEmotion06
+
+message,,The researcher，who had a front-row seat to this，was no better off.<br>He stroked his cock more furiously than when he masturbated alone.<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmessage,エメルダ,Aaaaah，it feels so good...! *pump，pump*... *pump，pump*...!♡♡<br> ,,vc_10330100022_032_01
+
+
+message,,The pressure on the vibrator inside her vagina，which the researcher<br>kept moving，intensified. A tight clenching sensation reached him.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotionReset
+
+message,,Mobilizing the last of his reason，the researcher tried to etch<br>Emeralda's changes into his memory.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,Contraction，relaxation，then contraction again. The intervals<br>shortened，and her grip strengthened—a sign of approaching climax.<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+l2dmessage,エメルダ,*pant* Aaaahn! *pant* Aaaaaahn! I can't... no，no，no!♡<br> ,,vc_10330100022_033_01
+
+
+l2dmotion,MouthEmotionReset
+
+message,,Her words lost composure，her body trembling. Sweat beaded as<br>orgasm neared. ... The researcher was the same.<br> 
+
+message,,—No，I'm about to shoot...! Those desperate words made Emeralda<br>respond，dripping with sex appeal.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,エメルダ,Yes，please!♡ Let it out!♡ Spray it all over my body!<br> ,,vc_10330100022_034_01
+
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エメルダ,I'll take it all!♡ ... Ah，ah，ah，Aaaah! Aaaah! No，no，no!<br> ,,vc_10330100022_035_01
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,0.8
+
+bgvplay,bgvtag2_6,bgv_10330100022_006_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+sestop,se2_2,3
+
+sestop,se2_3,3
+
+l2dmessage,エメルダ,Mmm，*pant*，Aaaaah!♡♡<br> ,,vc_10330100022_036_01
+
+
+message,,At the same time as Emeralda climaxed with her whole body tingling，<br>the researcher recklessly released the semen he had been building up.<br> 
+
+message,,The large amount of semen splattered，soiling Emeralda's crotch. But<br>far from disgust，it brought her pleasure and a lingering afterglow.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7
+
+l2dmessage,エメルダ,Ah，*pant*!♡ S-so amazing... But I can't... can't move!♡<br> ,,vc_10330100022_037_01
+
+
+asyncl2dmotion,ExEmotion01,on,STOP,2
+
+message,,Her vagina twitched and quivered，and her body trembled in<br>response.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エメルダ,Ha，haha... maybe I really can't move...<br> ,,vc_10330100022_038_01
+
+
+message,,...Having released his desire，the researcher quickly regained his<br>composure. He apologized to Emeralda，showing concern for her.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,MouthEmotion06,on,STOP,4
+
+l2dmessage,エメルダ,I'm，I'm f-fine...<br> ,,vc_10330100022_039_01
+
+
+message,,She replied with slurred words—it seemed she wouldn't be able to<br>move for a while.<br> 
+
+
+
+bgvstop,bgvtag2_6,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

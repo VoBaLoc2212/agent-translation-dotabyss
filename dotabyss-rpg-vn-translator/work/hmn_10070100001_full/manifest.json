@@ -1,0 +1,1079 @@
+{
+  "scene": "hmn_10070100001",
+  "status": "PASS",
+  "source": {
+    "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10070100001.txt",
+    "sha256": "82aecb5f0e5cbe8a5e14c8790014391ead0a97b71ea328775eef37393e415f87",
+    "bytes": 30321,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1496
+  },
+  "output": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10070100001.txt",
+    "sha256": "a7bc84d40bfe4f2fa93e6f2d12473cdaf3437e6c75b282262a04d1165c2b9222",
+    "bytes": 31988,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1496
+  },
+  "novel_ja": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10070100001\\ja.json",
+    "sha256": "e9c2a49ec6751729db40e569b3def48b5d627c37bfa8ee466f7527ca6ebd9e63",
+    "bytes": 15770,
+    "bom": false,
+    "newline": "LF",
+    "line_count": 97
+  },
+  "novel_en": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10070100001\\en.json",
+    "sha256": "56c758d436f2e1d5c1d0eee848279d11b3b58836addc2b9e22f4f4e521b345d5",
+    "bytes": 14238,
+    "bom": false,
+    "newline": "LF",
+    "line_count": 97
+  },
+  "text_command_counts": {
+    "title": 1,
+    "message": 102,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 103
+  },
+  "entries": [
+    {
+      "record_index": 1,
+      "line": 26,
+      "command": "title",
+      "speaker": "Investigate! The Ghost Incident!",
+      "source_en": "Investigate! The Ghost Incident!",
+      "vi": "Điều Tra! Vụ Náo Loạn Ma Quái!",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 2,
+      "line": 77,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "So this is where that ghost disturbance everyone's been talking about<br>at the Frontline Base is，huh?<br> ",
+      "vi": "Vậy hiện trường vụ ma quái đang đồn ở Căn Cứ Tiền Tuyến<br>là quanh đây à?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 3,
+      "line": 79,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "I figured it was just a dumb rumor，seeing ghosts in broad daylight...<br>but it doesn't look like anything's wrong here.<br> ",
+      "vi": "Mình đã nghĩ chuyện thấy ma giữa ban ngày chỉ là lời đồn nhảm…<br>nhưng xem ra quanh đây không có gì bất thường.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 4,
+      "line": 107,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Gwooarr!<br> ",
+      "vi": "Gàoooo!<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 5,
+      "line": 133,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "That was a monster's roar...!? It came from over there!<br> ",
+      "vi": "Vừa rồi là tiếng quái vật…!? Nó vọng tới từ đằng kia!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 6,
+      "line": 169,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Found 'em，a pack of monsters! Tch，someone's already being<br>attacked!<br> ",
+      "vi": "Thấy rồi‚ cả một bầy quái vật! Khỉ thật‚ đã có người bị<br>tấn công rồi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 7,
+      "line": 171,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Hey! You there，run!<br> ",
+      "vi": "Này! Cô ở đó‚ mau chạy đi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 8,
+      "line": 206,
+      "command": "message",
+      "speaker": "騎士風の女性",
+      "source_en": "Oh my，if it isn't Commander? What are you doing in a place like this?<br> ",
+      "vi": "Ôi chao‚ chẳng phải là Chỉ Huy sao? Anh làm gì ở nơi thế này vậy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 9,
+      "line": 208,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Why are you so calm! Run to the base while I keep the monsters busy!<br> ",
+      "vi": "Sao cô còn thảnh thơi vậy! Chạy về căn cứ trong lúc tôi dụ bọn quái vật đi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 10,
+      "line": 242,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Gwooarr!<br> ",
+      "vi": "Gàoooo!<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 11,
+      "line": 244,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "——! I'm done for...!<br> ",
+      "vi": "——! Mình tiêu rồi sao…!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 12,
+      "line": 313,
+      "command": "message",
+      "speaker": "フードの女性",
+      "source_en": "...!!!<br> ",
+      "vi": "…!!!<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 13,
+      "line": 317,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Gyaoo...<br> ",
+      "vi": "Gyaoo…<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 14,
+      "line": 319,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "What! That hooded figure took down a monster in one hit!? Who in<br>the world is this...?!<br> ",
+      "vi": "Cái gì! Người mặc áo choàng đó hạ quái vật chỉ bằng một đòn!?<br>Rốt cuộc cô ta là ai…!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 15,
+      "line": 367,
+      "command": "message",
+      "speaker": "騎士風の女性",
+      "source_en": "Honestly，you shouldn't be so reckless. You're in a very important<br>position，Commander，aren't you?<br> ",
+      "vi": "Thật là‚ anh không được liều lĩnh như thế đâu nhé. Anh đang giữ một<br>vị trí rất quan trọng mà‚ Chỉ Huy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 16,
+      "line": 417,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Gwooarr!<br> ",
+      "vi": "Gàoooo!<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 17,
+      "line": 470,
+      "command": "message",
+      "speaker": "騎士風の女性",
+      "source_en": "Oh my. Let's take care of these little ones first，and then we can<br>have the scolding.<br> ",
+      "vi": "Ôi chao. Chuyện mắng mỏ để sau khi dọn dẹp<br>mấy đứa này nhé.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 18,
+      "line": 481,
+      "command": "message",
+      "speaker": "騎士風の女性",
+      "source_en": "Noir，if you please.<br> ",
+      "vi": "Noir‚ nhờ em nhé.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 19,
+      "line": 498,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 20,
+      "line": 527,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Gyaoo...<br> ",
+      "vi": "Gyaoo…<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 21,
+      "line": 529,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "She annihilated the entire pack in an instant... All by herself...<br> ",
+      "vi": "Cô ấy quét sạch cả bầy quái vật trong chớp mắt… Chỉ một mình…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 22,
+      "line": 568,
+      "command": "message",
+      "speaker": "騎士風の女性",
+      "source_en": "Good work，Noir.<br> ",
+      "vi": "Làm tốt lắm‚ Noir.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 23,
+      "line": 572,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪ ...♪<br> ",
+      "vi": "…♪ …♪<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 24,
+      "line": 618,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "That's impressive. So who are you?<br> ",
+      "vi": "Ấn tượng thật. Vậy cô là ai?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 25,
+      "line": 629,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "I'm Film of the Milesgard Knights. Nice to meet you，Commander.<br> ",
+      "vi": "Em là Film của Đoàn Kỵ Sĩ Milesgard. Rất vui được gặp anh‚ Chỉ Huy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 26,
+      "line": 633,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "So you're a knight. That explains why you know me.<br> ",
+      "vi": "Hóa ra cô là kỵ sĩ. Thảo nào cô biết tôi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 27,
+      "line": 635,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "But I'm more curious about her. What's that floating one?<br> ",
+      "vi": "Nhưng tôi tò mò về cô ấy hơn. Người đang lơ lửng kia là gì vậy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 28,
+      "line": 659,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "This is Noir. She's a ghost，as you can see.<br> ",
+      "vi": "Đây là Noir. Như anh thấy đấy‚ em ấy là một cô ma.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 29,
+      "line": 661,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "A g-ghost!<br> ",
+      "vi": "M-Ma á!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 30,
+      "line": 665,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 31,
+      "line": 694,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Yes. She's been cursing me for a very long time.<br> ",
+      "vi": "Ừ. Em ấy đã nguyền rủa em từ rất lâu rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 32,
+      "line": 696,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Cursing? That's not something you just mention casually.<br> ",
+      "vi": "Nguyền rủa á… Đó đâu phải chuyện có thể thản nhiên nói ra vậy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 33,
+      "line": 712,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Oh，she doesn't possess other people，so you don't have to worry.<br> ",
+      "vi": "À‚ em ấy không nhập vào người khác đâu nên anh không cần lo.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 34,
+      "line": 714,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "You're cursed，yet you're incredibly calm about it. You're a strange<br>one.<br> ",
+      "vi": "Bị nguyền rủa mà cô vẫn bình thản đến thế…<br>Đúng là người kỳ lạ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 35,
+      "line": 716,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "And that ghost... Noir，was it? Seems like she was taking orders from<br>you.<br> ",
+      "vi": "Với lại con ma đó… là Noir nhỉ?<br>Có vẻ cô ấy nghe theo lệnh của cô?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 36,
+      "line": 727,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "We've been together for ages. Now she listens to my requests too.<br> ",
+      "vi": "Bọn em gắn bó với nhau lâu rồi mà. Giờ em ấy cũng nghe lời em nhờ nữa.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 37,
+      "line": 746,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 38,
+      "line": 764,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "She's a handy ghost. Doesn't even feel like a curse anymore.<br> ",
+      "vi": "Một cô ma tiện lợi thật. Cảm giác chẳng còn giống lời nguyền nữa…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 39,
+      "line": 799,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "More importantly!<br> ",
+      "vi": "Quan trọng hơn!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 40,
+      "line": 801,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Whoa! W-What!<br> ",
+      "vi": "Oái! C-Cái gì vậy!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 41,
+      "line": 810,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Time for a scolding，Commander!<br> ",
+      "vi": "Đến giờ mắng rồi đấy‚ Chỉ Huy!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 42,
+      "line": 812,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Why am I the one getting scolded!?<br> ",
+      "vi": "Sao tôi lại là người bị mắng chứ!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 43,
+      "line": 823,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Isn't it obvious! You can't just make yourself a decoy!<br> ",
+      "vi": "Rõ ràng quá còn gì! Anh không được tự biến mình thành mồi nhử!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 44,
+      "line": 825,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Even so，if a girl's being attacked，it's only natural to help.<br> ",
+      "vi": "Nói vậy chứ khi một cô gái bị tấn công thì giúp đỡ là chuyện đương nhiên mà.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 45,
+      "line": 840,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "That's a wonderful attitude，but you need to consider your position.<br>You're essential to the Frontline Base，aren't you?<br> ",
+      "vi": "Tinh thần đó rất đáng quý‚ nhưng anh phải nghĩ đến vị trí của mình.<br>Anh là người cần thiết cho Căn Cứ Tiền Tuyến mà‚ đúng không?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 46,
+      "line": 851,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Besides，it's not like you're super strong—you can't even fight. You<br>need to properly reflect on this，okay?<br> ",
+      "vi": "Hơn nữa nếu anh mạnh khủng khiếp thì còn đỡ‚ đằng này anh đâu thể chiến đấu.<br>Anh phải ngoan ngoãn tự kiểm điểm đấy nhé?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 47,
+      "line": 853,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "...You're right. I moved before I thought. If it hadn't been you here，<br>Film，it could have been dangerous. I'll reflect on that.<br> ",
+      "vi": "…Đúng là cơ thể tôi đã hành động trước khi kịp nghĩ. Nếu người ở đây<br>không phải Film thì nguy hiểm thật. Tôi sẽ tự kiểm điểm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 48,
+      "line": 865,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Good，well done! I like honest kids!♪<br> ",
+      "vi": "Được rồi‚ giỏi lắm! Chị thích những đứa trẻ ngoan ngoãn lắm đấy♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 49,
+      "line": 867,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Hmph. You really treat me like a kid，don't you?<br> ",
+      "vi": "Hừ. Cô đúng là coi tôi như trẻ con quá nhỉ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 50,
+      "line": 903,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Oh，absolutely. From Big Sister Film's perspective，Commander is still<br>just a child.<br> ",
+      "vi": "Ừ‚ tất nhiên rồi. Trong mắt chị Film thì Chỉ Huy vẫn<br>còn là trẻ con lắm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 51,
+      "line": 905,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "What do you mean? It doesn't look like we're that far apart in age.<br> ",
+      "vi": "Ý cô là sao? Trông chúng ta đâu có cách biệt tuổi tác đến vậy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 52,
+      "line": 917,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Actually，it's because of Noir's curse—my appearance just hasn't<br>aged at all.<br> ",
+      "vi": "Thật ra vì lời nguyền của Noir nên ngoại hình em<br>chẳng hề lớn lên chút nào.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 53,
+      "line": 937,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 54,
+      "line": 955,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Gah，are you serious! A curse that freezes your appearance—that's<br>terrifying...<br> ",
+      "vi": "Ặc‚ thật đấy à!? Một lời nguyền khóa chặt ngoại hình…<br>đáng sợ thật…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 55,
+      "line": 964,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "It's a real problem，you know? Even when I explain，people won't<br>believe me.<br> ",
+      "vi": "Phiền lắm anh nhỉ.<br>Dù em giải thích thì người ta cũng khó tin lắm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 56,
+      "line": 966,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "So what's your actual age?<br> ",
+      "vi": "Tuổi thật của cô khoảng bao nhiêu?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 57,
+      "line": 978,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Oh，it's rude to ask a lady her age! If you want to be a nice boy，<br>you'd better watch out!<br> ",
+      "vi": "Ôi chao‚ hỏi tuổi một quý cô là bất lịch sự đấy. Nếu muốn thành một cậu bé tốt<br>thì anh phải cẩn thận hơn nhé!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 58,
+      "line": 980,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "That casual confidence... you're quite a bit older than me，aren't<br>you?<br> ",
+      "vi": "Vẻ điềm nhiên đó… cô lớn tuổi hơn tôi khá nhiều<br>nhỉ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 59,
+      "line": 992,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "That's right. It's still，still，still，still，still，still far too early for you<br>to worry about me.<br> ",
+      "vi": "Đúng là vậy. Anh lo cho em thì vẫn còn‚ còn‚ còn‚ còn‚ còn‚ còn<br>quá sớm đấy nhé.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 60,
+      "line": 994,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "No，I'll worry about you anyway.<br> ",
+      "vi": "Không‚ tôi vẫn sẽ lo cho cô.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 61,
+      "line": 1006,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Oh? And why is that?<br> ",
+      "vi": "Ồ? Vì sao vậy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 62,
+      "line": 1008,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "I get that Film's way older than me，and that she's got the power to<br>fight.<br> ",
+      "vi": "Tôi hiểu Film lớn tuổi hơn tôi rất nhiều và cô ấy có sức mạnh<br>để chiến đấu.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 63,
+      "line": 1010,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "But no matter how much older she is，she's still a girl. I worry about<br>her，and I want to protect her.<br> ",
+      "vi": "Nhưng dù lớn tuổi đến đâu thì cô ấy vẫn là con gái. Tôi sẽ lo lắng<br>và cũng muốn bảo vệ cô ấy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 64,
+      "line": 1022,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "...!<br> ",
+      "vi": "…!<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 65,
+      "line": 1045,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Oh，honestly，Commander! Trying to look cool!<br> ",
+      "vi": "T-Thật là‚ Chỉ Huy này! Lại ra vẻ ngầu rồi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 66,
+      "line": 1047,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "A guy's gotta try to look cool in front of a cute girl，right?<br> ",
+      "vi": "Đàn ông thì phải ra vẻ ngầu trước mặt một cô gái đáng yêu chứ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 67,
+      "line": 1064,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "C-c-cute girl... I'm not really the age to be called a girl，you know?<br> ",
+      "vi": "C-C-Cô gái đáng yêu gì chứ… Em đâu còn ở tuổi được gọi là con gái nữa đâu?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 68,
+      "line": 1066,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "A woman is a lady regardless of age. Shouldn't a decent guy think<br>that way?<br> ",
+      "vi": "Phụ nữ dù bao nhiêu tuổi vẫn là quý cô. Một người đàn ông tử tế<br>nên nghĩ như vậy chứ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 69,
+      "line": 1077,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "S-s-stop saying things like that! It's no use being nice to someone<br>like me!♡<br> ",
+      "vi": "A-a-anh cứ nói toàn những lời như thế! Dịu dàng với người như em<br>cũng chẳng được gì đâu mà～♡<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 70,
+      "line": 1079,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Hmph，no matter what you say，I'm not changing my mind.<br> ",
+      "vi": "Hừ‚ cô có nói gì thì ý định của tôi cũng không đổi đâu.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 71,
+      "line": 1081,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "So if you don't want me doing anything reckless，don't go walking in<br>dangerous places alone，Film.<br> ",
+      "vi": "Vậy nên nếu cô không muốn tôi liều lĩnh thì Film cũng đừng một mình<br>đi quanh những nơi nguy hiểm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 72,
+      "line": 1093,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "...I understand. You worry about me，don't you，Commander?<br> ",
+      "vi": "…Em hiểu rồi. Vì Chỉ Huy sẽ lo cho em mà‚ nhỉ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 73,
+      "line": 1106,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Still，it's been a really long time since anyone called me a cute girl.<br>Right，Noir?<br> ",
+      "vi": "Dù vậy‚ đã lâu lắm rồi em mới được ai đó gọi là cô gái đáng yêu.<br>Đúng không‚ Noir?<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 74,
+      "line": 1126,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 75,
+      "line": 1146,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Flying around in broad daylight... you're a pretty energetic ghost.<br> ",
+      "vi": "Bay lượn giữa ban ngày thế này… cô đúng là một con ma khỏe khoắn thật.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 76,
+      "line": 1158,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "That's right. She's so lively and full of mischief—she's a real handful.<br> ",
+      "vi": "Đúng vậy đó. Em ấy vừa năng động vừa thích nghịch nên em cũng đau đầu lắm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 77,
+      "line": 1160,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Mischief? What kind...<br> ",
+      "vi": "Nghịch à? Kiểu như…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 78,
+      "line": 1180,
+      "command": "message",
+      "speaker": "",
+      "source_en": "*squeeze*<br> ",
+      "vi": "*bóp nhẹ*<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 79,
+      "line": 1186,
+      "command": "message",
+      "speaker": "",
+      "source_en": "Suddenly，%user%'s right hand，of its own accord，gently squeezed<br>Film's bosom.<br> ",
+      "vi": "Đột nhiên bàn tay phải của %user% tự cử động<br>và nhẹ nhàng bóp ngực Film.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 80,
+      "line": 1197,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Eek!<br> ",
+      "vi": "Á!!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 81,
+      "line": 1215,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "N-no! I didn't do anything! I mean，I did squeeze it，but it was soft，<br>but that...<br> ",
+      "vi": "K-Không phải! Tôi không làm gì cả! Ý tôi là có bóp thì đúng là có bóp<br>và mềm thật nhưng chuyện đó…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 82,
+      "line": 1227,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "...This was your doing，Noir?<br> ",
+      "vi": "…Là em làm đúng không‚ Noir?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 83,
+      "line": 1247,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪<br> ",
+      "vi": "…♪<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 84,
+      "line": 1265,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Can this ghost actually mess with people，despite being a ghost?<br> ",
+      "vi": "Con ma này có thể can thiệp vào người khác dù là ma à?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 85,
+      "line": 1274,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "She's strong enough to fight monsters，after all. With her spiritual<br>power，a little prank is nothing.<br> ",
+      "vi": "Em ấy còn có thể chiến đấu với quái vật mà. Dùng linh lực thì mấy trò nghịch<br>nho nhỏ dễ như không.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 86,
+      "line": 1294,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...♪ ...♪♪<br> ",
+      "vi": "…♪ …♪♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 87,
+      "line": 1321,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "That's not praise，Noir.<br> ",
+      "vi": "Chị đâu có khen em đâu‚ Noir.<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 88,
+      "line": 1323,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "A mischievous ghost active even in broad daylight，huh... So this is<br>the truth behind the rumors.<br> ",
+      "vi": "Một con ma tinh nghịch vẫn năng động giữa ban ngày à… Vậy đây chính là<br>sự thật đằng sau lời đồn.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 89,
+      "line": 1334,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Rumor?<br> ",
+      "vi": "Lời đồn?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 90,
+      "line": 1336,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Lately there's been a rumor about ghosts appearing during the day. I<br>came here to check it out.<br> ",
+      "vi": "Gần đây có lời đồn rằng ma xuất hiện cả ban ngày. Tôi đến đây<br>để kiểm chứng chuyện đó.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 91,
+      "line": 1347,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "So the danger you ran into was because of Noir's prank in the first<br>place?<br> ",
+      "vi": "Vậy việc Chỉ Huy gặp nguy hiểm ngay từ đầu<br>cũng là do trò nghịch của Noir nhỉ?<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 92,
+      "line": 1355,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "...Listen，Noir.<br> ",
+      "vi": "…Nghe này‚ Noir.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 93,
+      "line": 1374,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...?<br> ",
+      "vi": "…?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 94,
+      "line": 1399,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "If you go too far，even I'll get angry，you know?<br> ",
+      "vi": "Nếu em làm quá trớn thì ngay cả chị cũng sẽ giận đấy nhé?<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 95,
+      "line": 1418,
+      "command": "message",
+      "speaker": "ノワール",
+      "source_en": "...!! ...!!!<br> ",
+      "vi": "…!! …!!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 96,
+      "line": 1436,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Noir's trembling...<br> ",
+      "vi": "Noir đang run lẩy bẩy kìa…<br> ",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 97,
+      "line": 1447,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "I'm truly sorry，Commander. I'll have a proper talk with her.<br> ",
+      "vi": "Em thật sự xin lỗi anh nhé‚ Chỉ Huy. Em sẽ nói chuyện đàng hoàng với em ấy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 98,
+      "line": 1449,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "The one who's supposed to be cursed is scolding the one who cursed<br>her...?<br> ",
+      "vi": "Film lẽ ra là người bị nguyền rủa lại đi mắng Noir<br>là bên nguyền rủa mình sao…?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 99,
+      "line": 1461,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Of course. Bad kids need discipline.<br> ",
+      "vi": "Tất nhiên rồi. Trẻ hư thì cần bị phạt mà.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 100,
+      "line": 1472,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "That goes for you too，Commander. You'll listen to your big sister，<br>right?<br> ",
+      "vi": "Cả Chỉ Huy cũng vậy nhé. Phải nghe lời chị gái cho ngoan<br>đấy nhé?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 101,
+      "line": 1474,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "Alright，alright. Let's head back before more monsters show up.<br> ",
+      "vi": "Rồi rồi. Chúng ta rút về trước khi quái vật khác xuất hiện thôi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 102,
+      "line": 1485,
+      "command": "message",
+      "speaker": "フィルム",
+      "source_en": "Yes，good boy，good boy. I'll give you a treat when we get back.<br> ",
+      "vi": "Ừ‚ ngoan lắm ngoan lắm. Về rồi chị sẽ cho anh đồ ăn vặt nhé.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 103,
+      "line": 1487,
+      "command": "message",
+      "speaker": "<user>",
+      "source_en": "You really treat me like a kid... honestly.<br> ",
+      "vi": "Đúng là coi tôi như trẻ con thật… hết nói nổi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "notes": [
+    "JP primary; EN asset used for ordered alignment; speakers/charaload technical names preserved; Film/Noir kept as EN-provided romanized names in prose.",
+    "All characters confirmed 18+ by project context; mild adult-adjacent prank content translated without softening while preserving non-consensual ghost-prank context."
+  ]
+}

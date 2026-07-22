@@ -1,0 +1,850 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10540100012
+
+charaload,chara_1,105401000G,フレイヤ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10540100012_001_01,1,on
+
+
+
+
+
+
+
+
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,MouthEmotion00
+
+window,on,0.15
+l2dmessage,フレイヤ,C-Commander...?<br> ,,vc_10540100012_001_01
+
+message,,Freya's clothes hung open，revealing her still-immature body. Her<br>voice trembled with confusion.<br> 
+
+message,,—What's wrong? I asked，deliberately keeping my voice calm and<br>composed.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen05
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+l2dmessage,フレイヤ,U-um... is this what the trial... feels like...?<br> ,,vc_10540100012_002_01
+
+message,,—Yeah，a brothel is a place where adults do these kinds of things. I<br>said，making sure she understood what went on there.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+message,,—You said you'd endure any trial，but if it's too much，you can give<br>up. I told her a brothel was too harsh for a sheltered young lady.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion00
+
+message,フレイヤ,(My imagination is completely off... so a brothel is a place for doing<br>lewd things...)<br> ,,vc_10540100012_003_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen05
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8
+
+message,フレイヤ,(But if it's with the Commander... maybe I want to try... this kind of<br>thing...?)<br> ,,vc_10540100012_004_01
+
+l2dmotion,EyeOpen01
+
+message,,Freya was lost in thought，so I called out to her.<br> 
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,EyeOpen05,on,STOP,1
+
+message,,—You're not into this，are you? You don't have to force yourself.<br>Let's call it a day... I said，trying to make her give up，but...<br> 
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+l2dmessage,フレイヤ,No! This trial of yours，Commander... pl-please let me take it!<br> ,,vc_10540100012_005_01
+
+message,,I could hardly believe my ears. I knew she was curious，but had that<br>sparked something strange in her?<br> 
+
+l2dmotion,EyeOpen05
+
+l2dmotion,EyebrowEmotionReset
+
+message,,Or maybe it was pride at having been the one to suggest taking the<br>trial. I didn't think she was this stubborn...<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+message,,—Then I tried another approach. I stoked her sense of shame to make<br>her give up.<br> 
+
+message,,—Have you ever been with a man?<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion00
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+l2dmessage,フレイヤ,N-no...<br> ,,vc_10540100012_006_01
+
+message,,Freya answered while fidgeting nervously. It was a reaction typical of<br>a naive virgin，shy about sexual matters.<br> 
+
+message,,—Do you masturbate when you're alone? I pressed，following up with<br>another question.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen05,on,STOP,1.7
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1.7
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+l2dmessage,フレイヤ,Eh! W-well，a little...<br> ,,vc_10540100012_007_01
+
+message,,—Then do it now. Right in front of me.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,フレイヤ,H-here! I-in front of the Commander!<br> ,,vc_10540100012_008_01
+
+message,,Freya，hit with a trial she never could have imagined，grew flustered<br>and averted her gaze.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion00
+
+message,フレイヤ,(B-but I have to overcome this trial!)<br> ,,vc_10540100012_009_01
+
+l2dmotion,EyeOpen05
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2.2
+
+l2dmessage,フレイヤ,I-I understand... I'll show you...<br> ,,vc_10540100012_010_01
+
+message,,Her stubbornness was apparently beyond what I had imagined.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene02,on,STOP,0.2
+
+bgvplay,bgvtag2_2,bgv_10540100012_002_01,1,on
+
+l2dmessage,フレイヤ,Mmph... Mmmph... *pant*... Ngh!<br> ,,vc_10540100012_011_01
+
+message,,Freya traced her fingers along her flower，trying to stifle her<br>moans，but her young body was sensitive and sweet sighs escaped her lips.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+l2dmessage,フレイヤ,*pant*... *pant*... Uun... Mmph... Ngh... Ngh!... *sigh*... Ngh... *pant*...<br>Mmmph...<br> ,,vc_10540100012_012_01
+
+l2dmotion,FaceAngleBottomRight
+
+message,フレイヤ,(The Commander is watching me... in such an embarrassing state...)<br> ,,vc_10540100012_013_01
+
+message,,The pleasure from her flower and the embarrassment of being<br>watched made Freya's body grow hotter and hotter.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+message,,She scooped up her love juice and rubbed it over her bud，sending a<br>sweet jolt through her and making her body burn even hotter.<br> 
+
+message,,I asked her，'Do you do this every day?' as a way to stoke her shame.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion04
+
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1.5
+
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpen05,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+l2dmessage,フレイヤ,I-it's not every day! Please don't say such embarrassing things...<br>T-that...<br> ,,vc_10540100012_014_01
+
+message,,Freya kept touching herself，her face bright red with shame. Seeing<br>her stubborn persistence，I decided to take the next step.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10540100012_003_01,1,on
+
+l2dmessage,フレイヤ,Huh...? Huh? Aah! Mmph! Aah *pant*... Mmph!<br> ,,vc_10540100012_015_01
+
+message,,I kneaded her small chest from behind and teased her tips with my<br>fingertips.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,MouthEmotion00
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,5
+
+l2dmessage,フレイヤ,Ah!... Mmph!... Aah *pant*... *whimper*... Ah!... *pant*... Mmph!... Ah!...<br>Ahaah...<br> ,,vc_10540100012_016_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+message,フレイヤ,(The Commander's touch... i-it's so lewd! But... with just the right<br>pressure... i-it feels s-so good!)<br> ,,vc_10540100012_017_01
+
+l2dmotion,FaceAngleReset
+
+message,,Freya's lower belly grew hot and throbbed unbearably. Hot love juice<br>gushed from deep inside her，wetting her inner thighs.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion02
+
+message,フレイヤ,N-no... W-what should I do...<br> ,,vc_10540100012_018_01
+
+message,,Her lower abdomen still throbbed，love juice trickled down her<br>thighs，soaking the man she admired.<br> 
+
+message,,What's wrong? Is something troubling you? It was clear she was<br>flustered with shame，so I deliberately pressed her further.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionLeft
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+l2dmessage,フレイヤ,Th-that's... ugh...<br> ,,vc_10540100012_019_01
+
+message,,I don't appreciate secrets. Is there something embarrassing you need<br>to say? I kept stroking her even as I asked.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion00
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+l2dmessage,フレイヤ,Ah... Mmph... u-um... more than usual... *pant*... I-I'm... um... really<br>wet...<br> ,,vc_10540100012_020_01
+
+message,,The moment she said that，blood rushed to her face with<br>embarrassment，and it burned hot.<br> 
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+message,フレイヤ,(H-how embarrassing... A-and... I-I'm almost there...)<br> ,,vc_10540100012_021_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene04,on,STOP,1
+
+bgvplay,bgvtag2_4,bgv_10540100012_004_01,1,on
+
+l2dmessage,フレイヤ,Mmph! *pant*!<br> ,,vc_10540100012_022_01
+
+message,,Freya's body tensed with a jerk，and she stopped masturbating. She<br>must have had a small climax. I stopped my caresses at the same time.<br> 
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4
+
+l2dmessage,フレイヤ,*pant*... *pant*... Mmph... I... I came...<br> ,,vc_10540100012_023_01
+
+message,,Love juice dripped thickly from her entrance，giving off an obscene<br>scent. At this wetness，penetration would be easy even for a first time.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion01
+
+message,,But this time，my goal was to make Freya give up. Freya stared<br>intently at my erect cock.<br> 
+
+message,,Is this your first time seeing a man's cock?<br> 
+
+l2dmotion,EyeOpen05
+
+l2dmotion,EyeEmotionRight
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+l2dmessage,フレイヤ,Y-yes...<br> ,,vc_10540100012_024_01
+
+message,,Her voice trembled slightly. She must have been scared by the size of<br>my cock. If I kept threatening her，she might give up.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,8
+
+message,フレイヤ,(O-oh，so big... So this is a man's thing... It's way bigger than I<br>imagined...)<br> ,,vc_10540100012_025_01
+
+message,,It's big，isn't it? This is going to go into your pussy. Aren't you<br>scared?<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,フレイヤ,H-honestly... I-I'm scared...<br> ,,vc_10540100012_026_01
+
+message,,Her voice was completely terrified. If I kept piling on threats，even<br>Freya should give up.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+message,,Your first time will hurt and you might bleed. Still sure? I dropped my<br>voice，threatening her. And then...<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.5
+
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,フレイヤ,Y-yes...! I-I am prepared... I-I'll show you I can endure any pain...!<br> ,,vc_10540100012_027_01
+
+message,,Her answer completely contradicted my expectations. Her resolve was<br>clearly real.<br> 
+
+l2dmotion,FaceAngleReset
+
+message,,Freya passed every trial I gave her. So I decided to respect her will<br>and resolve.<br> 
+
+message,,—Understood，"" I said gently. ""I'm putting it in now. It might hurt，but<br>bear with me.<br> 
+
+l2dmotion,EyeOpen05
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,フレイヤ,Y-yes... p-please... do it...<br> ,,vc_10540100012_028_01
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10540100012_005_01,1,on
+
+wait,0.8
+
+l2dmessage,フレイヤ,*pant，pant*... Ah! Nghaa! Aaaaaaahh!<br> ,,vc_10540100012_029_01
+
+message,,I lifted Freya's light body，slipped the tip inside，and thrust deep in<br>one go. Her love juice made it easy.<br> 
+
+message,,Along the way，her hymen resisted，but my cock pressed on，stopping<br>when it pushed against her womb.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+l2dmessage,フレイヤ,Mmph! *pant*... Ngh... *pant*... Aaah... Mmmuu...<br> ,,vc_10540100012_030_01
+
+message,,The pain of losing her virginity was unmistakable. Freya took deep，<br>pained breaths，and tears welled at the corners of her eyes.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+message,,—I'm sorry. Does it hurt...? I asked softly.<br> 
+
+l2dmotion,MouthEmotion00
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+l2dmessage,フレイヤ,Y-yes... it's throbbing. B-but... I'm okay... p-please continue.<br> ,,vc_10540100012_031_01
+
+message,,It was obvious that Freya was putting up a brave front. I decided to<br>wait a while until the pain subsided and her pussy got used to me.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+l2dmessage,フレイヤ,*pant，pant*... I-inside my belly... it's so hot...<br> ,,vc_10540100012_032_01
+
+message,,Gradually，Freya's throbbing pain faded，and she began to feel the<br>hot sensation of my cock inside her.<br> 
+
+message,,Her virgin pussy trembled，slick with love juice，and clamped down to<br>swallow my cock.<br> 
+
+l2dmotion,EyeOpen05
+
+message,,—Don't worry，the pain will pass quickly. It'll start feeling good soon.<br>I said this，feeling that her body was ready to accept my cock.<br> 
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.7
+
+l2dmessage,フレイヤ,Y-yes... p-please... continue.<br> ,,vc_10540100012_033_01
+
+message,,—I'm going to move now. With that，I put strength into my hips and<br>began thrusting.<br> 
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10540100012_006_01,1,on
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,5
+
+l2dmessage,フレイヤ,Mmph，Mph，*pant*! Ngh，Mph，Ngh，Aaaah，Mph，Mmph，Aah...<br> ,,vc_10540100012_034_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,5
+
+l2dmessage,フレイヤ,Ngh... mm... Ngh... *sigh*... Ngh...<br>*huff*... *pant*... mm... mmm...<br> ,,vc_10540100012_035_01
+
+message,,Perhaps embarrassed by her moans，Freya continued to endure，<br>letting out muffled sounds.<br> 
+
+l2dmotion,FaceAngleReset
+
+message,,'Are you still in pain?' I asked，because her voice sounded pained.<br> 
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+l2dmessage,フレイヤ,N-no... th-that's not it... When it hits my deepest part，it feels so<br>good... I feel like a strange voice is going to come out...<br> ,,vc_10540100012_036_01
+
+message,,'It's fine to make noise when it feels good，' I told her and continued<br>thrusting.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,フレイヤ,Mmph，ah... Ahaah! I-it feels... good!<br>Aaah... Mmph... *pant*... ah，ah... *pant*!<br> ,,vc_10540100012_037_01
+
+message,,Reassured by my words，Freya gradually began to let out honest<br>moans of pleasure.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeEmotionTop
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+l2dmessage,フレイヤ,Aah!... Mmph... Kuh... *pant*... Mmph...<br>*pant*... Ngh... Kuh!... Ah!... Aha!<br> ,,vc_10540100012_038_01
+
+message,,I kept a steady rhythm，adjusting each thrust's angle to stretch her<br>tight，virgin walls.<br> 
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+l2dmessage,フレイヤ,Hyaan!... Ah!... *pant* Aaaah!... Mmph!... *pant*!...<br>Ah，Ah，Aahn!... Hau!... Uuuhn!... *pant* Aaaah!<br> ,,vc_10540100012_039_01
+
+message,,Her trembling inner walls clung to my shaft. Suddenly I felt the urge<br>to cum building，a burning heat gathering at the tip.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+message,,'I'm about to cum，' I told her.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7
+
+l2dmessage,フレイヤ,Ahh... *pant*... Mmph!... *pant*...!<br>I... I'm about to cum too...!<br> ,,vc_10540100012_040_01
+
+message,,It seemed she was also close to her limit. We both raced toward<br>mutual climax，accelerating our rhythm.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,1.5
+
+bgvplay,bgvtag2_7,bgv_10540100012_007_01,1,on
+
+l2dmessage,フレイヤ,Ah! I，I'm cumming!<br>Aaaaaaah!<br> ,,vc_10540100012_041_01
+
+message,,The moment my final thrust hit her deepest point，Freya arched her<br>back，and a torrent of cum poured deep inside her.<br> 
+
+l2dmotion,EyeOpen02
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+l2dmessage,フレイヤ,*pant*... *pant*... Mmph!<br>*pant*... mm!... uhn... mm!<br> ,,vc_10540100012_042_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen05
+
+message,,Freya continued to have small spasms，staring blankly at the cum<br>flowing from where we were joined.<br> 
+
+message,,I kept cumming. Each time my shaft twitched and pulsed，sending more<br>cum，my pleasure lingered. Freya stared at where we were joined.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+message,フレイヤ,(Inside my belly... it's so hot...<br>This is... the Commander's... seed...!?)<br> ,,vc_10540100012_043_01
+
+message,,I gently praised her for enduring the trial well.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10540100012_008_01,1,on
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,フレイヤ,Y-yes... That was my first time... Honestly，I was terribly scared at<br>first... And it hurt at first too...<br> ,,vc_10540100012_044_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen05
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotion05,on,STOP,5
+
+l2dmessage,フレイヤ,B-but，once it started，I gradually began to feel good... Now... I feel<br>so happy，somehow...<br> ,,vc_10540100012_045_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+message,,After saying that，Freya turned to me and gave a satisfied smile.<br> 
+
+
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

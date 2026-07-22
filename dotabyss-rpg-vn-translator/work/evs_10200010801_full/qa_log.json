@@ -1,0 +1,13 @@
+{
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP JSON used as primary source; EN JSON and EN asset used for ordered alignment.",
+    "No H-18 content detected in this asset; adult-content special QA not applicable.",
+    "All characters are treated as confirmed 18+ per task context.",
+    "ASCII comma inside Vietnamese text fields is forbidden; U+201A used where needed.",
+    "Speaker/ID/voice/chara technical fields preserved byte-for-byte for candidate records except translated text field."
+  ],
+  "english_kept_records": []
+}

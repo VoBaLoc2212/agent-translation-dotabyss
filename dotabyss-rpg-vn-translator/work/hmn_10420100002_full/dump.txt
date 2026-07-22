@@ -1,0 +1,282 @@
+#1 L23 TITLE
+  T: きょ、今日はいい天気ですね！
+#2 L38 [<user>] br=1
+  EN: So we're heading out without checking on Hayley and the others.<br> 
+  JA: （結局、ヘイリーたちの様子を確認できないまま出発になってしまったな）
+#3 L40 [<user>] br=2
+  EN: ...Hm? That's the soldier who was in the same unit as Hayley<br>yesterday.<br> 
+  JA: （……んっ？　あれは昨日、ヘイリーと同じ部隊にいた兵士だな）
+#4 L76 [一般兵Ａ] br=1
+  EN: Hayley's tone was completely different today.<br> 
+  JA: 今日のヘイリー、口調が全然ちがってたな。
+#5 L85 [一般兵Ｂ] br=1
+  EN: Yeah. I wonder if something happened.<br> 
+  JA: ええ。なにかあったのかしら？
+#6 L139 [ヘイリー] br=1
+  EN: U-umm，um，may I have a quick moment?<br> 
+  JA: あ、あのあのぉ、ちょっと、だけ、よろしいです？
+#7 L193 [一般兵Ａ] br=1
+  EN: Hayley!? What is it? Did you need something?<br> 
+  JA: ヘイリー！？<br>どうした？　俺に用事か？
+#8 L204 [ヘイリー] br=1
+  EN: W-well，uh，um... t-today's a nice day，isn't it!?<br> 
+  JA: え、えっとー、あの～……きょ、今日はいい天気ですね！？
+#9 L213 [一般兵Ａ] br=2
+  EN: ...We're in the Abyss，so I can't tell what the weather's like outside...<br>Wasn't it cloudy before we set out?<br> 
+  JA: ……ここは大穴だから、外の天気は分からんが……<br>出発前、曇ってなかったか？
+#10 L224 [ヘイリー] br=1
+  EN: ...Y-yes，I suppose so?<br> 
+  JA: ……デ、デスヨネー？
+#11 L235 [一般兵Ａ] br=1
+  EN: ...<br> 
+  JA: …………
+#12 L246 [ヘイリー] br=1
+  EN: ...<br> 
+  JA: …………
+#13 L261 [<user>] br=1
+  EN: (...Hey，the conversation's died.)<br> 
+  JA: （……おい、話が止まってしまったぞ）
+#14 L285 [ヘイリー] br=1
+  EN: Ah! Um，what are your hobbies!?<br> 
+  JA: あっ！　あの、ご趣味は！？
+#15 L300 [<user>] br=1
+  EN: (Is this a blind date!?)<br> 
+  JA: （見合いか！？）
+#16 L324 [一般兵Ａ] br=1
+  EN: ...If I had to say，nail clippers?<br> 
+  JA: ……強いて言えば、爪切り？
+#17 L339 [<user>] br=1
+  EN: (Is that a hobby?)<br> 
+  JA: （それは趣味なのか？）
+#18 L363 [ヘイリー] br=1
+  EN: Th-that's lovely... c-could you show me sometime...?<br> 
+  JA: す、素敵ですね～。<br>今度、見せてもらってもよいです……？
+#19 L372 [一般兵Ａ] br=1
+  EN: That's just creepy，you know!<br> 
+  JA: さすがに気持ち悪いんだが！？
+#20 L387 [<user>] br=2
+  EN: (...She's so tense she doesn't even know what she's saying. Where's<br>the confident Hayley from yesterday?)<br> 
+  JA: （……ガチガチに緊張して、自分が何を言っているのか<br>分かってなさそうだな――昨日の堂々としたヘイリーはどこへいったんだ？）
+#21 L435 [ヘイリー] br=1
+  EN: U-um... um...<br> 
+  JA: え、えっと……えっと……
+#22 L497 [一般兵Ｂ] br=1
+  EN: What? If you've got something to say，just spit it out already...<br> 
+  JA: なに？　<br>話したいことがあるなら、ハッキリ言ってほしいんだけど……
+#23 L499 [<user>] br=1
+  EN: Hey，hold on everyone.<br> 
+  JA: まぁ、待てみんな。
+#24 L512 [ヘイリー] br=1
+  EN: Eep! ...Milord?<br> 
+  JA: はわっ？　……<user>様？
+#25 L514 [<user>] br=2
+  EN: I'm the guy he said catches on quick. Let me talk to her for a bit.<br>...Hayley. You'll come with me，right?<br> 
+  JA: 俺はそいつから理解が早いと認められた男だ。少し２人で話をさせてくれ。<br>……ヘイリー。付き合ってくれるな？
+#26 L525 [ヘイリー] br=1
+  EN: Y-yes... Please.<br> 
+  JA: は、はい……お願いします。
+#27 L590 [ヘイリー] br=1
+  EN: ...Th-thank you so much，Milord. F-for saving me...<br> 
+  JA: ……あ、ありがとう、ございます、<user>様。<br>た、助けていただいて……
+#28 L592 [<user>] br=2
+  EN: Don't worry about it. ...Before we talk，let me confirm: this is the<br>real，unadorned Hayley now，right?<br> 
+  JA: 気にするな。……で、話す前に確認なんだが、<br>今のお前が素の、飾っていない状態のヘイリーってことで間違いないか？
+#29 L615 [ヘイリー] br=1
+  EN: ...Yes，it is.<br> 
+  JA: ……そう、です。
+#30 L617 [<user>] br=2
+  EN: I see. So you suddenly switched back to your normal tone because<br>that attendant said something to you yesterday?<br> 
+  JA: なるほど。<br>急に普通の口調に戻したのは、昨日の付き人に何か言われたからか？
+#31 L638 [ヘイリー] br=1
+  EN: ...Yes.<br> 
+  JA: ……はい。
+#32 L640 [<user>] br=2
+  EN: I see. How did it come to that? Everyone's confused，and you're<br>probably finding it hard yourself. Why did you change the way you talk?<br> 
+  JA: そうか――どうしてそんなことになった？　みんなも困惑しているし、<br>お前自身もやりにくいだろう。なぜ話し方を変えた？
+#33 L653 [ヘイリー] br=2
+  EN: W-well，to explain that，I'd need to talk about why I started speaking<br>like I did yesterday，but...<br> 
+  JA: そ、それを説明するなら、どうして昨日のような喋り方をするように<br>なったかを話す必要があるんですけど……
+#34 L664 [ヘイリー] br=1
+  EN: ...It might be long，you know?<br> 
+  JA: ……な、長くなりますよ？
+#35 L666 [<user>] br=1
+  EN: That's fine. You struggling is the real problem. Tell me about it.<br> 
+  JA: 構わんよ。お前がやりにくくしているほうが問題だ。<br>話を聞かせてくれ。
+#36 L679 [ヘイリー] br=2
+  EN: Hau... Thank you so much for your kindness. Th-then，I'll start from<br>my childhood and explain in order...<br> 
+  JA: はぅ……ご親切にありがとうございます。<br>で、では、わたくしの子ども時代から、順を追って説明をば――
+#37 L690 [ヘイリー] br=2
+  EN: I-it's a bit embarrassing to say，but... I was born as the heir to the<br>throne of a certain country，a nobleman's daughter.<br> 
+  JA: じ、自分で言うと気恥ずかしさが先立つのですが――<br>わたくしはとある国の王位継承者、貴族の令嬢として命を授かりました。
+#38 L692 [<user>] br=2
+  EN: Huh. The soldiers were gossiping that 'Hayley doesn't seem poor，'<br>and it was true. Why hide it?<br> 
+  JA: ほう。兵士たちが「ヘイリーは貧しくなさそう」と噂していたが<br>本当のことだったのか。なぜ隠すんだ？
+#39 L703 [ヘイリー] br=2
+  EN: W-well... It's more like... my own conviction that a hero should bide<br>their time...<br> 
+  JA: そ、そのぅ、<br>英雄は雌伏するものだという、わたくし自身のこだわりというか――
+#40 L705 [<user>] br=1
+  EN: Ah，I see... So that's how it is. Go on，continue.<br> 
+  JA: あ～、なるほど……そういう感じか。<br>話を続けてくれ。
+#41 L716 [ヘイリー] br=2
+  EN: Y-yes... F-from a young age，I traveled around various parts of<br>Treslia due to my father's work.<br> 
+  JA: は、はい……。よ、幼少期から、わたくしは<br>お父様の仕事の都合で、トレスリアの各地を旅していたのです。
+#42 L742 [ヘイリー] br=2
+  EN: I traveled to Milesgard，Perdion，Eldorana... broadened my horizons，<br>but a-as a cost，I lost the chance for friends.<br> 
+  JA: ミレスガルドやペルディオン、エルドラーナ……各国を巡って見聞は<br>広がりましたが……だ、代償としてわたくしは友人を得る機会を失いました……
+#43 L761 [ヘイリー] br=2
+  EN: B-but that's not to say I had no fun at all. What brought me light were<br>the bards who traveled the lands just as I did...!<br> 
+  JA: で、ですけど、何も楽しみがなかったわけではありません。<br>わたくしにとっての光は、同じように各地を巡る吟遊詩人でした……！
+#44 L765 [ヘイリー] br=2
+  EN: Whether true or fiction—the heroic tales they told captivated me.<br>And... th-they planted in me a longing to become a hero...!<br> 
+  JA: 嘘か真か――彼らが語る英雄譚は、わたくしを夢中にさせました。<br>そして……わ、わたくしに英雄への憧れを植え付けたのです……！
+#45 L767 [<user>] br=1
+  EN: Hmm... So that's why you proclaimed yourself a hero，then.<br> 
+  JA: ふむ……自ら英雄を名乗ったのは、その辺りが起因しているのか。
+#46 L784 [ヘイリー] br=2
+  EN: Y-yes. As I grew up admiring the stories the bards told，I encountered<br>something else that greatly influenced me...<br> 
+  JA: は、はい。吟遊詩人が語る物語に憧れながら成長したわたくしは、<br>もう１つ、大きく影響を受けるものに出会いました……。
+#47 L786 [ヘイリー] br=2
+  EN: It was books...! As an adolescent，I became obsessed with fantasy<br>novels about heroes... especially the genre called dark fantasy!<br> 
+  JA: それが書籍……！　思春期のわたくしは英雄たちを主役とした幻想小説……<br>特に、ダークファンタジーと呼ばれるジャンルに夢中になったんです！
+#48 L823 [ヘイリー] br=1
+  EN: Milord，a-are you interested in such novels...?<br> 
+  JA: <user>様、そ、そういった小説にご興味は……？
+#49 L825 [<user>] br=1
+  EN: Well，I'm a guy. I've dabbled in the usual ones.<br> 
+  JA: まぁ、俺も男だ。月並みにはかじった。
+#50 L836 [ヘイリー] br=2
+  EN: Th-then I think you can understand a little，but those are soooo<br>cool，aren't they?<br> 
+  JA: で、でしたら多少は分かっていただけると思うんですけど、<br>ああいうのってすっっっっっごくかっこいいですよね！？
+#51 L838 [<user>] br=1
+  EN: ...O-oh?<br> 
+  JA: ……お、おぉ？
+#52 L849 [ヘイリー] br=2
+  EN: A protagonist who harbors both darkness and light—will they remain a<br>shining being，or will they fall and become a villain!<br> 
+  JA: 闇と光を内に宿した主人公が、輝く存在でいられるのか、<br>あるいは堕ちて悪人となってしまうのか！！
+#53 L860 [ヘイリー] br=2
+  EN: Or even a portrayal of them swaying between darkness and light，<br>accepting themselves as they are—that works too!<br> 
+  JA: 闇と光の狭間に揺れながら、自分を受け入れて過ごす姿もアリです！
+#54 L871 [ヘイリー] br=2
+  EN: Opposite attributes in one person—abnormal harmony in a mad<br>balance... You can't help but admire it，not logically，but with pure longing!<br> 
+  JA: 正反対の属性が同居しているという、狂ったバランスの中で調和がとれている<br>異常事態……そういうのは、理屈ではなく憧れてしまうわけで！！
+#55 L873 [<user>] br=1
+  EN: ...<br> 
+  JA: …………
+#56 L884 [ヘイリー] br=1
+  EN: Eep! I-I'm sorry，I got carried away... You don't get it，do you...?<br> 
+  JA: はっ！？　す、すみません、取り乱しました……<br>分かんないですよね……
+#57 L886 [<user>] br=2
+  EN: Ah，no，I was just a bit surprised. Don't worry. ... Honestly，I kind of<br>get what you're trying to say.<br> 
+  JA: あー、いや、ちょっと驚いただけだ。安心してくれ。<br>……正直、言わんとしていることは、ちょっと分かる。
+#58 L897 [ヘイリー] br=1
+  EN: Ho ho ho，r-really?<br> 
+  JA: ほほほ、本当ですかぁー！？
+#59 L899 [<user>] br=2
+  EN: Yeah. That stuff gets you going，doesn't it? If I found a sword<br>wrapped in dark flames lying around in the Abyss，I might want it too.<br> 
+  JA: あぁ。くすぐられるよな、そういうの。<br>俺も大穴で闇色の炎を纏った剣とか落ちてたら、ほしがってしまうかもしれん。
+#60 L910 [ヘイリー] br=1
+  EN: Such things exist in the Abyss?<br> 
+  JA: そんなものが大穴にあるんです！？
+#61 L912 [<user>] br=1
+  EN: I can't say they don't. ... It's romantic.<br> 
+  JA: 無いとは、言い切れない。……浪漫だな。
+#62 L923 [ヘイリー] br=1
+  EN: Ahh... if you get it，please show me... It's a truly coveted item.<br> 
+  JA: はぁぁっ……手に入れたら、ぜひ見せてください……<br>まさに垂涎の品です……
+#63 L925 [<user>] br=1
+  EN: So，after you got into dark fantasy，what happened?<br> 
+  JA: ……で、ダークファンタジーに憧れたあと、どうなった？
+#64 L938 [ヘイリー] br=2
+  EN: Ah... y-yes. Inspired by heroic tales and dark fantasy，I resolved to<br>become a hero of the people... so I began training with the s-sword.<br> 
+  JA: あ……は、はい。英雄譚とダークファンタジーに憧れたわたくしは、<br>人々の英雄になると心に決めて……け、剣の鍛練を始めます。
+#65 L940 [<user>] br=2
+  EN: Didn't your parents object? For a noble to let their daughter learn<br>swords and go to the battlefield... takes quite a bit of courage.<br> 
+  JA: 両親は反対しなかったのか？　貴族が娘に剣を習わせて<br>戦地へ向かわせるのは、けっこう勇気があるように思えるが――
+#66 L951 [ヘイリー] br=2
+  EN: W-well，my parents believed that 'A noble must serve the people'... So<br>hunting monsters benefits the world and people... right?<br> 
+  JA: も、元々、両親は『貴族たる者、人々の役に立つべし』という考えの方でした<br>ので……。モンスターを狩るのは世のため人のためになる……でしょう？
+#67 L962 [ヘイリー] br=2
+  EN: A-aspiring to be a hero is to fulfill the duty of a noble-born and to<br>realize the ideals I admired from childhood to adolescence!<br> 
+  JA: え、英雄を目指すのは、き、貴族として生を受けた者の責務を果たすため<br>でもあり、よ、幼少期から思春期に憧れた理想を叶えるためでもあるのです！
+#68 L964 [<user>] br=2
+  EN: The hero who hunts monsters and the dark fantasy worldview. That<br>fused ideal is what you were yesterday at the Abyss，huh.<br> 
+  JA: ……モンスターを狩る英雄とダークファンタジーの世界観。<br>２つが融合した理想の姿――それが昨日、大穴で見たお前だったわけか。
+#69 L975 [ヘイリー] br=2
+  EN: Y-yes! I volunteered to come to the Abyss to hunt monsters and fulfill<br>my duty...!<br> 
+  JA: は、はいっ！　大穴にも、モンスターを討伐して責務を果たすために<br>志願してやってきたんです……！
+#70 L977 [<user>] br=2
+  EN: If that's the case，it's harder to understand. Why did you start<br>speaking normally? What did your former attendant say to you yesterday?<br> 
+  JA: だとしたら、なおさら解せないぞ。<br>どうして普通の喋り方になった？　昨日の元付き人に何を言われたんだ？
+#71 L986 [ヘイリー] br=2
+  EN: Ugh... w-well，he said that as a f-future queen，I need to become a<br>proper person...<br> 
+  JA: うっ……そ、そのぉ、み、未来の女王として、<br>きちんとした人間にならなくてはならない、と――
+#72 L997 [ヘイリー] br=2
+  EN: E-everyone... he lectured me that if I don't behave in a way befitting<br>someone who leads others，no one will follow me...<br> 
+  JA: み、皆を率いる者に相応しい言動をとらないと誰もついてこない……って、<br>お説教されちゃったんですぅ……
+#73 L1008 [ヘイリー] br=2
+  EN: N-not only that... he even said that if I don't work hard at the<br>Frontline Base and earn merits，he'll send me back home...<br> 
+  JA: そ、それどころか……前線基地で真面目に働いて勲功をあげないと<br>国元へ帰還させる……とまで言われちゃって……
+#74 L1010 [<user>] br=1
+  EN: Huh? But your parents weren't against it，were they?<br> 
+  JA: ん？　だが、お前の両親は反対していないんだろう？
+#75 L1019 [ヘイリー] br=2
+  EN: Th-that's true，but Jiiya—that former attendant is now the<br>chancellor... so probably even my father can't overrule him...<br> 
+  JA: そ、そうなのですが、じいやは――あの元付き人は現在、<br>宰相を担っているので……たぶんお父様も強く出られないんですよね……
+#76 L1021 [<user>] br=1
+  EN: I see. A problem unique to royalty，I suppose... That's rough.<br> 
+  JA: なるほど。<br>王族ならではの悩みというか――難儀なモノだな。
+#77 L1030 [ヘイリー] br=1
+  EN: ...But I-it can't be helped. What Jiiya says isn't wrong，after all...<br> 
+  JA: ……でも、し、仕方ないです。<br>じいやが言っていることも、間違ってはいないですから……
+#78 L1041 [ヘイリー] br=2
+  EN: A-actually，I was isolated... Even after going back to my normal way<br>of speaking，it didn't work out... That was，well，quite unexpected...<br> 
+  JA: じ、実際、孤立してましたからね……。話し方を戻しても<br>うまくいかなかったのは、さ、さすがに予想外でしたけど……。
+#79 L1043 [<user>] br=1
+  EN: Hmm... should I explain the situation and mediate for you?<br> 
+  JA: ふむ……俺からみんなに事情を説明して、仲介してみるか？
+#80 L1052 [ヘイリー] br=2
+  EN: Th-that's a very generous offer... but I appreciate the thought. If I<br>rely on others... I won't become a g-good queen or a hero.<br> 
+  JA: ……た、大変ありがたい申し出ですけど……お気持ちだけ頂戴いたします。<br>甘えていては……よ、良き女王にも英雄にもなれません……から。
+#81 L1054 [<user>] br=1
+  EN: I see. Well，if you ever need help，feel free to talk to me.<br> 
+  JA: そうか。まぁ、助けが必要だったらいつでも相談してくれ。
+#82 L1063 [ヘイリー] br=1
+  EN: A-ah，thank you... Milord...<br> 
+  JA: あ、ありがとう……ございます……。
+#83 L1072 [ヘイリー] br=2
+  EN: ...Milord，y-you're so kind.<br>You're like a hero straight out of a traditional fantasy...<br> 
+  JA: ……<user>様、お、お優しいんですね。<br>正統派ファンタジーに登場する英雄みたいです……。
+#84 L1074 [<user>] br=2
+  EN: Haha. I'm not all that great. I'm not such a clean-cut guy.<br>Maybe I'm closer to a dark fantasy protagonist?<br> 
+  JA: ハハッ。そんないいものでもないさ。俺はそんなに綺麗な奴じゃない。<br>ダークファンタジーの主人公のほうが近いかもしれんぞ？
+#85 L1083 [ヘイリー] br=1
+  EN: ...W-well，if that's the case，then that'd make me happy too，I guess.<br> 
+  JA: ……そ、それならそれで、嬉しいと言いますか。
+#86 L1085 [<user>] br=1
+  EN: Hm...?<br> 
+  JA: んっ……？
+#87 L1096 [ヘイリー] br=1
+  EN: A-ah，n-nothing...!<br> 
+  JA: あわわ、な、なんでもないです……！
+#88 L1107 [ヘイリー] br=2
+  EN: ...B-but，truly，thank you so much.<br>N-not only for hearing me out just now—<br> 
+  JA: ……で、でも、本当にありがとうございます。<br>い、今、話を聞いてくれたことだけではなくて――
+#89 L1116 [ヘイリー] br=2
+  EN: A-and for listening to me talk about my worldview yesterday...<br>I was so... happy.<br> 
+  JA: き、昨日、わたくしが語る世界観を聞いてくれたこと――<br>すごく……嬉しかったんです。
+#90 L1118 [<user>] br=2
+  EN: ...It'd be a bit lonely if I couldn't hear those stories anymore.<br>If you ever want someone to listen，feel free to call on me.<br> 
+  JA: ……もう、聞けないかと思うと少し寂しいよ。<br>たまに付き合ってほしくなったら、それも誘ってくれ。
+#91 L1127 [ヘイリー] br=2
+  EN: ...Aw，come on，that's not fair.<br>If you say that，I'll want to act all spoiled—<br> 
+  JA: ……も、もー、だめですよぉ。<br>そんなこと言われちゃったら、甘えたくな――
+#92 L1156 [モンスター] br=1
+  EN: GWOOOOOOH!<br> 
+  JA: グォオオオオオッ！！
+#93 L1194 [ヘイリー] br=2
+  EN: Wha—!<br>W-what wasthat?!<br> 
+  JA: わひゃっ！？<br>い、今のは！？
+#94 L1198 [<user>] br=2
+  EN: It's from where the unit is stationed!<br>Let's hurry back!<br> 
+  JA: 部隊が駐留しているほうからだ！<br>急いで戻るぞ！
+TOTAL 94

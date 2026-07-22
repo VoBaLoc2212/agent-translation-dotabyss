@@ -1,0 +1,73 @@
+{
+  "scene": "hmn_10420100003",
+  "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10420100003.txt",
+  "vi_asset": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10420100003.txt",
+  "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10420100003/ja.json",
+  "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10420100003/en.json",
+  "mode": "EN-asset-is-English (title, field still JP)",
+  "counts": {
+    "title": 1,
+    "message": 111,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "total_text_records": 113
+  },
+  "characters": {
+    "ヘイリー": "Hayley (tự xưng わたくし/em, xưng hô Chỉ Huy = ngài; giọng nữ vương bóng tối hào hùng)",
+    "<user>": "Commander = Chỉ Huy",
+    "付き人": "thị tùy / ông lão (giọng trang nghiêm, xưng 私, gọi Hayley = tiểu thư)",
+    "一般兵Ａ/Ｂ/Ｃ/Ｄ/Ｅ": "lính thường (giọng đời thường, xưng 俺/我, tôn Hayley)",
+    "モンスター": "quái vật (SFX: Gào o o/Giá a a/Gư/Gô a a)"
+  },
+  "terminology": {
+    "Darkness": "Bóng Tối",
+    "Dark Queen": "Nữ Vương Bóng Tối",
+    "Chaos": "Hỗn Mang",
+    "Valhalla": "Valhalla",
+    "Frontline Base": "Căn Cứ Tiền Tuyến",
+    "Dark Phoenix": "Bất Tử Điểu Bóng Tối",
+    "Fixer": "kẻ thao túng phía sau",
+    "Held de Sieger": "người chiến thắng vinh quang",
+    "Bloody Road": "Con Đường Đẫm Máu",
+    "Messiah": "Đấng Cứu Thế",
+    "Marionette": "Marionette (thú vật)"
+  },
+  "notes": [
+    "EN asset text was already English; translated JP->VI via ja.json (kept as JP primary). EN asset used as structural authority (BOM/CRLF/<br> counts/tags).",
+    "Title field still JP ('闇の女王たる我に続けーっ！') -> translated to Vietnamese Title Case 'Tiến Lên Đây, Hỡi Kẻ Hùng Của Ta — Nữ Vương Bóng Tối!'.",
+    "All message, fields carry trailing '<br> ' suffix mirrored from EN asset; internal <br> counts matched EN (authoritative).",
+    "ASCII commas inside VI text replaced with U+201A '‚'.",
+    "SFX localized: Gyaooo!->Gào o o!, Gyah!->Giắt!, Gwaaaaar!->Go a a!, GYAAAAH!->Giá a a!, *pant*->*thở dốc*, Kufufufu/Fuhaha->Cu fu fu fu/Fu ha ha, UOOORAAH!->Uô ra a!, Eep!->Wa hya!.",
+    "seq 90 (Hayley looked toward %user%) had no ja.json JP key; translated faithfully from EN, preserving %user% placeholder."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10420100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 111,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 113,
+    "translated_records": 113,
+    "changed_lines": 113,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2961,
+      "vi": 2961,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "8b7dc20c33a00f44d7df833014dc9e141d0254bc0127e3d66b0137bf86432bd1",
+    "output_sha256": "5c98dd27524a428cacee49ff8749b5da97fabae04d543aa70d10660314ab2ba4"
+  },
+  "status": "PASS"
+}

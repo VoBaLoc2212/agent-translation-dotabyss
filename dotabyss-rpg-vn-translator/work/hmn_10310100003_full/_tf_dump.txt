@@ -1,0 +1,335 @@
+L21 [title] name=None br=0
+  TF='Where Gratitude and Loyalty Lie'
+
+L71 [message] name='狼' br=1
+  TF='Grrrrrrr...!<br> '
+
+L109 [message] name='ホウライの青年' br=2
+  TF="(My body will not move... Did I lose too much blood...? At this rate，I<br>will fall from the tree and become the wolf's prey...)<br> "
+
+L111 [message] name='ホウライの青年' br=1
+  TF='(Am I going to die in a place like this...? How frustrating...)<br> '
+
+L126 [message] name='ホウライの青年' br=1
+  TF='Forgive me... Father，Mother...<br> '
+
+L178 [message] name='ハツネ' br=1
+  TF='Young Lord!<br> '
+
+L209 [message] name='ホウライの青年' br=1
+  TF='What...!?<br> '
+
+L211 [message] name='ホウライの青年' br=1
+  TF='Could it be... Hatsune，is that you...? Why are you here...!?<br> '
+
+L255 [message] name='ハツネ' br=1
+  TF="I'll explain later! Please wait a moment!<br> "
+
+L296 [message] name='狼' br=1
+  TF='Grrrrrrr...!<br> '
+
+L347 [message] name='ハツネ' br=1
+  TF="Now then，you beast! Bring it on! I'll be your opponent!<br> "
+
+L349 [message] name='ホウライの青年' br=1
+  TF='Hatsune...! Be careful，that beast is dangerous!<br> '
+
+L354 [message] name='ハツネ' br=1
+  TF='Understood!<br> '
+
+L403 [message] name='狼' br=1
+  TF='Grrf!<br> '
+
+L448 [message] name='ハツネ' br=1
+  TF='(Fast...! But—)<br> '
+
+L521 [message] name='狼' br=1
+  TF='Grrf!?<br> '
+
+L577 [message] name='ハツネ' br=1
+  TF="Don't think you can catch me that easily!<br> "
+
+L586 [message] name='狼' br=1
+  TF='Grrrrrroowl...!<br> '
+
+L630 [message] name='ハツネ' br=1
+  TF="Come on...! I'll make you regret injuring the Young Lord!<br> "
+
+L670 [message] name='狼' br=1
+  TF='Grrf!<br> '
+
+L728 [message] name='ハツネ' br=1
+  TF='Whoa!<br> '
+
+L834 [message] name='' br=2
+  TF="Hatsune continued to dodge the wolf's fangs and claws by a hair's<br>breadth.<br> "
+
+L880 [message] name='ハツネ' br=1
+  TF="Hah! Is that all you've got!<br> "
+
+L921 [message] name='狼' br=1
+  TF='Grrrrrrrrrrrrr...!<br> '
+
+L978 [message] name='ハツネ' br=2
+  TF="(I keep dodging its attacks，so it's getting more and more annoyed...<br>Should be about time now.)<br> "
+
+L1023 [message] name='狼' br=1
+  TF='Grrrrr... Grrf!<br> '
+
+L1067 [message] name='ハツネ' br=1
+  TF="Whoa! What are you looking at! I'm over here...<br> "
+
+L1099 [message] name='' br=2
+  TF="Hatsune tried to evade the wolf's charge，but suddenly lost her<br>balance.<br> "
+
+L1110 [message] name='ハツネ' br=1
+  TF='Tch! Damn，I tripped on a tree root!<br> '
+
+L1171 [message] name='狼' br=1
+  TF='Grrrf!<br> '
+
+L1173 [message] name='' br=1
+  TF='The wolf lunged at the off-balance Hatsune!<br> '
+
+L1175 [message] name='ホウライの青年' br=1
+  TF='H-Hatsune! Watch out!<br> '
+
+L1239 [message] name='ハツネ' br=1
+  TF='...Just kidding!<br> '
+
+L1268 [message] name='<user>' br=2
+  TF="Listen，first draw that wolf's attention. While you do that，I'll set the<br>trap.<br> "
+
+L1279 [message] name='ハツネ' br=1
+  TF='A trap...?<br> '
+
+L1281 [message] name='<user>' br=2
+  TF="Yeah. The trees around here have branches that are soft and bendy.<br>Plus，there's plenty of vines.<br> "
+
+L1283 [message] name='<user>' br=2
+  TF='With branches，vines，and whatever tools we have on hand，we should<br>be able to rig up a simple trap to catch that wolf.<br> '
+
+L1294 [message] name='ハツネ' br=1
+  TF='You can really do that...?<br> '
+
+L1296 [message] name='<user>' br=2
+  TF='But that wolf is pretty clever. Kotono was caught off guard because<br>it attacked from downwind.<br> '
+
+L1298 [message] name='<user>' br=2
+  TF="Probably，if we try to lead it straight into a trap，it'll get suspicious<br>and it won't work.<br> "
+
+L1300 [message] name='<user>' br=1
+  TF="That's where you come in.<br> "
+
+L1311 [message] name='ハツネ' br=1
+  TF='Me...?<br> '
+
+L1313 [message] name='<user>' br=2
+  TF="Yeah. With your movements at the training ground，you should be able<br>to keep dodging the wolf's attacks. What do you think?<br> "
+
+L1340 [message] name='ハツネ' br=1
+  TF="That's... Yeah，I think I can do it.<br> "
+
+L1342 [message] name='<user>' br=2
+  TF="Good. Thoroughly provoke and toy with him. Then，when he's<br>hot-headed...<br> "
+
+L1353 [message] name='ハツネ' br=1
+  TF="That's when we spring the trap!<br> "
+
+L1355 [message] name='<user>' br=1
+  TF="That's right. The success of this operation depends on you.<br> "
+
+L1357 [message] name='<user>' br=1
+  TF="—You're the one who will save the Young Lord.<br> "
+
+L1369 [message] name='ハツネ' br=1
+  TF='...<br> '
+
+L1380 [message] name='ハツネ' br=1
+  TF="Yeah... of course! I'll do it!<br> "
+
+L1423 [message] name='ハツネ' br=1
+  TF='(He got all worked up and walked right into it!)<br> '
+
+L1449 [message] name='ハツネ' br=1
+  TF='Now!<br> '
+
+L1497 [message] name='' br=2
+  TF='The wolf charging at Hatsune got its legs tangled in the vines and was<br>hoisted into the air—!<br> '
+
+L1532 [message] name='狼' br=1
+  TF='Gyaow! Grr! Grr，grr...!<br> '
+
+L1543 [message] name='ハツネ' br=1
+  TF="—No matter how much you howl，it's too late.<br> "
+
+L1581 [message] name='ハツネ' br=1
+  TF='Prepare yourself!<br> '
+
+L1619 [message] name='' br=1
+  TF='Slash—!<br> '
+
+L1621 [message] name='狼' br=1
+  TF='Gyaow...!<br> '
+
+L1670 [message] name='<user>' br=1
+  TF='Alright，plan successful! As expected，Hatsune. Well done—<br> '
+
+L1716 [message] name='ハツネ' br=1
+  TF='Woooooh!<br> '
+
+L1750 [message] name='<user>' br=1
+  TF="Whoa! Hey，what's with the sudden hug...?<br> "
+
+L1763 [message] name='ハツネ' br=2
+  TF="That's amazing，you! You took down the one that even Kotono messed<br>up against!<br> "
+
+L1765 [message] name='<user>' br=1
+  TF='I get it，I get it. Just calm down，all right?<br> '
+
+L1776 [message] name='ハツネ' br=1
+  TF='Ahaha! I feel like I can beat any enemy with you!<br> '
+
+L1795 [message] name='ハツネ' br=1
+  TF='...*gasp*! Right，the Young Lord!<br> '
+
+L1830 [message] name='ホウライの青年' br=1
+  TF='Hatsune...<br> '
+
+L1841 [message] name='ハツネ' br=1
+  TF='Young Lord! Are you alright? We need to treat your wounds quickly...<br> '
+
+L1843 [message] name='ホウライの青年' br=2
+  TF="Ah，I've already stopped the bleeding. I'm in your debt，Hatsune. And<br>you there...<br> "
+
+L1845 [message] name='<user>' br=1
+  TF="I'm %user%.<br> "
+
+L1847 [message] name='ホウライの青年' br=1
+  TF='Lord Commander...?<br> '
+
+L1849 [message] name='ホウライの青年' br=1
+  TF='...By any chance，are you the Lord Commander of the Frontline Base?<br> '
+
+L1851 [message] name='<user>' br=1
+  TF='Something like that.<br> '
+
+L1862 [message] name='ハツネ' br=2
+  TF="Come to think of it，they did call you that. What kind of position is<br>'Commaander'?<br> "
+
+L1864 [message] name='ホウライの青年' br=2
+  TF="Hatsune，you didn't know...? He's the one entrusted with full<br>authority over the Frontline Base.<br> "
+
+L1883 [message] name='ハツネ' br=1
+  TF="Eh?! R-really! I think I've been acting rude without knowing it...<br> "
+
+L1885 [message] name='<user>' br=1
+  TF="I don't mind. It'd feel strange if you changed your tune now.<br> "
+
+L1896 [message] name='ハツネ' br=2
+  TF="O-oh，really? Heh heh，even though you're such a big shot，you<br>helped us. You're a good guy，Commander!<br> "
+
+L1898 [message] name='ホウライの青年' br=1
+  TF='Thanks to you，my life has been saved. How can I ever repay you...<br> '
+
+L1900 [message] name='<user>' br=2
+  TF="Don't worry about it. We took out a dangerous monster and kept<br>casualties to a minimum. All's well that ends well.<br> "
+
+L1902 [message] name='ホウライの青年' br=2
+  TF='What a magnanimous person... Compared to you，I still have much to<br>learn.<br> '
+
+L1913 [message] name='ハツネ' br=1
+  TF='Young Lord...<br> '
+
+L1925 [message] name='ハツネ' br=1
+  TF="... I picked this up on the way. Here，I'm returning it to you.<br> "
+
+L1953 [message] name='ホウライの青年' br=1
+  TF='The short sword my father gave me...<br> '
+
+L1964 [message] name='ハツネ' br=2
+  TF="Let's return to Hourai，Young Lord.<br>The Lord is waiting for your return.<br> "
+
+L1966 [message] name='ホウライの青年' br=2
+  TF='Hatsune... Does someone like me even deserve to hold this short<br>sword?<br> '
+
+L1977 [message] name='ハツネ' br=2
+  TF='Of course.<br>You are the one who will become the next head of the clan...<br> '
+
+L1979 [message] name='ホウライの青年' br=2
+  TF='I met Kotono at the Frontline Base and trained with her，thinking I<br>had grown stronger. But this pathetic state... I cannot face my father.<br> '
+
+L1990 [message] name='ハツネ' br=1
+  TF='Young Lord... what are you saying...<br> '
+
+L1992 [message] name='ホウライの青年' br=3
+  TF='I apologize，Hatsune. I still cannot return to Hourai.<br>I wish to<br>remain at the Frontline Base a while longer and continue my training.<br> '
+
+L2003 [message] name='ハツネ' br=1
+  TF='Young Lord...<br> '
+
+L2026 [message] name='ハツネ' br=2
+  TF='I understand.<br>Then I，Hatsune，will accompany you to the Frontline Base as well!<br> '
+
+L2028 [message] name='ホウライの青年' br=2
+  TF='I see... I apologize，Hatsune.<br>With you here，I feel reassured.<br> '
+
+L2039 [message] name='ハツネ' br=2
+  TF="I will protect you from any danger!<br>First，let's return to the Frontline Base and treat your wounds.<br> "
+
+L2075 [messageTextUnder] name='' br=0
+  TF='After that，%user% and the others returned safely to the Frontline Base.'
+
+L2107 [message] name='<user>' br=3
+  TF="Good to hear. That young man lost a lot of blood，but I hear his life<br>isn't in danger.<br>Seems like he'll be able to move in about a week.<br> "
+
+L2115 [message] name='ハツネ' br=1
+  TF="That's a relief...<br> "
+
+L2149 [message] name='ハツネ' br=1
+  TF='Commander. Thank you so much.<br> '
+
+L2161 [message] name='ハツネ' br=2
+  TF="I couldn't have saved the Young Lord on my own...<br>I owe you a huge debt，Commander.<br> "
+
+L2163 [message] name='<user>' br=2
+  TF="Don't worry about it.<br>If you weren't there，I would have lost a valuable person.<br> "
+
+L2165 [message] name='<user>' br=1
+  TF="So don't think of it as a debt.<br> "
+
+L2176 [message] name='ハツネ' br=2
+  TF='No way!<br>A samurai repays a debt of gratitude!<br> '
+
+L2185 [message] name='ハツネ' br=2
+  TF="I don't care if you say you don't need it，I'm definitely paying you<br>back!<br> "
+
+L2187 [message] name='<user>' br=1
+  TF="Alright，alright. You're a stubborn one，aren't you?<br> "
+
+L2198 [message] name='ハツネ' br=2
+  TF="So，Commander，I'm thinking of staying at the Frontline Base with the<br>young master too，but...<br> "
+
+L2209 [message] name='ハツネ' br=1
+  TF="Um... if it's no trouble，could I help you with your work again?<br> "
+
+L2216 [message] name='ハツネ' br=2
+  TF='I want to repay my debt，but also，just being here makes me feel like I<br>can get even stronger!<br> '
+
+L2225 [message] name='ハツネ' br=1
+  TF="I'll definitely prove useful to you，Commander! What do you think?<br> "
+
+L2227 [message] name='<user>' br=1
+  TF="What，you get all serious and that's all it is?<br> "
+
+L2229 [message] name='<user>' br=2
+  TF="Of course，there's no reason to refuse. Having you here is reassuring<br>for the Frontline Base.<br> "
+
+L2240 [message] name='ハツネ' br=1
+  TF="R-really!? Ehehe，if you say so，I guess I've got no choice.<br> "
+
+L2251 [message] name='ハツネ' br=1
+  TF="When you're in trouble，I'll come help you out! So...<br> "
+
+L2262 [message] name='ハツネ' br=1
+  TF="Let's keep working together from now on，Commander!<br> "

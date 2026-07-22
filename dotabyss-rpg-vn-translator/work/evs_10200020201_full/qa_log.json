@@ -1,0 +1,20 @@
+{
+  "scene": "evs_10200020201",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "summary": {
+    "source_lines": 1839,
+    "output_lines": 1839,
+    "translated_records": 107,
+    "unchanged_records": 0,
+    "delimiter_mismatches": 0,
+    "tech_mismatches": 0,
+    "command_counts": {
+      "title": 1,
+      "message": 105,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    }
+  }
+}

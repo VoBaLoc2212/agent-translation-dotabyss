@@ -1,0 +1,97 @@
+{
+  "scene": "hmn_10120100003",
+  "created_at": "2026-07-19T17:15:45",
+  "sources": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10120100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10120100003\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10120100003.txt"
+  },
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10120100003.txt",
+  "artifacts": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10120100003_full\\manifest.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10120100003_full\\focused_diff.md",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10120100003_full\\qa_log.json",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10120100003_full\\generate_hmn_10120100003_vi.py"
+  },
+  "source_hashes": {
+    "en_asset_sha256": "bab58f5c897a39bcaa9eef402eb720ae983f02b24dd6c03ab380e786154c88ad",
+    "ja_json_sha256": "3e04092c2da8ba03e54a64edb05fab6c1e8e5c20e84af75c9131ab258a5c8ad4",
+    "en_json_sha256": "9da44a6aff21a44463ab2ccd5a0b35dce6c504a534c1e0c28799d1db50a8ea24"
+  },
+  "output_sha256": "2be2db6ebb79055a42561776dc71bbb51e6e26342628319a6009b48c71ddb135",
+  "format": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "'\\r\\n'",
+    "line_count": 1810,
+    "delimiter": "ASCII comma",
+    "translated_field": "title[1], message/messageTextUnder/messageTextCenter[2]"
+  },
+  "text_command_counts": {
+    "message": 99,
+    "messageTextUnder": 0,
+    "title": 1,
+    "messageTextCenter": 0
+  },
+  "total_text_commands": 100,
+  "mapping_status": {
+    "TRANSLATED": 100,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0,
+    "REVIEW": 0
+  },
+  "notes": [
+    "JP is primary; EN asset used for alignment.",
+    "Speaker names and charaload names were not modified.",
+    "ASCII commas inside Vietnamese text fields are forbidden; U+201A used where needed.",
+    "Extra asset-only silence record line 914 translated as punctuation-only silence."
+  ],
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_match": true,
+    "text_command_counts": {
+      "message": 99,
+      "messageTextUnder": 0,
+      "title": 1,
+      "messageTextCenter": 0
+    },
+    "total_text_commands": 100,
+    "br_counts_match": true,
+    "placeholder_counts_match": true,
+    "ascii_comma_in_vi_text_fields": [],
+    "japanese_leftovers_in_vi_text_fields": []
+  },
+  "qa_status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10120100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 99,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 100,
+    "translated_records": 100,
+    "changed_lines": 100,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1810,
+      "vi": 1810,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "bab58f5c897a39bcaa9eef402eb720ae983f02b24dd6c03ab380e786154c88ad",
+    "output_sha256": "2be2db6ebb79055a42561776dc71bbb51e6e26342628319a6009b48c71ddb135"
+  },
+  "status": "PASS"
+}

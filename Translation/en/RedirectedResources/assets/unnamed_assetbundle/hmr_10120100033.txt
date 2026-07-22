@@ -1,0 +1,145 @@
+﻿adultui,off
+
+bg,abg12100a
+
+charaload,chara_1,101201000G,エティア
+
+charaface,chara_1,FaceFun
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se5050013,0,1,CONT
+
+asyncseplay,setag3_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,CONT
+
+asynccharareaction,chara_1,Nod,0.5,CONT
+window,on,0.15
+message,エティア,Good morning，Master.<br> ,,vc_10120100033_001_01
+
+asyncskipwait
+
+message,<user>,...Good morning，Etia.<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag3_3,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceShy,STOP,3.5
+message,エティア,It was intense last night，wasn't it...? Ehehe!♪<br> ,,vc_10120100033_002_01
+
+message,<user>,Yeah，it was. So，how was it doing it in front of the mirror?<br> 
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,5
+message,エティア,It was so embarrassing! But... I was surprised to see myself making<br>such a naughty face...<br> ,,vc_10120100033_003_01
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag3_5,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP
+message,エティア,It was naughty... and I looked so happy... I've never seen myself make<br>a face like that before...<br> ,,vc_10120100033_004_01
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag3_6,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,4
+asynccharaface,chara_1,FaceNormal,STOP,4
+
+asynccharaface,chara_1,FaceFun,STOP,7.5
+message,エティア,I can make a face like that too... Even me，always so timid... can look<br>so happy...<br> ,,vc_10120100033_005_01
+
+message,<user>,Hey，Etia... You were saying you couldn't have confidence in<br>yourself，right?<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+charareaction,chara_1,Nod,1
+
+message,<user>,I think it's because you care too much about what others think and<br>don't really look at yourself.<br> 
+
+message,<user>,That's why you feel you can't have confidence. You should give<br>yourself more credit，don't you think?<br> 
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,2
+message,エティア,Master... did you drag me in front of the mirror to teach me that?<br> ,,vc_10120100033_006_01
+
+message,<user>,Well，that's it.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag3_7,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,1
+asynccharaface,chara_1,FaceNormal,STOP,1
+
+message,エティア,But... did we really have to go so far as to have sex...?<br> ,,vc_10120100033_007_01
+
+message,<user>,Urk... well，that's... I mean... I got excited seeing you like that too，<br>but...<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag3_8,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,2.5
+message,エティア,Geez，Master... fufu... ahaha!♪<br> ,,vc_10120100033_008_01
+
+message,<user>,Listen，Etia. I see you as both my bodyguard and my lover.<br> 
+
+message,<user>,With you by my side，I can sleep well and feel at ease. So...<br> 
+
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,エティア,I understand.<br> ,,vc_10120100033_009_01
+
+asyncseplay,setag3_9,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,3
+
+asynccharaface,chara_1,FaceShy,STOP,7
+message,エティア,Then，for you，Master，from now on，I will humbly stay by your side<br>and protect you. Day or night!♡<br> ,,vc_10120100033_010_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

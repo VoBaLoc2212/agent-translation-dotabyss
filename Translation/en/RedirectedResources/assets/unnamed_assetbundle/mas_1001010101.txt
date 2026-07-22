@@ -1,0 +1,94 @@
+﻿fade,Out,Black,0
+bgmplay,bgm1,bgm0037,0,1.0
+initend
+
+//スチル読み込み
+stillload,still,StillIPrologue
+stillshow,still,0
+
+//フェードイン
+fade,In,Black,2
+wait,1
+
+messageTextCenter,,<size=50>The Treslia Region</size>,,,on
+wait,0.2
+stillchange,still,2
+wait,1.5
+
+messageTextCenter,,<size=50>In this land，<br>three great powers held sway</size>,,,on
+stillchange,still,3
+wait,1
+
+messageTextCenter,,<size=50>The 'Kingdom of Milesgard'，wielder of the Steel Knights</size>,,,on
+wait,0.2
+stillchange,still,4
+wait,1
+
+messageTextCenter,,<size=50>The 'Perdion Empire'，seekers of the ultimate truth of magic</size>,,,on
+wait,0.2
+stillchange,still,5
+wait,1
+
+messageTextCenter,,<size=50>The 'Eldorana Republic'，chasers and lovers of wealth</size>,,,on
+wait,0.2
+stillchange,still,6
+wait,1
+
+messageTextCenter,,<size=50>The three nations，each upholding justice none<br>could relinquish，had long marked the age with war</size>,,,on
+asyncstillchange,still,7,cont,0
+asyncwait
+wait,0.75
+
+messageTextCenter,,<size=50>The appearance of a lone hero brought a brief period of peace，</size>,,,on
+wait,1.5
+
+messageTextCenter,,<size=50>But that too is now a tale of the past...</size>,,,on
+stillchange,still,8
+wait,1.5
+
+messageTextCenter,,<size=50>The hero departed，<br>and the continent was about to be swallowed by war once more...</size>,,,on
+stillchange,still,9
+wait,1.5
+
+messageTextCenter,,<size=50>But the age of mankind warring against itself<br>came to a sudden end</size>,,,on
+stillchange,still,10
+wait,5.3
+
+messageTextCenter,,<size=50>The rise of the enormous 'Abyss'，piercing into the earth</size>,,,on
+wait,1.5
+
+messageTextCenter,,<size=50>The far side hazy as the distant horizon，<br>at its depths stand eternal darkness and despair...</size>,,,on
+stillchange,still,12
+wait,2
+
+messageTextCenter,,<size=50>In time，the people would come to know</size>,,,on
+wait,1.5
+
+//messageTextCenter,,<size=50>その無垢な探究心が、</size>,,,on
+//wait,1.5
+
+messageTextCenter,,<size=50>That their innocent curiosity<br>had become the trigger for tragedy...</size>,,,on
+stillchange,still,13
+wait,2
+
+//window,off
+//bgmstop,bgm1,2
+//fade,Out,Black,0.3
+//wait,0.5
+
+//cleanall,ALL
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgm1,2
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+

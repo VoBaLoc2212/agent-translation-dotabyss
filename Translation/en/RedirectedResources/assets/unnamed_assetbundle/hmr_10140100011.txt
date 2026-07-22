@@ -1,0 +1,275 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg11000b,off
+
+charaload,chara_1,101401000G,ピコ
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,Charge! The Commander's Room!
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0026,0.75,1
+
+
+
+window,on,0.15
+message,<user>,*phew*... work's finally settled down. Time to take a break...<br> 
+
+seplay,setag1_1,se4300003,0,1
+
+linework,on,White,Middle
+
+charashow,chara_1,0.2
+
+asyncseplay,setag1_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ピコ,Hey hey! Good work!♪<br> ,,vc_10140100011_001_01
+
+linework,off,White,Middle
+
+message,<user>,Whoa，you scared me!<br> 
+
+asyncseplay,setag1_3,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+charaface,chara_1,FaceFun
+message,ピコ,I came to hang out，Commander!<br> ,,vc_10140100011_002_01
+
+message,<user>,It's you，Pico... When you enter a room，you should knock，you know—<br> 
+
+asyncseplay,setag1_4,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceHappy
+message,ピコ,Hey everyone，it's Pico-nyan!♪<br> ,,vc_10140100011_003_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_5,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ピコ,Today，we're doing ""Raid! The Commander's Office!"" so I've come to<br>his room!♪<br> ,,vc_10140100011_004_01
+
+message,,Without listening to a word，Pico had already started filming.<br> 
+
+message,<user>,Jeez... filming another video as usual?<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ピコ,You should help me out too，Commander. When we get back to the<br>original world，I'll stream it.<br> ,,vc_10140100011_005_01
+
+message,<user>,Streaming? I don't really know what that is，but I'm on break now. If<br>you want to film，go ahead.<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,1.5
+message,ピコ,Roger that! Then I'll do what I want.<br> ,,vc_10140100011_006_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag1_6,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,ピコ,Oh，look over here. There's a mysterious notebook that might be a<br>top-secret file!<br> ,,vc_10140100011_007_01
+
+message,<user>,No，it's just a journal...<br> 
+
+asyncseplay,setag1_7,se4800011,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ピコ,Wow，over there is a beat-up tool of unknown use—that must be an<br>ancient artifact from the Abyss!<br> ,,vc_10140100011_008_01
+
+message,<user>,It's an exploration tool I use every day，though it's pretty beat-up.<br> 
+
+charaface,chara_1,FaceSurprise
+
+asynccharareaction,chara_1,shake,1,STOP
+
+asyncseplay,setag1_8,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+message,ピコ,Eeek，animal bones in a place like this!<br> ,,vc_10140100011_009_01
+
+message,<user>,Sorry，that's the leftover drumstick from lunch.<br> 
+
+asyncseplay,setag1_9,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+charaface,chara_1,FaceAnger
+message,ピコ,Geez，Commander，your room is so boring—there's nothing fun here!<br> ,,vc_10140100011_010_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,3.5
+message,ピコ,At this rate，I can't get any footage value at all. Give me something<br>that can be a real gag for the stream!<br> ,,vc_10140100011_011_01
+
+message,<user>,You say that，but it's not like I can do anything about it...<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ピコ,So，like，is that chair a special custom job just for you，Commander?<br>With amazing comfort like a gaming chair or something?<br> ,,vc_10140100011_012_01
+
+message,<user>,This is just a regular chair，I think... So，what kind of chair is a<br>gaming chair?<br> 
+
+charaface,chara_1,FaceFun
+message,ピコ,It's a chair for playing games. I have one in my room too，and it's<br>super soft and the comfort is top-notch!<br> ,,vc_10140100011_013_01
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asyncseplay,setag1_10,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ピコ,It feels like your whole body is wrapped up in it，so you can<br>concentrate on gaming for hours on end.<br> ,,vc_10140100011_014_01
+
+message,<user>,Whole body wrapped up，huh... I don't really get it，but...<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,ピコ,I mean，you sit like this—<br> ,,vc_10140100011_015_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+blur,on,BACK,0
+
+charahide,chara_1,0
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+asyncseplay,setag1_11,se4401001,0,1,CONT
+
+asynccharareaction,chara_1,nod,1,STOP
+window,on,0.15
+message,,Pico suddenly sat down on my lap and leaned her whole body into me.<br> 
+
+message,<user>,H-hey...!<br> 
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,ピコ,See，like this your whole body is supported，right? The feeling is<br>amazing!<br> ,,vc_10140100011_016_01
+
+message,,Pico leaned back against me，her back and head resting against me.<br>Then she tried to sink deeper，grinding her ass against my crotch.<br> 
+
+charaface,chara_1,FaceFun
+message,ピコ,Oh，your thighs aren't too bad to sit on either，Commander. They're<br>pretty soft... soft...<br> ,,vc_10140100011_017_01
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceSurprise
+message,ピコ,*gasp*! Something hard is poking me!<br> ,,vc_10140100011_018_01
+
+message,<user>,...You noticed，did you?<br> 
+
+asyncseplay,setag1_12,se4800012,0,1,CONT
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+message,ピコ,H-hey... this is... yours，Commander... right? W-why is it getting so<br>big...?<br> ,,vc_10140100011_019_01
+
+message,<user>,...It's because I've been working all day. When you're tired，it tends<br>to get like this.<br> 
+
+charaface,chara_1,FaceSad
+message,ピコ,L-lies! Guys get bigger when they get horny—that's what I read<br>online!<br> ,,vc_10140100011_020_01
+
+asyncseplay,setag1_13,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharareaction,chara_1,shake,0.5,STOP
+
+charaface,chara_1,FaceUnique02
+message,ピコ,Commander... you're feeling horny right now，aren't you...?<br> ,,vc_10140100011_021_01
+
+message,,I tried to brush it off，but it seemed Pico had some knowledge about<br>these things.<br> 
+
+message,<user>,It's because you've been pressing your ass against me this whole<br>time! That's the only reason I'm reacting!<br> 
+
+charaface,chara_1,FaceUnique01
+message,ピコ,Hmm... I see... So you're having dirty thoughts about Pico-nyan，<br>Commander...?<br> ,,vc_10140100011_022_01
+
+message,<user>,I keep telling you，that's not it! It's just a conditioned reflex...<br> 
+
+asyncseplay,setag1_14,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,FaceSad
+message,ピコ,I don't mind... getting naughty with you，Commander...<br> ,,vc_10140100011_023_01
+
+message,<user>,Huh...!<br> 
+
+asyncseplay,setag1_15,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceShy
+message,ピコ,S-so... I mean... I'd be cool with having，you know，a sexual<br>relationship with you，Commander...<br> ,,vc_10140100011_024_01
+
+message,,Pico turned to look at me，her cheeks flushed. When our eyes met，I<br>felt something snap inside me.<br> 
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+

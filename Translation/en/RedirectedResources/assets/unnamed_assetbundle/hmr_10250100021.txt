@@ -1,0 +1,193 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12100a
+
+charaload,chara_1,102501000X,ウェンディ
+charamove,chara_1,Set,X,-400,0
+
+charaload,chara_2,401401000,先輩娼婦
+charamove,chara_2,Set,X,400,0
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,I'll Be Your Partner
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+
+
+asynccharashow,chara_1,0.3,STOP
+
+charashow,chara_2,0.3
+
+asyncwait
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,CONT
+window,on,0.15
+message,先輩娼婦,So yeah，that's how we do things here. Any questions?<br> ,,vc_10250100021_001_01
+
+asyncskipwait,chara_2
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ウェンディ,No，I'm fine. Your explanation was very clear and helpful. Thank you<br>very much.<br> ,,vc_10250100021_002_01
+
+asyncseplay,setag1_3,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,先輩娼婦,Hey，it's nothing.<br> ,,vc_10250100021_003_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+
+asyncseplay,setag1_4,se4800009,0,1,CONT
+
+asynccharaemo,chara_2,Question,STOP
+message,先輩娼婦,Anyway，how did you end up working at the brothel? Was it the<br>Commander's orders?<br> ,,vc_10250100021_004_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP,0
+
+asynccharaface,chara_1,FaceHappy,STOP,3.8
+message,ウェンディ,No，I wasn't ordered by the Commander; I volunteered because I<br>thought it would help him.<br> ,,vc_10250100021_005_01
+
+charaface,chara_2,FaceSurprise
+
+asynccharareaction,chara_2,Jump,0.5,STOP
+
+asynccharaface,chara_2,FaceHappy,STOP,1.5
+message,先輩娼婦,Huh，is that so? How devoted of you.<br> ,,vc_10250100021_006_01
+
+seplay,setag1_5,se4300003,0,1
+
+wait,0.5
+
+asyncseplay,setag1_6,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,STOP
+
+wait,0.5
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+
+asyncshake,CHARA,chara_2,20,0,0.5,1,off,off,0,off,STOP,0
+
+asynccharaface,chara_2,FaceHappy,STOP,2
+
+asynccharaface,chara_2,FaceAnger,STOP,3
+message,先輩娼婦,Oh，looks like we've got a customer already. Welcome... oh，it's that<br>customer again...<br> ,,vc_10250100021_007_01
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_7,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ウェンディ,Is something wrong with that customer?<br> ,,vc_10250100021_008_01
+
+charaface,chara_2,FaceSad
+
+asyncseplay,setag1_8,se4800008,0,1,CONT
+
+asynccharaemo,chara_2,Sweat,STOP
+message,先輩娼婦,He's a bit of a handful. Always shows up drunk and causes trouble.<br> ,,vc_10250100021_009_01
+
+asyncseplay,setag1_9,se4800006,0,1,CONT
+
+asynccharaemo,chara_2,Trouble,STOP
+
+asyncshake,CHARA,chara_2,20,0,0.5,1,off,off,0,off,STOP,0
+message,先輩娼婦,He gets angry over little things too. Ugh，what a pain...<br> ,,vc_10250100021_010_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,1
+message,ウェンディ,In that case，shall I take care of that customer?<br> ,,vc_10250100021_011_01
+
+charaface,chara_2,FaceSurprise
+
+asyncseplay,setag1_10,se4800007,0,1,CONT
+
+asynccharaemo,chara_2,Panic,STOP
+
+asynccharaface,chara_2,FaceSad,STOP,1
+
+message,先輩娼婦,Huh? Well，if you'd do that，everyone would be happy，but... You've<br>only just started here.<br> ,,vc_10250100021_012_01
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,5.5
+message,ウェンディ,I've just been taught the procedures，so it's no problem. Then，I'll<br>take care of that customer.<br> ,,vc_10250100021_013_01
+
+charaface,chara_2,FaceSad
+
+asynccharareaction,chara_2,Nod,0.5,STOP
+
+asyncseplay,setag1_11,se4800008,0,1,CONT
+
+asynccharaemo,chara_2,Sweat,STOP,0.3
+message,先輩娼婦,U-um... if you say so...<br> ,,vc_10250100021_014_01
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+bg,abg18200a
+
+charahide,chara_1,0
+
+charahide,chara_2,0
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+
+window,on,0.15
+message,ウェンディ,Welcome，sir. I'm Wendy，and I'll be your companion for today.<br> ,,vc_10250100021_015_01
+
+message,ウェンディ,I'll guide you to your room. Please，this way.<br> ,,vc_10250100021_016_01
+
+message,ウェンディ,Then，sir，please get on this bed—<br> ,,vc_10250100021_017_01
+
+message,ウェンディ,Kyaa!<br> ,,vc_10250100021_018_01
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+

@@ -1,0 +1,41 @@
+post-battle
+へっへ～ん♪　楽勝、楽勝っ♪=He he~♪\nDễ như ăn bánh, dễ như ăn bánh♪ //verisa
+ふふっ、この辺りの敵は、\nもう余裕になってしまいましたねぇ～♪=Hehe, đám địch quanh đây \ngiờ chẳng còn là gì nữa nhỉ?♪ //marina
+私たちが探索を始めた頃は、\n正直、どうなるか不安だったけどね……=Thật lòng mà nói, lúc chúng ta mới bắt đầu thám hiểm, tôi hơi lo mọi chuyện sẽ ra sao... //Sophia
+気付けば、こんなに頼もしい仲間ばかり……\nホント皆さん、心強いですっ♪=Từ lúc nào không hay, quanh tôi đã có những đồng đội đáng tin cậy thế này... \nCó mọi người bên cạnh, tôi thấy yên tâm lắm♪ //Alicia
+（やはり司令官は、この世界を救う\r\n”希望”……そう信じています！\r\n初めて出会ったあの日からずっと……）=(Tôi thật sự tin rằng Chỉ huy chính là "hy vọng" sẽ cứu thế giới này!\r\nNgay từ ngày đầu chúng ta gặp nhau...)
+
+gacha tutorial
+おっしゃるように戦力の強化は急務……\n=Như ngài đã nói, tăng cường chiến lực là việc cấp bách...
+そこで、トレスリア地方全体に布告を出して、 各地の腕利きに協力を要請しておきました。=Vì vậy, tôi đã gửi thông cáo khắp vùng Treslia, kêu gọi những người tài ở các nơi đến trợ giúp.
+10回目SSR確定=<cspace\=-0.1em><size\=95%>Lần 10 chắc chắn SSR
+無料=Miễn phí
+普通、仲間を募集するには\n『アビスジェム』と呼ばれる希少な鉱石や=Thông thường, để chiêu mộ đồng đội, cần một loại khoáng thạch hiếm gọi là “Abyss Gem”, hoặc...
+特別なアイテムが必要なのですが=-một vật phẩm đặc biệt nào đó, nhưng...
+今回は、わたしからのサービスです。\nさあ、司令官、試してみてください！=Lần này tôi sẽ chiêu đãi. Nào, Chỉ huy, hãy thử xem!
+見てください、司令官！ \n素敵な方達が、集まってくださいましたよ！=Nhìn kìa, Chỉ huy! Những người tuyệt vời đã tụ họp lại rồi!
+どんな方かはこちらで見ることができますよ！\n=Ngài có thể xem thêm thông tin về họ ở đây!\n
+司令官のお考えと違うようでしたら、 募集し直すこともできますよ。決断をお聞かせください。=Nếu vẫn chưa vừa ý, Chỉ huy có thể chiêu mộ lại. Xin hãy cho chúng tôi biết quyết định của ngài.
+前線基地には日々、\r\n新たな志願者が集まってきています。=Mỗi ngày đều có những tình nguyện viên mới tìm đến căn cứ tiền tuyến.
+アビスジェムを手に入れた際には、\nここを覗いてみてください。=Khi có Abyss Gem trong tay, hãy nhớ ghé xem mục này.
+
+interception tutorial
+急ぎ、迎撃部隊を編成しましょう！=Mau lập đội đánh chặn thôi! //alicia
+『おまかせ編成』で手早く編成しちゃいましょう！\n=Hãy dùng "Tự động lập đội" để sắp xếp đội hình thật nhanh! //alicia
+城壁を破壊されて前線基地に侵入されるのだけは避けないと……=Chúng ta phải ngăn chúng phá tường và xâm nhập căn cứ tiền tuyến... //sophia
+私たちは防衛設備を操作して援護しますね！=Chúng tôi sẽ vận hành hệ thống phòng thủ để yểm trợ! //marina
+敵をやっつけるのはあたしたちに任せてー=Cứ để tụi em xử lý kẻ địch— //verisa
+やったの……？=...Chúng ta thắng rồi sao? //sophia
+何とかなりましたね！=Cuối cùng cũng xoay xở được rồi nhỉ! //marina
+へー、お兄さん結構やるじゃん？=Hê, Onii-san cũng khá ra phết đấy chứ? //verisa
+皆さん……よかった……司令官もお見事でした！帰還してください。=Mọi người... thật may quá... Chỉ huy cũng đã làm rất tốt! Xin hãy trở về.
+
+Post-tutorial
+司令官お疲れ様でした。何とか撃退できましたが、防衛施設に無理をさせたせいか…=Chỉ huy, ngài vất vả rồi. Chúng ta đã đẩy lui được chúng, nhưng có lẽ các cơ sở phòng thủ đã bị ép hoạt động quá sức...
+ほとんど機能を停止してしまいました。=Hầu hết đã ngừng hoạt động.
+復旧するためにも大穴の探索を続ける必要があります。=Để khôi phục căn cứ, chúng ta cần tiếp tục thám hiểm Đại Huyệt.
+司令官がやるべきことをまとめておいたので行動の指針にして下さい。\n=Tôi đã tổng hợp những việc Chỉ huy cần làm, xin hãy dùng làm chỉ dẫn hành động.
+いきづまったら訓練したり、編成を見直すのも重要です。=Nếu gặp bế tắc, luyện tập hoặc xem lại đội hình cũng rất quan trọng.
+前途多難ですが、わたし達の本当の戦いは、ここからです！　行きましょう、司令官！=Con đường phía trước đầy thử thách, nhưng trận chiến thật sự của chúng ta bắt đầu từ đây! Đi thôi, Chỉ huy!
+
+チュートリアルはこれで終了です。<br>タイトルに戻ります。<br>引き続きゲームをお楽しみください。=Hướng dẫn kết thúc tại đây. \nBạn sẽ trở về màn hình tiêu đề. \nHãy tiếp tục tận hưởng trò chơi.

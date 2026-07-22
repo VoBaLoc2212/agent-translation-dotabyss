@@ -1,0 +1,81 @@
+超可愛的暴力少女=Thiếu Nữ Bạo Lực Siêu Đáng Yêu
+秘密を抱く聖職者=Giáo Sĩ Mang Bí Mật
+桃色の一閃=Tia Chớp Hồng
+雷光誘う天の巫女=<cspace\=-0.1em><line-height\=40%>Thiên Mệnh Vu Nữ Gọi Sấm
+碩学の弓使い=Cung Thủ Uyên Bác
+見通す者=Kẻ Nhìn Thấu
+恵体の不良警官=Cảnh Sát Bất Hảo Vạm Vỡ
+姫騎士オタクの黒魔導士=Pháp Sư Hắc Ám Cuồng Kỵ Sĩ Công Chúa
+若き工兵隊長=Đội Trưởng Công Binh Trẻ Tuổi
+賑やかな死人=Thi Hài Hoạt Bát
+早撃ち魔法使い=Pháp Sư Rút Súng Nhanh
+金色の狙撃手=Xạ Thủ Bắn Tỉa Hoàng Kim
+火花散る剣技=Kiếm Kỹ Tóe Lửa
+繚乱の盾=Tấm Khiên Rực Rỡ
+宝石の魔女=Ma Nữ Đá Quý
+煌めきの打ち手=Tay Đấm Lấp Lánh
+騎士道まっしぐら=Chỉ Có Tinh Thần Hiệp Sĩ
+メスガキ魔法使い=Phù Thủy Nhóc Hỗn Láo
+何でも売ってる旅商人=Thương Nhân Lữ Hành Bán Đủ Thứ
+元（？）盗賊の採掘娘=<cspace\=-0.1em><line-height\=40%>Cô Gái Thợ Mỏ (Cựu) Đạo Tặc
+新人新聞記者=<cspace\=-0.1em><line-height\=40%>Phóng Viên Tin Tức Tập Sự
+品行方正なビキニ兵士=Người Lính Bikini Chuẩn Mực
+騎士国の忠犬=<cspace\=-0.1em><line-height\=40%>Chú Chó Trung Thành Của Quốc Gia Hiệp Sĩ
+清廉なる淑女=Quý Bà Chính Trực
+嫣然の暗殺者=Sát Thủ Kiều Diễm
+半なまの英雄=Anh Hùng Nửa Mùa
+紅玉老星=Hồng Ngọc Lão Tinh
+魔法学校落第生=Học Sinh Lưu Ban Trường Ma Pháp
+白雷の騎士生徒会長=Hội Trưởng Học Sinh Kỵ Sĩ Bạch Lôi
+望郷の令和少女=<cspace\=-0.1em><line-height\=40%>Thiếu Nữ Lệnh Hòa Nhớ Quê
+疾風怒濤の自然児=<cspace\=-0.1em><line-height\=40%>Đứa Trẻ Tự Nhiên Của Giông Tố
+紅の猟銃使い=Xạ Thủ Súng Săn Đỏ Thắm
+好奇心旺盛な魔法科学者=Nhà Khoa Học Phép Thuật Hiếu Kỳ
+呪縛の暗黒騎士=Kỵ sĩ bóng tối Bị Nguyền Rủa
+赤焔の弓使い=Cung Thủ Hỏa Diễm
+高性能アンドロイド=Android Hiệu Năng Cao
+氷晶の魔法使い=Pháp Sư Tinh Thể Băng
+異世界実況ガチ勢=<cspace\=-0.1em><line-height\=40%>Streamer Tryhard Dị Giới
+白炎の戦乙女=Chiến Yến Bạch Yến
+水神拳聖=Thủy Thần Quyền Thánh
+コミュ障魔法植物使い=Nhà Thực Vật Ma Pháp Vụng Về Giao Tiếp
+作られし愛娘=<cspace\=-0.1em><line-height\=40%>Ái Nữ Nhân Tạo
+氷上の芸術家=Nghệ Sĩ Trên Băng
+けなげな暴力ウエイトレス=Nữ Phục Vụ Bạo Lực Ngây Thơ
+お菓子の国の三ツ星パティシエ=<cspace\=-0.1em><line-height\=40%>Đầu Bếp Bánh Ngọt Ba Sao Của Vương quốc Bánh Kẹo
+神出鬼没の妖刀使い=Kiếm Sĩ Yêu Đao Thần Xuất Quỷ Một
+閃光の介添人=Người Hộ Tống Chớp Nhoáng
+清流の祈り手=Người Cầu Nguyện Suối Trong
+ぶっ飛び天才鍛冶師ちゃん=Thợ Rèn Thiên Tài Điên Rồ
+大地と唄う翠の詩人=Thi Nhân Lục Ngọc Hòa Ca Cùng Đất Trời
+守銭奴トレジャーハンター=Thợ Săn Kho Báu Hám Tiền
+
+太陽の踊り子=Vũ Công Thái Dương
+雷撃の導き手=Người Dẫn Lối Sấm Sét
+嵐を呼ぶ海賊娘=<cspace\=-0.1em><line-height\=40%>Cô Nàng Hải Tặc Gọi Bão
+
+
+
+Tôi đã đọc cả hai file. So sánh tất cả các key tiếng Nhật:
+
+**File EN** (các key tiếng Nhật ở bên trái dấu `=`):
+- Lines 1-51, 53-55: 54 keys có nội dung
+- Lines 52, 56-58: trống
+
+**File VI** (các key tiếng Nhật ở bên trái dấu `=`):
+- Lines 1-51, 53-55: 54 keys có nội dung
+- Lines 52, 56-58: trống
+
+All 54 Japanese keys present in the EN file are already present and translated in the VI file. No missing keys were found.
+
+**Kết quả: Không có dòng nào cần thêm.** Cả hai file đã khớp hoàn toàn về các key tiếng Nhật.
+
+想いを燃やす恋の鬼=<cspace\=-0.1em><line-height\=40%>Quỷ Tình Yêu Cháy Bỏng
+
+永久の慈愛=Lòng Nhân Ái Vĩnh Cửu
+
+魂のドリルマイスター=Bậc Thầy Khoan Linh Hồn
+
+黒き翼の召喚士=Triệu Hồi Sư Cánh Đen
+
+快活！小悪魔ギャルちゃん=<cspace\=-0.1em><line-height\=40%>Nàng Gal Tiểu Quỷ Hoạt Bát!

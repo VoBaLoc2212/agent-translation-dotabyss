@@ -1,0 +1,94 @@
+﻿adultui,off
+
+bg,abg12000b,off
+
+charaload,chara_1,102801000X,エミリー
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0035,1
+
+charaface,chara_1,FaceHappy
+
+charashow,chara_1,0.3
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+window,on,0.15
+message,エミリー,Commaander，what do you think? Does this outfit look good on me?<br> ,,vc_10280100013_001_01
+
+message,,Emily returned from the second floor after borrowing a brothel outfit<br>from Ludia，and happily put it on.<br> 
+
+message,<user>,Yeah，it suits you pretty well.<br> 
+
+asyncseplay,setag3_1,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+message,エミリー,Really? Ehehe，I'm so happy!<br> ,,vc_10280100013_002_01
+
+message,<user>,So you changed into that outfit—does that mean you've decided to<br>work on the second floor?<br> 
+
+asynccharaemo,chara_1,Silence,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,エミリー,Well... I do feel like I want to make everyone smile... Mmm，but I'm still<br>torn.<br> ,,vc_10280100013_003_01
+
+message,<user>,Well，it's not a job you should force yourself into. Take your time<br>thinking about it.<br> 
+
+asyncseplay,setag3_2,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceShy
+message,エミリー,That's true. I'm still not confident I can do it well... Umm，could I ask<br>you to train me one more time?<br> ,,vc_10280100013_004_01
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharaemo,chara_1,Imagination,STOP
+
+charaface,chara_1,FaceUnique02
+message,エミリー,This time，wearing this outfit...<br>P-Please，Commaander!<br> ,,vc_10280100013_005_01
+
+message,<user>,Whoa，wait a minute. I don't think my body can handle this...<br> 
+
+message,<user>,So，how about we continue training a bit longer while you're wearing<br>that?<br> 
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,Shake,0.5,STOP
+message,エミリー,Ehh，you have to keep me company until I get the hang of it，<br>Commaaander...<br> ,,vc_10280100013_006_01
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

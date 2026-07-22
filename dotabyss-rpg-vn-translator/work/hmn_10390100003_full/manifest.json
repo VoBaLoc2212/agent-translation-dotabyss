@@ -1,0 +1,96 @@
+{
+  "scene": "hmn_10390100003",
+  "title_jp": "あなたは神の御使いなのです",
+  "title_vi": "Ngài Là Sứ Giả Của Chúa Trời",
+  "condition": "EN-asset-is-English (en.json holds English; ja.json == identity map; title field still JP)",
+  "source": {
+    "ja_json": "dotabyss-translation-main/translations/novels/hmn_10390100003/ja.json (identity map)",
+    "en_json": "dotabyss-translation-main/translations/novels/hmn_10390100003/en.json (English values)",
+    "en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10390100003.txt",
+    "en_source_sha256": "ef069dfa977c2c4f8d45afa1ba5a17f0605d42143cf8d39a88994c5a0a90b046"
+  },
+  "output": {
+    "vi_asset": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10390100003.txt",
+    "vi_output_sha256": "74085a4ae51afa0a531c42aee94ad4e6496ea5a9f0669d59e2d1fbb9f9289f95",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1805,
+    "line_count_match": true
+  },
+  "counts": {
+    "title": 1,
+    "message": 106,
+    "messageTextUnder": 1,
+    "messageTextCenter": 2,
+    "total_text_records": 110
+  },
+  "addressed_characters": {
+    "Margaret (マーガレット)": "em/anh 1st-person 私→em, Lord Commander→Chỉ Huy; devout clergywoman voice; self-name kept as 'Margaret' in dialogue",
+    "Commander (<user>)": "anh/Chỉ Huy; informal T→anh with Margaret, gruff pragmatic leader voice toward thieves",
+    "盗賊/盗賊Ａ/盗賊Ｂ (thieves)": "lũ đạo tặc / bọn đạo tặc; rough commoners, A panics B insists; でヤンス quirky speech left as VI colloquial 'tôi bảo/đấy'",
+    "モンスターＡ/Ｂ (monster)": "SFX only: キィィイー→Kííi!, GOOOOAH!→Gào!",
+    "アリシア (Alicia)": "romanized as Alicia in dialogue; casual あんた→ông/anh",
+    "女性店員 (waitress)": "nữ phục vụ; kept JP label 女性店員 per field-1 convention"
+  },
+  "terminology_bank": {
+    "司令官(様)/Lord Commander": "Chỉ Huy",
+    "盗賊": "đạo tặc",
+    "大穴": "Đại Huyệt (Abyss)",
+    "前線基地": "Căn Cứ Tiền Tuyến (Frontline Base)",
+    "神の御使い": "Sứ Giả của Chúa (God's Messenger)",
+    "英傑": "anh hùng (hero, God-given)",
+    "贖い/罪": "chuộc tội / tội lỗi",
+    "聖歌": "thánh ca (hymn)"
+  },
+  "conventions_applied": [
+    "Field 1 (speaker label) kept byte-identical JP/ <user> (マーガレット, 盗賊Ａ, モンスターＢ, アリシア, 女性店員).",
+    "In-dialogue names romanized: Margaret, Alicia (consistent with shipped VI).",
+    "Fullwidth comma （ used inside VI text fields (no ASCII comma inserted); verifier ascii_comma_in_vi_text_count=0.",
+    "title, translated JP→VI Title Case: 'Ngài Là Sứ Giả Của Chúa Trời'.",
+    "All message, fields: EN→VI, <br> count matches EN inner exactly, trailing '<br> ' suffix mirrored.",
+    "messageTextCenter <size=48>—Vài Ngày Sau/—Vài Phút Sau</size> cards: translated, own enclosure, no suffix mirror.",
+    "BOM + CRLF preserved; line count 1805 == EN."
+  ],
+  "intentional_localization_notes": [
+    "L713 モンスターＢ 'GOOOOAH!' → 'Gào!' (monster SFX localized to Vietnamese; not a proper name).",
+    "L1193 '...' (JP '……') → '…' (ellipsis char, distinct byte; not kept English).",
+    "L1634 'Gah. M-Margaret...' → 'Á! M-Margaret...' (English gasp localized to 'Á!').",
+    "L150 モンスターＡ 'キィィイーっ!' → 'Kííi!' (screech SFX localized).",
+    "No English/proper-name lines retained verbatim; all 110 records changed from source."
+  ],
+  "notes": [
+    "No H18/adult content in this scene (faith-arc / thief rescue / cafe slice-of-life); nothing to tone down.",
+    "EN-asset typo 'descend' unaffected; minor EN source wording followed by meaning, not copied verbatim.",
+    "Independent verifier PASS is authoritative; see qa_log.json for full result block."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10390100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 106,
+      "messageTextUnder": 1,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 110,
+    "translated_records": 110,
+    "changed_lines": 110,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1805,
+      "vi": 1805,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "ef069dfa977c2c4f8d45afa1ba5a17f0605d42143cf8d39a88994c5a0a90b046",
+    "output_sha256": "e94a0f5249133eba6f377cf9f95684b524e6accf5a5e1957a120acb7ba3db3fc"
+  },
+  "status": "PASS"
+}

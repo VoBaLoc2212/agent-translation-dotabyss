@@ -1,0 +1,119 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,103101000G,ハツネ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0036,1
+
+charaface,chara_1,FaceSurprise
+
+
+
+
+
+window,on,0.15
+message,,Fortunately，Hatsune and I made it to the command room without<br>being caught.<br> 
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+message,ハツネ,*pant*，*pant*... *pant*... Talk about bad luck，almost getting caught<br>at the very last second.<br> ,,vc_10310100033_001_01
+
+message,<user>,Well，if you're that loud，it's bound to get noticed. But hey，at least<br>we didn't get caught.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ハツネ,Yeah，good. And I got to see how much you've grown，young master.<br> ,,vc_10310100033_002_01
+
+message,,It seemed her heat had subsided，and Hatsune was back to her usual<br>calm self.<br> 
+
+message,<user>,So，speaking of which... once my warrior training is over，are you also<br>planning to go back to the Hourai domain?<br> 
+
+message,,It seemed like a good opportunity，so I asked about something that<br>had been on my mind.<br> 
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ハツネ,No... If possible，I want to stay at the Frontline Base. For you，<br>Commander.<br> ,,vc_10310100033_003_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Is that so? That's great to hear. I don't want to lose a skilled<br>swordswoman like you either.<br> 
+
+asyncseplay,setag3_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ハツネ,Ahaha! That's really nice of you to say. Don't worry，I don't plan to<br>leave here. After all...<br> ,,vc_10310100033_004_01
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ハツネ,You're the only one... who can suppress my estrus，Commander.<br> ,,vc_10310100033_005_01
+
+asyncseplay,setag3_4,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+message,,Hatsune blushed again and glanced around the room.<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ハツネ,No one's coming here，right? Then... one more time...<br> ,,vc_10310100033_006_01
+
+crossfadeready
+
+charahide,chara_1,0
+
+asynccharaface,chara_1,FaceShy,STOP
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+message,,It seemed Hatsune's estrus hadn't fully subsided after all，and that<br>night they made love over and over until Hatsune was satisfied.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

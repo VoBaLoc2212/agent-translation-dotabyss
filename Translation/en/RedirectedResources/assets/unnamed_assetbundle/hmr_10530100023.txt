@@ -1,0 +1,250 @@
+﻿adultui,off
+
+bg,abg12000b,off
+
+charaload,chara_1,105301000X,シャノン
+charamove,chara_1,Set,X,-400,0
+
+charaload,chara_2,300301000,ルディア
+charamove,chara_2,Set,X,400,0
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0035,1
+
+charaface,chara_2,FaceFun
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharashow,chara_2,0.3,STOP
+
+subimage,UI/BG/Novel/abg18200a,subimage_2,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_2,0,150,150,LinearTarget
+
+
+
+asyncseplay,setag3_1,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+window,on,0.15
+message,ルディア,Thanks for taking the brothel job too. That customer ended up paying<br>triple the gold coins and left in tears.<br> ,,vc_10530100023_001_01
+
+asyncseplay,setag3_2,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャノン,I see. If he was that happy，then as a professional，I'm glad too.<br> ,,vc_10530100023_002_01
+
+asyncseplay,setag3_3,se4800009,0,1,CONT
+
+asynccharaemo,chara_2,Question,STOP
+
+asynccharaface,chara_2,EyeOpen,STOP
+asynccharaface,chara_2,FaceNormal,STOP
+message,ルディア,How was it，doing it as a professional? Is it different from doing it<br>with the Commander?<br> ,,vc_10530100023_003_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_4,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,シャノン,Well... I was so focused on satisfying the customer that honestly，I<br>couldn't really concentrate on my own pleasure.<br> ,,vc_10530100023_004_01
+
+
+asynccharareaction,chara_2,Nod,1,STOP
+
+asynccharaface,chara_2,FaceFun,STOP
+message,ルディア,I see. So it really is completely different，huh?<br> ,,vc_10530100023_005_01
+
+asyncseplay,setag3_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,シャノン,When I was with the Owner，it was more... like I entrusted myself<br>completely，body and soul... I was even more excited.<br> ,,vc_10530100023_006_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+priority,chara_1,CHARA,1,FRONT,
+
+subimagefade,subimage_2,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_6,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+window,on,0.15
+message,シャノン,(That's right... back then，the depths of my core were aching so much<br>more...)<br> ,,vc_10530100023_007_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_2,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,,At that moment，a man entered the shop.<br> 
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,<user>,Hey，Ludia，did I leave my wallet here earlier? It's not in my pocket.<br> 
+
+asyncseplay,setag3_7,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+asynccharaface,chara_2,FaceHappy,STOP
+message,ルディア,Fufu，it's right here. That's because you left in such a hurry，isn't it?<br> ,,vc_10530100023_008_01
+
+asynccharaface,chara_2,EyeOpen,STOP
+asynccharaface,chara_2,FaceNormal,STOP
+message,<user>,Oh! So it was here after all! When I got back to Command HQ，I<br>realized I didn't have my wallet.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_8,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,シャノン,Hey，Owner... I have a favor to ask.<br> ,,vc_10530100023_009_01
+
+message,<user>,Hm? A favor? What's this all of a sudden?<br> 
+
+asyncseplay,setag3_9,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,シャノン,Would you do it for me once more? That... the formal 'training'...<br> ,,vc_10530100023_010_01
+
+message,<user>,'Official training'! Umm... what do you mean?<br> 
+
+asynccharaface,chara_1,FaceShy,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,シャノン,I want to study more! So I can do my job as a professional.<br> ,,vc_10530100023_011_01
+
+message,<user>,I-I see. So by 'professional'，do you mean the kind who works at the<br>brothel?<br> 
+
+asynccharaface,chara_1,FaceAnger,STOP
+
+asyncseplay,setag3_10,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,,Shannon nodded firmly with a serious expression.<br> 
+
+
+
+charapose,chara_2,2
+
+asyncseplay,setag3_11,se4800005,0,1,CONT
+
+asynccharaemo,chara_2,Flash,STOP
+
+asynccharaface,chara_2,FaceFun,STOP
+message,ルディア,So why don't you give her the 'official training'? You can use an<br>empty room.<br> ,,vc_10530100023_012_01
+
+message,<user>,Even Ludia's pretty enthusiastic about this...<br> 
+
+asyncseplay,setag3_12,se4800013,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Spirits,STOP
+
+charapose,chara_2,1
+
+asynccharaface,chara_2,FaceHappy,STOP
+message,ルディア,After all，Shannon does have a lot of fans.<br> ,,vc_10530100023_013_01
+
+
+
+
+window,off
+wait,0.15
+
+crossfadeready
+
+asynccharahide,chara_2,0,CONT,0
+
+camerazoom,1.5,0,Set
+
+cameramove,Set,X,-200,0
+
+blur,on ,BACK,0
+
+emodelete,chara_1,0,0
+
+charamove,chara_1,Set,X,-100,0
+charamove,chara_1,Set,CharaHeight,0,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_13,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+window,on,0.15
+message,シャノン,I'm counting on you，owner!<br>I want to become a professional who can satisfy you.<br> ,,vc_10530100023_014_01
+
+message,,Shannon's eyes were serious. After that，the 'official training' would<br>continue all night until she was satisfied.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

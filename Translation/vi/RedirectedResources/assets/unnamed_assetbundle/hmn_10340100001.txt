@@ -1,0 +1,708 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,103401000G,カーラ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Đây Là Đồng Phục Đấy!
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+
+asyncseplay,setag1_1,se4300001,0,1,CONT,0
+
+window,on,0.15
+message,,Gõ cửa‚ gõ cửa.<br> 
+
+message,<user>,…Ai thế? Thôi kệ đi‚ vào đi.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+window,on,0.15
+message,カーラ,Xin phép làm phiền!<br> ,103401000G,vc_10340100001_001_01,
+
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_2,se4300003,0,1,CONT,0
+
+wait,0.5
+
+wait,0.5
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asynccharamove,chara_1,Set,X,100,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1,0,CONT,0
+
+asynccharashow,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,-100,0.3,CONT,0
+
+asyncwait
+
+wait,0.5
+
+crossfadeready
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+wait,0.5
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+window,on,0.15
+message,カーラ,Em là Carla của Đội Cảnh Vệ Cộng Hòa Eldorana!<br>Hôm nay em chính thức nhận nhiệm vụ tại đơn vị Căn Cứ Tiền Tuyến này!<br> ,103401000G,vc_10340100001_002_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,カーラ,Em sẽ dồn toàn tâm toàn ý cho nhiệm vụ!<br>Rất mong được sát cánh cùng anh!<br> ,103401000G,vc_10340100001_003_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+message,<user>,À‚ phải rồi‚ có quân tiếp viện từ quân chủ lực Eldorana<br>mà. Ta đã được báo cáo rồi.<br> 
+
+message,<user>,Em trông lễ phép và chân thành. Thái độ nghiêm túc với nhiệm vụ<br>của em thể hiện rõ ràng. Em như một chiến binh tốt đấy.<br> 
+
+message,<user>,Có thêm binh sĩ được huấn luyện là một sự giúp đỡ lớn.<br>Ta sẽ trông cậy vào em đấy.<br> 
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Dạ‚ Chỉ Huy! Em thấy hân hạnh!<br> ,103401000G,vc_10340100001_004_01,chara_1
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccamerazoom,1,1,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,0,1,CONT,0
+
+asynccameramove,EaseInTarget,Y,-150,1,CONT,0
+
+asyncwait
+
+wait,0.5
+
+window,on,0.15
+message,<user>,Nhưng mà… dù lời nói và hành động của em nghiêm túc‚<br>sao lại mặc bộ đồ đó?<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccamerazoom,1,1,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,1,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,1,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_6,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+window,on,0.15
+message,カーラ,Đồng phục này là trang phục nữ chính thức của Đội Cảnh Vệ Cộng Hòa<br>Eldorana đấy!<br> ,103401000G,vc_10340100001_005_01,chara_1
+
+message,<user>,…P‐phải rồi à?<br>Tiện thể‚ cho ta hỏi sao lại là đồ bơi nhỉ?<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,Vâng! Đội Cảnh Vệ Cộng Hòa Eldorana chủ yếu đảm nhiệm nhiệm vụ<br>chống hải tặc!<br> ,103401000G,vc_10340100001_006_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800019,0,1,CONT,0
+
+asynccharaemo,chara_1,Elated,CONT,0
+
+
+message,カーラ,Chiến trường chính của chúng em là trên biển và dọc bờ biển‚<br>nên đã chọn đồng phục phù hợp với môi trường ấy.<br> ,103401000G,vc_10340100001_007_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+message,<user>,Ra vậy‚ hóa ra nó có ý nghĩa thật.<br>Thế nhưng‚ cũng khá là hiếm thấy.<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_9,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Em xin lỗi nếu trông có phần khó coi‚ nhưng đây là đồng phục chúng em tự hào‚<br>nên mong ngài thứ lỗi.<br> ,103401000G,vc_10340100001_008_01,chara_1
+
+message,<user>,Không… nào có khó coi đâu‚ trái lại còn đẹp mắt nữa…<br>Ư… Carla này‚ em không thấy xấu hổ sao?<br> 
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_10,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,…Với tư cách là một quân nhân‚ em không được phép đưa ra ý kiến<br>cá nhân về đồng phục.<br> ,103401000G,vc_10340100001_009_01,chara_1
+
+message,<user>,…Em khéo lảng tránh đấy.<br> 
+
+message,<user>,Nhưng mà‚ một bộ đồng phục đáng tự hào‚ hử?<br>Ra vậy‚ ra vậy‚ nghe cũng hay đấy.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,カーラ,Dạ…? Ý ngài là sao…?<br> ,103401000G,vc_10340100001_010_01,chara_1
+
+bgmstop,bgmtag1_1,1.5,0
+
+message,<user>,Thế tức là Carla đang mặc đồng phục chính thức.<br>Vậy tức là không có vấn đề gì khi ta kiểm tra kỹ nhỉ?<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_12,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,カーラ,K‐kiểm tra cơ ạ!?<br> ,103401000G,vc_10340100001_011_01,chara_1
+
+bgmplay,bgmtag1_2,bgm0026,0.75,1
+
+message,<user>,À không‚ tại lần đầu ta thấy bộ đồng phục này.<br>Nhân cơ hội này ta muốn nhìn kỹ một chút.<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_13,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,カーラ,K‐kỹ một chút…!?<br> ,103401000G,vc_10340100001_012_01,chara_1
+
+message,<user>,Ừ‚ chầm chậm và thong thả.<br>…Đã là đồng phục rồi‚ thì chẳng sao đúng không?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,カーラ,C‐có chứ! Với tư cách là thành viên Đội Cảnh Vệ Cộng Hòa Eldorana‚<br>em luôn mặc đồng phục đúng quy cách!<br> ,103401000G,vc_10340100001_013_01,chara_1
+
+message,<user>,Vậy thì để ta xem nào.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,D‐dạ‚ Chỉ Huy.<br>Mời ngài cứ tự nhiên…<br> ,103401000G,vc_10340100001_014_01,chara_1
+
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg11000a
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+charaface,chara_1,FaceUnique01
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.5,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,<user>,Hmm… ta hiểu rồi…<br> 
+
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_16,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,カーラ,Ư‐ưm‚<br>việc ngài nhìn sát thế này…<br> ,103401000G,vc_10340100001_015_01,chara_1
+
+message,<user>,Có vấn đề gì sao?<br>Nhìn kỹ đồng phục từ cự ly gần thì có gì đâu?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_17,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,カーラ,Không phải là sai…<br>Chỉ là em nghĩ ngài có chán không thôi.<br> ,103401000G,vc_10340100001_016_01,chara_1
+
+message,<user>,Không‚ ta đang có khoảng thời gian rất viên mãn.<br>Nhưng mà cái này… to thật đấy…<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_18,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,To!?<br>C‐Chỉ Huy‚ ngài làm cái gì thế!?<br> ,103401000G,vc_10340100001_017_01,chara_1
+
+message,<user>,Là vật trang trí trên mũ của em đấy.<br>To nhỉ‚ có ý nghĩa gì không?<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,A… v‐vâng. Vật trang trí này<br>tượng trưng cho biển Eldorana mang lại muôn vàn phước lành…<br> ,103401000G,vc_10340100001_018_01,chara_1
+
+message,<user>,Hừm‚ ta hiểu rồi.<br>Nhưng cái này… cũng khá là hoành tráng đấy.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_20,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,カーラ,C‐cái gì hoành tráng cơ ạ!?<br> ,103401000G,vc_10340100001_019_01,chara_1
+
+message,<user>,Là cái khiên của em đấy.<br>Món đồ tốt đấy‚ phải không?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_21,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,C‐cái trang bị này được thiết kế cho chiến đấu trên biển‚ ưu tiên<br>sự nhẹ và linh hoạt…<br> ,103401000G,vc_10340100001_020_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_22,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,カーラ,…Em không nghĩ nó to đến thế… ngài đang nói về<br>cái khiên đúng không…?<br> ,103401000G,vc_10340100001_021_01,chara_1
+
+message,<user>,Đương nhiên là nói về khiên rồi. Và trên hết… cái này khổng lồ thật.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,カーラ,Cái gì khổng lồ cơ…?<br> ,103401000G,vc_10340100001_022_01,chara_1
+
+bgmstop,bgmtag1_2,1.5,0
+
+message,<user>,Rõ ràng quá còn gì? Ngực của Carla.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg11000a
+
+scale,BACK,,0,1,1,Set
+
+blur,off,BACK,0
+
+charaface,chara_1,FaceAnger
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_24,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,カーラ,Chỉ Huy! Xin ngài đừng đùa nữa!<br> ,103401000G,vc_10340100001_023_01,chara_1
+
+
+message,<user>,Ồ‚ đúng rồi nhỉ. Xin lỗi‚ ta không nhịn được trêu em một chút.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_25,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,カーラ,L‐lần này em sẽ bỏ qua‚ nhưng xin ngài hãy cẩn thận hơn sau này.<br> ,103401000G,vc_10340100001_024_01,chara_1
+
+message,<user>,Ta hiểu rồi. Ừ‚ ta sẽ cẩn thận.<br> 
+
+bgmplay,bgmtag1_3,bgm0027,0.75,1
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+message,<user>,Thế nhé‚ ta đã nhận được thông báo điều chuyển của em‚ nhưng vì sao một<br>sĩ quan quân đội Eldorana lại đến căn cứ này?<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_26,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,カーラ,C‐chuyện đó là…<br> ,103401000G,vc_10340100001_025_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_27,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,Có tin báo rằng hải tặc E‐Eldorana có thể đang ở Căn Cứ<br>Tiền Tuyến…<br> ,103401000G,vc_10340100001_026_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,カーラ,Em được phái đến đây chủ yếu để bắt giữ bọn họ‚ và‚ ờ…<br> ,103401000G,vc_10340100001_027_01,chara_1
+
+message,<user>,Bắt giữ hải tặc‚ hử.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Ta đã nhận được thông báo trước từ Eldorana về việc điều động một<br>nữ cảnh vệ tên là Carla.<br> 
+
+message,<user>,Nhưng ta không hề nghe nói hải tặc là lý do. Đáng lẽ chỉ là một đợt<br>chi viện quân tiếp viện thông thường.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Nhân tiện‚ em được báo nhiệm vụ này kéo dài khoảng bao lâu?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,カーラ,Ư‐ưm‚ em nghe nói Căn Cứ Tiền Tuyến này luôn thiếu<br>nhân lực‚ nên…<br> ,103401000G,vc_10340100001_028_01,chara_1
+
+message,<user>,Quân tiếp viện luôn được chào đón‚ nhưng em hơi khác một chút đấy‚ Carla.<br> 
+
+message,<user>,Nếu em đến vì nhiệm vụ‚ thì làm xong rồi về luôn sao?<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_30,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,カーラ,Không‚ em được lệnh tại đây hoàn thành nhiệm vụ một thời<br>gian.<br> ,103401000G,vc_10340100001_029_01,chara_1
+
+message,<user>,Ra vậy… ta trông cậy vào em đấy.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Một đợt điều động không thời hạn‚ một nhiệm vụ như bị gắn ép vào.<br> 
+
+message,<user>,(Và cô gái nghiêm túc này đành phải chịu đựng sự quấy rối tình dục<br>trắng trợn của ta‚ hử.<br> 
+
+message,<user>,(Có gì đó khuất tất ở đây rồi.)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Được rồi‚ vậy ta đi thôi.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,カーラ,Dạ‚ đi đâu ạ?<br> ,103401000G,vc_10340100001_030_01,chara_1
+
+message,<user>,Còn phải hỏi? Tiệc chào mừng em đấy‚ Carla.<br> 
+
+message,<user>,Eldorana là quốc gia của những người đi biển. Mời thành viên mới uống một<br>chén là dấu hiệu của sự hiếu khách đúng không?<br> 
+
+message,<user>,Ta muốn đón em theo phong tục của em. Đi quán rượu cùng cạn chén<br>thôi.<br> 
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_32,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,カーラ,Chỉ Huy! Ngài biết về đất nước em rồi!<br> ,103401000G,vc_10340100001_031_01,chara_1
+
+message,<user>,Đương nhiên. Sao nào? Em đi cùng ta chứ?<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+charaface,chara_1,FaceHappy
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_33,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+window,on,0.15
+message,カーラ,Vâng! Em rất sẵn lòng đi cùng ngài‚ Chỉ Huy!<br> ,103401000G,vc_10340100001_032_01,chara_1
+
+window,off
+bgmstop,bgmtag1_3,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

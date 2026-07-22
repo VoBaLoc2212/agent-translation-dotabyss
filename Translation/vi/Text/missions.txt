@@ -1,0 +1,142 @@
+初心者\nミッション=Nhiệm Vụ\nTân Thủ
+ミッションパス=<cspace\=-0.1em>Thẻ Sứ Mệnh
+ミッション=Nhiệm Vụ
+受け取り=Nhận
+挑戦=<cspace\=-0.1em>Thử Thách
+一括受け取り=Nhận Tất Cả
+実績=Thành Tựu
+期間限定=Có Thời Hạn
+ウィークリー=Hàng Tuần
+デイリー=Hàng Ngày
+
+Timer
+r:"^あと([0-9]+)時間$"=Còn $1 Giờ
+達成=Tiến Độ
+あと1日=Còn 1 Ngày
+r:"^あと([0-9]+)日$"=Còn $1 Ngày
+
+Special Mission
+r:"^([0-9]+)日目$"=Ngày $1
+r":^いずれかのキャラクター([0-9]+)体をLv([0-9]+)にする$"=Nâng bất kỳ $1 nhân vật nào lên Lv$2
+施設の研究所で「シンクロ研究」を実行して、レベルシンクロを解放する=Thực hiện "Nghiên Cứu Đồng Bộ" tại Viện Nghiên Cứu để mở khóa Đồng Bộ Cấp Độ
+sr:"^メインストーリー([\S\s]+)([0-9]+)章をクリアする$"=Hoàn thành Cốt Truyện Chính $1 Chương $2
+1日目のログイン完了=Đăng nhập vào ngày đầu tiên
+2日目もログインする=Đăng nhập vào ngày thứ hai
+r:"^いずれかのキャラクター([0-9]+)体を絆Lv([0-9]+)にする$"=Nâng bất kỳ $1 nhân vật nào lên Gắn Kết Lv$2
+いずれかの探索クエストを1回クリアする=Hoàn thành bất kỳ Nhiệm Vụ Thám Hiểm nào 1 lần
+いずれかの装備を10個分解する=Phân Giải 10 Trang Bị bất kỳ
+いずれかのキャラクター15体を獲得する=Sở hữu 15 nhân vật bất kỳ
+r:"^シンクロLv([0-9]+)に到達する$"=Đạt Đồng Bộ Lv$1
+いずれかのキャラクター10体をLv10にする=Nâng bất kỳ 10 nhân vật nào lên Lv10
+r:"^キャラクターのアビリティ([0-9]+)個をLv5にする$"=Nâng $1 Năng Lực nhân vật lên Lv5
+r:"^迎撃戦で厄災Lv([0-9]+)に到達する$"=Đạt Tai Ương Lv$1 trong Trận Nghênh Chiến
+r:"^娼館の営業で満足度([0-9]+)を達成する$"=Đạt mức độ hài lòng $1 trong Tửu Quán
+施設の「鍛冶屋」の装備点検：体力をLv2にアップグレードする=Nâng Cấp "Bảo Dưỡng Trang Bị: Thể Lực" tại Cơ Sở "Thợ Rèn" lên Lv2
+施設の「娼館」の娼館の増築をLv2にアップグレードする=Nâng Cấp "Mở Rộng Tửu Quán" tại Cơ Sở "Tửu Quán" lên Lv2
+絆Lvを上げて絆ptを1ポイント獲得する=Nâng Gắn Kết Lv và nhận 1 điểm Gắn Kết
+【衝撃】【情熱】いずれかの探索クエストを12回クリアする=Hoàn thành bất kỳ Nhiệm Vụ Thám Hiểm [Va Chạm][Nhiệt Huyết] nào 12 lần
+深淵でアビスコードを5個獲得して帰還する=Nhận 5 Mã Vực Thẳm tại Vực Thẳm và trở về
+深淵の10階層に到達する=Đạt Tầng 10 Vực Thẳm
+深淵30Fに到達する=Đạt Tầng 30 Vực Thẳm
+いずれかの装備を100個獲得する=Nhận 100 Trang Bị bất kỳ
+施設の「兵器工場」の壁上・基地スキルの強化をLv3にアップグレードする=Nâng Cấp "Cường Hóa Kỹ Năng Tường/Cơ Sở" tại Cơ Sở "Nhà Máy Vũ Khí" lên Lv3
+sr:"^勢力クエスト【([\S\s]+)STAGE3】をクリアする$"=Hoàn thành Nhiệm Vụ Phe Phái [$1 STAGE3]
+施設の「研究所」のマナクリスタル研究をLv3にアップグレードする=Nâng Cấp "Nghiên Cứu Pha Lê Mana" tại Cơ Sở "Viện Nghiên Cứu" lên Lv3
+いずれかのランク3装備を1個獲得する=Nhận 1 Trang Bị Hạng 3 bất kỳ
+
+Daily
+ログインする=Đăng nhập hôm nay
+クエストでスタミナを40消費する=Tiêu hao 40 Thể Lực trong Nhiệm Vụ
+娼館で1回営業する=Hoạt động Tửu Quán 1 lần
+探索報酬を1回受け取る=Nhận Phần Thưởng Thám Hiểm 1 lần
+探索クエストを1回クリアする=Hoàn thành Nhiệm Vụ Thám Hiểm 1 lần
+装備を1つ獲得する=Nhận 1 Trang Bị
+迎撃戦で厄災を1回討伐する=Đánh bại Tai Ương 1 lần trong Trận Nghênh Chiến
+交換所で1回交換する=Đổi Thưởng 1 lần tại Cửa Hàng Đổi Thưởng
+デイリーミッションを6つクリアする=Hoàn thành 6 Nhiệm Vụ Hàng Ngày
+
+Weekly
+r:"^([0-9]+)日間ログインする$"=Đăng nhập $1 ngày
+いずれかの勢力クエストに5回挑戦する=Thử Thách bất kỳ Nhiệm Vụ Phe Phái nào 5 lần
+r:"^探索クエストを([0-9]+)回クリアする$"=Hoàn thành Nhiệm Vụ Thám Hiểm $1 lần
+深淵を2回帰還か撤退する=Trở về hoặc Rút Lui từ Vực Thẳm 2 lần
+r:"^迎撃戦で厄災を([0-9]+)回討伐する$"=Đánh bại Tai Ương $1 lần trong Trận Nghênh Chiến
+r:"^娼館で([0-9]+)回営業する$"=Hoạt động Tửu Quán $1 lần
+r:"^クエストでスタミナを([0-9]+)消費する$"=Tiêu hao $1 Thể Lực trong Nhiệm Vụ
+ウィークリーミッションを10個クリアする=Hoàn thành 10 Nhiệm Vụ Hàng Tuần
+r:"^装備を([0-9]+)個分解する$"=Phân Giải $1 Trang Bị
+いずれかのレジェンダリー装備を1個獲得する=Nhận 1 Trang Bị Huyền Thoại bất kỳ
+いずれかのエネミーを1500体討伐する=Đánh bại 1500 Kẻ Địch
+
+Limited Time
+r:"^探索報酬を([0-9]+)回受け取る$"=Nhận Phần Thưởng Thám Hiểm $1 lần
+司令官Lv10を達成する=Đạt Chỉ huy Lv10
+
+Achievements
+r:"^スタミナを([0-9]+)消費する$"=Tiêu hao $1 Thể Lực
+r:"^司令官Lv([0-9]+)に到達する$"=Đạt Chỉ huy Lv$1
+r:"^キャラクターを([0-9]+)体獲得する$"=Sở hữu $1 nhân vật
+r:"^新しい勢力クエストを([0-9]+)回クリアする$"=Hoàn thành Nhiệm Vụ Phe Phái mới $1 lần
+いずれかのキャラクターに贈り物を300回贈る=Tặng Quà Tặng cho bất kỳ nhân vật nào 300 lần
+キャラクター1体の絆Lvを30にする=Nâng Gắn Kết Lv của 1 nhân vật lên 30
+キャラクターの限界突破かマナ覚醒を100回行う=Phá Giới Hạn nhân vật hoặc Thức Tỉnh Mana 100 lần
+sr:"^メインストーリー([\S\s]+) ([0-9]+)章をクリアする$"=Hoàn thành Cốt Truyện Chính $1 Chương $2
+娼館で10回営業をする=Hoạt động Tửu Quán 10 lần
+キャラクターのアビリティレベルを1個10Lvにする=Nâng 1 Năng Lực nhân vật lên Lv10
+娼館の営業で満足度4000を達成する=Đạt mức độ hài lòng 4000 trong Tửu Quán
+深淵に5回挑戦する=Thử Thách Vực Thẳm 5 lần
+新しい勢力クエストを15回クリアする=Hoàn thành Nhiệm Vụ Phe Phái mới 15 lần
+迎撃戦で厄災Lv5に到達する=Đạt Tai Ương Lv5 trong Trận Nghênh Chiến
+r:"^いずれかのコモン装備を([0-9]+)個獲得する$"=Nhận $1 Trang Bị Thông Thường bất kỳ
+r:"^いずれかのエピック装備を([0-9]+)個獲得する$"=Nhận $1 Trang Bị Sử Thi bất kỳ
+r:"^いずれかのレジェンダリー装備を([0-9]+)個獲得する$"=Nhận $1 Trang Bị Huyền Thoại bất kỳ
+r:"^いずれかのユニーク装備を([0-9]+)個獲得する$"=Nhận $1 Trang Bị Độc Nhất bất kỳ
+r:"^いずれかの装備を([0-9]+)個分解する$"=Phân Giải $1 Trang Bị bất kỳ
+スタミナを6000消費する=Tiêu hao 6000 Thể Lực
+r:"^交換所で([0-9]+)回交換する$"=Đổi Thưởng $1 lần tại Cửa Hàng Đổi Thưởng
+r:"^施設「鍛冶屋」の装備点検：攻撃をLv([0-9]+)にする$"=Nâng "Bảo Dưỡng Trang Bị: Tấn Công" tại Cơ Sở "Thợ Rèn" lên Lv$1
+r:"^施設「鍛冶屋」の装備点検：体力をLv([0-9]+)にする$"=Nâng "Bảo Dưỡng Trang Bị: Thể Lực" tại Cơ Sở "Thợ Rèn" lên Lv$1
+r:"^施設「鍛冶屋」の装備点検：防御をLv([0-9]+)にする$"=Nâng "Bảo Dưỡng Trang Bị: Phòng Thủ" tại Cơ Sở "Thợ Rèn" lên Lv$1
+r:"^施設「司令本部」の探索支援計画をLv([0-9]+)にする$"=Nâng "Kế Hoạch Hỗ Trợ Thám Hiểm" tại Cơ Sở "Bộ Chỉ Huy" lên Lv$1
+r:"^施設「鍛冶屋」の溶鉱炉の整備をLv([0-9]+)にする$"=Nâng "Bảo Dưỡng Lò Luyện" tại Cơ Sở "Thợ Rèn" lên Lv$1
+データ連携を行う=Thực hiện Đồng Bộ Dữ Liệu
+r:"^いずれかのキャラクターに贈り物を([0-9]+)回贈る$"=Tặng Quà Tặng cho nhân vật bất kỳ $1 lần
+r:"^キャラクターの限界突破かマナ覚醒を([0-9]+)回行う$"=Phá Giới Hạn nhân vật hoặc Thức Tỉnh Mana $1 lần
+r:"^娼館で([0-9]+)回営業をする$"=Hoạt động Tửu Quán $1 lần
+r:"^深淵に([0-9]+)回挑戦する$"=Thử Thách Vực Thẳm $1 lần
+DMM GAME PLAYER版でログインする=Đăng nhập bằng phiên bản DMM GAME PLAYER
+
+Abyss
+期間限定深淵ミッション=Nhiệm Vụ Vực Thẳm Có Thời Hạn
+sr:"^([\S\s]+)キャラだけで編成して深淵の最終階層から帰還する$"=Trở về từ Tầng cuối của Vực Thẳm chỉ với Đội hình gồm nhân vật $1
+深淵の最終階層から1回帰還=Trở về từ Tầng cuối của Vực Thẳm 1 lần
+r:"^深淵の最終階層から([0-9]+)回帰還$"=Trở về từ Tầng cuối của Vực Thẳm $1 lần
+r:"^アビスコードを([0-9]+)個獲得して帰還する$"=Nhận $1 Mã Vực Thẳm và trở về
+「ベリサ」を編成した状態で深淵の最終階層から帰還=Trở về từ Tầng cuối của Vực Thẳm với "Verisa" trong Đội
+
+Mission Pass
+シーズン=Mùa
+キャラクターに贈り物を5回贈る=Tặng Quà Tặng cho nhân vật 5 lần
+盗賊リーダーを1体討伐する=Đánh bại 1 Thủ Lĩnh Đạo Tặc
+r:"^盗賊リーダーを([0-9]+)体討伐する$"=Đánh bại $1 Thủ Lĩnh Đạo Tặc
+勢力クエストに15回挑戦する=Thử Thách Nhiệm Vụ Phe Phái 15 lần
+深淵を15回クリアする=Hoàn thành Vực Thẳm 15 lần
+sr:"^勢力クエストの【([\S\s]+)】に15回挑戦する$"=Thử Thách Nhiệm Vụ Phe Phái [$1] 15 lần
+キャラクターの限界突破を10回する=Phá Giới Hạn nhân vật 10 lần
+
+Event mission
+イベントステージを1回クリアする=Hoàn thành Màn Sự Kiện 1 lần
+r:"^イベントステージを([0-9]+)回クリアする$"=Hoàn thành Màn Sự Kiện $1 lần
+r:"^チャレンジステージ([0-9]+)をクリアする$"=Hoàn thành Màn Thử Thách $1
+
+現在挑戦できるミッションはありません。=Không có nhiệm vụ khả dụng.
+
+r:"^あと([0-9]+)日([0-9]+)時間$"=Còn $1N $2G
+
+リリース記念14日目ミッション=Nhiệm vụ mừng ra mắt ngày 14
+
+交換所で交換を20回する=Trao đổi 20 lần tại Cửa hàng trao đổi
+
+深淵を5回クリアする=Hoàn thành Vực Thẳm 5 lần
+
+リリース2週間記念ミッションを7個クリアしよう=Hoàn thành 7 nhiệm vụ mừng 2 tuần ra mắt

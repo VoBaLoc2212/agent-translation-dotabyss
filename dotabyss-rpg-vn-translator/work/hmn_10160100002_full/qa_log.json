@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10160100002",
+  "qa_status": "PASS",
+  "structural_precheck": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": "CRLF",
+    "candidate_counts": {
+      "title": 1,
+      "message": 82,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 84,
+    "translated_records": 84,
+    "draft_issues": []
+  },
+  "linguistic_qa": {
+    "jp_primary": true,
+    "commander_term": "司令官/Commander -> Chỉ Huy",
+    "title_case": "Tiêu Đề",
+    "character_names_preserved": true,
+    "adult_content_rule": "confirmed 18+; translated normally while preserving tone/consent"
+  },
+  "unresolved_items": [],
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100002.txt",
+  "diff_path": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100002_full\\focused_diff.md",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 82,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 84,
+  "translated_records": 84,
+  "changed_lines": 84,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 818,
+    "vi": 818,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "3c68d5d6ee00ba063dd13547c5ca264f511db38c7b417dbdff4a054a1da6bc1e",
+  "output_sha256": "70f602fa640f745e84a39b9b2532e9dd5ce7a7a8b54cf1eb31f1a38f1d2b82d7"
+}

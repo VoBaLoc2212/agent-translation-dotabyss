@@ -1,0 +1,510 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10440100022
+
+charaload,chara_1,104401000X,ヤチヨ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10440100022_001_01,1,on
+
+
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+window,on,0.15
+l2dmessage,ヤチヨ,How's that? Can you see?<br> ,,vc_10440100022_001_01
+
+l2dmotion,FaceAngleReset
+
+message,,A voice rose: W-ah，aah... Shown her slit up close，the customer<br>seemed very excited.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヤチヨ,Fufufu!♪ This is your big sister's naughty place.<br> ,,vc_10440100022_002_01
+
+message,,The first-time deflowering scenario excited Yachiyo too.<br>*Squelch*—her entrance grew moist.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7.5
+
+l2dmessage,ヤチヨ,Right here in your big sister's place... I'm going to put it in... It's<br>probably pretty wet already，don't you think...?<br> ,,vc_10440100022_003_01
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+l2dmessage,ヤチヨ,It's nice and ready... warm and slick，so it'll feel good，okay?<br> ,,vc_10440100022_004_01
+
+message,,He looked down at her plump，soft buttocks. Deep in the crack，her<br>entrance glistened with honey，opening and closing in tiny pulses.<br> 
+
+message,,Her entrance fluttered in rhythm with her breath，a sight that stirred<br>desire. Yachiyo felt the customer's throat bob with a gulp.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+l2dmessage,ヤチヨ,Here... why don't you try to slide it in...?<br> ,,vc_10440100022_005_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10440100022_002_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヤチヨ,...Ngh!... mmm，Ah!<br> ,,vc_10440100022_006_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,As he slid inside，a dazed，dreamy moan escaped the customer's lips.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+l2dmessage,ヤチヨ,How does it feel? Your length—wrapped in my soft，slick<br>warmth—does it feel good?<br> ,,vc_10440100022_007_01
+
+l2dmotion,FaceAngleReset
+
+message,,He nodded eagerly. It wasn't just slick. Her warm inner walls writhed<br>and coiled around his shaft，teasing it to full satisfaction.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+message,,Overwhelmed by a pleasure he'd never known，he sank deeper into<br>bliss as his shaft jumped and quivered，and Yachiyo's smile deepened.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+l2dmessage,ヤチヨ,Fufu!♪ You still have to hold back，okay? Because it's going to get<br>even better from here...<br> ,,vc_10440100022_008_01
+
+message,,A pained groan rumbled from him. He gritted his teeth，struggling to<br>hold back ejaculation—his shaft quivered. But Yachiyo believed in him.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+l2dmessage,ヤチヨ,You can move，right? You're an adult after all. Please show me your<br>cool side!♡<br> ,,vc_10440100022_009_01
+
+message,,The honeyed cheer set his heart ablaze. He mustered his willpower，<br>fought off the oncoming ejaculation，and put force into his hips.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10440100022_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヤチヨ,Mmph! Mmph，Mmmmph!<br> ,,vc_10440100022_010_01
+
+message,,His thrusts were vigorous but messy. However，perhaps startled by<br>Yachiyo's pained sound，he quickly slowed down.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7.5
+
+l2dmessage,ヤチヨ,Mmph! Hey now... that's not okay，is it?<br>You have to be gentle with a girl... right?<br> ,,vc_10440100022_011_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,ヤチヨ,See... just like that，try moving slowly...?<br>As if savoring the inside of my core with your thing... Aahn.<br> ,,vc_10440100022_012_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Yachiyo tightened her core in time with his hips. Gaps between his<br>length and her walls disappeared，making them feel tightly joined.<br> 
+
+message,,The sensation of his tip against the ridges inside her，and the<br>softness of her bottom rippling with each thrust，gave him pleasure.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,14
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,14
+
+l2dmessage,ヤチヨ,Mmph，*pant*... yes，that's it... You're rubbing the bumpy part inside<br>with your thing，just like that... Aaahn!<br> ,,vc_10440100022_013_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The moment his hip movements changed to follow her instructions<br>exactly，Yachiyo writhed from the pleasure that coursed down her back.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+l2dmessage,ヤチヨ,Mmph，Ah... it feels good... your big sister feels good too...<br>*pant*... as a reward，your big sister will move for you too...!♥<br> ,,vc_10440100022_014_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10440100022_004_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヤチヨ,Mmph，Ah... Aaah，Mmph...!<br> ,,vc_10440100022_015_01
+
+message,,Yachiyo began to swing her hips in time with his rhythm. Their<br>connection deepened，and an incredible pleasure assaulted his length.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,When he cried out in pain and neared climax，Yachiyo slowed her<br>movements. Sensing he had calmed，she resumed the rhythm.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,She drew out the act，giving him pleasure and instilling manly<br>confidence. Her guidance alone satisfied him.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen01
+
+message,ヤチヨ,(Ahh... he's truly enjoying it... I'm doing it right... I'm so glad I<br>practiced so much with Lord Commander!♥)<br> ,,vc_10440100022_016_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+l2dmessage,ヤチヨ,Ahh... that's good... just like that，let yourself feel all the pleasure...<br> ,,vc_10440100022_017_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+l2dmessage,ヤチヨ,Your cute face when you're enjoying it... Show your big sister plenty<br>of it... Aah!<br> ,,vc_10440100022_018_01
+
+message,,While Yachiyo stayed composed，the client had none. Pleasure<br>consumed his senses，leaving his mind blank and his body on instinct.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10440100022_005_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+wait,1.5
+
+l2dmessage,ヤチヨ,Ah! Hyaa!<br> ,,vc_10440100022_019_01
+
+message,,Suddenly，he grabbed Yachiyo's breasts. As soft as her rear，even<br>softer，with a fresh，supple firmness that was pure bliss.<br> 
+
+message,,His instincts drove his hips faster. The shift from gentle grinding to<br>fierce pounding shattered Yachiyo's remaining composure.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ヤチヨ,Wha，s-so suddenly，too rough... mmm，Aah! There—that's my...<br>sensitive spot... Aah!<br> ,,vc_10440100022_020_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleLeft
+
+l2dmessage,ヤチヨ,Mmph! It's too intense! *pant*... Ah...! N-no，calm down...!<br> ,,vc_10440100022_021_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,Even as she spoke as if refusing，Yachiyo could feel pleasure blazing<br>inside her.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+message,ヤチヨ,(Aaaah... no... Ee... it feels so good... I want you to thrust harder，<br>harder...)<br> ,,vc_10440100022_022_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Yachiyo too was surrendering to pleasure and instinct. Frothy love<br>juice dripped down，staining the sheets.<br> 
+
+l2dmotion,EyeOpen02
+
+message,,She had no desire left to stop the customer. Instead，she found his<br>desperate pursuit of pleasure endearing.<br> 
+
+l2dmotion,MouthEmotion07
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,11
+
+asyncl2dmotion,EyeOpen01,on,STOP,11
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,13
+
+l2dmessage,ヤチヨ,I-It's okay... Do more!♡ Make your big sister feel good... you can go<br>wild，it's okay... Go for it!♡ Ah，aah!<br> ,,vc_10440100022_023_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Her sweet，nasal voice became self-suggestion，luring Yachiyo higher.<br>Her disheveled appearance gave the customer a new spice: superiority.<br> 
+
+l2dmotion,EyeOpen02
+
+message,,The customer，now even more excited，drove his hips with all his<br>might，producing a wet *squelch*.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.2
+
+l2dmessage,ヤチヨ,You're so good，so good!♡ Ah! Aaaah! Ngh... Your big sister is going<br>crazy!<br> ,,vc_10440100022_024_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Yachiyo was enjoying pleasure beyond expectations，but the intense<br>movements brought the customer to his peak. 'I'm cumming!' escaped.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+l2dmessage,ヤチヨ,Aaaah... yes，come inside your big sister's womanhood! *spurt，<br>spurt*... so much!♡ It'll feel amazing，I promise... aah!♡<br> ,,vc_10440100022_025_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,9
+
+l2dmessage,ヤチヨ,Press your thing against my most precious place and give me<br>everything! Fill my womanhood until it overflows! Ah! Aahn!♡<br> ,,vc_10440100022_026_01
+
+message,,The moment permission was given，the boy cried out and released his<br>desire. Boiling like magma，semen surged from his balls in an instant.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10440100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ヤチヨ,Ah! Ah! Haa! Ah! Aaaaaaaaaah!<br> ,,vc_10440100022_027_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,Yachiyo climaxed，her inner walls milking his manhood as it trembled<br>and released white fluid into her womanhood.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.1
+
+l2dmessage,ヤチヨ,Aah... it's coming out... Ngh... ah，is there still more? Fufu，it's fine...<br>please，let it all out，*spurt spurt*...<br> ,,vc_10440100022_028_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion01,on,STOP,3.5
+
+l2dmessage,ヤチヨ,Come on，keep going，keep going!♪<br> ,,vc_10440100022_029_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,When she clenched her womanhood tight，his manhood reacted and<br>expelled more semen. Then，spent，the customer's strength drained away.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10440100022_007_01,1,on
+
+l2dmessage,ヤチヨ,Fufufu!♪ You okay?<br> ,,vc_10440100022_030_01
+
+message,,Yachiyo spoke to him as if welcoming a soldier back from battle. The<br>customer，having overcome his first time，felt his heart fill.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,ExEmotion01,on,STOP,5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7
+
+l2dmessage,ヤチヨ,With this... you've become a fine adult! Congratulations!♪<br> ,,vc_10440100022_031_01
+
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

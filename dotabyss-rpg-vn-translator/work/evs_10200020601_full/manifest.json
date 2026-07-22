@@ -1,0 +1,739 @@
+{
+  "scene": "evs_10200020601",
+  "generated_at": "2026-07-19T09:04:08.192514+00:00",
+  "source_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200020601.txt",
+  "output_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200020601.txt",
+  "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200020601\\ja.json",
+  "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200020601\\en.json",
+  "source_sha256": "1283c11838459adcb8fe13964bcd3d67f2e8bfe670eb26dd11b7b8178c076887",
+  "output_sha256": "301b256902be56e65a4164cd9d61e80988c552e27faa40f7990c0963f9bb9918",
+  "source_bytes": 31565,
+  "output_bytes": 33867,
+  "source_bom": true,
+  "output_bom": true,
+  "source_newline": "CRLF",
+  "output_newline": "CRLF",
+  "source_line_count": 1664,
+  "output_line_count": 1664,
+  "candidate_record_count": 71,
+  "translated_record_count": 71,
+  "text_command_counts": {
+    "title": 1,
+    "message": 70,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "entries": [
+    {
+      "entry": 1,
+      "line": 30,
+      "record": "title",
+      "speaker": null,
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Title",
+      "vi_text": "Tiêu Đề"
+    },
+    {
+      "entry": 2,
+      "line": 37,
+      "record": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Through food and drink，the humans had fully opened up to the<br>oni-folk， and the banquet was in full swing. But——<br> ",
+      "vi_text": "Qua chén rượu trên bàn tiệc‚ những con người ghé thăm Đảo Quỷ đã hoàn toàn hòa hợp với tộc quỷ‚<br>bữa tiệc cũng náo nhiệt hẳn lên. Thế nhưng――<br> "
+    },
+    {
+      "entry": 3,
+      "line": 85,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...!? Wh-what was that...?<br>Something odd... like a wave of magical energy just passed...?<br> ",
+      "vi_text": "……!? V-vừa rồi là gì vậy ạ……?<br>Em cảm thấy có gì đó kỳ lạ…… như một làn sóng ma lực vừa lướt qua……?<br> "
+    },
+    {
+      "entry": 4,
+      "line": 87,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...Shiraes. You felt it too?<br> ",
+      "vi_text": "……Shiraes. Cô cũng nhận ra rồi nhỉ?<br> "
+    },
+    {
+      "entry": 5,
+      "line": 140,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Yes. That was the crystal's power. It seems the crystal has been<br>freed from the box that Adelheid-kun made for us.<br> ",
+      "vi_text": "Ừ. Vừa rồi là sức mạnh của viên pha lê. Xem ra viên pha lê đã được giải phóng<br>khỏi chiếc hộp mà cậu Adelheid làm cho chúng ta rồi.<br> "
+    },
+    {
+      "entry": 6,
+      "line": 151,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "That can't be! I left it in my room...<br>None of the oni-folk would go in without permission...<br> ",
+      "vi_text": "Không thể nào!? Đáng lẽ em đã để nó trong phòng em rồi mà……<br>Không có ai trong tộc quỷ tự ý vào đó đâu……<br> "
+    },
+    {
+      "entry": 7,
+      "line": 153,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "That means someone may have broken into Oni Island.<br>If the crystal activated now，in this situation... very bad.<br> ",
+      "vi_text": "Vậy thì…… có lẽ kẻ nào đó đã đột nhập vào Đảo Quỷ.<br>Nhưng…… nếu viên pha lê phát huy sức mạnh trong tình hình hiện tại thì rất tệ đấy.<br> "
+    },
+    {
+      "entry": 8,
+      "line": 189,
+      "record": "message",
+      "speaker": "村人A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Wh-what was that...!? An earthquake...!?<br> ",
+      "vi_text": "C-cái gì vừa rồi vậy……!? Động đất à……!?<br> "
+    },
+    {
+      "entry": 9,
+      "line": 191,
+      "record": "message",
+      "speaker": "村人B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "N-no，it felt weirder than that...!<br> ",
+      "vi_text": "K-không‚ cảm giác còn lạ hơn thế nhiều……!<br> "
+    },
+    {
+      "entry": 10,
+      "line": 246,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "The villagers felt it too，it seems. With a pulse that strong，<br>that's hardly surprising.<br> ",
+      "vi_text": "Có vẻ dân làng cũng cảm nhận được rồi.<br>Một dao động mạnh đến thế thì cũng không lạ.<br> "
+    },
+    {
+      "entry": 11,
+      "line": 297,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "E-everyone，please stay calm~. We're checking on the situation right<br>now——<br> ",
+      "vi_text": "M-mọi người‚ xin hãy bình tĩnh nào~.<br>Chúng tôi sẽ xác nhận tình hình ngay bây giờ――<br> "
+    },
+    {
+      "entry": 12,
+      "line": 299,
+      "record": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Just as Kureha tried to calm the villagers，a suspicious-looking man<br>suddenly burst through the door and crashed in!<br> ",
+      "vi_text": "Ngay lúc Kureha định trấn an dân làng‚<br>một gã đàn ông khả nghi bất ngờ phá cửa xông vào!<br> "
+    },
+    {
+      "entry": 13,
+      "line": 359,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Tch，persistent bunch...! Is this... a banquet hall?<br> ",
+      "vi_text": "Chậc‚ bọn dai như đỉa……! Đây là…… phòng tiệc à?<br> "
+    },
+    {
+      "entry": 14,
+      "line": 361,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "You're... the thief from before!<br>So you're the one who stole the crystal!<br> ",
+      "vi_text": "Ngươi là…… tên trộm lúc đó!<br>Ra vậy‚ kẻ cướp viên pha lê chính là ngươi!<br> "
+    },
+    {
+      "entry": 15,
+      "line": 372,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Hah，look who it is — the dumbass Commander!<br>If you get robbed it's your own fault! That crystal is mine——!<br> ",
+      "vi_text": "Ha ha‚ tưởng ai‚ hóa ra là Chỉ Huy ngu ngốc à!<br>Để đồ bị trộm thì tự trách mình đi! Viên pha lê này là của ta――!<br> "
+    },
+    {
+      "entry": 16,
+      "line": 399,
+      "record": "message",
+      "speaker": "鬼族A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Hold it right there!!!! What do you think you're doing!!!!<br> ",
+      "vi_text": "Đứng lại đấyyyyy!! Mi đang làm cái quái gì vậyyyyy!!<br> "
+    },
+    {
+      "entry": 17,
+      "line": 410,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Ugh...!? I-I can't get free...! Damn，the brute strength...!<br> ",
+      "vi_text": "Ưự……!? K-không thoát ra được……! Chết tiệt‚ sức mạnh quái vật gì thế này……!<br> "
+    },
+    {
+      "entry": 18,
+      "line": 412,
+      "record": "message",
+      "speaker": "村人たち",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Wh-what!? What on earth is happening...!?<br> ",
+      "vi_text": "C-cái gì vậy!? Rốt cuộc chuyện gì đang xảy ra……!?<br> "
+    },
+    {
+      "entry": 19,
+      "line": 424,
+      "record": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "As panic spread among the villagers，<br>the crystal slipped from the thief's hand and rolled across the floor.<br> ",
+      "vi_text": "Khi sự hỗn loạn lan rộng giữa dân làng‚<br>viên pha lê tuột khỏi tay tên trộm và lăn xuống đất.<br> "
+    },
+    {
+      "entry": 20,
+      "line": 464,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "The crystal is glowing... fully activated. Did the thief's<br>magic cause it? No... the reaction is too strong for that.<br> ",
+      "vi_text": "Viên pha lê đang phát sáng…… nó đã kích hoạt hoàn toàn rồi.<br>Do ma lực tên trộm rót vào sao? Không…… phản ứng này mạnh quá mức.<br> "
+    },
+    {
+      "entry": 21,
+      "line": 515,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Mm... indeed，this reaction is strange.<br>It's continuously putting out the force that draws monsters.<br> ",
+      "vi_text": "Hừm…… đúng là phản ứng này kỳ lạ thật.<br>Nó vẫn đang liên tục phát ra sức mạnh thu hút quái vật.<br> "
+    },
+    {
+      "entry": 22,
+      "line": 527,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "You there，thief-kun. I have one question for you —<br>what happened to the box this crystal was in?<br> ",
+      "vi_text": "Này cậu trộm kia. Ta muốn hỏi cậu một điều‚<br>chiếc hộp từng chứa viên pha lê này đâu rồi?<br> "
+    },
+    {
+      "entry": 23,
+      "line": 582,
+      "record": "message",
+      "speaker": "村人A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Answer the lady's question like a good boy，ya hear!<br> ",
+      "vi_text": "Này! Mau ngoan ngoãn trả lời câu hỏi của chị đại đi!<br> "
+    },
+    {
+      "entry": 24,
+      "line": 593,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Heh，heh heh...! I smashed it! It was in my way!<br> ",
+      "vi_text": "Hề‚ hê hê……! Thứ đó hả‚ ta đập nát rồi! Vướng víu quá mà!<br> "
+    },
+    {
+      "entry": 25,
+      "line": 642,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "As I suspected... Commander-kun，we have a bit of a problem.<br> ",
+      "vi_text": "Quả nhiên là vậy……. Chỉ Huy‚ chúng ta gặp chút rắc rối rồi đấy.<br> "
+    },
+    {
+      "entry": 26,
+      "line": 653,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "The crystal emits a monster-drawing pulse on its own —<br>the box was simply containing that while it was sealed inside.<br> ",
+      "vi_text": "Viên pha lê vốn tự phát ra dao động thu hút quái vật<br>dù không ai rót ma lực vào‚ nhưng khi đặt trong hộp thì dao động ấy bị nhốt lại.<br> "
+    },
+    {
+      "entry": 27,
+      "line": 664,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Do you understand what that means?<br> ",
+      "vi_text": "Cậu hiểu điều đó nghĩa là gì chứ?<br> "
+    },
+    {
+      "entry": 28,
+      "line": 666,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...The power that built up while it was sealed in the box<br>was released all at once，and it keeps sending out the pulse——?<br> ",
+      "vi_text": "……Ý cô là sức mạnh tích tụ khi bị nhốt trong chiếc hộp kín<br>đã được giải phóng trong một lần‚ rồi tiếp tục phát ra dao động―― phải không?<br> "
+    },
+    {
+      "entry": 29,
+      "line": 679,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Correct. If left as is，monsters will swarm here without end.<br>And in greater numbers than ever before.<br> ",
+      "vi_text": "Chính xác. Nói cách khác―― nếu cứ thế này‚ quái vật sẽ không ngừng tràn đến Đảo Quỷ.<br>Hơn nữa còn là một lượng lớn chưa từng thấy từ trước đến nay.<br> "
+    },
+    {
+      "entry": 30,
+      "line": 726,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Th-that can't be...!<br> ",
+      "vi_text": "K-không thể nào……!<br> "
+    },
+    {
+      "entry": 31,
+      "line": 728,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...Hey，you. Thief. You've done something quite terrible.<br> ",
+      "vi_text": "……Này‚ tên trộm kia. Ngươi gây ra chuyện lớn thật đấy nhỉ?<br> "
+    },
+    {
+      "entry": 32,
+      "line": 773,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Heh，not my problem. Don't you have bigger things to worry about<br>right now?<br> ",
+      "vi_text": "Hê hê‚ liên quan gì đến ta.<br>Không phải có chuyện khác đáng lo hơn sao?<br> "
+    },
+    {
+      "entry": 33,
+      "line": 775,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...What?<br> ",
+      "vi_text": "……Gì cơ?<br> "
+    },
+    {
+      "entry": 34,
+      "line": 786,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Hey，you lot! Monsters are about to swarm this place!<br>The oni-folk lured them here to slaughter every last one of you!<br> ",
+      "vi_text": "Này‚ lũ chúng mày! Sắp có quái vật tràn vào đây đấy!<br>Lũ tộc quỷ đã gọi quái vật tới để giết sạch chúng mày!<br> "
+    },
+    {
+      "entry": 35,
+      "line": 831,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Wha...!? What a pack of lies...!<br> ",
+      "vi_text": "Cái……!? Sao hắn dám nói bậy như vậy……!<br> "
+    },
+    {
+      "entry": 36,
+      "line": 833,
+      "record": "message",
+      "speaker": "村人B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "M-monsters...? N-no，but they were so kind to us...<br> ",
+      "vi_text": "Q-quái vật……? K-không‚ nhưng họ đã đối xử rất tử tế với chúng ta mà……<br> "
+    },
+    {
+      "entry": 37,
+      "line": 878,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Obviously to trick you! They invited you to Oni Island<br>so they could wipe out every last human in one sweep!<br> ",
+      "vi_text": "Tử tế để lừa chúng mày chứ còn gì nữa!<br>Chúng mời con người đến Đảo Quỷ là để tóm gọn cả mẻ đấy!<br> "
+    },
+    {
+      "entry": 38,
+      "line": 937,
+      "record": "message",
+      "speaker": "鬼族B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Don't you dare say that! Shut your mouth for a second...!!<br> ",
+      "vi_text": "Ngươi đừng có ăn nói nhảm nhí nữa! Câm miệng một chút đi……!!<br> "
+    },
+    {
+      "entry": 39,
+      "line": 979,
+      "record": "message",
+      "speaker": "盗賊",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Gwaah...!?<br> ",
+      "vi_text": "Guah……!?<br> "
+    },
+    {
+      "entry": 40,
+      "line": 1001,
+      "record": "message",
+      "speaker": "村人B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "She knocked him out...? Did she silence him because<br>there was something he shouldn't have said...?<br> ",
+      "vi_text": "Cô ta đánh hắn bất tỉnh rồi……?<br>Vì đó là chuyện không thể để lộ nên cô ta bịt miệng hắn sao……?<br> "
+    },
+    {
+      "entry": 41,
+      "line": 1012,
+      "record": "message",
+      "speaker": "鬼族B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Wh-what!? I don't have any such intentions!<br>I just hit him because he was saying such outrageous things...!<br> ",
+      "vi_text": "C-cái gì cơ!? Ta không hề có ý đó!<br>Chỉ là tên này nói mấy lời quá quắt nên ta mới……!<br> "
+    },
+    {
+      "entry": 42,
+      "line": 1026,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "(This is bad. The villagers don't know the thief caused this.<br>And in all this chaos，calm reasoning won't...!)<br> ",
+      "vi_text": "(Nguy rồi. Dân làng không biết tên trộm này là nguyên nhân.<br>Hơn nữa trong cảnh hỗn loạn này‚ họ cũng khó mà phán đoán bình tĩnh……!)<br> "
+    },
+    {
+      "entry": 43,
+      "line": 1040,
+      "record": "message",
+      "speaker": "村人A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "We-we're going to be killed...! We were lured into a trap!<br>I knew the oni-folk were a fearsome clan...!<br> ",
+      "vi_text": "C-chúng ta sẽ bị giết……! Chúng ta bị lừa vào bẫy rồi!<br>Quả nhiên tộc quỷ là một bộ tộc đáng sợ……!<br> "
+    },
+    {
+      "entry": 44,
+      "line": 1089,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Th-that's not it! Please listen!<br>We genuinely want to be friends with all of you...!<br> ",
+      "vi_text": "K-không phải vậy! Xin hãy nghe tôi nói!<br>Chúng tôi thật lòng muốn thân thiết với mọi người……!<br> "
+    },
+    {
+      "entry": 45,
+      "line": 1091,
+      "record": "message",
+      "speaker": "村人B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "H-how can we believe that!<br> ",
+      "vi_text": "L-làm sao tin chuyện đó được!<br> "
+    },
+    {
+      "entry": 46,
+      "line": 1102,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...!<br> ",
+      "vi_text": "……!<br> "
+    },
+    {
+      "entry": 47,
+      "line": 1104,
+      "record": "message",
+      "speaker": "鬼族の門番",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Emergency! A horde of monsters is approaching!<br>Anyone who can fight，take position!<br> ",
+      "vi_text": "Tình huống khẩn cấp! Một đàn quái vật đang áp sát!<br>Ai chiến đấu được thì vào vị trí!<br> "
+    },
+    {
+      "entry": 48,
+      "line": 1106,
+      "record": "message",
+      "speaker": "村人A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Monsters!? So what that man said was true!<br>The oni-folk really are trying to kill us...!<br> ",
+      "vi_text": "Quái vật!? Vậy lời người đó nói là thật!<br>Tộc quỷ đúng là muốn giết chúng ta……!<br> "
+    },
+    {
+      "entry": 49,
+      "line": 1161,
+      "record": "message",
+      "speaker": "鬼族B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "What!? How did you reach that conclusion!?<br>We're trying to protect you...!<br> ",
+      "vi_text": "Hả!? Sao các người lại nghĩ ra chuyện đó được!?<br>Bọn ta đang định bảo vệ các người mà……!<br> "
+    },
+    {
+      "entry": 50,
+      "line": 1163,
+      "record": "message",
+      "speaker": "村人B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "W-we won't be fooled! I-I can hear the monsters now!<br>We're surrounded...!? Th-there's no escape...!<br> ",
+      "vi_text": "Đ-đừng hòng lừa bọn ta! V-vừa rồi ta nghe thấy tiếng quái vật!<br>Bị bao vây rồi……!? K-không chạy được nữa……!<br> "
+    },
+    {
+      "entry": 51,
+      "line": 1212,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "No good... with everyone in this panic，we can't even<br>evacuate them...! What on earth can we do...?<br> ",
+      "vi_text": "Không ổn…… mọi người hỗn loạn thế này thì không thể sơ tán họ được……!<br>Rốt cuộc phải làm sao đây……?<br> "
+    },
+    {
+      "entry": 52,
+      "line": 1240,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "<size=48>Heh heh... fell right into our trap，you foolish humans!!</>",
+      "vi_text": "<size=48>Khặc khặc khặc…… lũ con người ngu xuẩn‚ mắc bẫy ngon lành rồi nhỉ!!</>"
+    },
+    {
+      "entry": 53,
+      "line": 1279,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Wha...!? D-darling!? What are you doing...!?<br> ",
+      "vi_text": "Hả……!? P-phu quân!? Rốt cuộc anh đang làm gì vậy……!?<br> "
+    },
+    {
+      "entry": 54,
+      "line": 1305,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "That's right! We've been deceiving you from the start!<br>We'll eat whoever's slowest to escape! WOOOOOOOOOO!<br> ",
+      "vi_text": "Đúng vậy! Bọn ta đã lừa các ngươi ngay từ đầu!<br>Kẻ nào chậm chân sẽ bị ăn trước! Uoooooooooooo!<br> "
+    },
+    {
+      "entry": 55,
+      "line": 1307,
+      "record": "message",
+      "speaker": "村人A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Hiiiiiiiieeeek...!?<br> ",
+      "vi_text": "H-hiiiiiiiii……!?<br> "
+    },
+    {
+      "entry": 56,
+      "line": 1309,
+      "record": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Herded by %user%，the villagers were driven together into one spot.<br> ",
+      "vi_text": "Bị %user% xua đuổi‚ dân làng bị dồn lại một chỗ.<br> "
+    },
+    {
+      "entry": 57,
+      "line": 1311,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "WOOOOOOOOOO...!! ...Okay，that should do it.<br> ",
+      "vi_text": "Uoooooooooooo……!! ……Ừm‚ cỡ này chắc được rồi.<br> "
+    },
+    {
+      "entry": 58,
+      "line": 1342,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Well done. Good job，Commander-kun.<br>I'll give you a good pat-pat later.<br> ",
+      "vi_text": "Làm tốt lắm. Ngoan đấy‚ Chỉ Huy.<br>Lát nữa ta sẽ xoa đầu thưởng cho cậu.<br> "
+    },
+    {
+      "entry": 59,
+      "line": 1387,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "...! I see! My darling threatened them on purpose to gather<br>the villagers for protection! Incredible! As expected!<br> ",
+      "vi_text": "……! Ra là vậy! Để tập hợp dân làng vào một chỗ và bảo vệ họ‚<br>phu quân cố ý nói những lời hù dọa đó! Tuyệt quá! Đúng là phu quân!<br> "
+    },
+    {
+      "entry": 60,
+      "line": 1389,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "The ends justify the means. If they die，we can never clear up the<br>misunderstanding. So right now — we protect every last one of them!<br> ",
+      "vi_text": "Lời nói dối cũng có lúc cần thiết. Nếu họ chết thì sau này cũng không còn cơ hội giải thích hiểu lầm nữa.<br>Vì vậy…… bây giờ chúng ta phải dốc toàn lực bảo vệ dân làng!<br> "
+    },
+    {
+      "entry": 61,
+      "line": 1400,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Yes! Everyone，did you hear that!?<br>Follow my darling's orders and protect the humans!<br> ",
+      "vi_text": "Vâng! Mọi người tộc quỷ nghe thấy rồi chứ!?<br>Hãy làm theo chỉ thị của phu quân và bảo vệ mọi người bên phía con người!<br> "
+    },
+    {
+      "entry": 62,
+      "line": 1456,
+      "record": "message",
+      "speaker": "鬼族B",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Yeah! Commander! Show us you're worthy of being Miss Kureha's<br>groom!<br> ",
+      "vi_text": "Được! Ngài Chỉ Huy!<br>Cho bọn tôi thấy ngài xứng làm chú rể của tiểu thư Kureha đi!<br> "
+    },
+    {
+      "entry": 63,
+      "line": 1458,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Who's a groom! — no，this isn't the time for that!<br> ",
+      "vi_text": "Ai là chú rể chứ! Không‚ giờ không phải lúc nói chuyện đó!<br> "
+    },
+    {
+      "entry": 64,
+      "line": 1460,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Oni-folk，form a wall to shield the humans!<br> ",
+      "vi_text": "Tộc quỷ hãy dựng thành bức tường để bảo vệ con người!<br> "
+    },
+    {
+      "entry": 65,
+      "line": 1471,
+      "record": "message",
+      "speaker": "鬼族A",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Got it，leave it to us! Let's gooo——!<br> ",
+      "vi_text": "Rõ‚ cứ để bọn tôi! Làm tới luôn nàoーーー!<br> "
+    },
+    {
+      "entry": 66,
+      "line": 1495,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Kureha，take a few skilled fighters and mount a sortie!<br>The judgment calls are yours!<br> ",
+      "vi_text": "Kureha‚ dẫn vài người thiện chiến ra đánh du kích!<br>Tùy em phán đoán!<br> "
+    },
+    {
+      "entry": 67,
+      "line": 1536,
+      "record": "message",
+      "speaker": "クレハ",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Understood! This Kureha will fulfill her duty!<br> ",
+      "vi_text": "Đã rõ! Kureha này nhất định sẽ hoàn thành nhiệm vụ!<br> "
+    },
+    {
+      "entry": 68,
+      "line": 1552,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Shiraes! I'll command the oni-folk and drive the monsters<br>to one spot! On my signal，unleash everything! Can you do it!?<br> ",
+      "vi_text": "Shiraes! Tôi sẽ chỉ huy số tộc quỷ còn lại và dồn quái vật về một chỗ!<br>Khi tôi ra hiệu‚ dùng ma pháp mạnh nhất quét sạch chúng! Làm được chứ!?<br> "
+    },
+    {
+      "entry": 69,
+      "line": 1591,
+      "record": "message",
+      "speaker": "シラエス",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "Very well. We have so many guests here today.<br>Let me give them a special fireworks show.<br> ",
+      "vi_text": "Được thôi. Hiếm khi hôm nay có nhiều vị khách đến vậy.<br>Ta sẽ cho họ chiêm ngưỡng màn pháo hoa đặc biệt.<br> "
+    },
+    {
+      "entry": 70,
+      "line": 1639,
+      "record": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "I'm counting on you! Alright，this is the moment of truth!<br>Show me the oni-folk's true strength——!<br> ",
+      "vi_text": "Tôi trông cậy vào cô đấy! Nào‚ mọi người‚ đây là giờ phút quyết định!<br>Hãy cho tôi thấy sức mạnh của tộc quỷ――!<br> "
+    },
+    {
+      "entry": 71,
+      "line": 1649,
+      "record": "message",
+      "speaker": "鬼族たち",
+      "status": "TRANSLATED",
+      "errors": [],
+      "source_text": "WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO——!!!<br> ",
+      "vi_text": "Uoooooooooooooooooooooooooooooooo――!!!<br> "
+    }
+  ],
+  "qa_status": "PASS"
+}

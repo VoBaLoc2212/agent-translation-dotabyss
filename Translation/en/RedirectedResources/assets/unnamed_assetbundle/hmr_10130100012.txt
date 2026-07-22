@@ -1,0 +1,833 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10130100012
+
+charaload,chara_1,101301000X,フレデリカ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+bgvplay,bgvtag2_1,bgv_10130100012_001_01,1,on
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.6
+
+window,on,0.15
+l2dmessage,フレデリカ,C-Commander! A-are you seriously going to stick that... that thing<br>into me...?<br> ,,vc_10130100012_001_01
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotion00
+
+
+message,,Seeing my erect cock jutting out，Frederica blushed in surprise.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5
+
+l2dmessage,フレデリカ,Y-you went out of your way to make me change into this costume...<br>This is a joke，right? An elaborate prank to punish me，isn't it? Isn't it?<br> ,,vc_10130100012_002_01
+
+
+
+
+message,,Breathing heavily，I told her that I wouldn't be in this state from a<br>joke or a prank.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,7.5
+
+
+l2dmessage,フレデリカ,T-that might be，but... still，that thing of yours... isn't it too big...?<br>Not that I know what you're usually like，but...?<br> ,,vc_10130100012_003_01
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+
+message,,Even I thought this erection was a bit abnormal.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+
+
+message,,My cock was so rock-hard it seemed ready to burst，curving up<br>fiercely with bulging veins twitching and pulsing.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+
+message,,My excitement knew no bounds，and I could feel energy surging up<br>from the depths of my body.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+
+message,,Right now，my mind is swirling with the desire to fuck Frederica. I<br>told her just that.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+
+l2dmessage,フレデリカ,Th-that's probably the power of the elixir I made!<br> ,,vc_10130100012_004_01
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4.5
+
+
+l2dmessage,フレデリカ,The 'Elixir' is stimulating your sex drive，so you're not in your normal<br>state!<br> ,,vc_10130100012_005_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+
+l2dmessage,フレデリカ,S-so，um... can't you calm down for a bit...?<br> ,,vc_10130100012_006_01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+
+message,,I told Frederica，who was practically begging for mercy，that it was<br>impossible.<br> 
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+
+message,,Telling her to experience the elixir's effects for herself，I pressed<br>the tip of my cock against her pussy—<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10130100012_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceEmotion01,on,STOP,7
+
+wait,1.4
+
+l2dmessage,フレデリカ,Hnggh! Mmph!... *huff*，*gasp*，mmm，Aaaah...!<br> ,,vc_10130100012_007_01
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+
+message,,I thrust my hips forward，sliding into Frederica's tight pussy. Her<br>hot，naive flesh clamped down on my cock as if to resist.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1.5
+
+
+message,,Pleasure thrilled through me，but her grip was so tight that I asked<br>her if it was her first time.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.5
+
+l2dmessage,フレデリカ,*whimper*... well，it's my first time... of course... *pant*，mmm，Aah...<br> ,,vc_10130100012_008_01
+
+
+
+
+message,,Seeing Frederica's pained expression，with her eyes squeezed shut，<br>what little reason I had left tried to make me stop.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+message,,But from the elixir's effect，excitement overrode my reason，and my<br>lust demanded stronger pleasure，making my hips move on their own.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10130100012_003_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.5
+
+l2dmessage,フレデリカ,Mmm... Hyah... *gasp* Aah...!<br>W-when you move... Ngh... my voice just slips out... *huff* mmm...!<br> ,,vc_10130100012_009_01
+
+
+
+
+message,,With the last shred of reason，I held my hips back from thrusting<br>fiercely into her and slowly pushed up into Frederica.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceEmotion01,on,STOP,3.8
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,6.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6.5
+
+l2dmessage,フレデリカ,*gasp* Aaah... Ngh... *pant* mmm *pant*...!<br>Yah... there's no way I can endure this... Hih... Mmph...!<br> ,,vc_10130100012_010_01
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+l2dmessage,フレデリカ,Ngh... y-your... i-it's way too big...!<br>Hih! *huff*... *gasp* Aaaah...!<br> ,,vc_10130100012_011_01
+
+
+
+
+message,,With each thrust，Frederica's wet folds twitched and clenched; she<br>couldn't withstand the stimulation and let out trembling moans.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+l2dmessage,フレデリカ,W-when you move... Hyah! Ngh... inside me... *huff*...<br>I'm being spread open by your cock over and over... Ngh...<br> ,,vc_10130100012_012_01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,10
+
+asyncl2dmotion,FaceAngleTop,on,STOP,10
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,10
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,フレデリカ,Each time... my body... twitches and trembles on its own... Ngh...<br>my head gets all muddled... weird noises slip out... mmm Aaaaah...!<br> ,,vc_10130100012_013_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+
+
+message,,Before I knew it，Frederica's pained look had transformed into<br>pleasure，her moans alluring enough to make me melt.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceEmotion01,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6
+
+l2dmessage,フレデリカ,*pant*... Aah... Mmph...!<br>I... I've never felt something like this... something this good... I...!<br> ,,vc_10130100012_014_01
+
+
+
+
+message,,The changes and lewd display from the inexperienced，innocent<br>Frederica only accelerated my excitement further.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+message,,The moment my mind flooded with lust，the last shred of my reason<br>evaporated，heat surged in my belly，and my body jerked—<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10130100012_004_01,1,on
+
+wait,0.7
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.5
+
+l2dmessage,フレデリカ,Mmm... Aah!?<br>*pant*，Ngh... W-why... you're pulling out—huh...?<br> ,,vc_10130100012_015_01
+
+
+
+
+message,,Frederica stared at the cock that had slipped out from the sudden<br>movement，her face a mask of shock.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion00
+
+
+l2dmessage,フレデリカ,W-what is this... what's going on...?<br> ,,vc_10130100012_016_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+
+message,,No wonder Frederica was stunned—her eyes wide and utterly<br>bewildered.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+l2dmessage,フレデリカ,Y-your cock... hasn't it gotten bigger than before...?<br> ,,vc_10130100012_017_01
+
+
+
+
+message,,The cock that had slipped from her hole was longer，thicker，and<br>harder than before — less growth than monstrosity.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+l2dmessage,フレデリカ,I-is this also an effect of the 'Elixir'...? If so，it's really interesting，<br>but...<br> ,,vc_10130100012_018_01
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.5
+
+message,フレデリカ,(B-but if that monstrous thing were to go inside me again，I'd be<br>destroyed...)<br> ,,vc_10130100012_019_01
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+l2dmotion,MouthEmotion04
+
+
+l2dmessage,フレデリカ,H-hey... surely going on like this is dangerous for you too，right?<br> ,,vc_10130100012_020_01
+
+l2dmotion,FaceAngleLeft
+
+
+
+l2dmessage,フレデリカ,Anyway，let's just stop here for today. How about we focus on<br>treatment after this...?<br> ,,vc_10130100012_021_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.3
+
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.3
+
+l2dmessage,フレデリカ,And if I could also collect some data，that'd be great...<br> ,,vc_10130100012_022_01
+
+asyncl2dmotion,MouthEmotion02,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+message,,Despite her agitation，Frederica's insatiable curiosity and<br>investigative spirit peeked through.<br> 
+
+
+
+
+message,,But for me，now that the elixir had sent my sex drive into overdrive，<br>such things were the farthest thing from my mind.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,フレデリカ,H-hey... are you listening...? I said we're calling it a day here...<br> ,,vc_10130100012_023_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+
+message,,Right in front of Frederica as she called out to me，my cock pulsed<br>heavily. As if to say，'Come on，take this into your mouth now'—<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+asyncl2dmotion,FaceEmotion01,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.5
+
+l2dmessage,フレデリカ,E-eh... h-hey... hold on... You can't seriously mean to put that in<br>me...? I-it's impossible! There's no way something like that can fit—<br> ,,vc_10130100012_024_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10130100012_005_01,1,on
+
+wait,0.4
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,フレデリカ,*gasp*... Hyaah... mmm，Aaaahn!<br> ,,vc_10130100012_025_01
+
+
+
+
+message,,I thrust the now-enlarged cock back into Frederica's pussy，forcing it<br>in almost by brute force.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,7
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+asyncl2dmotion,MouthEmotion02,on,STOP,16
+
+l2dmessage,フレデリカ,Ah... Aah... *gasp*... *pant*，*pant*... *groan*... *whimper*... *sob*...<br>You really... put it in... mmm... *whimper*...<br> ,,vc_10130100012_026_01
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+message,,Her stretched opening creaked，squeezing tight around the base. Her<br>belly，pushed up from inside，bulged with the outline of my cock.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+message,,Her tight，narrow hole grew more cramped around my cock. From the<br>tip against her cervix，I felt her twitching pulses.<br> 
+
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+asyncl2dmotion,MouthEmotion03,on,STOP,2
+
+asyncl2dmotion,FaceEmotion01,on,STOP,4
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+asyncl2dmotion,FaceAngleRight,on,STOP,8
+
+l2dmessage,フレデリカ,*pant，pant*... mmm... I-it's impossible... It's so big... I caaaan't...<br>*whimper*... Ngh...<br> ,,vc_10130100012_027_01
+
+
+
+
+message,,Unlike Frederica's cries，I felt far more intense pleasure than the<br>first insertion，sending shivers down my spine and gasping in ecstasy.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,I wondered how amazing it would feel to thrust my cock inside her<br>hole... That desire welled up，making my body throb.<br> 
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,MouthEmotion04,on,STOP,3.5
+
+l2dmessage,フレデリカ,I can't believe it... you're not planning to move，are you...?<br> ,,vc_10130100012_028_01
+
+
+
+
+message,,I just smiled silently at the anxious Frederica and licked my lips.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10130100012_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4.5
+
+l2dmessage,フレデリカ,*gasp*! Ah... Nghhh...! I kneeeew it...!<br> ,,vc_10130100012_029_01
+
+
+
+
+message,,I ruthlessly thrust my cock back and forth inside her now-tight hole.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4
+
+l2dmessage,フレデリカ,*gasp*，Ah... Mmph... Ngh，Oh... Ogh... *pant*... Nghhh!<br> ,,vc_10130100012_030_01
+
+
+
+
+message,,Each time I drove into her womb，Frederica let out a guttural moan in<br>response.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+
+message,,That voice，so unlike her—almost beastly—spurred my senses and sent<br>my arousal spiraling higher.<br> 
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,6
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+
+
+
+l2dmessage,フレデリカ,Hoo，ohoo... oh，oof... *gasp*... agh...! I-Inside me，being stirred<br>around... Ngh... ohh...!<br> ,,vc_10130100012_031_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,MouthEmotion02,on,STOP,6
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+l2dmessage,フレデリカ,I-I'm breaking... Ngh... I'm going to be broken...! *huff*，oof... my<br>cunt... being turned to mush...!<br> ,,vc_10130100012_032_01
+
+
+
+
+message,,It was no wonder Frederica was so worried. I had fallen that far into a<br>berserk frenzy.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,6
+
+l2dmessage,フレデリカ,Oh，ooh，hoo，oof... mmm，*pant*，*pant*，*gasp*...! Ah，aah... at this<br>rate，I really will... Nnngh...!<br> ,,vc_10130100012_033_01
+
+
+
+
+message,,However，Frederica's worries proved groundless. I reached my limit<br>before she could be broken.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,I told her briefly，'I'm going to cum，' and went into the final sprint.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,フレデリカ,*huff*，*pant*，*pant*... you're going to cum，aren't you... Ngh...<br>t-then，hurry，cum... let it out... let it out pleeease...!<br> ,,vc_10130100012_034_01
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+
+message,,Urged on by that desperate voice，the next moment I felt a hot mass<br>rise up in my groin—<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,5
+
+bgvplay,bgvtag2_7,bgv_10130100012_007_01,1,on
+
+wait,1
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion00
+
+l2dmessage,フレデリカ,Nnn... Ooooh...! Oh! *huff*... Ngh... *pant*... *pant*!<br> ,,vc_10130100012_035_01
+
+
+
+
+message,,I poured all the pent-up semen deep into Frederica's pussy.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,ExEmotion00
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,フレデリカ,O-oh... inside my belly... something hot is flowing in... *gasp* Aaah!<br> ,,vc_10130100012_036_01
+
+
+
+
+message,,As she received my ejaculation，Frederica's pussy twitched in small<br>spasms. It seemed she had reached climax as well.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene08 ,on,STOP,2
+
+bgvplay,bgvtag2_8,bgv_10130100012_008_01,1,on
+
+l2dmotion,EyeOpenReset
+
+
+
+l2dmessage,フレデリカ,*pant*，*pant*... *pant*... I-is it over...?<br> ,,vc_10130100012_037_01
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+
+
+message,,Frederica，still dazed，mumbled the question. I felt my senses<br>returning and told her it was over.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+
+l2dmessage,フレデリカ,R-right... good... I managed not to get broken...<br> ,,vc_10130100012_038_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.5
+
+
+message,,Uttering words of relief，Frederica shifted slightly. It seemed she was<br>bothered by the semen dripping from her pussy.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+l2dmessage,フレデリカ,Ahh... your sperm... so much... *huff*... B-by the way... do you always<br>cum this much...?<br> ,,vc_10130100012_039_01
+
+
+
+
+message,,I denied it. Even I had never come that much before.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,2
+
+
+message,,When I told her it was probably the power of Frederica's elixir—<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,8
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,8
+
+l2dmessage,フレデリカ,Fu... Fufu... That's right... This is the power of the elixir... Fufufu...<br>So，how about that? My elixir is amazing，isn't it?<br> ,,vc_10130100012_040_01
+
+
+
+
+message,,I nodded to Frederica，who was smiling proudly. 'Yeah，I guess it is.'<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+message,,It was supposed to be an elixir of immortality，but by not pointing<br>that out，I was certain she had regained her senses.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

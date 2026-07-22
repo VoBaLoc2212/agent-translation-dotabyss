@@ -1,0 +1,51 @@
+GAMESミッションの不具合に対する補填です。=Compensation for the GAMES Mission bug.
+sr:"^([0-9/]+)( )?([A-Za-z ]*)人気ランキング等? ?W?(\d位)受賞のお礼です$"=[$1]$2Reward for Ranking $4 in the $3 Popularity Rankings
+r:"^([0-9/]+)( )?アカウント連携のご案内不備のお詫びです$"=[$1]$2Apology for the Account Linking Notice Error.
+r:"^([0-9/]+)( )?運営からのお詫び（不具合、誤解、エラー発生等のため）$"=[$1]$2Apologies from Management (for glitches, bugs, errors, etc.)
+
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼＆諸々不具合のお詫びです$"=[$1]$2Maintenance & Apology for Various Issues
+
+r:"^([0-9/]+)( )?緊急メンテナンス実施のお詫びです$"=[$1]$2Apology for the Emergency Maintenance.
+
+
+
+事前登録報酬です=Pre-Registration Reward
+チュートリアル完了報酬です。=Tutorial Completion Reward.
+はせPからのリリース記念のお礼です=Release Celebration Gift from HaseP
+r:"^はせPからの([0-9/]+)レター発表のお詫びとお礼です$"=Apology and Thank-You from HaseP Regarding the $1 Letter
+sr:"^はせPからのお礼&([0-9/]+) FANZA GAMES人気ランキング(\d位)受賞のお礼$"=Thank-You from HaseP & Reward for Ranking $2 in the $1 FANZA GAMES Popularity Rankings
+r:"^([0-9/]+)( )?接続障害のお詫びです$"=[$1]$2Apology for the Connection Issues
+
+
+
+
+r:"^([0-9/]+)( )?ショートメンテナンスご協力のお礼＆延長のお詫びです$"=[$1]$2Thank You for Your Cooperation During the Short Maintenance & Apology for the Extension
+r:"^([0-9/]+)( )?緊急メンテナンス＆不具合等のお詫びです$"=[$1]$2Apology for the Emergency Maintenance & Various Issues
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼と延長のお詫びです$"=[$1]$2Thank You for Your Cooperation During the Maintenance & Apology for the Extension
+ラッキーボックスイベントで表示される説明画像の不備のお詫び=Apology for the Incorrect Instruction Image Displayed in the Lucky Box Event
+r:"^厄災Lv(\d+)到達のミッションの不具合に関する補てんです$"=Compensation for the Calamity Lv.$1 Mission Issue
+r:"^([0-9/]+)( )?チームくまさんブランドタイトル人気ランキング同時受賞のお礼です$"=[$1]$2Thank You for Simultaneously Ranking 1st in the Team Kumasan Brand Title Popularity Rankings
+r:"^([0-9/]+)( )?GooglePlay版メンテナンス延長のお詫び$"=[$1]$2Apology for the Google Play Version Maintenance Extension
+
+r:"^([0-9/]+)( )?臨時メンテナンスご協力のお礼および不具合のお詫び$"=[$1]$2Thank You for Your Cooperation During the Emergency Maintenance & Apology for the Issues
+ラッキーボックスイベントのスキップ不具合の補てんです=Compensation for the Lucky Box Event Skip Bug.
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼です$"=[$1]$2Thank You for Your Cooperation During the Maintenance
+r:"^([0-9/]+)( )?臨時メンテナンスご協力のお礼とお詫びです$"=[$1]$2Thank You for Your Cooperation During the Emergency Maintenance & Apology
+r:"^([0-9/]+)( )?度重なる不具合発生のお詫び$"=[$1]$2Apology for the Repeated Issues
+公認Discord事前登録連動キャンペーン追加報酬です=Official Discord Pre-Registration Campaign Bonus Reward
+ルシータピックアップガチャ開催のお知らせの訂正のお詫びです=Apology for the Correction to the Lucita Pickup Gacha Announcement
+r:"^([0-9/]+)( )?([A-Za-z ]*)人気ランキング入賞のお礼です$"=[$1]$2Reward for Ranking in the $3 Popularity Rankings
+r:"^([0-9/]+)( )? FANZA GAMES人気ランキング 入賞のお礼です$"=[$1]$2 Reward for placement in the FANZA GAMES Popularity Rankings
+異世界で喜ばれるプレゼント=A Gift Appreciated in Another World
+探索隊などで発生した不具合のお詫び=Apology for the Issues Affecting Exploration Teams and Other Features
+r:"^はせPからの([0-9/]+)レターのお詫びとお礼です$"=Apology and Thank-You from HaseP Regarding the $1 Letter
+r:"^([0-9/]+)( )?ホーム画面の不具合のお詫びです$"=[$1]$2Apology for the Home Screen Issue
+r:"^([0-9/]+)( )?ユニーク装備のバランス調整のお詫びです$"=[$1]$2Apology for the Unique Equipment Balance Adjustment
+初心者ミッションの不具合修正のお詫びです。=Apology for the Beginner Mission Bug Fix.
+シラエスのアビリティ一部挙動不具合の修正のお詫び=Apology for the Fix to Shiraes's Ability Behavior Issues
+GooglePlay版メンテナンス延長のお詫びです。=Apology for the Google Play Version Maintenance Extension.
+r:"^([0-9/]+)( )?不具合およびキャラクター調整のお詫び$"=[$1]$2Apology for the Issues and Character Adjustments
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼と延長のお詫び$"=[$1]$2Thank You for Your Cooperation During the Maintenance & Apology for the Extension
+ドットアビスリリース記念！RPキャンペーン達成のお礼です=Dot Abyss Release Celebration! Thank You for Completing the RP Campaign
+r:"^([0-9/]+)( )?メンテナンスお知らせ遅延のお詫び$"=[$1]$2Apology for the Delayed Maintenance Notice
+r:"^([0-9/]+)( )?Google Play版アプリ更新遅延のお詫び$"=[$1]$2Apology for the Delayed Google Play App Update

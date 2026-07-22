@@ -1,0 +1,1123 @@
+{
+  "scene": "evs_10200020201",
+  "generated_at": "2026-07-19T09:04:15.833515+00:00",
+  "paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200020201\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200020201\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200020201.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200020201.txt",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020201_full",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020201_full\\focused_diff.md",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020201_full\\qa_log.json"
+  },
+  "source": {
+    "sha256": "9a8e88af83bb369e92a28a5f2c31fc2d4f9c54b5ca5671db77f941fe9b8ce5a1",
+    "bytes": 40452,
+    "bom": true,
+    "encoding": "utf-8-sig",
+    "newline": "CRLF",
+    "line_count": 1839,
+    "command_counts": {
+      "title": 1,
+      "message": 105,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "candidate_count": 107
+  },
+  "novel": {
+    "ja_pair_count": 107,
+    "en_pair_count": 107
+  },
+  "output": {
+    "sha256": "0959376ffdf7bd7f9ee54b49958d34ea0d21947ccbfef7d52ed8b4af39733e38",
+    "bytes": 45017,
+    "line_count": 1839,
+    "command_counts": {
+      "title": 1,
+      "message": 105,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "candidate_count": 107
+  },
+  "entries": [
+    {
+      "record_index": 1,
+      "line": 34,
+      "kind": "title",
+      "speaker": "Title",
+      "source_text": "Title",
+      "vi_text": "Tiêu Đề",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 2,
+      "line": 48,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "(We took down the monsters quickly，so there were no casualties，<br>but we let the thief who grabbed the crystal get away...)<br> ",
+      "vi_text": "（Bọn mình đã nhanh chóng hạ được lũ quái nên ngăn được thiệt hại‚<br>nhưng lại để tên trộm cướp viên tinh thể tẩu thoát mất rồi…）<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 3,
+      "line": 62,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "...That was a blunder. Having something that dangerous stolen...<br> ",
+      "vi_text": "…Đúng là một thất bại. Để một thứ nguy hiểm như thế bị đánh cắp…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 4,
+      "line": 97,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "I'm sorry，Commander-kun... I let my guard down. It's been centuries<br>since I failed like this. 10 years to review it，at least...<br> ",
+      "vi_text": "Xin lỗi‚ Chỉ Huy… là do tôi đã mất cảnh giác. Lần thất bại thế này chắc cũng<br>mấy trăm năm rồi. Có lẽ tôi phải dành ít nhất 10 năm để tổng kết lại điểm cần rút kinh nghiệm…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 5,
+      "line": 99,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Don't be so hard on yourself! You did great!<br>There were no casualties thanks to you — I should be thanking you.<br> ",
+      "vi_text": "Cô tự kiểm điểm quá đà rồi! Shiraes đã làm rất tốt mà!<br>Nhờ cô nên không có thương vong về người. Anh phải cảm ơn cô mới đúng.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 6,
+      "line": 110,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Commander-kun... what a good boy you are! I'll track<br>that thief down personally. A century at most — don't worry!<br> ",
+      "vi_text": "Chỉ Huy… cậu đúng là đứa trẻ ngoan quá! Tôi sẽ chịu trách nhiệm tìm ra<br>tên trộm đó. Chắc không đến trăm năm đâu‚ cứ yên tâm!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 7,
+      "line": 112,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "My lifespan will run out first! Do you know how much<br>danger that crystal could cause in that time!<br> ",
+      "vi_text": "Tuổi thọ của anh hết trước mất! Cô biết trong khoảng thời gian đó<br>viên tinh thể kia có thể gây ra bao nhiêu nguy hiểm không hả!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 8,
+      "line": 114,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Apparently Adelheid has an idea.<br>Let's wait for her... and there she is now.<br> ",
+      "vi_text": "Có vẻ Adelheid có cách gì đó.<br>Trước hết cứ đợi cô ấy… à‚ vừa quay lại kìa.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 9,
+      "line": 166,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Sorry to keep you waiting... hehe. Another stimulating case，<br>Commander. I was quite excited — intellectually，not sexually——<br> ",
+      "vi_text": "Xin lỗi đã để mọi người đợi… Fufu. Lần nào Chỉ Huy cũng mang tới<br>những vụ thật kích thích nhỉ. Lần này tôi cũng phấn khích lắm. À‚ thuần túy là trí tuệ thôi‚ không phải tình dục――<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 10,
+      "line": 168,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Nobody was thinking that! Honestly，same as always...<br>So，is there a solution?<br> ",
+      "vi_text": "Không ai nghĩ chuyện đó hết! Trời ạ‚ cô vẫn như mọi khi nhỉ.<br>Vậy‚ có cách giải quyết không?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 11,
+      "line": 179,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Yes. It took some effort，but I successfully captured<br>the waveform signature of the problematic crystal.<br> ",
+      "vi_text": "Vâng. Có hơi vất vả một chút‚ nhưng tôi đã thành công bắt được<br>dạng sóng của viên tinh thể đang gây vấn đề.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 12,
+      "line": 234,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "A waveform? What does that mean?<br> ",
+      "vi_text": "Dạng sóng? Ý cô là thứ gì vậy?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 13,
+      "line": 245,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Each crystal emits a unique energy wave. Analyzing<br>the observation data gave me its approximate location.<br> ",
+      "vi_text": "Mỗi viên tinh thể đều phát ra một loại sóng năng lượng riêng biệt.<br>Bằng cách phân tích dữ liệu quan trắc đó‚ tôi đã xác định được vị trí đại khái hiện tại.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 14,
+      "line": 247,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Nice work，Adelheid! You really are dependable!<br> ",
+      "vi_text": "Tốt lắm‚ làm giỏi lắm‚ Adelheid! Quả nhiên em đúng là đáng tin cậy!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 15,
+      "line": 258,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "You can do something like that? Remarkable — I'm learning something<br>new. There，there... that intellect of yours deserves praise.<br> ",
+      "vi_text": "Cô làm được chuyện đó sao. Thật đáng kinh ngạc‚ xem ra vẫn còn nhiều điều tôi chưa biết.<br>Ngoan nào… trí tuệ ấy xứng đáng được khen ngợi.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 16,
+      "line": 285,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "...Ohhh. I see，this is remarkable. My happiness index has spiked.<br>So this is what they call 'mama energy，' is it.<br> ",
+      "vi_text": "…Ồồồ. Ra vậy‚ chuyện này thật tuyệt vời.<br>Chỉ số hạnh phúc của tôi đang tăng vọt. Đây chính là cái gọi là tình mẫu tính bao bọc nhỉ.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 17,
+      "line": 296,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "The primal desire filled by surrendering to a being<br>of pure maternal warmth... I feel like releasing everything.<br> ",
+      "vi_text": "Dục vọng nguyên sơ được thỏa mãn khi phó thác bản thân cho một tồn tại tràn đầy mẫu tính….<br>Tôi có cảm giác muốn cứ thế buông mình theo khoái cảm và giải phóng tất cả.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 18,
+      "line": 305,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "There，there. Don't hold back — lean on me，<br>body and soul. Humans tend to let fatigue build up. Indulge yourself.<br> ",
+      "vi_text": "Ừm ừm. Đừng khách sáo‚ cứ giao cả thân lẫn tâm cho tôi cũng được.<br>Con người chăm chỉ quá nên dễ tích tụ mệt mỏi. Cứ tha hồ làm nũng đi.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 19,
+      "line": 358,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Ahh... bwabwah... maamaa...<br> ",
+      "vi_text": "Aư… babư‚ mama…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 20,
+      "line": 360,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Snap out of it，Adelheid，come back!<br>That brilliant mind of yours has completely regressed to infant level!<br> ",
+      "vi_text": "Không được‚ Adelheid‚ tỉnh lại đi!<br>Bộ não quý giá của em đã tụt hẳn về cấp độ trẻ sơ sinh rồi đấy!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 21,
+      "line": 425,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Ah...! H-however，this happiness effect cannot be reproduced by<br>modern science. I'd like to collect data... a little more，please.<br> ",
+      "vi_text": "Hả…! N-nhưng hiệu ứng hạnh phúc này‚ khoa học hiện đại tuyệt đối không thể tái hiện.<br>Tôi muốn thu thập dữ liệu nên… thêm một chút nữa‚ làm ơn.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 22,
+      "line": 436,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Of course. Does this feel alright?<br> ",
+      "vi_text": "Tất nhiên rồi. Như thế này được chứ?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 23,
+      "line": 447,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Bwabwah... abwah... ahhh，truly，this is good. In the interest<br>of further research，more patting，squeezing，and... molding please.<br> ",
+      "vi_text": "Babư… abư… aah‚ thật sự‚ rất tuyệt. Để có thêm tri thức‚<br>xin hãy xoa đầu‚ ôm chặt‚ và chà chà nhiều hơn nữa.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 24,
+      "line": 449,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Hold on，what exactly is 'molding'!?<br> ",
+      "vi_text": "Chờ đã‚ chà chà là cô định bắt người ta làm gì hả!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 25,
+      "line": 498,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Specifically，my——<br> ",
+      "vi_text": "Cụ thể là chỗ――<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 26,
+      "line": 500,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Nope，on second thought，don't finish that!<br>N-never mind that — where's the crystal，the important part!?<br> ",
+      "vi_text": "Không‚ nghĩ lại thì đừng nói nữa!<br>H-hơn nữa‚ chuyện quan trọng là viên tinh thể đang ở đâu!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 27,
+      "line": 511,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Ah，about that... cross-referencing coordinates and the map，<br>the crystal appears to be at a place in Hourai called 'Oni Island.'<br> ",
+      "vi_text": "À‚ chuyện đó… sau khi đối chiếu tọa độ với bản đồ‚<br>có vẻ viên tinh thể đang ở một địa điểm thuộc Hourai gọi là 『Oni Island』.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 28,
+      "line": 513,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Hourai... part of the Thousand Nations League，eastern-culture<br>nation. But I've never heard of Oni Island — is it at sea?<br> ",
+      "vi_text": "Hourai… là nước thành viên của Liên Hợp Thiên Quốc‚ nơi phồn thịnh với văn hóa kiểu Nhật.<br>Nhưng anh chưa từng nghe tới Oni Island đấy? Nó nổi ngoài biển à?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 29,
+      "line": 569,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "No，Oni Island is the home of the oni-folk.<br>Despite the name，it's actually connected to the mainland.<br> ",
+      "vi_text": "Không‚ Oni Island là nơi cư trú của tộc oni.<br>Tuy gọi là đảo‚ nhưng hình như vẫn nối liền với đất liền.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 30,
+      "line": 581,
+      "kind": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "The oni-folk... fascinating. Are they different from monsters?<br> ",
+      "vi_text": "Tộc oni… thú vị thật. Họ khác với quái vật sao?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 31,
+      "line": 627,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "The oni-folk are known for sharp horns and natural strength.<br>Unlike the monster called 'Oni，' though they share the look.<br> ",
+      "vi_text": "Tộc oni là chủng tộc có đặc trưng là sừng sắc nhọn và sức mạnh bẩm sinh.<br>Họ khác với loại quái vật được gọi là “oni”‚ nhưng đặc điểm ngoại hình thì khá giống.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 32,
+      "line": 638,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Because of that，the oni-folk are often confused with<br>the monster and feared. Records do show them as fierce-tempered.<br> ",
+      "vi_text": "Vì vậy tộc oni thường bị nhầm lẫn với quái vật “oni”<br>và bị khiếp sợ. Thực tế cũng có nhiều ghi chép rằng họ nóng tính.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 33,
+      "line": 650,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "For unclear reasons，they distanced from humans and moved to<br>a remote corner of Hourai，founding their own village — Oni Island.<br> ",
+      "vi_text": "Không rõ nguyên do‚ nhưng họ dần giữ khoảng cách với con người rồi chuyển tới<br>một nơi hẻo lánh hơn ở Hourai và lập nên làng của mình. Đó chính là hòn đảo cô lập trên đất liền――Oni Island.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 34,
+      "line": 652,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "An oni-folk village... why would the crystal be there?<br>Too soon for them to have bought it from the thief...<br> ",
+      "vi_text": "Làng của tộc oni à… sao viên tinh thể lại ở một nơi như thế?<br>Nếu tộc oni mua lại từ tên trộm thì diễn biến nhanh quá…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 35,
+      "line": 654,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Is the thief hiding there...? No，speculating won't help.<br>Let's head there. Shiraes，will you come?<br> ",
+      "vi_text": "Tên trộm đang lẩn trốn ở đó sao… không‚ nghĩ mãi cũng chẳng ích gì.<br>Tóm lại‚ ta cứ đến hiện trường thôi. Shiraes‚ cô đi cùng được không?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 36,
+      "line": 665,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Of course. Let me make up for my failure.<br>Besides，I have a personal interest in Oni Island.<br> ",
+      "vi_text": "Tất nhiên rồi. Hãy để tôi chuộc lại thất bại.<br>Hơn nữa‚ tôi cũng có hứng thú cá nhân với Oni Island.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 37,
+      "line": 667,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Interest...? Do you have some connection to Oni Island?<br> ",
+      "vi_text": "Hứng thú…? Cô có kỷ niệm gì với Oni Island à?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 38,
+      "line": 678,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Mm. 200... no，400 years ago? No，500... wait， it was before the<br>once-in-600-year meteor shower，so if I count from...<br> ",
+      "vi_text": "Ừ. Đó là 200 năm… hay 400 năm trước nhỉ? Không‚ 500… khoan đã‚<br>chắc là trước trận mưa sao băng 600 năm mới có một lần‚ nếu lấy đó làm mốc thì…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 39,
+      "line": 680,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "That scale of time perception never gets old...<br>W-well，when isn't important，so...<br> ",
+      "vi_text": "Quy mô cảm giác thời gian của cô vẫn khủng khiếp như mọi khi nhỉ….<br>Th-thôi‚ chuyện xảy ra lúc nào không quan trọng đâu‚ nhé?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 40,
+      "line": 691,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Mm，is that so? Well，to put it simply: at some point<br>I wanted to befriend the oni-folk and tried to go to Oni Island.<br> ",
+      "vi_text": "Ừm‚ vậy sao? Thế thì là chuyện cách đây không lâu lắm.<br>Tôi từng muốn thân thiết với tộc oni nên đã định đi tới Oni Island.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 41,
+      "line": 702,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "But friends around me said it was dangerous and talked me out of it.<br>I have some knowledge，but guiding you there might be tricky.<br> ",
+      "vi_text": "Nhưng bạn bè quanh tôi phản đối vì nguy hiểm nên tôi đã từ bỏ.<br>Tuy có hiểu biết nhất định‚ nhưng làm người dẫn đường thì hơi khó đấy.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 42,
+      "line": 704,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Even so，having you along is a hundred times better than not.<br>But if just going was opposed... the oni-folk are really that feared?<br> ",
+      "vi_text": "Dù vậy‚ chỉ cần Shiraes đi cùng là đã mạnh gấp trăm lần rồi.<br>Nhưng… chỉ đi thôi mà cũng bị phản đối‚ tộc oni đáng sợ đến thế sao.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 43,
+      "line": 715,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Going with just the two of us is a bit risky.<br>If only there were someone who knows the oni-folk...<br> ",
+      "vi_text": "Chỉ hai người đi thì hơi nguy hiểm đấy.<br>Giá mà có một cô bé am hiểu về tộc oni thì tốt‚ nhưng chuyện tiện lợi như vậy thì…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 44,
+      "line": 717,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "...Actually，there is someone.<br>Someone who definitely knows the oni-folk——<br> ",
+      "vi_text": "…………Không‚ có đấy.<br>Một người chắc chắn am hiểu tộc oni――<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 45,
+      "line": 773,
+      "kind": "message",
+      "speaker": "子供",
+      "source_text": "Kureha-onee-chan，look，look~! I made a flower crown~!<br> ",
+      "vi_text": "Chị Kureha ơi‚ nhìn này nhìn này~. Em làm vương miện bằng hoa đó~.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 46,
+      "line": 784,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Oh my，how lovely! It suits you wonderfully!<br>Hehe. You look just like a bride.<br> ",
+      "vi_text": "Ôi‚ đẹp quá còn gì. Rất hợp với em đấy.<br>Fufu. Trông cứ như cô dâu vậy.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 47,
+      "line": 793,
+      "kind": "message",
+      "speaker": "子供",
+      "source_text": "Yaay，a bride~! Are you going to be someone's bride too，<br>Kureha-onee-chan?<br> ",
+      "vi_text": "Waai‚ cô dâu nè~!<br>Chị Kureha cũng sẽ làm cô dâu của ai đó hả?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 48,
+      "line": 804,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Yes! I have a darling who loves me just as much.<br>We sneak sweet moments at work，even feed each other...<br> ",
+      "vi_text": "Ừ‚ chị có một phu quân yêu chị và chị cũng yêu ngài ấy tha thiết.<br>Ở chỗ làm bọn chị lén âu yếm nhau‚ còn đút cơm a~ cho nhau ăn nữa…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 49,
+      "line": 813,
+      "kind": "message",
+      "speaker": "子供",
+      "source_text": "Wow~! You're so close! I want to see Kureha-onee-chan as a bride~!<br> ",
+      "vi_text": "Waa…! Hai người thân nhau ghê! Em muốn thấy chị Kureha lúc làm cô dâu quá~!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 50,
+      "line": 824,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Hehe，thank you! Be sure to come to the wedding~♪<br> ",
+      "vi_text": "Fufu‚ cảm ơn em. Nhất định hãy đến dự lễ cưới nhé♪<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 51,
+      "line": 864,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "(Sh-she's... telling even little kids that she's marrying me!?<br>Covering all the bases from childhood... she's really digging in...!)<br> ",
+      "vi_text": "C-cô ta… đến cả đứa trẻ như thế cũng bị nhồi chuyện sẽ kết hôn với anh sao!?<br>Dù đó chỉ là chuyện hồi nhỏ mà cô ta đang hoàn toàn bao vây anh từ mọi phía…!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 52,
+      "line": 875,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Sneaking sweet moments? ...feeding each other?<br>C-Commander-kun? You have a woman that close to you?<br> ",
+      "vi_text": "Lén âu yếm? Đút a~…?<br>Ch-Chỉ Huy? Cậu có một phụ nữ thân thiết đến mức đó sao?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 53,
+      "line": 877,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Misunderstanding! Wrong! False accusations!<br>Kureha is exaggerating — nothing like that has happened!<br> ",
+      "vi_text": "Hiểu lầm! Nhầm rồi! Vu oan đấy!<br>Kureha chỉ phóng đại lên thôi‚ chẳng có chuyện gì to tát cả!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 54,
+      "line": 888,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "I-is that so. Yes，alright.<br>Well，congratulations on your engagement，Commander-kun.<br> ",
+      "vi_text": "V-vậy à. Ừ‚ tôi hiểu rồi.<br>Dù sao thì‚ chúc mừng kết hôn nhé‚ Chỉ Huy.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 55,
+      "line": 890,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "I never got engaged! She's the only one saying anything about<br>marriage!<br> ",
+      "vi_text": "Anh còn chẳng nhớ mình đã đính hôn!<br>Chuyện kết hôn này nọ toàn là cô ấy tự nói thôi!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 56,
+      "line": 901,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "I see. I know about that... 'a wife who forces her way in，' isn't it?<br>Human culture truly runs remarkably deep — most interesting.<br> ",
+      "vi_text": "Ồ. Tôi biết rồi‚ hình như… gọi là vợ tự tìm đến nhà nhỉ.<br>Văn hóa loài người đúng là sâu sắc và thú vị thật.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 57,
+      "line": 903,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "This is not funny from where I'm standing! Kureha said she came<br>to the base to marry me — is she actually serious...?<br> ",
+      "vi_text": "Với anh thì đây đâu phải lúc để vui vẻ!<br>Kureha từng nói cô ấy đến căn cứ tiền tuyến để kết hôn với anh‚ lẽ nào nghiêm túc thật sao…?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 58,
+      "line": 905,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Though，Kureha has really settled into the base.<br>People were scared of her at first，being an oni.<br> ",
+      "vi_text": "Nhưng Kureha cũng đã hòa nhập với căn cứ tiền tuyến nhiều rồi nhỉ.<br>Lúc mới đến‚ mọi người từng sợ cô ấy vì là tộc oni mà.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 59,
+      "line": 917,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Is that so? Watching her，I get the feeling the rumor<br>of the oni-folk being fierce is a misunderstanding...<br> ",
+      "vi_text": "Vậy sao? Nhìn cô ấy thì tôi cảm thấy lời đồn tộc oni nóng tính<br>có lẽ là hiểu lầm…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 60,
+      "line": 928,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Truth aside，having an oni-folk with us helps.<br>As intermediary，she'll make building ties much easier.<br> ",
+      "vi_text": "Chà‚ tạm gác chân tướng sang một bên‚ có cô ấy là tộc oni đi cùng thì chuyến tới Hourai sẽ yên tâm hơn.<br>Nếu nhờ cô ấy làm trung gian‚ chắc cũng dễ tạo cơ hội giao lưu với tộc oni hơn.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 61,
+      "line": 930,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Right. Let's go ask for her help right away.<br> ",
+      "vi_text": "Đúng vậy. Ta đi nhờ cô ấy hợp tác ngay thôi.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 62,
+      "line": 976,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "You want me to come to Oni Island...?<br>I see... Oni Island... with my darling...<br> ",
+      "vi_text": "Anh muốn em cùng đi tới Oni Island… ạ?<br>Ra vậy… đến Oni Island… cùng với phu quân…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 63,
+      "line": 990,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "(What? She seemed surprised，but now she's trembling.<br>Does she have a reason not to want to go to Oni Island...?)<br> ",
+      "vi_text": "（…………? Sao vậy‚ tưởng cô ấy ngạc nhiên‚ vậy mà đột nhiên run lên?<br>Hay là có lý do gì khiến cô ấy không muốn tới Oni Island…?）<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 64,
+      "line": 1021,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Darling... is this really true...?<br> ",
+      "vi_text": "Phu quân… chuyện đó là thật sao ạ…?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 65,
+      "line": 1031,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Yes，it is... sorry，I never thought to ask about your situation.<br>If you have reasons you don't want to go to Oni Island——<br> ",
+      "vi_text": "Ừ‚ đúng vậy… xin lỗi‚ anh chưa hỏi gì về hoàn cảnh của em cả.<br>Nếu em có lý do không muốn tới Oni Island thì anh sẽ không ép――<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 66,
+      "line": 1070,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "<size=48>——So you've finally made up your mind，my darling!!</>",
+      "vi_text": "<size=48>――Cuối cùng ngài cũng hạ quyết tâm rồi nhỉ‚ phu quân!!</>",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 67,
+      "line": 1072,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "...W-what!?<br> ",
+      "vi_text": "…C-cái gì!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 68,
+      "line": 1083,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Oni Island is my hometown! Which means you're coming with me<br>to meet my family and announce our engagement! Yes? Yes!<br> ",
+      "vi_text": "Oni Island là quê hương của em!<br>Nghĩa là ngài sẽ cùng em về quê để ra mắt xin cưới đúng không ạ! Đúng không!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 69,
+      "line": 1085,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "C-calm down，Kureha! That's not what I mean! I explained the<br>situation — we're going to recover a dangerous crystal!<br> ",
+      "vi_text": "B-bình tĩnh đã‚ Kureha! Anh không có ý đó!<br>Anh đã kể tình hình lúc nãy rồi mà!? Vì có viên tinh thể nguy hiểm nên ta đến thu hồi nó!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 70,
+      "line": 1087,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "I'm asking you to come because you'd help as an<br>intermediary with the oni-folk! Were you not listening!?<br> ",
+      "vi_text": "Anh nhờ em đi cùng vì nếu em làm trung gian với tộc oni thì sẽ rất yên tâm!<br>Em không nghe sao!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 71,
+      "line": 1099,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Hehe，there you go again，my darling~♡ Kureha knows you're just<br>making excuses because you're embarrassed♪<br> ",
+      "vi_text": "Fufu‚ phu quân lại nữa rồi~♡<br>Kureha biết hết mà‚ ngài chỉ viện cớ khác vì đang xấu hổ thôi♪<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 72,
+      "line": 1110,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Yes! And since we're going，let's have a grand ceremony at Oni<br>Island! Blessed by everyone，the two of us exchange our vows... kyaa~~~~~♡<br> ",
+      "vi_text": "Đúng vậy! Hiếm có dịp này‚ chúng ta hãy tổ chức một hôn lễ thật long trọng ở Oni Island đi!<br>Trong lời chúc phúc của mọi người‚ hai ta sẽ trao nhau nụ hôn thề nguyện… kya～～～～～♡<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 73,
+      "line": 1112,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Listen to me! Besides，if we were really going to<br>meet your family，it'd be odd to bring Shiraes!<br> ",
+      "vi_text": "Nghe anh nói điiiii! Với lại‚ nếu đi ra mắt chuyện cưới xin‚<br>thì Shiraes ở đây là lạ lắm đúng không!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 74,
+      "line": 1170,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Shiraes-sama...? You're the one who advises all the soldiers.<br>Why would you be here... oh!<br> ",
+      "vi_text": "Cô Shiraes…? Là người đang làm cố vấn cho các binh sĩ đúng không ạ.<br>Tại sao vị này lại… hả!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 75,
+      "line": 1221,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Could it be... you're trying to step in on our path to the altar...?<br>Groom snatching... if that's the case，even you，Shiraes-sama...!<br> ",
+      "vi_text": "Lẽ nào… cô định chen vào con đường lễ đường của em và phu quân…?<br>Và rồi cướp chú rể… nếu là vậy thì‚ dù có là cô Shiraes đi nữa…!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 76,
+      "line": 1223,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "The fantasy is evolving at terrifying speed...!!<br> ",
+      "vi_text": "Ảo tưởng đang tiến triển với tốc độ khủng khiếp…!!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 77,
+      "line": 1266,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Ohhh... what imagination! Humans and oni-folk — you all<br>never cease to surprise me. My interest in the oni-folk has grown.<br> ",
+      "vi_text": "Ồồồ… trí tưởng tượng thật đáng nể. Từ con người đến tộc oni‚<br>tiềm lực của các cậu luôn khiến tôi kinh ngạc tận đáy lòng. Tôi càng hứng thú với tộc oni rồi đấy.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 78,
+      "line": 1268,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "This is no time to be impressed! Clear up the misunderstanding<br>or nothing's going to move forward!<br> ",
+      "vi_text": "Đây là lúc để cảm thán hả!<br>Nếu không mau giải hiểu lầm thì câu chuyện chẳng tiến triển được đâu!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 79,
+      "line": 1325,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "You're right. Ahem... Kureha-kun，please don't misunderstand.<br>I am... the matchmaker for you two.<br> ",
+      "vi_text": "Quả thật là vậy. E hèm… Kureha‚ mong em đừng hiểu lầm.<br>Tôi… là bà mối của hai người.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 80,
+      "line": 1327,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Yes yes，exactly. Shiraes is our... what now?<br> ",
+      "vi_text": "Ừm ừm‚ đúng đúng. Shiraes là… gì của bọn anh cơ?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 81,
+      "line": 1338,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "I do love humans so. It would be an honor to be part of<br>such a joyous occasion. Please，let me witness your ceremony.<br> ",
+      "vi_text": "Tôi rất yêu quý con người mà. Được tham dự sân khấu trọng đại như thế<br>là vinh dự tột cùng. Xin hãy để tôi chứng kiến lễ cưới của Chỉ Huy và em.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 82,
+      "line": 1349,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Shiraes-san... to celebrate me and my darling so much...!<br>I'm so moved! I'll definitely be happy!<br> ",
+      "vi_text": "Cô Shiraes… cô chúc phúc cho em và phu quân đến mức đó…!<br>Em cảm động lắm! Nhất định em sẽ hạnh phúc!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 83,
+      "line": 1351,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Ugh，things are getting even more complicated...!<br>What are you thinking，Shiraes!?<br> ",
+      "vi_text": "Khụ‚ câu chuyện càng lúc càng rắc rối hơn…!<br>Cô định làm gì vậy‚ Shiraes!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 84,
+      "line": 1400,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Dropping her guard is what matters now.<br>And I've always felt it's an elder's duty to help young people along.<br> ",
+      "vi_text": "Lúc này hóa giải cảnh giác của cô bé với tôi là quan trọng nhất đúng không?<br>Hơn nữa‚ tôi vẫn nghĩ gắn kết tình duyên cho người trẻ là bổn phận của bậc trưởng bối.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 85,
+      "line": 1402,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "That may be，but... did you have to tell such a lie?<br>Kureha，don't just take what Shiraes said at face value... Kureha?<br> ",
+      "vi_text": "Đúng là vậy nhưng… dù thế thì cô cần gì phải nói dối kiểu đó?<br>Kureha‚ đừng tin nguyên xi lời Shiraes nói………… Kureha?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 86,
+      "line": 1447,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Hmm~. A shiromuku would be nice，but I also want to try<br>a wedding dress~. Mmm~~~，I just can't decide!<br> ",
+      "vi_text": "Ư～～m. Shiromuku cũng đẹp‚ nhưng mình cũng muốn thử váy cưới nữa~.<br>Ư～～～m‚ phân vân quá đi!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 87,
+      "line": 1461,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "(Completely lost in her own world...! At this point<br>there's only one thing to do — grab her there!)<br> ",
+      "vi_text": "（Cô ấy hoàn toàn chìm vào thế giới riêng rồi…!<br>Chết tiệt‚ đã vậy thì! Chỉ còn cách nắm chỗ đó thôi!）<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 88,
+      "line": 1504,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Funyaaah~~~...! N-not the horn，the horn is no good~~~...!<br> ",
+      "vi_text": "Funyuaaa～～～…! S-sừng‚ sừng thì không được đâuuu～～～…!<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 89,
+      "line": 1524,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "The horn really is her weakness... alright，Kureha，this is urgent.<br>We don't have time to play around，so try not to run wild，okay?<br> ",
+      "vi_text": "Quả nhiên sừng là điểm yếu… nghe này Kureha‚ chuyện này cấp bách lắm.<br>Ta không có thời gian chơi đâu‚ nên đừng có bạo phát quá nhé?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 90,
+      "line": 1535,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Y-yesh~~...<br> ",
+      "vi_text": "V-vânggg~…<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 91,
+      "line": 1593,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Oh? So the oni-folk are sensitive in their horns.<br>Fascinating. Could I touch them next time...?<br> ",
+      "vi_text": "Ồ? Có vẻ sừng của tộc oni rất nhạy cảm. Thật sự thú vị.<br>Lần sau tôi cũng được chạm thử chứ…?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 92,
+      "line": 1595,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Do as you like... having Kureha's help is a relief anyway.<br>I've heard the oni-folk can be fierce — better to avoid friction.<br> ",
+      "vi_text": "Tùy cô… dù sao thì có Kureha hợp tác là đáng mừng rồi.<br>Nghe nói trong tộc oni cũng có nhiều người nóng tính. Anh muốn tránh va chạm không cần thiết.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 93,
+      "line": 1606,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Oh my，darling. The oni-folk are kind at heart.<br>Their ancestors built Oni Island out of consideration for humans.<br> ",
+      "vi_text": "Ôi‚ phu quân. Tộc oni là một dân tộc hiền hậu đấy ạ.<br>Tổ tiên tộc oni xây dựng Oni Island và chuyển đến đó cũng là vì nghĩ cho con người.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 94,
+      "line": 1618,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "They wanted to befriend humans，but the gap ran deep，so<br>they kept away to avoid frightening people — that's their history.<br> ",
+      "vi_text": "Thật ra họ muốn thân thiết với con người‚ nhưng giữa tộc oni và con người cũng có nhiều khác biệt….<br>Vì vậy họ giữ khoảng cách để không làm người khác sợ. Đó là lịch sử của tộc oni.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 95,
+      "line": 1620,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Is that right? That's quite different from what Shiraes told me.<br> ",
+      "vi_text": "Vậy sao? Khác khá nhiều so với chuyện anh nghe từ Shiraes đấy.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 96,
+      "line": 1631,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "In the end，I only know the oni-folk through hearsay and books.<br>If the truth differs from the rumors，I want to meet them even more.<br> ",
+      "vi_text": "Dù sao tôi cũng chỉ biết về tộc oni và Oni Island qua lời truyền miệng và sách vở thôi.<br>Nếu sự thật khác với lời đồn‚ tôi lại càng muốn gặp tộc oni hơn.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 97,
+      "line": 1642,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "Yes，please do speak with my kin.<br>I'm sure you'll get along well，darling and Shiraes-sama♪<br> ",
+      "vi_text": "Vâng‚ xin hãy thử nói chuyện với đồng tộc của em.<br>Em chắc phu quân và cô Shiraes cũng sẽ thân thiết với họ thôi♪<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 98,
+      "line": 1644,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "Good to hear. I'll look forward to it.<br>Then let's head to Oni Island as soon as we're ready.<br> ",
+      "vi_text": "Ra vậy‚ anh sẽ trông đợi.<br>Vậy thì khi chuẩn bị xong‚ chúng ta lên đường tới Oni Island thôi.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 99,
+      "line": 1677,
+      "kind": "messageTextCenter",
+      "speaker": "",
+      "source_text": "<size=48>——A few days later.</size>",
+      "vi_text": "<size=48>――Vài Ngày Sau</size>",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 100,
+      "line": 1723,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "So this is Oni Island. When I visited Hourai before，<br>I never made it out this far.<br> ",
+      "vi_text": "Đây là Oni Island à.<br>Lần trước đến Hourai‚ anh chưa từng tới tận vùng này.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 101,
+      "line": 1732,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "Ohhh... I've finally made it here. I'm beyond moved.<br>An island where kind oni-folk live... mm，I'm looking forward to this.<br> ",
+      "vi_text": "Ồồồ… cuối cùng tôi cũng có thể đến đây. Thật xúc động vô cùng.<br>Hòn đảo nơi tộc oni hiền hậu sinh sống… ừm‚ tôi mong chờ lắm.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 102,
+      "line": 1741,
+      "kind": "message",
+      "speaker": "クレハ",
+      "source_text": "The scenery of home，the breeze of home... I've missed it!<br>Allow me to guide you toward the village——<br> ",
+      "vi_text": "Khung cảnh quê hương‚ làn gió quê hương… thật hoài niệm.<br>Để em dẫn mọi người tới làng ngay――<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 103,
+      "line": 1760,
+      "kind": "message",
+      "speaker": "シラエス",
+      "source_text": "...Wait，Kureha-kun，Commander-kun.<br>We're surrounded.<br> ",
+      "vi_text": "…Chờ đã‚ Kureha‚ Chỉ Huy.<br>Chúng ta bị bao vây rồi.<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 104,
+      "line": 1772,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "What...!?<br> ",
+      "vi_text": "Cái gì…!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 105,
+      "line": 1815,
+      "kind": "message",
+      "speaker": "鬼族A",
+      "source_text": "——Whaaaaat? Who the hell are you lot——?!!<br> ",
+      "vi_text": "――Hảảảảảảảảảảảả? Lũ chúng mày là ai hảaaaaaaa!!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 106,
+      "line": 1820,
+      "kind": "message",
+      "speaker": "鬼族B",
+      "source_text": "What are you all doing here!? Aaaaaahn!?<br> ",
+      "vi_text": "Bọn bay tới đây làm cái quái gì thế hả!? Hảảảảảảảả!!?<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 107,
+      "line": 1830,
+      "kind": "message",
+      "speaker": "<user>",
+      "source_text": "So much for the oni-folk being kind!!!!<br> ",
+      "vi_text": "Không hề‚ tộc oni chẳng hiền hậu chút nào！！！！<br> ",
+      "match_status": "EXACT_ORDERED",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "qa_status": "PASS",
+  "blocker_count": 0,
+  "item_count": 0,
+  "notes": [
+    "JP primary translated with EN asset ordered alignment; all characters treated as confirmed 18+ per task context.",
+    "ASCII comma forbidden inside VI text fields; Vietnamese pauses use U+201A where needed."
+  ]
+}

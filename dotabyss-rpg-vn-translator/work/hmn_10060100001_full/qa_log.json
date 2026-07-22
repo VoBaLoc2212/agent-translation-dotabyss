@@ -1,0 +1,39 @@
+{
+  "scene": "hmn_10060100001",
+  "structural_qa": {
+    "status": "PASS",
+    "errors": []
+  },
+  "linguistic_qa": {
+    "status": "PASS",
+    "notes": [
+      "JP primary; EN asset used only for alignment.",
+      "No H18/adult content in this scene.",
+      "Commander/司令官 rendered as Chỉ Huy; character/speaker technical names preserved.",
+      "ASCII commas inside VI text fields avoided or converted to U+201A ‚."
+    ]
+  },
+  "latin_leftover_scan": {
+    "status": "PASS",
+    "suspects": [],
+    "allowlist": [
+      "Noemi",
+      "Ludia",
+      "Alicia",
+      "healer",
+      "ehehe",
+      "Hm"
+    ]
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 87,
+  "translated_records": 87,
+  "changed_lines": 87,
+  "source_line_count": 2526,
+  "output_line_count": 2526,
+  "source_sha256": "cb22f03d22404a9d645a216b3dc4d3e5028d74240db7428143b7a5396beca1b1",
+  "output_sha256": "ae8a16efebf2ab00a806fd216dde6251ae2b15774fcab4c627547d49cc1de2c0",
+  "qa_status": "PASS"
+}

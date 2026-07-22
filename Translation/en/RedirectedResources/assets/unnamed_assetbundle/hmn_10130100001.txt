@@ -1,0 +1,750 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,101301000G,フレデリカ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Title
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0026,0.75,1
+
+
+asyncseplay,setag1_1,se4300001,0,1,CONT,0
+
+window,on,0.15
+message,,Knock，knock.<br> 
+
+
+message,<user>,Come in.<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_2,se4300003,0,1,CONT,0
+
+wait,0.5
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asynccharamove,chara_1,Set,X,-100,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1.3,0,CONT,0
+
+asynccharashow,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,100,0.3,CONT,0
+
+asyncwait
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Excuse me，Commander.<br> ,101301000G,vc_10130100001_001_01,chara_1
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,フレデリカ,Actually，there's something I want to talk to you about...<br> ,101301000G,vc_10130100001_002_01,chara_1
+
+message,<user>,What's wrong? You look serious. If it's about this month's extra<br>budget，no way I'm giving it.<br> 
+
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+message,フレデリカ,It's not about money! And what do you mean by ""of course not""!?<br> ,101301000G,vc_10130100001_003_01,chara_1
+
+message,<user>,Think about how you usually act.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,<user>,Do you have any idea how much funding we sink into your research on<br>a daily basis... honestly.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Ah，well，um，yeah，about that...<br> ,101301000G,vc_10130100001_004_01,chara_1
+
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800019,0,1,CONT,0
+
+asynccharaemo,chara_1,Elated,CONT,0
+
+
+message,フレデリカ,T-trial and error comes with research! So extra budget can't be<br>helped!<br> ,101301000G,vc_10130100001_005_01,chara_1
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,フレデリカ,Well，a mediocrity like you probably can't comprehend it anyway!♪<br> ,101301000G,vc_10130100001_006_01,chara_1
+
+message,<user>,I see，I see. So you took time out of your busy schedule just to come<br>and provoke me.<br> 
+
+message,<user>,Alright，get out. I'm not as busy as you，but I'm still pretty busy.<br> 
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_9,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,Whaaaat! I-I'm sorry!<br> ,101301000G,vc_10130100001_007_01,chara_1
+
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,I really do have something to talk about! Please，just hear me out!<br> ,101301000G,vc_10130100001_008_01,chara_1
+
+message,<user>,Alright，alright... So，what did you want to talk about?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_11,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,フレデリカ,Uh... w-well... It might sound a bit hard to believe，but...<br> ,101301000G,vc_10130100001_009_01,chara_1
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_12,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Actually... whenever I experiment，I always end up producing<br>something lewd.<br> ,101301000G,vc_10130100001_010_01,chara_1
+
+message,<user>,Huh? What was that? Sorry，could you say that again?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_13,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,フレデリカ,Ugh... s-so，like I said...!<br> ,101301000G,vc_10130100001_011_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,フレデリカ,No matter what I do，all I can make is erotic stuff!<br> ,101301000G,vc_10130100001_012_01,chara_1
+
+message,<user>,R-right，I see... Wait，what do you mean?<br> 
+
+message,<user>,What kind of erotic stuff? Like，what have you ended up making?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,フレデリカ,The other day，I showed you an aphrodisiac，right?<br> ,101301000G,vc_10130100001_013_01,chara_1
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,That medicine... Actually，I was trying to make an immortality elixir，<br>but that's what I ended up with...<br> ,101301000G,vc_10130100001_014_01,chara_1
+
+message,<user>,You said 'This has an amazing effect!' with a smug face，but that was<br>an unintended result?<br> 
+
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_16,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,Ugh. W-well，anyway，just listen to the rest.<br> ,101301000G,vc_10130100001_015_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+
+message,フレデリカ,Another time... I made a magic circle to blow away fatigue，but for<br>some reason，it only blew off my clothes...<br> ,101301000G,vc_10130100001_016_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_17,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,フレデリカ,I was washing all my other clothes，so I ended up having to walk<br>around in my sleepwear... talk about getting screwed!<br> ,101301000G,vc_10130100001_017_01,chara_1
+
+message,<user>,Ah，so that's why there was a day you were getting petted all over<br>the base. I couldn't see your outfit because you were surrounded.<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_18,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,フレデリカ,P-petted! Don't talk about me like I'm a dog or a cat!<br> ,101301000G,vc_10130100001_018_01,chara_1
+
+message,<user>,...Huh? Wait... from what you're saying，that thing yesterday too...<br> 
+
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,Ugh. Ughhhh...<br> ,101301000G,vc_10130100001_019_01,chara_1
+
+
+
+window,off
+wait,0.15
+
+fade,Out,White,1
+
+charafocusonall
+
+sestop,setag1_19,0.1
+
+bg,abg10200a
+
+scale,BACK,,0,1,1,Set
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+screeneffect,SEPIATONE,on,1,0
+
+fade,In,White,1
+
+window,on,0.15
+message,<user>,The report's done，maybe I'll read a book—<br> 
+
+
+asyncseplay,setag1_20,se4400138,0,1,CONT,0
+
+message,,BOOM!<br> 
+
+message,フレデリカ,Funyaaaah!<br> ,101301000G,vc_10130100001_020_01,
+
+message,<user>,Pink smoke from the lab...? And that was... Frederica's voice?<br> 
+
+message,<user>,Wait there，I'm coming!<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asyncseplay,setag1_21,se4030106,0,1,CONT,0
+
+wait,0.5
+
+
+transitionFade,Tra02,out,black,1
+
+bg,abg30000a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_1,FaceShy
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,-100,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+asyncseplay,setag1_22,se4300007,0,1,CONT,0
+
+wait,0.5
+
+window,on,0.15
+message,<user>,*pant，pant*... Frederica，are you okay?<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0.5,STOP
+
+asyncseplay,setag1_23,se4800002,0,1,CONT,0
+
+asynccharaemo,chara_1,Heart,CONT,0
+
+
+message,フレデリカ,*pant*!♡ I，I'm okay.♡<br> ,101301000G,vc_10130100001_021_01,chara_1
+
+message,<user>,No，you don't look okay at all. Wait here，I'll take you to the<br>infirmary...<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+asyncmove,BACK,,0,0,80,Set,CONT
+
+bg,abg30000a
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_1,FaceUnique01
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,-100,0,CONT
+
+charascale,chara_1,2,0
+
+charashowalpha,chara_1,1,0
+
+asyncseplay,setag1_24,se4400119,0,1,STOP,0.5
+
+crossfade,1,0,0,1,1
+wait,1
+
+asyncwait
+
+asyncmove,BACK,,0.3,0,-80,LinearTarget,CONT,0
+
+asyncwait
+
+wait,0.3
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,I-I'm really okay...♡<br> ,101301000G,vc_10130100001_022_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_25,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,Actually... when you carry me like a princess... it's... it's too much...<br>Ah，Ah，Aaah...♡<br> ,101301000G,vc_10130100001_023_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,30,15,1.5,10,on,off,0,off,CONT,0
+
+asyncseplay,setag1_26,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,Funyaaaaaah...♡<br> ,101301000G,vc_10130100001_024_01,chara_1
+
+
+window,off
+wait,0.15
+
+fade,Out,White,1
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+screeneffect,SEPIATONE,off,1,0
+
+bg,abg11000a
+
+scale,BACK,,0,1,1,Set
+
+blur,off,BACK,0
+
+charaface,chara_1,FaceShy
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+fade,In,White,1
+
+window,on,0.15
+message,<user>,In the end，we never made it to the infirmary... So that was just the<br>aphrodisiac making her horny.<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_27,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+message,フレデリカ,D-don't say it so bluntly!<br> ,101301000G,vc_10130100001_025_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,But... I'm sorry for causing you trouble... *whimper*.<br> ,101301000G,vc_10130100001_026_01,chara_1
+
+message,<user>,Don't worry about that. Still... it's a strange phenomenon.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_29,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,*whimper*... why does this keep happening... I'm just diligently doing<br>my research...<br> ,101301000G,vc_10130100001_027_01,chara_1
+
+message,<user>,Do you have any idea why?<br> 
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_30,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Nothing at all. I looked through tons of books before coming here，<br>but...<br> ,101301000G,vc_10130100001_028_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_31,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,フレデリカ,I couldn't find anything even close to this bizarre situation... *sigh*.<br> ,101301000G,vc_10130100001_029_01,chara_1
+
+message,<user>,Hmm. Then how about asking your alchemy Master? He might know<br>something.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_32,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,Wha—! A-ask my Master...? No way，no way! Absolutely not!<br> ,101301000G,vc_10130100001_030_01,chara_1
+
+message,<user>,Hmm? Why are you so against it?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncseplay,setag1_33,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,フレデリカ,You know I used to live in Eldorana before coming here，right?<br> ,101301000G,vc_10130100001_031_01,chara_1
+
+message,<user>,Right. Alchemists usually live in Perdion，so I always found it strange.<br> 
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_34,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,There's only one reason I lived in Eldorana...<br> ,101301000G,vc_10130100001_032_01,chara_1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,フレデリカ,To get away from my Master... from that bastard，as soon as possible!<br> ,101301000G,vc_10130100001_033_01,chara_1
+
+message,<user>,Hmm...? You must have spent quite some time with your Master，right?<br>Why would you want to get away?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_36,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,It's precisely because we've spent years together that I know!<br>Impossible is impossible! Absolutely impossible!<br> ,101301000G,vc_10130100001_034_01,chara_1
+
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_37,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,Ugh... just remembering it makes my head ache...! Guh... get out of my<br>head...!<br> ,101301000G,vc_10130100001_035_01,chara_1
+
+message,<user>,What the hell has he put you through...? Still，you don't have any<br>other option now，do you?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_38,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,W-well，sure... that's true... but... ugh... still...<br> ,101301000G,vc_10130100001_036_01,chara_1
+
+message,<user>,I get that you absolutely hate it，but... if this keeps up，your lab's<br>gonna be overflowing with erotic stuff eventually，you know?<br> 
+
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_39,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+message,フレデリカ,Ugh! That would be way too awful!<br> ,101301000G,vc_10130100001_037_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_40,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,But going to my Master's... it's just incredibly and endlessly awful!<br> ,101301000G,vc_10130100001_038_01,chara_1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_41,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,Ugh... but still... not being able to produce results... that's what I<br>hate the most...<br> ,101301000G,vc_10130100001_039_01,chara_1
+
+message,<user>,Don't worry. I'll go with you.<br> 
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_42,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,フレデリカ,For real?! The Commander will come too?! That's a massive help!<br> ,101301000G,vc_10130100001_040_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,40,0.5,2,off,0,CONT
+
+asyncseplay,setag1_43,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,フレデリカ,There's no such thing as too many hands to beat him up in an<br>emergency，right?♪ Man，what a relief!<br> ,101301000G,vc_10130100001_041_01,chara_1
+
+message,<user>,...Did you just say 'beat up'...?<br> 
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncseplay,setag1_44,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,フレデリカ,Hm? Yeah，I said it.<br> ,101301000G,vc_10130100001_042_01,chara_1
+
+message,<user>,I was hoping I misheard...<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,フレデリカ,My Master's house is in a secluded part of Perdion. It's like a<br>hideaway，you know.<br> ,101301000G,vc_10130100001_043_01,chara_1
+
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,40,0.5,2,off,0,CONT
+
+asyncseplay,setag1_45,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,フレデリカ,As a greeting... I'll start by giving him a light scare with explosives!♪<br> ,101301000G,vc_10130100001_044_01,chara_1
+
+message,<user>,Whoa，whoa，whoa! Are you trying to start a war?<br> 
+
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_46,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,I hate him that much，and even that would be totally fine... You'll<br>understand when you meet him.<br> ,101301000G,vc_10130100001_045_01,chara_1
+
+message,<user>,O-okay... Got it. Let's head over first.<br> 
+
+window,off
+bgmstop,bgmtag1_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

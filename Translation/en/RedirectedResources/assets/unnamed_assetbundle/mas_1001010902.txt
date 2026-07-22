@@ -1,0 +1,594 @@
+﻿
+fade,Out,Black,0
+initend
+balloonload
+dotcamerazoom,1.0,1.0,Set
+dotcameramove,0,0,Set,0,None
+dotcameralensmove,0,Set,0
+
+// 背景読み込み
+dotbgload,bg_1,8002,01001
+dotbgload,bg_2,1013,03001
+dotbgload,bg_3,1013,02001
+dotbgload,bg_4,1013,01001
+
+// キャラ読み込み
+objectload,chara_1,CHARA,300101000,司令官
+objectload,chara_2,CHARA,106501000G,ソフィア
+objectload,chara_3,CHARA,100201000G,ベリサ
+objectload,chara_4,CHARA,100301000G,マリナ
+objectload,chara_10,Boss,2027301,砂嵐の厄災
+
+// バッグログ顔：砂嵐の厄災　→　400201000
+
+// エフェクト読み込み
+dotprefabload,uieffect_1,Effects/Novel/DetectionMagic/Prefabs/NovelEF_DetectionMagic,4,0.01,-2,
+// 厄災エフェクトためる(3.666667秒)
+// (シェイク：X1の0.5 , 2.866667~3.666667)
+dotprefabload,uieffect_2,Novel/VariantEffect/Boss2027301/DisasterWallAttack000Brown,4,3,-2,
+dotprefabrotate,uieffect_2,0,-0,0,180,LinearTarget
+
+// 厄災エフェクト衝撃(計4秒)
+dotprefabload,uieffect_3,Novel/VariantEffect/Boss2027301/DisasterWallAttackHit000Brown,1,0,-0.5
+dotprefabload,uieffect_4,Novel/VariantEffect/Boss2027301/DisasterWallAttackHit000Brown,-0.5,0,-2.2
+// 7.016667
+// 厄災登場エフェクト
+dotprefabload,uieffect_5,Novel/VariantEffect/Boss2027301/DisasterAppearanceBrown,21,0.5,-3.5
+dotprefabload,uieffect_6,Novel/VariantEffect/Boss2027301/DisasterAppearanceBurstBrown,21,0.5,-3.5
+dotprefabload,uieffect_7,Novel/VariantEffect/Boss2027301/DisasterRoarBase,21,0.5,-3.5
+
+// スキルチャージエフェクト
+dotprefabload,uieffect_9,Novel/VariantEffect/Boss2027301/Skill002ChargeAuraEffectBrown,4,0.58,-2
+dotprefabload,uieffect_10,Novel/VariantEffect/Boss2027301/Skill002ChargeStartEffectSmallDisasterBrown,4,0.58,-2
+// アピールエフェクト(1.666667から)
+dotprefabload,uieffect_11,Novel/VariantEffect/Boss2027301/DisasterSmoke_00Brown,21,0,-3.5
+dotprefabload,uieffect_12,Novel/VariantEffect/Boss2027301/DisasterRoarAppeal,21,0,-3.5
+// 画像
+subimage,UI/BG/Novel/abg14900a,SubImageTag1,0,Other,0,FRONT
+subimage,UI/BG/Novel/abg14400a,SubImageTag2,0,Other,0,FRONT
+subimage,UI/BG/Novel/abg10100a,SubImageTag3,0,Other,0,FRONT
+subimage,UI/BG/Novel/abg10200a,SubImageTag4,0,Other,0,FRONT
+
+dotbgshow,bg_1,0
+dotbgshow,bg_2,1
+dotbgshow,bg_3,-1
+dotbgshow,bg_4,2
+
+// 開幕前のキャラ位置指定
+dotmove,chara_1,0,-4.5,0,0.88,LinearTarget
+dotmove,chara_2,0,-4.9,0,-1.43,LinearTarget
+dotmove,chara_3,0,-3.8,0,-0.92,LinearTarget
+dotmove,chara_4,0,-3.3,0,2.12,LinearTarget
+dotmove,chara_10,0,6,0,-3.5,LinearTarget
+
+// キャラ向き
+objectdirect,chara_10,LEFT
+
+// キャラモーション
+objectmotion,chara_1,C_Wait,0,1,,1
+objectmotion,chara_2,C_Wait,0,1,,1
+objectmotion,chara_3,C_Wait,0,1,,1
+objectmotion,chara_4,C_Wait,0,1,,1
+
+// カメラ設定
+dotcamerainit,0,0,1
+
+dotcameramove,-8,0,LinearTarget,0,OnlyX
+
+objectshow,chara_1,0
+objectshow,chara_2,0
+objectshow,chara_3,0
+objectshow,chara_4,0
+
+// 砂嵐（強）
+prefabshowAll,effectall_2,SandStorm/Prefabs/Eff_SandStormStrong000
+
+// カメラドリー値：5
+seplay,seloop_1,se4700031,1,1
+// カメラをゆっくりドリーインしながらフェードイン
+asyncdotcameramove,-3,0,LinearTarget,2.5,OnlyX,CONT,0
+
+uivisible,on
+fade,In,Black,1
+asyncWait
+
+// 間を追加
+wait,0.5
+asyncseplay,se_emo1,se4800011,0,1,CONT,0.05
+objectemo,chara_4,ExclaQues
+dotmessage,マリナ,<size=24>The sandstorm is getting intense again...!?,,mcv_1001010902_001_01,normal,mid,SAD,chara_4,top,normal
+
+objectmotion,chara_3,N_frightened,0,1,,1
+dotmessage,ベリサ,<size=24>Ngh...<br>My head hurts~...,,mcv_1001010902_002_01,normal,mid,SAD,chara_3,top,normal
+
+objectmotion,chara_2,N_frightened,0,1,,1
+dotmessage,ソフィア,<size=24>Kch!<br>What is this powerful magical energy...,,mcv_1001010902_003_01,normal,mid,ANGER,chara_2,rightbottom,normal
+
+// !?
+asyncobjectmotion,chara_2,C_Wait,0,1,,1,CONT
+asyncseplay,se_emo2,se4800010,0,1,CONT,0.25
+asyncobjectemo,chara_2,Exclamation,CONT,0.2
+asyncwait
+wait,0.4
+dotmessage,ソフィア,<size=24>Hey，don't tell me!,,mcv_1001010902_004_01,normal,mid,SURPRISE,chara_2,rightbottom,normal
+
+objectmotion,chara_1,N_Yes,1,1,C_Wait,1
+dotmessage,<user>,<size=24>Yeah. That's exactly it.,,,normal,mid,,chara_1,top,normal
+
+seplay,se_20,se4700032,1,1
+asyncdotcameramove,5,0,LinearTarget,1,OnlyX,CONT
+fade,Out,White,0.5
+asyncwait
+
+prefabhideall,effectall_2
+prefabshowAll,effectall_1_1,SandStorm/Prefabs/Eff_SandStormWeak000
+
+
+objectshow,chara_10,0
+objecthide,chara_10,0
+
+// ボス演出場所
+dotcameramove,21,0,LinearTarget,0,OnlyX
+dotmove,chara_10,0,21,0,-3.5,LinearTarget
+fade,In,White,0.5
+
+//エフェクト削除
+prefabdeleteall,effectall_2
+
+// 厄災登場
+// cameraズーム開始時間は0.1マイナスで計算
+asyncdotprefabshow,uieffect_5,cont,0
+//トリガー
+asyncdotobjectskilltrigger,chara_10,Appearance01,CONT,0
+
+asyncdotcamerazoom,1.1,0.2,EaseOutTarget,CONT,3.866667
+asyncdotcamerazoom,1,0.25,EaseOutTarget,CONT,4.066667
+asyncseplayIngame,se_Appearance001,ene_2027301,ba_appe_2027301_01,0,1.0,STOP,0
+
+// 鼓動2
+asyncdotcamerazoom,1.1,0.2,EaseOutTarget,CONT,4.833333
+asyncdotcamerazoom,1,0.25,EaseOutTarget,CONT,5.033333
+asyncseplayIngame,se_Appearance002,ene_2027301,ba_appe_2027301_02,0,1,STOP,4.166667
+
+// 鼓動3
+asyncdotcamerazoom,1.1,0.2,EaseOutTarget,CONT,5.816667
+asyncdotcamerazoom,1.0,0.23,EaseOutTarget,CONT,6.016667
+asyncseplayIngame,se_Appearance003,ene_2027301,ba_appe_2027301_03,0,1.0,STOP,6.116667
+
+asyncdotcameramove,21,0.5,LinearTarget,0.65,OnlyY,CONT,6.366667
+asyncdotcamerazoom,1.5,0.65,LinearTarget,CONT,6.366667
+asyncobjectshow,chara_10,0.1,cont,7.016667
+asyncobjectmotion,chara_10,C_Appearance,1,1,C_Walk,1,cont,7.016667
+
+asyncdotprefabshow,uieffect_6,cont,7.016667
+asyncdotcameramove,21,0,EaseInTarget,0.25,OnlyY,CONT,7.016667
+asyncdotcamerazoom,1,0.25,EaseInTarget,CONT,7.016667
+asyncdotprefabshow,uieffect_7,cont,7.766667
+asyncseplayIngame,se_Appearance004,ene_2027301,ba_appe_2027301_04,0,1.0,STOP,7.666667
+asyncwait
+
+wait,0.1
+
+linework,on,White,Middle
+bgmplay,bgmtag2_1,bgm0028,0,1
+asyncdotcamerazoom,1.2,0.15,LinearTarget,CONT,0
+asyncobjectmotion,chara_10,C_Appearance,1,1,C_Walk,1,cont,0
+asyncdotprefabshow,uieffect_11,CONT,1.666667
+asyncdotprefabshow,uieffect_12,CONT,1.666667
+asyncseplayIngame,se_Summon001,ene_2027301,ba_summon_2027301_01,0,1.0,STOP,0.1
+dotmessage,砂嵐の厄災,<size=24>ROOAAAARRRR!!!!,900000002,,SHOUT_B,big,,chara_10,none,shake
+linework,off,White,Middle
+asyncWait
+
+dotbgdelete,bg_4
+
+//エフェクトを弱に
+prefabhideall,effectall_1_1
+asyncprefabshowAll,effectall_2_1,SandStorm/Prefabs/Eff_SandStormStrong000,on,CONT,0
+
+wait,0.2
+
+//エフェクト削除
+prefabdeleteall,effectall_1_1,CONT,0
+
+asyncdotcamerazoom,1,0.25,LinearTarget,CONT
+dotcameramove,-3,0,LinearTarget,0.25,OnlyX
+dotmove,chara_10,0,10,0,-2,LinearTarget
+asyncobjectmotion,chara_10,C_Appearance,1,1,C_Walk,1,cont,0
+
+// 怯える
+asyncobjectmotion,chara_1,N_scared,0,1,,1,CONT,0
+asyncobjectmotion,chara_2,N_scared,0,1,,1,CONT,0
+asyncobjectmotion,chara_3,N_scared,0,1,,1,CONT,0
+asyncobjectmotion,chara_4,N_scared,0,1,,1,CONT,0
+asyncWait
+
+dotmessage,ベリサ,<size=24>Wha，wha wha wha!<br>The dangerous thing showed up!...,,mcv_1001010902_005_01,normal,mid,UNIQUE01,chara_3,righttop,normal
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//エフェクト削除
+asyncdotprefabdelete,uieffect_5,CONT,0
+asyncdotprefabdelete,uieffect_6,CONT,0
+asyncdotprefabdelete,uieffect_7,CONT,0
+asyncdotprefabdelete,uieffect_11,CONT,0
+asyncdotprefabdelete,uieffect_12,CONT,0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+asyncobjectmotion,chara_1,N_talk,2,1,,1,cont,0
+asyncobjectmotion,chara_1,N_Pointing,1,1.0,None,1.0,CONT,1
+
+dotmessage,<user>,<size=24>Everyone，keep quiet!<br>Get behind those rocks for now!,,,normal,mid,HAPPY,chara_1,top,normal
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT
+
+// ボスIN
+asyncdotmove,chara_10,2,4,0,-2,LinearTarget,CONT,0
+
+// 砂嵐(弱)
+asyncprefabhideall,effectall_2_1,CONT,0
+asyncprefabshowAll,effectall_1_2,SandStorm/Prefabs/Eff_SandStormWeak000,on,CONT,1
+
+setval,tempdelay2,0
+
+asyncdotcameramove,1.5,0,LinearTarget,1,OnlyX,CONT,tempdelay2
+// 岩陰に隠れる
+asyncobjectmotion,chara_1,C_Walk,0,2,,1,CONT,tempdelay2
+asyncobjectmotion,chara_2,C_Walk,0,2,,1,CONT,tempdelay2
+asyncobjectmotion,chara_3,C_Walk,0,2,,1,CONT,tempdelay2
+asyncobjectmotion,chara_4,C_Walk,0,2,,1,CONT,tempdelay2
+asyncdotmove,chara_1,0.75,-1.4,0,0.58,LinearTarget,CONT,tempdelay2
+asyncdotmove,chara_2,0.75,-2.7,0,-1.64,LinearTarget,CONT,tempdelay2
+asyncdotmove,chara_3,0.75,-2.3,0,-0.92,LinearTarget,CONT,tempdelay2
+asyncdotmove,chara_4,0.75,-0.9,0,1.38,LinearTarget,CONT,tempdelay2
+asyncobjectmotion,chara_1,N_squat,1,2,None,1,CONT,0.75+tempdelay2
+asyncobjectmotion,chara_2,N_squat,1,2,None,1,CONT,0.75+tempdelay2
+asyncobjectmotion,chara_3,N_squat,1,2,None,1,CONT,0.75+tempdelay2
+asyncobjectmotion,chara_4,N_squat,1,2,None,1,CONT,0.75+tempdelay2
+
+asyncwait
+wait,0.2
+
+//エフェクト削除
+prefabdeleteall,effectall_2_1
+
+setval,tempDelay1,1
+
+// スキルチャージ
+asyncdotprefabshow,uieffect_9,CONT,0
+asyncdotprefabshow,uieffect_10,CONT,0
+asyncseplayIngame,se_AssaultSkillCharge001,ene_2027301,ba_skill03_2027301_01,0,1.0,CONT,0
+seFade,se_AssaultSkillCharge001,0.6,0
+asyncseplayIngame,se_AssaultSkillCharge002,ene_2027301,ba_skill03_2027301_01,0,1.0,CONT,0.5833333
+objectmotion,chara_10,AssaultSkillCharge,1,1,AssaultSkillCharge_Loop,1
+
+//主人公びっくり
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+asyncseplay,se_emo3,se4800010,0,1,CONT,0.05
+asyncobjectemo,chara_1,Exclamation,CONT,0
+
+//主人公戻る
+asyncobjectmotion,chara_1,N_squat,1,2,None,1,CONT,1.5
+
+
+// 攻撃ヒット
+asyncobjectmotion,chara_10,WallAttack,1,1,C_WeaponWait,1,CONT,0+tempDelay1
+asyncseplayIngame,se_WallAttack001,ene_2027301,ba_obs_2027301_01,0,1.0,CONT,0+tempDelay1
+
+asyncdotprefabshow,uieffect_2,cont,0+tempDelay1
+
+asyncdotcameramove,3.4,0,EaseOutTarget,2,OnlyX,CONT,0.5+tempDelay1
+asyncdotcameramove,1.5,0,EaseOutTarget,0.2,OnlyX,CONT,2.55+tempDelay1
+asyncdotprefabshow,uieffect_3,CONT,2.933333+tempDelay1
+asyncdotprefabshow,uieffect_4,CONT,2.933333+tempDelay1
+asyncseplayIngame,se_WallAttack002,ene_2027301,ba_obs_2027301_02,0,1.0,CONT,2.25+tempDelay1
+
+// 攻撃ヒット（計測：2.933333→4）3.4
+asyncdotarcmove,chara_1,0.2,XY,-2.2,0,0.58,LinearTarget,0.4,0.4,CONT,2.933333+tempDelay1
+asyncdotarcmove,chara_2,0.2,XY,-3.5,0,-1.64,LinearTarget,0.4,0.4,CONT,2.933333+tempDelay1
+asyncdotarcmove,chara_3,0.2,XY,-3.1,0,-0.92,LinearTarget,0.4,0.4,CONT,2.933333+tempDelay1
+asyncdotarcmove,chara_4,0.2,XY,-1.7,0,1.38,LinearTarget,0.4,0.4,CONT,2.933333+tempDelay1
+
+asyncobjectmotion,chara_1,C_Down,1,1,C_DownWait,1,CONT,2.933333+tempDelay1
+asyncobjectmotion,chara_2,C_Down,1,1,C_DownWait,1,CONT,2.933333+tempDelay1
+asyncobjectmotion,chara_3,C_Down,1,1,C_DownWait,1,CONT,2.933333+tempDelay1
+asyncobjectmotion,chara_4,C_Down,1,1,C_DownWait,1,CONT,2.933333+tempDelay1
+asyncWait
+
+// 再度岩に隠れる
+asyncobjectmotion,chara_1,C_Walk,0,2,,1,CONT,1
+asyncobjectmotion,chara_2,C_Walk,0,2,,1,CONT,1
+asyncobjectmotion,chara_3,C_Walk,0,2,,1,CONT,1
+asyncobjectmotion,chara_4,C_Walk,0,2,,1,CONT,1
+asyncdotmove,chara_1,0.3,-1.4,0,0.58,LinearTarget,CONT,1
+asyncdotmove,chara_2,0.3,-2.7,0,-1.64,LinearTarget,CONT,1
+asyncdotmove,chara_3,0.3,-2.3,0,-0.92,LinearTarget,CONT,1
+asyncdotmove,chara_4,0.3,-0.9,0,1.38,LinearTarget,CONT,1
+asyncwait
+asyncobjectmotion,chara_1,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_2,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_3,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_4,N_squat,1,2,None,1,CONT,0
+
+//エフェクト弱に
+asyncprefabhideall,effectall_1_2,CONT,0
+asyncprefabshowAll,effectall_2_2,SandStorm/Prefabs/Eff_SandStormStrong000,on,CONT,0
+
+dotmessage,<user>,<size=24>Kch，<br>it already knows where we are!,,,normal,mid,HAPPY,chara_1,top,normal
+asyncwait
+
+//エフェクト削除
+prefabdeleteall,effectall_1_2
+
+asyncobjectmotion,chara_3,N_scared,0,1,,1,CONT,0
+dotmessage,ベリサ,<size=24>Wh-wh-wh-wh-what do we do!?,,mcv_1001010902_006_01,normal,mid,SAD,chara_3,righttop,normal
+
+objectdirect,chara_1,LEFT
+asyncobjectmotion,chara_1,N_talk,2,1,C_Wait,1,cont,0
+dotmessage,<user>,<size=24>Calm down，Verisa!<br>For now，get outside its<br>attack range——,,,normal,mid,,chara_1,top,normal
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//エフェクト削除
+asyncdotprefabdelete,uieffect_9,CONT,0
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 砂嵐（弱）
+asyncprefabhideall,effectall_2_2,CONT,0
+asyncprefabshowAll,effectall_1_3,SandStorm/Prefabs/Eff_SandStormWeak000,on,CONT,1
+
+// 魔法を使うそぶりのモーション
+bgmstop,bgmtag2_1,0.5
+
+//ソフィアたちも戻す
+asyncobjectmotion,chara_2,C_Wait,0,1,,1,CONT
+asyncobjectmotion,chara_4,C_Wait,0,1,,1,CONT
+
+
+// 探知魔法
+asyncobjectmotion,chara_10,AssaultSkillCharge,1,1,C_WeaponWait02,1,CONT
+asyncobjectdirect,chara_1,RIGHT,CONT
+asyncobjectmotion,chara_3,C_Wait,0,1,,1,CONT
+asyncscreeneffect,BLOOM,on,0.1,0.15,CONT
+//探知魔法SE
+asyncseplay,se_30loop,se4900204,2,0.5,CONT,1
+seplayIngame,se_30,ene_2022201,ba_skill01_2022201_01,0.5,1
+asyncscreeneffect,BLOOM,off,0,0.5,CONT,1.8
+dotprefabshow,uieffect_1
+asyncWait
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//エフェクト削除
+prefabdeleteall,effectall_2_2,CONT,0
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 「！」気付く漫符
+asyncseplay,se_emo4,se4800010,0,1,CONT,0.05
+asyncobjectemo,chara_1,Exclamation,CONT
+asyncobjectemo,chara_2,Exclamation,CONT
+asyncobjectemo,chara_3,Exclamation,CONT
+asyncobjectemo,chara_4,Exclamation,CONT
+asyncWait
+
+// 身構えるモーション
+asyncobjectmotion,chara_1,N_squat,1,1,None,1,CONT
+asyncobjectmotion,chara_2,N_squat,1,1,None,1,CONT
+asyncobjectmotion,chara_3,N_squat,1,1,None,1,CONT
+asyncobjectmotion,chara_4,N_squat,1,1,None,1,CONT
+asyncWait
+
+// 間
+wait,2.5
+
+// 待機状態へ
+asyncobjectmotion,chara_4,C_Wait,0,1,,1,CONT
+asyncWait
+
+//bgmplay,bgmtag2_2,bgm0032,3,1
+asyncseplay,se_emo10,se4800011,0,1,CONT,0.05
+objectemo,chara_4,ExclaQues
+bgmplay,bgmtag2_2,bgm0039,2,1
+dotmessage,マリナ,<size=24>Um，what is it doing...?<br>It's not attacking at all~,,mcv_1001010902_007_01,normal,mid,SAD,chara_4,top,normal
+
+asyncobjectmotion,chara_3,C_Wait,1,1,C_Wait,1,cont,0
+asyncseplay,se_emo5,se4800010,0,1,CONT,0.05
+objectemo,chara_3,Exclamation
+asyncobjectmotion,chara_3,N_talk,2,1,C_Wait,1,cont,0
+dotmessage,ベリサ,<size=24>That's detection magic!,,mcv_1001010902_008_01,normal,mid,SURPRISE,chara_3,righttop,normal
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT
+asyncobjectmotion,chara_2,C_Wait,0,1,,1,CONT
+asyncwait
+wait,0.3
+asyncobjectmotion,chara_3,N_think,1,1,None,1,CONT,0.5
+asyncseplay,se_emo6,se4800009,0,1,CONT,0.55
+asyncobjectemo,chara_3,Question,cont,0.5
+asyncwait
+dotmessage,ベリサ,<size=24>But what is it detecting?<br>If it already knows where we are...,,mcv_1001010902_009_01,normal,mid,SAD,chara_3,righttop,normal
+
+// 厄災モーションとSE止める
+sestop,se_30loop,2
+asyncdotprefabdelete,uieffect_1,CONT
+
+// 厄災を少し前に移動
+asyncdotmove,chara_10,0.5,3,0,-2,LinearTarget,CONT,0
+
+setval,tempdelay3,0.5
+//ベリサも戻す
+asyncobjectmotion,chara_3,C_Wait,0,1,,1,CONT
+//asyncWait
+
+// 主人公たちをびくっとさせる
+asyncseplay,se_emo7,se4800010,0,1,CONT,0.05+tempdelay3
+asyncobjectemo,chara_1,Exclamation,CONT,tempdelay3
+asyncobjectemo,chara_2,Exclamation,CONT,tempdelay3
+asyncobjectemo,chara_3,Exclamation,CONT,tempdelay3
+asyncobjectemo,chara_4,Exclamation,CONT,tempdelay3
+asyncdotshake,chara_1,0.2,0.08,0.2,4,on,0,off,CONT,tempdelay3
+asyncdotshake,chara_2,0.2,0.08,0.2,4,on,0,off,CONT,tempdelay3
+asyncdotshake,chara_3,0.2,0.08,0.2,4,on,0,off,CONT,tempdelay3
+asyncdotshake,chara_4,0.2,0.08,0.2,4,on,0,off,CONT,tempdelay3
+asyncWait
+
+asyncobjectmotion,chara_1,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_2,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_3,N_squat,1,2,None,1,CONT,0
+asyncobjectmotion,chara_4,N_squat,1,2,None,1,CONT,0
+
+// 厄災街へ
+asyncobjectmotion,chara_10,Skill001,0,1,,1,CONT
+asyncdotmove,chara_10,1,3,0.4,-2,EaseOutTarget,CONT,0
+asyncdotmove,chara_10,2,3,0.1,-2,EaseInTarget,CONT,1
+
+asyncseplayIngame,se_31,cha_105601000,ba_skill_105601000_02,0,1.0,CONT,3
+asyncdotmove,chara_10,2,3,10,-2,EaseOutTarget,CONT,3
+
+//上を見上げる
+asyncobjectmotion,chara_1,N_lookup,1,0.5,None,1,CONT,3
+asyncobjectmotion,chara_2,N_lookup,1,0.5,None,1,CONT,3
+asyncobjectmotion,chara_3,N_lookup,1,0.5,None,1,CONT,3
+asyncobjectmotion,chara_4,N_lookup,1,0.5,None,1,CONT,3
+
+asyncWait
+
+bgmstop,bgmtag2_2,1
+
+// 砂嵐エフェクトとSEを止める
+sefade,seloop_1,0.5,0.5
+prefabhideall,effectall_1_3
+
+wait,2
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//エフェクト削除
+prefabdeleteall,effectall_1_3
+
+asyncdotprefabdelete,uieffect_2,CONT,0
+asyncdotprefabdelete,uieffect_3,CONT,0
+asyncdotprefabdelete,uieffect_4,CONT,0
+asyncdotprefabdelete,uieffect_10,CONT,0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// カメラを戻す
+asyncdotcameramove,-1.5,0,LinearTarget,2,OnlyX,CONT,0
+dotmessage,ベリサ,<size=24>Oh...<br>It flew away...,,mcv_1001010902_010_01,normal,mid,SURPRISE,chara_3,righttop,normal
+
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT
+asyncobjectmotion,chara_2,C_Wait,0,1,,1,CONT
+asyncobjectmotion,chara_3,C_Wait,0,1,,1,CONT
+asyncobjectmotion,chara_4,C_Wait,0,1,,1,CONT
+asyncWait
+dotmessage,ソフィア,<size=24>Did it run away?,,mcv_1001010902_011_01,normal,mid,NORMAL,chara_2,bottom,normal
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//エフェクト削除
+objectDelete,chara_10
+prefabdeleteall,effectall_1_4,CONT,0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// !
+asyncdotjump,chara_1,0.3,0.3,1,off,CONT
+asyncseplay,se_emo8,se4800010,0,1,CONT,0.05
+objectemo,chara_1,Exclamation
+asyncWait
+objectdirect,chara_4,LEFT
+asyncobjectmotion,chara_1,N_No,1,1.0,C_Wait,1.0,CONT,0
+dotmessage,<user>,<size=24>No，it didn't.,,,normal,mid,HAPPY,chara_1,top,normal
+asyncwait
+wait,0.2
+
+objectdirect,chara_1,LEFT
+dotmessage,<user>,<size=24>Its movement just now—<br>you said it was detection magic，right?,,,normal,mid,HAPPY,chara_1,top,normal
+
+// 頷く
+objectmotion,chara_3,N_Yes,1,1,C_Wait,1
+wait,0.3
+asyncobjectmotion,chara_1,N_embarrassing,1,1.0,None,1.0,CONT,0
+dotmessage,<user>,<size=24>If it detected something<br>and flew in that direction...,,,normal,mid,HAPPY,chara_1,top,normal
+
+// 砂嵐のSE止める
+sestop,seloop_1,0
+
+// 背景切り替え演出
+// TODO：ちゃんとフラッシュバックするSEほしい
+//screeneffect,MONOTONE,on
+asyncscreeneffect,MONOTONE,on,1,0.7,CONT,0
+linework,on,Black,Strong
+asyncseplay,se_2,se4700092,1,0.3,CONT
+asyncsubimageFade,SubImageTag1,0,1,0.7,CONT
+asyncscale,SUBIMAGE,SubImageTag1,0.7,1.5,1.5,LinearTarget,CONT
+//asyncdotprefabdelete,uieffect_1,CONT,0.4
+asyncwait,SubImageTag1
+seplay,se_3,se4700092,1,1
+asyncsubimageFade,SubImageTag2,0,1,0.7,CONT
+asyncscale,SUBIMAGE,SubImageTag2,0.7,1.5,1.5,LinearTarget,CONT
+asyncwait,SubImageTag2
+seplay,se_4,se4700092,1,1
+asyncsubimageFade,SubImageTag3,0,1,0.7,CONT
+asyncscale,SUBIMAGE,SubImageTag3,0.7,1.5,1.5,LinearTarget,CONT
+asyncwait,SubImageTag3
+seplay,se_5,se4700092,1,1
+asyncsubimageFade,SubImageTag4,0,1,0.7,CONT
+asyncscale,SUBIMAGE,SubImageTag4,0.7,1.5,1.5,LinearTarget,CONT
+asyncwait,SubImageTag4
+sestop,se_2,0
+sestop,se_3,0
+sestop,se_4,0
+sestop,se_5,0
+asyncsubimageFade,SubImageTag1,0,0,0,CONT
+asyncsubimageFade,SubImageTag2,0,0,0,CONT
+asyncsubimageFade,SubImageTag3,0,0,0,CONT
+asyncsubimageFade,SubImageTag4,1,0,0.7,CONT
+asyncscreeneffect,MONOTONE,off,1,0.7,CONT,0.2
+asyncwait,SubImageTag4
+wait,0.8
+linework,off,Black,Strong
+
+dotmessage,<user>,<size=24>Its target is——————,,,normal,mid,HAPPY,chara_1,top,normal
+
+// 注目
+//asyncdotcameramove,1.3,0,LinearTarget,0.15,OnlyY,CONT
+bgmplay,bgmtag2_3,bgm0028,0,1
+dotcamerazoom,1.3,0.15,LinearTarget
+linework,on,Black,Middle
+asyncobjectmotion,chara_1,N_talk,2,1,C_Wait,1,cont,0
+dotmessage,<user>,<size=24>The frontline base!!,,,normal,mid,HAPPY,chara_1,top,normal
+linework,off,Black,Middle
+asyncobjectemo,chara_2,Exclamation,CONT
+asyncobjectemo,chara_3,Exclamation,CONT
+asyncobjectemo,chara_4,Exclamation,CONT
+asyncWait
+
+asyncobjectmotion,chara_1,C_Walk,1,2,,1,CONT
+asyncdotmove,chara_1,0.25,-1.9,0,0.58,LinearTarget,CONT
+asyncobjectmotion,chara_1,N_talk,2,1,C_Wait,1,cont,0.25
+asyncwait
+dotmessage,<user>,<size=24>Everyone，we're heading back immediately!<br>We need to intercept it before it gets there!,,,normal,mid,HAPPY,chara_1,top,normal
+
+// 下手に向かう
+objectdirect,chara_1,LEFT
+objectdirect,chara_2,LEFT
+objectdirect,chara_3,LEFT
+objectdirect,chara_4,LEFT
+
+asyncdotcamerazoom,1,3,LinearTarget,CONT
+asyncdotcameramove,0,0,LinearTarget,3,OnlyY,CONT
+asyncdotcameramove,-3,0,LinearTarget,3,OnlyX,CONT
+asyncobjectmotion,chara_1,C_Walk,0,2,,2,CONT
+asyncobjectmotion,chara_2,C_Walk,0,2,,2,CONT
+asyncobjectmotion,chara_3,C_Walk,0,2,,2,CONT
+asyncobjectmotion,chara_4,C_Walk,0,2,,2,CONT
+asyncdotmove,chara_1,2,-12.5,0,0.58,LinearTarget,CONT
+asyncdotmove,chara_2,2,-12.9,0,-1.64,LinearTarget,CONT
+asyncdotmove,chara_3,2,-12,0,-0.92,LinearTarget,CONT
+asyncdotmove,chara_4,2,-12.3,0,1.38,LinearTarget,CONT
+asyncWait
+
+// 一応フェード中も走る
+asyncdotmove,chara_1,0.5,-15.9,0,0.88,LinearTarget,CONT
+asyncdotmove,chara_2,0.5,-15.9,0,0.88,LinearTarget,CONT
+asyncdotmove,chara_3,0.5,-15,0,0.88,LinearTarget,CONT
+asyncdotmove,chara_4,0.5,-15.3,0,0.88,LinearTarget,CONT
+
+bgmstop,bgmtag2_3,1
+fade,Out,Black,1
+wait,1
+
+cleanall,ALL

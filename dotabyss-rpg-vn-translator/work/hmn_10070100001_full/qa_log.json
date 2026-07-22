@@ -1,0 +1,35 @@
+{
+  "scene": "hmn_10070100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "summary": {
+    "source_line_count": 1496,
+    "output_line_count": 1496,
+    "text_records": 103,
+    "translated_records": 103,
+    "changed_text_records": 103
+  },
+  "checks": {
+    "delimiter_counts": "PASS",
+    "field_counts": "PASS",
+    "tags_placeholders": "PASS",
+    "bom_newline_preserved": "PASS"
+  },
+  "addressing": {
+    "Commander": "Chỉ Huy",
+    "Film_to_Commander": "em/anh and playful chị/Chỉ Huy where source uses お姉さん/司令官くん",
+    "Commander_to_Film": "tôi/cô in early distance with direct protection phrasing retained"
+  },
+  "unresolved": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 103,
+  "translated_records": 103,
+  "changed_lines": 103,
+  "source_line_count": 1496,
+  "output_line_count": 1496,
+  "source_sha256": "82aecb5f0e5cbe8a5e14c8790014391ead0a97b71ea328775eef37393e415f87",
+  "output_sha256": "a7bc84d40bfe4f2fa93e6f2d12473cdaf3437e6c75b282262a04d1165c2b9222"
+}

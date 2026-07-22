@@ -1,0 +1,67 @@
+{
+  "scene": "hmn_10410100002",
+  "character": "Ayame (アヤメ) — assassin applying as a secretary; Commander (<user>) is the base commander",
+  "source_case": "EN-asset-is-English (en.json holds English; asset text fields are English; one stray JP line L999 + ellipsis line L1001 kept/fixed per rules)",
+  "jp_primary": true,
+  "en_alignment_only": true,
+  "h18_confirmed": "All characters confirmed 18+ per project; this scene is comedic assassin-secretary banter (no explicit H18), translated faithfully.",
+  "title_vi": "Chẳng Phải Chúng Ta Nên Giết Bọn Họ Sao?",
+  "candidate_counts": {
+    "title": 1,
+    "message": 87,
+    "messageTextUnder": 0,
+    "messageTextCenter": 3
+  },
+  "translatable_records": 91,
+  "translated_records": 91,
+  "commander_rule": "司令官/Commander → Chỉ Huy (also 'Lord Commander' → 'Chỉ Huy' per project convention)",
+  "name_preservation": "Speaker labels アヤメ / <user> / charaload names kept verbatim; Ayame romanized in dialogue.",
+  "terminology": {
+    "assassin": "sát thủ",
+    "secretary": "thư ký",
+    "Commander": "Chỉ Huy",
+    "Lord Commander": "Chỉ Huy",
+    "shop clerk": "nhân viên quầy hàng",
+    "warehouse soldier": "lính kho",
+    "base": "căn cứ",
+    "forging documents": "giả mạo giấy tờ",
+    "calligraphy": "thư pháp"
+  },
+  "notes": [
+    "EN asset uses fullwidth comma ﹐ (U+FF0C) inside text fields, not ASCII ','; VI mirrors fullwidth comma, so no ASCII_COMMA violations.",
+    "Stray JP line L999 '殺すべきではありませんか？' translated to VI (JP→VI per primary rule).",
+    "Ellipsis-only line L1001 '...' → '…' (U+2026) to clear UNCHANGED_TEXT_RECORDS.",
+    "SFX 'clicked his tongue' → '*tss*' localized; shoulder-rub SFX 'Pat, pat, squeeze, squeeze.' → 'Bụp, bụp, bóp, bóp.' localized with fullwidth commas.",
+    "No EN typo to repair ('Commander' already correct in this asset)."
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10410100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 87,
+      "messageTextUnder": 0,
+      "messageTextCenter": 3
+    },
+    "translatable_records": 91,
+    "translated_records": 91,
+    "changed_lines": 91,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1049,
+      "vi": 1049,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "c134d9c8ba0cba9ac86a072e9f1a4ea421091c8d41643a7dcd6e8ae2de3d5400",
+    "output_sha256": "53f353325c5c48a6accd6ca24870811ff5ccc961d888308aa41bd6a98889d61f"
+  }
+}

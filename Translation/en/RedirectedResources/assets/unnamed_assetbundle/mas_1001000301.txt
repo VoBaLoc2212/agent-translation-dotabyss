@@ -1,0 +1,238 @@
+﻿
+balloonload
+fade,Out,Black,0
+//initend
+
+dotbgload,bg_1,8000,01001
+bg,abg18200a
+
+objectload,Reyzeria,CHARA,300601000,レイゼリア
+objectload,Felicione,CHARA,300701000,フェリシオーネ
+objectload,Aura,CHARA,300801000,アウラ
+
+dotmove,Reyzeria,0,0,0.75,0,LinearTarget,Set
+dotmove,Felicione,0,0,0.75,0,LinearTarget,Set
+dotmove,Aura,0,0,0.75,0,LinearTarget,Set
+
+//カメラ設定
+asyncdotcamerazoom,1.15,0,LinearTarget,CONT,0
+asyncdotcameramove,0,0,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+bgmplay,bgmtag0_1,bgm0041,0,1
+
+uivisible,on
+
+asyncdotbgcolor,0,0,0,0,0,CONT,0
+
+messageTextCenter,,<size=48>――Perdion Empire，Round Table Chamber</size>,,,
+
+fade,In,Black,0.5
+
+objectmotion,Reyzeria,C_WeaponWait,0,0,,1
+objectshow,Reyzeria,0.5
+objectmotion,Reyzeria,C_WeaponSkillCharge,1,1,,1
+messageTextCenter,,<br><size=48>Milesgard Kingdom Representative: Reyzeria</size>,,,
+asyncobjecthide,Reyzeria,0.5
+asyncwait
+dotmove,Reyzeria,0,0,0,-2,LinearTarget,Set
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+
+objectmotion,Felicione,C_WeaponWait,0,0.5,,1
+objectshow,Felicione,0.5
+objectmotion,Felicione,C_WeaponSkillCharge,1,1,,1
+messageTextCenter,,<br><size=48>Perdion Empire Representative: Felicione</size>,,,
+asyncobjecthide,Felicione,0.5
+asyncwait
+objectdirect,Felicione,LEFT
+dotmove,Felicione,0,1.4,0,1.7,LinearTarget,Set
+objectmotion,Felicione,N_think,1,1,,1
+
+objectmotion,Aura,C_WeaponWait,0,0.5,,1
+objectshow,Aura,0.5
+objectmotion,Aura,C_WeaponSkillCharge,1,1,,1
+messageTextCenter,,<br><size=48>Eldorana Republic Representative: Aura</size>,,,
+asyncobjecthide,Aura,0.5
+asyncwait
+dotmove,Aura,0,-1.4,0,1.7,LinearTarget,Set
+objectmotion,Aura,C_Wait,0,1,,1
+
+
+//フェードアウト
+fade,Out,Black,0.5
+
+messageTextCenter,,<size=48>The representatives of Treslia's Three Nations<br>gathered，and talks were underway regarding the frontline base——</size>,,,
+
+
+dotbgshow,bg_1,0
+objectshow,Reyzeria,0
+objectshow,Aura,0
+objectshow,Felicione,0
+
+//会議室の扉
+dotassetload,RoundTableDoor,RoundTableDoor
+dotassetload,RoundTableDoor2,RoundTableDoor
+
+//会議室の扉 配置調整
+dotassetshow,RoundTableDoor,-4.651,0,-2.514,0,0,0,Cont,5
+dotassetshow,RoundTableDoor2,4.65,0,2.514,0,-180,0,Cont,5
+
+dotcameralensmove,-0.1,Set,0
+
+asyncdotbgcolor,255,255,255,255,0,CONT,0
+asyncwait
+fade,In,Black,0.5
+
+
+dotmessage,フェリシオーネ,<size=24>It seems Alicia's persuasion<br>worked...,,mcv_1001000301_001_01,NORMAL,Mid,FUN,Felicione,TOP,NORMAL,0,0
+objectmotion,Felicione,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,LEFT
+
+//エモ　笑
+asyncseplay,se4800004_2,se4800004,0,1,CONT,0
+objectemo,Aura,Laugh
+dotmessage,アウラ,<size=24>Well，well.<br>Not bad at all，that girl.,,mcv_1001000301_002_01,NORMAL,Mid,FUN,Aura,TOP,NORMAL,0,0
+objectmotion,Aura,C_Wait,0,1,,1
+
+objectmotion,Reyzeria,N_Yes,1,1,,1
+dotmessage,レイゼリア,<size=24>Lady Alicia is neutral.<br>She was the ideal negotiator.,,mcv_1001000301_003_01,NORMAL,Mid,FUN,Reyzeria,TOP,NORMAL,0,0
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+//エモ　モヤモヤ
+asyncseplay,se4800006_,se4800006,0,1,CONT,0
+asyncobjectmotion,Reyzeria,U_thinkU01,0,1,,1,CONT,0
+objectemo,Reyzeria,Trouble
+dotmessage,レイゼリア,<size=24>Even if we had gone to negotiate directly，<br>that man would have refused us.,,mcv_1001000301_004_01,NORMAL,Mid,NORMAL,Reyzeria,TOP,NORMAL,0,0
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,RIGHT
+objectmotion,Felicione,N_think,1,1,,1
+dotmessage,フェリシオーネ,<size=24>A descendant of the 'Hero'，<br>and a cunning master of strategy...,,mcv_1001000301_005_01,NORMAL,Mid,NORMAL,Felicione,TOP,NORMAL,0,0
+objectmotion,Felicione,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,LEFT
+objectmotion,Aura,N_No,1,1,,1
+dotmessage,アウラ,<size=24>The upper echelons of the Three Nations<br>feared his intellect and banished him to the frontier.,,mcv_1001000301_006_01,NORMAL,Mid,EYECLOSE,Aura,TOP,NORMAL,0,0
+objectmotion,Aura,C_Wait,0,1,,1
+
+//エモ　モヤモヤ
+asyncseplay,se4800006_2,se4800006,0,1,CONT,0
+objectemo,Aura,Trouble
+dotmessage,アウラ,<size=24>Well，<br>it's only natural for him to resent us~,,mcv_1001000301_007_01,NORMAL,Mid,FUN,Aura,TOP,NORMAL,0,0
+objectmotion,Aura,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,RIGHT
+objectmotion,Felicione,N_No,1,1,,1
+dotmessage,フェリシオーネ,<size=24>And yet，we find ourselves relying once again<br>on the 'dangerous element' we cast aside...,,mcv_1001000301_008_01,NORMAL,Mid,SAD,Felicione,TOP,NORMAL,0,0
+objectmotion,Felicione,C_Wait,0,1,,1
+
+asyncobjectmotion,Reyzeria,U_thinkU02,0,1,,1,CONT,0
+dotmessage,レイゼリア,<size=24>I believe there is no one else<br>suited to face the threat of the Abyss.,,mcv_1001000301_009_01,NORMAL,Mid,EYECLOSE,Reyzeria,TOP,NORMAL,0,0
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,LEFT
+objectmotion,Aura,N_No,1,1,,1
+dotmessage,アウラ,<size=24>But if the frontline base functions properly，<br>the Abyss becomes more than just a threat.,,mcv_1001000301_010_01,NORMAL,Mid,NORMAL,Aura,TOP,NORMAL,0,0
+
+//エモ　♪
+asyncseplay,se4800013_,se4800013,0,1,CONT,0
+objectmotion,Aura,N_bounce,1,1,,1
+objectemo,Aura,Spirits
+dotmessage,アウラ,<size=24>The rare ores and resources lying within—<br>a veritable treasure trove♪,,mcv_1001000301_011_01,NORMAL,Mid,HAPPY,Aura,TOP,NORMAL,0,0
+objectmotion,Aura,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,RIGHT
+objectmotion,Felicione,N_Yes,1,1,,1
+dotmessage,フェリシオーネ,<size=24>I hear illegal mining is on the rise too...<br>We'll need to crack down harder on it.,,mcv_1001000301_012_01,NORMAL,Mid,NORMAL,Felicione,TOP,NORMAL,0,0
+objectmotion,Felicione,C_Wait,0,1,,1
+
+asyncobjectmotion,Reyzeria,U_thinkU03,1,1,,1,CONT,0
+dotmessage,レイゼリア,<size=24>I hear the resources of the Abyss are coveted<br>not only by us，but by the 'Thousand Nations Alliance'.,,mcv_1001000301_013_01,NORMAL,Mid,NORMAL,Reyzeria,TOP,NORMAL,0,0
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,LEFT
+//エモ　ぷんすか
+asyncseplay,se4800016_,se4800016,0,1,CONT,0
+objectmotion,Aura,N_bounce,1,1,,1
+objectemo,Aura,BePeevish
+dotmessage,アウラ,<size=24>The Thousand Nations Alliance~...<br>A rabble of small countries acting so brazenly!,,mcv_1001000301_014_01,NORMAL,Mid,ANGER,Aura,TOP,NORMAL,0,0
+objectmotion,Aura,C_Wait,0,1,,1
+
+objectdirect,Reyzeria,RIGHT
+
+objectmotion,Felicione,N_Yes,1,1,,1
+dotmessage,フェリシオーネ,<size=24>The problem is the countless monsters<br>inhabiting the Abyss... and...,,mcv_1001000301_015_01,NORMAL,Mid,EYECLOSE,Felicione,TOP,NORMAL,0,0
+
+objectmotion,Felicione,C_Wait,0,1,,1
+dotmessage,フェリシオーネ,<size=24>The massive creatures that emerge from the Abyss...<br>the 'Calamities'...,,mcv_1001000301_016_01,NORMAL,Mid,NORMAL,Felicione,TOP,NORMAL,0,0
+objectmotion,Felicione,C_Wait,0,1,,1
+
+//移動＋歩きモーション
+objectdirect,Reyzeria,LEFT
+asyncobjectmotion,Reyzeria,U_thinkWalk,0,1,NONE,1,CONT,0
+asyncdotmove,Reyzeria,1,-0.5,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Reyzeria,U_thinkU02,0,1,,1,CONT,0
+
+dotmessage,レイゼリア,<size=24>In the previous battle，<br>each nation lost nearly half its forces...,,mcv_1001000301_017_01,NORMAL,Mid,SAD,Reyzeria,TOP,NORMAL,0,0
+
+//向きを変える
+objectdirect,Reyzeria,RIGHT
+
+
+//移動＋歩きモーション
+asyncobjectmotion,Reyzeria,U_thinkWalk,0,1,NONE,1,CONT,0
+asyncdotmove,Reyzeria,1,0.5,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Reyzeria,C_Wait,0,1,,1,CONT,0
+
+objectmotion,Reyzeria,N_bounce,1,1,,1
+dotmessage,レイゼリア,<size=24>Strengthening the base and our forces is urgent!<br>We don't have much time left!,,mcv_1001000301_018_01,NORMAL,Mid,ANGER,Reyzeria,TOP,NORMAL,0,0
+objectmotion,Reyzeria,C_Wait,0,1,,1
+
+asyncobjectmotion,Felicione,N_Yes,1,1,,0.1
+dotmessage,フェリシオーネ,<size=24>For now，we have no choice but to bet<br>everything on that man's resourcefulness...,,mcv_1001000301_019_01,NORMAL,Mid,EYECLOSE,Felicione,TOP,NORMAL,0,0
+
+objectdirect,Reyzeria,LEFT
+//エモ　♪
+asyncseplay,se4800013_5,se4800013,0,1,CONT,0
+asyncobjectmotion,Aura,N_Yes,1,1,,0
+objectemo,Aura,Spirits
+dotmessage,アウラ,<size=24>Let's see what the bloodline of<br>a hero is truly worth♪,,mcv_1001000301_020_01,NORMAL,Mid,FUN,Aura,TOP,NORMAL,0,0
+
+asyncobjectmotion,Reyzeria,N_Yes,1,1,,0.2
+dotmessage,レイゼリア,<size=24>Indeed. For now，the 'Blood of the Hero'<br>is our only 'hope'...,,mcv_1001000301_021_01,NORMAL,Mid,NORMAL,Reyzeria,TOP,NORMAL,0,0
+
+asyncobjectmotion,Aura,N_Yes,1,1,,0
+asyncobjectmotion,Felicione,N_Yes,1,1,,0.1
+asyncwait
+
+asyncdotcameralensmove,-0.65,LinearTarget,4,CONT,0
+asyncdotcamerazoom,1.3,4,LinearTarget,CONT,0
+
+
+
+
+//待ち
+wait,5
+
+//スキップ処理 基本的には不要
+labeljump,p
+:SkipPoint
+uivisible,off
+cleanskip
+:p
+
+bgmstop,bgmtag0_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+
+//カメラ設定
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,0,0,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+cleanall,ALL
+

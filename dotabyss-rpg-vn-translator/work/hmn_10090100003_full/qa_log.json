@@ -1,0 +1,62 @@
+{
+  "scene": "hmn_10090100003",
+  "status": "PASS",
+  "adult_content": {
+    "present": false,
+    "all_characters_confirmed_18_plus_by_user_context": true
+  },
+  "structural_qa": {
+    "line_count_preserved": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_preserved": true,
+    "field_counts_preserved": true,
+    "tags_preserved": true,
+    "placeholders_preserved": true,
+    "text_command_counts": {
+      "title": 1,
+      "message": 88,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translated_records": 90
+  },
+  "translation_qa": {
+    "source_priority": "JP primary; EN asset/novel used for alignment",
+    "title_case": true,
+    "commander_rule": "Commander/司令官 -> Chỉ Huy; no Commander term appeared in this scene text fields",
+    "speaker_names_preserved": true,
+    "ascii_commas_in_vi_text": false,
+    "unmatched": [],
+    "ambiguous": [],
+    "unresolved": []
+  },
+  "issues": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 88,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 90,
+  "translated_records": 90,
+  "changed_lines": 90,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1990,
+    "vi": 1990,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "1cab2fd547f44fa604e33fee8ffb57829a86bd9db7c57248b295fbf31d4a77da",
+  "output_sha256": "226c0adec48bed7b51877813db554244bfbefab724cc31538fa6b0eee8f858ef",
+  "qa_status": "PASS"
+}

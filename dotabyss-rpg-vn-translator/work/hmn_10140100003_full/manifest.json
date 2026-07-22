@@ -1,0 +1,74 @@
+{
+  "scene": "hmn_10140100003",
+  "status": "PASS",
+  "source_paths": {
+    "asset_en": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10140100003.txt",
+    "novel_ja": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10140100003\\ja.json",
+    "novel_en": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10140100003\\en.json"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10140100003.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100003_full",
+  "encoding": "utf-8-sig",
+  "newline": "CRLF",
+  "source_sha256": "88a8ba88c6a1ac8461ef56adafe9114f4d024016604aa7d4d3211340aada5ef4",
+  "output_sha256": "2584046a03f5d1b92719fbe4d7f2cd63ea4027bd22a3ddb7a4b6e79526cbbe9e",
+  "line_count": 1372,
+  "text_record_count": 104,
+  "text_command_counts": {
+    "title": 1,
+    "message": 103
+  },
+  "mapping_summary": {
+    "TRANSLATED": 104,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0,
+    "REVIEW": 0
+  },
+  "qa_status": "PASS",
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_match": true,
+    "text_record_count": 104,
+    "command_counts": {
+      "title": 1,
+      "message": 103
+    }
+  },
+  "errors": [],
+  "notes": [
+    "JP novel used as primary source; EN asset used for alignment and authoritative technical structure.",
+    "Speaker names and charaload asset names preserved as source.",
+    "Pico localized with casual gamer tone; Commander/司令官 rendered as Chỉ Huy in Vietnamese text."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10140100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 103,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 104,
+    "translated_records": 104,
+    "changed_lines": 104,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1372,
+      "vi": 1372,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "88a8ba88c6a1ac8461ef56adafe9114f4d024016604aa7d4d3211340aada5ef4",
+    "output_sha256": "2584046a03f5d1b92719fbe4d7f2cd63ea4027bd22a3ddb7a4b6e79526cbbe9e"
+  }
+}

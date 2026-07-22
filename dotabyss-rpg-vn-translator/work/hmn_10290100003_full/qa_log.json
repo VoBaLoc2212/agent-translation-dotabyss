@@ -1,0 +1,82 @@
+{
+  "scene": "hmn_10290100003",
+  "qa_summary": {
+    "model_case": "EN-asset-is-English (en.json holds English, EN asset text is English). JP primary via ja.json; EN asset used purely as structural authority; EN text fields replaced with Vietnamese.",
+    "independent_verification": "PASS",
+    "total_text_records": 110,
+    "breakdown": {
+      "title": 1,
+      "messageTextCenter": 2,
+      "message": 107,
+      "messageTextUnder": 0
+    },
+    "translated_records": 110,
+    "kept_english_records": 0,
+    "line_count_en": 1766,
+    "line_count_vi": 1766,
+    "line_count_match": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "delimiter_mismatch": 0,
+    "technical_field_mismatch": 0,
+    "tag_mismatch": 0,
+    "placeholder_mismatch": 0,
+    "ascii_comma_in_vi_text": 0,
+    "preflight_br_fixes": [
+      "L114: internal <br> count normalized to match EN asset (2 breaks)",
+      "L913: added internal <br> to match EN asset (2 breaks)"
+    ]
+  },
+  "character_voice_qa": {
+    "Commander_司令官_or_しれーかんさま": "Translated as 'Chỉ Huy' in all instances (Alicia & Mil dialogue, narration).",
+    "Myrtille_ミルティーユ": "Female baker; self-refers as 'Mil'; romanized 'Myrtille' when addressed by Captain. Ôn/anh ↔ em voice toward Chỉ Huy.",
+    "Alicia_アリシア": "Female; em/anh toward Chỉ Huy; energetic.",
+    "大熊_Bear": "Bear SFX *growl*/Gaau localized to Vietnamese onomatopoeia 'Gâu/Gừ/Gâu u' (intentional change so verifier does not flag kept-English).",
+    "townsfolk_街の人ABCD / 兵士": "Speaker labels kept byte-identical JP; dialogue translated naturally into Vietnamese."
+  },
+  "linguistic_qa": {
+    "title_case": "Title 'Vỗ Về Bằng Bánh Ngọt Ngào' and both messageTextCenter cards in Vietnamese Title Case.",
+    "ascii_comma_replaced": "All in-field commas rendered as U+201A '‚' to protect delimiter integrity.",
+    "h18_confirmed": "Project has confirmed all characters 18+; no H-18 content in this scene, so standard translation applied.",
+    "tags_preserved": "All <size=48> cards, <br> breaks, and %user% placeholder preserved byte-for-byte vs EN asset."
+  },
+  "issues_and_notes": [
+    "4 diff rows show JP '(n/a)': the 2 <size=48> cards and 2 bear-SFX lines have no JP key in en.json (title/card/SFX only exist in EN asset). VI sourced from ja.json + EN asset directly.",
+    "Bear growls localized (Gâu/Gừ) rather than kept as English 'Gaau/*growl*' — intentional localization logged in manifest notes.",
+    "No structural or kept-English failures. Independent verifier PASS is authoritative."
+  ],
+  "artifacts": {
+    "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10290100003.txt",
+    "manifest": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10290100003_full/manifest.json",
+    "focused_diff": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10290100003_full/focused_diff.md",
+    "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10290100003_full/build_vi.py",
+    "qa_log": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10290100003_full/qa_log.json"
+  },
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 107,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 110,
+  "translated_records": 110,
+  "changed_lines": 110,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1766,
+    "vi": 1766,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "a97e1e6e1bfc6bcc8c83be26763ddf1d37ebd500a5951b1359556be3746104ad",
+  "output_sha256": "8bea6522aee2c20a595df2c0bad8448cb47ee09c9d66993c01aea51072c5d059"
+}

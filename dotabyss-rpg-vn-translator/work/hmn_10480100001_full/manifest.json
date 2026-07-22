@@ -1,0 +1,66 @@
+{
+  "scene": "hmn_10480100001",
+  "source": {
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10480100001.txt",
+    "en_sha": "a45a89f55c145f44",
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100001/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100001/en.json"
+  },
+  "detection": "EN-asset-is-English with JP title",
+  "candidate_counts": {
+    "title": 1,
+    "message": 82,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "total_records": 83,
+  "vi_output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10480100001.txt",
+  "vi_sha": "71f1e7e2e834fe14",
+  "bom": true,
+  "crlf": true,
+  "line_count": 1505,
+  "source_line_count": 1505,
+  "unchanged_text_records": 0,
+  "ascii_commas_in_vi": 0,
+  "notes": [
+    "EN-asset-is-English case: EN asset text fields are English, en.json non-empty",
+    "ja.json has 82 entries; EN asset has 83 text records (1 title + 82 message)",
+    "EN[seq=76] duplicate Gwah has no ja.json counterpart; translated same as seq 11",
+    "BR count fixed to match EN asset (9 mismatches corrected: 6 removed, 3 added <br>)",
+    "Title translated JP→VI in Title Case: Chính Mày Là Kẻ Gây Ra Vụ Cướp",
+    "Commander/司令官 → Chỉ Huy",
+    "Speaker labels kept JP (セレスト, 露天商, 強盗犯, 警備隊長, ？？？, <user>)",
+    "<br> suffix preserved for all message lines",
+    "All H18 content translated directly per confirmation (all characters 18+)"
+  ],
+  "independent_verify": {
+    "scene": "hmn_10480100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 82,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 83,
+    "translated_records": 83,
+    "changed_lines": 83,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1505,
+      "vi": 1505,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "a45a89f55c145f448b4ad4dd8a8077ca392f727e672fb56ab8e21ce3e5f4d7fd",
+    "output_sha256": "7673b6a7fbe37f3361fadd07fcd14965b2e339b60bb3a3c3f42949c21724e64d"
+  },
+  "status": "PASS"
+}

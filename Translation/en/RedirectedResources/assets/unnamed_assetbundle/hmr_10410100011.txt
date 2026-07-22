@@ -1,0 +1,118 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+charaload,chara_1,104101000G,アヤメ
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,従順な元殺し屋と
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+window,on,0.15
+message,,A woman appeared in the command room where the Commander was<br>waiting.<br> 
+
+asynccharashow,chara_1,0.3,CONT
+
+asyncseplay,setag1_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,アヤメ,Did you call for me，Commander? Ayame has arrived.<br> ,,vc_10410100011_001_01
+
+message,<user>,Ah，you came. There's something I want to ask you，Ayame.<br> 
+
+asyncseplay,setag1_2,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,3
+message,アヤメ,You wish to ask me something? Please，do. I will tell you anything.<br> ,,vc_10410100011_002_01
+
+message,<user>,Ayame，before you came here，you worked as an assassin，didn't you?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag1_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,アヤメ,Yes，I followed my employer's orders and killed anyone I was told to.<br> ,,vc_10410100011_003_01
+
+message,<user>,...Have you ever taken any jobs other than killing?<br> 
+
+asyncseplay,setag1_4,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,アヤメ,No，I have not... Is there something you wish to request?<br> ,,vc_10410100011_004_01
+
+message,<user>,Ah... I want you to take on a job that brings pleasure instead of pain.<br> 
+
+message,<user>,How about it? Will you accept?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag1_5,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,アヤメ,Yes，if it is your command，Commander，I will gladly accept any<br>request.<br> ,,vc_10410100011_005_01
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

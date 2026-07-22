@@ -1,0 +1,44 @@
+武器=Vũ Khí
+スタンス=Vị Trí
+防具=Giáp
+
+Nation?
+ペルディオン=Perdion
+ミレスガルド=Millesgard
+エルドラーナ=Eldrana
+千国連合=Liên Hiệp Quốc
+ルクスノヴァ=Luxnova
+前線基地=Tiền Đồn
+ルクスノヴァ=Luxnova
+
+国家・組織=Quốc Gia và Tổ Chức
+戦闘=Chiến Đấu
+大穴=Vực Thẳm
+前線基地=Tiền Đồn
+
+Stance
+バック=Hậu Tuyến
+アシスト=Hỗ Trợ
+フロント=Tiền Tuyến
+
+Weapon
+銃=Súng
+杖=Trượng
+魔導書=Sách Ma Thuật
+ピッケル=Cuốc Chim
+片手剣=Kiếm Một Tay
+大剣=Trọng Kiếm
+拳=Nắm Đấm
+弓=Cung
+
+Armor
+作業着=Đồ Lao Động
+鎧=Giáp
+マント=Áo Choàng
+
+Attribute
+水属性=Thuộc Tính Thủy
+火属性=Thuộc Tính Hỏa
+無属性=Thuộc Tính Vô
+
+両手剣=<line-height\=60%>Kiếm 2 tay</line-height>

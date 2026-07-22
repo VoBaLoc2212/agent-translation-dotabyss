@@ -1,0 +1,34 @@
+{
+  "scene": "hmn_10500100002",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 101,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 102,
+  "translated_records": 101,
+  "changed_lines": 101,
+  "kept_text_lines": [
+    181
+  ],
+  "line_count": {
+    "en": 1870,
+    "vi": 1870,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 10,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "93ef7ebab7c3ec53e5b997dcd20a3ae4dce1e8d400f55d41d9feff5bc2440c87",
+  "output_sha256": "3f272cbdc928101451e97abf2dc2aa9f389c57d1da7f6071e2802fb6be91555b",
+  "qa_status": "PASS",
+  "source_line_count": 1870,
+  "output_line_count": 1870
+}

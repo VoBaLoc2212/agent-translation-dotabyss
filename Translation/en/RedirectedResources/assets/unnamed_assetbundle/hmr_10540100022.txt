@@ -1,0 +1,592 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10540100022
+
+charaload,chara_1,105401000X,フレイヤ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10540100022_001_01,1,on
+
+
+
+
+
+
+
+
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,1.2
+
+asyncl2dmotion,MouthEmotion00,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,6.1
+
+window,on,0.15
+message,フレイヤ,(U-uwah... this position... just as I thought，it's embarrassing...)<br> ,,vc_10540100022_001_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,Freya tried the extreme position from the porn magazine—with their<br>genitals so close，the embarrassment was even greater than expected.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,Blush00
+
+message,,Freya's body instantly grew hot as if on fire.<br> 
+
+l2dmotion,MouthEmotion06
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6.2
+
+l2dmessage,フレイヤ,Um... how about we... uh... lick each other... like this?<br> ,,vc_10540100022_002_01
+
+message,,Freya had proposed the act she learned from the porn magazine，but<br>after saying it herself，she realized just how extreme it was.<br> 
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,7
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+message,フレイヤ,(Come to think of it，this is my first time licking a thing... I wonder<br>what it tastes like?)<br> ,,vc_10540100022_003_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Before her eyes was an erect penis. It was the first time she had seen<br>a man's penis at such close range.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10540100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+message,フレイヤ,Mmph! *slurp*! *kiss*! mmm *pant*! *slurrp*!<br> ,,vc_10540100022_004_01
+
+message,,Freya's tongue tip darted around the tip of his penis. She used her<br>tongue as if she were licking ice cream.<br> 
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+message,フレイヤ,*slurp*!... *pant*!... *kiss*!，*slurp*! Mmph!... *pant*... *kiss*!...<br>*slurrrp*!<br> ,,vc_10540100022_005_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1
+
+message,,Her tongue，soaked with saliva，crawled over the head of his penis<br>like a living thing. The man，unable to bear it，let out a sigh.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.1
+
+message,フレイヤ,(Some kind of clear liquid is coming out of the tip... mmm... what is it?<br>It's kind of fishy... a strange taste...)<br> ,,vc_10540100022_006_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Freya carefully wrapped her hand around his penis and kept licking.<br>Her technique was copied from what she'd seen，but the man seemed to enjoy it.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5.5
+
+message,フレイヤ,(Is it pleasant to have your thing licked like this? For men...)<br> ,,vc_10540100022_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,She remembered touching herself. Even as a woman，just touching her<br>genitals felt good，so a soft tongue would feel even better.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10540100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+wait,2
+
+message,フレイヤ,*gasp!*<br> ,,vc_10540100022_008_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,Without warning，the man ran his tongue over her entrance. Startled，<br>she stopped licking him.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.1
+
+l2dmessage,フレイヤ,S-sorry... you surprised me...<br> ,,vc_10540100022_009_01
+
+message,,—Sorry，I startled you. The customer also apologized in a fluster.<br> 
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,A slightly awkward atmosphere settled over them.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,6
+
+l2dmessage,フレイヤ,W-well，actually... I... being licked down there... it's my first time...<br>So that's why I was so surprised just now...<br> ,,vc_10540100022_010_01
+
+
+message,,Freya honestly explained，as if to smooth over the heavy atmosphere.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+l2dmessage,フレイヤ,U-um，please continue. I'll lick too，along with you...<br> ,,vc_10540100022_011_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10540100022_004_01,1,on
+
+
+message,フレイヤ,*pant* mmm... mmm，Mmph!... *slurp*...<br>Mmk... *whimper*... Mmph!<br> ,,vc_10540100022_012_01
+
+message,,As Freya took his tip into her mouth，the man responded by licking<br>her entrance with his tongue.<br> 
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+message,フレイヤ,*kiss*... Mmph!... Mmk... *moan* Mmph!... Mmph!... *slurp*... *slurrrp*...<br>Mmph!... *whimper*... Mmph!<br> ,,vc_10540100022_013_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen03,on,STOP,7.8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.9
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+message,フレイヤ,(Ahh... being licked down there... it feels so good...<br>I never knew it could feel this good...!)<br> ,,vc_10540100022_014_01
+
+message,,Freya，overwhelmed by the unexpected pleasure，nearly stopped her<br>oral service.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,5
+
+message,フレイヤ,(B-but... f-focus，focus!<br>I have to make the customer feel good too...)<br> ,,vc_10540100022_015_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+l2dmessage,フレイヤ,*slurp*... Mmph!... Mmph!... Mmph!... Mmk... *whimper*... *huff*...<br>*whimper*... *slurrrrp*!<br> ,,vc_10540100022_016_01
+
+message,,They continued to service each other's genitals. Pleasure and<br>affection rose in turn，creating a strange sensation.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+message,フレイヤ,( *pant*... this feels so good...<br>I want to keep this up for a while...)<br> ,,vc_10540100022_017_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10540100022_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+wait,0.8
+
+message,フレイヤ,Mmph! Eh... Eeeeh!<br> ,,vc_10540100022_018_01
+
+message,,The man's tongue slid from her entrance to her anus. Freya<br>instinctively pulled her mouth away from his length.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+l2dmessage,フレイヤ,Mmph!<br> ,,vc_10540100022_019_01
+
+message,,The man's attention turned to her bottom. Unable to endure it，Freya<br>again released his length from her mouth and looked back.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.1
+
+l2dmessage,フレイヤ,Eh... no... t-that place... it's dirty...<br> ,,vc_10540100022_020_01
+
+message,,Freya was flustered，but the man paid her no mind and continued<br>licking her bottom，absorbed in the act.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,8
+
+asyncl2dmotion,FaceAngleRight,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,8.1
+
+message,フレイヤ,(W-wait...! Licking my bottom—that wasn't in that magazine either...<br>W-what should I do...?)<br> ,,vc_10540100022_021_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.1
+
+l2dmessage,フレイヤ,Ah... *whimper*... Ah，*pant*，Ah...!<br> ,,vc_10540100022_022_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Freya began to let out sweet sighs，her body trembling at the novel<br>sensations.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,MouthEmotion01,on,STOP,11
+
+message,フレイヤ,(Wh-what is this... every time he licks me，I get this tingling feeling...<br>It feels... good!)<br> ,,vc_10540100022_023_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.1
+
+l2dmessage,フレイヤ,*pant*，Mmph!，Ngh!，Ah!，Ahaah!，Ngh!，Ya!，*pant*，Aaahn!<br> ,,vc_10540100022_024_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The pleasure from her bottom was unrelenting. Goosebumps rose over<br>her entire body. The man's merciless tongue overwhelmed her，leaving her completely at his mercy.<br> 
+
+l2dmotion,ExEmotion00
+
+asyncl2dmotion,MouthEmotion00,on,STOP,10
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+asyncl2dmotion,FaceAngleRight,on,STOP,10
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,10.2
+
+message,フレイヤ,(No... my bottom... it feels too good，I'm losing strength... B-but if he<br>keeps this up，I can't concentrate...!)<br> ,,vc_10540100022_025_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.2
+
+message,,At that rate，she would be the only one getting pleasure. She had to<br>serve him properly too，Freya thought in a panic.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10540100022_006_01,1,on
+
+l2dmessage,フレイヤ,Mmph... Ngh!<br> ,,vc_10540100022_026_01
+
+message,,Freya lifted her bottom，adjusted her position to make her entrance<br>easier for the man to lick，then took his penis back into her mouth and resumed sucking him.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,The male customer obediently followed Freya's movements and began<br>running his tongue over her entrance，slick with her arousal.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,フレイヤ,Mmph!，*kiss*，*smooch*，Mmph!，mmm，*kiss*，*slurp*，*huff*，mmm，<br>Mmph!<br> ,,vc_10540100022_027_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeEmotionBottomRight
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,10
+
+message,フレイヤ,(Aaaah... it feels so good... Mmph!... I have to work hard too... I'm<br>going to cum before him...!)<br> ,,vc_10540100022_028_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Freya continued earnestly with her oral service. The man had paid for<br>this. She couldn't let herself be the only one enjoying it.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+message,フレイヤ,Mmph... mmm... ngh... *phew*... mm... mm... *slurp*... *schlurp*... mm...<br>uhn... ngh...<br> ,,vc_10540100022_029_01
+
+message,,But the harder she worked with her mouth，the more fiercely his<br>tongue responded.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,4.1
+
+message,フレイヤ,(N-no... I... nooo...! I'm gonna cum...!)<br> ,,vc_10540100022_030_01
+
+message,,Freya was at her limit. But the penis in her mouth also began to<br>twitch and throb.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10540100022_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,フレイヤ,Nggh... mmm... ngh... mmmm... ngh...<br> ,,vc_10540100022_031_01
+
+message,,The moment Freya climaxed，a burst of cum shot into her mouth.<br> 
+
+asyncl2dmotion,ExEmotion01,on,STOP,2
+
+asyncl2dmotion,MouthEmotion00,on,STOP,2
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+message,,But she caught all of that hot gush in her mouth and swallowed it<br>down.<br> 
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7
+
+l2dmessage,フレイヤ,*pant*... *pant*... H-huh...? I was so surprised，I swallowed it...<br> ,,vc_10540100022_032_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,—You swallowed it? The man looked surprised.<br> 
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,2.1
+
+l2dmessage,フレイヤ,Ah—huh? Was that... bad...?<br> ,,vc_10540100022_033_01
+
+message,,—No，it's a great honor! The customer's voice sounded delighted.<br>Apparently swallowing the sperm was the right choice.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,8
+
+message,フレイヤ,(I'm so glad... I was able to make the customer feel good...)<br> ,,vc_10540100022_034_01
+
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

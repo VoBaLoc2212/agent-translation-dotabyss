@@ -1,0 +1,52 @@
+{
+  "scene": "hmn_10140100002",
+  "qa_status": "PASS",
+  "structural_self_check": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "text_command_counts": {
+      "title": 1,
+      "message": 71
+    },
+    "translated_records": 72,
+    "issues": []
+  },
+  "linguistic_qa": {
+    "commander_terms": "司令官/Commander/しれーかん -> Chỉ Huy khi là danh xưng",
+    "title_case": true,
+    "h18": "not_present",
+    "unresolved_items": []
+  },
+  "artifacts": {
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100002_full\\focused_diff.md",
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100002_full\\manifest.json",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100002_full\\generate_hmn_10140100002_vi.py"
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 71,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 72,
+  "translated_records": 72,
+  "changed_lines": 72,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 949,
+    "vi": 949,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "9b9604622d5ade0e7dc2f8d581ff0d4ffb765b53bb3a7d52d3e1943435603324",
+  "output_sha256": "a6708199af575043a3215a32e3d6a2bd374c69f908e90ab6daeca18cbe2f5c13"
+}

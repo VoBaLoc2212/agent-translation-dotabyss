@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10250100002",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 81,
+    "messageTextUnder": 4,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 86,
+  "translated_records": 86,
+  "changed_lines": 86,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2186,
+    "vi": 2186,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "856c3d2ab2296d422c11d184e7b88326711e8a515736b3d4b9164698553bdaf3",
+  "output_sha256": "ffc8e6c2ecf6dd2bbf41229d0c1498e3182bc5b213f79d4283f7d0eb0912a70b",
+  "qa_status": "PASS",
+  "independent_verify_object": {
+    "line_count": {
+      "en": 2186,
+      "vi": 2186,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "candidate_counts": {
+      "title": 1,
+      "message": 81,
+      "messageTextUnder": 4,
+      "messageTextCenter": 0
+    },
+    "changed_text_records": 86,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "unchanged_unlogged_text_records": 0,
+    "targeted_english_leftover_count": 0,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,125 @@
+﻿adultui,off
+
+bg,abg12000b,off
+
+charaload,chara_1,104601000G,エルミア
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceHappy
+
+
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,<user>,Are you really going to work at the brothel?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,エルミア,Of course! After discovering how good that feels，I've suddenly<br>become intensely curious about what kind of sex other people want.<br> ,,vc_10460100013_001_01
+
+asyncseplay,setag3_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,エルミア,I stayed at the Frontline Base because I was seeking excitement! A<br>job this thrilling，there's no way I'm passing it up!<br> ,,vc_10460100013_002_01
+
+message,<user>,There are plenty of other ways to get excitement，though...<br> 
+
+
+asyncseplay,setag3_3,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,エルミア,Ah! Don't you dare say it's because I'm a child or because my chest is<br>small! You were the one who got so excited，boss!<br> ,,vc_10460100013_003_01
+
+message,,After she said that，I had no comeback. It seemed impossible to stop<br>her curiosity now.<br> 
+
+message,<user>,Alright，I'll talk to Ludia and get the paperwork done. But don't<br>overdo it，okay? You can quit anytime if you want.<br> 
+
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,5
+message,エルミア,Umm... you're worried about me，right? Fufu，thanks! And boss，if you<br>ever want to get excited，feel free to ask for me!<br> ,,vc_10460100013_004_01
+
+message,<user>,Hmm...<br> 
+
+message,,I can't help recalling our earlier training session. I definitely want to<br>feel her tight hole again.<br> 
+
+asyncseplay,setag3_5,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,エルミア,Huh? What's wrong? You've gone all quiet... Could it be you were<br>remembering our 'training'?<br> ,,vc_10460100013_005_01
+
+message,<user>,N-no，nothing...<br> 
+
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_6,se4800011,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,エルミア,Wh-what! That was a bull's-eye...! Ugh，it can't be helped...<br> ,,vc_10460100013_006_01
+
+asyncseplay,setag3_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,エルミア,Well then，how about... we do it once more? I-I'm not sure I can do it<br>well yet either...<br> ,,vc_10460100013_007_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,,Elmia said that，fidgeting with her thighs. There was no reason to<br>refuse her sweet offer—<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

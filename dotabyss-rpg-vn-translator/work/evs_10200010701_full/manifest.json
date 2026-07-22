@@ -1,0 +1,960 @@
+{
+  "scene": "evs_10200010701",
+  "timestamp_utc": "2026-07-19T08:49:36.495621+00:00",
+  "sources": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010701\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010701\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010701.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010701.txt"
+  },
+  "source_properties": {
+    "en_asset_bytes": 74212,
+    "en_asset_sha256": "6890ed3013b5bf7749421fcc29ea3d06995a6ae8daf321545984fb81dc89d4b0",
+    "bom_utf8": true,
+    "newline": "CRLF",
+    "line_count": 4179,
+    "candidate_records": 93,
+    "title_records": 1,
+    "message_records": 92
+  },
+  "output_properties": {
+    "vi_asset_bytes": 76422,
+    "vi_asset_sha256": "d518ccb64d3cacb8240c7936b7022f14b9020d17a2e506f950188ce987d9ea31",
+    "line_count": 4179
+  },
+  "entries": [
+    {
+      "record_index": 0,
+      "asset_line": 42,
+      "record_type": "title",
+      "speaker": null,
+      "source_text_field": "Title",
+      "vi_text_field": "Tiêu Đề",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 1,
+      "asset_line": 75,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "...Found it~~!<br>That's the magic crystal Wendy needs for her treatment!<br> ",
+      "vi_text_field": "...Thấy rồi~~!<br>Đó là kết tinh ma lực cần cho việc chữa trị của Wendy!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 2,
+      "asset_line": 125,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Thanks to the modded cart and the shortcut;<br>the group has reached the deepest layer of the Abyss.<br> ",
+      "vi_text_field": "Nhờ chiếc xe kéo cải tạo và lối tắt‚<br>cả nhóm đã tiến tới tận tầng sâu của Đại Huyệt.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 3,
+      "asset_line": 178,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "I've never seen a magic crystal that big... but...<br> ",
+      "vi_text_field": "Em chưa từng thấy kết tinh ma lực nào lớn đến thế... nhưng...<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 4,
+      "asset_line": 221,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Yeah... this is a bit of a problem~.<br> ",
+      "vi_text_field": "Ừm... chuyện này hơi rắc rối rồi đây~.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 5,
+      "asset_line": 288,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "A horde of monsters patrols around the magic crystal.<br>As if standing guard over it.<br> ",
+      "vi_text_field": "Một bầy quái vật đang lảng vảng bên cạnh kết tinh ma lực.<br>Cứ như lính gác bảo vệ nó vậy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 6,
+      "asset_line": 350,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Those things don't look like they're budging from the crystal...<br>This whole area must be their territory~.<br> ",
+      "vi_text_field": "Có vẻ bọn chúng không định rời khỏi kết tinh ma lực đâu...<br>Cả khu vực này chắc là lãnh địa của chúng rồi nhỉ~.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 7,
+      "asset_line": 361,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "They might be absorbing the mana leaking from the crystal...<br>If so，we should assume they're stronger than normal.<br> ",
+      "vi_text_field": "Có lẽ chúng đang hấp thụ ma lực rò rỉ từ kết tinh...<br>Nếu vậy thì nên xem chúng mạnh hơn cá thể bình thường.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 8,
+      "asset_line": 372,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "I can't exactly call them helpless little weaklings... can I~.<br> ",
+      "vi_text_field": "Quái vật tép riu... chắc lần này không gọi vậy được rồi~.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 9,
+      "asset_line": 383,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "All Wendy has to do is touch the crystal;<br>but with that many，they'll obviously get in the way~.<br> ",
+      "vi_text_field": "Chỉ cần Wendy chạm được vào kết tinh ma lực là ổn‚<br>nhưng nhìn thế kia thì chắc chắn chúng sẽ cản đường rồi~.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 10,
+      "asset_line": 394,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "What should we do; Onee-chan?<br> ",
+      "vi_text_field": "Mình làm sao đây‚ chị hai?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 11,
+      "asset_line": 443,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Isn't it obvious--we charge right through!<br>Anyone who gets in our way gets blown away~~!!<br> ",
+      "vi_text_field": "Còn phải hỏi sao――xông thẳng qua thôi!<br>Đứa nào cản đường thì thổi bay hết～～!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 12,
+      "asset_line": 486,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Ehhhh~~~!!?<br>I-is that really going to work!?<br> ",
+      "vi_text_field": "Ểểể～～～!!?<br>L-làm như vậy thật sự ổn sao ạ!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 13,
+      "asset_line": 527,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Only weaklings bother with roundabout plans♪ When us sisters team<br>up we're unbeatable♪ We'll smash through easy♪<br> ",
+      "vi_text_field": "Chỉ có đám tép riu mới bày trò vòng vo thôi♪<br>Hai chị em tụi này hợp sức là vô địch♪ Dư sức phá vòng vây luôn♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 14,
+      "asset_line": 580,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "Don't worry; Wendy.<br>My Onee-chan is an amazing mage♪<br> ",
+      "vi_text_field": "Đừng lo‚ Wendy.<br>Chị hai của em là một pháp sư cực kỳ lợi hại mà♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 15,
+      "asset_line": 627,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "...All right. I believe in you both!<br>Let's go--!<br> ",
+      "vi_text_field": "...Em hiểu rồi. Em tin hai người!<br>Đi thôi――!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 16,
+      "asset_line": 702,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "The monster horde claiming the area around the giant crystal as its<br>own. --Several of them notice vibrations traveling through the ground.<br> ",
+      "vi_text_field": "Bầy quái vật lấy vùng quanh kết tinh ma lực khổng lồ làm lãnh địa.<br>――Một vài con trong số đó nhận ra chấn động truyền qua mặt đất.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 17,
+      "asset_line": 757,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "...Grrrk?<br> ",
+      "vi_text_field": "...Gigi?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 18,
+      "asset_line": 840,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Alarm spreads gradually through the entire horde;<br>each one scanning its surroundings. And then--<br> ",
+      "vi_text_field": "Sự cảnh giác trước tình huống bất thường dần lan ra khắp bầy‚<br>từng con bắt đầu nhìn quanh. Và rồi――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 19,
+      "asset_line": 899,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Out of the way，out of the way~~~~~!!<br>Anyone who doesn't move gets run over----!!<br> ",
+      "vi_text_field": "Tránh ra tránh ra～～～～～!!<br>Đứa nào không tránh thì bị hất văng đóーーーー!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 20,
+      "asset_line": 947,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "--The cart carrying Verisa and the others comes barreling in at<br>incredible speed!<br> ",
+      "vi_text_field": "――Chiếc xe kéo chở Verisa và mọi người lao tới<br>với tốc độ khủng khiếp!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 21,
+      "asset_line": 996,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "O flames! Burn away all who stand in our way--!!<br> ",
+      "vi_text_field": "Hỡi lửa! Thiêu rụi kẻ cản đường――!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 22,
+      "asset_line": 1043,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "O ice! Become spears and pierce the wicked--!!<br> ",
+      "vi_text_field": "Hỡi băng! Hóa thành giáo xuyên thủng tà ác――!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 23,
+      "asset_line": 1158,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "The sisters' magic scorches and impales the monsters.<br>Those that dodge the spells are sent flying by the cart itself.<br> ",
+      "vi_text_field": "Ma pháp hai chị em phóng ra thiêu cháy và xuyên thủng lũ quái vật.<br>Một phần những con thoát khỏi ma pháp bị xe kéo hất bay lên không trung.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 24,
+      "asset_line": 1208,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "Grrrrkkk----...!!?<br> ",
+      "vi_text_field": "Gigigiiーーーー...!!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 25,
+      "asset_line": 1259,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Whoa!? Wh-wh-wh-whoa~!?<br>This is getting crazy...!<br> ",
+      "vi_text_field": "Awa!? Awawawawa~!?<br>Chuyện này hình như dữ dội quá rồi...!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 26,
+      "asset_line": 1300,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Who cares!<br>Full speed ahead to the crystal~~!!<br> ",
+      "vi_text_field": "Không sao hết!<br>Cứ thế này lao thẳng tới kết tinh ma lực～～!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 27,
+      "asset_line": 1355,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "I'd love to; Onee-chan...!<br>But the contraption Honoka installed is making a weird noise...!!<br> ",
+      "vi_text_field": "Em cũng muốn vậy lắm‚ chị hai...!<br>Nhưng cơ cấu cô Honoka gắn cho mình đang phát ra tiếng lạ...!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 28,
+      "asset_line": 1366,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Wha--!?<br> ",
+      "vi_text_field": "Hả――!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 29,
+      "asset_line": 1444,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "The next moment，the tube on the cart explodes and spews smoke.<br>Stripped of propulsion，the cart decelerates and stops dead amid the horde.<br> ",
+      "vi_text_field": "Ngay khoảnh khắc sau‚ ống gắn trên xe kéo phát nổ và phun khói.<br>Mất lực đẩy‚ chiếc xe lập tức giảm tốc rồi dừng lại giữa bầy quái vật.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 30,
+      "asset_line": 1549,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "N-no，you've gotta be kidding~~!?<br>Of all places，it stops here~~!?<br> ",
+      "vi_text_field": "K-không‚ đùa chị chắc～～!?<br>Lại dừng đúng chỗ này sao～～!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 31,
+      "asset_line": 1604,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "Onee-chan! The monsters...!<br> ",
+      "vi_text_field": "Chị hai! Quái vật đang...!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 32,
+      "asset_line": 1689,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "The monsters had been keeping their distance，wary. But sensing<br>their prey can no longer move，they begin creeping closer.<br> ",
+      "vi_text_field": "Đám quái vật vốn đứng xa cảnh giác‚<br>nhưng có lẽ thấy bên này không còn di chuyển được nên bắt đầu lừ lừ áp sát.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 33,
+      "asset_line": 1742,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(We'll be surrounded at this rate...!<br>If it comes to this，at least the two of them...!)<br> ",
+      "vi_text_field": "(Cứ thế này sẽ bị bao vây mất...!<br>Nếu đã vậy thì ít nhất phải để hai người họ...!)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 34,
+      "asset_line": 1767,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Verisa; Viera! Please run!<br>Don't worry about me!<br> ",
+      "vi_text_field": "Verisa‚ Viera! Mau chạy đi!<br>Đừng bận tâm đến em!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 35,
+      "asset_line": 1808,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Hah~? What kind of nonsense are you saying~~?<br>--As if Verisa-chan would ever lose to a bunch like this!<br> ",
+      "vi_text_field": "Hả~? Em đang nói chuyện ngốc nghếch gì vậy～～?<br>――Verisa-chan đây sao có thể thua đám này được chứ!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 36,
+      "asset_line": 1817,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "So--don't you dare give up either; Wendy!<br> ",
+      "vi_text_field": "Cho nên――Wendy cũng không được bỏ cuộc!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 37,
+      "asset_line": 1870,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "We're so close to reaching the crystal!<br>We'll carve a path through，no matter what!<br> ",
+      "vi_text_field": "Chỉ còn một chút nữa là chạm tới kết tinh ma lực rồi!<br>Nhất định bọn em sẽ mở đường!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 38,
+      "asset_line": 1917,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "But...! If you push yourselves too hard，you'll die!<br> ",
+      "vi_text_field": "Nhưng...! Nếu cố quá thì hai người sẽ chết mất!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 39,
+      "asset_line": 1972,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "I don't care!<br>For a friend; I'd risk my life and then some--!!<br> ",
+      "vi_text_field": "Không sao hết!<br>Vì bạn bè thì một hai mạng này em cũng cược cho xem――!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 40,
+      "asset_line": 2029,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(--! They'd go that far... for me...)<br> ",
+      "vi_text_field": "(――! Họ sẵn sàng đến mức đó vì mình...)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 41,
+      "asset_line": 2092,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Verisa and Viera fight back against the monster horde with magic.<br>They put up a valiant fight，but are gradually overwhelmed by sheer numbers.<br> ",
+      "vi_text_field": "Verisa và Viera dùng ma pháp nghênh chiến bầy quái vật.<br>Hai người chiến đấu rất tốt nhưng dần bị số lượng quái vật áp đảo.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 42,
+      "asset_line": 2140,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "GRRK!!<br> ",
+      "vi_text_field": "Gigii!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 43,
+      "asset_line": 2198,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "Kyaah!?<br> ",
+      "vi_text_field": "Kyaa!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 44,
+      "asset_line": 2241,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Viera!?<br>Why you...! How dare you hurt my precious little sister!!<br> ",
+      "vi_text_field": "Viera!?<br>Khốn kiếp! Dám làm vậy với em gái quý giá của ta sao!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 45,
+      "asset_line": 2291,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "GRRRRR...!?<br> ",
+      "vi_text_field": "Giiiiii...!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 46,
+      "asset_line": 2354,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "Ngh... I'm sorry; Onee-chan...<br>I let my guard down...<br> ",
+      "vi_text_field": "Đau... em xin lỗi‚ chị hai...<br>Em hơi bất cẩn...<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 47,
+      "asset_line": 2363,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Don't apologize! Just get behind me!<br>I'll protect both of you!<br> ",
+      "vi_text_field": "Đừng xin lỗi nữa! Được rồi‚ em lui ra sau đi!<br>Chị sẽ bảo vệ cả hai người!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 48,
+      "asset_line": 2410,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Viera; Verisa...!<br>Why would you go so far...!<br> ",
+      "vi_text_field": "Viera‚ Verisa...!<br>Tại sao hai người lại làm đến mức đó...!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 49,
+      "asset_line": 2433,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(...No. I already know the answer to that...)<br> ",
+      "vi_text_field": "(...Không. Chuyện đó mình đã hiểu từ lâu rồi...)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 50,
+      "asset_line": 2445,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(Because we're friends... Viera and Verisa;<br>that alone is enough for them to risk their lives...)<br> ",
+      "vi_text_field": "(Vì là bạn bè... Viera và Verisa‚<br>chỉ vậy thôi cũng đủ để họ liều mạng chiến đấu...)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 51,
+      "asset_line": 2450,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(Being able to push past your limits for someone else... that's what<br>friendship is. Then--!)<br> ",
+      "vi_text_field": "(Có thể vượt quá giới hạn vì người kia... đó chính là bạn bè.<br>Nếu vậy thì――!)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 52,
+      "asset_line": 2473,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Then... I can too-----!!!<br> ",
+      "vi_text_field": "Nếu vậy... em cũng vậyyyyy――!!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 53,
+      "asset_line": 2554,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "THUD--!! Wendy kicks off the cart and leaps into the air. She lands in<br>front of Verisa and the others，standing between them and the monsters.<br> ",
+      "vi_text_field": "Rầm――!! Wendy đạp vào xe kéo rồi bật nhảy.<br>Cô đáp xuống trước mặt Verisa và mọi người‚ chắn ngang lũ quái vật.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 54,
+      "asset_line": 2597,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Wha...!? Wendy!?<br>I thought you couldn't move...!?<br> ",
+      "vi_text_field": "Hả...!? Wendy!?<br>Không phải em không cử động được sao...!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 55,
+      "asset_line": 2640,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "I thought so too! But... it's strange，isn't it? No matter how broken<br>my body is... when it's to protect my friends; I can move!<br> ",
+      "vi_text_field": "Em cũng đã nghĩ vậy! Nhưng... kỳ lạ thật đấy.<br>Dù cơ thể rệu rã đến đâu... nếu là để bảo vệ bạn bè thì hình như em vẫn cử động được!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 56,
+      "asset_line": 2651,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "The power of friendship is infinite...!<br>POWEEEEEERRR!!!!<br> ",
+      "vi_text_field": "Sức mạnh tình bạn là vô hạn...!<br>Powerーーーー!!!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 57,
+      "asset_line": 2695,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Her body，which had barely listened to her，begins to move in answer<br>to Wendy's feelings. But this was no convenient miracle.<br> ",
+      "vi_text_field": "Cơ thể vốn gần như không nghe lời bắt đầu chuyển động đáp lại ý chí của Wendy.<br>Nhưng đó không phải phép màu tiện lợi gì cả.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 58,
+      "asset_line": 2720,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(My whole body is creaking...! It feels like I'll fall apart any second...!<br>--But!)<br> ",
+      "vi_text_field": "(Cả người mình đang kêu răng rắc...! Cứ như sắp rã ra từng mảnh...!<br>――Nhưng mà!)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 59,
+      "asset_line": 2741,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "...I just have to hold together until I reach the crystal--!!<br> ",
+      "vi_text_field": "...Lúc này chỉ cần chịu được tới kết tinh ma lực là đủ――!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 60,
+      "asset_line": 2758,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Get... out of my waaaaaaay!<br> ",
+      "vi_text_field": "Làm ơn... tránh raaaaaaa!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 61,
+      "asset_line": 2840,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Wendy breaks into a sprint;<br>sending every monster in her path flying.<br> ",
+      "vi_text_field": "Wendy bắt đầu chạy‚<br>hất văng những con quái vật chắn đường.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 62,
+      "asset_line": 2895,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Ahah! That's Wendy for you，what crazy power~♪<br> ",
+      "vi_text_field": "Aha! Đúng là Wendy‚ sức mạnh ghê gớm thật đó~♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 63,
+      "asset_line": 2902,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "We'll clear the way for you!<br>So don't look back--<br> ",
+      "vi_text_field": "Bọn em sẽ mở đường!<br>Vì vậy cứ chạy tiếp‚ đừng quay đầu lại――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 64,
+      "asset_line": 2915,
+      "record_type": "message",
+      "speaker": "ベリサ・ヴィーラ",
+      "source_text_field": "GOOOOOOOOO------!!!<br> ",
+      "vi_text_field": "Tiến lênnnnnnnnn――!!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 65,
+      "asset_line": 2966,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "UWAAAAAHHHH~~~~~~!!<br> ",
+      "vi_text_field": "Uwaaaaaaaaa～～～～～～!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 66,
+      "asset_line": 3012,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Monster attacks batter Wendy;<br>but she never stops running.<br> ",
+      "vi_text_field": "Đòn tấn công của quái vật giáng xuống Wendy‚<br>nhưng cô vẫn chạy xuyên qua không dừng lại.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 67,
+      "asset_line": 3016,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "But... her charge comes to an abrupt end.<br> ",
+      "vi_text_field": "Nhưng... cuộc tiến công ấy đột ngột kết thúc.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 68,
+      "asset_line": 3042,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Ah...!?<br> ",
+      "vi_text_field": "A...!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 69,
+      "asset_line": 3078,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Pushing beyond her limits could not last. Wendy falls forward.<br>Yet even with mud on her face，she fixes her gaze fiercely ahead.<br> ",
+      "vi_text_field": "Sự liều lĩnh không thể kéo dài. Chân Wendy mất lực‚ cô ngã nhào về phía trước.<br>Thế nhưng dù mặt lấm bùn‚ Wendy vẫn trừng mắt nhìn thẳng phía trước.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 70,
+      "asset_line": 3093,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Just... a little more...!<br>I won't give up... not here!!<br> ",
+      "vi_text_field": "Chỉ... một chút nữa thôi!<br>Em sẽ không bỏ cuộc... ở nơi này đâu!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 71,
+      "asset_line": 3232,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "She drags herself forward on her arms，crawling toward the magic<br>crystal. Verisa and the others shoot down the monsters that lunge at her back.<br> ",
+      "vi_text_field": "Cô dùng sức cánh tay bò về phía kết tinh ma lực.<br>Hỏa lực yểm trợ của Verisa và mọi người quét ngã lũ quái vật lao vào sau lưng cô.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 72,
+      "asset_line": 3281,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "(Please，move... my body!<br>Just a little bit more...!)<br> ",
+      "vi_text_field": "(Làm ơn‚ cử động đi... cơ thể của mình!<br>Chỉ còn một chút nữa thôi...!)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 73,
+      "asset_line": 3306,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Verisa and Viera... my precious friends risked their<br>lives for me... now it's my turn...!!<br> ",
+      "vi_text_field": "Verisa và Viera... những người bạn quý giá đã<br>liều mạng vì mình... giờ đến lượt mình...!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 74,
+      "asset_line": 3340,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Wendy's hand reaches out toward the magic crystal.<br> ",
+      "vi_text_field": "Bàn tay Wendy vươn tới kết tinh ma lực.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 75,
+      "asset_line": 3426,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "GRGRGRGRKK---!!<br> ",
+      "vi_text_field": "Gigigigiiーーー!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 76,
+      "asset_line": 3436,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "More monsters than Verisa and the others can handle<br>pounce all at once at Wendy's exposed back.<br> ",
+      "vi_text_field": "Một số lượng quái vật mà ngay cả ma pháp của Verisa và mọi người cũng không xử lý kịp<br>đồng loạt lao vào lưng cô.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 77,
+      "asset_line": 3495,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "No...! I can't shoot them all down...!<br> ",
+      "vi_text_field": "Không được...! Không bắn hạ hết được...!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 78,
+      "asset_line": 3506,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "WENDYYYY!<br> ",
+      "vi_text_field": "Wendyyyyーーーー!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 79,
+      "asset_line": 3595,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Wendy vanishes beneath the pile of monsters.<br>Before their overwhelming numbers，the automaton girl is crushed--<br> ",
+      "vi_text_field": "Bóng dáng Wendy biến mất giữa lũ quái vật.<br>Trước sức mạnh số lượng áp đảo‚ cô gái Automata bị giẫm nát――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 80,
+      "asset_line": 3648,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "--That despairing future is blown away by a blinding burst of magical<br>light.<br> ",
+      "vi_text_field": "――Tương lai tuyệt vọng ấy bị ánh sáng ma lực<br>chói lòa thổi bay.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 81,
+      "asset_line": 3698,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "......<br> ",
+      "vi_text_field": "............<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 82,
+      "asset_line": 3759,
+      "record_type": "message",
+      "speaker": "ベリサ・ヴィーラ",
+      "source_text_field": "Wendy!<br>Wendy!<br> ",
+      "vi_text_field": "Wendy ơi!<br>Wendy ơi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "vi": "Wendy ơi!<br>Wendy ơi!<br> ",
+      "note": "Fixed after independent verification: name-only English call localized as Wendy ơi."
+    },
+    {
+      "record_index": 83,
+      "asset_line": 3810,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Verisa; Viera... I'm sorry for worrying you.<br>But--I'm fine now! Somehow I feel like I'm in the best shape ever!!<br> ",
+      "vi_text_field": "Verisa‚ Viera... em xin lỗi vì đã khiến hai người lo lắng.<br>Nhưng――giờ em ổn rồi! Không hiểu sao hiện tại em thấy mình sung sức tuyệt đỉnh!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 84,
+      "asset_line": 3821,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "First... I need to teach these monsters a lesson.<br>Monsters that hurt my precious friends get~~ ...this!<br> ",
+      "vi_text_field": "Trước hết... phải phạt các bạn quái vật một chút nhỉ.<br>Quái vật dám bắt nạt những người bạn quý giá của em thì～～... thế này này!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 85,
+      "asset_line": 3835,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Wendy grabs a nearby monster in each hand<br>and starts swinging them around with wild abandon!<br> ",
+      "vi_text_field": "Wendy chộp hai con quái vật gần đó bằng hai tay‚<br>rồi bắt đầu vung chúng quay mòng mòng thật hoành tráng!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 86,
+      "asset_line": 3848,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_text_field": "Take thiiiiiis~~~~~~~~~~!!<br> ",
+      "vi_text_field": "Nhận lấyyyyyyyy～～～～～～～～!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 87,
+      "asset_line": 3936,
+      "record_type": "message",
+      "speaker": "モンスター",
+      "source_text_field": "GRRKK~~~~~!?<br> ",
+      "vi_text_field": "Gigii～～～～～!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 88,
+      "asset_line": 4040,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "Wendy becomes a veritable tornado;<br>mowing down monsters one after another.<br> ",
+      "vi_text_field": "Wendy hóa thành một cơn lốc xoáy‚<br>quét sạch lũ quái vật hết con này đến con khác.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 89,
+      "asset_line": 4089,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_text_field": "Ahahaha! She's going absolutely wild~~!<br>Viera，we can't let her show us up! You still got fight in you!?<br> ",
+      "vi_text_field": "Ahahaha! Em ấy quậy tưng bừng luôn kìa～～!<br>Viera‚ tụi mình cũng không thể thua được! Em còn chiến được chứ!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 90,
+      "asset_line": 4100,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_text_field": "Yeah; Onee-chan!<br>Let's show them what us sisters can really do!!<br> ",
+      "vi_text_field": "Vâng‚ chị hai!<br>Cho chúng thấy sức mạnh tiềm ẩn của hai chị em thân thiết mình nào!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 91,
+      "asset_line": 4116,
+      "record_type": "message",
+      "speaker": "ベリサ・ヴィーラ",
+      "source_text_field": "HAAAAAAAAAAAAAAAHHH------!!<br> ",
+      "vi_text_field": "Haaaaaaaaaaaaaaaaaaaa――!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "record_index": 92,
+      "asset_line": 4170,
+      "record_type": "message",
+      "speaker": "",
+      "source_text_field": "--That day，the mana swell from the depths could be felt on the<br>surface; Alicia nearly dispatched a team，mistaking it for an emergency.<br> ",
+      "vi_text_field": "――Ngày hôm đó‚ ma lực phình to ở tầng sâu Đại Huyệt mạnh đến mức bên ngoài huyệt cũng cảm nhận được‚<br>khiến Alicia suýt phái đội điều tra vì tưởng là sự cố bất thường.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "qa_status": "PASS"
+}

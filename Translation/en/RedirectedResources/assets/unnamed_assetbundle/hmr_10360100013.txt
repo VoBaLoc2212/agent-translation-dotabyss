@@ -1,0 +1,133 @@
+﻿adultui,off
+
+bg,abg13000a
+
+charaload,chara_1,103601000G,ライム
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+
+
+
+
+
+
+
+
+asyncshake,BACK,,30,0,1,10,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_1,30,0,1,10,off,off,0,off,CONT,0
+window,on,0.15
+message,ライム,...Huh? What? Aaaah!<br> ,,vc_10360100013_001_01
+
+message,,The next morning，the Commander was awakened by a scream from<br>beside him.<br> 
+
+asyncshake,BACK,,30,0,1,10,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_1,30,0,1,10,off,off,0,off,CONT,0
+message,ライム,I fell asleep without realizing，I'm naked，and that detestable man is<br>beside me...! Ah，your fault—no，it's not! Ah，all my fault!<br> ,,vc_10360100013_002_01
+
+
+asyncseplay,setag3_1,se4400119,0,1,CONT
+
+
+
+window,off
+wait,0.15
+
+charaface,chara_1,FaceUnique01
+
+charashow,chara_1,0.3
+window,on,0.15
+message,,After a frantic commotion，Lime hastily put her clothes back on.<br> 
+
+message,<user>,...Ah，good thing my memory's intact，Lime.<br> 
+
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_2,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ライム,I honestly wish my memories had been erased! You perverted<br>Commander，you did whatever you pleased!<br> ,,vc_10360100013_003_01
+
+message,<user>,I think I had your full consent，though.<br> 
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+asyncseplay,setag3_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,8
+message,ライム,Right! I fully agreed! How infuriating! Ugh，what do I do... I can't face<br>Lady Reyzeria!<br> ,,vc_10360100013_004_01
+
+message,<user>,Well，let's go grab a bite first. All that exercise made us hungry，<br>right?<br> 
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+asyncseplay,setag3_4,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ライム,Why are you so calm? You had me，of all people! Couldn't you be at<br>least a little flustered!<br> ,,vc_10360100013_005_01
+
+message,<user>,What's this 'someone like me' business? I like women who are strong，<br>capable，and uncompromising—like you，Lime.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ライム,Tch... Don't you get the wrong idea just because of what happened! I<br>hate superficial，two-faced men like you!<br> ,,vc_10360100013_006_01
+
+
+asyncseplay,setag3_6,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,8
+message,ライム,That brothel too...! I'll put it under audit and watch it closely...!<br>*whimper*... why did it come to this...!<br> ,,vc_10360100013_007_01
+
+message,,For a while afterwards，Lime kept her head in her hands...<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,317 @@
+System
+最大100個まで使用できます=<cspace\=-0.1em>Sử dụng tối đa 100 lần
+使用する=Sử dụng
+使用=Sử dụng
+主な入手先=Nguồn
+所持数：=<size\=70%>Số lượng sở hữu:
+消費アイテム=Vật Phẩm Tiêu Hao
+チケット=Vé
+勢力ピース=Mảnh Phe Phái
+キャラ経験値=EXP Nhân Vật
+ゴールド=Vàng
+アイテム情報=Thông Tin Vật Phẩm
+強化素材=Vật Liệu Cường Hóa
+育成アイテム=Vật Phẩm Huấn Luyện
+研究素材=Vật Liệu Nghiên Cứu
+上限解放素材=Vật Liệu Phá Giới Hạn
+詳細=Chi Tiết
+出現ランク=Hạng
+出現レアリティ=Độ Hiếm
+装備詳細=Chi Tiết Trang Bị
+更新まで：=Cập nhật trong: 
+r:"^([0-9]+)日([0-9]+)時間$"=$1 Ngày $2 Giờ
+アクセ=Phụ Kiện
+sr:"^([\S\s]+) ×1$"=<line-height\=60%>$1 ×1</line-height>
+鑑定=<size\=80%>Thẩm Định
+再鑑定=<size\=50%>Thẩm Định Lại
+<color\=#4cf37b>鑑定レンズ</color>を消費して<color\=#4cf37b>再鑑定</color>を行いますか？=Sử dụng <color\=#4cf37b>Kính Thẩm Định</color> để tiến hành <color\=#4cf37b>Thẩm Định Lại</color>?
+再鑑定を行うと効果が上書きされます。=Thẩm Định Lại sẽ ghi đè lên hiệu ứng hiện tại.
+エンチャントを鑑定して隠された力を明らかにします。\n鑑定レンズかアビスジェムを消費することで<color\=#4cf37b>鑑定の結果を変更</color>することが出来ます。=<size\=90%>Thẩm định Phù Chú để khám phá sức mạnh tiềm ẩn. \nBạn có thể <color\=#4cf37b>thay đổi kết quả thẩm định</color> bằng cách tiêu hao Kính Thẩm Định hoặc Ngọc Vực Thẳm.
+この鑑定結果で確定させますか？再鑑定することで結果を変更することができます。=Bạn có muốn xác nhận kết quả thẩm định này không? \nBạn có thể thay đổi kết quả bằng cách Thẩm Định Lại.
+結果を確定しますか？=Xác nhận kết quả?
+※確定後も再鑑定を行うことは可能です=*Bạn vẫn có thể Thẩm Định Lại ngay cả sau khi xác nhận.
+初=Sơ
+中=Trung
+上=Cao
+属性=Thuộc Tính
+事前登録=Đăng ký trước
+鑑定武器=Vũ Khí Thẩm Định
+防具=Giáp
+武器=Vũ Khí
+レジェンダリー=Huyền Thoại
+防具=Giáp
+武器=Vũ Khí
+回復量：=<size\=80%>Phục hồi:
+スタミナ回復薬(小)=Thuốc Phục Hồi Thể Lực (Nhỏ)
+スタミナ回復薬(中)=Thuốc Phục Hồi Thể Lực (Vừa)
+スタミナ回復薬(小)=Thuốc Phục Hồi Thể Lực (Nhỏ)
+提供割合=Tỉ Lệ
+ピース50個につきガチャ1回=1 lần Gacha mỗi 50 mảnh
+ガチャ回数【1回】=<size\=80%>Số lần Gacha [1 lần]
+r:"^ガチャ回数【([0-9]+)回】$"=<size\=80%>Số lần Gacha [$1 lần]
+ピース50個につきガチャ1回=1 lần Gacha mỗi 50 mảnh
+交換回数=Số lượng
+r:"^([0-9]+)回$"=$1 lần
+
+【凸】純真結晶引換券(ルクスノヴァ)=[Phá] Phiếu Đổi Pha Lê Thuần Khiết (Luxnova)
+【凸】純真結晶引換券(ルクスノヴァ除く)=[Phá] Phiếu Đổi Pha Lê Thuần Khiết (Trừ Luxnova)
+紫銀のマテリアル=Vật Liệu Bạc Tím
+銀のマテリアル=Vật Liệu Bạc
+金のマテリアル=Vật Liệu Vàng
+サブスクポイント=Điểm Đăng Ký
+選べるSSRキャラBOX交換券=Phiếu Đổi Hộp Chọn Nhân Vật SSR
+アビスシール=Bùa Vực Thẳm
+フレンドポイント=Điểm Bạn Bè
+凱旋コイン=<line-height\=60%>Xu Khải Hoàn</line-height>
+ソウル=Linh Hồn
+ラッキーボックス券=Vé Hộp May Mắn
+うれしいプレゼント=Quà Tặng Vui Vẻ
+アビスジェム=Ngọc Vực Thẳm
+プレイヤー経験値=EXP Người Chơi
+r:"^キャラ経験値セット\(([0-9]+)時間\)$"=Gói EXP Nhân Vật ($1 Giờ)
+r:"^記憶の欠片セット\(([0-9]+)時間\)$"=Gói Mảnh Vỡ Ký Ức ($1 Giờ)
+r:"^ゴールドセット\(([0-9]+)時間\)$"=Gói Vàng ($1 Giờ)
+プレミアムガチャチケット=Vé Gacha Cao Cấp
+ピックアップガチャチケット=Vé Gacha Tăng Tỉ Lệ
+ロストシグナル「深淵」=Tín Hiệu Thất Lạc "Vực Thẳm"
+ゲートキー「深淵」=Chìa Khóa Cổng "Vực Thẳm"
+sr:"^中級技能元素\(([\S\s]+)\)$"=Nguyên Tố Kỹ Năng Cấp Trung ($1)
+sr:"^初級技能元素\(([\S\s]+)\)$"=Nguyên Tố Kỹ Năng Cấp Thấp ($1)
+sr:"^上級技能元素\(([\S\s]+)\)$"=Nguyên Tố Kỹ Năng Cấp Cao ($1)
+追加営業許可証「ルディアのお店」=Giấy Phép Kinh Doanh Bổ Sung "Cửa Hàng Của Ludia"
+【SR以上】探索者の証・招集=[SR Trở Lên] Chứng Nhận Thám Hiểm - Triệu Tập
+sr:"^選べる([\S\s]+)級技能元素BOX【([\S\s]+)】$"=Hộp Chọn Nguyên Tố Kỹ Năng Cấp $1 [$2]
+くまさんブランドタイトル合同CPチケット=Vé Chiến Dịch Hợp Tác Kumasan Brand
+sr:"^選べるRank([0-9]+)([\S\s]+)BOX【([\S\s]+)】$"=Hộp Chọn $2 Hạng $1 [$3]
+迎撃戦許可証=Giấy Phép Chặn Đánh
+sr:"^([\S\s]+)の純真結晶$"=Pha Lê Thuần Khiết của $1
+SSR確定プレミアムガチャチケット=Vé Gacha Cao Cấp Đảm Bảo SSR
+選べるSSRキャラBOX【プレミアム1弾】=Hộp Chọn Nhân Vật SSR [Cao Cấp Đợt 1]
+選べるSSRキャラBOX【第1弾】=Hộp Chọn Nhân Vật SSR [Đợt 1]
+セレクトSSR確定ガチャのかけら=Mảnh Gacha Đảm Bảo SSR Tự Chọn
+選べる初級技能元素BOX=Hộp Chọn Nguyên Tố Kỹ Năng Cấp Thấp
+選べる中級技能元素BOX=Hộp Chọn Nguyên Tố Kỹ Năng Cấp Trung
+選べる上級技能元素BOX=Hộp Chọn Nguyên Tố Kỹ Năng Cấp Cao
+選べる親愛度アイテムBOX=Hộp Chọn Vật Phẩm Mức Độ Thân Thiết
+選べる初級技能元素BOX=Hộp Chọn Nguyên Tố Kỹ Năng Cấp Thấp
+未鑑定=Chưa Thẩm Định
+連撃率上昇=Tỉ Lệ Liên Đòn Tăng
+攻撃上昇=Tấn Công Tăng
+HP上昇=HP Tăng
+紋章：情熱付与=Cấp Huy Hiệu: Nhiệt Huyết
+紋章：衝撃攻撃UP=Va Chạm: Tấn Công Tăng
+攻撃UP=Tấn Công Tăng
+状態異常付与確率上昇=<size\=90%>Tỉ Lệ Gây Trạng Thái Đặc Biệt Tăng
+防御上昇=Phòng Thủ Tăng
+紋章：衝撃スキルチャージ=Va Chạm: Tích Nạp Kỹ Năng
+スキルチャージ効率上昇=Hiệu Suất Tích Nạp KN Tăng
+紋章：衝撃防御UP=Va Chạm: Phòng Thủ Tăng
+防御UP=Phòng Thủ Tăng
+紋章：衝撃付与=Cấp Huy Hiệu: Xung Kích
+会心率上昇=Tỉ Lệ Chí Mạng Tăng
+連撃率UP=Tỉ Lệ Liên Đòn Tăng
+紋章：衝撃連撃率UP=Va Chạm: Tỉ Lệ Tăng
+会心率UP=Tỉ Lệ Chí Mạng Tăng
+探索力UP=Sức Mạnh Thám Hiểm Tăng
+スキルチャージ効率UP=Hiệu Suất Tích Nạp KN Tăng
+紋章：衝撃会心率UP=Va Chạm: Tỉ Lệ Tăng
+紋章：情熱連撃率UP=Nhiệt Huyết: Tỉ Lệ Tăng
+紋章：情熱HP回復=Nhiệt Huyết: Phục Hồi HP
+紋章：情熱攻撃UP=Nhiệt Huyết: Tấn Công Tăng
+紋章：情熱防御UP=Nhiệt Huyết: Phòng Thủ Tăng
+紋章：情熱会心率UP=Nhiệt Huyết: Tỉ Lệ Tăng
+エレメンタルマント=Áo Choàng Nguyên Tố
+暁光の権能：杖=<size\=90%>Quyền Năng Bình Minh: Trượng
+覇光の権能：剣=Quyền Năng Bá Quang: Kiếm
+碧光の権能：ピッケル=<size\=80%>Quyền Năng Bích Quang: Cuốc Chim
+深蝕の権能：杖 =<size\=90%>Quyền Năng Thâm Thực: Trượng
+深蝕の権能：弓=Quyền Năng Thâm Thực: Cung
+紋章：情熱状態異常確率UP=Huy Hiệu: Tăng Tỉ Lệ Gây Hiệu Ứng Bất Lợi Nhiệt Huyết
+鳳翼の権能：弓=<size\=90%>Quyền Năng Phượng Dực: Cung
+深蝕の権能：剣=Quyền Năng Thâm Thực: Kiếm
+漆黒の権能：弓=Quyền Năng Tất Hắc: Cung
+漆黒の権能：服=Quyền Năng Tất Hắc: Y Phục
+フォレストの権能：マント=<size\=90%>Quyền Năng Đại Lâm: Áo Choàng
+漆黒の権能：鎧=Quyền Năng Tất Hắc: Giáp
+バニースーツ=Trang Phục Thỏ
+紋章：情熱スキルチャージ=<size\=90%>Nhiệt Huyết: Tích Nạp Kỹ Năng
+紋章：情熱が5以上で紋章：情熱が付与されたとき、15秒間味方バック全体の会心率【10%】UP（1編成につき1本分のみ効果発動）=Khi Huy Hiệu: Nhiệt Huyết đạt từ 5 trở lên và được cấp Huy Hiệu: Nhiệt Huyết, tăng Tỉ Lệ Chí Mạng của toàn bộ Hậu Tuyến đồng minh lên [10%] trong 15 giây (hiệu ứng chỉ kích hoạt 1 lần duy nhất cho mỗi Đội)
+敵が戦闘不能になったとき、1%の確率で、味方フロント全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=Khi kẻ địch bị hạ gục, có 1% tỉ lệ cấp Huy Hiệu: Xung Kích [1] cho toàn bộ Tiền Tuyến đồng minh (hiệu ứng chỉ kích hoạt 1 lần duy nhất cho mỗi Đội)
+マナチャージ効率【10%】上昇=Hiệu suất nạp mana tăng [10%]
+r:"^HP【(\d+(?:\.\d*)?)%】上昇$"=HP tăng [$1%]
+r:"^被ダメージ時、(\d+(?:\.\d*)?)%の確率で、自身に紋章：情熱を【([0-9]+)】付与$"=Khi nhận sát thương, có $1% tỉ lệ cấp Huy Hiệu: Nhiệt Huyết [$2] cho bản thân
+会心ヒット時、最も近い敵に爆発で追撃を行う=Khi đòn tấn công chí mạng trúng đích, tiến hành một vụ nổ bồi thêm vào kẻ địch gần nhất
+r:"^連撃率【(\d+(?:\.\d*)?)%】上昇$"=Tỉ Lệ Liên Đòn tăng [$1%]
+r:"^攻撃【(\d+(?:\.\d*)?)%】上昇$"=Tấn Công tăng [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=Khi Huy Hiệu: Xung Kích bị tiêu hao, Tấn Công của bản thân tăng [$2%] trong $1 giây
+r:"^会心時、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=Khi tấn công chí mạng, Tấn Công của bản thân tăng [$2%] trong $1 giây
+r:"^状態異常付与確率【(\d+(?:\.\d*)?)%】上昇$"=Tỉ lệ gây Trạng Thái Đặc Biệt tăng [$1%]
+r:"^防御【(\d+(?:\.\d*)?)%】上昇$"=Phòng Thủ tăng [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自分のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=Khi Huy Hiệu: Xung Kích bị tiêu hao, Hiệu Suất Tích Nạp KN của bản thân tăng [$2%] trong $1 giây
+r:"^スキルチャージ効率【(\d+(?:\.\d*)?)%】上昇$"=Hiệu Suất Tích Nạp KN tăng [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=Khi Huy Hiệu: Xung Kích bị tiêu hao, Phòng Thủ của bản thân tăng [$2%] trong $1 giây
+r:"^被ダメージ時、(\d+(?:\.\d*)?)%の確率で、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=Khi nhận sát thương, có $1% tỉ lệ Phòng Thủ của bản thân tăng [$3%] trong $2 giây
+r:"^クエスト開始時、自身に紋章：衝撃を【([0-9]+)】付与$"=Khi bắt đầu nhiệm vụ, cấp Huy Hiệu: Xung Kích [$1] cho bản thân
+r:"^([0-9]+)回攻撃ごとに([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=Mỗi khi tấn công $1 lần, Tỉ Lệ Liên Đòn của bản thân tăng [$3%] trong $2 giây
+r:"^会心率【(\d+(?:\.\d*)?)%】上昇$"=Tỉ Lệ Chí Mạng tăng [$1%]
+r:"^敵撃破時、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=Khi tiêu diệt kẻ địch, Tỉ Lệ Chí Mạng của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=Khi Huy Hiệu: Xung Kích bị tiêu hao, Tỉ Lệ Liên Đòn của bản thân tăng [$2%] trong $1 giây
+r:"^探索力【(\d+(?:\.\d*)?)%】UP$"=Sức mạnh Thám Hiểm tăng [$1%]
+r:"^クエスト開始時、自身に紋章：情熱を【([0-9]+)】付与$"=Khi bắt đầu nhiệm vụ, cấp Huy Hiệu: Nhiệt Huyết [$1] cho bản thân
+r:"^([0-9]+)秒に1回、([0-9]+)秒間自身のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=Mỗi $1 giây một lần, Hiệu Suất Tích Nạp KN của bản thân tăng [$3%] trong $2 giây
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=Khi Huy Hiệu: Xung Kích bị tiêu hao, Tỉ Lệ Chí Mạng của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, Tỉ Lệ Liên Đòn của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、前衛のHPを自身の最大HP【(\d+(?:\.\d*)?)%】分回復$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, phục hồi HP cho Tiền Tuyến một lượng bằng [$1%] HP Tối Đa của bản thân
+r:"^FC発動時、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=Khi kích hoạt Xích Lực, Tỉ Lệ Liên Đòn của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, Tấn Công của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, Phòng Thủ của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, Tỉ Lệ Chí Mạng của bản thân tăng [$2%] trong $1 giây
+r:"^紋章：情熱が付与されたとき、自身のHPを最大HP【(\d+(?:\.\d*)?)%】分回復。([0-9]+)秒経過ごとに([0-9]+)秒間味方バック全体の連撃率【(\d+(?:\.\d*)?)%】UP（1編成につき1本分のみ効果発動）$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, phục hồi HP của bản thân một lượng bằng [$1%] HP Tối Đa. Mỗi $2 giây trôi qua, tăng Tỉ Lệ Liên Đòn của toàn bộ Hậu Tuyến đồng minh lên [$4%] trong $3 giây (hiệu ứng chỉ kích hoạt 1 lần duy nhất cho mỗi Đội)
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間味方フロント全体のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP（1編成につき1本分のみ効果発動）$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, tăng Hiệu Suất Tích Nạp KN của toàn bộ Tiền Tuyến đồng minh lên [$2%] trong $1 giây (hiệu ứng chỉ kích hoạt 1 lần duy nhất cho mỗi Đội)
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自分のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=Khi được cấp Huy Hiệu: Nhiệt Huyết, Hiệu Suất Tích Nạp KN của bản thân tăng [$2%] trong $1 giây
+紋章：衝撃が消費されたとき、味方フロント全体に紋章：衝撃を【2】付与（1編成につき1本分のみ効果発動）=Khi Huy Hiệu: Xung Kích bị tiêu hao, cấp Huy Hiệu: Xung Kích [2] cho toàn bộ Tiền Tuyến đồng minh (hiệu ứng chỉ kích hoạt 1 lần duy nhất cho mỗi Đội)
+凍結状態の敵に対して自身の与ダメージ【30%】上昇。紋章：情熱1ごとに、自身の状態異常付与確率【5%】UP=Sát thương bản thân gây ra cho kẻ địch đang bị Đóng Băng tăng [30%]. Mỗi 1 Huy Hiệu: Nhiệt Huyết, tỉ lệ gây Trạng Thái Đặc Biệt của bản thân tăng [5%]
+r:"^敵が戦闘不能になったとき、([0-9]+)%の確率で、自分のスキルチャージ効率【([0-9]+)%】UP$"=Khi kẻ địch bị hạ gục, có $1% tỉ lệ Hiệu Suất Tích Nạp KN của bản thân tăng [$2%]
+r:"^30秒に1回、前衛のHPを自身の最大HP【([0-9]+)%】分回復$"=Mỗi 30 giây một lần, phục hồi HP cho Tiền Tuyến một lượng bằng [$1%] HP Tối Đa của bản thân
+
+Item description
+sr:"^([\S\s]+)の主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。$"=<size\=90%>Vật chất kết tinh từ tình cảm của $1 dành cho nhân vật chính. \nCó thể dùng để "Phá Giới Hạn" 1 lần cho mỗi vật phẩm trong "Chi Tiết Nhân Vật". \nNếu bạn nhận được cùng một nhân vật từ Gacha, nó sẽ tự động được chuyển đổi.
+「アイテム一覧」で使用することで、キャラクターとの絆Lvを上げられる各勢力のプレゼントをBOXのラインナップから選んで、1個獲得できる。=Khi sử dụng trong "Danh Sách Vật Phẩm", bạn có thể chọn 1 Quà Tặng của từng phe phái từ danh sách trong HỘP để tăng Gắn Kết Lv với nhân vật và nhận nó.
+sr:"^「アイテム一覧」で使用することで装備「ランク([0-9]+)」のレアリティ「([\S\s]+)」の「([\S\s]+)」をBOXラインナップから選んで、1個獲得できる。$"=Khi sử dụng trong "Danh Sách Vật Phẩm", bạn có thể chọn và nhận 1 "$3" với "Hạng $1" và độ hiếm "$2" từ danh sách trong HỘP.
+sr:"^「アイテム一覧」で使用することで、装備「ランク([0-9]+)」のレアリティ「([\S\s]+)」で「([\S\s]+)」エンチャントを持つ「([\S\s]+)」をBOXラインナップから選んで、1個獲得できる。$"=Khi sử dụng trong "Danh Sách Vật Phẩm", bạn có thể chọn và nhận 1 "$4" mang Phù Chú "$3" với "Hạng $1" và độ hiếm "$2" từ danh sách trong HỘP.
+
+Item description 2
+50個集めて「ガチャ」で使用することでガチャを実行できるアイテム。\n「セレクトSSR確定ガチャ」を実行できる。=Vật phẩm thu thập 50 cái dùng trong "Gacha" để thực hiện Gacha.\nCó thể thực hiện "Gacha Đảm Bảo SSR Tự Chọn".
+r:"^【探索報酬】時の砂時計([0-9]+)時間$"=[Phần Thưởng Thám Hiểm] Đồng Hồ Cát $1H
+sr:"^([\S\s]+) ×1$"=<line-height\=60%>$1 ×1</line-height>
+sr:"^([\S\s]+)・招集$"=$1・Triệu Tập
+sr:"^50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRは([\S\s]+)の探索者が確定。$"=Thu thập 50 cái và sử dụng trong "Danh Sách Vật Phẩm" để\nchiêu mộ Thám Hiểm Gia.\nThám Hiểm Gia SSR chắc chắn đến từ $1.
+sr:"^【SSR確定】([\S\s]+)・大勲$"=[SSR Đảm Bảo] $1・Đại Huân Chương
+「アイテム一覧」で使用することで、\n以下のSSRキャラを1人選んでお迎えできる。\n・交換可能：SSRフィルム、SSRヒナギ、SSRホノカ=Khi sử dụng trong "Danh Sách Vật Phẩm",\nbạn có thể chọn 1 nhân vật SSR để triệu tập.\n・Có thể đổi: Film SSR, Hinagi SSR, Honoka SSR
+「アイテム一覧」で使用することで、\n以下のSSRキャラを1人選んでお迎えできる。\n・対象SSRキャラ：ニナ、ラモーナ、エミリー=Khi sử dụng trong "Danh Sách Vật Phẩm",\nbạn có thể chọn 1 nhân vật SSR để triệu tập.\n・Nhân vật SSR mục tiêu: Nina, Ramona, Emily
+「ガチャ」を実行することができる特別なチケット。\n「SSR確定プレミアムガチャ」を実行できる。=Vé đặc biệt có thể thực hiện "Gacha".\nCó thể thực hiện "Gacha Cao Cấp Đảm Bảo SSR".
+「ガチャ」を実行することができる特別なチケット。\n「プレミアムガチャ」を実行できる。=Vé đặc biệt có thể thực hiện "Gacha".\nCó thể thực hiện "Gacha Cao Cấp".
+「ガチャ」を実行することができる特別なチケット。\n一部のガチャ以外の\n「ピックアップガチャ」を実行できる。=Vé đặc biệt có thể thực hiện "Gacha".\nCó thể thực hiện "Gacha Tăng Tỉ Lệ"\ntrừ một số Gacha nhất định.
+「深淵」限定アイテム\n深淵内で座標を示すことのできる貴重な遺物。\n力尽きても獲得したアイテムを持ち帰ることができる。=Vật Phẩm Giới Hạn "Vực Thẳm"\nMột cổ vật quý giá có thể chỉ ra tọa độ trong Vực Thẳm.\nDù cạn kiệt thể lực, vẫn có thể mang về vật phẩm đã thu thập.
+ありふれた木材=Gỗ Thông Dụng
+ありふれた鉱石=Quặng Thông Dụng
+ありふれた骨材=Cốt Liệu Thông Dụng
+めずらしい木材=Gỗ Hiếm
+めずらしい鉱石=Quặng Hiếm
+めずらしい骨材=Cốt Liệu Hiếm
+ミレスガルド王国が発行する勲章。\n50個集めて「アイテム一覧」で使用することでミレスガルド所属のSSRの探索者を加入させることができる。=Huân chương do Vương quốc Millesgard phát hành.\nThu thập 50 cái và sử dụng trong "Danh Sách Vật Phẩm" để\nchiêu mộ Thám Hiểm Gia SSR thuộc Millesgard.
+交換数=Số Lượng Trao Đổi
+他の部隊が担当する厄災の迎撃を代理で引き受けた証。\n「迎撃戦」で追加の厄災を発生させることができる。=Bằng chứng nhận thay mặt đội khác đảm nhận chặn đánh Tai Họa.\nCó thể kích hoạt Tai Họa bổ sung trong "Trận Chặn Đánh".
+光輝の誓願=Lời Thề Quang Huy
+大穴の中にいるときの時間の流れを操作することができる魔道具。「探索隊」で使用することで1時間分の探索報酬を受け取ることができる。=Đạo cụ ma thuật điều khiển dòng thời gian trong Hố Lớn.\nDùng trong "Đội Thám Hiểm" để nhận phần thưởng thám hiểm 1 giờ.
+太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを大きく回復する。=Tinh dược cô đọng sức mạnh mặt trời.\nHồi phục lượng lớn Thể Lực cần thiết\ncho các nhiệm vụ trong "Cốt Truyện Chính".
+太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを少し回復する。=Tinh dược cô đọng sức mạnh mặt trời.\nHồi phục một lượng nhỏ Thể Lực cần thiết\ncho các nhiệm vụ trong "Cốt Truyện Chính".
+宝石の原石=Đá Quý Thô
+幻獣の角=Sừng Huyền Thú
+探索者の証=Chứng Nhận Thám Hiểm Gia
+探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSR以上の探索者を加入させることができる。=Chứng Nhận Thám Hiểm Gia.\nThu thập 50 cái và sử dụng trong "Danh Sách Vật Phẩm" để\nchiêu mộ Thám Hiểm Gia từ SR trở lên.
+探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSSRの探索者を加入させることができる。=Chứng Nhận Thám Hiểm Gia.\nThu thập 50 cái và sử dụng trong "Danh Sách Vật Phẩm" để\nchiêu mộ Thám Hiểm Gia SSR.
+揺らぐ魔力を見定め、固定するためのレンズ。\n「パーティ」の「装備」から鑑定が必要な装備品の鑑定を行うことができる。=Thấu kính xác định và cố định ma lực dao động.\nCó thể thẩm định trang bị cần thẩm định từ mục "Trang Bị" trong "Đội Hình".
+敵にダメージを与えたとき、30%の確率で、最も近い敵に黒い稲妻で追撃を行う=Khi gây sát thương lên kẻ địch, có 30% tỉ lệ truy kích bằng sấm sét đen vào kẻ địch gần nhất.
+残り交換回数=<line-height\=60%>Số Lần Trao Đổi Còn Lại</line-height>
+紅魔の栄光=Vinh Quang Ma Đỏ
+翠石の隆盛=Hưng Thịnh Thạch Xanh
+蒼剣の誇り=Niềm Tự Hào Kiếm Xanh
+記憶の欠片(LvUP)=Mảnh Vỡ Ký Ức (LvUP)
+貴重な木材=Gỗ Quý Giá
+貴重な鉱石=Quặng Quý Giá
+貴重な骨材=Cốt Liệu Quý Giá
+鑑定レンズ「装備」=Kính Thẩm Định "Trang Bị"
+集めるとショップの「交換所」で交換できる。\n・SSRキャラ(50個)：フィルム、ヒナギ、ホノカ\n・アイテム(1個)：セレクトSSR確定ガチャのかけら×1=Thu thập để trao đổi tại "Phòng Trao Đổi" trong Cửa Hàng.\n・Nhân Vật SSR (50): Film, Hinagi, Honoka\n・Vật Phẩm (1): Mảnh Gacha Đảm Bảo SSR Tự Chọn ×1
+食人花の花=Hoa Thực Nhân
+高難易度ダンジョン「深淵」に挑戦できるようになる。\n主にスタミナを消費することで入手できる。\n「深淵」では高ランク装備などの報酬を得る機会がある。=Cho phép thách thức ngục tối độ khó cao "Vực Thẳm".\nChủ yếu nhận được bằng cách tiêu hao Thể Lực.\nTrong "Vực Thẳm", có cơ hội nhận trang bị hạng cao.
+魔法石から抽出されたエネルギー源。\n「厄災戦」で強力な防衛施設を設置するのに必要となる。=Nguồn năng lượng được trích xuất từ ma thạch.\nCần thiết để thiết lập công trình phòng thủ mạnh mẽ trong "Trận Tai Họa".
+黒縄の連帯=Đoàn Kết Hắc Thằng
+防衛施設のマナ燃料=Nhiên Liệu Mana Cơ Sở Phòng Thủ
+30秒経過ごとに味方全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=Mỗi 30 giây, cấp Huy Hiệu: Xung Kích [1] cho toàn bộ đồng minh (mỗi đội chỉ hiệu lực 1 món)
+30秒に1回、味方バック全体に紋章：衝撃を【2】付与（1編成につき1本分のみ効果発動）=Mỗi 30 giây, cấp Huy Hiệu: Xung Kích [2] cho toàn bộ hàng sau (mỗi đội chỉ hiệu lực 1 món)
+
+マンスリー=Hằng tháng
+
+DMMポイント=DMM Point
+
+以下のアイテムを購入しました。=Đã mua các vật phẩm sau.
+
+交換確認=Xác nhận trao đổi
+
+購入時獲得アイテム=Vật phẩm nhận khi mua
+
+購入内容確認=Xác nhận nội dung mua
+
+特級技能元素(万能)=Nguyên Tố Kỹ Năng Đặc Cấp (Vạn năng)
+
+[無償]アビスジェム×100\nゴールドセット(12時間)×1=[Miễn phí] Abyss Gem ×100\nBộ Vàng (12 giờ) ×1
+
+マンスリー無料パック=Gói miễn phí hằng tháng
+
+[無償]アビスジェム×10\nうれしいプレゼント×1=[Miễn phí] Abyss Gem ×10\nQuà Vui Vẻ ×1
+
+デイリー無料パック=Gói miễn phí hằng ngày
+
+ミレスガルドの協力者=Người Hợp Tác Của Millesgard
+
+r:"^FC発動時、自身に紋章：衝撃を【(\d+(?:\.\d*)?)】付与$"=Khi kích hoạt Force Chain, ban cho bản thân Huy Hiệu: Xung Kích [$1]
+
+紋章：情熱が付与されたとき、15秒間土属性の味方全体の攻撃力【20%】UP（1編成につき1本分のみ効果発動）=Khi được ban Huy Hiệu: Nhiệt Huyết, tăng ATK của toàn bộ đồng minh hệ Đất [20%] trong 15 giây (chỉ kích hoạt hiệu ứng của 1 món trong mỗi đội hình)
+
+会心時、15秒間味方バック全体の連撃率【10%】UP（1編成につき1本分のみ効果発動）=Khi chí mạng, tăng Tỉ Lệ Liên Kích của toàn bộ đồng minh hàng sau [10%] trong 15 giây (chỉ kích hoạt hiệu ứng của 1 món trong mỗi đội hình)
+
+FC発動時、15秒間自身の攻撃力【50%】UP【累積 / 最大50％】=Khi kích hoạt FC, tăng ATK bản thân [50%] trong 15 giây [Cộng dồn / Tối đa 50%]
+
+攻撃力【20%】減少。紋章：情熱1ごとに、自身の会心率【2.5%】UP=Giảm ATK [20%]. Với mỗi Huy Hiệu: Nhiệt Huyết, tăng Tỉ Lệ Chí Mạng bản thân [2.5%]
+
+敵にダメージを与えたとき、30%の確率で、HPの高い敵1体に氷で追撃を行う=Khi gây sát thương lên kẻ địch, có 30% tỉ lệ dùng băng truy kích 1 kẻ địch có HP cao nhất
+30秒に1回、15秒間味方全体の攻撃力【30%】UP（1編成につき1本分のみ効果発動）=Mỗi 30 giây, tăng 【30%】 Lực tấn công cho toàn phe ta trong 15 giây (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+敵が戦闘不能になったとき、1%の確率で、光・闇・無属性の味方フロント全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=Khi tiêu diệt địch, có 1% tỷ lệ cấp 【1】 [Huy Hiệu: Xung Kích] cho toàn đồng minh hàng trước mang thuộc tính Quang, Ám, Vô Hệ (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+会心ヒット時、ランダムで2体に斬撃で追撃を行う=Khi tấn công Bạo Kích trúng đích, tung đòn truy kích dạng chém lên 2 kẻ địch ngẫu nhiên
+敵にダメージを与えたとき、30%の確率で、ランダムで2体に稲妻で追撃を行う=Khi gây sát thương cho địch, có 30% tỷ lệ tung đòn truy kích sấm sét lên 2 kẻ địch ngẫu nhiên
+30秒に1回、光・闇・無属性の味方バック全体に紋章：衝撃を【2】付与（1編成につき1本分のみ効果発動）=Mỗi 30 giây, cấp 【2】 [Huy Hiệu: Xung Kích] cho toàn đồng minh hàng sau thuộc tính Quang, Ám, Vô hệ (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+30秒に1回、光・闇・無属性の味方全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=Mỗi 30 giây, cấp 【1】 [Huy Hiệu: Xung Kích] cho toàn phe ta thuộc tính Quang, Ám, Vô hệ (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+紋章：衝撃が消費されたとき、15秒間味方フロント全体の防御力【40%】UP（1編成につき1本分のみ効果発動）=Khi [Huy Hiệu: Xung Kích] bị tiêu hao, tăng 【40%】 Lực phòng ngự cho toàn đồng minh hàng trước trong 15 giây (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+
+HP30%以下になったとき、自身のスキルチャージ効率【10%】UP(戦闘中に2回)=Khi HP giảm xuống dưới 30%, tăng 【10%】 hiệu suất sạc kỹ năng của bản thân (Kích hoạt tối đa 2 lần trong trận)
+紋章：衝撃が消費されたとき、自分のスキルチャージ効率【2%】UP=Khi [Huy Hiệu: Xung Kích] bị tiêu hao, tăng 【2%】 hiệu suất sạc kỹ năng của bản thân
+紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【4%】UP=Khi được cấp Huy Hiệu: Nhiệt Huyết, tăng 【4%】 tỷ lệ gây hiệu ứng bất lợi của bản thân trong 15 giây
+会心率【20%】上昇。敵を倒したとき、2%の確率で、火・水・土属性の味方バック全体に紋章：情熱を【1】付与（1編成につき1本分のみ効果発動）=Tăng 【20%】 Tỷ lệ Bạo Kích. Khi hạ gục địch, có 2% tỷ lệ cấp 【1】 [Huy Hiệu: Nhiệt Huyết] cho toàn đồng minh hàng sau thuộc tính Hỏa, Thủy, Thổ (Mỗi đội hình chỉ áp dụng 1 hiệu ứng này)
+
+クエスト開始時、味方全体に紋章：情熱を【1】付与（1編成につき1本分のみ効果発動）=Khi bắt đầu nhiệm vụ, ban Huy Hiệu: Nhiệt Huyết [1] cho toàn bộ đồng minh (chỉ kích hoạt hiệu ứng của 1 món trong mỗi đội hình)
+
+紋章：情熱1ごとに、自身の状態異常付与確率【2％】UP=Với mỗi Huy Hiệu: Nhiệt Huyết, tăng tỉ lệ gây trạng thái bất lợi của bản thân [2%]
+
+結晶かした経験が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の経験値報酬を受け取ることができる。=Chiếc hộp kỳ lạ chứa kinh nghiệm đã kết tinh.\nDùng trong “Danh sách vật phẩm” để nhận phần thưởng kinh nghiệm tương đương 1 giờ của Đội thám hiểm.
+
+記憶の欠片が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の記憶の欠片報酬を受け取ることができる。=Chiếc hộp kỳ lạ chứa Mảnh Ký Ức.\nDùng trong “Danh sách vật phẩm” để nhận phần thưởng Mảnh Ký Ức tương đương 1 giờ của Đội thám hiểm.
+
+ゴールドが詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分のゴールド報酬を受け取ることができる。=Chiếc hộp kỳ lạ chứa vàng.\nDùng trong “Danh sách vật phẩm” để nhận phần thưởng vàng tương đương 1 giờ của Đội thám hiểm.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Trung Cấp” cần cho Cường Hóa Năng Lực từ các stance Front, Back hoặc Assist.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Sơ Cấp” cần cho Cường Hóa Năng Lực từ các stance Front, Back hoặc Assist.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Cao Cấp” cần cho Cường Hóa Năng Lực từ các stance Front, Back hoặc Assist.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Sơ Cấp” cần cho Cường Hóa Năng Lực từ các thuộc tính Lửa, Nước, Đất, Ánh Sáng, Bóng Tối hoặc Vô.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Trung Cấp” cần cho Cường Hóa Năng Lực từ các thuộc tính Lửa, Nước, Đất, Ánh Sáng, Bóng Tối hoặc Vô.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Cao Cấp” cần cho Cường Hóa Năng Lực từ các thuộc tính Lửa, Nước, Đất, Ánh Sáng, Bóng Tối hoặc Vô.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を全種の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Sơ Cấp” cần cho Cường Hóa Năng Lực từ mọi loại.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を全種の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Trung Cấp” cần cho Cường Hóa Năng Lực từ mọi loại.
+
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を全種の中から選んで、1個獲得できる。=Dùng trong “Danh sách vật phẩm” để chọn và nhận 1 “Nguyên Tố Kỹ Năng Cao Cấp” cần cho Cường Hóa Năng Lực từ mọi loại.
+
+大穴で見つかるありふれた雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Những vật tư tạp thường thấy trong Đại Huyệt.\nCó thể đổi tại “Cửa hàng trao đổi” trong Shop lấy vật phẩm cần để cường hóa cơ sở và nhiều thứ khác. Chủ yếu nhận được từ phần thưởng Đội thám hiểm.
+
+大穴で見つかるめずらしいが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Những vật tư tạp hiếm thấy trong Đại Huyệt.\nCó thể đổi tại “Cửa hàng trao đổi” trong Shop lấy vật phẩm cần để cường hóa cơ sở và nhiều thứ khác. Chủ yếu nhận được từ phần thưởng Đội thám hiểm.
+
+大穴で見つかる貴重だが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Những vật tư tạp quý giá tìm thấy trong Đại Huyệt.\nCó thể đổi tại “Cửa hàng trao đổi” trong Shop lấy vật phẩm cần để cường hóa cơ sở và nhiều thứ khác. Chủ yếu nhận được từ phần thưởng Đội thám hiểm.
+
+『くまさんブランドタイトル合同キャンペーン』用の異世界のチケット。大切に保管しておくと良いことがあるらしい。=Tấm vé dị giới dùng cho “Chiến dịch hợp tác các tựa game Kumasan Brand”. Có vẻ nếu giữ cẩn thận thì sau này sẽ có chuyện tốt.
+紋章：情熱が付与されたとき、15秒間自身の状態異常付与確率【3%】UP=Khi được cấp Huy Hiệu: Nhiệt Huyết, tăng 【3%】 tỷ lệ gây hiệu ứng bất lợi của bản thân trong 15 giây

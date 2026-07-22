@@ -1,0 +1,153 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,100701000X,フィルム
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+wait,1
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+
+
+window,on,0.15
+message,,The soldier who had been caring for Film until she regained<br>consciousness bowed deeply as she sat up.<br> 
+
+charashow,chara_1,0
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+charaface,chara_1,FaceSad
+message,フィルム,I told you it's fine，so don't worry about it.<br> ,,vc_10070100023_001_01
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,フィルム,I understand what it's like to yearn for someone too...<br> ,,vc_10070100023_002_01
+
+message,,The soldier seemed convinced by Film's calm words. ""So you really<br>have found someone you love，haven't you?""<br> 
+
+asyncseplay,setag3_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,フィルム,...Huh? Th-that's not...<br> ,,vc_10070100023_003_01
+
+message,,The soldier continued，saying Film had become even more beautiful<br>lately and must be in love.<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceSurprise
+message,フィルム,So that's how I looked to you...<br> ,,vc_10070100023_004_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+priority,chara_1,CHARA,2,FRONT,
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+charaface,chara_1,FaceUnique02
+window,on,0.15
+message,フィルム,(I... in love...?)<br> ,,vc_10070100023_005_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,,""I won't tell anyone. I'll treasure this memory and do my best starting<br>tomorrow."" With that，the soldier thanked her contentedly.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+message,フィルム,Ah，well... I'm glad you're satisfied，then.<br> ,,vc_10070100023_006_01
+
+window,off
+wait,0.15
+
+seplay,setag3_3,se4300003,0,1
+
+wait,1
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+window,on,0.15
+message,フィルム,...I really am in love with someone wonderful. That's why thinking of<br>Commander makes every day so happy.<br> ,,vc_10070100023_007_01
+
+charahide,chara_1,0.3
+
+item,on,550100001
+
+message,ノワール,...<br> ,550100001,vc_10070100023_008_01,
+
+item,off,550100001
+
+charaface,chara_1,FaceSurprise
+
+charashow,chara_1,0
+
+asyncseplay,setag3_4,se4800022,0,1,CONT
+
+charaemo,chara_1,Speak
+
+charaface,chara_1,FaceSurprise
+message,フィルム,Oh，what's wrong，Noir? You seem dissatisfied with something.<br> ,,vc_10070100023_009_01
+
+asynccharaemo,chara_1,Sweat,STOP
+
+charaface,chara_1,FaceSad
+
+message,フィルム,...Could it be that you're angry because I'm the only one enjoying this<br>love while you've been helping me all this time?<br> ,,vc_10070100023_010_01
+
+charahide,chara_1,0.3
+
+item,on,550100001
+
+message,ノワール,...<br> ,550100001,vc_10070100023_011_01,
+
+item,off,550100001
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_5,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+charaface,chara_1,FaceUnique01
+
+charareaction,chara_1,Hop,1
+
+message,フィルム,N-Noir? Hey，Noir!<br> ,,vc_10070100023_012_01
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

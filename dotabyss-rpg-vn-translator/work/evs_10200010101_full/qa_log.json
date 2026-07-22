@@ -1,0 +1,13 @@
+{
+  "file": "evs_10200010101.txt",
+  "qa_status": "PASS",
+  "source_line_count": 1212,
+  "output_line_count": 1212,
+  "translatable_records": 47,
+  "translated_records": 47,
+  "kept_text_lines": [],
+  "changed_lines": 47,
+  "blockers": [],
+  "source_sha256": "41d8463a7cd98f8be83afb5e370ea9f526d9b5233249b7c9cddf11e4a09c74af",
+  "output_sha256": "347e2099a0d2eee1a77c646ffe171979f9e9f52825a55620177ded7cccfd964e"
+}

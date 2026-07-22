@@ -1,0 +1,70 @@
+{
+  "scene": "hmn_10210100001",
+  "title_vi": "Sức Mạnh Tinh Linh Nước!",
+  "character": "Humena (ヒュメナ)",
+  "language_pair": "JP -> VI (EN asset used as structural alignment authority)",
+  "source_jp": "dotabyss-translation-main/translations/novels/hmn_10210100001/ja.json",
+  "source_en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10210100001.txt",
+  "output_vi": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10210100001.txt",
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "keep_character_speaker_labels_jp": true,
+    "title_case_vietnamese": true,
+    "internal_comma_U+201A": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "delimiters_ids_tags_placeholders_preserved": true,
+    "h18_handled_normally": "n/a (no adult content in this scene)",
+    "intentional_romanized_keeps": [
+      "Humena",
+      "Upa-chan",
+      "Upa",
+      "Fufu",
+      "Fufufu",
+      "HAAAA",
+      "Hoooooooo",
+      "Ahaha",
+      "Hahaha",
+      "Hmm"
+    ]
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 68,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 69,
+  "translated_records": 69,
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10210100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 68,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 69,
+    "translated_records": 69,
+    "changed_lines": 69,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1025,
+      "vi": 1025,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "0a001ac8126bec12e34899bd7f09f739167f34e34cd7be1df15a9577c6699261",
+    "output_sha256": "28ff130d97ba119aed072f883d9cc0dc86607285a6b5599be161e0e4b4c561de"
+  },
+  "qa_notes": "All 69 text records (1 title + 68 message) translated JP->VI. No ASCII commas in VI text fields (all internal commas use U+201A ‚). No English fragments left; regex 'stray' hits were Vietnamese syllables. Naming: speaker labels (ヒュメナ, 前線基地の兵士A/B, 格闘家, ウパ, ？？？, 歓声) kept verbatim as engine keys; in-dialogue name mentions romanized to Humena/Upa-chan per shipped-VI convention. Commander/司令官君 -> Chỉ Huy. Place terms localized: Frontline Base -> Căn Cứ Tiền Tuyến, Hourai -> Hầu Lai, Water God -> Thủy Thần, priestess -> nữ tu sĩ."
+}

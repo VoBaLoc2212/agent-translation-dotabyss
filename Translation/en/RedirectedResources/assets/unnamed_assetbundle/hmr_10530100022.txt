@@ -1,0 +1,500 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10530100022
+
+charaload,chara_1,105301000X,シャノン
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10530100022_001_01,1
+
+
+
+
+
+window,on,0.15
+message,,—To think I can do this with Shannon，who I've always admired...<br>Behind her，the man's breath comes in ragged gasps.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,8
+
+message,シャノン,(So this is the guy who paid double to have me as his escort... I only<br>agreed because Ludia，who's been so good to me，asked me to...)<br> ,,vc_10530100022_001_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+message,シャノン,(Can I really do this well...? I've taken on this job as a professional，<br>so I must fulfill my duty...)<br> ,,vc_10530100022_002_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,Before her，the customer's cock stood erect.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotion06
+
+message,シャノン,(I didn't get a good look when I was with the owner the other day，but<br>I never imagined a man's thing could get this big...)<br> ,,vc_10530100022_003_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,At that moment，she felt a deep throb in her womb as a gush of<br>wetness flowed out.<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8.1
+
+message,シャノン,(How ironic... I'm getting excited by this situation too... But<br>somehow，it's different from when I was with the owner...)<br> ,,vc_10530100022_004_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,From behind Shannon，the man's excited，shaky voice called out.<br>""—I-I'm sorry，but could you keep moving like this?""<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10530100022_002_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シャノン,Mmph!... Ah!... Mmm!... *huff*... Mmm!... Mmph!... *puff*... Mmmh!<br> ,,vc_10530100022_005_01
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,As the man instructed，Shannon pressed her wet slit against his cock<br>and slid up and down.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6.1
+
+l2dmessage,シャノン,Mmph... *pant*! Mmph... Mmph! *pant*... *gulp*... *pant*!<br> ,,vc_10530100022_006_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,8.6
+
+message,シャノン,(W-What is this... The customer's thing is hitting my good spot... I-it<br>feels... good...)<br> ,,vc_10530100022_007_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.1
+
+message,,The man's hard cock stimulated Shannon's clitoris，sending jolts of<br>electric pleasure down her spine each time.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+l2dmessage,シャノン,*pant*... mmm... Ah... Mmph... *pant*... mmm... Mmph... *pant*... mmm...<br>*pant*<br> ,,vc_10530100022_008_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,From deep in her womb，her arousal gushed out with a *squelch*，<br>*squelch*，acting as lubricant for smooth friction.<br> 
+
+l2dmotion,FaceAngleTopLeft
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.1
+
+l2dmessage,シャノン,*pant*... Mmph... Aah! Mmph... mmm... *pant*... Mmph... Mmph... Mmph<br> ,,vc_10530100022_009_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,She could tell that the customer was also enjoying the intercrural<br>sex; his breathing grew rough.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+message,シャノン,(How long should I keep this up? Is it okay to let him cum just like<br>this...?)<br> ,,vc_10530100022_010_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.1
+
+message,シャノン,(No，wait. Ludia asked me to satisfy the customer... Can he be<br>satisfied by just cumming like this...?)<br> ,,vc_10530100022_011_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10530100022_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,シャノン,Mmm... Mmph... Aaah!<br> ,,vc_10530100022_012_01
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.1
+
+message,,Shannon lifted her hips on her own，guiding the man's swollen cock<br>deep into her pussy.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,10.5
+
+message,シャノン,(Ngh... It's not as big as the Owner's，but... i-it's big... And so...<br>hot...)<br> ,,vc_10530100022_013_01
+
+l2dmotion,FaceAngleReset
+
+message,,—'Are you sure，Miss Shannon?' the man asked in a flustered voice.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion01,on,STOP,12
+
+l2dmessage,シャノン,I'm a professional. As a paid professional，I can't do a sloppy job.<br>That's my policy—<br> ,,vc_10530100022_014_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10530100022_004_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シャノン,*whimper*... Mmph... *pant*! Ngh... Ah... *pant*... Mmph! Ah... Mmph...<br>*pant*... Ngh... Aah... *pant*!<br> ,,vc_10530100022_015_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,Shannon slowly moved her hips. To heighten her own arousal，she<br>fondled her breasts.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+message,シャノン,(L-Like this... it reminds me of that day's training session when the<br>Owner was fondling my breasts...)<br> ,,vc_10530100022_016_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.1
+
+l2dmessage,シャノン,*pant*... Ah... Aah... Mmph... Ah... *pant*... Mmph... *whimper*...<br>Mmph... Ah... Mmph... Aah... *pant*!<br> ,,vc_10530100022_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,As the memory of that day's training flashed through her mind，her<br>pussy clenched. The man couldn't help but sigh at her suctioning grip.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.1
+
+l2dmessage,シャノン,Mmph，Mmph... Ah，how is it? Does this feel good...?<br> ,,vc_10530100022_018_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,—'Yes，yes! It's amazing! Like a dream...' the man answered<br>excitedly，clearly meaning it.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.1
+
+l2dmessage,シャノン,I-I'm glad... Mmph... *pant*... Ngh... I-I'm also... feeling so good...!<br>Ah!... Aah!<br> ,,vc_10530100022_019_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10530100022_005_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シャノン,Mmph，Aaaah... Ngh... Mmph... Aah...! Ngh... Mmph... Ngh... *pant*!<br> ,,vc_10530100022_020_01
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7.1
+
+message,シャノン,(Mmph... A-at first I was worried whether I could do it well... but...<br>w-what is this... my hips move on their own... I can't help it...)<br> ,,vc_10530100022_021_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Shannon's hips moved faster，growing more intense. The male client<br>let out muffled sounds，his excitement rising.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+l2dmessage,シャノン,*pant*... Mmph... Ah... Aah...! Mmph... Ah... Aah... Ngh... Aah!<br> ,,vc_10530100022_022_01
+
+l2dmotion,FaceAngleReset
+
+message,,—'M-Miss Shannon，I-I'm about to come!' Finally，the man let out a<br>pained cry.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,シャノン,A-anytime... it's okay! If you want to cum，then cum.<br> ,,vc_10530100022_023_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,—'I-Is it really okay? Just come like this?' the man let out in a<br>flustered voice.<br> 
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,8
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8.1
+
+l2dmessage,シャノン,Mmph!... *pant*... Ngh... Ahh，I don't mind... j-just like this... inside<br>me...!<br> ,,vc_10530100022_024_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.1
+
+l2dmessage,シャノン,Hurry up and cum... please! I'm also... feeling too good... I-I'm about<br>to cum first!<br> ,,vc_10530100022_025_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9.1
+
+l2dmessage,シャノン,Aah... Ah... Aaaah! I-I can't... I can't hold back anymore!<br> ,,vc_10530100022_026_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,1.5
+
+bgvplay,bgvtag2_6,bgv_10530100022_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シャノン,Aaaah，Mmph，Aah! Aaaaaaah!<br> ,,vc_10530100022_027_01
+
+l2dmotion,MouthEmotion00
+
+message,,The moment Shannon climaxed，the head of his cock exploded inside<br>her，and a flood of thick white semen gushed out.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,9
+
+asyncl2dmotion,EyeOpenReset,on,STOP,9
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,9.1
+
+l2dmessage,シャノン,*pant*... *pant*... Mmph... Ah... *pant*... My... my belly... it's so hot...<br> ,,vc_10530100022_028_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion02,on,STOP,2
+
+message,,Shannon's spasms still hadn't subsided. As she caught her breath，<br>she savored the feeling of the hot semen deep in her belly.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+message,,Thick semen leaked from her pussy and trickled down. Shannon stared<br>at it with a dazed expression.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.1
+
+l2dmessage,シャノン,*pant，pant*... Good... I came properly.<br> ,,vc_10530100022_029_01
+
+
+message,,The thick white semen dripping from her pussy was proof that she<br>had completed her mission.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10530100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,シャノン,*pant，pant*... H-how is it? Are you... satisfied?<br> ,,vc_10530100022_030_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+message,,Shannon glanced at the man.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,With tears in his voice，the man stammered，'It—it was the best，Miss<br>Shannon...'<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+message,シャノン,(Good... looks like I did my job properly as a professional.)<br> ,,vc_10530100022_031_01
+
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

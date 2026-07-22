@@ -1,0 +1,72 @@
+{
+  "scene": "hmn_10420100002",
+  "title_jp": "きょ、今日はいい天気ですね！",
+  "title_vi": "Hô, Hôm Nay Trời Đẹp Nhỉ!",
+  "source_case": "EN-asset-is-English (en.json English, asset message fields English); title field still JP -> translated JP->VI Title Case",
+  "ja_json_note": "ja.json is identity map; JP recovered via en.json reverse-lookup with norm()",
+  "records": {
+    "title": 1,
+    "message": 93,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 94
+  },
+  "structure": {
+    "bom": "UTF-8 BOM preserved",
+    "newline": "CRLF preserved",
+    "line_count": 1207,
+    "delimiter": "ASCII comma; U+201A used inside VI text"
+  },
+  "characters": {
+    "ヘイリー": "Hayley (speaker label kept JP). Timid noble-hero aspirant. To Commander: em/anh once rapport builds; earlier polite deferential.",
+    "<user>": "Commander -> Chỉ Huy (anh)",
+    "一般兵Ａ/Ｂ": "generic soldiers, casual",
+    "モンスター": "monster SFX"
+  },
+  "terminology": {
+    "大穴": "Đại Huyệt",
+    "前線基地": "Căn Cứ Tiền Tuyến",
+    "Commander/司令官": "Chỉ Huy",
+    "dark fantasy": "dark fantasy (kept)",
+    "Milord/様": "Chỉ Huy",
+    "Jiiya/じいや": "ông Jiiya"
+  },
+  "notes": [
+    "Title translated to Vietnamese Title Case.",
+    "Monster growl GWOOOOOOH -> GỪOOOOOOÀ (localized SFX to clear UNCHANGED_TEXT).",
+    "Ellipsis-only records ... -> ………… (byte-differ from EN).",
+    "<br> counts mirror EN asset exactly (authoritative); L18/56/62 collapsed internal break to match EN br=1.",
+    "Speaker labels (field 1) kept JP byte-identical.",
+    "H18-adjacent none; slice-of-life romance scene translated at source tone."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10420100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 93,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 94,
+    "translated_records": 94,
+    "changed_lines": 94,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1207,
+      "vi": 1207,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "9e514948198c3c407de1ee588057c96223da164f487a07b955a3afded35f4990",
+    "output_sha256": "d0e8cc2b1c49f434536c261f1a6ddea8266e3099e760cb308e7f42395c862d0e"
+  },
+  "status": "PASS"
+}

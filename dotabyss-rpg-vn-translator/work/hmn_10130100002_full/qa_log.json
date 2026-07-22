@@ -1,0 +1,75 @@
+{
+  "scene": "hmn_10130100002",
+  "status": "PASS",
+  "qa_status": "PASS",
+  "timestamp": "2026-07-19T10:20:13.023255+00:00",
+  "candidate_record_counts": {
+    "messageTextCenter": 0,
+    "message": 83,
+    "messageTextUnder": 0,
+    "title": 1
+  },
+  "candidate_text_records": 84,
+  "translated_records": 84,
+  "changed_text_records": 84,
+  "blockers": [],
+  "notes": [
+    {
+      "type": "SOURCE_ALIGNMENT",
+      "detail": "JP ja.json is primary; EN novel and EN asset used for ordered alignment. Asset candidate order matched 84 text commands."
+    },
+    {
+      "type": "CHARACTER_VOICE",
+      "detail": "Frederica kept casual blunt voice; 師匠 localized as old lecherous master using ta/con/ngươi/ngài as context; Commander/司令官 -> Chỉ Huy."
+    },
+    {
+      "type": "H18_RULE",
+      "detail": "Adult/H18-adjacent erotic magic references translated normally under confirmed all-18 project rule; source tone/consent preserved."
+    },
+    {
+      "type": "COMMA_RULE",
+      "detail": "No ASCII comma introduced in Vietnamese text fields; Vietnamese internal comma pauses use U+201A where needed."
+    }
+  ],
+  "source_props": {
+    "bytes": 19431,
+    "sha256": "fc760879f567c32ce07a8c60ffafd57568c560e5c4480c2e47a2636fa1b20fff",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 730,
+    "endswith_newline": true
+  },
+  "output_props": {
+    "bytes": 21120,
+    "sha256": "6c718a9a36e96aefdddb536bd72565ed45e90878590d5436295846d62712fbe8",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 730,
+    "endswith_newline": true
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 83,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 84,
+  "changed_lines": 84,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 730,
+    "vi": 730,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "fc760879f567c32ce07a8c60ffafd57568c560e5c4480c2e47a2636fa1b20fff",
+  "output_sha256": "6c718a9a36e96aefdddb536bd72565ed45e90878590d5436295846d62712fbe8"
+}

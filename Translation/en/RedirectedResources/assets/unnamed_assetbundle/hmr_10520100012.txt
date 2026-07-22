@@ -1,0 +1,754 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10520100012
+
+charaload,chara_1,105201000G,シェリル
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10520100012_001_01,1
+
+
+
+window,on,0.15
+message,,As I pushed her down onto the bed，the front of her shirt fell open，<br>revealing her full，heavy tits.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8
+
+l2dmessage,シェリル,Mmm... Commander，you can't take your eyes off my tits，can you?<br>They're pretty big，right?<br> ,,vc_10520100012_001_01
+
+
+message,,They weren't just ""pretty big."" I'd had a suspicion. Since Cheryl<br>always wore a uniform，it wasn't obvious，but she had huge tits.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+message,,As I stared，transfixed，water droplets gleamed on her taut skin. Her<br>wet，glistening form only made me more aroused.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.5
+
+l2dmessage,シェリル,Um... being stared at so intently is a little embarrassing，you know...<br> ,,vc_10520100012_002_01
+
+
+message,,Cheryl's eyes trembled with shyness. The contrast with her usual<br>boyishness made my desire surge.<br> 
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,I could still turn back then，but was this really okay? I asked myself<br>that final question，feeling my breath grow heavy.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,1
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+l2dmessage,シェリル,Yeah... I told you，didn't I? I'm okay with it if it's you.<br> ,,vc_10520100012_003_01
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.5
+
+l2dmessage,シェリル,And besides，you can't exactly stop now，can you? I mean，your<br>cock... it's gotten so big，hasn't it?<br> ,,vc_10520100012_004_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,She was right. I warned her I couldn't stop now，and pressed my bare<br>cock against her pussy.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10520100012_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シェリル,Ngh!... mmm... *sigh*... *pant*...<br> ,,vc_10520100012_005_01
+
+
+message,,The moment my cock touched her pussy，her body jerked.<br> 
+
+
+message,,She'd been putting on such a cool front that I assumed she was no<br>stranger to sex. But this sensitive reaction suggested otherwise.<br> 
+
+
+message,,In that case，I'd better make sure she was ready. I rocked my hips，<br>grinding my cock against her clit.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen03,on,STOP,7
+
+l2dmessage,シェリル,Ngh... *huff*... mmm... th-there... don't... aahn!<br> ,,vc_10520100012_006_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen01
+
+message,,Even this gentle stimulation drew a breathy moan from Cheryl. Her<br>cheeks softened，letting me know she was getting aroused.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+message,,She was teasing me，but Cheryl was the one who was really turned on.<br>I pointed that out，a little smugly.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,シェリル,Come on，you're too loud. If we're doing this anyway... mm. I might as<br>well get in the mood，right?<br> ,,vc_10520100012_007_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+message,,Despite her complaints，Cheryl made no effort to control her ragged<br>breathing. Before I knew it，her pussy was soaked with love juice.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,シェリル,Commander... hey，so... I want you to put it in now...<br> ,,vc_10520100012_008_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+message,,Cheryl's endearing plea made my cock stiffen even more. I<br>immediately pressed its tip against the entrance of her pussy—<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10520100012_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+wait,1
+
+l2dmessage,シェリル,Mmm... *gasp*...! Aaaah! *pant*... mmm... Aaah... *pant*...<br> ,,vc_10520100012_009_01
+
+
+message,,I slid into her，parting her wet folds. Her pussy sucked in my cock as<br>if swallowing it，letting me bury myself to the hilt in one go.<br> 
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,4
+
+message,,Her inner walls kept writhing as if inviting my cock deeper and<br>deeper. When I teased，'Were you that desperate for it?' she looked away.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion02,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+l2dmessage,シェリル,Mmph... that's just your imagination，isn't it? *pant*... *sigh*... y-you<br>were the one who couldn't wait to put it in，weren't you?<br> ,,vc_10520100012_010_01
+
+l2dmotion,EyebrowEmotionReset
+
+message,,She looked so cute getting defensive like that，my groin grew hot.<br>Unable to hold back that impulse，I immediately drove my hips forward.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10520100012_004_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+wait,1.5
+
+l2dmessage,シェリル,Mmm... Hn! R-rough... Aah...!<br> ,,vc_10520100012_011_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+l2dmessage,シェリル,*pant*，Ah，mmm...! H-hold on...! It's my first time，so... *pant*... be a<br>little gentler... Ah.<br> ,,vc_10520100012_012_01
+
+
+message,,Even as she griped，it was obvious she was feeling intense pleasure.<br>Her insides were squeezing me that tightly.<br> 
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+message,,But it was already too late. I reminded her that I'd warned her from<br>the start.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,シェリル,Th-that's true，but... Ah，ngh... I never thought it'd be this<br>incredible... Mmph... I wasn't ready for it... *pant*，Mmph.<br> ,,vc_10520100012_013_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion02
+
+message,,I couldn't stop no matter how hard I tried. Every time I thrust deep，<br>her pussy tightened and her full，ripe breasts bounced wildly.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+message,,All of it stoked my excitement and pleasure. In other words，it was all<br>Cheryl's fault that I couldn't stop thrusting.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,5.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5.5
+
+l2dmessage,シェリル,What's that supposed to mean! So you're blaming me? Ngh，Ah... it's<br>not like I'm doing it on purpose...!<br> ,,vc_10520100012_014_01
+
+l2dmotion,EyeEmotionReset
+
+message,,Her pitiful voice only stirred my sadistic urge to go even harder. And<br>so my hips gradually moved more vigorously—<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10520100012_005_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+wait,1
+
+l2dmessage,シェリル,Mmm，*pant*... Ah! Ngh，Ah，Ah...!<br> ,,vc_10520100012_015_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+message,,The fiercer my thrusts，the more her soft breasts bounced. Unable to<br>tear my eyes away，I told her how beautiful they were.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,FaceAngleRight,on,STOP,11
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,11
+
+asyncl2dmotion,EyeOpen01,on,STOP,15.5
+
+l2dmessage,シェリル,Ngh，Ah... you say that，but... *pant*... mmm... it's a hassle hiding<br>these，you know? On duty... Mmph... it's all men... Ah，*pant*，mmm!<br> ,,vc_10520100012_016_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionLeft
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,11.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,11.5
+
+l2dmessage,シェリル,A guard with her breasts bouncing like that... Mmph! Gah，m-might<br>actually lead to more crime... don't you think? Ngh!<br> ,,vc_10520100012_017_01
+
+
+message,,She's got a point. With a pair as magnificent as that bouncing<br>around，it's no wonder some guys get the wrong idea.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen03,on,STOP,7
+
+asyncl2dmotion,MouthEmotion05,on,STOP,7
+
+asyncl2dmotion,FaceEmotion00,on,STOP,13
+
+l2dmessage,シェリル,O-Oh，I do remember... Mmph! Ah! *pant*...!<br>If that's the case... you perv，I'll... Mmph... arrest you，okay?<br> ,,vc_10520100012_018_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotionReset
+
+message,,After all that seduction，she called me a pervert.<br>That taunt erased the last bit of consideration I still had.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleBottom
+
+message,,I grabbed Cheryl by both arms and pulled her closer，thrusting harder<br>and deeper— ramming my hard，swollen cock into her.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10520100012_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+wait,1
+
+l2dmessage,シェリル,Mmm... *pant* Aaaahn...! S-so deep! Ah! Aaaah!<br> ,,vc_10520100012_019_01
+
+l2dmotion,EyeOpen01
+
+message,,Who was the one who seduced me half-naked? You wanted this all<br>along，didn't you? I pressed the attack with words too.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シェリル,Th-That's... Mmph! Y-Yeah，that's right...!<br>I wanted you to hold me... Ah! Hyahn!♥<br> ,,vc_10520100012_020_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpen03,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,14
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,14
+
+asyncl2dmotion,EyeOpen01,on,STOP,14
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,14
+
+asyncl2dmotion,MouthEmotion00,on,STOP,14
+
+l2dmessage,シェリル,Ah! Aaah! Mmph! *huff*... B-but... don't get the wrong idea，okay?<br>I wouldn't let just anyone... my first time，I wanted you... Aah!<br> ,,vc_10520100012_021_01
+
+l2dmotion,MouthEmotionReset
+
+message,,The gap from her usual attitude makes Cheryl look even cuter. I want<br>to see more of her cute side，to make her lose control even more.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+message,,As a guard，reporting to a superior officer is an important duty.<br>Report your situation in detail— I ordered Cheryl.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,MouthEmotion02,on,STOP,2
+
+l2dmessage,シェリル,Aahn! Ah... R- report...? Understood... *pant*!<br> ,,vc_10520100012_022_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,13.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,13.5
+
+l2dmessage,シェリル,My... down there... is being thrust by your... that thing...!<br>It's... Mmph! It's throbbing so much... hann!♥<br> ,,vc_10520100012_023_01
+
+l2dmotion,EyeOpenReset
+
+message,,Perhaps embarrassed by having to report on her own body，her inner<br>walls undulated and tightened around my cock with every word she spoke.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,I was getting more and more into it，so I prompted her to correct her<br>report and make it clearer.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,MouthEmotion01,on,STOP,3
+
+l2dmessage,シェリル,Wah... my... p... pussy...!<br>Being thrust by your... c-cock... ah，mmm...!<br> ,,vc_10520100012_024_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,MouthEmotion01,on,STOP,6
+
+l2dmessage,シェリル,Since earlier...!<br>It feels so good... I can't stop it... hyaaa!<br> ,,vc_10520100012_025_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シェリル,More... make me feel even better...!<br>I want you to make me feel good... Commander...!<br> ,,vc_10520100012_026_01
+
+l2dmotion,EyeOpen01
+
+message,,Her melted-face begging sent shivers up my spine.<br>Then，as if to reward her，I thrust my hips with all my might.<br> 
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,シェリル,Ah，so rough...! N-no!<br>I'm gonna lose my mind...!<br> ,,vc_10520100012_027_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,0.5
+
+bgvplay,bgvtag2_7,bgv_10520100012_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+
+l2dmessage,シェリル,Ah，ah，ah... aaaah!♥<br> ,,vc_10520100012_028_01
+
+l2dmotion,FaceAngleTop
+
+message,,Cheryl's body jerked and arched as her pussy spasmed. A long moan<br>echoed，and through our joined bodies I felt the tremors of her climax.<br> 
+
+l2dmotion,EyeOpen02
+
+message,,But I didn't slow the rhythm of my hips.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmessage,シェリル,Feh! H-hey...! Ah，Kyah! C-Commander! I already came，so stop for a<br>second!<br> ,,vc_10520100012_029_01
+
+
+message,,I hadn't cum yet—I told her with cruel satisfaction. I slammed my hips<br>deep and hard，grinding against the walls of her pussy.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,5
+
+l2dmessage,シェリル,Hic! A-ah，Hyah... stop it...! I keep cumming and cumming... I'm losing<br>my mind...!<br> ,,vc_10520100012_030_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Cheryl's face was slack and melted. The moans she let out as she<br>writhed in pleasure were nothing like her usual cool demeanor.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen02
+
+message,,Watching Cheryl convulse and fall apart，I felt my own limit<br>approaching. The hot mass swelling deep in my loins burst forth all at once—<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10520100012_008_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シェリル,Ah，aah! *pant* Aaaaaaah!<br> ,,vc_10520100012_031_01
+
+
+message,,As I came，Cheryl shuddered. Her second climax was stronger，and<br>she flopped her legs open，gasping.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen01
+
+l2dmessage,シェリル,Ah... *pant*... that's incredible... it feels so good... it won't end!♡<br> ,,vc_10520100012_032_01
+
+l2dmotion,EyeOpen03
+
+message,,Her pussy rippled，trying to wring out every drop of cum. An<br>incredible amount of cum was pumped into her，and it was already leaking out.<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,シェリル,*pant，pant，pant*... that was amazing!♡ I never knew sex could feel<br>this good... Hey... did you enjoy it too?<br> ,,vc_10520100012_033_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion02
+
+message,,She asked with tearful eyes，and I nodded at once. I never imagined<br>I'd get so lost in this...<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10520100012_009_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シェリル,Ehehe!♡ That makes me so happy!♪<br> ,,vc_10520100012_034_01
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpen03
+
+l2dmessage,シェリル,Still... I think I'm getting hooked on this... If I can feel this good with<br>you again，maybe working at a brothel wouldn't be so bad.<br> ,,vc_10520100012_035_01
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,11.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotion05,on,STOP,5
+
+l2dmessage,シェリル,Hey，will you interview me for the job? If I work there，I'll have more<br>time near you. We can pass it off as security or undercover work.<br> ,,vc_10520100012_036_01
+
+l2dmotion,MouthEmotion02
+
+message,,As I answered that I had no problem with it，I noticed we were both<br>dripping with sweat. I muttered that we'd need to take another shower.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion05,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+asyncl2dmotion,MouthEmotion02,on,STOP,10
+
+asyncl2dmotion,EyeOpen02,on,STOP,17.5
+
+asyncl2dmotion,MouthEmotion06,on,STOP,17.5
+
+l2dmessage,シェリル,Ah，you're right. After moving that much，it's only natural. As for the<br>shower... we're going together，right? Fufu.<br> ,,vc_10520100012_037_01
+
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

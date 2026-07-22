@@ -1,0 +1,74 @@
+{
+  "scene": "hmn_10180100001",
+  "status": "PASS",
+  "created_at": "2026-07-19T10:39:33.235305+00:00",
+  "paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100001\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100001\\en.json",
+    "source_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100001.txt",
+    "output_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100001.txt",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100001_full",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100001_full\\focused_diff.md",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100001_full\\qa_log.json",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100001_full\\apply_translation.py"
+  },
+  "source_metadata": {
+    "sha256": "768346e22e0b858521a4cc932c0a81cdccbee6a3852739442df11440f3f9472e",
+    "bytes": 27269,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1234,
+    "text_command_counts": {
+      "title": 1,
+      "message": 77
+    },
+    "total_text_records": 78
+  },
+  "output_metadata": {
+    "sha256": "16a26d5f726d919b929f40046847f8ff82a41227599d2d171a7cea65599fb7b1",
+    "bytes": 27885,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1234,
+    "text_command_counts": {
+      "title": 1,
+      "message": 77
+    },
+    "total_text_records": 78
+  },
+  "mapping_summary": {
+    "ja_keys": 78,
+    "en_values_blank": true,
+    "translated": 76,
+    "unmatched": 2
+  },
+  "independent_verify": {
+    "scene": "hmn_10180100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 77,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 78,
+    "translated_records": 78,
+    "changed_lines": 78,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1234,
+      "vi": 1234,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "768346e22e0b858521a4cc932c0a81cdccbee6a3852739442df11440f3f9472e",
+    "output_sha256": "1df0ccfc8ed37808e4f1e5cb49805336f85e810ec27344db76ca34e7b2722c0e"
+  }
+}

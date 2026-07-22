@@ -1,0 +1,75 @@
+{
+  "scene": "hmn_10400100002",
+  "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10400100002_full",
+  "source_language": "JP (ja.json primary) -> EN asset text is English, title field is JP",
+  "mode": "EN-asset-is-English, title-still-JP",
+  "en_source": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10400100002.txt",
+  "ja_source": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10400100002/ja.json",
+  "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10400100002/en.json",
+  "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10400100002.txt",
+  "candidate_counts": {
+    "title": 1,
+    "message": 91,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 92,
+  "translated_records": 92,
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "commaander_typo_repaired_to_chi_huy": true,
+    "ascii_comma_replaced_with_u201A": true,
+    "title_vietnamese_title_case": true,
+    "speaker_labels_kept_jp": [
+      "<user>",
+      "ルカ",
+      "アリシア",
+      ""
+    ],
+    "frontline_base_term": "Căn Cứ Tiền Tuyến",
+    "luca_romanized": true
+  },
+  "addressing_matrix": {
+    "Commander (<user>)": "Chỉ Huy; uses anh/em, calls Luca 'em'",
+    "Luca (ルカ)": "kept JP label; in-dialogue 'Luca'; em/anh to Commander, self-refers as 'em'",
+    "Alicia (アリシア)": "kept JP label; 'Alicia'; polite tôi/ngài to Commander"
+  },
+  "notes": [
+    "EN asset text field is English (en.json non-empty English). JP title field translated from ja.json key '次は負けないから！' to Title Case 'Lần Sau Sẽ Không Thua Đâu!'.",
+    "EN asset typo 'Commaander' (Luca's mangled reading of Commander) repaired to 'Chỉ Huy' per rule 12/repair guidance; logged intentional correction.",
+    "All ASCII commas inside VI text fields replaced with U+201A '‚' (e.g. 'Hư hư hư‚ Chỉ Huy').",
+    "'Frontline Base' -> 'Căn Cứ Tiền Tuyến' per project convention.",
+    "Speaker labels (field 1) kept byte-identical JP per skill rules; in-dialogue name mentions romanized (Luca, Alicia, Chỉ Huy).",
+    "No %user% placeholders in this asset; BOM + CRLF + <br> tags + trailing '<br> ' suffix preserved exactly."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10400100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 91,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 92,
+    "translated_records": 92,
+    "changed_lines": 92,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1446,
+      "vi": 1446,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "342432c14b9aaa7a162353480310c0070830bfced8ec9d9aae1a5aa7b79b30c0",
+    "output_sha256": "a59cca8323bf92a99e7dcd70647506af3c1423c0219ef65fd73acb769489a31e"
+  },
+  "status": "PASS"
+}

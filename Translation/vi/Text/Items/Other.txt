@@ -1,0 +1,12 @@
+﻿大穴から採掘された神秘的な宝石。人を惹き寄せると言われている。様々な用途に使用できる。=Một viên ngọc bí ẩn được khai thác từ Vực Thẳm. Tương truyền nó có sức hút mê hoặc lòng người. Có thể sử dụng cho nhiều mục đích.
+トレスリア地方全域で流通している通貨。様々な用途に使用できる。=Loại tiền tệ lưu thông trên toàn vùng Treslia. Có thể sử dụng cho nhiều mục đích.
+お客様に喜ばれた時に貰える感謝のチップ。\n「交換所」でアビリティ強化素材などと交換できる。\n主に「ルディアのお店」の営業報酬などで獲得できる。=Tiền boa tri ân nhận được khi làm khách hàng hài lòng.\nCó thể dùng để Đổi Thưởng lấy nguyên liệu cường hóa Năng Lực.\nChủ yếu thu thập từ Phần Thưởng kinh doanh ở Cửa Hàng của Ludia.
+厄災を討伐し、トレスリア地方の安寧を守った証。\nショップの「交換所」でアビリティ強化素材などと交換できる。\n主に迎撃戦の報酬として獲得できる。=Minh chứng cho việc tiêu diệt Tai Ương và bảo vệ hòa bình vùng Treslia.\nCó thể dùng để Đổi Thưởng lấy nguyên liệu cường hóa Năng Lực ở Cửa Hàng.\nChủ yếu thu thập từ phần thưởng Trận Nghênh Chiến.
+フレンドからもらえるポイント。\n交換所で様々な景品と交換することができる。=Điểm nhận được từ bạn bè.\nCó thể dùng để Đổi Thưởng lấy nhiều phần quà khác nhau.
+キャラクターを成長させる経験値。=Điểm kinh nghiệm dùng để bồi dưỡng nhân vật.
+プレイヤーを成長させる経験値。=Điểm kinh nghiệm dùng để nâng cấp người chơi.
+深淵内で手に入る鍵。深淵内でのみ使用できる。=Chìa Khóa tìm thấy và chỉ có thể sử dụng trong Vực Thẳm.
+ミッションパスレベルを上昇させることができるポイント。=Điểm dùng để tăng cấp độ Mission Pass.
+Tôi đã đọc cả hai file. Hãy để tôi so sánh từng key một.
+
+

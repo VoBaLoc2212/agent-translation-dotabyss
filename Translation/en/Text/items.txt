@@ -1,0 +1,263 @@
+System
+最大100個まで使用できます=<cspace\=-0.1em>Max 100 per bulk use
+使用する=Use
+使用=Use
+主な入手先=Main source
+所持数：=<size\=80%>No. owned:
+消費アイテム=Consumables
+チケット=Tickets
+勢力ピース=Force Pieces
+キャラ経験値=Chara EXP Points
+ゴールド=Gold
+アイテム情報=Item Information
+強化素材=Reinforced Material
+育成アイテム=Training Items
+研究素材=Research Material
+上限解放素材=Limit Break Material
+詳細=Detail
+出現ランク=Rank
+出現レアリティ=Rarity
+装備詳細=Equipment Details
+更新まで：=Until update: 
+r:"^([0-9]+)日([0-9]+)時間$"=$1D $2H
+アクセ=Accessory
+sr:"^([\S\s]+) ×1$"=<line-height\=60%>$1 ×1</line-height>
+残り交換回数=<line-height\=60%>Exchanges Left
+交換数=Quantity
+マンスリー=Monthly
+DMMポイント=DMM Point
+以下のアイテムを購入しました。=Purchased the following items.
+交換確認=Confirm Exchange
+購入時獲得アイテム=Items earned after purchase
+購入内容確認=Confirm Purchase Details
+
+Appraisal system
+鑑定=<size\=80%>Appraisal
+再鑑定=Reroll
+<color\=#4cf37b>鑑定レンズ</color>を消費して<color\=#4cf37b>再鑑定</color>を行いますか？=Would you like to use a <color\=#4cf37b>Appraisal Lens</color> to perform a <color\=#4cf37b>reroll</color>?
+再鑑定を行うと効果が上書きされます。=By rerolling, you'll overwrite current effect.
+エンチャントを鑑定して隠された力を明らかにします。\n鑑定レンズかアビスジェムを消費することで<color\=#4cf37b>鑑定の結果を変更</color>することが出来ます。=<size\=90%>Appraise enchantments to uncover their hidden powers. \nYou can <color\=#4cf37b>change the appraisal result</color> by using an Appraisal Lens or an Abyss Gem.
+この鑑定結果で確定させますか？再鑑定することで結果を変更することができます。=Do you want to finalize this appraisal result? \nYou can change the result by rerolling.
+結果を確定しますか？=Confirm the appraised result?
+※確定後も再鑑定を行うことは可能です=*You can reroll again even after confirming.
+
+
+Stuff
+初=Beginner
+中=Intermediate
+上=Expert
+属性=Attr.
+事前登録=Prereg
+鑑定武器=Appraisal Weapon
+防具=Armor
+武器=Weapon
+レジェンダリー=Legendary
+
+Stamina system
+回復量：=<size\=80%>Recover:
+スタミナ回復薬(小)=Stamina Recovery Potion (S)
+スタミナ回復薬(中)=Stamina Recovery Potion (M)
+
+Shards
+提供割合=Rate
+ピース50個につきガチャ1回=1 gacha per 50 pieces
+ガチャ回数【1回】=<size\=80%>Gacha attempt [1 time]
+r:"^ガチャ回数【([0-9]+)回】$"=<size\=80%>Gacha attempt [$1 times]
+
+Count
+交換回数=Amount
+r:"^([0-9]+)回$"=$1x
+
+Item list
+【凸】純真結晶引換券(ルクスノヴァ)=[Convex] Pure Crystal Voucher (Luxnova)
+【凸】純真結晶引換券(ルクスノヴァ除く)=[Convex] Pure Crystal Voucher (No Luxnova)
+紫銀のマテリアル=Purple Silver material
+銀のマテリアル=Silver Material
+金のマテリアル=Gold Material
+サブスクポイント=Subcription Points
+防衛施設のマナ燃料=Mana Fuel
+選べるSSRキャラBOX交換券=SSR Chara Select BOX Voucher
+アビスシール=Abyss Seal
+フレンドポイント=Friend Points
+凱旋コイン=<line-height\=60%>Triumph Coin</line-height>
+ソウル=Soul
+ラッキーボックス券=Lucky Box Ticket
+うれしいプレゼント=Nice Present
+アビスジェム=Abyss Gem
+プレイヤー経験値=Player EXP Points
+r:"^キャラ経験値セット\(([0-9]+)時間\)$"=Character EXP Value Set ($1H)
+r:"^記憶の欠片セット\(([0-9]+)時間\)$"=Memory Fragment Set ($1H)
+r:"^ゴールドセット\(([0-9]+)時間\)$"=Gold Set ($1H)
+プレミアムガチャチケット=Premium Gacha Ticket
+ピックアップガチャチケット=Pick Up Gacha Ticket
+ロストシグナル「深淵」=Lost Signal "Abyss"
+ゲートキー「深淵」=Gate Key "Abyss"
+sr:"^中級技能元素\(([\S\s]+)\)$"=Intermediate Skill Element ($1)
+sr:"^初級技能元素\(([\S\s]+)\)$"=Beginner Skill Element ($1)
+sr:"^上級技能元素\(([\S\s]+)\)$"=Advanced Skill Element ($1)
+追加営業許可証「ルディアのお店」=Additional Business License "Ludia's Shop"
+【SR以上】探索者の証・招集=[SR Up] Explorer's Summon
+sr:"^選べる([\S\s]+)級技能元素BOX【([\S\s]+)】$"=$1 Skill Ele. Select Box [$2]
+くまさんブランドタイトル合同CPチケット=Kumasan Brand Title Joint CP Ticket
+sr:"^選べるRank([0-9]+)([\S\s]+)BOX【([\S\s]+)】$"=Rank $1 $2 Select Box [$3]
+迎撃戦許可証=Interception Permit
+sr:"^([\S\s]+)の純真結晶$"=$1's Pure Crystal
+SSR確定プレミアムガチャチケット=SSR Guarantee Premium Gacha Ticket
+選べるSSRキャラBOX【プレミアム1弾】=SSR Chara Select BOX [Premium 1st edition]
+選べるSSRキャラBOX【第1弾】=SSR Chara Select BOX [1st edition]
+セレクトSSR確定ガチャのかけら=Select SSR Confirm Gacha Piece
+選べる初級技能元素BOX=Beginner Skill Element Select Box
+選べる中級技能元素BOX=Intermediate Skill Element Select Box
+選べる上級技能元素BOX=Advanced Skill Element Select Box
+選べる親愛度アイテムBOX=Affinity Item Select Box
+特級技能元素(万能)=Special-Grade Skill Element (All)
+r:"^【探索報酬】時の砂時計([0-9]+)時間$"=[Exploration Reward] Hourglass $1H
+鑑定レンズ「装備」=Appraisal Lens "Equipment"
+黒縄の連帯=Black Rope's Solidarity
+蒼剣の誇り=Azure Sword's Pride
+紅魔の栄光=Crimson Demon's Glory
+翠石の隆盛=Green Stone's Rise
+光輝の誓願=Radiant Vow
+探索者の証=Explorer's Proof
+sr:"^([\S\s]+)・招集$"=$1・Convene
+sr:"^【SSR確定】([\S\s]+)・大勲$"=[SSR Confirm] $1・Grand Order of Merit
+記憶の欠片(LvUP)=Memory Fragments (LvUP)
+幻獣の角=Beast Horn
+食人花の花=Cannibal Plant's Flower
+宝石の原石=Raw Gemstone
+貴重な鉱石=Precious Ore
+貴重な骨材=Precious Aggregate
+貴重な木材=Precious Wood
+めずらしい骨材=Rare Aggregate
+めずらしい鉱石=Rare Ore
+めずらしい木材=Rare Wood
+ありふれた鉱石=Common Ore
+ありふれた木材=Common Wood
+ありふれた骨材=Common Aggregate
+[無償]アビスジェム×100\nゴールドセット(12時間)×1=[Free] Abyss Gems ×100\nGold Set (12H) ×1
+マンスリー無料パック=Monthly Free Pack
+[無償]アビスジェム×10\nうれしいプレゼント×1=[Free] Abyss Gems ×10\nNice Present ×1
+デイリー無料パック=Daily Free Pack
+ミレスガルドの協力者=Millesgard's Collaborator
+
+Weapon stats
+未鑑定=Unidentified
+連撃率上昇=Success Rate UP
+攻撃上昇=Attack UP
+HP上昇=HP UP
+紋章：情熱付与=Crest: Zeal
+紋章：衝撃攻撃UP=Impact ATK UP
+攻撃UP=Attack UP
+状態異常付与確率上昇=<size\=90%>Inflict Status Chance UP
+防御上昇=Defense UP
+紋章：衝撃スキルチャージ=Impact Skill Charge
+スキルチャージ効率上昇=Skill Chg. Eff. UP
+紋章：衝撃防御UP=Impact Defense UP
+防御UP=Defense UP
+紋章：衝撃付与=Crest: Impact
+会心率上昇=Critical Hit Rate UP
+連撃率UP=Combo Rate UP
+紋章：衝撃連撃率UP=Impact Rate UP
+会心率UP=Critical Hit Rate UP
+探索力UP=Exploration power UP
+スキルチャージ効率UP=Skill Chg. Eff. UP
+紋章：衝撃会心率UP=Impact Rate UP
+紋章：情熱連撃率UP=Zeal Rate UP
+紋章：情熱HP回復=Zeal HP Recovery
+紋章：情熱攻撃UP=Zeal attack UP
+紋章：情熱防御UP=Zeal defense UP
+紋章：情熱会心率UP=Zeal rate UP
+エレメンタルマント=Elemental Cloak
+バニースーツ=Bunny Suit
+紋章：情熱スキルチャージ=Zeal Skill Charge
+
+紋章：情熱が5以上で紋章：情熱が付与されたとき、15秒間味方バック全体の会心率【10%】UP（1編成につき1本分のみ効果発動）=When Crest: Zeal is applied while at 5 or higher, increases all back-row allies' Critical Rate by [10%] for 15 sec (only one copy active per team)
+敵が戦闘不能になったとき、1%の確率で、味方フロント全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=When an enemy is downed, 1% chance to apply Crest: Impact [1] to all front-row allies (only one copy active per team)
+マナチャージ効率【10%】上昇=Increase mana charge efficiency by [10%]
+r:"^HP【(\d+(?:\.\d*)?)%】上昇$"=Increase HP by [$1%]
+r:"^被ダメージ時、(\d+(?:\.\d*)?)%の確率で、自身に紋章：情熱を【([0-9]+)】付与$"=$1% chance to grant yourself Crest: Zeal [$2] when taking damage
+会心ヒット時、最も近い敵に爆発で追撃を行う=When a critical hit lands, it follows up with an explosion targeting the nearest enemy
+r:"^連撃率【(\d+(?:\.\d*)?)%】上昇$"=Increase consecutive attack rate by [$1%]
+r:"^攻撃【(\d+(?:\.\d*)?)%】上昇$"=Increase attack by [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=When Crest: Impact is consumed, increase own attack power by [$2%] for $1 seconds.
+r:"^会心時、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=Upon landing a critical hit, increase own attack power by [$2%] for $1 seconds.
+r:"^状態異常付与確率【(\d+(?:\.\d*)?)%】上昇$"=Chance of inflicting status effects increased by [$1%]
+r:"^防御【(\d+(?:\.\d*)?)%】上昇$"=Increase defense by [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自分のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=When Crest: Impact is consumed, increase own skill charge efficiency by [$2%] for $1 seconds
+r:"^スキルチャージ効率【(\d+(?:\.\d*)?)%】上昇$"=Increase skill charge efficiency by [$1%]
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=When Crest: Impact is consumed, increase own defense by [$2%] for $1 seconds
+r:"^被ダメージ時、(\d+(?:\.\d*)?)%の確率で、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=When receiving damage, $1% chance to increase own defense by [$3%] for $2 seconds
+r:"^クエスト開始時、自身に紋章：衝撃を【([0-9]+)】付与$"=At the start of the quest, grant Crest: Impact [$1] to self
+r:"^([0-9]+)回攻撃ごとに([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=Increases own consecutive hit rate by [$3%] for $2 seconds every $1 attacks
+r:"^会心率【(\d+(?:\.\d*)?)%】上昇$"=Increase critical hit rate by [$1%]
+r:"^敵撃破時、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=When defeating an enemy, increase own critical rate by [$2%] for $1 seconds
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=When Crest: Impact is consumed, increase own consecutive hit rate by $2% for $1 seconds
+r:"^探索力【(\d+(?:\.\d*)?)%】UP$"=Increase exploration ability by [$1%]
+r:"^FC発動時、自身に紋章：衝撃を【(\d+(?:\.\d*)?)】付与$"=When Force Chain is activated, grants self Crest: Impact [$1]
+r:"^クエスト開始時、自身に紋章：情熱を【([0-9]+)】付与$"=At the start of the quest, grant Crest: Zeal [$1] to self
+r:"^([0-9]+)秒に1回、([0-9]+)秒間自身のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=Increase own skill charge efficiency by [$3%] for $2 seconds every $1 seconds
+r:"^紋章：衝撃が消費されたとき、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=When Crest: Impact is consumed, increase own critical rate by $2% for $1 seconds
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=When receiving Crest: Zeal, increase own consecutive hit rate by $2% for $1 seconds
+r:"^紋章：情熱が付与されたとき、前衛のHPを自身の最大HP【(\d+(?:\.\d*)?)%】分回復$"=When receiving Crest: Zeal, restores the HP of the frontline unit by [$1%] of its maximum HP.
+r:"^FC発動時、([0-9]+)秒間自身の連撃率【(\d+(?:\.\d*)?)%】UP$"=When Force Chain is activated, increase own consecutive attack rate by $2% for $1 seconds
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の攻撃【(\d+(?:\.\d*)?)%】UP$"=When receiving Crest: Zeal, increase own attack by $2% for $1 seconds
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の防御【(\d+(?:\.\d*)?)%】UP$"=When receiving Crest: Zeal, increase own defense by $2% for $1 seconds
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自身の会心率【(\d+(?:\.\d*)?)%】UP$"=When receiving Crest: Zeal, increase own critical rate [$2%] for $1 seconds
+r:"^紋章：情熱が付与されたとき、自身のHPを最大HP【(\d+(?:\.\d*)?)%】分回復。([0-9]+)秒経過ごとに([0-9]+)秒間味方バック全体の連撃率【(\d+(?:\.\d*)?)%】UP（1編成につき1本分のみ効果発動）$"=When receiving Crest: Zeal, restores [$1%] of your maximum HP. Every $2 seconds, increases the combo rate of all Back allies by [$4%] for $3 seconds (this effect triggers only once per party)
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間味方フロント全体のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP（1編成につき1本分のみ効果発動）$"=When receiving Crest: Zeal, increase skill charge efficiency of all Front allies by $2% for $1 seconds (this effect triggers only once per party)
+r:"^紋章：情熱が付与されたとき、([0-9]+)秒間自分のスキルチャージ効率【(\d+(?:\.\d*)?)%】UP$"=When receiving Crest: Zeal, increase own skill charge efficiency by [$2%] for $1 seconds
+紋章：衝撃が消費されたとき、味方フロント全体に紋章：衝撃を【2】付与（1編成につき1本分のみ効果発動）=When Crest: Impact is consumed, grants Crest: Impact [2] to the all Front allies (this effect triggers only once per party)
+凍結状態の敵に対して自身の与ダメージ【30%】上昇。紋章：情熱1ごとに、自身の状態異常付与確率【5%】UP=Increases self Damage Dealt to Frozen enemies by [30%]. Per Crest: Zeal, increases self status ailment application chance by [5%]
+敵にダメージを与えたとき、30%の確率で、最も近い敵に黒い稲妻で追撃を行う=On dealing damage to an enemy, 30% chance to follow up with black lightning on the nearest enemy.
+30秒経過ごとに味方全体に紋章：衝撃を【1】付与（1編成につき1本分のみ効果発動）=Every 30 sec, applies Crest: Impact [1] to all allies (only one copy active per team)
+紋章：情熱が付与されたとき、15秒間土属性の味方全体の攻撃力【20%】UP（1編成につき1本分のみ効果発動）=When Crest: Zeal is applied, increases all Earth-element allies' ATK by [20%] for 15 sec (only one copy active per team)
+30秒に1回、味方バック全体に紋章：衝撃を【2】付与（1編成につき1本分のみ効果発動）=Once every 30 sec, applies Crest: Impact [2] to all back-row allies (only one copy active per team)
+会心時、15秒間味方バック全体の連撃率【10%】UP（1編成につき1本分のみ効果発動）=On critical, increases all back-row allies' Extra Hit Rate by [10%] for 15 sec (only one copy active per team)
+FC発動時、15秒間自身の攻撃力【50%】UP【累積 / 最大50％】=On FC activation, increases self ATK by [50%] for 15 sec [Stackable / Max 50%]
+攻撃力【20%】減少。紋章：情熱1ごとに、自身の会心率【2.5%】UP=Decreases ATK by [20%]. Per Crest: Zeal, increases self Critical Rate by [2.5%]
+r:"^敵が戦闘不能になったとき、([0-9]+)%の確率で、自分のスキルチャージ効率【([0-9]+)%】UP$"=When an enemy is knocked out of combat, there is a $1% chance that your skill charge efficiency will increase by [$2%]
+r:"^30秒に1回、前衛のHPを自身の最大HP【([0-9]+)%】分回復$"=Once every 30 seconds, restores the frontline unit's HP by [6%] of its maximum HP
+敵にダメージを与えたとき、30%の確率で、HPの高い敵1体に氷で追撃を行う=On dealing damage to an enemy, 30% chance to follow up with ice on the enemy with the highest HP
+クエスト開始時、味方全体に紋章：情熱を【1】付与（1編成につき1本分のみ効果発動）=At quest start, applies Crest: Zeal [1] to all allies (only one copy active per team)
+紋章：情熱1ごとに、自身の状態異常付与確率【2％】UP=Per Crest: Zeal, increases self status ailment application chance by [2%]
+
+Item description
+sr:"^([\S\s]+)の主人公への思いが結晶化した物質。\n「キャラ詳細」で1個毎に「限界突破」が1回できる。\nガチャで同じキャラを入手すると自動で変換される。$"=<size\=90%>A substance that crystallizes $1's feelings for the protagonist. \nYou can perform one “Limit Break” per item in “Character Details.” \nIf you obtain the same character from a gacha, it will automatically be converted.
+「アイテム一覧」で使用することで、キャラクターとの絆Lvを上げられる各勢力のプレゼントをBOXのラインナップから選んで、1個獲得できる。=By using it, you can select one gift from each faction, which can be used to raise certain character's Bond Level.
+sr:"^「アイテム一覧」で使用することで装備「ランク([0-9]+)」のレアリティ「([\S\s]+)」の「([\S\s]+)」をBOXラインナップから選んで、1個獲得できる。$"=When using it, you can select one “$3” with “Rank $1” and “$2” rarity from the BOX lineup.
+sr:"^「アイテム一覧」で使用することで、装備「ランク([0-9]+)」のレアリティ「([\S\s]+)」で「([\S\s]+)」エンチャントを持つ「([\S\s]+)」をBOXラインナップから選んで、1個獲得できる。$"=When using it, you can select one “$4” with “Rank $1” and “$2” rarity alongside “$3” enchantment from the BOX lineup.
+大穴の中にいるときの時間の流れを操作することができる魔道具。「探索隊」で使用することで1時間分の探索報酬を受け取ることができる。=A magical item that allows you to manipulate the flow of time while inside the great hole. Grants one hour's worth of exploration rewards when used by an “Exploration Party”.
+「深淵」限定アイテム\n深淵内で座標を示すことのできる貴重な遺物。\n力尽きても獲得したアイテムを持ち帰ることができる。=“Abyss” Exclusive Item\nA rare artifact that can indicate coordinates within the Abyss.\nEven if you run out of stamina, you can bring the items you've obtained back with you.
+高難易度ダンジョン「深淵」に挑戦できるようになる。\n主にスタミナを消費することで入手できる。\n「深淵」では高ランク装備などの報酬を得る機会がある。=Key to challenge the high-difficulty dungeon “Abyss”.\nIt can be obtained primarily by spending Stamina.\nIn the “Abyss”, you have the chance to earn rewards such as high-rank equipment.
+太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを少し回復する。=An elixir that condenses the power of the sun.\nRestores a small amount of stamina needed for quests in the "main story".
+太陽の力を凝縮した精薬。\n「メインストーリー」の周回クエストなどで必要となる\nスタミナを大きく回復する。=An elixir that condenses the power of the sun.\nGreatly restores stamina needed for quests in the "main story".
+魔法石から抽出されたエネルギー源。\n「厄災戦」で強力な防衛施設を設置するのに必要となる。=An energy source extracted from magic stones. \nRequired to set up powerful defensive structures during the "Calamity Battle".
+他の部隊が担当する厄災の迎撃を代理で引き受けた証。\n「迎撃戦」で追加の厄災を発生させることができる。=Proof that you have taken over the task of intercepting a Calamity originally assigned to another unit. \nYou can trigger additional Calamity during "Interception Battle".
+揺らぐ魔力を見定め、固定するためのレンズ。\n「パーティ」の「装備」から鑑定が必要な装備品の鑑定を行うことができる。=Lens used to identify and stabilize fluctuating magical power. \nYou can appraise items that require appraisal from the "Equipment" menu in the "Party" screen.
+「ガチャ」を実行することができる特別なチケット。\n「プレミアムガチャ」を実行できる。=Special ticket that allows you to pull the "Gacha".\nUsable in "Premium Gacha".
+「ガチャ」を実行することができる特別なチケット。\n一部のガチャ以外の\n「ピックアップガチャ」を実行できる。=Special ticket that allows you to pull the "Gacha".\nUsable in "Pick Up Gacha" with some exception on certain gachas.
+sr:"^50個集めて「アイテム一覧」で使用することで\n探索者を加入させることができる。\nSSRは([\S\s]+)の探索者が確定。$"=Collect 50 of these and use them in the “Item List” to recruit an Explorer.\nSSR Explorers are guaranteed to be from $1.
+ミレスガルド王国が発行する勲章。\n50個集めて「アイテム一覧」で使用することでミレスガルド所属のSSRの探索者を加入させることができる。=Medal issued by the Kingdom of Millesgard. \nCollect 50 of them and use them in the "Item List" to recruit an SSR Explorer affiliated with Millesgard.
+探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSR以上の探索者を加入させることができる。=Explorer's Badge. \nCollect 50 of these and use them in the "Item List" to recruit SR or higher Explorer.
+探索者の証。\n50個集めて「アイテム一覧」で使用することで\nSSRの探索者を加入させることができる。=Explorer's Badge. \nCollect 50 of these and use them in the "Item List" to recruit SSR Explorer.
+集めるとショップの「交換所」で交換できる。\n・SSRキャラ(50個)：フィルム、ヒナギ、ホノカ\n・アイテム(1個)：セレクトSSR確定ガチャのかけら×1=Collect them to exchange them at the “Exchange” section in the Shop. \n・SSR Characters (50): Film, Hinagi, Honoka\n・Item (1): 1 Select SSR Guaranteed Gacha Shard
+「ガチャ」を実行することができる特別なチケット。\n「SSR確定プレミアムガチャ」を実行できる。=Special ticket that allows you to pull “gacha”.\nUsable in “SSR Guaranteed Premium Gacha”.
+「アイテム一覧」で使用することで、\n以下のSSRキャラを1人選んでお迎えできる。\n・対象SSRキャラ：ニナ、ラモーナ、エミリー=Choose and recruit one of the following SSR characters:\n・Eligible characters: Nina, Ramona, Emily
+「アイテム一覧」で使用することで、\n以下のSSRキャラを1人選んでお迎えできる。\n・交換可能：SSRフィルム、SSRヒナギ、SSRホノカ=Choose and recruit one of the following SSR characters:\n・Eligible characters: Film, Hinagi, Honoka
+50個集めて「ガチャ」で使用することでガチャを実行できるアイテム。\n「セレクトSSR確定ガチャ」を実行できる。=Collect 50 to pull a "Gacha". \nAllows you to pull in "Guaranteed SSR Select Gacha".
+結晶かした経験が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の経験値報酬を受け取ることができる。=Mysterious box filled with crystallized experience. \nUse it to receive one hour’s worth of experience points for your exploration party.
+記憶の欠片が詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分の記憶の欠片報酬を受け取ることができる。=Mysterious box filled with memory fragments. \nUse it to receive one hour’s worth of memory fragment rewards from your exploration party.
+ゴールドが詰まった不思議なボックス。\n「アイテム一覧」で使用することで探索隊の1時間分のゴールド報酬を受け取ることができる。=Mysterious box filled with gold. \nUse it to receive one hour's worth of gold rewards for your exploration party.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Use it to select and obtain 1 "Intermediate Skill Element" required for Ability Enhancement from among the Front, Back, or Assist stances.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Use it to select and obtain 1 "Beginner Skill Element" required for Ability Enhancement from among the Front, Back, or Assist stances.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「スタンス」のフロント、バック、アシストの中から選んで、1個獲得できる。=Use it to select and obtain 1 "Expert Skill Element" required for Ability Enhancement from among the Front, Back, or Assist stances.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Beginner Skill Element" required for Ability Enhancement from the Fire, Water, Soil, Light, Dark, or None Attributes.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Intermediate Skill Element" required for Ability Enhancement from the Fire, Water, Soil, Light, Dark, or None Attributes.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を「属性」の火、水、土、光、闇、無の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Expert Skill Element" required for Ability Enhancement from the Fire, Water, Soil, Light, Dark, or None Attributes.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「初級技能元素」を全種の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Beginner Skill Element" required for Ability Enhancement from any type.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「中級技能元素」を全種の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Intermediate Skill Element" required for Ability Enhancement from any type.
+「アイテム一覧」で使用することで、アビリティ強化に必要な「上級技能元素」を全種の中から選んで、1個獲得できる。=Use it to select and obtain 1 "Expert Skill Element" required for Ability Enhancement from any type.
+大穴で見つかるありふれた雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Common supplies found throughout the Great Cave.\nCan be exchanged at the Shop's Exchange for facility upgrade materials and other items. Mainly obtained from expeditions.
+大穴で見つかるめずらしいが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Rare supplies found in the Great Cave.\nCan be exchanged at the Shop's Exchange for facility upgrade materials and other items. Mainly obtained from expeditions.
+大穴で見つかる貴重だが雑多な物資。\nショップの「交換所」で施設の強化に必要なアイテムなどと交換できる。主に探索隊の報酬として獲得できる。=Valuable supplies found in the Great Cave.\nCan be exchanged at the Shop's Exchange for facility upgrade materials and other items. Mainly obtained from expeditions.
+『くまさんブランドタイトル合同キャンペーン』用の異世界のチケット。大切に保管しておくと良いことがあるらしい。=A special ticket from another world for the "Kumasan Brand Crossover Campaign". Hang on to it, it may come in handy later.

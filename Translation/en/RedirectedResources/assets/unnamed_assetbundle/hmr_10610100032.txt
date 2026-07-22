@@ -1,0 +1,580 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10610100032
+
+charaload,chara_1,106101000G,ニナ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+bgvplay,bgvtag2_1,bgv_10610100032_001_01,1,on
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.3
+
+window,on,0.15
+l2dmessage,ニナ,Ngh... Master，please just relax as you are...<br>*pant*... mmm...<br> ,,vc_10610100032_001_01
+
+
+
+
+message,,Having shed her clothes，Nina straddled me，her nude body bared in<br>the moonlight. Her figure appeared even more alluring than before.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2.1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.3
+
+l2dmessage,ニナ,...Is something the matter?<br>You're staring so intently at my body...<br> ,,vc_10610100032_002_01
+
+
+
+
+message,,I feigned calm，pretending nothing was wrong.<br>But my erection betrayed my arousal.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+
+message,,I held her hands to keep her from losing balance，but her palms were<br>moist with nervous sweat.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.2
+
+
+
+
+message,ニナ,(...I said I would serve you so you could rest in bed，but...)<br> ,,vc_10610100032_003_01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.4
+
+message,ニナ,(Why is my heart pounding so much...?)<br> ,,vc_10610100032_004_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.2
+
+
+
+message,ニナ,(I thought I had become quite accustomed to this kind of act from<br>working at the brothel，but...)<br> ,,vc_10610100032_005_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.4
+
+message,ニナ,(When it comes to being with Master，I can't stay composed at all...)<br> ,,vc_10610100032_006_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.4
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.7
+
+asyncl2dmotion,MouthEmotion01,on,STOP,7.7
+
+message,ニナ,(As I thought，Master is a special person to me... I hope Master<br>doesn't feel this pounding in my heart through my hands...)<br> ,,vc_10610100032_007_01
+
+
+
+
+message,,I asked Nina，who had stopped moving for some reason，what she<br>intended to do next.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.3
+
+l2dmessage,ニナ,Eh... ah... My apologies...!<br>Um... w-well then... I'll begin...?<br> ,,vc_10610100032_008_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10610100032_002_01,1,on
+
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ニナ,Mmph... Ooh... *huff*，Ah... Ngh... Mmph...<br> ,,vc_10610100032_009_01
+
+
+
+
+message,,Nina pressed her soft folds against my cock of her own accord and<br>began slowly rocking her hips back and forth.<br> 
+
+
+
+
+message,,Her soft folds，rubbing against my cock，were coated in love juice，<br>which served as lubricant，smoothing her movements.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+
+l2dmessage,ニナ,Mmph... *pant*，Aaah... Ngh... *pant*...<br>Ngh... Mmph... Mmph... *pant*，Aaah...<br> ,,vc_10610100032_010_01
+
+
+
+
+message,,The seeping love juice moistened my cock as well，producing a lewd<br>squelching sound.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.9
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.4
+
+l2dmessage,ニナ,Mmph... *pant*，Aaah... Master's thing... it's so hot...<br>Mmm... *pant*... mmm... Ngh... i-it feels so good...<br> ,,vc_10610100032_011_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.4
+
+asyncl2dmotion,EyeOpen02,on,STOP,3.6
+
+message,ニナ,(As I thought，Master's thing is completely different...<br>It feels so beloved and precious...)<br> ,,vc_10610100032_012_01
+
+
+
+
+message,,Nina continued to rock her hips，rubbing her slick folds against my<br>wet cock. The slippery，soft sensation felt indescribably good.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.7
+
+message,ニナ,(Ah... it's touching my most sensitive spot... right there...)<br> ,,vc_10610100032_013_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.4
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,ニナ,Mmm... *pant*... Mmph... It，it feels... so good... mmm... Mmph...<br>*pant*... Mmmph... Mmph...<br> ,,vc_10610100032_014_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+
+l2dmessage,ニナ,*pant，pant*... M-Master... it's... almost time... I'll... take you in...<br>okay...?<br> ,,vc_10610100032_015_01
+
+
+
+
+message,,I nodded at Nina，who trembled and let out sweet sighs.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.7
+
+l2dmessage,ニナ,Th-then... if you'll excuse me...<br> ,,vc_10610100032_016_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10610100032_003_01,1,on
+
+
+
+
+l2dmessage,ニナ,*pant，pant，pant*... Mmph... Mmh... mmm... *pant*...<br> ,,vc_10610100032_017_01
+
+
+
+
+message,,Still holding hands，Nina lifted her hips once，positioned the head of<br>my cock against her entrance，then lowered herself，taking it in.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+
+l2dmessage,ニナ,Mmm... mm... *pant*... Ooh... deep inside me... it's，it's so... hot...<br> ,,vc_10610100032_018_01
+
+
+
+
+message,,The cock slid into her depths and stopped，pressing against the<br>entrance to her womb.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.2
+
+message,ニナ,(*pant*... even though he's only just entered me，it feels so good...<br>Just knowing I'm one with Master makes me so happy...)<br> ,,vc_10610100032_019_01
+
+
+
+
+message,,The depths of Nina's womb grew hot，and she gushed thick love juice.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2.4
+
+l2dmessage,ニナ,*pant，pant*... Master... I'm going to move now... okay...?<br> ,,vc_10610100032_020_01
+
+
+
+
+message,,I nodded deeply. Then Nina gave a small smile and began to sway her<br>hips.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10610100032_004_01,1,on
+
+
+
+
+l2dmessage,ニナ,*pant*... Mmph... Mmph... Ngh... *pant*... mmm... *whimper*... *pant*...<br>Ngh... Mmph... *whimper*<br> ,,vc_10610100032_021_01
+
+
+
+
+message,,Nina slowly rocked her hips back and forth，her wet walls rubbing<br>against my cock，sending waves of pleasure through me.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+
+
+l2dmessage,ニナ,Mmph... *pant*... Aaah... Ngh... Aah... Ngh... *pant*... Ah... *whimper*...<br>I-it... feels... so good...<br> ,,vc_10610100032_022_01
+
+
+
+
+message,,I told Nina that I felt amazing too. At that，she smiled happily.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.4
+
+l2dmessage,ニナ,Mmph... I'm glad... I feel so good too... my hips are moving on their<br>own... Ngh... Mmph... *pant*!<br> ,,vc_10610100032_023_01
+
+
+
+
+message,,Her devoted hip movements were incredibly alluring，stirring my<br>desire intensely.<br> 
+
+
+
+
+message,,But I didn't move; I surrendered completely to Nina，who was lulling<br>her Master into a peaceful sleep.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.8
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+l2dmessage,ニナ,Ah，um... Master，could you hold my hand tightly...?<br> ,,vc_10610100032_024_01
+
+
+
+
+message,,At Nina's request，I gave her small hand a firm squeeze.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.4
+
+l2dmessage,ニナ,Ah，thank you，Master... I feel like I might lose my balance...<br> ,,vc_10610100032_025_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10610100032_005_01,1,on
+
+
+
+
+l2dmessage,ニナ,Mmph... ngh... mmph... ngh... *pant*... mmph... *huff*... ngh... mmph...<br>ah<br> ,,vc_10610100032_026_01
+
+
+
+
+message,,Nina squeezed my hand in return，lifted her hips，and shifted from a<br>back-and-forth rhythm to an up-and-down bounce.<br> 
+
+
+
+
+message,,Her hot，wet folds stroked my cock from base to tip，and I gasped at<br>the overwhelming pleasure.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.4
+
+l2dmessage,ニナ,Kuh... mmph... *gasp*... ngh... mmph，ah... *pant*... Fufu... Master's<br>face... you look like you're enjoying this a lot...<br> ,,vc_10610100032_027_01
+
+
+
+
+message,,The sight of Nina's shapely breasts swaying above me was<br>magnificent. Her pussy was so hot it felt like it would burn me.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.4
+
+l2dmessage,ニナ,*pant*... aah... mmph... kuh... Master's manhood is hitting deeper<br>inside me than before... I-it feels so good...<br> ,,vc_10610100032_028_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.4
+
+
+
+message,,Each time Nina bounced her hips，the tip of my cock pressed against<br>her womb，making her tremble all over.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.3
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.4
+
+
+
+l2dmessage,ニナ,*gasp*，mmm，*huff*，Mmph...! Ah，Aah，Hyaaah... Th-this is amazing...<br>*whimper*!<br> ,,vc_10610100032_029_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3.4
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.6
+
+l2dmessage,ニナ,It feels so good... mmm... *pant*... Ah，my head... it's going to go<br>mad... Aah... mmm... Aah，*pant*...!<br> ,,vc_10610100032_030_01
+
+
+
+
+message,,The normally composed Nina writhed in ecstasy. Watching her，the<br>lust I thought I had suppressed surged back to life.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10610100032_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+
+l2dmessage,ニナ,Hyaa! Ah! Aah! mmm，Aaaah...! M-Master...! No... Please，don't...!<br> ,,vc_10610100032_031_01
+
+
+
+
+message,,Gripping Nina's hand tightly，I thrust my hips upward from below，<br>letting desire drive my rhythm.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.4
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+
+l2dmessage,ニナ,Mmph... *gasp*... Ah... mmm，*pant*! N-No... Please...! mmm，Aah...<br>Nooo...!<br> ,,vc_10610100032_032_01
+
+
+
+
+message,,Ignoring Nina's pleas，I kept thrusting upward.<br> 
+
+
+
+
+message,,Pushing aside her clinging walls，I drove my cock back and forth<br>through her pussy，slick with love juice.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.4
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.4
+
+l2dmessage,ニナ,Hyaa! Aah! mmm...! Ah，my head... it's flashing again... Ah! Aaaah...!<br> ,,vc_10610100032_033_01
+
+
+
+
+message,,Her pussy began to clench，its grip tightening. It was clear that<br>Nina's peak was near.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.4
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.4
+
+
+l2dmessage,ニナ,Oh my... I'm coming! Ahh，I... I'm about to come!<br> ,,vc_10610100032_034_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10610100032_007_01,1,on
+
+wait,0.5
+
+l2dmotion,EyeOpenReset
+
+
+l2dmessage,ニナ,Ah... Aaah... mmm... I-I'm coming! Aaah... n... Hahh!<br> ,,vc_10610100032_035_01
+
+l2dmotion,EyeOpen01
+
+
+
+message,,Nina reached her climax，trembling and arching her back. At that<br>moment，my cock head erupted，scattering my seed deep into her womb.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.1
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3.8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.9
+
+l2dmessage,ニナ,*pant，pant，pant*... mmm... Ngh... Oh my... I was planning to serve you<br>today，Master，so why did you have to move your hips?<br> ,,vc_10610100032_036_01
+
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+message,,Nina slumped her shoulders，completely exhausted，and caught her<br>breath. The cum she couldn't contain overflowed from the gap where their bodies joined.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene08,on,STOP,1.5
+
+bgvplay,bgvtag2_8,bgv_10610100032_008_01,1,on
+
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ニナ,*pant*... Ngh... The inside of my belly feels so warm... Somehow，I feel<br>very happy...<br> ,,vc_10610100032_037_01
+
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3.8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.9
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.4
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,9
+
+asyncl2dmotion,FaceAngleReset,on,STOP,13
+
+l2dmessage,ニナ,Master... may I sleep next to you tonight...? I will watch over you so<br>you can rest easy...<br> ,,vc_10610100032_038_01
+
+
+
+
+message,,Wrapped in a pleasant weariness，the two of them fell into a deep<br>sleep，still holding each other.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

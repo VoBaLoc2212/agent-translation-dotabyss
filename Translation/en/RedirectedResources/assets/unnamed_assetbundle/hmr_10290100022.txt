@@ -1,0 +1,628 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10290100022
+
+charaload,chara_1,102901000X,ミルティーユ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10290100022_001_01,1,on
+
+
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen04,on,STOP,2
+
+l2dmotion,ExEmotion00
+
+window,on,0.15
+l2dmessage,ミルティーユ,Is this how Mil is supposed to squeeze out the syrup?<br> ,,vc_10290100022_001_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+message,,Myrtille opened her brothel outfit and sandwiched his penis between<br>her breasts. It was lewd，but she seemed uneasy.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2.6
+
+asyncl2dmotion,EyeOpen04,on,STOP,2.6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.6
+
+message,ミルティーユ,Can Mil really squeeze out a man's syrup just by clamping down with<br>her chest...?<br> ,,vc_10290100022_002_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+message,,Still quite inexperienced and unsure in her service，the male customer<br>murmured that her fluffy breasts were the best.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,MouthEmotion02,on,STOP,4.2
+
+l2dmessage,ミルティーユ,M-Mil's boobies，are they fluffy...? Is it good if they're fluffy...?<br> ,,vc_10290100022_003_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+
+
+message,,The man nodded happily. Seeing that，Myrtille finally let out a sigh of<br>relief.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10290100022_002_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+l2dmessage,ミルティーユ,I see，that's a relief.<br> ,,vc_10290100022_004_01
+
+
+
+
+message,,Myrtille relaxed with a soft sigh，her tension melting away. The<br>somewhat stiff atmosphere softened gently.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2
+
+
+
+message,,Her breasts，her voice，her heart，even the air around her—all were<br>soft. Everything about Myrtille enveloped the man as if to heal him.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4.7
+
+asyncl2dmotion,EyeOpen01,on,STOP,5.2
+
+l2dmessage,ミルティーユ,Well then... Mil will do her best to squeeze out lots of your syrup，<br>mister.<br> ,,vc_10290100022_005_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10290100022_003_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ミルティーユ,Hup... there...<br> ,,vc_10290100022_006_01
+
+
+
+
+message,,Myrtille hesitantly began moving her chest up and down.<br>Her ample breasts easily swallowed his entire penis.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion03
+
+
+l2dmessage,ミルティーユ,Mmph... Mmph...<br> ,,vc_10290100022_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,Her soft breasts and smooth skin stimulated his penis without any<br>catching. It wasn't intense，but it was a thoroughly pleasant sensation.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+l2dmessage,ミルティーユ,Your syrup is really hot... like warmed chocolate...<br> ,,vc_10290100022_008_01
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5
+
+l2dmessage,ミルティーユ,But Mil's not really sure if this is right.<br>Are you really getting excited?<br> ,,vc_10290100022_009_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+message,,Myrtille teased the man，who had answered that he felt like melting.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion02
+
+l2dmessage,ミルティーユ,Ehh? Are you about to melt from Mil's boobies?<br> ,,vc_10290100022_010_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,ミルティーユ,Then... Mil will work hard until you really melt，okay.<br> ,,vc_10290100022_011_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+message,,Confident that she was meeting expectations，Myrtille moved her<br>chest with more force，her smile embracing his heart.<br> 
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+
+
+l2dmessage,ミルティーユ,Mil will go harder and faster... Mil will turn up the heat.<br> ,,vc_10290100022_012_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10290100022_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+
+wait,0.8
+
+l2dmessage,ミルティーユ,Mmph! Aahn...<br> ,,vc_10290100022_013_01
+
+
+
+
+message,,Myrtille rhythmically swayed her chest，sandwiching his thing from<br>both sides and sending waves of stimulation into it.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+
+l2dmessage,ミルティーユ,*puff*... Mmph... *pant*... mmm... *huff*...<br> ,,vc_10290100022_014_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+
+message,,As she continued her chest service，her voice began to take on a<br>moist sensuality. The man's sticky，intense gaze was fixed upon Myrtille.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+
+l2dmotion,MouthEmotion03
+
+l2dmessage,ミルティーユ,Ehehe... Mil might be getting a little excited too，maybe...<br> ,,vc_10290100022_015_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10290100022_005_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+wait,0.5
+
+l2dmessage,ミルティーユ,Ah! Some syrup came out from the tip...<br> ,,vc_10290100022_016_01
+
+asyncl2dmotion,MouthEmotion04,on,STOP,1
+
+
+
+message,,Syrup slowly oozed from his tip as she continued her chest service.<br>Myrtille showed no disgust at the man's syrup touching her skin.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionTop
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3.5
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,ミルティーユ,Your heart is pounding and it feels good，doesn't it? Good，Mil will<br>work even harder...<br> ,,vc_10290100022_017_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+
+message,,Myrtille's kindness made it impossible for the man to hold back his<br>desire. He muttered，'Please，with your mouth...'<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,ミルティーユ,Huh...? You want Mil to lick it?<br> ,,vc_10290100022_018_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,Perhaps it was an unexpected request for the inexperienced girl;<br>Myrtille's eyes flew wide open.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,MouthEmotion04,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,FaceEmotion00,on,STOP,6
+
+l2dmessage,ミルティーユ,Mmm... It's syrup，so it's not strange to lick it，right? Okay，Mil will<br>give it a try.<br> ,,vc_10290100022_019_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10290100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ミルティーユ,Alright，Mil will have a taste.<br> ,,vc_10290100022_020_01
+
+l2dmotion,EyeEmotionTop
+
+
+
+message,,Myrtille stuck her tongue out to the tip of his thing and licked the<br>syrup from the tiny hole in one smooth lick.<br> 
+
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+message,ミルティーユ,Mmm... *lick*... *pant*... Mmph...<br> ,,vc_10290100022_021_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+
+message,,It wasn't so much a caress as it was a true tasting of his thing.<br>Myrtille licked and licked at it.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.5
+
+message,ミルティーユ,Mmph! *pant*... *lick*... *kiss*...<br> ,,vc_10290100022_022_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+
+
+message,,Though she was inexperienced，the pleasure was surprisingly intense.<br>Myrtille's soft licks were enough to please him.<br> 
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,ミルティーユ,*pant*... Mil is licking the customer's syrup.<br> ,,vc_10290100022_023_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+message,,Apparently，the man grew more excited at Myrtille's embarrassed<br>words. He begged her to squeeze him between her breasts once more.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,6
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,6
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,ミルティーユ,Do you want Mil to sandwich it even more with these marshmallows?<br>Geez，Mister，you say such embarrassing things...<br> ,,vc_10290100022_024_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1.5
+
+
+message,,Despite her shy words，being begged for more clearly pleased her.<br>Myrtille resumed pleasuring him with her breasts.<br> 
+
+asyncl2dmotion,Scene07_1,on,STOP,0.5
+
+bgvplay,bgvtag2_7,bgv_10290100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ミルティーユ,Mmph... mmm... *sigh*...<br> ,,vc_10290100022_025_01
+
+
+
+
+message,,Thanks to the precum and Myrtille's saliva，her breast play was now<br>slicker than before，giving him far stronger stimulation.<br> 
+
+l2dmotion,FaceAngleRight
+
+
+
+l2dmessage,ミルティーユ,*huff*... mmph!... *pant*...<br> ,,vc_10290100022_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,Myrtille worked her breasts earnestly，unconsciously moaning sultrily.<br>Each squeeze loosened and softened her mounds.<br> 
+
+l2dmotion,FaceAngleTop
+
+
+
+l2dmessage,ミルティーユ,Mmph，mmph，hmph... *sigh*，aah...<br> ,,vc_10290100022_027_01
+
+l2dmotion,MouthEmotion01
+
+
+
+message,,The soft，warm flesh stimulated his shaft，building to climax. It wasn't<br>forceful—just relaxed，deeply pleasurable.<br> 
+
+asyncl2dmotion,MouthEmotion04,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+l2dmessage,ミルティーユ,Mister's syrup is getting so hot... *pant*...<br> ,,vc_10290100022_028_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+message,,Myrtille didn't notice he was close，so the man told her he was about<br>to come.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3
+
+asyncl2dmotion,MouthEmotion04,on,STOP,3
+
+l2dmessage,ミルティーユ,Eh... you're about to come...? You're going to melt，aren't you...?<br> ,,vc_10290100022_029_01
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion00
+
+
+
+l2dmessage,ミルティーユ,It's okay... Just let it out，just melt...<br> ,,vc_10290100022_030_01
+
+
+
+
+message,,Myrtille didn't resist，accepting everything softly. She kept<br>desperately servicing with her still-inexperienced breasts，smiling warmly.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionTop
+
+l2dmessage,ミルティーユ,Pour lots of syrup on Mil's marshmallows!♡<br> ,,vc_10290100022_031_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+message,,Myrtille's gentleness was the greatest pleasure of all. The man<br>released his seed amidst the tender bliss—<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10290100022_008_01,1,on
+
+
+wait,0.5
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ミルティーユ,Ngh! Ngh!... *whimper*... Hyaan!<br> ,,vc_10290100022_032_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+
+message,,A flood of syrup gushed out，staining Myrtille's breasts white. Some<br>even reached her face—a testament to her devoted service.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.4
+
+
+l2dmessage,ミルティーユ,*gasp*... amazing...<br> ,,vc_10290100022_033_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,ミルティーユ,Mil didn't think that much syrup would come out.<br> ,,vc_10290100022_034_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+
+message,,Drenched in thick，white syrup，Myrtille's smile didn't falter. She<br>seemed satisfied to have squeezed out so much syrup.<br> 
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+
+
+message,,Seeing the syrup on her lips，the man finally asked，'How did it<br>taste?'<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene09,on,STOP,0.5
+
+bgvplay,bgvtag2_9,bgv_10290100022_009_01,1,on
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,0.5
+
+
+l2dmessage,ミルティーユ,The taste...? Hmm... it's a little bitter，Mil guesses... Maybe not<br>yummy...<br> ,,vc_10290100022_035_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+
+message,,Despite her embarrassment，Myrtille stayed soft and gentle until the<br>end.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+l2dmessage,ミルティーユ,...Mil is glad to have squeezed out lots of the customer's syrup.<br> ,,vc_10290100022_036_01
+
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

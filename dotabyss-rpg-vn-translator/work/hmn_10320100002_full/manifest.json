@@ -1,0 +1,49 @@
+{
+  "scene": "hmn_10320100002",
+  "title": "Những Tin Đồn Xung Quanh Dahlia",
+  "source_mode": "EN-asset-is-English (per-field: title still JP)",
+  "language": "vi",
+  "line_count": 708,
+  "status": "PASS",
+  "translatable_records": 64,
+  "translated_records": 64,
+  "notes": [
+    "EN-asset-is-English case: message fields already English; title field still JP (en.json value empty) -> translated from JP source.",
+    "Speaker labels ダリア/少女/<user> kept byte-identical.",
+    "Daria calls Commander 親方/'Boss' -> Chỉ Huy (non-negotiable rule). Commander self-refers anh; addresses Daria em/anh.",
+    "In-dialogue name Daria romanized to canonical glossary name Dahlia.",
+    "Child (少女) addresses Commander おじさん -> ông già, and Daria おねえちゃん -> chị lớn.",
+    "SFX localized: ぐう->Khừ, *whimper*->*rên rỉ*, *sigh*->*thở dài*, *gasp*->*thở hắt*, ガチャッ->Rắc, Kyaa->Á.",
+    "Fullwidth ，converted to U+201A ‚ inside Vietnamese text fields.",
+    "<br> counts mirrored exactly from EN asset (authoritative)."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10320100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 63,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 64,
+    "translated_records": 64,
+    "changed_lines": 64,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 708,
+      "vi": 708,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "d305fb689c8423f0c0dad1e8e5254fe87f94568020a0896727cf5afe383c718f",
+    "output_sha256": "bb6f24b28b56b8b808be3ce68a6551ecd8b1f680ab35d2dd597c5cba83d2edb2"
+  }
+}

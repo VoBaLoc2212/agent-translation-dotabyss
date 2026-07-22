@@ -1,0 +1,608 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10250100032
+
+charaload,chara_1,102501000X,ウェンディ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion01
+
+window,on,0.15
+l2dmessage,ウェンディ,Then... see for yourself right away how much I fall apart in front of<br>you，Commander!♡<br> ,,vc_10250100032_001_01
+
+l2dmotion,FaceEmotion02
+
+message,,I nodded and reached for Wendy's body. I ran my fingers over her<br>petite frame，enjoying its softness.<br> 
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_1,bgv_10250100032_001_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ウェンディ,*sigh*，mmm... Ah! *huff*，Commander's hands... they're a little cold...<br>it feels good... *gasp*...<br> ,,vc_10250100032_002_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,,I stroked her flushed skin with my fingertips，continuing a slow，<br>lingering caress.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,EyeOpen01
+
+l2dmessage,ウェンディ,Mmph!... Ah! Yah!... when you do that... Mmph!... my body jerks and<br>trembles... Hyaa! Aah!... *whimper*...<br> ,,vc_10250100032_003_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+asyncseplay,setag2_1,se5010026,0,1,CONT
+
+wait,3
+
+sestop,setag2_1,0.1
+
+bgvplay,bgvtag2_2,bgv_10250100032_001_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceEmotion03
+
+l2dmotion,EyeOpen04
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+l2dmessage,ウェンディ,*pant*! R-right now... the magical reactor... has activated... *gasp*!<br>My body feels hot... mmm，*sigh*...<br> ,,vc_10250100032_004_01
+
+message,,I felt the magical reactor was activating faster than usual. She<br>seemed already aroused.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+message,,Through repeated sexual experiences，her body itself was being<br>developed，not just by the reactor's effect，I figured.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,ウェンディ,E-even now... just thinking about what you're going to do to me makes<br>my whole body heat up... *pant*... I feel like I'm going to break...<br> ,,vc_10250100032_005_01
+
+l2dmotion,EyeOpen02
+
+message,,Even though we've only just started，I joked that if she's already<br>talking like that，she might really break.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,FaceEmotion01,on,STOP,0.8
+
+l2dmessage,ウェンディ,Yes... I don't mind if I break... If you are the one to break me... it's my<br>greatest wish... *pant*!♡<br> ,,vc_10250100032_006_01
+
+l2dmotion,MouthEmotion05
+
+message,,I was taken aback by her reply，which sounded genuine. Well，fine...<br>I'd make her regret those words soon.<br> 
+
+l2dmotion,Scene03
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionBottom
+
+wait,1
+
+
+
+message,,I lined up my cock with Wendy's ready pussy，whispered ""I'm putting it<br>in"" in her ear，and thrust forward.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+l2dmotion,Scene03_01
+
+bgvplay,bgvtag2_3,bgv_10250100032_001_01,1,on
+
+wait,0.8
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,12
+
+l2dmessage,ウェンディ,Kyaah! Mmph! Kih... it's deep... Hyah! Ah! Your thing is reaching all<br>the way inside my tummy... Kuuh...!<br> ,,vc_10250100032_007_01
+
+l2dmotion,EyeOpen02
+
+message,,My cock was easily swallowed to the base inside Wendy's pussy.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+l2dmessage,ウェンディ,Hyun... Mmph... *whimper*... Ah... *huff*... Ngh! Aah... it feels so<br>good... *gasp*...<br> ,,vc_10250100032_008_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10250100032_002_01,1
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,0.5
+
+message,,I immediately began thrusting，as if to shake off the tight grip of her<br>inner walls.<br> 
+
+message,,As I thrust at a steady pace，Wendy let out sweet moans in time with<br>me.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5.5
+
+l2dmessage,ウェンディ,Mmph... Ngh... Ku... *huff*... Mmph... *pant*... Hyu! My whole body is<br>being thrust upward... Aah... I'm getting all floaty...<br> ,,vc_10250100032_009_01
+
+message,,While firmly holding Wendy's bouncing body on my lap，I told her I<br>would gradually get rougher.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+l2dmessage,ウェンディ,Hyaa，mmph，*whimper*，*gasp*，Hyaaah! So amazing... Mmph... so<br>intense... mmm，Aah!<br> ,,vc_10250100032_010_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeOpen00,on,STOP,11
+
+l2dmessage,ウェンディ,Your thing is reaching deep inside me... *pant*... Aah... It feels like my<br>body is being pierced... It's pounding into me... *whimper*!<br> ,,vc_10250100032_011_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,When I asked if she was in pain，Wendy，drunk on pleasure，denied it.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion04
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmessage,ウェンディ,It doesn't hurt... *gasp*... More than usual... Mmph... It feels so<br>good... *gasp*... Mmph... *whimper*!<br> ,,vc_10250100032_012_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleBottom
+
+message,,Wendy even seemed to have some composure left. So I whispered in<br>her ear，intending to tease her.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion00
+
+message,<user>,To think you still feel good after all this... You've become quite a<br>lewd body，haven't you?<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,0.8
+
+l2dmessage,ウェンディ,Aah... *gasp*... Please don't say that... *whimper* mmm...<br> ,,vc_10250100032_013_01
+
+l2dmotion,EyeEmotionRight
+
+message,,Wendy shivered. Yet despite her words，her hole happily tightened<br>around my cock.<br> 
+
+l2dmotion,EyeOpen00
+
+message,,I pressed on，continuing.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,<user>,You still get off even when I say terrible things? You... perverted<br>automaton.<br> 
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+l2dmessage,ウェンディ,Mmph...! Th-that's... I'm not a pervert...<br> ,,vc_10250100032_014_01
+
+l2dmotion,EyeEmotionRight
+
+message,,She didn't seem to truly hate the dirty talk—the way her hole pulsed<br>and tightened proved it.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionLeft
+
+l2dmessage,ウェンディ,It's your fault，Commander... You changed my body like this... Mmph...<br> ,,vc_10250100032_015_01
+
+message,<user>,Don't blame me. Your body has been built for sex from the start—a<br>lewd body.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,ウェンディ,Th-that's not... Mmph，*gasp*!<br> ,,vc_10250100032_016_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10250100032_001_01,1,on
+
+l2dmotion,MouthEmotion07
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,8
+
+message,ウェンディ,(Why is this... even though he's saying terrible things... my body is<br>reacting with pleasure...)<br> ,,vc_10250100032_017_01
+
+l2dmotion,MouthEmotion07
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7
+
+message,ウェンディ,(Not just his touch—even his words cause my body to respond...)<br> ,,vc_10250100032_018_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotion06
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,5
+
+message,ウェンディ,(To this extent... I really... the Commander...)<br> ,,vc_10250100032_019_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncseplay,setag2_2,se4400024,0,1,CONT
+
+wait,3
+
+sestop,setag2_2,0.1
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_6,bgv_10250100032_004_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+l2dmessage,ウェンディ,Mmmph...! Ah，ah! The Magical Reactor output is rising...! Kuh，hih...<br>mmm Aaaaaah...!<br> ,,vc_10250100032_020_01
+
+l2dmotion,EyeOpen02
+
+message,,Suddenly，a loud moan escaped from Wendy. The squeezing in her hole<br>intensified，and her love juice increased.<br> 
+
+message,,This reaction is probably due to the special magic furnace. Perhaps it<br>has finally started operating at full capacity.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmessage,ウェンディ,Ah! Aah! mmm，Aaaah...! W-what... is this...? *whimper*，Mmph! *pant*!<br> ,,vc_10250100032_021_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,6.5
+
+message,ウェンディ,(It's like my whole body has become super sensitive... Every part of<br>me that the Commander touches turns into pure pleasure...)<br> ,,vc_10250100032_022_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ウェンディ,*pant* Aaaah... C-Commander... this... this... I... *whimper*... I don't<br>know... *gasp*...!<br> ,,vc_10250100032_023_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+l2dmessage,ウェンディ,This feeling... it's too much... Mmph... My mind is going blank...<br>*pant*... Aah... *whimper*...!<br> ,,vc_10250100032_024_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,BodyAngleTop
+
+l2dmessage,ウェンディ,I-It's just... only the feeling of pleasure... dominating my body...<br>*gasp*... Ah... mmm，Aaaah... I can't think of anything else...!<br> ,,vc_10250100032_025_01
+
+message,,Wendy，overwhelmed by pleasure from the fully operational magical<br>reactor，stared with wide eyes and gaping mouth，hyperventilating.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+message,,However，even in that state，her tight hole clamped down on his<br>cock，greedily demanding more and more.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+message,ウェンディ,(This state might be a little dangerous... I might really break...)<br> ,,vc_10250100032_026_01
+
+l2dmotion,EyeOpen00
+
+message,ウェンディ,(But the Commander wants to know my limits... Then what I choose<br>is...)<br> ,,vc_10250100032_027_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,ExEmotion02
+
+l2dmessage,ウェンディ,Eek! Mmph! *gasp*... Commander... please... *whimper*... Please<br>continue like this... mmm *whimper*...<br> ,,vc_10250100032_028_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,ウェンディ,Until I reach my limit... even if I end up breaking... *pant*! Mmph!...<br>Right now... I don't mind... *pant*!...<br> ,,vc_10250100032_029_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,ウェンディ,Rather，I want you to break me，Commander... *whimper*! Mmph!...<br>Please break me!... Hya! mmm *pant*!♡<br> ,,vc_10250100032_030_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,ExEmotionReset
+
+message,,She's saying dangerous things... Of course I don't intend to go that<br>far，but if Wendy wants me to continue，I'll do it.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_7,bgv_10250100032_005_01,1,on
+
+wait,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotion04,on,STOP,7
+
+l2dmessage,ウェンディ,Aah! Hya! *pant*!... It's incredible! Your thing is thrusting into me<br>like it's gouging me out...!<br> ,,vc_10250100032_031_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ウェンディ,*gasp*! *pant*! Mmph *whimper*!... Every time you thrust... I'm<br>cumming...! I'm cumming over and over...!<br> ,,vc_10250100032_032_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+l2dmessage,ウェンディ,I'm breaking... I'm gonna break... Aah! Commander!... I love you... I<br>love you so much... mmm *whimper*... so...<br> ,,vc_10250100032_033_01
+
+l2dmotion,MouthEmotion04
+
+l2dmessage,ウェンディ,Just like this，please break me...! While I'm still connected to you...<br>break me...!<br> ,,vc_10250100032_034_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,BodyAngleTop
+
+asyncl2dmotion,BodyAngleReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.5
+
+message,,Wendy's body tensed up，trembling violently. Sensing her climax was<br>near，I put on a final burst of speed.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,5.2
+
+bgvplay,bgvtag2_8,bgv_10250100032_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ウェンディ,Ah! Aaah! mmm Aaaah!... I'm breaking! I'm gonna break...! Hya! *pant*!<br>Hyaaaaaah...!<br> ,,vc_10250100032_035_01
+
+message,,Wendy let out a passionate cry and climaxed on my lap. Driven by the<br>contractions of her hole，I came deep inside her.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmessage,ウェンディ,*pant*，Ah... *gasp*，*pant*... *gasp*... *pant*，*pant*... *whimper*...<br> ,,vc_10250100032_036_01
+
+l2dmotion,MouthEmotion06
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion02,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+l2dmotion,EyebrowEmotion04
+
+message,,Wendy kept breathing heavily，but soon she gave in to me and passed<br>out.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleReset,on,STOP,10
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,10.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+asyncl2dmotion,EyeOpen00,on,STOP,17
+
+l2dmessage,ウェンディ,C-Commander... I... love... you... my... Commander...<br> ,,vc_10250100032_037_01
+
+
+
+message,,As I watched Wendy mumble these words in her delirium，it crossed<br>my mind.<br> 
+
+message,,If I kept up with Wendy with her magical reactor at full power，I'd<br>break first.<br> 
+
+message,,For now，I'd better take a cold bath to cool down my heated body...<br> 
+
+bgvstop,bgvtag2_8,0.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

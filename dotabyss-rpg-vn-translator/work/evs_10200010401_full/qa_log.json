@@ -1,0 +1,33 @@
+{
+  "file": "evs_10200010401.txt",
+  "timestamp_utc": "2026-07-19T08:41:59.809296+00:00",
+  "source_path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010401.txt",
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010401.txt",
+  "source_sha256": "1abadc568f38c181ae722eab88cddb5479c78c8bacc2db0d90ce236f021f2b0b",
+  "output_sha256": "f74dd6901c89f7226e5134712dd828815f6acbd18502d2f9d8832d4112908135",
+  "encoding": {
+    "source": "utf-8-sig",
+    "output": "utf-8-sig",
+    "bom_preserved": true
+  },
+  "newline": {
+    "source": "CRLF",
+    "output": "CRLF"
+  },
+  "line_count": {
+    "source": 3156,
+    "output": 3156,
+    "ok": true
+  },
+  "message_title_records": 89,
+  "translated": 89,
+  "review": 0,
+  "unmatched": 0,
+  "ambiguous": 0,
+  "h18_or_adult_uncertain": {
+    "detected": false,
+    "review_lines": []
+  },
+  "issues": [],
+  "status": "PASS"
+}

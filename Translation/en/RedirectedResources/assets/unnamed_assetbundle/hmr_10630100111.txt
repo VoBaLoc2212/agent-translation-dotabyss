@@ -1,0 +1,204 @@
+﻿live2dinit
+
+fade,Out,Black,0.5
+initend
+
+bg,abg11200a
+
+charaload,chara_1,106301001G,ホノカ
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,Title
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+
+
+
+
+
+
+
+
+window,on,0.15
+message,？？？,Woof，wooof!♪ Wooof!♪<br> ,900000001,vc_10630100111_001_01,
+
+message,,It was midday at the Market. On Main Street，bustling with shoppers，<br>a cheerful voice rang out.<br> 
+
+window,off
+wait,0.15
+
+fade,Out,White,1
+
+charashow,chara_1,0.3
+
+blur,on,BACK,0
+
+camerazoom,1.3,0,LinearTarget
+
+cameramove,LinearTarget,Y,-400,0
+
+prefabloadUI,uieffect_1,CostumeChange/Prefabs/NovelEF_CostumeChange000,CHARA,0,BACK,
+
+asyncprefabshowUI,uieffect_1,0,STOP,0
+
+wait,0.3
+
+asynccameramove,LinearTarget,Y,0,45,CONT
+
+fade,In,White,1
+
+window,on,0.15
+message,ホノカ,Woof!♪ Wooofn!♪<br> ,,vc_10630100111_002_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1,0,LinearTarget
+
+cameramove,LinearTarget,Y,0,0
+
+charaface,chara_1,FaceUnique02
+
+blur,off,BACK,0
+
+prefabdeleteui,uieffect_1
+
+charascale,chara_1,1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+window,on,0.15
+message,,The voice belonged to Honoka，who was wearing the dog costume. She<br>pranced down the street，happily barking like a dog.<br> 
+
+message,<user>,Having fun，are you? You must really like that costume.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+message,ホノカ,Yeah!♪ When I put this on，I feel all yippy yap! It's so fun! I feel like<br>I'm a real dog!<br> ,,vc_10630100111_003_01
+
+message,<user>,Ahaha. I don't get the ""yippy yap"" part，but if you're this happy，I'm<br>glad I bought it.<br> 
+
+asynccharaface,chara_1,FaceUnique02,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+message,ホノカ,Thank you so much，Commander! Wooofn!♪<br> ,,vc_10630100111_004_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+message,<user>,Whoa. She was already like a dog，but the costume really cranked up<br>her dogginess...<br> 
+
+charascale,chara_1,1.5,0.5
+message,,The Commander smiled wryly and patted her head. She happily nuzzled<br>closer to him.<br> 
+
+asyncseplay,setag1_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,CONT
+asynccharaemo,chara_1,Spirits,CONT
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharareaction,chara_1,shake,0.5,STOP
+message,ホノカ,*whimper*!♪<br> ,,vc_10630100111_005_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Ahaha，you really are a dog，huh.<br> 
+
+charascale,chara_1,1,0.5
+message,,The affectionate Honoka was so cute that the nearby shoppers began<br>to gather around.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,街の人Ａ,Oh my，Honoka，that's a cute outfit!<br> ,,vc_10630100111_006_01
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,街の子供Ａ,It's a doggy!<br> ,,vc_10630100111_007_01
+
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ホノカ,Ehehe... Woof，woof!♪ Wooofn!♪<br> ,,vc_10630100111_008_01
+
+message,,Petted by the gathered crowd，Honoka happily barked. Most of them<br>were women and children，but there were some men too.<br> 
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+priority,chara_1,CHARA,1,BACK,
+
+message,<user>,(What，is she okay with other men petting her too? Well，as long as<br>she's happy，I guess it's fine.)<br> 
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_2,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,CONT
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,ホノカ,...?<br> ,,vc_10630100111_009_01
+
+asyncseplay,setag1_3,se4030005,0,1,CONT
+
+charascale,chara_1,1.5,0.5
+message,,As the Commander looked on with mixed feelings，Honoka noticed<br>something and ran over to him.<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ホノカ,*whimper*! Woof! Commander，over here，over here! Tug，tug!<br> ,,vc_10630100111_010_01
+
+message,<user>,Wh-what? Hey，wait! Don't pull me! I'm not a giant dog you're taking<br>for a walk!<br> 
+
+asyncseplay,setag1_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,CONT
+asynccharaemo,chara_1,Spirits,CONT
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+message,ホノカ,Wooof!♪<br> ,,vc_10630100111_011_01
+
+message,,Before he could refuse，Honoka pulled him by the hand，and they<br>slipped out of the crowd.<br> 
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+

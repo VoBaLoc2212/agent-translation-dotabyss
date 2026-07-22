@@ -1,0 +1,611 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10490100022
+
+charaload,chara_1,104901000X,クロエ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+bgvplay,bgvtag2_1,bgv_10490100022_001_01,1,on
+
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,FaceEmotion03,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,6
+
+window,on,0.15
+message,クロエ,W-wow... th-things... maybe this is the first time I've seen them this<br>close up...<br> ,,vc_10490100022_001_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+
+message,,Two erect manhoods were thrust before Chloe，who had bared her<br>beautiful twin mounds.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7.2
+
+asyncl2dmotion,MouthEmotion01,on,STOP,9
+
+message,クロエ,W-what should I do? I've never been with two men at once，a-and this<br>is my first time using my mouth too...<br> ,,vc_10490100022_002_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Chloe had never performed oral sex before. She couldn't hide her<br>anxiety and hesitation as she faced the two manhoods before her.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.2
+
+message,,The men told her that as long as she was careful not to use her<br>teeth，it'd be fine，and that she just needed to stroke them with her hand—<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.2
+
+asyncl2dmotion,FaceEmotion01,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+l2dmessage,クロエ,I just need to be careful not to use my teeth... So I mustn't bite，<br>right... Alright，I'll，I'll give it a try...<br> ,,vc_10490100022_003_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10490100022_002_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,クロエ,Mmph!... Ngh... Gulp... *slurp*... *slurp，slurp*!<br> ,,vc_10490100022_004_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,2.2
+
+message,,Chloe took one of the heads into her mouth and licked it，stimulating<br>it as best she could.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.1
+
+message,クロエ,Mmph... *lick*... *slurp*... Mmph... *kiss*...<br> ,,vc_10490100022_005_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,5.1
+
+message,クロエ,Nngh... so this is what a thing tastes like!? It's kinda fishy... Did they<br>wash it properly...?<br> ,,vc_10490100022_006_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Enduring the unfamiliar taste，Chloe continued her oral service<br>desperately. Though clumsy and hesitant，she served with unwavering devotion.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+message,,That gesture excited the men above Chloe，as she serviced them and<br>the Princess Knight was being defiled before their eyes.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+message,クロエ,Uuh... they seem to be enjoying it，but... Is this really okay...?<br> ,,vc_10490100022_007_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Unable to bear Chloe's floundering，hesitant tongue，the man she<br>wasn't servicing asked her to stroke his length with her hand.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10490100022_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+message,クロエ,Y-yes... s-sorry...<br> ,,vc_10490100022_008_01
+
+l2dmotion,EyeEmotionRight
+
+message,,Chloe placed her hand on the other manhood and gently stroked it. It<br>was a careful handjob，mindful not to cause pain.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+message,クロエ,Ngh... *squelch*... *pant*... mmm...<br> ,,vc_10490100022_009_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.7
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+message,クロエ,Th-this is really a lot to handle... I wonder if I'm making them feel<br>good... I just don't know...<br> ,,vc_10490100022_010_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Even though she was already inexperienced in serving men，being<br>asked to use both hand and mouth simultaneously sent Chloe into a panic.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,4.1
+
+message,クロエ,But when I think it's for my favorite，for the Princess Knight，this<br>much trouble is nothing...<br> ,,vc_10490100022_011_01
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.1
+
+message,,With her love for her favorite in heart，she desperately continued the<br>lewd act of simultaneous mouth-and-hand service.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6.1
+
+message,クロエ,*kiss*... Mmph... mmm... *lick*... *slurp*... *schlurp*...<br> ,,vc_10490100022_012_01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+message,,Chloe，face contorted，licked the tip. Her fingers stroked his<br>manhood，her bosom swaying，arousing the men.<br> 
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,The man expressed his desire for Chloe to take it deeper，and<br>simultaneously thrust his hips.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10490100022_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+wait,0.5
+
+message,クロエ,Ngh!<br> ,,vc_10490100022_013_01
+
+
+message,,Chloe was surprised by the manhood thrust into her throat unbidden.<br>Yet she didn't pull away; she desperately moved to take it in.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+message,クロエ,Ngh... d-deeper... l-like this...?<br> ,,vc_10490100022_014_01
+
+
+message,,Chloe enveloped the manhood in the back of her throat and moved<br>her head back and forth to stimulate it.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+message,クロエ,Ngh... Mmph... *slurp*... Mmph...<br> ,,vc_10490100022_015_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.5
+
+message,クロエ,(It's hard to breathe... but I have to keep going...!)<br> ,,vc_10490100022_016_01
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+message,,Each time Chloe gagged from the deep thrust，the man's sense of<br>dominance was fulfilled，and he shivered with pleasure.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.2
+
+message,,Unable to stand that only his partner was getting oral，the man who<br>had been getting a handjob soon asked Chloe to lick him too.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene05,on,STOP,2.3
+
+bgvplay,bgvtag2_5,bgv_10490100022_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,クロエ,Ngh... Mmph... Ngh... Pwah! *pant*，*pant* Mmph... *slurp*!<br> ,,vc_10490100022_017_01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,Drawing her mouth from the manhood deep in her throat，Chloe<br>caught her breath and quickly took the other manhood in her mouth.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,1.3
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+message,クロエ,(Whew... servicing two men at once is really tiring... Ugh... if I don't<br>make them come soon，I might not have the stamina left...)<br> ,,vc_10490100022_018_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.2
+
+message,,She worked the manhood she had been licking with her hand. Thanks<br>to the slick mix of saliva and pre-cum，her hand slid smoothly.<br> 
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.1
+
+message,クロエ,Mmph! *gasp*... *lick*... *slurp*... mmm... Ngh... mmm.<br> ,,vc_10490100022_019_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,10.5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,10.6
+
+message,クロエ,(Oh，hmm? This guy's thing isn't so fishy after all... But it tastes a bit<br>sour，and it's too big!)<br> ,,vc_10490100022_020_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Surprised that each man's manhood tasted different，Chloe continued<br>her diligent service.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.1
+
+message,,She softly enveloped the manhood in her mouth while stimulating the<br>tip，then traced the ridge，underside，and slit with her tongue.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10490100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+message,クロエ,Ngh... Mmph... D-does it... feel... good...?<br> ,,vc_10490100022_021_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,Chloe continued her oral service，glancing at the man. When she<br>asked，he excitedly replied，'It's the best!'<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,As Chloe serviced him orally，the man got fan service from the<br>Princess's gaze. He was thrilled beyond control.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10490100022_007_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+wait,1.4
+
+message,クロエ,Ngh! Mmmmph!<br> ,,vc_10490100022_022_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,The excited man thrust his manhood deep into Chloe's throat. Spurred<br>on by the warm，tight sensation，he pumped his hips faster.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.3
+
+message,クロエ,Mmph... W-wait... Please... Mmmph...<br> ,,vc_10490100022_023_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Chloe managed to take his manhood，but she choked as he pushed<br>deep into her throat.<br> 
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+message,クロエ,Ngh... Mmph... *cough*... Ngh...<br> ,,vc_10490100022_024_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+message,クロエ,(It's painful... but... they both seem to be enjoying it... so I should do<br>more...)<br> ,,vc_10490100022_025_01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+message,,Both men—the one thrusting and the other receiving her frantic hand<br>service—looked at Chloe with eyes full of excitement and pleasure.<br> 
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2.1
+
+message,,It was rough，but Chloe，determined to satisfy the customers，kept<br>up her oral and manual service.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,クロエ,Ngh... Mmph... mmm... *slurp!* *cough!*... Ngh... Mmph... *slurrrrp!*<br> ,,vc_10490100022_026_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,When they thrust into her throat，she gagged but kept up her oral<br>and manual service，licking and stroking without pause.<br> 
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4.1
+
+message,クロエ,*pant*... Mmph... *huff*... *slurp*... Mmmmph!<br> ,,vc_10490100022_027_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+message,,Thoroughly aroused by her fervent service，the men groaned，<br>signaling they were ready to cum.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,3.1
+
+message,クロエ,(Please... just come already! I... I can't keep this up...!)<br> ,,vc_10490100022_028_01
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10490100022_008_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+message,クロエ,Ngh! Mmmmph!<br> ,,vc_10490100022_029_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+message,,Just as the two manhoods throbbed in Chloe's mouth and hand，thick<br>white cum was shot into her throat and across her face.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,6.2
+
+message,クロエ,(Ngh... it burns my throat... and it smells fishy and strange...)<br> ,,vc_10490100022_030_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceEmotion02,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,With a pained expression，Chloe's body occasionally twitched and<br>trembled.<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10490100022_009_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+message,クロエ,*gulp*... *pant*... Mmph!... *gulp*!<br> ,,vc_10490100022_031_01
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.1
+
+message,,Chloe pulled away from his manhood and swallowed the seed that had<br>spilled into her mouth.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.2
+
+l2dmessage,クロエ,*pant*，*pant*... I-I swallowed it...<br> ,,vc_10490100022_032_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8
+
+message,,It seemed she had swallowed it unconsciously. Chloe's eyes darted in<br>agitation as she stared at the two manhoods that had just ejaculated.<br> 
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,2
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6.1
+
+message,,The excited customers raised a clamor—the Princess had swallowed<br>their sperm and her face was soiled with it.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+message,クロエ,(It seems they're satisfied，which is a relief，but...)<br> ,,vc_10490100022_033_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6.5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,6.7
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+asyncl2dmotion,MouthEmotion01,on,STOP,9
+
+message,クロエ,(So this is what it feels like to be someone's favorite...? I-it's，how<br>should I say... exhausting though...)<br> ,,vc_10490100022_034_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+message,,Even so，Chloe mustered her best smile until the men left the brothel.<br> 
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

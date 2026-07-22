@@ -1,0 +1,197 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg10200b
+
+charaload,chara_1,103101000G,ハツネ
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,Only the Commander Will Do
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0027,0.75,1
+
+
+
+
+window,on,0.15
+message,,As I passed the training grounds，I spotted a suspicious figure in the<br>shadows. It was Hatsune，crouching there.<br> 
+
+message,,Hatsune didn't notice me; she was intently peering into the training<br>grounds. I approached silently and called out to her.<br> 
+
+message,<user>,Hey，what are you doing?<br> 
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_1,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ハツネ,Wah! ...Oh，it's you，Commander. Standing around like that，you'll get<br>caught!<br> ,,vc_10310100031_001_01
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+charahide,chara_1,0.3
+
+wait,0.3
+
+transitionFade,Tra02,in,black,1
+
+window,on,0.15
+message,,Flustered，Hatsune grabbed my arm and pulled me into the shadows.<br> 
+
+message,<user>,What's this all about? What are you sneaking around for?<br> 
+
+charashow,chara_1,0.3
+
+asynccharaface,chara_1,FaceAnger,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ハツネ,Shh! I'm just secretly checking to see if the young lord is training<br>hard.<br> ,,vc_10310100031_002_01
+
+message,,When I peered into the training grounds，Kotono was enthusiastically<br>teaching the young lord swordsmanship. Hatsune was watching with rapt attention.<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ハツネ,He's working hard even at this late hour... The young lord has become<br>so impressive.<br> ,,vc_10310100031_003_01
+
+message,<user>,I see. But are you okay with just sneaking a peek? You're skilled with<br>a sword yourself—you could teach him.<br> 
+
+asyncseplay,setag1_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,ハツネ,Nah，nah，I'm no good at teaching others. Besides，if it were the<br>young lord，I'd end up spoiling him.<br> ,,vc_10310100031_004_01
+
+message,<user>,Hmm，well，I can understand your concern. ...Huh?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ハツネ,*pant，pant，pant，pant*<br> ,,vc_10310100031_005_01
+
+message,,Hatsune's face was flushed and her breath ragged. Heat radiated<br>from where our shoulders touched—startlingly hot.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag1_3,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,ハツネ,N-no way... my body's heating up... this is bad... I think it's starting...<br>Commander，get away from me...<br> ,,vc_10310100031_006_01
+
+message,<user>,Huh? What's with you all of a sudden? You're the one who pulled me<br>in here，aren't you?<br> 
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ハツネ,That's... ah...<br> ,,vc_10310100031_007_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+window,off
+wait,0.15
+
+asynccharaface,chara_1,FaceShy,STOP
+
+crossfadeready
+
+charahide,chara_1,0
+
+charascale,chara_1,2,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+shake,BACK,,0,0,0.5,1,off,off,0
+window,on,0.15
+message,,Hatsune suddenly staggered and leaned against me. Instead of pulling<br>away，our bodies only pressed even closer together.<br> 
+
+message,<user>,H-hey，are you okay? Could it be you've caught a cold...?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ハツネ,N-no，that's not it，this is... um...<br> ,,vc_10310100031_008_01
+
+bgmstop,bgmtag1_1,0,0
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ハツネ,I'm... in heat.<br> ,,vc_10310100031_009_01
+
+bgmplay,bgmtag1_2,bgm0026,0.75,1
+
+message,<user>,Heat?!<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ハツネ,Ahh... I can't take it anymore...<br>Sorry，Commander!<br> ,,vc_10310100031_010_01
+
+asyncseplay,setag1_4,se4400111,0,1,CONT
+
+shake,BACK,,350,0,0.25,2,off,off,0
+
+message,<user>,Whoa!<br> 
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+window,on,0.15
+message,,Hatsune caught me off guard with a leg sweep，sending me to the<br>ground. With expert body control，she pinned me and mounted me—<br> 
+
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_2,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

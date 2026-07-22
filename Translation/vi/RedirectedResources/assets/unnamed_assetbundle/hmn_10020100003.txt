@@ -1,0 +1,941 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg13000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,100201000G,ベリサ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Tiêu Đề
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0036,0.75,1
+
+
+asyncseplay,setag1_1,se4402003,0,1,CONT,0
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,-100,0,CONT
+
+asynccharascale,chara_1,1,0,CONT,0
+
+asynccharashow,chara_1,0.5,CONT,0
+
+asynccharamove,chara_1,EaseOut,Y,100,1,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_2,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,Ưm…… ủa? Đây là đâu vậy ta〜……?<br> ,100201000G,vc_10020100003_001_01,chara_1
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg13000a
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+charaface,chara_1,FaceSurprise
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,<user>,Cuối cùng cũng tỉnh rồi à?<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ベリサ,Anh……? Sao anh lại ở đây thế〜?<br> ,100201000G,vc_10020100003_002_01,chara_1
+
+message,<user>,Em không nhớ à?<br> 
+
+message,<user>,Em đã thi đấu với mấy món đồ của Adelheid<br>rồi ngất vì cạn ma lực.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_4,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ベリサ,Hả…… vậy nơi này là……<br> ,100201000G,vc_10020100003_003_01,chara_1
+
+message,<user>,Phòng của anh. Em chiếm luôn cái giường khiến anh phiền lắm đấy.<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_5,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ベリサ,Phòng của anh…… giường của anh……♡<br> ,100201000G,vc_10020100003_004_01,chara_1
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncwait
+
+wait,0.5
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_6,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+window,on,0.15
+message,ベリサ,Ưm hư hư〜n♡ Thiệt tình〜 anh này〜. Kéo em vào phòng như vậy<br>anh định làm gì em thế〜?♡<br> ,100201000G,vc_10020100003_005_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_7,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Nếu không phải Verisa kiệt sức đến mức không cử động nổi<br>thì anh còn chẳng có gan bế em lên giường nhỉ? <br> ,100201000G,vc_10020100003_006_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_8,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Đúng là một ông anh tệ hại hết chỗ nói luôn đó♡<br> ,100201000G,vc_10020100003_007_01,chara_1
+
+message,<user>,……Vừa hồi sức là lại bắt đầu thế ngay à.<br> 
+
+message,<user>,Anh đâu thể tự tiện vào phòng em. Hay Verisa muốn anh đi rêu rao rằng<br>em ngất vì đun nước tắm?<br> 
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_9,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ベリサ,Ủa kìa〜? Hay Verisa đi kể cho mọi người rằng em ngất vì<br>phục vụ anh quá sức nhé〜? ♡ Táo bạo ghê〜♡<br> ,100201000G,vc_10020100003_008_01,chara_1
+
+message,<user>,Đúng là cái miệng không chịu ngừng…… Nói trước nhé<br>chuyện em ngất đi là vấn đề nghiêm túc đấy.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+message,<user>,May mà không có giao tranh<br>chứ nếu Tai Ương xuất hiện thì em định làm sao?<br> 
+
+message,<user>,Lập chiến lược mà thiếu em cũng phiền phức lắm.<br>Từ giờ đừng liều lĩnh vì mấy chuyện nhảm nhí nữa.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncwait
+
+wait,0.5
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_10,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,Ư〜 đúng là vậy nhỉ? Anh mà không có Verisa thì chẳng làm<br>được gì hết đúng không? Không có em là anh yếu xìu luôn♪<br> ,100201000G,vc_10020100003_009_01,chara_1
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+wait,0.5
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_11,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+
+window,on,0.15
+message,ベリサ,……Nhưng mà này anh. Chuyện hôm nay không hề nhảm nhí đâu.<br> ,100201000G,vc_10020100003_010_01,chara_1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+
+message,ベリサ,Ma pháp của em tuyệt đối<br>không được thua thứ khoa học của Lux Nova đâu.<br> ,100201000G,vc_10020100003_011_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_12,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Anh đã nhìn kỹ rồi mà đúng không?<br>Giờ anh biết ma pháp và khoa học bên nào lợi hại hơn rồi nhỉ?<br> ,100201000G,vc_10020100003_012_01,chara_1
+
+message,<user>,Ừm……<br>Khoa học lẫn ma pháp đều có ưu nhược điểm riêng thôi.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_13,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ベリサ,Hảảả!? Sao lại thế〜!? Em thắng rồi mà!!<br> ,100201000G,vc_10020100003_013_01,chara_1
+
+message,<user>,Ngoài trận cuối ra thì em thua suốt còn gì.<br>Vả lại với anh thắng thua không quan trọng.<br> 
+
+message,<user>,Dùng đúng thứ cần dùng vào đúng thời điểm.<br>Anh chỉ muốn có thông tin để làm điều đó thôi.<br> 
+
+message,<user>,Dù sao kết quả nhìn chung cũng đúng như dự tính.<br> 
+
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ベリサ,……À vậy à〜. Anh đúng là kiểu người như thế nhỉ……<br> ,100201000G,vc_10020100003_014_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ベリサ,Nói cho cùng anh chẳng có hứng thú với ma pháp của em gì cả……<br> ,100201000G,vc_10020100003_015_01,chara_1
+
+message,<user>,……Nhưng có một điều nằm ngoài dự tính. Là em đấy Verisa.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_16,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ベリサ,Hả…… em á?<br> ,100201000G,vc_10020100003_016_01,chara_1
+
+message,<user>,Em ganh đua với khoa học đến mức dùng ma pháp tới khi ngã gục.<br>Anh không ngờ em lại cứng đầu đến vậy.<br> 
+
+message,<user>,Vì sao phải làm đến thế? Đó đâu phải thực chiến mà chỉ là trò chơi thôi.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_17,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,Đúng là có thể chỉ là trò chơi. Nhưng với em đó là chuyện rất quan trọng.<br> ,100201000G,vc_10020100003_017_01,chara_1
+
+bgmstop,bgmtag1_1,1.5,0
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+
+message,ベリサ,Ma pháp của em phải đứng trên khoa học của Lux Nova<br>nếu không thì chẳng còn ý nghĩa gì nữa.<br> ,100201000G,vc_10020100003_018_01,chara_1
+
+message,<user>,Dù hơn hay kém<br>nếu được anh sử dụng thì sẽ không có thất bại.<br> 
+
+message,<user>,Hay em nghĩ nếu nó không mạnh thì anh không thể dùng cho ra hồn?<br>Bị xem thường thật đấy.<br> 
+
+bgmplay,bgmtag1_2,bgm0030,0.75,1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_18,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ベリサ,Không phải…… anh có thể biến bất kỳ ai thành chiến lực.<br>Nhưng với em chỉ được sử dụng thôi là chưa đủ.<br> ,100201000G,vc_10020100003_019_01,chara_1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+message,ベリサ,Ma pháp của em phải là mạnh nhất!<br> ,100201000G,vc_10020100003_020_01,chara_1
+
+message,<user>,Anh không hiểu vì sao em lại dằn vặt tới mức đó.<br> 
+
+message,<user>,Anh hiểu Perdion trọng dụng pháp sư.<br>Nhưng em đâu cần phải gánh vác chuyện đó.<br> 
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_20,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ベリサ,Đâu phải em làm vậy vì đất nước đâu.<br> ,100201000G,vc_10020100003_021_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_21,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,Anh hiểu rõ vị trí của pháp sư trong chiến đấu mà đúng không?<br> ,100201000G,vc_10020100003_022_01,chara_1
+
+message,<user>,Là hậu tuyến chứ gì. Không cần phải nói.<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+
+message,ベリサ,Đúng vậy đó! Mọi người ở tiền tuyến đang liều mạng chống đỡ<br>những Tai Ương khủng khiếp…… còn bọn em ở phía sau họ.<br> ,100201000G,vc_10020100003_023_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_22,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ベリサ,Mọi người bảo vệ bọn em. Để các pháp sư như bọn em có thể dùng ma pháp cho trọn vẹn.<br> ,100201000G,vc_10020100003_024_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+
+window,on,0.15
+message,ベリサ,Có những người đặt kỳ vọng vào ma pháp của em…… và cược cả mạng sống vào đó.<br> ,100201000G,vc_10020100003_025_01,chara_1
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_24,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ベリサ,Họ có thể chết. Không…… không phải có thể. Thực tế đã rất nhiều lần có những tình huống như thế.<br> ,100201000G,vc_10020100003_026_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_25,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,Nếu không có sự chỉ huy của anh thì chắc chắn……<br>còn nhiều người hơn nữa……<br> ,100201000G,vc_10020100003_027_01,chara_1
+
+message,<user>,Ừ. Nghe nói trong những trận chiến với Tai Ương trước đây<br>thiệt hại rất nặng nề.<br> 
+
+message,<user>,Anh không định để lộ ra bộ dạng thảm hại như thế. Nhưng<br>anh luôn tính đến khả năng có hy sinh.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_26,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+window,on,0.15
+message,ベリサ,Đúng vậy mà. Bất cứ lúc nào cũng có thể có ai đó bị thương.<br>Không…… rất nhiều người đã…… bị thương rồi.<br> ,100201000G,vc_10020100003_028_01,chara_1
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_27,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,ベリサ,Vậy mà nếu ma pháp của em…… chỉ ngang với một món công cụ<br>thì ý nghĩa việc họ bảo vệ em sẽ biến mất mất thôi……<br> ,100201000G,vc_10020100003_029_01,chara_1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+
+message,ベリサ,Pháp sư…… ma pháp của em…… không được thua khoa học. Vì…… vì mà……<br> ,100201000G,vc_10020100003_030_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ベリサ,Những người đã bị thương vì em…… sẽ giống như đồ ngốc mất thôi……<br> ,100201000G,vc_10020100003_031_01,chara_1
+
+message,<user>,……Không phải anh không hiểu. Nếu nói là hậu tuyến thì người đứng sau cùng chính là anh.<br> 
+
+message,<user>,Cả anh lẫn em đều phải liên tục tạo ra kết quả<br>đủ để ngẩng mặt trước những người chiến đấu làm lá chắn.<br> 
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,ベリサ,Đúng…… đúng vậy. Vì thế em phải thắng……!<br> ,100201000G,vc_10020100003_032_01,chara_1
+
+message,<user>,……Có vẻ em cũng không muốn nghe những lời dịu dàng đâu nhỉ.<br>Vậy anh chỉ nói sự thật đã xác nhận lần này thôi.<br> 
+
+message,<user>,Mấy món đồ của Adelheid chỉ phát huy đúng hiệu năng như dự tính.<br> 
+
+message,<user>,Người duy nhất khiến anh ấn tượng là em đấy Verisa.<br> 
+
+bgmstop,bgmtag1_2,1.5,0
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_30,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ベリサ,……Hả?<br> ,100201000G,vc_10020100003_033_01,chara_1
+
+message,<user>,Chỉ có em tạo ra kết quả vượt ngoài dự tính của anh.<br>Nói trước nhé cũng khá đáng nể đấy.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ベリサ,……Vậy…… vậy thì nhé! Trận đấu hôm nay xem như em thắng được đúng không!?<br> ,100201000G,vc_10020100003_034_01,chara_1
+
+message,<user>,Ừ. Riêng hôm nay có thể nói là em thắng.<br> 
+
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncjump,CHARA,chara_1,40,0.5,2,off,0,CONT
+
+asyncwait
+
+wait,0.5
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_32,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+window,on,0.15
+message,ベリサ,Ư…… ê hê hê〜……♡<br> ,100201000G,vc_10020100003_035_01,chara_1
+
+bgmplay,bgmtag1_3,bgm0031,0.75,1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_33,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ベリサ,Đúng chứ đúng chứ〜? Verisa siêu lắm đúng không〜?<br>Vậy chắc chắn là em thắng rồi nhỉ〜?<br> ,100201000G,vc_10020100003_036_01,chara_1
+
+message,<user>,Đừng bắt anh nhắc lại nữa…… cái vẻ mặt đắc ý đó là sao.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_34,se4800019,0,1,CONT,0
+
+asynccharaemo,chara_1,Elated,CONT,0
+
+
+message,ベリサ,Ơ〜? Vì mà〜♡ <br>Anh bị sự lợi hại của Verisa hạ gục rồi đúng không〜?<br> ,100201000G,vc_10020100003_037_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Rốt cuộc anh ấy mà không có em thì chẳng làm được gì cả〜♡<br> ,100201000G,vc_10020100003_038_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_36,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Nếu Verisa ngủ mất mà Tai Ương xuất hiện thì anh định làm gì〜?<br>Sợ lắm đúng không〜 một mình ấy〜♡<br> ,100201000G,vc_10020100003_039_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_37,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ベリサ,Ngoan nào ngoan nào. Em sẽ ở bên nên anh cứ yên tâm đi<br>ông anh yếu ớt của em♡<br> ,100201000G,vc_10020100003_040_01,chara_1
+
+message,<user>,Hừ. Dù không có em thì cũng chỉ phiền thêm chút thôi.<br>Công việc của anh là khiến phe mình thắng trong mọi tình huống.<br> 
+
+message,<user>,Dù có hy sinh thì việc anh phải làm cũng không đổi.<br>Dẫu anh có bị căm ghét đến đâu đi nữa.<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_38,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Không sa〜o đâu♡ Verisa sẽ trở về bình an<br>để anh khỏi phải khóc mà♡<br> ,100201000G,vc_10020100003_041_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_39,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Nếu vậy mà vẫn có ai bị thương thì Verisa sẽ<br>an ủi anh thật nhiều nhé anh♡<br> ,100201000G,vc_10020100003_042_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_40,se4800002,0,1,CONT,0
+
+asynccharaemo,chara_1,Heart,CONT,0
+
+
+message,ベリサ,Thế nên nè〜 anh cứ dựa vào pháp sư siêu mạnh Verisa<br>nhiều hơn cũng được đó〜? Ông anh không có ma pháp yếu xìu♡y・ế・u・x・ì・u♡<br> ,100201000G,vc_10020100003_043_01,chara_1
+
+message,<user>,……<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,（Cứ tưởng mình đang bị trêu chọc<br>nhưng kiểu này của Verisa chỉ là em ấy đang làm nũng với mình thôi…… thật là）<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Mới khen một chút đã lên mặt ngay.<br>Cảm giác như mình mới là người chịu thiệt vậy.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_41,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ベリサ,Hư hư〜n♡ Nếu anh đã khen rồi〜 thì Verisa<br>tự nhiên lại muốn có phần thưởng gì đó ghê〜♡<br> ,100201000G,vc_10020100003_044_01,chara_1
+
+message,<user>,Lôi người ta vào rồi còn nói tùy hứng……<br>Anh sẽ nghe thử nhưng đừng mong chờ quá.<br> 
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_42,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,ベリサ,Verisa ấy nha〜 muốn cùng anh〜…… đi tắm đó〜♡<br> ,100201000G,vc_10020100003_045_01,chara_1
+
+message,<user>,Cứ tưởng em định nói gì hóa ra lại là một điều ước nhảm nhí.<br>……Mà thôi đúng là em đã nghe theo yêu cầu của anh và làm việc tới khi ngất.<br> 
+
+message,<user>,Hết cách rồi. Chỉ hôm nay thôi đấy.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_43,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Tuyệt quá〜♡ Đúng là anh mềm lòng với Verisa quá mà〜♡<br> ,100201000G,vc_10020100003_046_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_44,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ベリサ,Hay là trong lúc đun nước tắm anh vẫn luôn nghĩ muốn vào cùng em<br>đúng không ta? Anh đúng là như em bé ấy〜♡<br> ,100201000G,vc_10020100003_047_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_45,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Không sao đâu? Verisa cũng nghĩ rằng muốn ở cùng anh mà♡<br> ,100201000G,vc_10020100003_048_01,chara_1
+
+message,<user>,Vì cứ nghĩ mấy chuyện thừa thãi như thế nên em mới ngất đấy.<br> 
+
+message,<user>,Mà chỉ cùng nhau vào tắm đã là phần thưởng thì rẻ quá.<br>Anh còn tưởng sẽ bị bắt rửa người cho em cơ.<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_46,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ベリサ,À vậy thêm cái đó nữa〜♡<br>Anh đúng là muốn được Verisa nuông chiều hết mức mà♡<br> ,100201000G,vc_10020100003_049_01,chara_1
+
+message,<user>,……Anh lỡ nói thừa rồi. Quên đi.<br> 
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_47,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ベリサ,Không chịu đâu♡ Hôm nay em sẽ cho anh chăm sóc Verisa〜♡<br> ,100201000G,vc_10020100003_050_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_48,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Verisa cũng sẽ làm cho anh sạch sẽ thơm tho luôn nhé♡<br> ,100201000G,vc_10020100003_051_01,chara_1
+
+message,<user>,Vậy hôm nay vẫn là em thua. Không có thưởng gì hết. Mau về đi.<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_49,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,ベリサ,Anh cứ nói vậy thôi〜♡ Chứ vui lắm đúng không?<br>Tim anh đã đập thình thịch rồi kìa〜♡<br> ,100201000G,vc_10020100003_052_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_50,se4800005,0,1,CONT,0
+
+asynccharaemo,chara_1,Flash,CONT,0
+
+
+message,ベリサ,À em hiểu rồi♡ Chỉ rửa người thôi thì anh không chịu nổi đúng không? Hư hư……♡<br> ,100201000G,vc_10020100003_053_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_51,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ベリサ,Nếu là anh…… thì xa hơn nữa cũng được đó♡<br> ,100201000G,vc_10020100003_054_01,chara_1
+
+message,<user>,……Bắt đầu thấy phiền rồi đấy. Được rồi được rồi đi nhanh thôi.<br> 
+
+message,<user>,Nhưng bồn tắm vẫn chưa chuẩn bị xong mà.<br>Em định dùng ma pháp đun nước à?<br> 
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_52,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ベリサ,Không được đâu♡ Bây giờ Verisa đang trong trạng thái yếu xìu〜.<br>Đến tia lửa nhỏ cũng không tạo ra nổi♡<br> ,100201000G,vc_10020100003_055_01,chara_1
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.5,2,off,0,CONT
+
+asyncseplay,setag1_53,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,ベリサ,Bây giờ thì dù là ông anh yếu xìu như anh<br>cũng có thể muốn làm gì Verisa yếu xìu này thì làm đó〜?<br> ,100201000G,vc_10020100003_056_01,chara_1
+
+message,<user>,Im đi. Anh sẽ đi gọi Adelheid.<br>Để cô ấy dùng công cụ của Lux Nova chuẩn bị bồn tắm.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_54,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ベリサ,Ơ〜!? Ư〜…… hết cách rồi nhỉ.<br>Hôm nay Verisa thắng nên đặc biệt tha cho anh đó〜♡<br> ,100201000G,vc_10020100003_057_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_55,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ベリサ,Nhưng mà nhưng mà♡ Vì đây là phần thưởng nên anh phải nhìn em cho đàng hoàng nhé?<br>Không phải phía khoa học mà là phía Verisa này♡<br> ,100201000G,vc_10020100003_058_01,chara_1
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_56,se4800002,0,1,CONT,0
+
+asynccharaemo,chara_1,Heart,CONT,0
+
+
+message,ベリサ,Hôm nay em sẽ ở bên anh su〜〜ốt luôn♡<br>Anh ơi♡<br> ,100201000G,vc_10020100003_059_01,chara_1
+
+window,off
+bgmstop,bgmtag1_3,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

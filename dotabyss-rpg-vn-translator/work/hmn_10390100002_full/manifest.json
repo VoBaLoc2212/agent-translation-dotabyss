@@ -1,0 +1,84 @@
+{
+  "scene": "hmn_10390100002",
+  "title_vi": "Ta Chỉ Truyền Giảng Lời Dạy Của Thần Thôi",
+  "source_case": "EN-asset-is-English (en.json English values; asset text English; title field JP)",
+  "sources": {
+    "ja": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10390100002/ja.json",
+    "en": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10390100002/en.json",
+    "en_asset": "AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10390100002.txt"
+  },
+  "output": "AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10390100002.txt",
+  "structure": {
+    "line_count": 1512,
+    "bom": "UTF-8 BOM preserved",
+    "newline": "CRLF preserved",
+    "records": {
+      "title": 1,
+      "message": 76,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2,
+      "total": 79
+    }
+  },
+  "rules": {
+    "commander": "司令官/Commander -> Chỉ Huy",
+    "ascii_comma": "commas inside VI text replaced with U+201A ‚",
+    "speaker_labels": "field-1 JP labels kept verbatim (アリシア, マーガレット, 商人, 母親, 父親, 一般兵A/B, 盗賊A/B, <user>)",
+    "names_romanized_in_dialogue": [
+      "Margaret",
+      "Alicia",
+      "Sophia",
+      "Verisa",
+      "Marina",
+      "Himari",
+      "Kururu"
+    ],
+    "terminology": {
+      "大穴": "Đại Huyệt",
+      "前線基地": "Căn Cứ Tiền Tuyến",
+      "盗賊団": "băng đạo tặc"
+    }
+  },
+  "addressing": {
+    "Margaret": "polite priestess: tôi -> Chỉ Huy ngài; humble/formal",
+    "Alicia": "tôi -> Chỉ Huy ngài",
+    "Commander": "ta; addresses Margaret/Alicia by name",
+    "bandits": "bọn ta / các ngươi rustic register"
+  },
+  "notes": [
+    "Title field was JP; translated JP->VI in Vietnamese Title Case.",
+    "SFX/crying localized to Vietnamese onomatopoeia (Hức, hu hu; Ơ-ơ-ơ-ơi) to avoid UNCHANGED_TEXT.",
+    "<br> counts matched EN asset exactly (13 lines adjusted from JP-shaped breaks; L1404 required inserting one <br>).",
+    "H18 rule: no adult content in this scene."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10390100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 76,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 79,
+    "translated_records": 79,
+    "changed_lines": 79,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1511,
+      "vi": 1511,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "e46c4c734261faf5ea9590160afb72597f9bb44ad55032c3aa90776cd8234e44",
+    "output_sha256": "a0c5e7bc130cc9ef198d8da95482303746ac69df52bc131a5b29a6c66ee8a553"
+  },
+  "status": "PASS"
+}

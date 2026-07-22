@@ -1,0 +1,760 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10620100022
+
+charaload,chara_1,106201000X,ヒナギ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+bgvplay,bgvtag2_1,bgv_10620100022_001_01,1,on
+
+
+l2dmotion,ExEmotion00
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+window,on,0.15
+l2dmessage,ヒナギ,Eh...! Th-this is...!?<br> ,,vc_10620100022_001_01
+
+
+
+
+message,,In the seated rear-entry position，the man's manhood was buried<br>deep in Hinagi. She felt his intense malign energy when he entered.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.7
+
+
+
+message,ヒナギ,(Is this a curse someone placed on him? Or is this malign energy<br>something this man himself possesses?)<br> ,,vc_10620100022_002_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+
+
+message,,Tension shot through Hinagi. The man she was now in contact with<br>might be the one who had stolen her book and cursed %user%.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1.5
+
+message,,Why would such a man，after hearing rumors of Hinagi，go out of his<br>way to visit the brothel?<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,8
+
+
+message,ヒナギ,...Either way，this malign energy is too dangerous. If I don't perform<br>the ritual carefully，it will harm us both.<br> ,,vc_10620100022_003_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3
+
+message,,She couldn't let her agitation show. She had to proceed with the<br>ceremony calmly. Resolved，Hinagi opened her mouth and began to chant softly.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10620100022_002_01,1,on
+
+wait,0.5
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ヒナギ,Pure life of... Ngh! Mmph!<br> ,,vc_10620100022_004_01
+
+
+
+
+message,,The man behind her shoved his fingers into her mouth<br>mid-incantation，silencing her.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen01
+
+
+message,ヒナギ,(No way...! W-what...!)<br> ,,vc_10620100022_005_01
+
+asyncl2dmotion,EyeOpen03,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.5
+
+
+message,,From her position，she couldn't see the man's expression. However，<br>the hot breath on her back betrayed his excitement.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+
+message,ヒナギ,(What is this man thinking... Is it just the malign energy driving him<br>mad? ...No，this cannot go on! I must do something—)<br> ,,vc_10620100022_006_01
+
+l2dmotion,EyeEmotionReset
+
+
+
+message,,With her incantation interrupted，she couldn't continue the<br>technique. If the man kept pouring his malign energy directly into her，Hinagi would be in danger.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10620100022_003_01,1,on
+
+wait,0.5
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+message,ヒナギ,Mmph... *pant*... Aah... Nngh...!<br> ,,vc_10620100022_007_01
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+
+message,,The man began thrusting his hips upward，raw desire laid bare. His<br>hot breath against her back was like a beast on the hunt.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleLeft
+
+
+message,ヒナギ,Ah，agh! Nngh!... Mmph! Kuh!... *phew*... Nngh...<br> ,,vc_10620100022_008_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+
+
+message,,The head of his manhood relentlessly pushed against Hinagi's core，<br>over and over. Each time，lightning of ecstasy shot through her mind.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,8
+
+message,ヒナギ,(Ngh... This is bad... If I am made to climax like this，I will unilaterally<br>absorb the malign energy... I must concentrate here...)<br> ,,vc_10620100022_009_01
+
+l2dmotion,FaceAngleReset
+
+
+
+message,,Hinagi tried to concentrate. However—<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+
+
+message,ヒナギ,Kuh... *pant*...<br> ,,vc_10620100022_010_01
+
+
+
+
+message,,The man stirred his fingers around in her mouth，moving them as if to<br>savor the texture of Hinagi's tongue.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyeOpen02
+
+
+message,ヒナギ,(Y-you... don't move your fingers... I'll lose my concentration...!)<br> ,,vc_10620100022_011_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+
+
+message,,The relentless thrust of his manhood continued，each time pushing at<br>her womb as a black mist of malign energy eroded her insides.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+
+message,ヒナギ,Agh... mmm Aaah... *pant*... Ngh... *whimper*... *gasp*... Mmph...<br>*whimper*...<br> ,,vc_10620100022_012_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionRight
+
+message,,Hinagi tried to resist his thrusts，but waves of pleasure made it<br>impossible to put strength into her body.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.5
+
+
+message,ヒナギ,(What is this malign energy from him? It's not hatred—more like<br>sadness，somehow...)<br> ,,vc_10620100022_013_01
+
+
+
+
+message,,Then the violent push at her cervix sent hot love juice trembling up<br>from deep within her.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+
+
+message,ヒナギ,(What? N-no... In such a situation... I am... becoming aroused...?<br>N-no... That cannot be...)<br> ,,vc_10620100022_014_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+
+message,,Against her will，thick love juice overflowed，enveloping his burning<br>manhood and lubricating his thrusts.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10620100022_004_01,1,on
+
+wait,0.5
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+message,ヒナギ,Ngh... mmmm... mm *pant*...!<br> ,,vc_10620100022_015_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+
+message,,The man's thrusting grew even more intense. The scorching hot tip of<br>his manhood kept grinding deep into her core.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionRight
+
+message,ヒナギ,(I-it's too much... Surely not... At this rate... I'll...)<br> ,,vc_10620100022_016_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+
+
+message,,Sweat beaded on Hinagi's back，its sweet fragrance tickling the man's<br>nose and intensifying his thrusts.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,Each time his manhood pressed into her core，sparks flickered. Hinagi<br>lost her will to resist，her consciousness fading.<br> 
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+
+message,ヒナギ,(Wait... Wait...! N-no! I cannot bear this...!)<br> ,,vc_10620100022_017_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10620100022_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ヒナギ,Mmph... Mmph... Aah... *pant*... Aaah...!<br> ,,vc_10620100022_018_01
+
+
+
+
+message,,Hinagi arched her back deeply once，and then all the strength left<br>her shoulders as she went limp.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion01
+
+message,,Hinagi breathed in ragged gasps，her body trembling with<br>aftershocks. It was obvious she had climaxed.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+message,,The man chuckled fearlessly，saying 'Looks like you came'，and took a<br>breather.<br> 
+
+
+
+
+message,,If Hinagi came without chanting，the Yin-Yang Harmony Secret Art<br>wouldn't be formed—she'd only send malign energy one-sidedly.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeEmotionBottom
+
+message,ヒナギ,(...!)<br> ,,vc_10620100022_019_01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+message,,Hazy from absorbing the malign energy，Hinagi noticed the man had<br>let his guard down; his fingers slipped from her mouth.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Seizing this chance，Hinagi began to chant in a low voice—<br> 
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,7
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,7
+
+l2dmessage,ヒナギ,Pure water of life，rouse the breath of life...<br>Dissolve the evil，become a cleansing flow...<br> ,,vc_10620100022_020_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,,Hinagi visualized the water flowing through her body converging to a<br>single point，and focused her ki into the dantian below her navel.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,'Hngh! It suddenly tightened!' the man exclaimed in panic. Hinagi's<br>walls contracted，clamping down on his manhood.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+message,,But Hinagi was far from composed after absorbing the malign energy;<br>clammy sweat broke out over her body，and her breathing was strained.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,7.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.5
+
+l2dmessage,ヒナギ,*pant，pant*... It seems quite a bit of malign energy has flowed into<br>me，hasn't it? B-but there's still more to come...!<br> ,,vc_10620100022_021_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10620100022_006_01,1,on
+
+wait,0.8
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヒナギ,Mmm... *pant*... Mmph... Ngh... Ah... *pant*...<br> ,,vc_10620100022_022_01
+
+asyncl2dmotion,MouthEmotion03,on,STOP,2
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+
+message,,Hinagi moved her hips，raising and lowering them. The man tried to<br>thrust but his manhood was held captive by her walls and couldn't move.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyeOpenReset
+
+message,ヒナギ,(This time，it's my turn...!)<br> ,,vc_10620100022_023_01
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+
+l2dmessage,ヒナギ,Ngh... Mmph!... *pant*...<br>Ah，ah... Mmph!... *pant*...<br> ,,vc_10620100022_024_01
+
+
+
+
+message,,Hinagi moved her hips desperately. Her core was burning hot. Thick<br>love nectar clung to his manhood as her womanhood squeezed his length.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+message,,Even as her motions urged the man toward his release，the pleasure<br>radiating from his manhood remained unchanged.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,3
+
+bgvplay,bgvtag2_7,bgv_10620100022_007_01,1,on
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+
+l2dmessage,ヒナギ,Ah，ah... mmm... Ah... *pant*!... Mmph!... Aaaah!... Ah... *pant*!<br>Ah... *pant*! I-it... feels so good!<br> ,,vc_10620100022_025_01
+
+
+
+
+message,,Hinagi took a gamble here. Even if it meant reaching her peak first，<br>she quickened her hips to drive the man toward his release.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2.5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,MouthEmotion02,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7
+
+message,ヒナギ,(A-ah... I-it feels too good... I feel like I'm losing consciousness...<br>B-but I have to focus... Otherwise，this man... and I... will...)<br> ,,vc_10620100022_026_01
+
+
+
+
+message,,They were in the middle of the ritual. A misstep in the energy flow<br>would make the malign energy run wild，endangering Hinagi and the man.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+
+
+message,,Hinagi had been waiting for that split-second chance to make the man<br>release his malign energy，then push it back with pure energy.<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+
+
+message,,This was not the Yin-Yang Harmony Secret Art. She was trying to<br>reverse the flow，sending the malign energy back with her pure energy.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2
+
+l2dmessage,ヒナギ,Ah! Aah! Mmm Ah! Ah! Aah...!<br> ,,vc_10620100022_027_01
+
+
+
+
+message,,His manhood's tip stimulated her depths without pause，making her<br>body prickle and nearly lose consciousness from pleasure's waves.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+
+message,ヒナギ,(N-no，I cannot be swept away by pleasure...! I must keep my wits<br>about me...!)<br> ,,vc_10620100022_028_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+
+message,,Hinagi desperately clung to reason and continued moving her hips，<br>nearly losing consciousness many times.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2
+
+l2dmessage,ヒナギ,Mmph，mmph，mmph... *gasp*... Hyaah!... mmm，Mmph!... Mmmuuuuh!<br> ,,vc_10620100022_029_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,ヒナギ,(No... I am going to climax again...)<br> ,,vc_10620100022_030_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+
+message,,Hinagi was nearing her limit. But then，the manhood that had been<br>sucked into her contracting walls twitched and throbbed.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+
+l2dmessage,ヒナギ,Ah，*guh*... b-but no...! I，I cannot...!<br> ,,vc_10620100022_031_01
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene08,on,STOP,3.4
+
+bgvplay,bgvtag2_8,bgv_10620100022_008_01,1,on
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+
+l2dmessage,ヒナギ,Ah! Aah!... I-I cannot anymore! Ahaaah!... mmm Aaaaa!<br> ,,vc_10620100022_032_01
+
+
+
+
+message,,Simultaneously，Hinagi threw her head back and climaxed，and his<br>manhood's head burst，releasing a torrent of thick seed.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+
+message,,As if washing away the white fluid of desire，a thick，sticky liquid<br>gushed from her womb.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+
+
+message,,From their joined bodies，a mixture of seed and love honey<br>overflowed，soaking the sheets and floor.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+message,ヒナギ,(D-did I... succeed...?)<br> ,,vc_10620100022_033_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+
+
+message,,The man let out a small groan and seemed to lose consciousness. The<br>intense malign energy that had been pulsing through him was gone.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,Hinagi turned her gaze toward the man to confirm his state. His<br>expression had become more peaceful than it had been at their first meeting.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+l2dmessage,ヒナギ,I-I am glad... I managed to purify him...<br> ,,vc_10620100022_034_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+message,,Hinagi said that with a relieved smile，but her complexion clearly<br>showed signs of exhaustion.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

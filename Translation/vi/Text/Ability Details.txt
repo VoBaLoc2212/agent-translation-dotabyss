@@ -1,0 +1,221 @@
+[フォースチェイン追加効果]=[Hiệu ứng thêm của Xích Lực]
+
+r:"^【発動条件】30秒に1回\n【効果】攻撃力が最も高い味方1体に会心率UP【{15% / 15秒】を付与 / 自身に<color\=#FF5050>紋章：衝撃<\/color>を【1】付与$"=[Điều kiện kích hoạt] Mỗi 30 giây một lần\n[Hiệu ứng] Cấp Tăng Tỉ Lệ Chí Mạng [{15% / 15 giây] cho 1 đồng minh có Tấn Công cao nhất / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+
+
+
+Nina
+r:"^自身の回避率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】[%％]上昇"=Tăng tỉ lệ tránh né của bản thân thêm [${n1}]\n[Điều kiện kích hoạt] Khi tránh né\n[Hiệu ứng] Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+
+Veera
+r:"^【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】】ダメージ / 自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与に変化$"=[Điều kiện kích hoạt] Thực hiện 2 đòn đánh thường\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+
+
+Hinagi
+r:"^【発動条件】通常回復を2回行う\n【効果】次回の通常回復がさらに対象に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?) / 10秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与する回復に変化$"=[Điều kiện kích hoạt] Thực hiện 2 lần hồi phục thường\n[Hiệu ứng] Đổi lần hồi phục thường tiếp theo thành cấp thêm Tăng Tấn Công [${n1} / 10 giây] cho mục tiêu / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+
+
+r:"^【発動条件】会心時\n【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージ / 自身に最大HP【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復 / 自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与に変化$"=[Điều kiện kích hoạt] Khi đánh chí mạng\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương, hồi phục [${n2}] HP cho bản thân / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+
+r:"^【発動条件】<color\=#FF5050>紋章：情熱<\/color>が5以上のとき\n【効果】通常攻撃がさらに炎上【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:50%】を付与する攻撃に変化$"=[Điều kiện kích hoạt] Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên\n[Hiệu ứng] Đổi đòn đánh thường thành gây thêm Bốc Cháy [${n1} giây</color> / Tỉ lệ thành công: 50%].
+
+r:"^自身の攻撃力と防御力と最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của bản thân thêm [${n1}].
+r:"^会心時、自身に【50%】の確率で回避率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与$"=Khi đánh chí mạng, cấp Tăng Tỉ Lệ Tránh Né [${n1} / 15 giây] cho bản thân với [50%] xác suất.
+r:"^データ未設計$"=Dữ liệu chưa được thiết kế.
+r:"^自身の会心率が(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)上昇、自身の最大HPが(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)上昇$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm ${n1}, tăng HP Tối Đa của bản thân thêm ${n2}.
+r:"^HPが50%以下のとき、自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi HP từ 50% trở xuống, tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^自身がスキルで与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương Kỹ Năng của bản thân thêm [${n1}].
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> đạt từ 5 trở lên, cấp Tăng Hiệu Suất Tích Nạp KN [${n1} / Vĩnh viễn] cho toàn bộ đồng minh (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^味方全体の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng HP Tối Đa của toàn bộ đồng minh thêm [${n1}].
+r:"^通常攻撃を2回行うと、次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージに変化 / ノックバック【Lv3】$"=Sau 2 đòn đánh thường, đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương / Đẩy lùi [Lv3].
+r:"^チェインスキル発動時、自身に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与$"=Khi kích hoạt Kỹ Năng Chuỗi, cấp Tăng Tấn Công [${n1} / 15 giây] cho bản thân.
+r:"^自身に<color\=#FF5050>紋章：情熱<\/color>が付与されたとき、自身に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を付与【累積 / 最大40％】$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> được cấp cho bản thân, cấp Tăng Tỉ Lệ Tránh Né [${n1}] cho bản thân [Cộng dồn / Tối đa 35%].
+r:"^通常攻撃が2HIT攻撃になる / 自身の現在HP割合が低いほど自身のスキル与ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Đòn đánh thường trở thành đòn đánh 2 HIT / Tỉ lệ phần trăm HP hiện tại của bản thân càng thấp, sát thương Kỹ Năng của bản thân càng tăng thêm [${n1}].
+r:"^自身の連撃率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Liên Đòn của bản thân thêm [${n1}].
+r:"^通常回復を2回行うと、最も近い敵を中心とした範囲内にいる敵全体に魅了【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:30%】を付与 / 自身に<color\=#6B8CFF>紋章：衝撃<\/color>を1付与$"=Sau 2 lần hồi phục thường, gây Mê Hoặc [${n1} giây</color> / Tỉ lệ thành công: 30%] cho toàn bộ Kẻ Địch trong phạm vi tập trung vào Kẻ Địch gần nhất / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^自身の状態異常付与確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ lệ áp dụng Trạng Thái Đặc Biệt của bản thân thêm [${n1}].
+r:"^【発動条件】ノワール憑依が付与されているとき\n【効果】通常攻撃のダメージ倍率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】に上昇$"=[Điều kiện kích hoạt] Khi bị Trạng Thái Noire Chiếm Hữu\n[Hiệu ứng] Hệ số sát thương đòn đánh thường tăng lên [${n1}].
+r:"^敵を倒したとき、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与 / ノワール憑依が付与されているとき、自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi tiêu diệt một Kẻ Địch, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân / Khi bị Trạng Thái Noire Chiếm Hữu, tăng Tấn Công của bản thân thêm [${n1}].
+r:"^ノワール憑依が付与されているとき、自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi bị Trạng Thái Noire Chiếm Hữu, tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^30秒に1回、マナを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】獲得$"=Mỗi 30 giây một lần, nhận Mana [${n1}].
+r:"^味方全員の石化耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng Hóa Đá của toàn bộ đồng minh thêm [${n1}].
+r:"^味方全員の石化耐性が【Lv(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng Hóa Đá của toàn bộ đồng minh thêm [Lv${n1}].
+r:"^味方内の前衛/後衛キャラの攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công của Tiền Tuyến/Hậu Tuyến trong số các đồng minh thêm [${n1}].
+r:"^最も遠い敵を狙う / 攻撃範囲が【100%】上昇 / <color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Mục tiêu là Kẻ Địch xa nhất / Tăng phạm vi tấn công thêm [100%] / Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng Tỉ lệ áp dụng Trạng Thái Đặc Biệt của bản thân thêm [${n1}].
+r:"^自身が炎上状態の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương gây ra cho Kẻ Địch bị Bốc Cháy của bản thân thêm [${n1}].
+r:"^敵が戦闘不能になったとき、【25%】の確率で自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与 / 敵が戦闘不能になったとき、【25%】の確率で自身のスキルを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ$"=Khi một Kẻ Địch bị hạ gục, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân với [25%] xác suất / Khi một Kẻ Địch bị hạ gục, tích nạp Kỹ Năng của bản thân thêm [${n1}] với [25%] xác suất.
+r:"^通常攻撃のダメージ倍率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇 / 自身の行動間隔が【20%】増加$"=Hệ số sát thương đòn đánh thường tăng thêm [${n1}] / Tăng khoảng cách hành động của bản thân thêm [20%].
+r:"^クエスト中、マナ量に応じて自分の攻撃力が【最大(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Trong Nhiệm Vụ, tăng Tấn Công của bản thân thêm [tối đa ${n1}] dựa trên lượng Mana.
+r:"^連撃時、通常攻撃が【2HIT / 合計140％】ダメージに変化 / 自身の連撃率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi đánh Liên Đòn, đổi đòn đánh thường thành [2 HIT / Tổng 140%] sát thương / Tăng Tỉ Lệ Liên Đòn của bản thân thêm [${n1}].
+r:"^大砲が追加で自身のパラメーターの【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を引き継ぐ$"=Đại Bác kế thừa thêm [${n1}] Chỉ Số của bản thân.
+r:"^【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / 会心時、麻痺【1秒 / 成功率：20%】を付与する攻撃に変化$"=[Điều kiện kích hoạt] Luôn kích hoạt\n[Hiệu ứng] Đổi đòn đánh thường thành [1 HIT / Tổng 120%] sát thương / Tăng khoảng cách hành động của bản thân thêm [${n1}] / Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, đổi hệ số sát thương thành [150%].
+r:"^スキル発動時、自身に回避率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を付与【累積 / 最大35%】\n【発動条件】回避時\n【効果】自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Khi kích hoạt Kỹ Năng, cấp Tăng Tỉ Lệ Tránh Né [${n1}] cho bản thân [Cộng dồn / Tối đa 35%]\n[Điều kiện kích hoạt] Khi tránh né\n[Hiệu ứng] Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^通常回復を5回行う度に、味方全体に自身の最大HPに応じたバリア【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を付与$"=Mỗi 5 lần hồi phục thường, tạo Lá Chắn [${n1}] cho toàn bộ đồng minh dựa trên HP Tối Đa của bản thân.
+r:"^自身の全状態異常耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng toàn bộ Trạng Thái Đặc Biệt của bản thân thêm [${n1}].
+r:"^【発動条件】魔法植物が存在するとき\n【効果】自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 通常攻撃が変化$"=[Điều kiện kích hoạt] Khi Thực Vật Ma Thuật tồn tại\n[Hiệu ứng] Tăng Tấn Công của bản thân thêm [${n1}] / Đòn đánh thường thay đổi.
+r:"^魔法植物がさらに自身のパラメーターの【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を引き継ぐ$"=Thực Vật Ma Thuật kế thừa thêm [${n1}] Chỉ Số của bản thân.
+r:"^【効果】通常攻撃がさらに凍結【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:50%】を付与する攻撃に変化$"=[Hiệu ứng] Đổi đòn đánh thường thành gây thêm Đóng Băng [${n1} giây</color> / Tỉ lệ thành công: 50%].
+r:"^HPが50%以下のとき攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇し、通常攻撃がノックバック【Lv4】を与える攻撃に変化$"=Khi HP từ 50% trở xuống, tăng Tấn Công thêm [${n1}] và đổi đòn đánh thường thành gây Đẩy lùi [Lv4].
+r:"^回避時、自身に会心率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?) / 10秒】を付与$"=Khi tránh né, cấp Tăng Tỉ Lệ Chí Mạng [${n1} / 10 giây] cho bản thân.
+r:"^HPが50%以下のとき回避率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi HP từ 50% trở xuống, tăng Tỉ Lệ Tránh Né thêm [${n1}].
+r:"^【発動条件】30秒に1回\n【効果】HPが最も低い味方1体に最大HP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復$"=[Điều kiện kích hoạt] Mỗi 30 giây một lần\n[Hiệu ứng] Hồi phục cho 1 đồng minh có HP thấp nhất thêm [${n1}] HP Tối Đa.
+r:"^味方全体の麻痺・魅了・喪失耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng Tê Liệt, Mê Hoặc và Hỗn Loạn của toàn bộ đồng minh thêm [${n1}].
+r:"^バトル開始時、マナを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ（クエスト中1回まで）$"=Khi bắt đầu Trận Chiến, tích nạp Mana [${n1}] (tối đa 1 lần mỗi Nhiệm Vụ) / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^【発動条件】通常回復を2回行う\n【効果】次回の通常回復の回復倍率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】に変化し、対象が味方全体に変化$"=[Điều kiện kích hoạt] Thực hiện 2 lần hồi phục thường\n[Hiệu ứng] Đổi hệ số hồi phục của lần hồi phục thường tiếp theo thành [${n1}] và mục tiêu đổi thành toàn bộ đồng minh.
+r:"^通常攻撃がノックバック【Lv3】の攻撃に変化 / 自身の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Đổi đòn đánh thường thành gây Đẩy lùi [Lv3] / Tăng Phòng Thủ của bản thân thêm [${n1}].
+r:"^スキル発動時、自身に防御力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?) / 10秒】を付与$"=Khi kích hoạt Kỹ Năng, cấp Tăng Phòng Thủ [${n1} / 10 giây] cho bản thân.
+r:"^【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージ / 凍結【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:50%】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与に変化$"=[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương / Gây Đóng Băng [${n2} giây</color> / Tỉ lệ thành công: 50%] / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^自身が喪失状態の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / HPが50%以下になったとき、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【5】付与（クエスト中1回まで）$"=Tăng sát thương gây ra cho Kẻ Địch bị Hỗn Loạn của bản thân thêm [${n1}] / Khi HP giảm xuống dưới 50%, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [5] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^通常回復を5回行う度に、味方全体に自身の最大HP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復$"=Mỗi 5 lần hồi phục thường, hồi phục cho toàn bộ đồng minh thêm [${n1}] HP Tối Đa của bản thân.
+r:"^味方全体の炎上耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng Bốc Cháy của toàn bộ đồng minh thêm [${n1}].
+r:"^自身が会心攻撃を行うと、自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi thực hiện đòn đánh chí mạng, tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^自身の与ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương gây ra của bản thân thêm [${n1}].
+r:"^自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与（クエスト中1回まで）$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^ダメージを受けたとき、【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】の確率で自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与する$"=Khi chịu sát thương, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân với [${n1}] xác suất.
+r:"^味方全体の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【10】付与（クエスト中1回まで）$"=Tăng Tấn Công của toàn bộ đồng minh thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [10] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^会心時、自身に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】を付与【累積 / 最大40％】$"=Khi đánh chí mạng, cấp Tăng Tấn Công [${n1} / 15 giây] cho bản thân / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^クエスト中、飛行して移動 / 自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Trong Nhiệm Vụ, bay khi di chuyển / Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^敵を倒したとき、自身のスキルを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ$"=Khi tiêu diệt một Kẻ Địch, tích nạp Kỹ Năng của bản thân thêm [${n1}].
+r:"^【効果】通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージ / 会心時、麻痺【1秒 / 成功率：20%】を付与する攻撃に変化$"=[Hiệu ứng] Đổi đòn đánh thường thành [1 HIT / Tổng ${n1}] sát thương / Khi đánh chí mạng, gây thêm Tê Liệt [1 giây / Tỉ lệ thành công: 20%].
+r:"^自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 会心時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng Tỉ lệ áp dụng Trạng Thái Đặc Biệt của bản thân thêm [${n1}] / Khi đánh chí mạng, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^自身の会心ダメージ倍率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng hệ số Sát Thương Chí Mạng của bản thân thêm [${n1}].
+r:"^自身が火属性が弱点の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương gây ra cho Kẻ Địch yếu với Thuộc Tính Hỏa của bản thân thêm [${n1}].
+r:"^【効果】次回の通常回復がさらに対象に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?) / 10秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与する回復に変化$"=[Hiệu ứng] Đổi lần hồi phục thường tiếp theo thành cấp thêm Tăng Tấn Công [${n1} / 10 giây] cho mục tiêu / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^自身の炎上耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng kháng Bốc Cháy của bản thân thêm [${n1}].
+r:"^【効果】攻撃力が最も高い味方1体に会心率UP【{15% / 15秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【2】付与$"=[Hiệu ứng] Cấp Tăng Tỉ Lệ Chí Mạng [{15% / 15 giây] cho 1 đồng minh có Tấn Công cao nhất / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+r:"^【効果】攻撃力が最も高い味方1体に会心率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【2】付与$"=[Hiệu ứng] Cấp Tăng Tỉ Lệ Chí Mạng [${n1} / 15 giây] cho 1 đồng minh có Tấn Công cao nhất / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+r:"^味方全体の連撃率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Liên Đòn của toàn bộ đồng minh thêm [${n1}].
+r:"^自身のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Hiệu Suất Tích Nạp KN của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [2] cho toàn bộ đồng minh Tiền Tuyến có Thuộc Tính Quang, Ám hoặc Vô (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^闇属性の味方全体の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Chí Mạng của toàn bộ đồng minh Thuộc Tính Ám thêm [${n1}].
+r:"^自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【5】付与（クエスト中1回まで）$"=Tăng Tấn Công của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [5] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^自身が回復を行ったとき、【50%】の確率で対象に防御力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 10秒】を付与$"=Khi thực hiện hồi phục, cấp Tăng Phòng Thủ [${n1} / 10 giây] cho mục tiêu với [50%] xác suất.
+r:"^味方全員の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng HP Tối Đa của toàn bộ đồng minh thêm [${n1}].
+r:"^自身が敵フロントに対して与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【5】付与（クエスト中1回まで）$"=Tăng sát thương gây ra cho Tiền Tuyến Kẻ Địch của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [5] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^自身が小型の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【5】付与（クエスト中1回まで）$"=Tăng sát thương gây ra cho Kẻ Địch kích cỡ nhỏ của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [5] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^味方フロント全体の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Chí Mạng của toàn bộ đồng minh Tiền Tuyến thêm [${n1}].
+r:"^人型タイプの敵に対して与ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương gây ra cho Kẻ Địch dạng Người thêm [${n1}].
+r:"^採掘時、自身のスキルを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ$"=Khi khai thác, tích nạp Kỹ Năng của bản thân thêm [${n1}].
+r:"^HPが20%以下になったとき、自身に最大HP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復 / 自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【10】付与（クエスト中1回まで）$"=Khi HP giảm xuống dưới 20%, hồi phục [${n1}] HP Tối Đa của bản thân / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [10] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^スキル発動時、自身のスキルを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ / 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Khi kích hoạt Kỹ Năng, tích nạp Kỹ Năng của bản thân thêm [${n1}] / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^スキル発動時、自身に行動間隔減少【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与$"=Khi kích hoạt Kỹ Năng, cấp Giảm khoảng cách hành động [${n1} / 15 giây] cho bản thân.
+r:"^自身の凍結耐性が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / チェインスキル発動時、自身に<color\=#FF5050>紋章：情熱<\/color>を【3】付与$"=Tăng kháng Đóng Băng của bản thân thêm [${n1}] / Khi kích hoạt Kỹ Năng Chuỗi, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [3] cho bản thân.
+r:"^自身の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Tăng HP Tối Đa của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^30秒に1回、HPが最も低い光・闇・無属性の味方フロント・バックの1体に防御力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 10秒】を付与 / <color\=#6B8CFF>紋章：衝撃<\/color>を【2】付与$"=Mỗi 30 giây một lần, cấp Tăng Phòng Thủ [${n1} / 10 giây] cho 1 đồng minh (Tiền Tuyến hoặc Hậu Tuyến) có Thuộc Tính Quang, Ám hoặc Vô có HP thấp nhất / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [2].
+r:"^味方フロント全体の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng HP Tối Đa của toàn bộ đồng minh Tiền Tuyến thêm [${n1}].
+r:"^自身が水属性が弱点の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng sát thương gây ra cho Kẻ Địch yếu với Thuộc Tính Thủy của bản thân thêm [${n1}].
+r:"^自身の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / ダメージを受けたとき、【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】の確率で自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Tăng Phòng Thủ của bản thân thêm [${n1}] / Khi chịu sát thương, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân với [${n2}] xác suất.
+r:"^自身が人型タイプの敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【5】付与（クエスト中1回まで）$"=Tăng sát thương gây ra cho Kẻ Địch dạng Người của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [5] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^30秒に1回、最も近い敵1体に与ダメージDOWN【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与$"=Mỗi 30 giây một lần, gây Giảm Sát Thương Gây Ra [${n1} / 15 giây] cho Kẻ Địch gần nhất.
+r:"^自身の行動間隔が【30%】増加 / 攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 会心時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng khoảng cách hành động của bản thân thêm [30%] / Tăng Tấn Công thêm [${n1}] / Khi đánh chí mạng, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^スキル発動時、自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与 / <color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身が石化状態の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi kích hoạt Kỹ Năng, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân / Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng sát thương gây ra cho Kẻ Địch bị Hóa Đá của bản thân thêm [${n1}].
+r:"^【効果】HPが最も低い味方2体に自身の最大HP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分のバリア【15秒】を付与$"=[Hiệu ứng] Cấp Lá Chắn [15 giây] cho 2 đồng minh có HP thấp nhất, dựa trên [${n1}] HP Tối Đa của bản thân.
+r:"^15秒に1回、マナを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ$"=Mỗi 15 giây một lần, tích nạp Mana [${n1}].
+r:"^【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / ノックバック【Lv3】に変化$"=[Điều kiện kích hoạt] Thực hiện 2 đòn đánh thường\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương / Đẩy lùi [Lv3]
+r:"^自身に<color\=#FF5050>紋章：情熱</color>が付与されたとき、自身に回避率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】を付与【累積 / 最大35[%％]】$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> được cấp cho bản thân, cấp Tăng Tỉ Lệ Tránh Né [${n1}] cho bản thân [Cộng dồn / Tối đa 35%]
+r:"^30秒に1回、自身に<color\=#FF5050>紋章：情熱</color>を【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:<\/color>)?)】付与$"=Mỗi 30 giây một lần, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [${n1}] cho bản thân
+r:"^バトル開始時、自身に<color\=#6B8CFF>紋章：衝撃</color>を【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:</color>)?)】付与（クエスト中1回まで）$"=Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [${n1}] cho bản thân (tối đa 1 lần mỗi Nhiệm Vụ).
+r:"^探索隊とクエストの追加アイテム入手確率が【5%】上昇 / 味方全体の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tỉ lệ nhận thêm Vật Phẩm của đội Thám Hiểm và Nhiệm Vụ tăng thêm [5%] / Tăng Phòng Thủ của toàn bộ đồng minh thêm [${n1}].
+r:"^ミレスガルドキャラの攻撃力、防御力、最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của nhân vật Milesgard thêm [${n1}].
+r:"^ペルディオンキャラの攻撃力、防御力、最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của nhân vật Perdion thêm [${n1}].
+r:"^エルドラーナキャラの攻撃力、防御力、最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của nhân vật Eldorana thêm [${n1}].
+r:"^千国連合キャラの攻撃力、防御力、最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của nhân vật Liên Minh thêm [${n1}].
+r:"^ルクスノヴァキャラの攻撃力、防御力、最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công, Phòng Thủ và HP Tối Đa của nhân vật Lux Nova thêm [${n1}].
+r:"^敵味方全体の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng HP Tối Đa của toàn bộ Kẻ Địch và đồng minh thêm [${n1}].
+r:"^敵味方全体のスキル被ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】減少$"=Giảm sát thương Kỹ Năng phải chịu của toàn bộ Kẻ Địch và đồng minh thêm [${n1}].
+r:"^敵味方全体のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Hiệu Suất Tích Nạp KN của toàn bộ Kẻ Địch và đồng minh thêm [${n1}].
+r:"^敵全体のノックバックが【Lv(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Tăng Đẩy lùi của toàn bộ Kẻ Địch thêm [Lv${n1}].
+r:"^味方全体のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】減少$"=Giảm Hiệu Suất Tích Nạp KN của toàn bộ đồng minh thêm [${n1}].
+r:"^味方全体がフォースチェイン参加不可$"=Toàn bộ đồng minh không thể tham gia Xích Lực.
+## Result
+
+After reading both files completely and performing an exact programmatic comparison of all Japanese keys:
+
+**There are ZERO missing Japanese keys.** Both files contain exactly 116 keys each, and the sets are identical.
+
+- **EN file** (`E:/DMMGames/dotabyss_x_cl/BepInEx/Translation/en/Text/Ability Details.txt`): 116 entries
+- **VI file** (`E:/DMMGames/dotabyss_x_cl/BepInEx/Translation/vi/Text/Ability Details.txt`): 116 entries
+- **Missing keys:** 0
+
+The only minor difference I found was that the VI file starts with a UTF-8 BOM (`U+FEFF`) on line 1, which affects the `[フォースチェイン追加効果]` key comparison at the raw byte level but is semantically identical. All Japanese regex pattern keys match perfectly between the two files.
+
+No new translations need to be added.
+r:"^【発動条件】30秒に1回\n【効果】攻撃力が最も高い味方1体に会心率UP【{15% / 15秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【2】付与$"=[Điều kiện kích hoạt] Mỗi 30 giây\n[Hiệu ứng] Cấp Tăng Tỉ Lệ Chí Mạng [{15% / 15 giây] cho 1 đồng minh có Tấn Công cao nhất / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+r:"^自身の回避率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇\n【発動条件】回避時\n【効果】自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng tỉ lệ tránh né của bản thân thêm [${n1}]\n[Điều kiện kích hoạt] Khi tránh né\n[Hiệu ứng] Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^【発動条件】通常攻撃を2回\n【効果】次回の通常攻撃が【1HIT \/ 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージ \/ 凍結【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? \/ 成功率:50%】を付与 \/ 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与に変化$"=[Điều kiện kích hoạt] Thực hiện 2 đòn đánh thường\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương / Gây Đóng Băng [${n2} giây</color> / Tỉ lệ thành công: 50%] / Cấp <color\=#6B8CFF>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^【発動条件】会心時\n【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージに変化し、自身に与えたダメージ【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復 / 対象に喪失を【(?<n3>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)?/成功率:40%】付与$"=[Điều kiện kích hoạt] Khi đánh chí mạng\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương, hồi phục [${n2}] sát thương đã gây cho bản thân / Gây Hỗn Loạn [${n3} giây</color> / Tỉ lệ thành công: 40%] cho mục tiêu.
+r:"^【発動条件】<color\=#FF5050>紋章：情熱<\/color>が5以上のとき\n【効果】通常攻撃がさらに凍結【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:50%】を付与する攻撃に変化$"=[Điều kiện kích hoạt] Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên\n[Hiệu ứng] Đổi đòn đánh thường thành gây thêm Đóng Băng [${n1} giây</color> / Tỉ lệ thành công: 50%].
+r:"^自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^自身の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng HP Tối Đa của bản thân thêm [${n1}].
+r:"^自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công của bản thân thêm [${n1}].
+r:"^自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 会心時、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}] / Khi đánh chí mạng, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng Tấn Công của bản thân thêm [${n1}].
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上になったとき、味方全体にスキルチャージ効率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 永続】を付与（クエスト中1回まで）$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> đạt 5 trở lên, cấp Tăng Hiệu Suất Nạp [${n1} / Vĩnh Viễn] cho toàn bộ đồng minh (1 lần/Nhiệm Vụ).
+r:"^自身に<color\=#FF5050>紋章：情熱<\/color>が付与されたとき、自身に回避率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】付与【累積 / 最大35％】$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> được cấp cho bản thân, cấp Tăng Tỉ Lệ Tránh Né [${n1}] cho bản thân [Cộng dồn / Tối đa 35%].
+r:"^会心時、自身に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 10秒】付与$"=Khi đánh chí mạng, cấp Tăng Tấn Công [${n1} / 10 giây] cho bản thân.
+r:"^自身のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇\n【発動条件】30秒に1回\n【効果】光・闇・無属性の味方バックからランダム1体に<color\=#6B8CFF>紋章：衝撃<\/color>を【2】付与 $"=Tăng Hiệu Suất Nạp Kỹ Năng của bản thân thêm [${n1}]\n[Điều kiện kích hoạt] Mỗi 30 giây\n[Hiệu ứng] Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [2] cho 1 đồng minh ngẫu nhiên hàng sau hệ Quang, Ám, Vô.
+r:"^味方全体の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tấn Công của toàn bộ đồng minh thêm [${n1}].
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、味方バック全体の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng toàn bộ đồng minh hàng sau' ATK thêm [${n1}].
+r:"^【発動条件】常時発動\n【効果】通常攻撃が【1HIT / 合計120%】ダメージに変化 / 自身の行動間隔が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / <color\=#FF5050>紋章：情熱<\/color>が5以上のとき、ダメージ倍率が【150%】に変化$"=[Điều kiện kích hoạt] Luôn kích hoạt\n[Hiệu ứng] Đổi đòn đánh thường thành [1 HIT / Tổng 120%] sát thương / Tăng Khoảng Cách Hành Động của bản thân thêm [${n1}] / Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, đổi hệ số sát thương thành [150%].
+r:"^<color\=#FF5050>紋章：情熱<\/color>1ごとに自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 敵を倒したとき、【50%】の確率で自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}] cho mỗi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> / Khi tiêu diệt Kẻ Địch, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân với [50%] xác suất.
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}].
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身の会心ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng  Sát Thương Chí Mạng thêm [${n1}].
+r:"^自身の最大HPが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇 / HP回復を受けたとき、【25%】の確率で自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng HP Tối Đa của bản thân thêm [${n1}] / Khi nhận hồi phục HP, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân với [25%] xác suất.
+r:"^自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / ノックバックが【Lv2】上昇$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}] / Tăng Đẩy Lùi thêm [Lv2].
+r:"^<color\=#FF5050>紋章：情熱<\/color>1ごとに自身のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / スキル発動時、自身に<color\=#FF5050>紋章：情熱<\/color>を【2】付与$"=Tăng Hiệu Suất Nạp Kỹ Năng của bản thân thêm [${n1}] cho mỗi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> / Khi kích hoạt Kỹ Năng, cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+r:"^バトル開始時、マナを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージ（クエスト中1回まで） / 自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与（クエスト中1回まで）$"=Khi bắt đầu Trận Chiến, nạp Mana [${n1}] (1 lần/Nhiệm Vụ) / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân (1 lần/Nhiệm Vụ).
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身の連撃率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng Tỉ Lệ Đa Đòn của bản thân thêm [${n1}].
+r:"^【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】ダメージに変化し、自身に与えたダメージ【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分の回復 / 対象に喪失を【(?<n3>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)?/成功率:40%】付与$"=[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành [1 HIT / Tổng ${n1}] sát thương, hồi phục [${n2}] sát thương đã gây cho bản thân / Gây Hỗn Loạn [${n3} giây</color> / Tỉ lệ thành công: 40%] cho mục tiêu.
+r:"^自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Áp Dụng Trạng Thái của bản thân thêm [${n1}].
+r:"^自身の会心率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 自身の会心ダメージ倍率が【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇 / 自身の攻撃力が【(?<n3>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Tỉ Lệ Chí Mạng của bản thân thêm [${n1}] / Tăng Hệ Số Sát Thương Chí Mạng của bản thân thêm [${n2}] / Tăng Tấn Công của bản thân thêm [${n3}].
+r:"^自身の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 自身の攻撃力が防御力の【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】分上昇$"=Tăng Phòng Thủ của bản thân thêm [${n1}] / Tăng Tấn Công của bản thân thêm [${n2}] của Phòng Thủ.
+r:"^ダメージを受けたとき、【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】の確率で自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Khi chịu sát thương, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân với [${n1}] xác suất.
+r:"^自身のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 敵が戦闘不能になったとき、自身のスキルを【2％】チャージ / 25%の確率で、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng Hiệu Suất Nạp Kỹ Năng của bản thân thêm [${n1}] / Khi Kẻ Địch bị hạ, nạp Kỹ Năng thêm [2%] / Cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân với 25% xác suất.
+r:"^会心時、自身に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 15秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【1】付与$"=Khi đánh chí mạng, cấp Tăng Tấn Công [${n1} / 15 giây] cho bản thân / Cấp <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân.
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身が凍結状態の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng sát thương gây ra của bản thân cho Kẻ Địch bị Đóng Băng thêm [${n1}].
+r:"^自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / 通常攻撃を3回行ったとき、自身に<color\=#6B8CFF>紋章：衝撃<\/color>を【1】付与$"=Tăng Tấn Công của bản thân thêm [${n1}] / Sau 3 đòn đánh thường, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân.
+r:"^自身のスキルチャージ効率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇 / バトル開始時、光・闇・無属性の味方フロント全体に<color\=#6B8CFF>紋章：衝撃<\/color>を【2】付与（クエスト中1回まで）$"=Tăng Hiệu Suất Nạp Kỹ Năng của bản thân thêm [${n1}] / Khi bắt đầu Trận Chiến, cấp <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [2] cho toàn bộ đồng minh tiền tuyến hệ Quang, Ám, Vô (1 lần/Nhiệm Vụ).
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上になったとき、味方全体に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?) / 永続】を付与（クエスト中1回まで）$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> đạt 5 trở lên, cấp Tăng Tấn Công [${n1} / Vĩnh Viễn] cho toàn bộ đồng minh (1 lần/Nhiệm Vụ).
+r:"^自身の回避率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng tỉ lệ tránh né của bản thân thêm [${n1}].
+r:"^自身の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】上昇$"=Tăng Phòng Thủ của bản thân thêm [${n1}].
+r:"^<color\=#FF5050>紋章：情熱<\/color>が5以上のとき、自身の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+[%％]?(?:<\/color>)?)】上昇$"=Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, tăng Phòng Thủ của bản thân thêm [${n1}].
+r:"^【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が自身のスキルを【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)】チャージに変化$"=[Điều kiện kích hoạt] Thực hiện 2 đòn đánh thường\n[Hiệu ứng] Đổi đòn đánh thường tiếp theo thành nạp Kỹ Năng thêm [${n1}].
+
+r:"^敵を倒したとき、光・闇・無属性の味方フロント全体に<color\=#6B8CFF>紋章：衝撃</color>を【1】付与 / ノワール憑依が付与されているとき、自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Khi hạ gục kẻ địch, ban <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho toàn bộ đồng minh hàng trước thuộc Ánh Sáng, Bóng Tối và Vô / Khi đang có Noir Possession, ATK bản thân tăng [${n1}]
+
+r:"^自身が喪失状態の敵に与えるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Tăng sát thương bản thân gây lên kẻ địch đang chịu Mất Mát thêm [${n1}]
+
+r:"^【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【1HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / 対象に喪失【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)秒(?:<\/color>)? / 成功率:40%】を付与 / 自身に<color\=#6B8CFF>紋章：衝撃</color>を【1】付与に変化$"=[Điều kiện] Thực hiện tấn công thường 2 lần\n[Hiệu ứng] Đòn đánh thường kế tiếp đổi thành gây [1 hit / tổng ${n1}] sát thương / Gây Mất Mát [${n2} giây</color> / Tỉ lệ thành công: 40%] lên mục tiêu / Ban <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân
+
+r:"^【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【4HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / ノックバック【Lv4】に変化$"=[Điều kiện] Thực hiện tấn công thường 2 lần\n[Hiệu ứng] Đòn đánh thường kế tiếp đổi thành gây [4 hit / tổng ${n1}] sát thương / Gây Đẩy Lùi [Lv4]
+
+r:"^バトル開始時、自身に防御力を攻撃力に変換【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?) / 永続】を付与（クエスト中1回まで） / <color\=#FF5050>紋章：情熱</color>が5以上のとき、自身の防御力が【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Khi bắt đầu chiến đấu, ban Chuyển DEF thành ATK [${n1} / Vĩnh viễn] cho bản thân (1 lần mỗi nhiệm vụ) / Khi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên, DEF bản thân tăng [${n2}]
+
+r:"^自身の受けるダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】減少$"=Giảm sát thương bản thân phải chịu [${n1}]
+
+r:"^HPが50%以下になったとき、自身に最大HP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】分の回復（クエスト中1回まで） / ダメージを受けたとき、【30%】の確率で自身に<color\=#FF5050>紋章：情熱</color>を【1】付与$"=Khi HP còn 50% trở xuống, hồi cho bản thân lượng bằng [${n1}] HP tối đa (1 lần mỗi nhiệm vụ) / Khi nhận sát thương, có [30%] tỉ lệ ban <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [1] cho bản thân
+
+r:"^【発動条件】30秒に1回\n【効果】攻撃力が最も高い味方1体に会心率UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?) / 15秒】を付与 / 自身に<color\=#FF5050>紋章：情熱<\/color>を【2】付与$"=[Điều kiện] Mỗi 30 giây\n[Hiệu ứng] Ban Tăng Tỉ Lệ Chí Mạng [${n1} / 15 giây] cho 1 đồng minh có ATK cao nhất / Ban <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> [2] cho bản thân.
+
+r:"^スキル発動時、味方全体に被ダメージDOWN【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?) / 15秒】を付与$"=Khi kích hoạt kỹ năng, ban Giảm Sát Thương Nhận [${n1} / 15 giây] cho toàn bộ đồng minh
+
+r:"^自身の会心ダメージが【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Tăng sát thương chí mạng của bản thân [${n1}]
+
+r:"^【発動条件】通常攻撃を2回行う\n【効果】次回の通常攻撃が【4HIT / 合計(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / 4HIT目は自身の前方範囲内にいる敵全体に【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】ダメージ / ノックバック【Lv4】に変化$"=[Điều kiện] Thực hiện tấn công thường 2 lần\n[Hiệu ứng] Đòn đánh thường kế tiếp đổi thành gây [4 hit / tổng ${n1}] sát thương / Hit thứ 4 gây [${n2}] sát thương lên tất cả kẻ địch trong phạm vi phía trước bản thân / Gây Đẩy Lùi [Lv4]
+
+r:"^バトル開始時、マナを【2】チャージ（クエスト中1回まで）\n【発動条件】30秒に1回\n【効果】自身と味方バック全体に攻撃力UP【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?) / 10秒】を付与$"=Khi bắt đầu chiến đấu, nạp Mana [2] (1 lần mỗi nhiệm vụ)\n[Điều kiện] Mỗi 30 giây\n[Hiệu ứng] Ban Tăng ATK [${n1} / 10 giây] cho bản thân và toàn bộ đồng minh hàng sau
+
+r:"^味方バック全体の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Tăng ATK của toàn bộ đồng minh hàng sau [${n1}]
+
+r:"^味方フロント全体の防御力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Tăng DEF của toàn bộ đồng minh hàng trước [${n1}]
+
+r:"^30秒に1回、最も近い敵1体に攻撃力DOWN【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?) / 15秒】を付与 / 自身に<color\=#6B8CFF>紋章：衝撃</color>を【2】付与$"=Mỗi 30 giây, ban Giảm ATK [${n1} / 15 giây] lên kẻ địch gần nhất / Ban <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [2] cho bản thân
+
+r:"^自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇 / 会心時、【50%】の確率で自身に<color\=#6B8CFF>紋章：衝撃</color>を【1】付与$"=Tăng tỉ lệ gây trạng thái bất lợi của bản thân [${n1}] / Khi chí mạng, có [50%] tỉ lệ ban <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> [1] cho bản thân
+
+r:"^クエスト中、飛行して移動 / 自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Bay khi di chuyển trong nhiệm vụ / ATK bản thân tăng [${n1}]
+
+r:"^クエスト中、飛行して移動 / 自身が付与する状態異常の確率が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Bay khi di chuyển trong nhiệm vụ / Tăng tỉ lệ trạng thái bất lợi do bản thân gây ra [${n1}]
+
+r:"^HPが50%以上のとき、自身の攻撃力が【(?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇 / HPが50%以下のとき、自身の防御力が【(?<n2>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)】上昇$"=Khi HP từ 50% trở lên, ATK bản thân tăng [${n1}] / Khi HP từ 50% trở xuống, DEF bản thân tăng [${n2}]
+//basic percentage = (?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％](?:<\/color>)?)
+//seconds = (?<n1>(?:<color\=#(?:4CF37B|F4FF00)>)?\d+(?:\.\d+)?[%％]?(?:<\/color>)?)giây(?:<\/color>)?

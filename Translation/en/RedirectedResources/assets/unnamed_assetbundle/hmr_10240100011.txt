@@ -1,0 +1,354 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000b,off
+
+charaload,chara_1,102401000G,マニョリア
+charamove,chara_1,Set,X,400,0
+
+charaload,chara_3,102401000X,マニョリア<娼館>
+
+charaload,chara_2,300301000,ルディア
+charamove,chara_2,Set,X,-400,0
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,おにいさんと仲良くなりたい
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+charashow,chara_2,0.3
+
+wait,0.5
+
+charashow,chara_1,0.3
+window,on,0.15
+message,,One night，I was chatting with Ludia at the brothel bar when Magnolia<br>arrived.<br> 
+
+asyncseplay,setag1_1,se4800002,0,1,CONT
+
+asynccharaemo,chara_2,Heart,STOP
+
+charaface,chara_2,FaceHappy
+
+message,ルディア,Oh my. What an adorable guest. Welcome!♪<br> ,,vc_10240100011_001_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,What are you doing here at this hour?<br> 
+
+asyncseplay,setag1_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+charaface,chara_1,FaceSad
+message,マニョリア,Um... well... you know...<br> ,,vc_10240100011_002_01
+
+asyncseplay,setag1_3,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+charareaction,chara_1,Shake,0.5
+
+message,,Magnolia was already shy around Ludia，who she'd just met.<br> 
+
+window,off
+wait,0.15
+
+asyncblur,on,BACK,0.25,CONT,0
+
+asynccamerazoom,1.3,0.5,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,400,0.5,CONT,0
+
+asynccameramove,EaseInTarget,Y,-300,0.5,CONT,0
+
+window,on,0.15
+message,マックン[マニョリア],Hey，Magnolia wants to know the name of the flowers out front.<br> ,900000003
+
+window,off
+wait,0.15
+
+asyncblur,off,BACK,0.25,CONT,0
+
+asynccamerazoom,1,0.5,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,0.5,CONT,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+window,on,0.15
+message,,Since Magnolia was too shy to answer，the magical plant spoke for<br>her.<br> 
+
+asyncseplay,setag1_4,se4800009,0,1,CONT
+
+asynccharaemo,chara_2,Question,STOP
+
+charaface,chara_2,FaceSurprise
+message,ルディア,The ones out front... Ah，those flowers?<br> ,,vc_10240100011_003_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,If Magnolia doesn't know them，are they rare flowers?<br> 
+
+asyncseplay,setag1_5,se4800004,0,1,CONT,4.5
+
+asynccharareaction,chara_2,Nod,1,STOP,4.5
+asynccharaemo,chara_2,Laugh,STOP,4.5
+
+asynccharaface,chara_2,FaceFun,STOP,4.5
+message,ルディア,Yes，they're quite rare. Well... if you work here，I might be persuaded<br>to tell you.<br> ,,vc_10240100011_004_01
+
+charaface,chara_1,FaceSurprise
+message,,Ludia laughed and said something surprising.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,<user>,Wait a second，you're going to make her work here? A girl this small?<br>That's ridiculous.<br> 
+
+charaface,chara_2,FaceHappy
+message,ルディア,Fufu，she's far more mature than you give her credit for，Commander.<br>And I think she'll surely become popular.<br> ,,vc_10240100011_005_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,Is that so? No，still...<br> 
+
+window,off
+wait,0.15
+
+asyncblur,on,BACK,0.25,CONT,0
+
+asynccamerazoom,1.3,0.5,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,400,0.5,CONT,0
+
+asynccameramove,EaseInTarget,Y,-300,0.5,CONT,0
+
+window,on,0.15
+message,マックン[マニョリア],Seems like Magnolia's wondering if she'll get to be buddies with Big<br>Bro if she works here.<br> ,900000003
+
+charaface,chara_1,FaceShy
+message,<user>,Get closer to me?<br> 
+
+window,off
+wait,0.15
+
+asyncblur,off,BACK,0.25,CONT,0
+
+asynccamerazoom,1,0.5,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,0.5,CONT,0
+
+asyncseplay,setag1_6,se4800005,0,1,CONT
+
+asynccharaemo,chara_2,Flash,STOP
+
+charaface,chara_2,FaceHappy
+window,on,0.15
+message,ルディア,Ufufu，so that's what this is about.<br> ,,vc_10240100011_006_01
+
+charaface,chara_2,FaceFun
+message,ルディア,The Commander handles the training for all the girls here. So if you<br>work here，you'll get to spend more time with him.<br> ,,vc_10240100011_007_01
+
+charaface,chara_1,FaceFun
+message,,At Ludia's words，I thought I saw Magnolia's eyes sparkle—or maybe it<br>was just my imagination.<br> 
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,Magnolia，are you seriously thinking about this?<br> 
+
+window,off
+wait,0.15
+
+asyncblur,on,BACK,0.25,CONT,0
+
+asynccamerazoom,1.3,0.5,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,400,0.5,CONT,0
+
+asynccameramove,EaseInTarget,Y,-300,0.5,CONT,0
+
+charaface,chara_1,FaceHappy
+window,on,0.15
+message,マックン[マニョリア],Yeah，looks like she's all in. So Magnolia's gonna get 'training' here?<br> ,900000003
+
+message,マックン[マニョリア],Don't you worry，Magnolia! Just follow my advice and you'll be fine!<br> ,900000003
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,<user>,Huh? Hey，don't tell me you're planning to join the 'training' too?<br> 
+
+message,マックン[マニョリア],Of course! Magnolia can't do a thing without me.<br> ,900000003
+
+charaface,chara_2,FaceFun
+message,,The magical plant was raring to go. But having a chatterbox like that<br>watching，even though it was a plant，was unnerving.<br> 
+
+window,off
+wait,0.15
+
+asyncblur,off,BACK,0.25,CONT,0
+
+asynccamerazoom,1,0.5,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,0.5,CONT,0
+
+charareaction,chara_2,Nod,0.5
+window,on,0.15
+message,ルディア,Ufufu，I think you'd better take a little rest.<br> ,,vc_10240100011_008_01
+
+asynccharamove,chara_2,Set,X,-100,0.2,CONT
+
+asyncseplay,setag1_7,se4900013,0,1,CONT
+
+charareaction,chara_1,Shake,0.5
+message,マックン[マニョリア],Gweh!<br> ,900000003
+
+asynccharamove,chara_2,Set,X,-300,0.2,CONT
+message,,Ludia's hand moved swiftly，and the magical plant went limp and lost<br>consciousness.<br> 
+
+asyncseplay,setag1_8,se4800011,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+
+charareaction,chara_1,Hop,0.5
+
+charaface,chara_1,FaceSurprise
+message,マニョリア,M-Makkun!<br> ,,vc_10240100011_009_01
+
+asyncseplay,setag1_9,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+charaface,chara_2,FaceUnique03
+message,ルディア,Oh my，he seems to have dozed off. Now that it's quiet，you two，<br>please head to the room.<br> ,,vc_10240100011_010_01
+
+message,マニョリア,Huh?... Uh... Um... Y-yes...<br> ,,vc_10240100011_011_01
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_1,0,0
+
+transitionFade,Tra01,out,black,1
+
+bgmstop,bgmtag1_1,0,0
+
+charahide,chara_1,0
+
+charahide,chara_2,0
+
+charashow,chara_3,0
+
+
+charamove,chara_3,Set,X,0,0
+charamove,chara_3,Set,CharaHeight,0,0
+
+bgmplay,bgmtag1_2,bgm0027,0.75,1
+
+charaface,chara_3,FaceSad
+
+bg,abg12100b,off
+
+wait,0.5
+
+transitionFade,Tra02,in,black,1
+
+window,on,0.15
+message,,Urged by Ludia，Magnolia and I entered the room. She was still<br>carefully cradling the unconscious magical plant.<br> 
+
+message,<user>,What are you going to do with that thing?<br> 
+
+message,,Magnolia placed the magical plant in the corner of the room.<br> 
+
+message,マニョリア<娼館>,Hmm... I'll have him keep watch over me here.<br> ,,vc_10240100011_012_01
+
+charaface,chara_3,EyeOpen
+charaface,chara_3,FaceNormal
+message,,Looks like she's having him watch after all. I'm a bit worried about it，<br>but since he's asleep，it should be fine.<br> 
+
+message,<user>,Alright，Magnolia，can you undress yourself?<br> 
+
+charaface,chara_3,FaceShy
+message,マニョリア<娼館>,Yeah. B-but I'm embarrassed，so... Big Brother，please look away...<br> ,,vc_10240100011_013_01
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_2,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

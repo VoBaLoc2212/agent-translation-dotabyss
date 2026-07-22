@@ -1,0 +1,119 @@
+r:"^第([0-9０-９]+)階層$"=Tầng $1
+r:"^メインストーリー 第([0-9０-９]+)階層$"=Câu Chuyện Chính - Tầng $1
+
+
+チーム探索力=Sức Mạnh Thám Hiểm Đội
+探索力=Sức Mạnh Thám Hiểm
+
+探索力が高いほど追加のドロップが発生する可能性が高くなります。=Sức Mạnh Thám Hiểm càng cao, khả năng nhận thêm vật phẩm rơi càng lớn.
+リーダー設定=Cài Đặt Đội Trưởng
+発生中!=Đang Diễn Ra!
+探索クエスト=<cspace\=-0.1em><line-height\=60%>Nhiệm Vụ Thám Hiểm
+件発生!=<cspace\=-0.05em><size\=80%>nhiệm vụ!
+クエスト出現中!=Nhiệm Vụ Đang Xuất Hiện!
+探索隊Cがランク3のエピック エプロンドレスを発見！\n探索隊Bがありふれた骨材を発見！\n探索隊Aが銀のマテリアルを発見！=Đội Thám Hiểm C đã phát hiện Váy Tạp Dề Sử Thi Hạng 3!\nĐội Thám Hiểm B đã phát hiện Vật Liệu Xương Thông Thường!\nĐội Thám Hiểm A đã phát hiện Vật Liệu Bạc!
+未発生=Chưa Diễn Ra
+階層詳細=<line-height\=60%>Chi Tiết Tầng
+報酬MAXまで=<size\=90%><cspace\=-0.1em><line-height\=60%>Đến khi MAX phần thưởng
+探索Lv=<cspace\=-0.1em><size\=80%>Lv Thám Hiểm
+全体マップ=<cspace\=-0.1em>Bản Đồ Thế Giới
+編成=Biên<br>Đội
+探索ログ=Nhật Ký Thám Hiểm
+クエスト出現まで=<size\=80%><cspace\=-0.1em>Cho Đến Khi Nhiệm Vụ Xuất Hiện
+を探索=Đang Thám Hiểm
+初めてのログイン=Đăng Nhập Lần Đầu
+探索隊編成=<cspace\=-0.1em>Biên<br><cspace\=-0.1em>Đội Đội Thám Hiểm
+リーダー=Đội Trưởng
+探索隊名=<size\=80%>Tên Đội
+メンバー登録数=Thành Viên
+ドロップボーナス=Thưởng Rơi Đồ
+メインストーリー=Câu Chuyện Chính
+タイムスキップ=Tua Thời Gian
+タイムスキップは１回につき100個まで使用できます。=Có thể sử dụng tối đa 100 lần tua thời gian cùng lúc.
+r:"^スキップチケット<color\=#4CF37Bff>【([0-9０-９]+)個】</color>を使用して<br>合計<color\=#4CF37Bff>【([0-9０-９]+)時間分】</color>の探索を行いますか？$"=Bạn có muốn sử dụng Vé Bỏ Qua <color\=#4CF37Bff>[$1]</color><br>để thám hiểm trong tổng cộng <color\=#4CF37Bff>[$2 giờ]</color> không?
+【リーダー】を必ず設定してください=Vui lòng đảm bảo đã cài đặt [Đội Trưởng]
+探索先が未設定です。=Chưa thiết lập điểm đến.
+探索先の情報=Chi Tiết Điểm Đến
+のリーダー装備を選択します。=Chọn trang bị đội trưởng.
+装備可能一覧=Danh sách có thể trang bị
+選択中装備名：=Tên trang bị đang chọn:
+探索力：=Sức Mạnh Thám Hiểm:
+r:"^武器補正：([0-9０-９]+)$"=Bổ trợ vũ khí: $1
+現在のチーム探索力=Sức mạnh thám hiểm hiện tại của đội
+ボーナスクエスト発生！=<line-height\=60%><cspace\=-0.05em>Nhiệm vụ thưởng đã xuất hiện!
+イベント階層=Sự Kiện
+<color\=#4cf37b>ボーナスイベント</color>が発生しました。=<color\=#4cf37b>Sự kiện thưởng</color> đã xuất hiện.
+
+おまかせ\n編成=Tự Động\nBiên Đội
+一括解除=<size=80%>Hủy Toàn Bộ</size>
+
+Exploration Lv Details
+ボーナス効果\n=Hiệu Ứng Thưởng\n
+探索ポイント=Điểm Thám Hiểm
+探索Lvはメインストーリーを進めることで増加します。=<line-height\=60%><size\=60%>Lv Thám Hiểm tăng khi tiến trình câu chuyện chính tiếp tục.
+報酬ランク情報=Thông Tin Hạng Phần Thưởng
+r:"^ランク([0-9]+)$"=Hạng $1
+獲得できる装備の【最高ランク】=<line-height\=60%><cspace\=-0.05em><size\=70%>[Hạng Cao Nhất] Trang bị có thể nhận
+r:"^([0-9]+)件$"=$1 vật phẩm
+探索クエストの同時受注数=<line-height\=60%><cspace\=-0.05em><size\=70%>Số Nhiệm Vụ Thám Hiểm tối đa cùng lúc
+探索クエストの推奨戦力=<line-height\=60%><cspace\=-0.05em><size\=70%>Chiến Lực đề xuất cho nhiệm vụ
+現在の探索Lv=Lv Thám Hiểm Hiện Tại
+最大まで=<cspace\=-0.05em><size\=90%>Cho đến phần thưởng tối đa
+待機中の部隊=Đội đang chờ
+探索中の部隊=Đội đang thám hiểm
+探索の状況\n=Tình trạng thám hiểm\n
+
+Exploration quest event
+探索クエストイベント詳細=Chi Tiết Sự Kiện Nhiệm Vụ Thám Hiểm
+r:"^([0-9]+)/([0-9]+)/([0-9]+)〜([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+):([0-9]+)まで$"=Đến $1/$2/$3 ~ $4/$5/$6 $7:$8:$9
+発生速度UP=<cspace\=-0.05em><size\=80%>Tăng Tốc Độ Xuất Hiện
+探索クエストの挑戦数：=<cspace\=-0.05em><size\=85%>Số lượt thử thêm:
+イベントミッション達成数=<line-height\=60%><cspace\=-0.05em>Số sứ mệnh sự kiện\nđã hoàn thành
+期間限定で探索可能な階層：=Tầng Thám Hiểm Giới Hạn:
+階層へ移動=<cspace\=-0.05em><size\=80%>Đến Tầng
+イベントクエスト=Nhiệm Vụ Sự Kiện
+ボーナスクエスト発見まであと=<line-height\=60%><size\=90%>Còn lại cho đến khi\nphát hiện nhiệm vụ thưởng:
+一二三四五六七八九十一二三四五六七=1234567891234567
+r:"^探索Lv([0-9]+)～$"=Lv Thám Hiểm $1～
+
+Change search destination
+探索先を変更=Thay Đổi Điểm Đến Thám Hiểm
+r:"^第([0-9０-９]+)階層を探索中$"=<cspace\=-0.1em>Đang thám hiểm Tầng $1
+選択した探索隊で今の探索先を探索します。=Thám hiểm điểm đến hiện tại với đội thám hiểm đã chọn.
+探索クエストの進行は引き継がれます。=Tiến trình nhiệm vụ thám hiểm sẽ được chuyển tiếp.
+今の探索先：メインストーリー=Điểm đến hiện tại: Câu Chuyện Chính
+待機中…=Đang chờ...
+探索=Thám Hiểm
+
+quest names
+r:"^キャラ経験値【深度([0-9]+)】$"=Điểm EXP Nhân Vật [Độ Sâu $1]
+r:"^ボーナスクエスト【深度([0-9]+)】$"=Nhiệm Vụ Thưởng [Độ Sâu $1]
+r:"^【衝撃】廃墟の階層　探索【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Va Chạm] Tầng Phế Tích: Thám Hiểm [Độ Sâu $1]
+r:"^【衝撃】廃墟の階層　掃討【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Va Chạm] Tầng Phế Tích: Quét Sạch [Độ Sâu $1]
+r:"^【衝撃】光の階層　探索【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Va Chạm] Lãnh Địa Ánh Sáng: Thám Hiểm [Độ Sâu $1]
+r:"^【衝撃】光の階層　掃討【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Va Chạm] Lãnh Địa Ánh Sáng: Quét Sạch [Độ Sâu $1]
+r:"^ゴールド【深度([0-9]+)】$"=Vàng [Độ Sâu $1]
+
+探索報酬はありません。=Không có phần thưởng thám hiểm.
+
+トリッキーゴーレムを1体討伐する=Đánh bại Tricky Golem 1 lần
+
+r:"^トリッキーゴーレムを([0-9]+)体討伐する$"=Đánh bại Tricky Golem $1 lần
+
+コモン=Thường
+
+エピック=Sử Thi
+
+レジェンダリー=Huyền Thoại
+
+ユニーク=Độc Nhất
+
+sr:"^ランク([0-9]+)の(コモン|エピック|レジェンダリー|ユニーク) ([\S\s]+)$"=Hạng $1 - $2 $3
+
+r:"^【衝撃】廃墟の階層　追跡【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Xung Kích] Tầng Phế Tích: Truy Kích [Độ sâu $1]
+
+r:"^【衝撃】闇の階層　掃討【深度([0-9]+)】$"=<cspace\=-0.1em><size\=80%>[Xung Kích] Tầng Bóng Tối: Càn Quét [Độ sâu $1]
+
+r:"^【衝撃】闇の階層　探索【深度([0-9]+)】$"=<cspace\=-0.1em><size\=70%>[Xung Kích] Tầng Bóng Tối: Thám Hiểm [Độ sâu $1]
+
+r:"^記憶の欠片【深度([0-9]+)】$"=<cspace\=-0.1em>Mảnh Ký Ức [Độ sâu $1]

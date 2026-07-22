@@ -1,0 +1,108 @@
+{
+  "scene": "hmn_10200100003",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 108,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 109,
+  "translated_records": 109,
+  "changed_lines": 109,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 601,
+    "vi": 601,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "efb2e0cffc34ce44921fe785e624d55c68125944e8ba748a1b6faa50a23d7b25",
+  "output_sha256": "1cfa408229ba0f413576873cc8fd2b68228fcd87bfd2cd20766596bc35949223",
+  "qa_status": "PASS",
+  "title_vi": "Quá Đỗi Dễ Thương!",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "Title translated to Vietnamese Title Case: かわいいが過ぎる！ -> Quá Đỗi Dễ Thương!.",
+    "兄さん (Brother) localized to 'anh' per addressing matrix (male Commander, Laveria female).",
+    "司令官 localized to 'Chỉ Huy' once (line 413).",
+    "Internal commas use U+201A (‚); 0 ASCII commas in VI text fields (verifier confirmed).",
+    "All 109 candidate records translated; 0 kept-English; 0 tag/delimiter/placeholder mismatches.",
+    "BOM + CRLF preserved; physical line count 601 EN == 601 VI.",
+    "Leftover scan: no Brother/Commander tokens in VI text; only proper names Laveria/Alicia/Chỉ Huy."
+  ],
+  "leftover_scan_english_leftover_lines": [
+    [
+      34,
+      "Laveria"
+    ],
+    [
+      84,
+      "Laveria"
+    ],
+    [
+      97,
+      "Laveria"
+    ],
+    [
+      134,
+      "Laveria"
+    ],
+    [
+      205,
+      "Laveria"
+    ],
+    [
+      246,
+      "Laveria"
+    ],
+    [
+      305,
+      "Laveria"
+    ],
+    [
+      349,
+      "Laveria"
+    ],
+    [
+      383,
+      "Alicia"
+    ],
+    [
+      388,
+      "Laveria"
+    ],
+    [
+      413,
+      "Alicia"
+    ],
+    [
+      492,
+      "Laveria"
+    ],
+    [
+      497,
+      "Alicia"
+    ],
+    [
+      501,
+      "Laveria"
+    ],
+    [
+      534,
+      "Laveria"
+    ],
+    [
+      551,
+      "Laveria"
+    ]
+  ]
+}

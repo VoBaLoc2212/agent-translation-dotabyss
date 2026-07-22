@@ -1,0 +1,113 @@
+﻿adultui,off
+
+bg,abg12100a
+
+charaload,chara_1,104201000G,ヘイリー
+
+charascale,chara_1,1.3,0
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+asynccharaface,chara_1,FaceShy,STOP
+
+
+
+window,on,0.15
+message,,The next morning. The two woke up in the bedroom.<br> 
+
+message,<user>,You really don't regret that sort of first time?<br> 
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+message,ヘイリー,Y-yes... um，well，actually，it seems my parents' first time was also<br>that sort of restraint play with chains...<br> ,,vc_10420100013_001_01
+
+asyncseplay,setag3_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ヘイリー,Since I was young，I realized that for some reason imagining<br>situations like that excited me more...<br> ,,vc_10420100013_002_01
+
+message,<user>,Hmm... true，you were plenty wet even just restrained. Some girls get<br>too nervous to get wet their first time. Must be a family trait...<br> 
+
+asyncseplay,setag3_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ヘイリー,Y-yes. That's probably it...<br> ,,vc_10420100013_003_01
+
+message,,Hayley hung her head in embarrassment. As I was thinking of<br>something to say to cheer her up—<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_4,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,ヘイリー,This karma of Darkness etched into my body... I believed only my<br>Master could release it!<br> ,,vc_10420100013_004_01
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_5,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ヘイリー,Vow here and now that you will occasionally soothe this throbbing of<br>mine and preserve the seal，so that no power escapes!<br> ,,vc_10420100013_005_01
+
+message,,Hayley had completely returned to her usual self.<br> 
+
+
+
+
+message,<user>,Haha. All right，all right. I swear it. Feel free to call on me anytime.<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_6,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ヘイリー,...U-um! I leave it to you，my Master!<br> ,,vc_10420100013_006_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+{
+  "file": "evs_10200010301.txt",
+  "source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010301.txt",
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010301.txt",
+  "qa_status": "PASS",
+  "source_sha256": "7b10157b06d2b2a8e2976547bfaef8eac87dffc97be903c0f58195fd6d5d5994",
+  "output_sha256": "0f0a964c67cd583297c4ccf61a97108b4441ef87da41ce62e0cc47398322c5c2",
+  "encoding": "utf-8-sig",
+  "bom_preserved": true,
+  "newline": "CRLF",
+  "source_line_count": 4086,
+  "output_line_count": 4086,
+  "translatable_records": 109,
+  "translated_records": 109,
+  "skipped_records": 0,
+  "h18_or_adult_uncertain_records": 0,
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP used as primary source; EN asset used for sequence/alignment.",
+    "No H-18/adult-uncertain content detected; all records translated."
+  ]
+}

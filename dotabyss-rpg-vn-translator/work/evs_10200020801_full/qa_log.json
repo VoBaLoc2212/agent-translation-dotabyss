@@ -1,0 +1,27 @@
+{
+  "qa_status": "PASS",
+  "blockers": [],
+  "warnings": [],
+  "checks": {
+    "line_count_match": true,
+    "delimiter_counts_match": true,
+    "technical_fields_unchanged": true,
+    "tags_match": true,
+    "placeholders_match": true,
+    "no_ascii_comma_in_vi_text_fields": true,
+    "no_unintentional_kept_en_text_records": true,
+    "translated_records_match_candidates": true,
+    "candidate_types_counted": [
+      "title",
+      "message",
+      "messageTextUnder",
+      "messageTextCenter"
+    ],
+    "title_case_title": true
+  },
+  "kept_english_records": [],
+  "notes": [
+    "JP được dùng làm nguồn chính; EN asset/en.json dùng để đối chiếu thứ tự và ngữ nghĩa.",
+    "Không có nội dung H18 trong file này."
+  ]
+}

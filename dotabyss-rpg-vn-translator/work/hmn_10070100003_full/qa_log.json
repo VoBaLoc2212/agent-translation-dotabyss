@@ -1,0 +1,33 @@
+{
+  "scene": "hmn_10070100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP ja.json là nguồn chính; EN asset dùng làm khung và đối chiếu.",
+    "Asset có 90 text records: 1 title + 89 message. Novel JSON có ít cặp hơn vì asset có thêm các biểu cảm Noir/ký hiệu.",
+    "Title đã dịch dạng Title Case tiếng Việt.",
+    "Tất cả dấu phẩy ngắt câu trong field tiếng Việt dùng U+201A ‚; delimiter ASCII giữ nguyên.",
+    "Không có nội dung H18 trực diện; cảnh hôn/ham muốn được dịch theo sắc thái nguồn và consent hài hước/lãng mạn."
+  ],
+  "structural_checks": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "text_record_count_match": true,
+    "delimiter_mismatches": [],
+    "tag_placeholder_checked": true
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 90,
+  "translated_records": 90,
+  "changed_lines": 90,
+  "source_line_count": 1085,
+  "output_line_count": 1085,
+  "source_sha256": "11ee4438c43c6922b0d45bb67a40764c8651d6b071e9dc6a15f4916fdd1de795",
+  "output_sha256": "d7afced465441ae8ed423af3290fae32a173a7c0abfee3ee5593241bed974fa8",
+  "repaired_br_tag_lines": [],
+  "updated_at": "2026-07-19T09:49:57.696632+00:00"
+}

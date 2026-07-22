@@ -1,0 +1,55 @@
+{
+  "scene": "hmn_10040100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "structural_qa": {
+    "source_line_count": 550,
+    "output_line_count": 550,
+    "line_count_match": true,
+    "source_bom": true,
+    "output_bom": true,
+    "source_newline": "CRLF",
+    "output_newline": "CRLF",
+    "newline_match": true,
+    "delimiter_mismatches": [],
+    "technical_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_comma_in_vi_text": []
+  },
+  "linguistic_qa": {
+    "candidate_text_records": 89,
+    "translated_records": 89,
+    "unchanged_text_records": [],
+    "intentional_kept_text_records": [],
+    "jp_leftovers": [],
+    "targeted_english_leftovers": [],
+    "honorific_suffix_scan": [],
+    "notes": [
+      "JP novel is primary; EN asset used for candidate order and tag shape.",
+      "Xiaolei/Panpan/Dandan romanized names retained in prose by EN alignment and project name-retention convention.",
+      "All characters are treated as confirmed 18+ per project rule; no H18 content was present in this file.",
+      "Xiaolei uses simple third-person self-reference; <user>/Commander speaks as her teacher."
+    ]
+  },
+  "addressing_qa": {
+    "Commander_translation": "司令官/Commander -> Chỉ Huy",
+    "default_relation": "Xiaolei calls <user> Thầy; <user> speaks as teacher with anh/em where natural.",
+    "speaker_names_preserved": true,
+    "charaload_names_preserved": true
+  },
+  "h18_qa": {
+    "adult_project_rule_applied": true,
+    "h18_content_present": false
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 89,
+  "translated_records": 89,
+  "changed_lines": 89,
+  "source_line_count": 550,
+  "output_line_count": 550,
+  "source_sha256": "922720219f627dbcb13a72b1c65059b3b19a157d588ea7f9b66760126d0937f7",
+  "output_sha256": "e157596cd36992cf3c078d41b517241d4b1baaa4c6c3c306245de05bbbf76910"
+}

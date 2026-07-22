@@ -1,0 +1,66 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,101401000G,ピコ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0026,1
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+window,on,0.15
+message,ピコ,Nooo!<br> ,,vc_10140100013_001_01
+
+message,<user>,Wha-what's wrong?<br> 
+
+charaface,chara_1,FaceSad
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ピコ,Ugh... I forgot to record me and the Commander doing it... What a<br>rookie mistake... I'm so pissed at myself... Ugh...<br> ,,vc_10140100013_002_01
+
+message,<user>,You know，normally people don't film that... What are you planning to<br>do with it?<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag3_2,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ピコ,What? Obviously I'd stream it，duh!<br> ,,vc_10140100013_003_01
+
+message,<user>,You were saying that when you came into the room earlier. What<br>would happen if you actually did?<br> 
+
+asyncseplay,setag3_3,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+charaface,chara_1,FaceUnique01
+message,ピコ,I wonder what would happen... Fufufu!♪<br> ,,vc_10140100013_004_01
+
+asyncseplay,setag3_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+charaface,chara_1,FaceHappy
+message,ピコ,Well，next time we do it，you're letting me record! So，see yaa!♪<br> ,,vc_10140100013_005_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

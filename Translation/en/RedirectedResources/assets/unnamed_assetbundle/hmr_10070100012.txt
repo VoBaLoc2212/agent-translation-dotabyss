@@ -1,0 +1,615 @@
+﻿fade,Out,Black,0
+
+:R18
+
+
+bg,abg18200a
+
+l2dshow,l2d_10070100012
+
+charaload,chara_1,100701000X,フィルム
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1
+bgmplay,bgmtag2_1,bgm0029,1
+
+
+bgvplay,bgvtag2_1,bgv_10070100011_001_01,1,on
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.3
+
+window,on,0.15
+message,,Film's milky-white body trembled with tension.<br>Noir noticed and shifted into her female form，drawing close.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7.5
+
+l2dmessage,フィルム,Commander，honestly... there's no point in looking at an old lady's<br>naked body，is there?...<br> ,,vc_10070100012_001_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,You're beautiful.<br>At those words，Film's white skin slowly flushed red.<br> 
+
+asyncl2dmotion,ExEmotion02,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+l2dmessage,フィルム,Commander... beautiful? That's not...<br> ,,vc_10070100012_002_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+message,フィルム,(I've never shown this to anyone，and now the Commander has seen<br>everything.)<br> ,,vc_10070100012_003_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,4
+
+asyncl2dmotion,MouthEmotionD,on,STOP,4
+
+message,フィルム,(I've never been this embarrassed in my whole life...)<br> ,,vc_10070100012_004_01
+
+message,,Just as Film reached the limit of her embarrassment，<br>a small but distinct wet sound escaped.<br> 
+
+
+
+l2dmotion,Scene02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,フィルム,Ah... Commander，no，don't look!<br> ,,vc_10070100012_005_01
+
+l2dmotion,MouthEmotionB
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+message,フィルム,(No way... *squelch*... a lewd sound!<br>I wasn't even doing anything，so why...!?)<br> ,,vc_10070100012_006_01
+
+
+l2dmotion,FaceAngleTop
+
+message,,I'm glad Film is getting excited.<br>At those words，her body grew even hotter.<br> 
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.8
+
+asyncl2dmotion,ExEmotion02,on,STOP,0.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmotion,MouthEmotionB
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,10
+
+asyncl2dmotion,EyeOpen02,on,STOP,10
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,10
+
+l2dmessage,フィルム,Excited? No...<br>I'm just embarrassed，and you won't stop，so I'm flustered，that's all.<br> ,,vc_10070100012_007_01
+
+message,,Having confirmed that her womanhood was thoroughly soaked，<br>the Commander told Film that she seemed ready.<br> 
+
+l2dmotion,Scene03
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,8
+
+l2dmessage,フィルム,Huh... W-Wait!<br>Um... are you really going to do it with me...?<br> ,,vc_10070100012_008_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,8
+
+l2dmessage,フィルム,I've never done this before.<br>For so long，I've never had an experience like this...<br> ,,vc_10070100012_009_01
+
+message,,That only made me happier. After all，I would be the one to take<br>Film's first time—she who had been cherished for so long.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,MouthEmotionI
+
+l2dmessage,フィルム,Can I give you my first time，Commander...?<br> ,,vc_10070100012_010_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+message,フィルム,(Is it really alright?<br>For someone like me to be loved by someone so precious...?)<br> ,,vc_10070100012_011_01
+
+
+message,,As if to encourage Film，Noir gently took her hand.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+message,ノワール,...!<br> ,550100001,vc_10070100012_012_01,
+
+message,,Encouraged by Noir，who had always been by her side，Film slowly<br>spoke.<br> 
+
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,MouthEmotionF,on,STOP,5
+
+l2dmessage,フィルム,Commander，please be gentle with me，okay?<br> ,,vc_10070100012_013_01
+
+asyncl2dmotion,ExEmotion03,on,STOP,0.5
+
+message,,Her seductive expression and words only heightened my arousal. As I<br>promised，my fully hard cock stood upright.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmessage,フィルム,This is Commander's... thing...<br> ,,vc_10070100012_014_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+l2dmessage,フィルム,I-I'm sorry. My heart is pounding at my age... How embarrassing...<br> ,,vc_10070100012_015_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleReset
+
+message,,Seeing my cock for the first time in her long life，Film seemed both<br>shy and curious.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmessage,フィルム,It's so big... Is this really going to go inside me...?<br> ,,vc_10070100012_016_01
+
+l2dmotion,Scene04
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,For her first time in a long life，she was afraid of guarding it for so<br>long. Noir gripped her trembling hand，caught between fear and anticipation.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+message,ノワール,...!<br> ,550100001,vc_10070100012_017_01,
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionF
+
+asyncl2dmotion,ExEmotion04,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,フィルム,...Yes，I'm fine. W-Whenever you're ready，Commander.<br> ,,vc_10070100012_018_01
+
+l2dmotion,EyeOpenReset
+
+message,,Seeing Film tremble slightly，I couldn't hold back any longer. I told<br>her I was going in and pressed the tip against her entrance.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10070100011_001_01,1,on
+
+asyncl2dmotion,Scene05,on,STOP,2.5
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,フィルム,Y-Yes... *huff* Ah，Aah!<br> ,,vc_10070100012_019_01
+
+
+message,,She was incredibly tight，clearly her first time. Yet with surprising<br>softness，she gently welcomed my cock inside.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,フィルム,Ngh，Ooh，mmm...<br> ,,vc_10070100012_020_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,フィルム,(It's going in... My insides are being filled by Commander...! It's<br>stretching and taking Commander's shape...!)<br> ,,vc_10070100012_021_01
+
+asyncl2dmotion,ExEmotion05,on,STOP,1
+
+message,,Just pushing a bit deeper sent a jolt of intense pleasure through me.<br>Restraining myself from forcing it，I slid all the way in.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionF
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,11
+
+l2dmessage,フィルム,Ah... it's all inside，isn't it. Fufu，I've properly taken Commander in.<br> ,,vc_10070100012_022_01
+
+l2dmotion,MouthEmotionI
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,MouthEmotionF,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+l2dmessage,フィルム,Thanks for keeping an old lady company. I'm a full-fledged woman<br>now.<br> ,,vc_10070100012_023_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+message,,Film looked as if it was over，so I told her the real part was just<br>beginning.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionB
+
+l2dmessage,フィルム,...Huh?<br> ,,vc_10070100012_024_01
+
+message,,I turned to Noir as if to ask 'right?' and she nodded in confirmation.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTop
+
+message,ノワール,...♡<br> ,550100001,vc_10070100012_025_01,
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+l2dmessage,フィルム,Wait，Commander，Noir...? From here...?!<br> ,,vc_10070100012_026_01
+
+message,,Her exquisite hole felt so good inside that I couldn't stay still—I<br>moved my hips to feel Film's hesitant depths.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10070100011_003_01,1,on
+
+l2dmotion,ExEmotionReset
+
+l2dmotion,Scene06
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,フィルム,*gasp*?! Wait，Commander! If you suddenly move，Aaah!?<br> ,,vc_10070100012_027_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,フィルム,(What is this...? My insides are filled with Commander...! Places I've<br>never touched are being rubbed，bringing so many new sensations!)<br> ,,vc_10070100012_028_01
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,,I asked if it was uncomfortable，and Film，neither denying nor<br>confirming，desperately shook her head.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,ExEmotion02
+
+l2dmessage,フィルム,I don't know，I don't know! But，*pant*，every time you move，my<br>depths tremble...!<br> ,,vc_10070100012_029_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,フィルム,It's scary! I don't understand，I don't know—but it feels good，and<br>that's scary! Mmph! My body feels like it's going crazy，*pant*!<br> ,,vc_10070100012_030_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10070100011_004_01,1,on
+
+l2dmotion,Scene07
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,フィルム,Help me，Noir! I'm coming undone...!<br> ,,vc_10070100012_031_01
+
+
+message,ノワール,...♡<br> ,550100001,vc_10070100012_032_01,
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+l2dmessage,フィルム,Is it alright? Is it alright to be undone? To be undone by Commander?<br> ,,vc_10070100012_033_01
+
+l2dmessage,フィルム,I'm not even a normal person...! *pant*，Aah! Can I really be happy?<br> ,,vc_10070100012_034_01
+
+message,ノワール,...♡♡♡<br> ,550100001,vc_10070100012_035_01,
+
+l2dmotion,MouthEmotionF
+
+message,,As Noir nodded in reassurance，Film's last inhibition fell away. She<br>moved her hips as if unleashed and begged.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+l2dmessage,フィルム,Aaaah!♡ Commander，please! Make me feel even more，so much<br>more!♡<br> ,,vc_10070100012_036_01
+
+message,,Needless to say，with each movement of my hips，Film's motions<br>overlapped，and we were enveloped in greater pleasure than ever.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10070100011_005_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,Scene08,on,STOP,0.5
+
+l2dmessage,フィルム,*pant*! Something—something is coming!♡ Something I've never felt is<br>coming!♡<br> ,,vc_10070100012_037_01
+
+
+message,,I told her it was okay to come，and Film，though bewildered，opened<br>her mouth.<br> 
+
+l2dmessage,フィルム,*pant*! Is this what 'coming' means? Am I really going to come!?<br> ,,vc_10070100012_038_01
+
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,フィルム,(That floaty，tight，amazing feeling—that's what it means to come...?<br>I'm going to feel so good，Commander is going to make me come...!)<br> ,,vc_10070100012_039_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,Scene08_1,on,STOP,4
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10070100011_007_01,1,on
+
+l2dmessage,フィルム,Aah!♡ I'm coming! I'm coming，Commander!<br>*pant*... Aaaaah!♡<br> ,,vc_10070100012_040_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10070100011_005_01,1,on
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,Scene08_2,on,STOP,12
+
+asyncl2dmotion,MouthEmotionG,on,STOP,13
+
+asyncl2dmotion,EyeOpenReset,on,STOP,13
+
+l2dmessage,フィルム,*pant*... ugh... ah... aah...<br>I came... *sigh*... it feels so good... *pant*... ah!<br> ,,vc_10070100012_041_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+message,フィルム,(*gasp!* Eh? W-why won't it stop...?)<br> ,,vc_10070100012_042_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,フィルム,Wait，Commander! I already felt good，aah，so we have to stop!<br> ,,vc_10070100012_043_01
+
+
+message,,Film's refusal of the pleasure beyond her limits only excited me more.<br>Wanting to satisfy myself too，I thrust my hips deep and hard.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmessage,フィルム,B-but! I came! I really came! So we can't go any further!<br> ,,vc_10070100012_044_01
+
+l2dmotion,EyeOpen00
+
+l2dmessage,フィルム,*gasp!* Aah! Aaaaah! I'm going crazy—something even stronger is<br>coming!<br> ,,vc_10070100012_045_01
+
+message,,At my curt 'I'm going to cum，' Film，still drowning in pleasure，<br>accepted it.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_8,bgv_10070100011_007_01,1,on
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,Scene09,on,STOP,4
+
+l2dmessage,フィルム,Commander，come!♡ Please come! I'm coming—aah，Aaaaaaaaah!♡<br> ,,vc_10070100012_046_01
+
+
+
+l2dmessage,フィルム,*pant*... *pant*... Commander... did I make you feel good?<br> ,,vc_10070100012_047_01
+
+
+message,,I told her it was the best. She smiled and relaxed her body.<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_9,bgv_10070100011_001_01,1,on
+
+l2dmotion,Scene10
+
+l2dmessage,フィルム,Fufu... I'm glad...♡<br> ,,vc_10070100012_048_01
+
+
+message,,Seeing Film collapsed，I briefly regretted being too rough from the<br>start. But Noir gestured that wasn't the case.<br> 
+
+message,ノワール,...♪<br> ,550100001,vc_10070100012_049_01,
+
+message,,Indeed，Film lay there looking genuinely happy and fully satisfied. She<br>must have had a talent—a talent for sex that had long been dormant.<br> 
+
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,9
+
+l2dmessage,フィルム,Fufu... I'm happy... This is the best in my whole life...♡<br> ,,vc_10070100012_050_01
+
+bgvstop,bgvtag2_9,0.2,1
+
+window,off
+bgmstop,bgmtag2_1,2
+fade,Out,Black,2
+wait,2
+cleanall,ALL
+
+l2dhide
+
+
+
+

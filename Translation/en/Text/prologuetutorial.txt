@@ -1,0 +1,41 @@
+post-battle
+へっへ～ん♪　楽勝、楽勝っ♪=Heh-heh~♪\nPiece of cake, piece of cake♪ //verisa
+ふふっ、この辺りの敵は、\nもう余裕になってしまいましたねぇ～♪=Hehe, enemies around \nhere are easy now, aren't they?♪ //marina
+私たちが探索を始めた頃は、\n正直、どうなるか不安だったけどね……=To be honest, when we first started exploring, I was a little worried about how it would turn out... //Sophia
+気付けば、こんなに頼もしい仲間ばかり……\nホント皆さん、心強いですっ♪=Before I knew it, I was surrounded by such dependable friends... \nI feel so reassured with all of you♪ //Alicia
+（やはり司令官は、この世界を救う\r\n”希望”……そう信じています！\r\n初めて出会ったあの日からずっと……）=(I truly believe the Commander is the "hope" that will save this world!\r\nEver since the day we first met...)
+
+gacha tutorial
+おっしゃるように戦力の強化は急務……\n=As you mentioned, strengthening our military capabilities is an urgent priority...
+そこで、トレスリア地方全体に布告を出して、 各地の腕利きに協力を要請しておきました。=So, I issued a proclamation throughout the Treslia region, asking skilled individuals from all over to lend their support.
+10回目SSR確定=<cspace\=-0.1em><size\=95%>SSR on 10th pull
+無料=Free
+普通、仲間を募集するには\n『アビスジェム』と呼ばれる希少な鉱石や=Normally, to recruit companions, you need a rare mineral called an “Abyss Gem”, or...
+特別なアイテムが必要なのですが=-a certain special item, but...
+今回は、わたしからのサービスです。\nさあ、司令官、試してみてください！=Just this time, it's on me. Come on, Commander, give it a try!
+見てください、司令官！ \n素敵な方達が、集まってくださいましたよ！=Look, Commander! Wonderful group of people has gathered here!
+どんな方かはこちらで見ることができますよ！\n=You can find out more about them here!\n
+司令官のお考えと違うようでしたら、 募集し直すこともできますよ。決断をお聞かせください。=If you're not yet satisfied, Commander, we can always redraw the recruitment process. Let us know your decision.
+前線基地には日々、\r\n新たな志願者が集まってきています。=New volunteers are arriving at the frontline base every day.
+アビスジェムを手に入れた際には、\nここを覗いてみてください。=When you get Abyss Gems, be sure to check these out.
+
+interception tutorial
+急ぎ、迎撃部隊を編成しましょう！=Let's form an intercept team immediately! //alicia
+『おまかせ編成』で手早く編成しちゃいましょう！\n=Let's quickly set up your team with "Auto Set up"! //alicia
+城壁を破壊されて前線基地に侵入されるのだけは避けないと……=We have to keep them from breaching the walls and invading the forward base... //sophia
+私たちは防衛設備を操作して援護しますね！=We'll operate the defense systems to provide cover! //marina
+敵をやっつけるのはあたしたちに任せてー=Leave it to us to take down the enemies— //verisa
+やったの……？=...Did we win? //sophia
+何とかなりましたね！=We managed to pull it off, didn't we! //marina
+へー、お兄さん結構やるじゃん？=Hee, Onii-san's pretty good at this, huh? //verisa
+皆さん……よかった……司令官もお見事でした！帰還してください。=Everyone... I'm so relieved... Commander, you did a great job too! Please come back.
+
+Post-tutorial
+司令官お疲れ様でした。何とか撃退できましたが、防衛施設に無理をさせたせいか…=Commander, thank you for your hard work. We managed to repel them, but perhaps we pushed our defense facilities too hard...
+ほとんど機能を停止してしまいました。=It has pretty much stopped working.
+復旧するためにも大穴の探索を続ける必要があります。=To restore the base, we must continue exploring the Great Cave.
+司令官がやるべきことをまとめておいたので行動の指針にして下さい。\n=I've put together a list of what the you need to do, so please use it as a guide for your actions.
+いきづまったら訓練したり、編成を見直すのも重要です。=If you hit a wall, it’s important to practice or reevaluate your strategy.
+前途多難ですが、わたし達の本当の戦いは、ここからです！　行きましょう、司令官！=The road ahead is fraught with challenges, but our real battle begins now! Let's go, Commander!
+
+チュートリアルはこれで終了です。<br>タイトルに戻ります。<br>引き続きゲームをお楽しみください。=That concludes the tutorial. \nYou'll now return to the title screen. \nPlease continue enjoying the game.

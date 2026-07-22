@@ -1,0 +1,526 @@
+balloonload
+
+fade,Out,Black,0
+initend
+
+//BGM
+bgmplay,bgmtag0_1,bgm0039,0,1
+
+dotbgload,bg_1,1028,02001
+dotbgload,bg_2,1028,01001
+dotbgload,bg_3,1028,01001
+
+
+//キャラロード
+objectload,chara_1,CHARA,300101000,<user>
+objectload,Sophia,CHARA,106501000G,ソフィア
+
+objectload,Goleinu,ENEMY,2037001,ゴレイヌ
+objectload,Logy,CHARA,2036001,ロジー
+objectload,chara_10,CHARA,301201000,？？？
+
+//ヒットエフェクト     
+dotprefabload,ef_Skill01SkillEffect_232,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,Goleinu,EffectPos
+dotprefabload,ef_Skill01SkillEffect_233,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,Logy,EffectPos
+dotprefabload,ef_Skill01SkillEffect,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,Goleinu,EffectPos
+//dotprefabload,ef_Skill01SkillEffect2,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,Logy,EffectPos
+//dotprefabload,ef_Skill01SkillEffect3,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,Goleinu,EffectPos
+
+dotprefabload,BattleEF_DSkill001HitOrange,Novel/VariantEffect/Boss2018101/BattleEF_DSkill001HitOrange,2.00, 0.00, 0.00,chara_10,EffectPos
+
+//麻痺エフェクト
+dotprefabload,ConditionParalysisEffect,Novel/VariantEffect/ConditionParalysisEffect,0.00, 0.00, 0.00,Goleinu,EffectPos
+//dotprefabload,ConditionParalysisEffect2,Novel/VariantEffect/ConditionParalysisEffect,0.00, 0.00, 0.00,Logy,EffectPos
+//dotprefabload,ConditionParalysisEffect3,Novel/VariantEffect/ConditionParalysisEffect,0.00, 0.00, 0.00,Goleinu,EffectPos
+
+//オーラ
+dotprefabload,ef_ForceChainSkillStart_1,Novel/VariantEffect/ForceChainStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_ForceChainSkillStart_2,Novel/VariantEffect/ForceChainStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_ForceChainSkillStart_3,Novel/VariantEffect/ForceChainStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_ForceChainSkillStart_4,Novel/VariantEffect/ForceChainStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+
+//衝撃波　自分から発生
+dotprefabload,ActionSkillStartPurple,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ActionSkillStartPurple2,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+//dotprefabload,ActionSkillStartPurple3,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+//dotprefabload,ActionSkillStartPurple4,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ActionSkillStartPurple5,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+//dotprefabload,ActionSkillStartPurple6,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ActionSkillStartPurple7,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+//dotprefabload,ActionSkillStartPurple8,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+
+//衝撃波　自分から発生
+dotprefabload,ActionSkillStartSilver,Novel/VariantEffect/ActionSkillStartSilver,0.00, 0.00, 0.00,Goleinu,EffectPos
+dotprefabload,ActionSkillStartSilver2,Novel/VariantEffect/ActionSkillStartSilver,0.00, 0.00, 0.00,Goleinu,EffectPos
+
+//dotprefabload,Eff_Pulse000,Novel/VariantEffect/Boss2026501/Eff_Pulse000,0.00, 0.00, 0.00,chara_10,EffectPos
+
+dotprefabload,Eff_StrikeDown001,Novel/VariantEffect/Boss2026501/Eff_StrikeDown001,-2.50, 0.00, 0.00,chara_10,EffectPos
+
+dotprefabload,Eff_LiquidBeamHitPurple000,Novel/VariantEffect/Eff_LiquidBeamHitPurple000,0.00, 0.00, 0.00,Goleinu,EffectPos
+
+//dotprefabload,SkillChargeImpactEffectPurple,Novel/VariantEffect/SkillChargeImpactEffectPurple,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,SkillChargeImpactEffectPurple2,Novel/VariantEffect/SkillChargeImpactEffectPurple,0.00, 0.00, 0.00,Goleinu,EffectPos
+dotprefabload,SkillChargeImpactEffectPurple3,Novel/VariantEffect/SkillChargeImpactEffectPurple,0.00, 0.00, 0.00,Logy,EffectPos
+
+
+//ワープエフェクト
+dotprefabload,Eff_DodgeFire000,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+dotprefabload,Eff_DodgeFire0002,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+dotprefabload,Eff_DodgeFire0003,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+dotprefabload,Eff_DodgeFire0004,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+dotprefabload,Eff_DodgeFire0005,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+dotprefabload,Eff_DodgeFire0006,Effects/Novel/DotNovelDodgeFire/Prefabs/Eff_DodgeFire000,0, 0, 0,chara_10,
+
+dotmove,Goleinu,0,0,0,0,LinearTarget,Set
+dotmove,Logy,0,-1,0,-0.5,LinearTarget,Set
+dotmove,chara_10,0,3.5,0,0,LinearTarget,Set
+
+dotmove,chara_1,0,-1.5,0,-2,LinearTarget,Set
+dotmove,Sophia,0,-2.5,0,1.5,LinearTarget,Set
+
+
+dotbgshow,bg_1,0
+dotbgshow,bg_2,1
+dotbgshow,bg_3,-1
+
+asyncdotcameramove,2,0,LinearTarget,0,None,CONT,0
+
+objectshow,chara_1,0
+objectshow,Logy,0
+objectshow,chara_10,0
+objectshow,Sophia,0
+
+objectshow,Goleinu,0
+
+
+objectmotion,Goleinu,N_anger,0,1,,1
+objectmotion,Logy,C_Wait,0,1,,1
+objectmotion,chara_10,C_WeaponWait,0,1,,1
+
+
+//カメラ設定
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,1,0,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+
+objectmotion,Sophia,C_Wait,0,1,,1
+objectmotion,chara_1,C_Wait,0,1,,1
+
+objectdirect,chara_10,LEFT
+
+uivisible,on
+
+fade,In,Black,0.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+dotmessage,？？？,<size=24>...,,mcv_1001050903_001_01,NORMAL_B,Mid,NORMAL,chara_10,TOP,NORMAL,0,0
+
+//エモ　怒
+asyncseplay,se4800001_,se4800001,0,1,CONT,0
+objectemo,Goleinu,Anger
+
+dotmessage,ゴレイヌ,<size=24>What would a half-brained fool<br>like you know!?,,mcv_1001050903_002_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+
+//エモ　焦り
+asyncseplay,se4800007_,se4800007,0,1,CONT,0
+objectemo,Logy,Panic
+objectmotion,Logy,N_surprised,1,1,,1
+dotmessage,ロジー,<size=24>assistant-kun...!,,mcv_1001050903_003_01,NORMAL,Mid,Surprise,Logy,TOP,NORMAL,0,0
+objectmotion,Logy,C_Wait,0,1,,1
+
+//objectmotion,chara_10,N_No,1,1,C_Wait,1
+
+//dotmessage,？？？,ほう。鉄屑が愛を語るか……<br>実に、非論理的で、愚かしい,,mcv_1001050903_004_01,NORMAL_B,Mid,NORMAL,chara_10,TOP,NORMAL,0,0
+
+//エモ　ぷんすか
+//asyncseplay,se4800016_,se4800016,0,1,CONT,0
+//objectemo,Goleinu,BePeevish
+
+//dotmessage,ゴレイヌ,それはこっちの台詞だ！<br>化け物が論理を語るな小賢しい！,,mcv_1001050903_005_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+
+//エモ　モヤモヤ
+asyncseplay,se4800006_,se4800006,0,1,CONT,0
+objectemo,chara_10,Trouble
+dotmessage,？？？,<size=24>Annoying iron scrap...,,mcv_1001050903_006_01,NORMAL_B,Mid,NORMAL,chara_10,TOP,NORMAL,0,80
+
+
+objectmotion,chara_10,U_WeaponAttack,1,1,None,0
+
+//SE再生
+asyncseplay,se4900199_9,se4900199,0,1,CONT,0
+dotprefabshow,ActionSkillStartPurple
+wait,0.25
+
+//SE再生
+asyncseplay,se4900003,se4900003,0,1,CONT,0
+dotprefabshow,ef_ForceChainSkillStart_1
+asyncdotmove,Goleinu,0.5,-2.5,0,0,Linear,CONT,0
+
+//SE再生
+asyncseplay,se4900200_,se4900200,0,1,CONT,0
+asyncdotprefabshow,ef_Skill01SkillEffect_232,CONT,0
+asyncobjectmotion,Goleinu,N_surprised,1,1,None,1,CONT,0
+asyncobjectmotion,Logy,N_surprised,1,1,None,1,CONT,0
+asyncobjectmotion,chara_1,N_surprised,1,1,None,1,CONT,0
+asyncobjectmotion,Sophia,N_surprised,1,1,None,1,CONT,0
+asyncwait
+
+dotmessage,ゴレイヌ,<size=24>Gwah!?,,mcv_1001050903_007_01,NORMAL,Mid,Surprise,Goleinu,TOP,SHAKE,0,85
+
+objectmotion,chara_10,C_WeaponWait,0,1,None,0
+objectmotion,chara_1,C_Wait,0,1,None,0
+objectmotion,Logy,C_Wait,0,1,None,0
+objectmotion,Sophia,C_Wait,0,1,None,0
+
+objectdirect,Logy,LEFT
+
+asyncobjectmotion,Logy,C_Walk,0,1,None,1,CONT,0
+asyncdotmove,Logy,0.25,-0.5,0,0,Linear,CONT,0
+asyncwait
+objectmotion,Logy,N_sorrow,1,1,None,0
+
+dotmessage,ロジー,<size=24>assistant-kun!?,,mcv_1001050903_008_01,NORMAL,Mid,Surprise,Logy,TOP,SHAKE,0,80
+objectmotion,Logy,C_Wait,0,1,None,1
+
+objectdirect,Logy,RIGHT
+
+asyncobjectmotion,Goleinu,C_Walk,0,1,None,1,CONT,0
+asyncdotmove,Goleinu,1,2.5,0,0,Linear,CONT,0
+asyncwait
+objectmotion,Goleinu,N_Pointing,1,1,,1
+dotmessage,ゴレイヌ,<size=24>Heh... you've got some pretty<br>nice stuff there...,,mcv_1001050903_009_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+objectmotion,Goleinu,C_WeaponWait,0,1,,1
+
+dotmessage,ゴレイヌ,<size=24>Truth is，when this war ends，<br>I'm gonna propose...,,mcv_1001050903_010_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+
+objectmotion,Goleinu,N_embarrassing,0,1,None,1
+
+//エモ　///▽///
+asyncseplay,se4800012_,se4800012,0,1,CONT,0
+objectemo,Goleinu,Shy
+objectdirect,Goleinu,LEFT
+
+dotmessage,ゴレイヌ,<size=24>And the one I'll propose to...<br>is Professor Logy...,,mcv_1001050903_011_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+
+//エモ　Σ
+asyncseplay,se4800017_,se4800017,0,1,CONT,0
+objectemo,Logy,Shock
+objectmotion,Logy,N_talk,0,1,None,1
+
+dotmessage,ロジー,<size=24>You idiot!<br>You're raising your own death flag——!!,,mcv_1001050903_012_01,NORMAL,Mid,Surprise,Logy,TOP,SHAKE,50,80
+asyncobjectmotion,Logy,C_Walk,0,1,None,1,CONT,0
+
+asyncdotmove,Logy,0.5,0.5,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Logy,C_Wait,0,1,None,1,CONT,0
+objectmotion,Logy,N_Pointing,1,1,,1
+dotmessage,ロジー,<size=24>Seriously though，don't push it!<br>Your parts are flying off!,,mcv_1001050903_013_01,NORMAL,Mid,NORMAL,Logy,TOP,NORMAL,0,80
+objectmotion,Logy,C_Wait,0,1,,1
+
+objectmotion,Logy,C_Wait,0,1,,1
+objectmotion,Goleinu,N_salute,1,1,,1
+
+//待ち
+wait,0.5
+asyncobjectmotion,Goleinu,C_WeaponWait,0,1,None,1,CONT,0
+
+objectmotion,Logy,C_Wait,0,1,,1
+objectdirect,Goleinu,RIGHT
+
+//エモ　ぷんすか
+asyncseplay,se4800016_2,se4800016,0,1,CONT,0
+objectemo,Goleinu,BePeevish
+objectmotion,Goleinu,N_Pointing,1,1,,1
+
+dotmessage,ゴレイヌ,<size=24>...A hit for a hit!<br>Don't you dare complain,,mcv_1001050903_014_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+
+dotmessage,ゴレイヌ,<size=24>when I hit back!<br>ORAAAAAAAA!!!!,,mcv_1001050903_015_01,NORMAL,Mid,Anger,Goleinu,TOP,SHAKE,0,85
+
+
+objectdirect,Logy,RIGHT
+objectmotion,Goleinu,C_Run,0,1,None,1,CONT,0
+asyncdotmove,Goleinu,0.25,2,0,0,LinearTarget,CONT,0
+asyncwait
+
+//SE
+asyncseplay,se4900067,se4900067,0,1,CONT,0
+asyncobjectmotion,Goleinu,C_Attack,1,1,None,1,CONT,0
+asyncseplay,se4900013,se4900013,0,1,CONT,0.5
+
+
+//SE再生
+asyncseplayIngame,ba_battle_magic_fire_s,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire000,CONT,0
+objecthide,chara_10
+wait,0.65
+objectdirect,chara_10,RIGHT
+dotmove,chara_10,0,-3.25,0,0,Linear
+
+//SE再生
+asyncseplayIngame,ba_battle_magic_fire_s2,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire0002,CONT,0
+objectshow,chara_10,0
+asyncwait
+
+asyncobjectmotion,Goleinu,N_surprised,1,1,None,1,CONT,0
+
+//エモ　！？
+asyncseplay,se4800011_,se4800011,0,1,CONT,0
+objectemo,Goleinu,ExclaQues
+objectdirect,Goleinu,LEFT
+dotmessage,ゴレイヌ,<size=24>What!?<br>He dodged my full-power strike!?,,mcv_1001050903_016_01,NORMAL,Mid,Surprise,Goleinu,TOP,SHAKE,0,85
+
+//エフェクト削除
+dotprefabdelete,Eff_DodgeFire000
+dotprefabdelete,Eff_DodgeFire0002
+
+//エモ　Σ
+asyncseplay,se4800017_2,se4800017,0,1,CONT,0
+objectemo,Logy,Shock
+objectmotion,Logy,N_scared,0,1,None,1
+objectmotion,chara_1,N_scared,0,1,None,1
+objectmotion,Sophia,N_scared,0,1,None,1
+
+dotmessage,ロジー,<size=24>This is bad!<br>assistant-kun!,,mcv_1001050903_017_01,NORMAL,Mid,Sad,Logy,TOP,SHAKE,0,0
+
+//SE再生
+asyncseplayIngame,ba_battle_magic_fire_s3,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire0003,CONT,0
+objecthide,chara_10
+wait,0.65
+objectdirect,chara_10,LEFT
+dotmove,chara_10,0,3.25,0,0,Linear
+
+//SE再生
+asyncseplayIngame,ba_battle_magic_fire_s4,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire0004,CONT,0
+objectshow,chara_10,0
+asyncwait
+
+dotmessage,？？？,<size=24>Slowpoke.<br>This should be more than enough for you.,,mcv_1001050903_018_01,NORMAL_B,Mid,NORMAL,chara_10,TOP,NORMAL,0,80
+
+objectdirect,Goleinu,RIGHT
+
+//エフェクト削除
+dotprefabdelete,Eff_DodgeFire0003
+dotprefabdelete,Eff_DodgeFire0004
+
+//SE再生
+asyncseplay,se4900199_10,se4900199,0,1,CONT,0
+dotprefabshow,ActionSkillStartPurple7
+wait,0.25
+objectmotion,chara_10,U_WeaponAttack,1,1,None,0
+//SE再生
+asyncseplay,se4900003_2,se4900003,0,1,CONT,0
+dotprefabshow,ef_ForceChainSkillStart_3
+
+//SE再生
+asyncseplay,se4900200_2,se4900200,0,1,CONT,0
+asyncdotprefabshow,ef_Skill01SkillEffect,CONT,0
+
+//SE再生
+asyncseplay,se4900201,se4900201,0,1,CONT,0
+asyncdotprefabshow,SkillChargeImpactEffectPurple2,CONT,0
+
+//SE再生
+asyncseplay,se4900133,se4900133,0,1,CONT,0
+asyncdotprefabshow,ConditionParalysisEffect,CONT,0
+
+asyncobjectmotion,chara_1,N_surprised,1,1,None,1,CONT,0.15
+asyncobjectmotion,Sophia,N_surprised,1,1,None,1,CONT,0.1
+asyncobjectmotion,Goleinu,N_surprised,1,1,None,1,CONT,0
+asyncdotmove,Goleinu,0.5,0.5,0,0,LinearTarget,CONT,0
+asyncwait
+
+dotmessage,ゴレイヌ,<size=24>ABABABABABABABA!!!!,,mcv_1001050903_019_01,NORMAL,Mid,NORMAL,Goleinu,TOP,NORMAL,0,85
+objectmotion,chara_10,C_WeaponWait,0,1,None,0
+
+//エモ　焦り
+asyncseplay,se4800007_3,se4800007,0,1,CONT,0
+objectemo,Logy,Panic
+
+objectmotion,chara_10,U_WeaponAttack,1,1,,0
+
+//SE再生
+asyncseplay,se4900199_3,se4900199,0,1,CONT,0
+asyncdotprefabshow,ActionSkillStartPurple5,CONT,0
+wait,0.25
+
+dotmessage,ロジー,<size=24>Wait! At this rate，<br>Goleinu's memory circuits will...!,,mcv_1001050903_020_01,NORMAL,Mid,Sad,Logy,TOP,NORMAL,0,85
+objectmotion,Logy,C_Wait,0,1,,1
+
+objectdirect,Logy,RIGHT
+
+asyncobjectmotion,Logy,C_Walk,0,1,,1,CONT,1
+asyncdotmove,Logy,0.5,2.5,0,0.5,Linear,CONT,0
+asyncwait
+objectmotion,Logy,N_Protect,1,1,None,0
+objectmotion,chara_1,C_Wait,0,1,None,1
+objectmotion,Sophia,C_WeaponWait,0,1,None,1
+
+dotmessage,ロジー,<size=24>Sto—...!,,mcv_1001050903_021_01,NORMAL,Mid,NORMAL,Logy,TOP,NORMAL,0,0
+
+//SE再生
+asyncseplay,se4900003_3,se4900003,0,1,CONT,0
+dotprefabshow,ef_ForceChainSkillStart_2
+asyncdotprefabshow,SkillChargeImpactEffectPurple3,CONT,0
+asyncdotmove,Logy,0.5,-2.5,0,0,Linear,CONT,0
+//asyncwait
+
+//SE再生
+asyncseplay,se4900200_3,se4900200,0,1,CONT,0
+asyncdotprefabshow,ef_Skill01SkillEffect_233,CONT,0
+asyncobjectmotion,chara_1,N_scared,1,1,None,1,CONT,0
+asyncobjectmotion,Sophia,N_scared,1,1,None,1,CONT,0
+objectmotion,Logy,C_Down,1,1,C_DownWait,1,0
+asyncwait
+
+objectmotion,chara_10,C_WeaponWait,0,1,None,0
+
+dotmessage,ロジー,<size=24>UGAGAGAGAGAGA!!!,,mcv_1001050903_022_01,NORMAL,Mid,NORMAL,Logy,TOP,NORMAL,0,0
+
+asyncdotprefabdelete,ConditionParalysisEffect,CONT,0
+objectdirect,Goleinu,LEFT
+objectmotion,Goleinu,N_scared,1,1,,1
+//asyncdotprefabdelete,ConditionParalysisEffect2,CONT,0
+
+dotmessage,ゴレイヌ,<size=24>Professor!!<br>You shielded me...,,mcv_1001050903_023_01,NORMAL,Mid,Sad,Goleinu,TOP,NORMAL,0,85
+
+objectmotion,Goleinu,N_anger,0,1,,1
+
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+asyncobjectmotion,Sophia,N_surprised,1,1,None,1,CONT,0
+
+//エモ　焦り
+asyncseplay,se4800007_4,se4800007,0,1,CONT,0
+objectemo,chara_1,Panic
+asyncobjectemo,Sophia,Panic,CONT,0
+
+dotmove,chara_1,0.5,-1.5,0,0,LinearTarget
+asyncobjectmotion,chara_1,N_squat,1,1,None,1,CONT,0
+asyncwait
+asyncseplay,se4400033_,se4400033,0,1,CONT,0
+asyncdotmove,Logy,0.5,-0.65,0.85,0,Linear,CONT,0
+asyncobjectmotion,chara_1,N_anger,1,1,None,1,CONT,0
+asyncwait
+asyncobjectmotion,chara_1,N_greeting_loop,1,1,N_greeting_loop,1,CONT,0
+asyncdotmove,chara_1,0.5,0,0,-2,Linear
+asyncdotmove,Logy,0.5,0,0,-2,Linear
+asyncwait
+objectdirect,chara_1,LEFT
+asyncdotmove,Logy,0.5,-0.7,-0.85,0,Linear,CONT,0
+asyncwait
+objectdirect,chara_1,RIGHT
+objectmotion,chara_1,N_defense,1,1,None,1
+asyncobjectmotion,Sophia,C_Walk,0,1,None,1,CONT,0
+asyncdotmove,Sophia,0.5,-1,0,-1.5,LinearTarget,CONt,0
+asyncwait
+
+asyncseplay,se4900059_,se4900059,0,1,CONT,0
+objectmotion,Sophia,N_guard,1,1,None,1
+
+
+//エモ　ぷんすか
+asyncseplay,se4800016_3,se4800016,0,1,CONT,0
+objectemo,Goleinu,BePeevish
+objectdirect,Goleinu,RIGHT
+
+dotmessage,ゴレイヌ,<size=24>Why you...!<br>The Professor means everything to me!,,mcv_1001050903_024_01,NORMAL,Mid,Anger,Goleinu,TOP,SHAKE,0,85
+
+//SE再生
+asyncseplay,se4900199_12,se4900199,0,1,CONT,0
+asyncdotprefabshow,ActionSkillStartSilver,CONT,0.000
+asyncdotcamerazoom,1.1,0.5,LinearTarget,CONT,0
+wait,0.5
+
+//SE再生
+asyncseplay,se4900199_13,se4900199,0,1,CONT,0
+asyncdotprefabshow,ActionSkillStartSilver2,CONT,0
+asyncdotcamerazoom,1.2,0.5,LinearTarget,CONT,0
+
+wait,0.5
+dotmessage,ゴレイヌ,<size=24>She's! My! Infinite!<br>ENERGYYYYYYY!,,mcv_1001050903_025_01,NORMAL,Mid,Anger,Goleinu,TOP,SHAKE,0,85
+
+objectmotion,Goleinu,C_Run,0,1,,1,CONT,1
+asyncdotmove,Goleinu,0.25,2,0,0,LinearTarget
+asyncwait
+
+//SE再生
+asyncseplay,se4900013_2,se4900013,0,1,CONT,0
+asyncobjectmotion,Goleinu,C_Attack,1,1,None,1,CONT,0
+asyncseplay,se4900067_2,se4900067,0,1,CONT,0.5
+
+//SE再生
+asyncseplayIngame,ba_battle_magic_fire_s_6,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire0005,CONT,0
+objecthide,chara_10
+
+asyncwait
+
+
+objectmotion,Goleinu,C_WeaponWait,0,1,,1
+
+//エモ　！？
+asyncseplay,se4800011_4,se4800011,0,1,CONT,0
+objectemo,Goleinu,ExclaQues
+
+asyncseplayIngame,ba_battle_magic_fire_s_7,battle_general,ba_battle_magic_fire_s,0,1,CONT,0
+asyncdotprefabshow,Eff_DodgeFire0006,CONT,0
+objectshow,chara_10,0
+
+
+objectmotion,chara_10,U_WeaponAttack,1,1,,0
+
+dotmessage,？？？,<size=24>...Scum.,,mcv_1001050903_026_01,NORMAL_B,Mid,NORMAL,chara_10,TOP,NORMAL,0,0
+
+//エフェクト削除
+dotprefabdelete,Eff_DodgeFire0005
+dotprefabdelete,Eff_DodgeFire0006
+
+//エモ　汗
+asyncseplay,se4800008_4,se4800008,0,1,CONT,0
+objectemo,Goleinu,Sweat
+
+//SE再生
+asyncseplay,se4900199_4,se4900199,0,1,CONT,0
+asyncdotprefabshow,ActionSkillStartPurple2,CONT,0.000
+wait,0.25
+//SE再生
+asyncseplay,se4900003_4,se4900003,0,1,CONT,0
+dotprefabshow,ef_ForceChainSkillStart_4
+asyncdotprefabrotate,Eff_StrikeDown001,0,0,0,0,Linear,CONT,0,0
+asyncdotprefabshow,Eff_StrikeDown001,CONT,0
+
+//SE再生
+asyncseplay,se4900002,se4900002,0,1,CONT,0
+asyncdotprefabshow,BattleEF_DSkill001HitOrange,CONT,0
+dotprefabshow,Eff_LiquidBeamHitPurple000
+
+asyncobjectmotion,chara_1,N_defense,1,1,None,1,CONT,0
+dotmove,Goleinu,0.25,-2,0,0,LinearTarget
+
+objectmotion,chara_10,C_WeaponWait,0,1,,0
+
+asyncobjectmotion,Goleinu,N_surprised_sit,1,1,None,1,CONT,0
+
+dotmessage,ゴレイヌ,<size=24>Bghk!?,,mcv_1001050903_027_01,NORMAL,Mid,Surprise,Goleinu,TOP,SHAKE,0,85
+
+
+wait,1
+
+//スキップ処理
+labeljump,p
+:SkipPoint
+uivisible,off
+cleanskip
+:p
+
+bgmstop,bgmtag0_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+
+cleanall,ALL
+
+

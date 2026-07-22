@@ -1,0 +1,619 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg14100a
+
+charaload,chara_1,100401000G,シャオレイ
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,少女はパンダと旅をする
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+
+messagetextwindow,on,0.15
+
+asyncseplay,setag1_1,se5050013,0,1,CONT
+messageTextCenter,,<size=48>--Forest near the Frontline Base</size>,,,on
+
+wait,0.2
+
+messagetextwindow,off,0.15
+wait,0.15
+
+asyncstopwait
+
+
+
+window,on,0.15
+message,<user>,Alright，that should be enough.<br>Time to head back to base...<br> 
+
+message,<user>,But they make me，the Commander，gather poison mushrooms just<br>because I look free. I mean，more poison for monsters is always good，but...<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+asyncseplay,setag1_2,se4020001,0,1,CONT
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+cameramove,LinearTarget,X,-100,0.5
+
+wait,0.5
+
+cameramove,LinearTarget,X,100,0.5
+window,on,0.15
+message,<user>,What's this? The trees have fallen strangely.<br>Was there a storm last night or something?<br> 
+
+cameramove,LinearTarget,X,0,0.5
+
+message,<user>,Ugh，this is the worst. The path's blocked by fallen trees.<br>I can't get through like this...<br> 
+
+message,<user>,Should I go around or climb over?<br>Both are a hassle...<br> 
+
+window,off
+wait,0.15
+
+wait,0.5
+
+bgmstop,bgmtag1_1,0.5,0
+
+window,on,0.15
+message,？？？,Uuu... s-someone...<br>H-help...<br> ,900000001,vc_10040100001_001_01,off
+
+window,off
+wait,0.15
+
+bgmplay,bgmtag1_2,bgm0027,0.75,1
+
+wait,0.5
+
+window,on,0.15
+message,<user>,...! That voice!<br>Don't tell me they're trapped under a fallen tree?<br> 
+
+message,<user>,Hang on，I'll save you right away!<br>I'm sure the voice came from behind that fallen tree...!<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+asyncseplay,setag1_3,se4020005,0,1,CONT
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+window,on,0.15
+message,２匹のパンダ,*Kupyuu!*<br> ,900000003
+
+message,<user>,...Huh? Panda cubs?<br>No way a talking panda was calling for help... No，that can't be—<br> 
+
+charamove,chara_1,Set,X,0,0
+charamove,chara_1,Set,CharaHeight,-150,0
+
+charaface,chara_1,FaceUnique01
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_4,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+
+
+message,？？？,H-help...<br> ,100401000G,vc_10040100001_002_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,3,off,off,0,off,CONT
+message,<user>,What! There's someone lying behind the pandas!<br> 
+
+message,<user>,Hey，are you okay?<br>Did you get caught in the fallen trees? Any injuries?<br> 
+
+asyncseplay,setag1_5,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+
+asynccharaface,chara_1,FaceSad,STOP
+message,？？？,...Not hurt... Not caught either...<br> ,100401000G,vc_10040100001_003_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+
+message,<user>,Y-yeah，you're right... You just seem to have collapsed.<br>So are you sick? You look pale... What's the cause?<br> 
+
+asyncseplay,setag1_6,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+message,？？？,Don't know...<br> ,100401000G,vc_10040100001_004_01,chara_1
+
+message,<user>,In that case，it might be a sudden illness.<br>I'll take you back to the base right away and find out the cause—<br> 
+
+bgmstop,bgmtag1_2,0.5,0
+
+asyncseplay,setag1_7,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,？？？,Why... this is happening to me...<br>I was just hungry and ate a mushroom，but...<br> ,100401000G,vc_10040100001_005_01,chara_1
+
+bgmplay,bgmtag1_3,bgm0026,0.75,1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+message,<user>,...Hey，what did you just say?<br> 
+
+
+asynccharaface,chara_1,FaceFun,STOP
+message,？？？,Mushroom... Xiaolei told you Xiaolei ate it...<br>The one growing here... A pretty mushroom...<br> ,100401000G,vc_10040100001_006_01,chara_1
+
+asyncshake,CHARA,chara_1,3,0,0.5,3,off,off,0,off,CONT
+
+message,<user>,By 'pretty mushroom'，do you mean that one on the ground with those<br>ridiculously loud colors and patterns?<br> 
+
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,？？？,Yeah... that one...<br> ,100401000G,vc_10040100001_007_01,chara_1
+
+asyncseplay,setag1_8,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+
+
+asynccharaface,chara_1,FaceSad,STOP
+message,？？？,When Xiaolei ate it... body... couldn't move...<br>Reason... unknown... Strange...<br> ,100401000G,vc_10040100001_008_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+message,<user>,No，no，no! This is a poison mushroom that paralyzes you!<br> 
+
+asyncseplay,setag1_9,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,？？？,P-poison? Aiyaa...<br> ,100401000G,vc_10040100001_009_01,chara_1
+
+message,<user>,Why are you so surprised? Even if it only grows in this forest，it's a<br>pretty famous poison mushroom.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Well，okay，maybe it's understandable you didn't know，but still，<br>don't eat a mushroom that looks this suspicious...<br> 
+
+asyncseplay,setag1_10,se4800007,6,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT,6
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+
+
+asynccharaface,chara_1,FaceSad,CONT,6
+message,？？？,But... Xiaolei was hungry... and it tasted good...<br>Xiaolei didn't know it had poison... *whimper*... Xiaolei is sorry...<br> ,100401000G,vc_10040100001_010_01,chara_1
+
+message,<user>,Honestly... hold on a second. I can at least make a simple antidote.<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+charamove,chara_1,Set,X,0,0
+charamove,chara_1,Set,CharaHeight,0,0
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+asyncseplay,setag1_11,se4800010,0,1,CONT
+
+charaemo,chara_1,Exclamation
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+
+charareaction,chara_1,Hop,0.5
+window,on,0.15
+message,？？？,Yay! Body can move! Sheshe!<br> ,100401000G,vc_10040100001_011_01,chara_1
+
+asyncseplay,setag1_12,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+message,<user>,Even after taking the antidote，you recovered this fast. You've got a<br>pretty sturdy body.<br> 
+
+message,<user>,So，what's this 'sheshe' you keep saying?<br> 
+
+asyncseplay,setag1_13,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,？？？,Word of thanks. A thank-you from Xiaolei's homeland.<br> ,100401000G,vc_10040100001_012_01,chara_1
+
+message,<user>,Huh，never heard that before. So your name's Xiaolei? You came from<br>far away?<br> 
+
+charareaction,chara_1,Nod,0.5
+message,シャオレイ,Yes. Xiaolei came from very，very far away.<br> ,,vc_10040100001_013_01
+
+message,<user>,By yourself? Why come all the way to a place this dangerous?<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,That promise with Grandpa. Xiaolei will become strong.<br> ,,vc_10040100001_014_01
+
+message,<user>,A promise with your grandpa?<br> 
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+
+asyncseplay,setag1_14,se4800021,0,1,CONT
+
+asynccharaemo,chara_1,Imagination,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Yeah. It was back when Xiaolei was still in the homeland.<br> ,,vc_10040100001_015_01
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_3,1.5,0
+
+fade,Out,White,1.5
+
+emodelete,chara_1,0,0
+
+screeneffect,SEPIATONE,on,1,1
+
+
+bg,abg14400a
+
+wait,1
+
+bgmplay,bgmtag1_4,bgm0036,0.75,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,シャオレイの祖父,Xiaolei... my grandchild. From the time you were a child，you have<br>trained with me，just the two of us，all these years...<br> 
+
+message,シャオレイの祖父,You've grown so strong! In our clan，no one has ever matched your<br>skill at your age!<br> 
+
+asyncseplay,setag1_15,se4800013,0,1,CONT
+
+charaemo,chara_1,Spirits
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Xiaolei thanks Grandpa. Thanks，thanks!<br> ,,vc_10040100001_016_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,Well，even if I had not taught her anything，Xiaolei was born strong，<br>you know.<br> 
+
+message,シャオレイの祖父,But Xiaolei，your strength still lacks something. Do you know what it<br>is?<br> 
+
+asyncseplay,setag1_16,se4800009,0,1,CONT
+
+charaemo,chara_1,Question
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,...? Like，physique? Xiaolei is small.<br> ,,vc_10040100001_017_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,No，not that. It is true your body is small，but I have taught you<br>enough technique to compensate.<br> 
+
+message,シャオレイの祖父,Listen，my grandchild! What you lack is wisdom!<br> 
+
+asyncseplay,setag1_17,se4800010,0,1,CONT
+
+charaemo,chara_1,Exclamation
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Wisdom...<br> ,,vc_10040100001_018_01
+
+message,シャオレイの祖父,Indeed! True strength requires power，technique，and wisdom! But I<br>can only teach you power and technique! Honestly，I am not very bright.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,So，my grandchild! Go out into the world，learn，experience，and<br>become wise! Then you will grow stronger! Explanation over! Off you go!<br> 
+
+asyncseplay,setag1_18,se4800013,0,1,CONT
+
+charaemo,chara_1,Spirits
+
+message,シャオレイ,Okaaay.<br> ,,vc_10040100001_019_01
+
+window,off
+wait,0.15
+
+fade,Out,White,1.5
+
+bgmstop,bgmtag1_4,0,0
+
+screeneffect,SEPIATONE,off,1,0
+
+emodelete,chara_1,0,0
+
+bg,abg14100a
+
+wait,1
+
+bgmplay,bgmtag1_5,bgm0035,0.75,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,シャオレイ,So that's how it is.<br> ,,vc_10040100001_020_01
+
+message,<user>,That's one decisive old man...! And you accepted it way too quickly!<br> 
+
+asyncseplay,setag1_19,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,But Xiaolei wants to become stronger!<br> ,,vc_10040100001_021_01
+
+message,<user>,I-I see... So you're on a martial pilgrimage. Leaving your home alone<br>must be lonely，but you're doing your best.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Aiyaa—not really. Xiaolei isn't alone. Right，Panpan，Dandan?<br> ,,vc_10040100001_022_01
+
+message,パンパン[シャオレイ],Kupyu!<br> ,900000003
+
+message,ダンダン[シャオレイ],Kupyu!<br> ,900000003
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Panpan and Dandan are greeting you. They say，'Nice to meet you.'<br> ,,vc_10040100001_023_01
+
+message,<user>,Oh，uh... nice to meet you too.<br>But how can you talk to pandas?<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,シャオレイ,We grew up together，so it's natural.<br> ,,vc_10040100001_024_01
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,With Dandan and Panpan，Xiaolei can get stronger.<br>That's why Xiaolei can do her best.<br> ,,vc_10040100001_025_01
+
+message,<user>,The two of them，huh... I see.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Well，no need to worry then. Good luck，Xiaolei.<br>See you around—<br> 
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+shake,BACK,,10,0,0.5,1,off,off,0
+
+charascale,chara_1,1.5,0
+window,on,0.15
+message,<user>,Huh!<br> 
+
+window,off
+wait,0.15
+
+scale,BACK,,0,1.3,1.3,LinearTarget
+
+blur,on,BACK,0
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,シャオレイ,Wait.<br> ,,vc_10040100001_026_01
+
+message,<user>,What's wrong? Grabbing my sleeve like that.<br>Is there something else?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,シャオレイ,Please.<br>Xiaolei wants you to be her master—teacher.<br> ,,vc_10040100001_027_01
+
+message,<user>,Huh? Teacher? Why me!<br>You can see I'm not a martial artist，right?<br> 
+
+asyncseplay,setag1_20,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+message,シャオレイ,You look skinny and weak，but you're smart.<br>You knew about poison mushrooms. Made medicine.<br> ,,vc_10040100001_028_01
+
+asyncseplay,setag1_21,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,To get stronger，Xiaolei needs that wisdom.<br>Please teach Xiaolei a lot.<br> ,,vc_10040100001_029_01
+
+message,<user>,Ugh... if you eat poison mushrooms growing around here，<br>you might need to learn some basic common sense...<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,But there's only so much I can teach.<br>Find someone smarter—<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,シャオレイ,No. Xiaolei wants you to teach her.<br> ,,vc_10040100001_030_01
+
+message,<user>,Uh，look，I don't take disciples.<br>So with that，see ya—!<br> 
+
+window,off
+wait,0.15
+
+shake,BACK,,10,0,0.5,1,off,off,0
+
+wait,1
+
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Wha—I can't move! What's going on!?<br>Xiaolei's hand gripping my sleeve doesn't budge at all!)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+charareaction,chara_1,HOP,0.5
+window,on,0.15
+message,シャオレイ,Xiaolei wants you to teach her.<br> ,,vc_10040100001_031_01
+
+message,<user>,Ah，uh，sorry，but I can't do that.<br>I'm the commander of the Frontline Base，and I'm busy as it is.<br> 
+
+asyncseplay,setag1_22,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Frontline Base... Xiaolei knows it. You're the commander there?<br>Amazing. Xiaolei has a good eye.<br> ,,vc_10040100001_032_01
+
+asyncseplay,setag1_23,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Xiaolei's family's poor，and she wants to earn money at Frontline<br>Base. If Teacher teaches her，she'll get stronger—two birds one stone.<br> ,,vc_10040100001_033_01
+
+message,<user>,I told you I'm busy! Let go of my sleeve... let go—... dammit，it won't<br>let go...!<br> 
+
+message,シャオレイ,Teacher?<br> ,,vc_10040100001_034_01
+
+message,<user>,I said I'm not your teacher! Ah，man... Well，what's in it for me if I<br>become your teacher?<br> 
+
+asyncseplay,setag1_24,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Xiaolei is strong. Has power. Will definitely be useful to Teacher.<br> ,,vc_10040100001_035_01
+
+message,<user>,You're grabbing my sleeve with incredible strength，but are you really<br>as strong as all that...?<br> 
+
+message,<user>,Hmm，well then let me ask: can you move this big fallen tree? I've<br>been having trouble getting through here.<br> 
+
+asyncseplay,setag1_25,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Hm，this tree?<br> ,,vc_10040100001_036_01
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+scale,BACK,,0,1,1,LinearTarget
+
+blur,off,BACK,0
+
+charascale,chara_1,1,0
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_26,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+charareaction,chara_1,JUMP,0.5
+window,on,0.15
+message,シャオレイ,*huff*<br> ,,vc_10040100001_037_01
+
+
+message,<user>,Wha—! She lifted it with one hand!<br> 
+
+charareaction,chara_1,JUMP,0.5
+message,シャオレイ,Yes.<br> ,,vc_10040100001_038_01
+
+asyncseplay,setag1_27,se5050040,0,1,CONT
+
+shake,BACK,,0,10,0.5,1,off,off,0
+message,,The fallen tree was tossed aside with a flick. A heavy thud rang out，<br>and the ground shook beneath them.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(To be able to lift such a big fallen tree easily with one hand...! What<br>incredible strength for such a small body!)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_28,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+window,on,0.15
+message,シャオレイ,Is this good?<br> ,,vc_10040100001_039_01
+
+message,<user>,...All right，I'll take you on. From today，call me Teacher.<br> 
+
+asyncseplay,setag1_29,se4800004,0,1,CONT
+
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Fufu. Sheshe. Please take care of Xiaolei，Teacher.<br> ,,vc_10040100001_040_01
+
+
+
+
+window,off
+bgmstop,bgmtag1_5,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+

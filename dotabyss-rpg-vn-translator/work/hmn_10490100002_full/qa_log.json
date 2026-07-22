@@ -1,0 +1,31 @@
+{
+  "scene": "hmn_10490100002",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 76,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 77,
+  "translated_records": 77,
+  "changed_lines": 77,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 790,
+    "vi": 790,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "f2c474247d78e88874493ce8e3e2bc55899ec7e470ef0666a7f6fa5a5ba3de97",
+  "output_sha256": "9bb17a0074bb1d2b78ff5670b5dba0a93e731dcb31295a7b5a7cf96fe0406045",
+  "notes": "EN-asset-is-English case with JP title. Chloe/クロエ knight-fangirl date scene with Alicia. 77/77 records. Commander → Chỉ Huy. 'Knightvities' kept as loanword (made-up jargon term explained in-dialogue). Chloe uses em/anh with Commander. Fullwidth ，(U+FF0C) used inside text fields. ℹ️ H18 content: none (wholesome fandom-banter date).",
+  "qa_status": "PASS"
+}

@@ -1,0 +1,33 @@
+{
+  "scene": "hmn_10060100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_mismatches": [],
+    "field_mismatches": [],
+    "technical_field_mismatches": [],
+    "kept_text_lines": []
+  },
+  "linguistic_qa": {
+    "jp_primary_en_alignment_only": true,
+    "commander_rendering": "司令官/Commander -> Chỉ Huy; first-person male Commander uses anh with Noemi in direct dialogue",
+    "no_ascii_comma_inside_vi_text_fields": true,
+    "title_case_vietnamese_title": true,
+    "h18_note": "No H18/adult content in this scene; project adult confirmation acknowledged.",
+    "unresolved": []
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 72,
+  "translated_records": 72,
+  "changed_lines": 72,
+  "source_line_count": 1563,
+  "output_line_count": 1563,
+  "source_sha256": "caa1ef74e0afa2cc8be9a6451761d1cc36a79e807c59ee71a6b60f5c553fa409",
+  "output_sha256": "9ddd440143fff2baabbbfb725cdf7d08d6bf11f0876378c814142fe4e540f6ac"
+}

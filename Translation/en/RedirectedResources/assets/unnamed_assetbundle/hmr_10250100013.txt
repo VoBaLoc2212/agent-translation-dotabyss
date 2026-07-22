@@ -1,0 +1,88 @@
+﻿adultui,off
+
+bg,abg18000a
+
+charaload,chara_1,102501000G,ウェンディ
+
+subimage,UI/BG/Novel/abg18000a,subimage_1,0,OTHER,0,FRONT
+
+move,SUBIMAGE,subimage_1,0,0,200,Set
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+wait,1
+
+crossfadeready
+
+bg,abg11000a
+
+charashow,chara_1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+
+
+asyncseplay,setag3_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Nod,0.5,STOP,5
+window,on,0.15
+message,ウェンディ,Commander... this is the spec sheet my father wrote for me. I'd<br>completely forgotten it existed.<br> ,,vc_10250100013_001_01
+
+message,,The next day，saying that，Wendy handed me her specification<br>sheet—a document detailing all her functions.<br> 
+
+message,,Per the spec sheet，Wendy's sudden transformation seemed due to a<br>'special magic furnace' within her that activates only during sex.<br> 
+
+asyncseplay,setag3_2,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,1
+asynccharaface,chara_1,FaceNormal,STOP,1
+
+asynccharaface,chara_1,EyeOpen,STOP,6
+asynccharaface,chara_1,FaceNormal,STOP,6
+
+message,ウェンディ,My father，apparently anticipating I might fall in love，equipped my<br>body with 'feminine functions' and a 'special magic furnace.'<br> ,,vc_10250100013_002_01
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ウェンディ,By having these feminine functions，I can share my body with the one<br>I love...<br> ,,vc_10250100013_003_01
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+message,ウェンディ,Furthermore，according to my father，activating the special magic<br>furnace allows me to provide special pleasure for both me and my partner.<br> ,,vc_10250100013_004_01
+
+window,off
+wait,0.15
+
+asyncmove,SUBIMAGE,subimage_1,12,0,0,EaseInTarget,CONT
+
+subimagefade,subimage_1,0,1,0.5
+
+wait,1
+
+window,on,0.15
+message,,Wendy's father... a man of character who wishes for his daughter's<br>happiness? Or simply a dirty old man...<br> 
+
+message,,Either way，he brought back Wendy's bright smile when she was<br>scared and anxious，so I'm sure he's a good 'father'.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+asyncskipwait
+
+
+

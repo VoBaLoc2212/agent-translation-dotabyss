@@ -1,0 +1,62 @@
+{
+  "scene": "hmn_10360100002",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 92,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 93,
+  "translated_records": 93,
+  "changed_lines": 93,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1438,
+    "vi": 1438,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "180f05c5205e47c3409f02bae6e90fac8c24d847db154a47d7bab7ec1e788201",
+  "output_sha256": "cb5d1ac5630cb3e98170814c182fec9161931129b60961638470418e2074a617",
+  "qa_status": "PASS",
+  "summary": {
+    "scene": "hmn_10360100002",
+    "records_total": 93,
+    "records_translated": 93,
+    "by_command": {
+      "title": 1,
+      "message": 92,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "mode": "en-asset-is-english; ja.json identity map; title translated JP->VI Title Case",
+    "bom": "kept (UTF-8 BOM)",
+    "newline": "kept (CRLF)",
+    "line_count_en": 1438,
+    "line_count_vi": 1438,
+    "structural_checks": "all zero (delimiter/tech-field/tag/placeholder/ascii-comma/br)"
+  },
+  "linguistic_qa": {
+    "naming": "Reyzeria, Lime, Milesgard kept romanized; Đại Huyệt/Tiền Tuyến Căn Cứ/phó quan/Chỉ Huy/Quái Thú per project glossary",
+    "addressing": "Reyzeria (female leader): ta/ngươi; Lime (female adjutant): ta/em; Commander (<user>, male): anh/em",
+    "ascii_comma_handling": "all intra-field commas -> U+201A '‚'",
+    "sfx_localized": "*pant*->*Thở dốc*, *Sigh*->*Thở dài*, Gwooooooh!?->Gùùùù!?",
+    "kept_english_tokens": [
+      "Reyzeria",
+      "Lime",
+      "Milesgard",
+      "%user% (placeholder)"
+    ],
+    "h18": "none present in this scene"
+  },
+  "open_points": [],
+  "issues": []
+}

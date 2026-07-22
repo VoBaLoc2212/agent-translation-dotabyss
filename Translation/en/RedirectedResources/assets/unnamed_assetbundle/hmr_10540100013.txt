@@ -1,0 +1,117 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,105401000G,フレイヤ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0035,1
+
+asynccharaface,chara_1,FaceShy,STOP
+
+
+
+
+
+
+
+
+
+
+
+
+asyncseplay,setag3_1,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charashow,chara_1,0.3
+window,on,0.15
+message,フレイヤ,I'm not really sure，but I feel like I understand why Shokan can help<br>me get stronger now.<br> ,,vc_10540100013_001_01
+
+message,,Having finished dressing，Freya muttered that quietly.<br> 
+
+asyncseplay,setag3_2,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,フレイヤ,I think experiences like this sharpen my spirit and senses... and that's<br>a crucial part of swordsmanship.<br> ,,vc_10540100013_002_01
+
+message,<user>,I see. That makes sense.<br> 
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+asyncseplay,setag3_3,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,フレイヤ,I think I'll train at Shokan after all.<br> ,,vc_10540100013_003_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,,Freya's eyes were serious.<br> 
+
+message,<user>,It's not like I could stop you. I think you should do what you want.<br> 
+
+asyncseplay,setag3_4,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,フレイヤ,Thank you! I'll train hard and become a master who can make the<br>Commander cum with just the slightest touch!<br> ,,vc_10540100013_004_01
+
+message,<user>,With just the slightest touch，you can make me cum! Ahaha，that's<br>some incredible master technique! I'm looking forward to it.<br> 
+
+
+asynccharaface,chara_1,FaceHappy,STOP,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag3_5,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+wait,0.5
+
+
+
+
+message,フレイヤ,Yes，get ready!♪ I'm going to get super strong and come back!<br> ,,vc_10540100013_005_01
+
+
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

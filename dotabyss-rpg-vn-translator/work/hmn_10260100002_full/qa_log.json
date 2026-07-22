@@ -1,0 +1,46 @@
+{
+  "scene": "hmn_10260100002",
+  "character": "シルヴィア (Sylvia)",
+  "source_authority": "ja.json = JP primary; EN asset = structural authority (EN-asset-is-English case, en.json non-empty English)",
+  "output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10260100002.txt",
+  "candidate_counts": {
+    "title": 1,
+    "message": 70,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translated_records": 72,
+  "line_count": {
+    "en": 952,
+    "vi": 952,
+    "match": true
+  },
+  "bom": true,
+  "crlf": true,
+  "ascii_comma_replaced_with_U201A": true,
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "verifier": "dotabyss-rpg-vn-translator/work/verify_asset_translation.py --root E:/AgentTranslation hmn_10260100002",
+  "source_sha256": "b50fc164fd665011d2640a1ac8b1c27bcfd1ea3192ef68f1384f9eb12a995ec1",
+  "output_sha256": "a04cfd7f224f65f69ccd2877b827e7208f017b3617ac10c6c03f04456aabe0ab",
+  "notes": [
+    "Title 'Melting Ice'/'溶け出す氷' -> 'Băng Đang Tan Chảy' (Vietnamese Title Case).",
+    "messageTextCenter '――数時間後' -> '——Vài Giờ Sau' (Title Case, no ASCII comma).",
+    "Sylvia: haughty ojou-sama isekai noble; わたくし/ですわ voice -> polite-formal 'tôi', addresses Commander as 'anh'; softens by scene end.",
+    "Commander (<user>, 俺): male; addresses Sylvia as 'cô'; 大穴 -> 'Đại Huyệt'; 前線基地 -> 'Căn Cứ Tiền Tuyến'.",
+    "Name in narration/dialogue romanized 'Sylvia' (matches en.json/asset); speaker label field kept byte-identical (シルヴィア/モンスター).",
+    "Placeholders %user% and <user> preserved. SFX/interjections localized (きゃっ->Kyaa, ギギャァ->Ghhya, ぐすっ->Sụt sịt).",
+    "All in-text ASCII commas written as U+201A; <br> counts mirror EN asset exactly (0 tag mismatches)."
+  ],
+  "translatable_records": 72,
+  "changed_lines": 72,
+  "kept_text_lines": [],
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "qa_status": "PASS"
+}

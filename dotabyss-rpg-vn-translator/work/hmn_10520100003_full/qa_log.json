@@ -1,0 +1,16 @@
+{
+  "scene": "hmn_10520100003",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [
+    677
+  ],
+  "translatable_records": 119,
+  "translated_records": 118,
+  "changed_lines": 118,
+  "source_line_count": 2786,
+  "output_line_count": 2786,
+  "source_sha256": "1773071664f3944cf694aeb25bd65cf3cb2ba92f4410390ddb3b5c3e82e5c9d5",
+  "output_sha256": "f03370a450019c3b32277af6c0715f19596a9bfdcd246675230bb78c7d09f3bc",
+  "qa_status": "PASS"
+}

@@ -1,0 +1,74 @@
+{
+  "scene": "hmn_10480100003",
+  "source_type": "EN-asset-is-English (mixed JP-title / EN-message)",
+  "source_jp": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100003/ja.json",
+  "source_en_alignment": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100003/en.json",
+  "source_en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10480100003.txt",
+  "output_vi": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10480100003.txt",
+  "text_record_counts": {
+    "title": 1,
+    "message": 109,
+    "messageTextCenter": 1,
+    "messageTextUnder": 0,
+    "total": 111
+  },
+  "vi_records_translated": 111,
+  "build_method": "field-index seq-keyed VI_DICT with suffix mirror, embedded BR/comma preflight",
+  "notes": [
+    "EN-asset-is-English case: title still JP, message fields English. Translate title JP→VI Title Case, message EN→VI.",
+    "Celeste voice: self-references as em (casual female), calls Commander as anh (casual/friendly).",
+    "Commander voice: self-references as tôi/anh, addresses Celeste as em.",
+    "Guard Captain voice: formal to Commander (ngài/Chỉ Huy), scolding to Celeste.",
+    "強盗犯 (robber boss) voice: casual/rude, self as tao, addresses others as mày.",
+    "盗賊団下っ端 (underlings): casual speech.",
+    "警備隊長 translated as Đội trưởng Cảnh Vệ.",
+    "Celeste proper name kept as Celeste (romanized).",
+    "%user% placeholder preserved in message lines.",
+    "Commander/司令官 → Chỉ Huy throughout.",
+    "Frontline Base → Căn Cứ Tiền Tuyến throughout.",
+    "Abyss → Đại Huyệt throughout.",
+    "messageTextCenter card '—Later' → '—Mấy Hôm Sau' (Title Case).",
+    "Seq 68: '...' (EN translation of JP '!!!!') → '!!!!' to reflect JP intent.",
+    "All ASCII commas inside Vietnamese text replaced with U+201A ‚.",
+    "EN asset <br> counts preserved exactly (suffix mirror + internal BR insertion).",
+    "BOM + CRLF preserved from EN asset."
+  ],
+  "intentional_localizations": {
+    "Celeste": "EN proper name, kept as Celeste in VI dialogue (Japanese name セレスト romanized).",
+    "Informant A/情報屋A": "Speaker label kept as 情報屋A in field 1, dialogue references use 'Informant A' convention.",
+    "警備隊長": "Localized as Đội trưởng Cảnh Vệ.",
+    "*pant*": "Localized to *hổn hển* (Vietnamese SFX).",
+    "Gwaaah/Gyaaah/Guh": "Localized to Vietnamese-readable SFX.",
+    "Seq 68 '...'": "JP source had '!!!!' (shock/excitement), EN asset had '...' (milder). Used '!!!!' to match JP intent for Celeste's money reaction."
+  },
+  "independent_verify": {
+    "scene": "hmn_10480100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 109,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 111,
+    "translated_records": 111,
+    "changed_lines": 111,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2418,
+      "vi": 2418,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "9a92f7b1f9de7af42cb541714e9763556335a8fc220b9e0ff42cdac4579d0e73",
+    "output_sha256": "d4899fb9de5b01121b1958441ebf09226c6b8935eb0b07b58259b888efa87ccf"
+  },
+  "status": "PASS"
+}

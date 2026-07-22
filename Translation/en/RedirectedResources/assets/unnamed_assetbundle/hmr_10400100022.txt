@@ -1,0 +1,675 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10400100022
+
+charaload,chara_1,104001000X,ルカ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10400100022_001_01,1,on
+
+
+
+l2dmotion,ExEmotion00
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleBottomLeft
+
+window,on,0.15
+l2dmessage,ルカ,What! A sneak attack like this—<br> ,,vc_10400100022_001_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+
+message,,The man grabbed Luca by both arms and skillfully stripped off her<br>clothes. She was shocked by his flawless speed.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.2
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,7
+
+message,ルカ,This guy's no ordinary man... Not a single wasted movement... Ugh...<br>To think I'd be the one caught off guard...<br> ,,vc_10400100022_002_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+message,,'Your back was wide open，young lady.' The man flashed a derisive<br>smirk again.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+l2dmessage,ルカ,I wonder which one of us is full of openings...<br> ,,vc_10400100022_003_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,1
+
+l2dmotion,MouthEmotionReset
+
+message,,Luca tried to catch the man off guard and reverse their positions.<br>But...<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,3.5
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,ルカ,Huh! I-I can't move! W-why?!<br> ,,vc_10400100022_004_01
+
+l2dmotion,EyeEmotionBottom
+
+
+
+message,,The man locked Luca's arm joint，so she couldn't move. Any rash move<br>could break her arm.<br> 
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+bgvstop,bgvtag2_1,0.2,1
+message,,The situation was overwhelmingly against Luca.<br> 
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10400100022_002_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+
+
+
+l2dmessage,ルカ,Ngh... *pant*... Ngh... Ah! Ah!<br> ,,vc_10400100022_005_01
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+
+
+message,,The man's assault was merciless: he shoved his cock into the<br>immobilized Luca from behind and thrust vigorously.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3
+
+l2dmessage,ルカ,Mmph... Ngh... *whimper*! *pant*... Ngh... Ngh... Mmph!<br> ,,vc_10400100022_006_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.2
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+message,ルカ,(What the hell，this guy... Shoving it in without any foreplay... Not<br>even a hint of fair play...)<br> ,,vc_10400100022_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+
+message,,The man's cockhead rammed against her cervix repeatedly. Unable to<br>counter this merciless barrage，Luca could only writhe helplessly.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+
+l2dmessage,ルカ,Mmph... *pant*... Ngh... *pant* Aaah! Ah，Aah... *pant*... Mmph...<br>Ahaah!<br> ,,vc_10400100022_008_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,With each thrust，her juices were churned out with a *squelch*，and<br>that only lubricated him further，making him pump even harder.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10400100022_003_01,1,on
+
+
+
+
+l2dmessage,ルカ,Hagh! Aaah，Ngh... Guh! Mmph... Aah... *pant*... *whimper*!<br> ,,vc_10400100022_009_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceEmotion00,on,STOP,8
+
+message,ルカ,(Nghh... Getting completely dominated like this... Losing without being<br>able to fight back... I refuse to accept that...)<br> ,,vc_10400100022_010_01
+
+
+
+
+message,,Tears of frustration gathered in Luca's eyes as the man thrust<br>mercilessly; the slap of her buttocks echoed loudly.<br> 
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,2
+
+
+message,,'If it's making that much noise，it means you've got some flab on<br>you，' he whispered from behind，trying to break Luca's spirit.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+
+l2dmessage,ルカ,Ugh，shut up! It's my ass，so a little meat's only natural，right!<br> ,,vc_10400100022_011_01
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2
+
+
+message,,He dismissed it as lack of training and asked if she wasn't ashamed as<br>a martial artist，then pressed his advantage when she shot back.<br> 
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+message,ルカ,He's thrusting at my sore spot—literally and figuratively. Since<br>arriving at the Frontline Base，the food's so good I've eaten too much.<br> ,,vc_10400100022_012_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,He added that a little plumpness wasn't a bad thing，then slammed<br>into her harder，making the slaps echo even louder.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+l2dmessage,ルカ,Aah... n-no，no! I'm gonna cum，I'm gonna cum!<br> ,,vc_10400100022_013_01
+
+
+
+
+message,,He taunted her about being sensitive and asked if she was about to<br>cum. Sensing her climax was close，he gleefully pounded into her faster.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,FaceEmotion00,on,STOP,6
+
+l2dmessage,ルカ,Ngh... Aah... Aahn! I don't wanna cum... but I-I can't hold it...!<br> ,,vc_10400100022_014_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene04,on,STOP,2.5
+
+bgvplay,bgvtag2_4,bgv_10400100022_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+l2dmessage,ルカ,Aah...! I'm cumming! I'm gonna cummm...!<br> ,,vc_10400100022_015_01
+
+
+
+
+message,,Luca's back arched as she climaxed. Once he was sure she had cum，<br>he stopped his thrusts.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+
+
+message,,He savored the feel of her still-quivering walls，basking in the<br>afterglow of his victory.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,4
+
+l2dmessage,ルカ,*pant，pant*... Ngh... Mmm...<br> ,,vc_10400100022_016_01
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+message,ルカ,Ngh... this is humiliating... I can't even fight back—he just makes me<br>cum...<br> ,,vc_10400100022_017_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+message,,He taunted her，asking what was wrong and if she was ready to<br>surrender.<br> 
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+l2dmessage,ルカ,I-I'm still not done... it's not over yet...<br> ,,vc_10400100022_018_01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+message,,Though she was gasping for breath，the fire in Luca's eyes hadn't<br>died out.<br> 
+
+
+
+
+message,,He smirked and said he'd take his time enjoying her，a triumphant grin<br>on his face.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10400100022_005_01,1,on
+
+
+l2dmotion,EyeEmotionReset
+
+wait,0.3
+
+l2dmessage,ルカ,Mmph! Ah... Aaah!<br> ,,vc_10400100022_019_01
+
+
+
+
+message,,The man resumed his thrusting. His hot，throbbing cock launched a<br>relentless assault，parting her still-spasming pussy.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+
+l2dmessage,ルカ,Ah! I just came... Aaaah! I'm still sensitive! Mmm... wait，wait!<br> ,,vc_10400100022_020_01
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+
+
+message,,Perhaps because she had just climaxed，her oversensitive pussy sent<br>intense waves of pleasure through Luca's body.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+l2dmessage,ルカ,Mmph! Aah，Ah，Mmph! *pant*... Th-this... a-again... so soon...<br> ,,vc_10400100022_021_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+
+message,,Just then，Luca thought，'I'm going to cum again soon...'<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,After climaxing，her cunt clenched his meat rod，as if to squeeze out<br>his sperm.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+message,,The man，unable to resist the pleasant pressure that suddenly<br>assaulted him，let out a sigh.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,7
+
+
+asyncl2dmotion,MouthEmotion02,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7
+
+message,ルカ,Oh，huh? I can feel his thing so much more clearly now... Oh，that's it!<br>His thing and my cunt are locked together in a tight clinch!<br> ,,vc_10400100022_022_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+
+message,,In martial arts，this was like both parties locking arms and testing<br>strength—a stalemate.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+
+message,,By tensing her stomach，she could tightly grip his meat rod. In this<br>state，bringing him to climax would be easy.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+message,ルカ,I can do this! This time，I'll make him cum!<br> ,,vc_10400100022_023_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+
+message,,Light returned to Luca's eyes. As a fighting spirit kindled within her，<br>she felt her love juice gushing from deep in her womb.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ルカ,*pant*，Ngh! *pant*，Mmph! So，how is it...? It feels good，doesn't<br>it...?<br> ,,vc_10400100022_024_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+
+message,,Sensing the man's breathing had distinctly changed，Luca taunted<br>back.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3
+
+l2dmessage,ルカ,Mmph!... *pant*... If you want to cum，you can let it out anytime，you<br>know...<br> ,,vc_10400100022_025_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,0.8
+
+bgvplay,bgvtag2_6,bgv_10400100022_006_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ルカ,Aaaaah! Aaaaah! Mmph，Aaaah!<br> ,,vc_10400100022_026_01
+
+l2dmotion,EyeOpen01
+
+
+
+message,,The man's hips grew frantic，driven by rising ejaculation. His meat<br>rod，unleashed by his trained body，slammed into Luca's womb entrance.<br> 
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+l2dmessage,ルカ,Mmph!... Ah!... Ha!... So intense!... Aah!... Ah!... Aaaah!...<br>Ngh!... *pant*... No!... W-wait... Aah!<br> ,,vc_10400100022_027_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+
+message,,Attacking in this position was a double-edged sword for both Luca<br>and the man—whoever moved risked destruction.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ルカ,Mmph，Aaaah!... Mmph!... *pant*... Ngh!... Ah，Ah，Aaaah!... I... I<br>can't!... Ha!... It's too... intense!<br> ,,vc_10400100022_028_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.5
+
+
+message,,Even so，Luca desperately tightened her abs，clenching his meat rod.<br>The hot，wet folds of her cunt writhed，and the man sighed in ecstasy.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ルカ,Aaaah!... Mmph!... Ngh!... *pant*... Ngh!...<br>*pant*... Mmph!... Ngh!... Aah!... Aah... *pant*!<br> ,,vc_10400100022_029_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+
+message,,Her cunt walls trembled，spilling white frothy drops from their join.<br>Dripping love juice stained the private room's floor.<br> 
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ルカ,Aaah! N-no! Not again! I...<br>I'm gonna cum! I'm gonna lose it!<br> ,,vc_10400100022_030_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,2
+
+bgvplay,bgvtag2_7,bgv_10400100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+
+wait,0.5
+
+l2dmessage,ルカ,Ah，ah，ah，ah，Aaaaah...!<br> ,,vc_10400100022_031_01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,2.5
+
+
+message,,As the final，full-bodied thrust drove into her depths，Luca's back<br>arched in climax. A scorching torrent of cum poured deep into her.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+l2dmessage,ルカ,*pant*... *pant*... *whimper*，Mmph... Mmph... *whimper*... *pant*...<br> ,,vc_10400100022_032_01
+
+
+
+
+message,,Her inner walls clenched relentlessly，greedily milking his cum with<br>rhythmic waves. Luca shuddered，feeling the hot cum deep inside.<br> 
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+l2dmessage,ルカ,I-I was made to cum，but...<br>t-this，no matter how you look at it... it's my complete defeat...<br> ,,vc_10400100022_033_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2.5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2.5
+
+message,,Semen overflowed from their joined bodies，ran down her thigh，and<br>stained the floor white. Staring，she tasted bitter defeat.<br> 
+
+
+
+
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

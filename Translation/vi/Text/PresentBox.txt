@@ -1,0 +1,51 @@
+GAMESミッションの不具合に対する補填です。=Đền bù cho lỗi Nhiệm vụ GAMES.
+sr:"^([0-9/]+)( )?([A-Za-z ]*)人気ランキング等? ?W?(\d位)受賞のお礼です$"=[$1]$2Phần thưởng đạt Hạng $4 trong BXH độ yêu thích $3
+r:"^([0-9/]+)( )?アカウント連携のご案内不備のお詫びです$"=[$1]$2Xin lỗi vì lỗi thông báo liên kết tài khoản.
+r:"^([0-9/]+)( )?運営からのお詫び（不具合、誤解、エラー発生等のため）$"=[$1]$2Quà xin lỗi từ Ban vận hành (do lỗi, hiểu nhầm, phát sinh lỗi, v.v.)
+
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼＆諸々不具合のお詫びです$"=[$1]$2Bảo trì và xin lỗi vì các lỗi phát sinh
+
+r:"^([0-9/]+)( )?緊急メンテナンス実施のお詫びです$"=[$1]$2Xin lỗi vì bảo trì khẩn cấp.
+
+
+
+事前登録報酬です=Phần thưởng đăng ký trước
+チュートリアル完了報酬です。=Phần thưởng hoàn thành hướng dẫn.
+はせPからのリリース記念のお礼です=Quà mừng ra mắt từ HaseP
+r:"^はせPからの([0-9/]+)レター発表のお詫びとお礼です$"=Quà xin lỗi và cảm ơn từ HaseP về Thư ngày $1
+sr:"^はせPからのお礼&([0-9/]+) FANZA GAMES人気ランキング(\d位)受賞のお礼$"=Quà cảm ơn từ HaseP & thưởng đạt Hạng $2 trong BXH độ yêu thích FANZA GAMES ngày $1
+r:"^([0-9/]+)( )?接続障害のお詫びです$"=[$1]$2Xin lỗi vì sự cố kết nối
+
+
+
+
+r:"^([0-9/]+)( )?ショートメンテナンスご協力のお礼＆延長のお詫びです$"=[$1]$2Cảm ơn đã hợp tác bảo trì ngắn và xin lỗi vì kéo dài
+r:"^([0-9/]+)( )?緊急メンテナンス＆不具合等のお詫びです$"=[$1]$2Xin lỗi vì bảo trì khẩn cấp và các lỗi phát sinh
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼と延長のお詫びです$"=[$1]$2Cảm ơn đã hợp tác bảo trì và xin lỗi vì kéo dài
+ラッキーボックスイベントで表示される説明画像の不備のお詫び=Xin lỗi vì lỗi ảnh hướng dẫn hiển thị trong sự kiện Hộp May Mắn
+r:"^厄災Lv(\d+)到達のミッションの不具合に関する補てんです$"=Đền bù cho lỗi nhiệm vụ đạt Tai Ương Lv.$1
+r:"^([0-9/]+)( )?チームくまさんブランドタイトル人気ランキング同時受賞のお礼です$"=[$1]$2Cảm ơn vì đồng thời đạt hạng trong BXH độ yêu thích các tựa game Team Kumasan Brand
+r:"^([0-9/]+)( )?GooglePlay版メンテナンス延長のお詫び$"=[$1]$2Xin lỗi vì bảo trì bản Google Play kéo dài
+
+r:"^([0-9/]+)( )?臨時メンテナンスご協力のお礼および不具合のお詫び$"=[$1]$2Cảm ơn đã hợp tác bảo trì khẩn cấp và xin lỗi vì lỗi phát sinh
+ラッキーボックスイベントのスキップ不具合の補てんです=Đền bù cho lỗi bỏ qua trong sự kiện Hộp May Mắn.
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼です$"=[$1]$2Cảm ơn đã hợp tác bảo trì
+r:"^([0-9/]+)( )?臨時メンテナンスご協力のお礼とお詫びです$"=[$1]$2Cảm ơn đã hợp tác bảo trì khẩn cấp và xin lỗi
+r:"^([0-9/]+)( )?度重なる不具合発生のお詫び$"=[$1]$2Xin lỗi vì lỗi liên tiếp phát sinh
+公認Discord事前登録連動キャンペーン追加報酬です=Phần thưởng bổ sung chiến dịch liên kết đăng ký trước Discord chính thức
+ルシータピックアップガチャ開催のお知らせの訂正のお詫びです=Xin lỗi vì chỉnh sửa thông báo Gacha Pick-up Lucita
+r:"^([0-9/]+)( )?([A-Za-z ]*)人気ランキング入賞のお礼です$"=[$1]$2Phần thưởng đạt hạng trong BXH độ yêu thích $3
+r:"^([0-9/]+)( )? FANZA GAMES人気ランキング 入賞のお礼です$"=[$1]$2 Phần thưởng đạt hạng trong BXH độ yêu thích FANZA GAMES
+異世界で喜ばれるプレゼント=Món quà được ưa chuộng ở dị giới
+探索隊などで発生した不具合のお詫び=Xin lỗi vì lỗi ảnh hưởng Đội thám hiểm và các tính năng khác
+r:"^はせPからの([0-9/]+)レターのお詫びとお礼です$"=Quà xin lỗi và cảm ơn từ HaseP về Thư ngày $1
+r:"^([0-9/]+)( )?ホーム画面の不具合のお詫びです$"=[$1]$2Xin lỗi vì lỗi màn hình chính
+r:"^([0-9/]+)( )?ユニーク装備のバランス調整のお詫びです$"=[$1]$2Xin lỗi vì điều chỉnh cân bằng trang bị Độc Nhất
+初心者ミッションの不具合修正のお詫びです。=Xin lỗi vì sửa lỗi Nhiệm vụ Tân thủ.
+シラエスのアビリティ一部挙動不具合の修正のお詫び=Xin lỗi vì sửa lỗi một phần hành vi Năng lực của Shiraes
+GooglePlay版メンテナンス延長のお詫びです。=Xin lỗi vì bảo trì bản Google Play kéo dài.
+r:"^([0-9/]+)( )?不具合およびキャラクター調整のお詫び$"=[$1]$2Xin lỗi vì lỗi và điều chỉnh nhân vật
+r:"^([0-9/]+)( )?メンテナンスご協力のお礼と延長のお詫び$"=[$1]$2Cảm ơn đã hợp tác bảo trì và xin lỗi vì kéo dài
+ドットアビスリリース記念！RPキャンペーン達成のお礼です=Mừng Dot Abyss ra mắt! Cảm ơn đã hoàn thành chiến dịch RP
+r:"^([0-9/]+)( )?メンテナンスお知らせ遅延のお詫び$"=[$1]$2Xin lỗi vì thông báo bảo trì bị chậm
+r:"^([0-9/]+)( )?Google Play版アプリ更新遅延のお詫び$"=[$1]$2Xin lỗi vì cập nhật ứng dụng bản Google Play bị chậm

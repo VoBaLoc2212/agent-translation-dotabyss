@@ -1,0 +1,97 @@
+﻿adultui,off
+
+bg,abg11000a
+
+charaload,chara_1,100401000G,シャオレイ
+
+wait,1
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+charashow,chara_1,0.3
+
+
+asyncseplay,setag3_1,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+window,on,0.15
+message,シャオレイ,Teacher，are you here?<br> ,,vc_10040100023_001_01
+
+message,<user>,Oh，you're here，Xiaolei. I heard you got that merchant to give us a<br>discount.<br> 
+
+message,<user>,Thanks to you，we got the wall repairs and the Frontline Base repairs<br>done for free.<br> 
+
+asyncseplay,setag3_2,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Huh? For free? As in，they're not charging us?<br> ,,vc_10040100023_002_01
+
+message,<user>,Yeah. I didn't ask for details，but he said you treated him well. He<br>looked strangely satisfied. What exactly did you do?<br> 
+
+
+asyncseplay,setag3_3,se4800021,0,1,CONT
+
+asynccharaemo,chara_1,Imagination,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,...<br> ,,vc_10040100023_003_01
+
+message,<user>,Hmm? What's wrong? Why are you so quiet?<br> 
+
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,シャオレイ,Xiaolei's place... he said it felt good.<br> ,,vc_10040100023_004_01
+
+message,<user>,...Huh?<br> 
+
+
+window,off
+wait,0.15
+
+crossfadeready
+
+
+blur,on,BACK,0
+
+charascale,chara_1,1.5,0
+
+scale,BACK,,0,1.5,1.5,LinearTarget
+
+
+
+crossfade,1,0,0,1,1
+wait,1
+
+
+asyncseplay,setag3_5,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,FaceUnique02
+window,on,0.15
+message,シャオレイ,Teacher，want to test too? Xiaolei can definitely make you feel better<br>than before.<br> ,,vc_10040100023_005_01
+
+message,,She looked at him with seductive eyes，and %user% found his heart<br>racing...<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+

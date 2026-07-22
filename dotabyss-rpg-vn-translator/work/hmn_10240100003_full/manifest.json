@@ -1,0 +1,60 @@
+{
+  "scene": "hmn_10240100003",
+  "language": "vi",
+  "source_condition": "EN-asset-is-English",
+  "inputs": {
+    "ja_json": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10240100003/ja.json",
+    "en_json": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10240100003/en.json",
+    "en_asset": "AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100003.txt"
+  },
+  "output": "AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100003.txt",
+  "encoding": {
+    "bom": "utf-8-sig",
+    "newline": "CRLF",
+    "delimiter": "comma",
+    "comma_in_text_escape": "U+201A"
+  },
+  "line_count": 2087,
+  "text_records": {
+    "title": 1,
+    "message": 94,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 95
+  },
+  "translated_records": 95,
+  "generator_script": "dotabyss-rpg-vn-translator/work/hmn_10240100003_full/build.py",
+  "verifier_command": "python dotabyss-rpg-vn-translator/work/verify_asset_translation.py --root E:/AgentTranslation hmn_10240100003",
+  "independent_verify": {
+    "scene": "hmn_10240100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 94,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 95,
+    "translated_records": 95,
+    "changed_lines": 95,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2087,
+      "vi": 2087,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "159ab61d3effd90e33b15c9b631d5d9ab67467fe8d9419305cc5556e6c28cdf9",
+    "output_sha256": "c665b1084311deb6b0c57042d2b2e537047d7de534b4ab5a3526895a5e622cb8"
+  },
+  "source_sha256": "159ab61d3effd90e33b15c9b631d5d9ab67467fe8d9419305cc5556e6c28cdf9",
+  "output_sha256": "c665b1084311deb6b0c57042d2b2e537047d7de534b4ab5a3526895a5e622cb8",
+  "status": "PASS"
+}

@@ -1,0 +1,79 @@
+{
+  "scene": "hmn_10400100003",
+  "source_mode": "EN-asset-is-English",
+  "jp_primary": "ja.json (identity map here)",
+  "en_authority": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10400100003.txt",
+  "vi_output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10400100003.txt",
+  "work_dir": "dotabyss-rpg-vn-translator/work/hmn_10400100003_full",
+  "total_lines": 2184,
+  "bom": true,
+  "newline": "CRLF",
+  "candidate_counts": {
+    "title": 1,
+    "message": 102,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 104,
+  "translated_records": 104,
+  "speaker_labels": [
+    "",
+    "ルカ",
+    "モンスター",
+    "<user>",
+    "アリシア"
+  ],
+  "addressing": {
+    "Commander": "Chỉ Huy (incl. childish しれーかん -> Chỉ Huy)",
+    "Luca": "em/anh to Commander (ルカ=em), Commander=anh; Luca self-named ルカ kept in dialogue romanized as Luca",
+    "Alicia": "アリシア kept as JP speaker label; in-dialogue 敬称 'Ms. Alicia' -> 'Alicia-san' (consistent with shipped VI)",
+    "Monster": "モンスター kept; SFX localized to Vietnamese onomatopoeia"
+  },
+  "intentional_corrections": [
+    "EN asset typo 'Commaander' repaired to 'Chỉ Huy' across all 102 message lines (matches JP 司令官; intentional per skill rule 12/repair rule)."
+  ],
+  "intentional_localizations": [
+    "Monster SFX EN ('Grrrooo...','Gwoooh!','GWOOOOON!','WOOOOOOH!','UHN!','Gwaaaaaah!') localized to Vietnamese onomatopoeia (Gùuu..., Gùuoooo, GUUUUUÔN, ÔÔÔÔÔÔ, ƯN, Gùaaaaaah) to clear UNCHANGED_TEXT_RECORDS.",
+    "Commander interjection 'Gah!' -> 'Gớ!' localized to clear UNCHANGED_TEXT_RECORDS.",
+    "Luca tickle verb 'tickle' -> 'nhễu' (localized SFX-verb, clear of kept-EN).",
+    "Calamity term 'Tai Họa' = 厄災.",
+    "Frontline Base = 'Căn Cứ Tiền Tuyến'.",
+    "World's Greatest Martial Artist = 'Võ Sư Vĩ Đại Nhất Thế Giới' (Title Case convention reused each occurrence)."
+  ],
+  "notes": "No H18 content in this scene (comedy/training/battle event). All characters confirmed 18+ per project rule. ASCII commas inside VI text fields replaced with U+201A ‚. All 104 text records translated; independent_verify PASS.",
+  "qa_artifacts": [
+    "dotabyss-rpg-vn-translator/work/hmn_10400100003_full/manifest.json",
+    "dotabyss-rpg-vn-translator/work/hmn_10400100003_full/focused_diff.md",
+    "dotabyss-rpg-vn-translator/work/hmn_10400100003_full/qa_log.json"
+  ],
+  "independent_verify": {
+    "scene": "hmn_10400100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 102,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 104,
+    "translated_records": 104,
+    "changed_lines": 104,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2184,
+      "vi": 2184,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "e240ec057eedc1c81059e180703bed2cde694970fb74de56e2a35a77ed9bcf5c",
+    "output_sha256": "81ad8136b94a4379b54619fe626f4484eca306cbeeabe1743ddda038edbeaab6"
+  },
+  "status": "PASS"
+}

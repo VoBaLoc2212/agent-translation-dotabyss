@@ -1,0 +1,688 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10390100012
+
+charaload,chara_1,103901000G,マーガレット
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10390100012_001_01,1,on
+
+
+
+
+l2dmotion,ExEmotion00
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+window,on,0.15
+l2dmessage,マーガレット,Eh? C-Commander?<br>U-um... what is this...?<br> ,,vc_10390100012_001_01
+
+message,,—It's a way to quickly solve Margaret's worries.<br>I answered.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+l2dmessage,マーガレット,B-but... in a place like this!?<br>This is a sacred place for confessing before God...<br> ,,vc_10390100012_002_01
+
+message,,—What's important is laying everything bare honestly before God.<br>I explained.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,マーガレット,Everything... honestly... before God...?<br> ,,vc_10390100012_003_01
+
+l2dmotion,FaceAngleReset
+
+message,,—You want to become one with me right now，don't you?<br>I asked. Before God，she had to answer truthfully.<br> 
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.6
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+l2dmessage,マーガレット,Y-yes. I cannot lie before God. Lewd as it may be，I want to... engage<br>in lewd acts with you，Commander...<br> ,,vc_10390100012_004_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,マーガレット,I want to become one with you，Commander... I cannot suppress this<br>desire any longer...<br> ,,vc_10390100012_005_01
+
+message,,—God，I too cannot suppress my excitement，and I desire to engage in<br>lewd acts with this cleric. Forgive my sin...<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionRight
+
+message,,I too confessed my honest feelings before God，believing that as long<br>as I was honest before God，all would be forgiven—<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10390100012_002_01,1,on
+
+wait,1
+
+l2dmessage,マーガレット,*gasp*...!<br>Ah，ah...<br> ,,vc_10390100012_006_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion02,on,STOP,3
+
+l2dmessage,マーガレット,Mmph!... *pant*... Ngh!... Ah!...<br>*pant*... i-it feels good!♡<br> ,,vc_10390100012_007_01
+
+l2dmotion,EyeOpen01
+
+message,,I kneaded her breasts and rubbed my cock against her.<br>Her unsullied skin was so smooth—I never tired of touching it.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+l2dmessage,マーガレット,Ah... Ngh... *pant*... s-somehow... a strange feeling...<br>My head feels so floaty...<br> ,,vc_10390100012_008_01
+
+message,,Margaret's entrance was slick with moisture，wetting my cock. Even<br>as a cleric，her body's reactions were no different from any woman's.<br> 
+
+l2dmotion,EyeOpen01
+
+message,,—You're really wet. The body is honest after all.<br>I told her.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,マーガレット,Ah... I can't help making strange sounds...<br>So this is what happens when it feels good...<br> ,,vc_10390100012_009_01
+
+message,,—Just as you're honest before God，I'm glad you react honestly<br>before me. My body was reacting honestly too.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,マーガレット,*pant*... Commander's thing...<br>It's hot and hard... i-it feels good...<br> ,,vc_10390100012_010_01
+
+message,,Margaret laid everything bare before God.<br>It was proof of her piety before God.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+l2dmessage,マーガレット,*pant*... When you touch me，Commander... my body becomes so hot...<br>But... I am so happy...<br> ,,vc_10390100012_011_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10390100012_003_01,1,on
+
+wait,1.1
+
+l2dmessage,マーガレット,*pant* Mmph! Aaaah!<br> ,,vc_10390100012_012_01
+
+message,,Love juice spilled from her womanhood，easing the friction as I slid<br>between her thighs. With each wet *squelch*，I quickened my pace.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3
+
+asyncl2dmotion,MouthEmotion03,on,STOP,3
+
+l2dmessage,マーガレット,Mmph... *pant*... Oh no... I... my core...<br>It's so wet...!<br> ,,vc_10390100012_013_01
+
+l2dmotion,EyeOpenReset
+
+message,,Love juice dripped from her womanhood，overflowing，trickling down<br>the inside of her thighs and soaking the floor.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotion04
+
+message,マーガレット,(I want to become one with the Commander... I want to feel even more<br>pleasure... I cannot hold back these shameful desires...)<br> ,,vc_10390100012_014_01
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,マーガレット,Am I... strange?<br>Being so wet...<br> ,,vc_10390100012_015_01
+
+message,,—That's just your body's honest reaction to feeling good.<br>I answered.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+message,マーガレット,(I see... so this is normal. Just thinking about such intimate acts with<br>the Commander makes something warm well up inside me...)<br> ,,vc_10390100012_016_01
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8.5
+
+l2dmessage,マーガレット,My heart feels so warm... Is this what they call love?<br>Is this why people yearn for the ones they love?<br> ,,vc_10390100012_017_01
+
+
+message,,—That's not it. Not everyone is like that. Some seek selfish pleasure.<br>I tell her desire for the opposite sex isn't only about 'true love.'<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeEmotionBottom
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,マーガレット,Y-yes，that is true. Among those who come to me for counsel，there<br>are those who have been hurt by sex driven by lust...<br> ,,vc_10390100012_018_01
+
+message,,Margaret's voice grew sad. For her，it must have been painful not<br>being able to truly comfort the hearts of those wounded people.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,MouthEmotion02,on,STOP,4
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+l2dmessage,マーガレット,But what I do with you，Commander，feels so full of love.<br>Surely this must be true love...<br> ,,vc_10390100012_019_01
+
+message,,Her heart is pure. But whether my own heart in doing this with her is<br>as pure as she thinks—I have my doubts.<br> 
+
+message,,—Is that so? Maybe I'm just turned on and lustful.<br>Yes，I answer honestly. I'm at my limit，barely holding back my reason.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10390100012_004_01,1,on
+
+wait,1
+
+l2dmessage,マーガレット,*whimper*... Aaaaah!<br> ,,vc_10390100012_020_01
+
+message,,I slide my cock into her pure，secret opening，pushing past her walls<br>and burying myself deep inside her.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,マーガレット,Ngh... Mmph... Hn... *pant*...<br>Mmph... *pant*... *pant*... *whimper*...<br> ,,vc_10390100012_021_01
+
+message,,As if enduring the pain of defloration，Margaret furrows her brow<br>and trembles slightly.<br> 
+
+l2dmotion,FaceAngleReset
+
+message,,I gently asked her，'Are you all right? If it hurts too much，we don't<br>have to go all the way today...'<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5
+
+l2dmessage,マーガレット,I-I'm... all right. It hurt at first，but... now，somehow，I only feel the<br>Commander's warmth...<br> ,,vc_10390100012_022_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,MouthEmotion02,on,STOP,3
+
+l2dmessage,マーガレット,*pant*... deep inside... ah，it's so warm... and it feels wonderful...<br> ,,vc_10390100012_023_01
+
+message,,We are before God. This too must be her honest impression.<br> 
+
+message,,'Your inside is warm and slippery too，and it feels amazing. I'll share<br>my honest impression too.'<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+l2dmessage,マーガレット,Eh! Wh-when you put it that bluntly... that's really embarrassing...<br> ,,vc_10390100012_024_01
+
+message,,She blushed as she said that，and looked very cute. I softly<br>announced，'I'm going to move，' and put strength into my hips.<br> 
+
+l2dmotion,FaceAngleReset
+
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10390100012_005_01,1,on
+
+l2dmessage,マーガレット,Mmph! Ah... Ahaah!<br> ,,vc_10390100012_025_01
+
+message,,I slowly moved my hips，parting her narrow，sacred walls. Her wet<br>flesh clung to my shaft，and it felt incredible.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen02
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,マーガレット,Mmph... Ah... *pant* aah... Ngh... *pant* aaah! Ah，aah... mmph...<br>mmph... *pant*...<br> ,,vc_10390100012_026_01
+
+message,,In the quiet church，the sound of flesh slapping against flesh and<br>Margaret's sweet moans echoed.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion00
+
+message,マーガレット,(W-what is this...? I-it feels far too good...! Is it truly permissible to<br>display such a shameless state before God...?)<br> ,,vc_10390100012_027_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,マーガレット,Mmph... *pant*... Ah... Mmph... *sigh*... mm... mm... Ah... Aah...<br> ,,vc_10390100012_028_01
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5
+
+message,マーガレット,(Th-this feels so good... I can't think clearly... B-but this must be true<br>love... if so，then surely God...)<br> ,,vc_10390100012_029_01
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,マーガレット,*pant*... T-this feels so good... N-no，I mustn't，I mustn't! M-my mind<br>feels like it's about to go mad...!<br> ,,vc_10390100012_030_01
+
+message,,The pleasure felt just as good for me. Overwhelmed by the sensations<br>from my shaft，I thrust my hips without restraint.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10390100012_006_01,1,on
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+l2dmessage,マーガレット,Ah，ah，aah... Mmph... aah! N-no... C-Commander... it's too rough...!<br>Mmph... *pant*!<br> ,,vc_10390100012_031_01
+
+message,,As my hip movements accelerated，her moans grew more intense.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+l2dmessage,マーガレット,Mmph... *pant*... Ah... Mmph... I-it feels good... Ah... Ah... Aah... No...<br>Aaah，*pant*!<br> ,,vc_10390100012_032_01
+
+l2dmotion,FaceAngleTopLeft
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionTop
+
+l2dmessage,マーガレット,Ah，aah... Mmph... ah，aah! O God... please forgive me!<br> ,,vc_10390100012_033_01
+
+message,,Margaret，in the throes of passion，began to confess before God.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen02
+
+l2dmessage,マーガレット,I-I am utterly immersed in desire with this man，continuing these lewd<br>acts!<br> ,,vc_10390100012_034_01
+
+message,,I too no longer cared about love or God. I just kept frantically<br>thrusting my hips toward the peak of pleasure.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,マーガレット,Ah! N-no! My mind's going blank...! Ah，I-I can't... I'm losing myself!<br> ,,vc_10390100012_035_01
+
+message,,Her pussy walls writhed，coiling around my cock as if to swallow it. A<br>sign that her climax was near.<br> 
+
+l2dmotion,EyeOpenReset
+
+message,,My own limit was also approaching. I felt the searing heat gathering<br>at the tip of my cock.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+l2dmessage,マーガレット,Ah... aah... I... I can't...! It's coming... something in my head...!<br> ,,vc_10390100012_036_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10390100012_007_01,1,on
+
+wait,1
+
+l2dmessage,マーガレット,Aahn，aahn... Aaaaah...!<br> ,,vc_10390100012_037_01
+
+message,,The moment her entire pussy spasmed even more intensely，the head<br>of my cock burst，and my seed poured into her sacred spring.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,8
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+l2dmessage,マーガレット,*pant*... *pant*... It's warm inside me... Th-this is the Commander's<br>seed... The source of life...?<br> ,,vc_10390100012_038_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,8
+
+asyncl2dmotion,MouthEmotion02,on,STOP,8
+
+l2dmessage,マーガレット,Ah... Is this what it means to have attained enlightenment...? I feel<br>somehow truly blissful...<br> ,,vc_10390100012_039_01
+
+window,off
+bgmstop,bgmtag2_1,1
+fade,Out,Black,1
+
+bgvstop,bgvtag2_7,1.5,1
+
+l2dhide
+
+bg,abg18200a
+
+wait,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,,With those words，Margaret fainted and collapsed limply to the floor.<br> 
+
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+
+
+
+
+

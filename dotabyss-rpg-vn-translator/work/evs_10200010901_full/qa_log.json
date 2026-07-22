@@ -1,0 +1,50 @@
+{
+  "scene": "evs_10200010901",
+  "timestamp": "2026-07-19T15:57:14+07:00",
+  "qa_status": "FAIL",
+  "blockers": [
+    {
+      "file": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200010901/ja.json",
+      "line_or_id": null,
+      "type": "MISSING_SOURCE",
+      "severity": "blocker",
+      "source": "filesystem discovery",
+      "current_translation": null,
+      "suggestion": "Provide the missing evs_10200010901 novel JP JSON source or correct the scene id.",
+      "status": "open"
+    },
+    {
+      "file": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200010901/en.json",
+      "line_or_id": null,
+      "type": "MISSING_SOURCE",
+      "severity": "blocker",
+      "source": "filesystem discovery",
+      "current_translation": null,
+      "suggestion": "Provide the missing evs_10200010901 novel EN JSON source or correct the scene id.",
+      "status": "open"
+    },
+    {
+      "file": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/evs_10200010901.txt",
+      "line_or_id": null,
+      "type": "MISSING_SOURCE",
+      "severity": "blocker",
+      "source": "filesystem discovery",
+      "current_translation": null,
+      "suggestion": "Provide the missing EN asset file or correct the scene id.",
+      "status": "open"
+    }
+  ],
+  "items": [],
+  "unchanged_english_records": [],
+  "structural_checks": {
+    "line_count_match": null,
+    "delimiter_counts_match": null,
+    "technical_fields_unchanged": null,
+    "tags_placeholders_preserved": null,
+    "ascii_commas_in_vi_text_fields": null
+  },
+  "h18_check": {
+    "applicable": null,
+    "note": "Cannot inspect content because all requested source files are missing."
+  }
+}

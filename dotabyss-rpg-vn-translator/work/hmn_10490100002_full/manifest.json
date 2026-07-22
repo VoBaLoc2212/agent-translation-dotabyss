@@ -1,0 +1,69 @@
+{
+  "scene": "hmn_10490100002",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10490100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 76,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 77,
+    "translated_records": 77,
+    "changed_lines": 77,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 790,
+      "vi": 790,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f2c474247d78e88874493ce8e3e2bc55899ec7e470ef0666a7f6fa5a5ba3de97",
+    "output_sha256": "9bb17a0074bb1d2b78ff5670b5dba0a93e731dcb31295a7b5a7cf96fe0406045"
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 76,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 77,
+  "translated_records": 77,
+  "changed_lines": 77,
+  "kept_text_lines": [],
+  "source_sha256": "f2c474247d78e88874493ce8e3e2bc55899ec7e470ef0666a7f6fa5a5ba3de97",
+  "output_sha256": "9bb17a0074bb1d2b78ff5670b5dba0a93e731dcb31295a7b5a7cf96fe0406045",
+  "en_source": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10490100002.txt",
+  "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10490100002.txt",
+  "build_script": "work/hmn_10490100002_full/01-build_vi.py",
+  "verifier": "work/verify_asset_translation.py",
+  "generated": "2026-07-21",
+  "notes": "EN-asset-is-English case with JP title. Chloe/クロエ knight-fangirl date scene with Alicia (アリシア). Commander → Chỉ Huy. Chloe voice: shy em/anh to Commander + fangirl enthusiasm. Alicia voice: formal bossy tôi. 'knightvities' kept as loanword (made-up fandom jargon explained in-dialogue; JP 騎士活). Fullwidth ，(U+FF0C) inside text fields, ASCII comma (,) only as field delimiter. BR counts match EN asset (authoritative). No H18 content (wholesome date/fandom banter).",
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "クロエ/Chloe": "Chloe (kept)",
+    "アリシア/Alicia": "Alicia (kept)",
+    "騎士活/knightvities": "knightvities (kept as loanword)",
+    "Eliza/イライザ": "Eliza (kept)",
+    "Milesgard/ミレスガルド": "Milesgard (kept)",
+    "Perdion/ペルディオン": "Perdion (kept)",
+    "Sophia/ソフィア": "Sophia (kept)",
+    "single-oshi": "single-oshi (kept as loanword)",
+    "box-oshi": "box-oshi (kept as loanword)"
+  },
+  "addressing": {
+    "Chloe→Commander": "em/anh (shy → respectful)",
+    "Commander→Chloe": "anh/em (casual older-sibling)",
+    "Alicia→Commander": "tôi (formal)",
+    "Commander→Alicia": "tôi (casual comrade)"
+  }
+}

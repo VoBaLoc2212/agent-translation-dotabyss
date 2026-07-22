@@ -1,0 +1,105 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,102601000X,シルヴィア
+
+charaface,chara_1,FaceSurprise
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+
+
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+window,on,0.15
+message,シルヴィア,Ah，um... are you truly going to take those tights home...?<br> ,,vc_10260100023_001_01
+
+asyncskipwait
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag3_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP,8.5
+message,シルヴィア,Well，since you，honored customer，brought them yourself，I do not<br>mind... b-but could you at least wait until I wash them...?<br> ,,vc_10260100023_002_01
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag3_3,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP
+message,シルヴィア,Ah... you do not want me to? I see...<br> ,,vc_10260100023_003_01
+
+charaface,chara_1,FaceShy
+
+seplay,setag3_4,se4300003,0,1
+message,,Seen off by an embarrassed Sylvia，the customer left the brothel with<br>a beaming，satisfied expression.<br> 
+
+window,off
+wait,0.15
+
+wait,0.5
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag3_5,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharareaction,chara_1,Shake,1,CONT
+window,on,0.15
+message,シルヴィア,To think that gentleman actually took them home...<br> ,,vc_10260100023_004_01
+
+asyncskipwait
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag3_6,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,0
+message,シルヴィア,He complimented it as 'an unrepeatable work of art，' but... I suppose<br>art is defined differently here than in my world.<br> ,,vc_10260100023_005_01
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,シルヴィア,Nevertheless... a 'thighjob，' is it? I had no idea such a technique<br>existed.<br> ,,vc_10260100023_006_01
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_7,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,シルヴィア,As I thought，this game... it is quite deep.<br> ,,vc_10260100023_007_01
+
+
+message,,Sylvia，alone，found herself impressed by this bizarre detail.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

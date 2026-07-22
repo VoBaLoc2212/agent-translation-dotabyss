@@ -1,0 +1,107 @@
+﻿adultui,off
+
+bg,abg12000b,off
+
+charaload,chara_1,105801000X,クレハ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0031,1
+
+
+
+
+
+
+
+
+
+
+
+
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,<user>,Ah—— Kureha!<br> 
+
+asyncseplay,setag3_1,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,クレハ,Darling...?<br>Were you waiting for my shift to end?<br> ,,vc_10580100023_001_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+message,<user>,Well，you were working hard for my sake.<br>How was your first day?<br> 
+
+asyncseplay,setag3_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,クレハ,Well... there was one rather forceful customer，<br>but I think it was fortunate it happened to be me who handled him.<br> ,,vc_10580100023_002_01
+
+message,<user>,What!? Kureha，are you alright!?<br> 
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,CONT
+asynccharaemo,chara_1,Shy,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,クレハ,Yes，as long as I imagined the customer was you，darling，<br>I found I could bear even something like that just fine...<br> ,,vc_10580100023_003_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,I-I see... well，I'm glad you could handle it，but...<br>a man like that should be barred from the place，honestly.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,クレハ,..................<br> ,,vc_10580100023_004_01
+
+message,,Watching %user% grow indignant on her behalf，<br>Kureha gazes at him with eyes full of heat.<br> 
+
+asyncseplay,setag3_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+
+asynccharaface,chara_1,FaceShy,STOP
+message,クレハ,But still... I find myself wanting to confirm the real thing.<br>Would you... have some time for me，after this，darling...?<br> ,,vc_10580100023_005_01
+
+message,<user>,Ah... well，you worked hard today.<br>I'll gladly spend as much time as you want.<br> 
+
+message,,Moved by the plea of Kureha，who'd endured a troublesome<br>customer， %user% resolves to spoil her thoroughly tonight.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

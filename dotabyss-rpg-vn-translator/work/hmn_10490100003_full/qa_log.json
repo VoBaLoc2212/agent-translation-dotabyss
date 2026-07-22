@@ -1,0 +1,65 @@
+{
+  "scene": "hmn_10490100003",
+  "generator": "build_asset_vi.py",
+  "source_type": "EN-asset-is-English (en.json has English values, asset text is English)",
+  "structural_qa": {
+    "bom": "preserved (UTF-8 BOM)",
+    "crlf": "preserved (CRLF line terminators)",
+    "line_count": 1672,
+    "en_lines": 1672,
+    "vi_lines": 1672,
+    "line_count_match": true,
+    "text_records": {
+      "total": 107,
+      "title": 1,
+      "message": 104,
+      "messageTextCenter": 2,
+      "messageTextUnder": 0
+    },
+    "br_count_mismatches": 0,
+    "ascii_comma_in_vi": 0,
+    "title_case": true
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 104,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "addressing_matrix": {
+    "司令官": "Chỉ Huy",
+    "司令官くん": "Chỉ Huy",
+    "クロエ → Chỉ Huy": "em/anh",
+    "アリシア → Chỉ Huy": "formal, tôi/anh",
+    "Chỉ Huy → クロエ": "tôi/cô"
+  },
+  "qa_status": "PASS",
+  "notes": [
+    "All 107 text records translated from JP source (ja.json)",
+    "EN asset structural authority used for line count, tags, BOM, CRLF",
+    "ASCII fullwidth ， in EN asset preserved as such (not ASCII comma)",
+    "Title in Vietnamese Title Case",
+    "Chloe's otaku voice maintained: hâm mộ kỵ sĩ, thần tượng, Kỵ Sĩ Công Chúa",
+    "H18 content: none in this scene"
+  ],
+  "translatable_records": 107,
+  "translated_records": 107,
+  "changed_lines": 107,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1672,
+    "vi": 1672,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "faea74060c1219cf7f294fd93969a83e51f9588c909c3828826d44c4081bfacf",
+  "output_sha256": "298375eabe2129ad5ee507c221644a16888d9de9fdc7a75a242a62a3c6f6b3da"
+}

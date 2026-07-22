@@ -1,0 +1,29 @@
+{
+  "scene": "hmn_10010100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP là nguồn chính; EN asset dùng để căn dòng.",
+    "Tên nhân vật và charaload giữ nguyên; Commander/司令官 dịch là Chỉ Huy trong text field.",
+    "Không có kept-EN intentional trong text records."
+  ],
+  "checks": {
+    "line_count": 2019,
+    "candidate_text_records": 90,
+    "translated_records": 90,
+    "title_message_messageTextUnder_messageTextCenter_counted": true,
+    "ascii_comma_in_vietnamese_fields_forbidden": true,
+    "adult_h18_confirmed_all_18_plus": true
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 90,
+  "translated_records": 90,
+  "changed_lines": 90,
+  "source_sha256": "614334967428a284b85807ebd33f2dceffe4df03f27ce336341337aa5070614b",
+  "output_sha256": "59e6e8ee83799e4da20be203371901d2955ac03589ee2b567182cd4c8145443e",
+  "source_line_count": 2019,
+  "output_line_count": 2019
+}

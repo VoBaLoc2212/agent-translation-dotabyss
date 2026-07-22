@@ -1,0 +1,202 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000b,off
+
+charaload,chara_1,102801000G,エミリー
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,An Affair at the Tavern
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+charashow,chara_1,0.3
+window,on,0.15
+message,,I visited the tavern just before closing time，and Emily was cleaning<br>up by herself.<br> 
+
+asyncseplay,setag1_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceFun
+message,エミリー,Ah，Commaander!♪<br> ,,vc_10280100031_001_01
+
+message,<user>,Huh，just you，Emily? Where's Ludia?<br> 
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+message,エミリー,It's just me today!♪<br> ,,vc_10280100031_002_01
+
+message,<user>,Oh? So you're handling the closing duties all by yourself?<br> 
+
+asyncseplay,setag1_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+message,エミリー,Fufu. That's right!<br> ,,vc_10280100031_003_01
+
+message,,Emily puffed out her chest happily. She seemed pleased to have been<br>entrusted with the cleanup on her own.<br> 
+
+message,<user>,I see. That's impressive. Means you've grown that much.<br> 
+
+asyncseplay,setag1_3,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+message,エミリー,Ehem! I'm already a full-fledged adult!<br> ,,vc_10280100031_004_01
+
+message,<user>,So，are you almost done with the cleanup? It's late，so I'll walk you<br>home.<br> 
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,2
+message,エミリー,I'm happy! Ah... but there's one customer who fell asleep over there<br>and won't wake up at all...<br> ,,vc_10280100031_005_01
+
+asyncseplay,setag1_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,エミリー,I still need to clean that table，so it'll take a bit longer. But I'll hurry<br>and finish!<br> ,,vc_10280100031_006_01
+
+message,<user>,You don't have to rush. I'll wait until you're done.<br> 
+
+asyncseplay,setag1_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceShy
+message,エミリー,But... I want to finish quickly so I can cuddle with Commaander too.<br> ,,vc_10280100031_007_01
+
+message,<user>,Cuddle? I'm just walking you to the dorms，you know.<br> 
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,Shake,0.5,STOP
+message,エミリー,Come on，I want to be lovey-dovey! Oh，and I've gotten pretty good<br>at that thing since last time.<br> ,,vc_10280100031_008_01
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_6,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,エミリー,But I don't know when the customer will wake up，so I guess it'll have<br>to wait today...<br> ,,vc_10280100031_009_01
+
+message,,Emily's wistful expression was cute. I was seized by the urge to hug<br>her tight.<br> 
+
+message,,Just then，a strange smell drifted to my nose.<br> 
+
+message,<user>,...Huh? This smell...?<br> 
+
+asyncseplay,setag1_7,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+charaface,chara_1,FaceSurprise
+message,エミリー,Huh? A smell?<br> ,,vc_10280100031_010_01
+
+message,,Apparently，the smell was so faint that Emily couldn't detect it.<br> 
+
+message,,Tracing the source of the smell，it seemed to come from the drink the<br>passed-out customer had been drinking.<br> 
+
+message,<user>,Emily，what was this customer drinking?<br> 
+
+asyncseplay,setag1_8,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,エミリー,Let me see... Oh，right，I think it's Ludia's special liquor.<br> ,,vc_10280100031_011_01
+
+charaface,chara_1,FaceHappy
+message,エミリー,The customer said he couldn't sleep at all，so Ludia gave him this，<br>saying it'd help him sleep soundly.<br> ,,vc_10280100031_012_01
+
+message,<user>,I see，so that's it.<br> 
+
+asyncseplay,setag1_9,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceSad
+message,エミリー,*sigh* I wanted to fool around with you，Commaander...<br> ,,vc_10280100031_013_01
+
+message,<user>,Then how about we do it right here?<br> 
+
+charaface,chara_1,FaceHappy
+
+asynccharaface,chara_1,FaceSad,STOP,2.5
+message,エミリー,Huh? Really...! Ah，b-but what if the customer wakes up...<br> ,,vc_10280100031_014_01
+
+message,,Emily seemed happy with the proposition，but she couldn't fully shake<br>the worry that the sleeping customer might wake up.<br> 
+
+asyncseplay,setag1_10,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+message,<user>,No need to worry. I'll help you clean up later，so let's leave that for<br>now.<br> 
+
+asyncseplay,setag1_11,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,エミリー,U-umm... Are we really going to do it here，Commaander? I-I'm not<br>sure it'll be okay...<br> ,,vc_10280100031_015_01
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

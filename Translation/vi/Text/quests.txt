@@ -1,0 +1,395 @@
+クエスト=Nhiệm Vụ
+ミッション=Sứ Mệnh
+
+Main Scenario
+メインシナリオ=Cốt Truyện Chính
+ストーリー=Câu Chuyện
+クエスト一覧=Danh Sách Nhiệm Vụ
+バトルクエスト=Nhiệm Vụ Chiến Đấu
+エネミー情報=Thông Tin Kẻ Địch
+総戦力：=Tổng PWR:
+ステージ=Màn
+戦闘=Chiến Đấu
+エネミー=Kẻ Địch
+属性=Hệ
+推奨レベル=Cấp Đề Xuất
+戦力=<size\=80%>Chiến Lực</size>
+有利属性=Hệ Khắc Chế
+初回クリア報酬=Thưởng Lần Đầu
+ランダムドロップ=Rơi Đồ Ngẫu Nhiên
+確定ドロップ=Rơi Đồ Cố Định
+
+スキップ=Bỏ Qua
+リトライ=Thử Lại
+マナ=Mana
+進行中のクエストがあります\n続行しますか？=Có nhiệm vụ đang tiến hành.\nBạn muốn tiếp tục không?
+続行する=Tiếp Tục
+撤退する=Rút Lui
+クエスト名=Tên Nhiệm Vụ
+なし=None
+デイリー=Hàng Ngày
+ウィークリー=Hàng Tuần
+実績=Thành Tựu
+クエストボード=Bảng Nhiệm Vụ
+受注可能クエスト=Nhiệm vụ có thể nhận
+進行中クエスト=Nhiệm vụ đang tiến hành
+クエスト詳細=Chi Tiết Nhiệm Vụ
+派遣時間=Thời Gian Phái Cử
+クエスト報酬=Thưởng Nhiệm Vụ
+推奨戦力=<size\=65%>Chiến Lực Đề Xuất
+一括派遣=Phái Cử Tất Cả
+条件に合うキャラを編成しました=Đã xếp đội phù hợp với điều kiện
+編成が条件を満たしていません=Đội không đáp ứng điều kiện
+クエストを進行しますか？=Bạn có muốn tiến hành nhiệm vụ không?
+勢力バフ=<line-height\=60%>Force Buff
+時間短縮=Rút Ngắn Thời Gian
+マナを消費して時間を短縮しますか？=Tiêu hao Mana để rút ngắn thời gian?
+必要マナ=Mana Cần Thiết
+残り時間=Thời Gian Còn Lại
+帰還=Trở Về
+クエスト完了=Nhiệm Vụ Hoàn Thành
+勢力クエスト=Nhiệm Vụ Phe Phái
+(r:"^「([^\)]+)」は([\S\s]+)に開放されます$"=「$1」 sẽ được mở vào $2
+曜日=Ngày
+日曜日=Chủ Nhật
+月曜日=Thứ Hai
+火曜日=Thứ Ba
+水曜日=Thứ Tư
+木曜日=Thứ Năm
+金曜日=Thứ Sáu
+土曜日=Thứ Bảy
+現在の配置内容は上書きされます。=Thiết Lập Hiện Tại Sẽ Được Thay Đổi.
+おまかせ配置を実行します。=Đang Thực Hiện Sắp Xếp Tự Động.
+ミッション一覧=Danh Sách Sứ Mệnh
+一括受け取り=Nhận Tất Cả
+受け取り完了=Đã Nhận
+全て受け取りました=Đã nhận toàn bộ phần thưởng
+達成=Hoàn Thành
+受取=Nhận
+おすすめ属性=Hệ Đề Xuất
+出現エネミー=Danh Sách Kẻ Địch
+推奨戦力：=<size\=65%>Chiến Lực Đề Xuất：
+総戦力：=Tổng PWR:
+総合戦力：=Tổng Chiến Lực：
+防衛戦力：=Chiến Lực Phòng Thủ：
+パーティ戦力：=Chiến Lực Đội：
+防衛準備=<size\=90%>Chuẩn Bị Phòng Thủ
+パーティ編成=Sắp Xếp Đội Hình
+このクエストは以下のメンバーで出撃します。=<size\=85%>Thực hiện nhiệm vụ với đội hình sau.
+勢力バフを確認=Xem Buff Phe Phái
+クリア報酬=<size\=80%>Phần Thưởng
+挑戦回数\\n=<size\=80%>Số Lần Khiêu Chiến\\n
+マナ燃料=<size\=80%>Nhiên Liệu Mana
+マナ=Mana
+出撃=Lên Đường
+出撃する=Lên Đường
+残り出撃回数=<line-height\=60%>Số Lần Ra Trận Còn Lại
+出撃します。よろしいですか？=Tiến hành xuất kích. Xác nhận?
+所持=Sở Hữu
+ドロップアイテム一覧=Danh Sách Vật Phẩm Rơi
+なし=None
+追加アイテム入手確率=<line-height\=60%><size\=70%>Tỷ Lệ Nhận Thêm Vật Phẩm</size>
+設備一覧=Danh Sách Thiết Bị
+おまかせ=Tự Động
+一括撤去=<size\=80%>Gỡ Tất Cả
+一括撤去確認=Xác Nhận Gỡ Bỏ
+すべての防衛設備を撤去します。=Gỡ bỏ toàn bộ thiết bị phòng thủ.
+分解した装備は失われます。=Trang bị đã tháo dỡ sẽ bị mất.
+装備中キャラ=<size\=75%>Nhân Vật Đang Trang Bị
+分解=Tháo Dỡ
+獲得できるマイレージ=Số Dặm Nhận Được
+フォースチェイン\\n追加効果\\n=Force Chain\\nHiệu Ứng Bổ Sung\\n
+キャラクター編成=Điều Chỉnh Đội Hình
+名前=Tên
+消費プリズム=Tiêu Hao Prism
+コスト=Chi Phí
+勢力バフ=<line-height\=60%>Force Buff
+勢力バフ一覧=<line-height\=50%>Danh Sách Buff Phe Phái
+勢力バフ効果=<cspace\=-0.05em>Hiệu Ứng
+発動条件=<cspace\=-0.1em><size\=80%>Điều Kiện Kích Hoạt
+この依頼では以下の勢力を編成することで<br>より強力なサポートを受けることができます。=Trong nhiệm vụ này, xếp đội phe phái sau đây<br>sẽ nhận được hỗ trợ mạnh hơn.
+厄災を討伐することで厄災Lvが上昇します。=<size\=70%>Tiêu diệt Tai Ương sẽ tăng Cấp Tai Ương.
+厄災特殊個体を撃破したので厄災Lvが上昇しました。=Do đã đánh bại cá thể Tai Ương đặc biệt, Cấp Tai Ương đã tăng.
+配置可能な防衛設備があります。=Có thiết bị phòng thủ có thể bố trí.
+最良の作戦に出撃します。=Chúng ta sẽ xuất kích với chiến thuật tốt nhất.
+配置終了=Áp Dụng
+登録して出撃=<size\=80%><cspace\=-0.05em>Đăng Ký và Lên Đường
+大穴の巡回を行い、厄災Lvを低下させます。<br>よろしいですか？=<size\=90%>Tuần tra Vực Thẳm Lớn để giảm Cấp Tai Ương.<br>Bạn có chắc không?
+マナ燃料を消費する防衛設備を使用する=<size\=70%>Sử dụng thiết bị tiêu hao Nhiên Liệu Mana
+現在の配置内容は上書きされます。=Thiết Lập Hiện Tại Sẽ Được Thay Đổi.
+おまかせ配置を実行します。=Đang Thực Hiện Sắp Xếp Tự Động.
+フォースチェイン：=Force Chain：
+拠点防壁=Tường Phòng Thủ
+厄災の迎撃=Đánh Chặn Tai Ương
+急ぎ迎撃の準備を！=Mau Chuẩn Bị Đánh Chặn!
+熱波の厄災の討伐依頼が発行されています！=<size\=90%>Yêu Cầu Thảo Phạt Tai Ương Sóng Nhiệt Đã Được Ban Hành!
+討伐許可証を消費し、厄災の討伐依頼を請け負います。=<size\=90%%>Tiêu hao giấy phép săn để nhận yêu cầu tiêu diệt Tai Ương.
+依頼を受ける=Nhận
+討伐依頼=Nhiệm Vụ Săn
+依頼書=Giấy Yêu Cầu
+大厄災出現中=<cspace\=-0.1em><line-height\=60%><size\=85%>Đại Tai Ương
+無気力の厄災=Tai Ương Uể Oải
+熱波の厄災=Tai Ương Sóng Nhiệt
+渦雷の厄災=Tai Ương Lôi Quyển
+情欲の厄災=Tai Ương Dục Vọng
+砕氷の厄災=Tai Ương Phá Băng
+砂嵐の厄災=Tai Ương Bão Cát
+氷河の厄災=Tai Ương Sông Băng
+飢餓の厄災=Tai Ương Đói Khát
+メインストーリークエスト=Nhiệm Vụ Cốt Truyện Chính
+現在開催中のイベントはありません=Hiện không có sự kiện nào.
+現在依頼はありません=<size\=80%>Hiện không có yêu cầu nào.
+難易度選択=Độ Khó
+スタミナ=<size\=80%>Thể Lực
+消費=<size\=70%>tiêu hao
+周回可能=Có Thể Quét
+未開放=Chưa Mở
+達成数=Số Lần
+迎撃数=<size\=70%>Số Lần\nĐánh Chặn
+周回エリア=Khu Vực Quét
+新しいクエストが解放されました=Nhiệm vụ mới đã được mở khóa
+時間内クリアで今の宝箱が登場=<line-height\=150%>Vượt qua trong thời gian giới hạn để nhận rương báu
+スキップ1回につき=Phí cho 1 lần bỏ qua：
+スキップ回数=Số Lần Bỏ Qua
+スタミナを消費して ステージをスキップします。=Tiêu hao Thể Lực để bỏ qua màn.
+前回クリアした編成内容で スキップを行います=Bỏ qua bằng đội hình đã vượt qua lần trước
+特効=<size\=80%><cspace\=-0.1em>Tăng Thêm
+エリアの調査が進行し、新しいメインクエスト（周回）が解放されました。=Khảo sát khu vực tiến triển, nhiệm vụ chính (Quét) mới đã được mở khóa.
+依頼の更新まで=Cập Nhật Sau
+厄災Lv=<size\=50%>Cấp Tai Ương
+巡回=Tuần Tra
+討伐数=<size\=60%>Quái Đã Diệt
+リザルト=Kết Quả
+装備　　　  個=Trang Bị         Cái
+アイテム=Vật Phẩm
+再挑戦=<size\=90%>Thử Lại
+強化へ=<size\=80%>Tới Cường Hóa
+編成へ=Đội Hình
+ドロップ無し。=Không Rơi Đồ.
+スタミナなどは返還されません。=Thể Lực v.v. sẽ không được hoàn trả.
+キャンセルされた場合、バトル開始時に消費した=Nếu bị hủy, lượng vật phẩm đã tiêu hao khi bắt đầu chiến đấu
+バトルの中断データが残っています。<br>バトルを再開しますか？=Có dữ liệu trận đấu bị gián đoạn.<br>Bạn có muốn tiếp tục chiến đấu không?
+復帰確認=Xác Nhận Quay Lại
+撤退確認=Xác Nhận Rút Lui
+クエストから撤退しますか？=Bạn có muốn rút lui khỏi nhiệm vụ không?
+※報酬を獲得することはできません=*Không thể nhận được phần thưởng.
+イベントステージ=Màn Sự Kiện
+チャレンジステージ=Màn Thử Thách
+交換所=<line-height\=60%>Văn Phòng\\nTrao Đổi
+イベント\\nガチャ=Sự Kiện\\nGacha
+初回報酬=Thưởng Lần Đầu
+イベント\\nミッション=Sự Kiện\\nSứ Mệnh
+特効キャラ=<line-height\=60%>Nhân Vật\\n<size\=90%>Tăng Thêm
+開催期間=Thời Gian
+開催期間:=Thời Gian Sự Kiện：
+特効合計=<line-height\=60%>Tổng Tăng Thêm
+報酬受取期間:=Thời Gian Nhận Thưởng：
+付与ステータス一覧=Danh Sách Chỉ Số Được Cấp
+付与されている紋章はありません=Không có huy hiệu đính kèm
+遠くの敵を狙いやすい状態=Trạng thái dễ nhắm vào kẻ địch xa
+付与されている効果はありません=Không có hiệu ứng nào được áp dụng
+Lvに応じて攻撃力と防御力が上昇する状態\\n（一定値以上のダメージを受けると減少）=Trạng thái tăng Tấn Công và Phòng Thủ theo Lv\\n(Giảm khi nhận sát thương vượt quá ngưỡng)
+6秒ごとにHPを7176回復 / 氷鎧Lvが1上昇する状態=Hồi 7.176 HP mỗi 6 giây / Tăng Giáp Băng Lv lên 1
+Lvに応じてパラメータが上昇する状態\\n（時間経過で減少）=Chỉ số tăng theo Lv (Giảm dần theo thời gian)
+スキルがチャージがされず、スキルの使用やフォースチェイン参加が制限された状態=Kỹ năng không được nạp\\nHạn chế sử dụng kỹ năng và tham gia Force Chain
+時間経過でダメージを受ける状態=Trạng thái chịu sát thương theo thời gian
+1秒ごとに1Lvにつき最大HP1%%分のダメージを受ける状態\\n（回復を受けるとLvが減少する）=<size\=70%>Trạng thái chịu sát thương bằng 1% HP tối đa mỗi 1Lv mỗi giây\\n(Giảm Lv khi được hồi phục)
+1秒ごとに1Lvにつき最大HP3%%分のダメージを受ける状態\\n（回復を受けるとLvが減少する）=<size\=90%>Chịu sát thương bằng 3% HP tối đa mỗi 1Lv mỗi giây (Giảm Lv khi được hồi phục)
+行動間隔が延長され、連撃率とスキルチャージ効率が低下した状態\\n一定回数行動すると解除=<size\=90%>Kéo dài khoảng cách hành động, giảm tỷ lệ đánh liên tiếp và hiệu quả nạp kỹ năng\\nHủy sau khi hành động một số lần nhất định
+一部の行動が阻害された状態=Một số hành động bị cản trở
+罠型=Kiểu Bẫy
+支援型=Kiểu Hỗ Trợ
+障害物型=Kiểu Chướng Ngại Vật
+迎撃型=Kiểu Đánh Chặn
+回復タイプ=Loại Hồi Phục
+攻撃タイプ=Loại Tấn Công
+防御タイプ=Loại Phòng Thủ
+バフタイプ=Loại Buff
+豊穣の女神像=Tượng Nữ Thần Phồn Vinh
+連装砲塔=Tháp Pháo Đôi
+地雷=Mìn
+地雷Ⅲ=Mìn III
+地雷Ⅱ=Mìn II
+地雷Ⅰ=Mìn I
+魔導キャノンⅠ=Pháo Ma Đạo I
+魔導キャノンⅡ=Pháo Ma Đạo II
+エアタレットⅠ=Tháp Pháo Trên Không I
+エアタレットⅡ=Tháp Pháo Trên Không II
+エアタレットⅢ=Tháp Pháo Trên Không III
+魔法障壁=Tường Phép Thuật
+魔法障壁【軽】=Tường Phép Thuật [Nhẹ]
+魔法障壁【重】=Tường Phép Thuật [Nặng]
+聖浄の調べ=Giai Điệu Thanh Tẩy
+砲撃支援=Hỗ Trợ Pháo Kích
+大砲=Đại Bác
+雷撃誘発機構=Cơ Chế Kích Hoạt Lôi Kích
+強化連装砲塔=Tháp Pháo Kép Cường Hóa
+エアタレット=Tháp Pháo Trên Không
+エレクトロボール=Cầu Điện
+魔道キャノン=Pháo Ma Đạo
+魔道キャノンⅢ=Pháo Ma Đạo III
+魔道キャノンⅡ=Pháo Ma Đạo II
+魔道キャノンⅠ=Pháo Ma Đạo I
+状態異常魔法陣=Ma Trận Trạng Thái Bất Thường
+状態異常魔法陣（炎上）=Ma Trận Trạng Thái Bất Thường (Thiêu Đốt)
+状態異常魔法陣（凍結）=Ma Trận Trạng Thái Bất Thường (Đóng Băng)
+状態異常魔法陣（石化）=Ma Trận Trạng Thái Bất Thường (Hóa Đá)
+ランダムな敵に範囲攻撃を行う。=Tấn công diện rộng vào kẻ địch ngẫu nhiên.
+味方を継続的に回復する。=Hồi phục liên tục cho đồng đội.
+近くの敵に3HITの攻撃を行う。2機設置。=Tấn công 3 đòn vào kẻ địch gần. Đặt 2 máy.
+近くの敵に3HITの攻撃を行う。=Tấn công 3 đòn vào kẻ địch gần.
+近くの敵に1HITの攻撃を行う。厄災を優先して攻撃。=Tấn công 1 đòn vào kẻ địch gần. Ưu tiên Tai Ương.
+一時的に敵の進行を止めることができる標準的な障壁。=Tường chắn tiêu chuẩn có thể tạm thời ngăn địch tiến lên.
+近くの敵に1HITの攻撃を行う。厄災を優先して攻撃。2機設置。=Tấn công 1 đòn vào kẻ địch gần. Ưu tiên Tai Ương. Đặt 2 máy.
+味方全体の全状態異常耐性UP。=Tăng toàn bộ kháng trạng thái bất thường cho toàn phe ta.
+ランダムな敵に範囲攻撃を6回行う。=Tấn công diện rộng vào kẻ địch ngẫu nhiên 6 lần.
+近くの敵に範囲攻撃。攻撃範囲が広い。=Tấn công diện rộng vào kẻ địch gần. Phạm vi rộng.
+範囲内の敵にダメージ。CT20秒/3回。2機設置。=Gây sát thương lên địch trong phạm vi. CT 20 giây/3 lần. Đặt 2 máy.
+範囲内の敵にダメージ。CT20秒/3回。=Gây sát thương lên địch trong phạm vi. CT 20 giây/3 lần.
+ランダムな敵3体に攻撃を行う。=Tấn công 3 kẻ địch ngẫu nhiên.
+全状態異常耐性UP+60%=Kháng trạng thái bất thường TĂNG +60%
+挑戦回数\n=<size\=80%>Số Lần Thử\n
+フォースチェイン
+追加効果
+=Force Chain
+Hiệu ứng thêm
+
+イベント=Sự Kiện
+ガチャ=Gacha
+ミッション=Sứ Mệnh
+sr:"^([\S\s]+)STAGE([0-9]+)$"=<size\=90%>$1 MÀN $2
+
+r:"^第([0-9]+)ステージ"$=Màn $1
+
+r:"^挑戦回数　([0-9]+)/([0-9]+)$"=<size\=90%>Lượt: $1/$2
+
+フォースチェイン\n追加効果\n=Hiệu ứng\nbổ sung\nForce Chain\n
+
+sr:"^(初|中|上)級([\S\s]+)勢力バフ$"=<line-height\=60%>Buff thế lực $2 $1 cấp
+
+sr:"^([\S\s]+)勢力【([0-9]+)人】編成$"=<line-height\=60%>Đội hình thế lực $1\n[$2 người]
+
+sr:"^([\S\s]+)勢力キャラを([0-9]+)人編成$"=Bố trí $2 nhân vật thế lực $1
+
+切替=Chuyển
+
+ドロップなし=Không rơi
+
+sr:"^([\S\s]+)に出撃します。$"=Xuất kích tới $1.
+
+sr:"^依頼書を消費して<color\=#4CF37Bff>「([\S\s]+)」</color>の<br>討伐依頼を請け負います。$"=Dùng giấy ủy thác để nhận<br>nhiệm vụ thảo phạt <color\=#4CF37Bff>“$1”</color>.
+
+r:"^第([0-9]+)階層$"=Tầng $1
+
+sr:"^大穴の探索が進み<br>「([\S\s]+)」<br>が周回可能になりました。$"=Quá trình thám hiểm Đại Huyệt tiến triển,<br>“$1”<br>đã có thể chơi lặp lại.
+
+スキル：=Kỹ năng:
+
+イベント\nガチャ=Gacha\nSự kiện
+
+イベント\nミッション=Nhiệm vụ\nSự kiện
+
+r:"^([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=<size\=90%>Đến $1/$2/$3 $4:$5
+
+r:"^([0-9]+)/([0-9]+)/([0-9]+) ～ ([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=$1/$2/$3 〜 $4/$5/$6 $7:$8
+
+付与されている効果はありません。=Không có hiệu ứng nào đang được áp dụng.
+
+支給品効果=Hiệu ứng tiếp tế
+
+支給品効果/エリア効果=Hiệu ứng tiếp tế / Hiệu ứng khu vực
+
+r:"^【瘴気Lv([0-9]+)】敵討伐時のマナ獲得量が減少$"=[Chướng khí Lv$1] Giảm lượng Mana nhận được khi hạ kẻ địch
+
+r:"^味方全体が自身の<color\=#FF5050>紋章：情熱</color>1ごとに攻撃力と防御力が【(\d+(?:\.\d*)?)％】上昇$"=Toàn bộ đồng minh tăng +$1% ATK và DEF với mỗi <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> đang sở hữu
+
+10秒ごとに敵全体に攻撃力UP【10％】（累積/最大200％）と防御力UP【20％】（累積/最大400％）を付与=Mỗi 10 giây, toàn bộ kẻ địch nhận +10% ATK (cộng dồn tối đa 200%) và +20% DEF (cộng dồn tối đa 400%)
+
+10秒ごとに敵全体が自身の最大HP【5％】分の回復=Mỗi 10 giây, toàn bộ kẻ địch hồi [5%] HP tối đa của bản thân
+
+10秒ごとに敵全体に攻撃力UP【15％】（累積/最大200％）と防御力UP【30％】（累積/最大400％）を付与=<size\=95%>Mỗi 10 giây, ban cho toàn bộ kẻ địch Tăng ATK [15%] (cộng dồn, tối đa 200%) và Tăng DEF [30%] (cộng dồn, tối đa 400%)
+
+r:"^攻撃力が(\d+(?:\.\d*)?)%、スキルチャージ効率が([0-9]+)%上昇した状態$"=Trạng thái tăng ATK $1% và hiệu suất nạp kỹ năng $2%.
+
+r:"^スキルチャージ効率が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng hiệu suất nạp kỹ năng $1%
+
+r:"^会心率が(\d+(?:\.\d*)?)%、スキルチャージ効率が(\d+(?:\.\d*)?)%上昇した状態$"=Trạng thái tăng tỉ lệ chí mạng $1% và hiệu suất nạp kỹ năng $2%
+
+r:"^会心率が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng tỉ lệ chí mạng $1%
+
+r:"^攻撃力が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng ATK $1%
+
+r:"^連撃率が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng tỉ lệ liên kích $1%
+
+r:"^防御力が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng DEF $1%
+
+r:"^被ダメージが(\d+(?:\.\d*)?)%減少する状態$"=Trạng thái giảm sát thương nhận vào $1%
+
+r:"^与ダメージが(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng sát thương gây ra $1%
+
+r:"^全状態異常耐性が(\d+(?:\.\d*)?)%%上昇する状態$"=Trạng thái tăng kháng tất cả trạng thái bất lợi $1%
+
+Lvに応じて攻撃力と防御力が上昇する状態\n（一定値以上のダメージを受けると減少）=Trạng thái tăng ATK và DEF theo Lv\n(Giảm khi nhận sát thương vượt ngưỡng nhất định)
+
+r:"^最大HPが(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng HP tối đa $1%
+
+r:"^回避率が(\d+(?:\.\d*)?)%上昇する状態$"=Trạng thái tăng tỉ lệ né tránh $1%
+
+Lvに応じてパラメータが上昇する状態\n（時間経過で減少）=Trạng thái tăng chỉ số theo Lv (Giảm theo thời gian)
+
+r:"^スキルによる被ダメージが(\d+(?:\.\d*)?)減少する状態$"=Trạng thái giảm sát thương nhận từ kỹ năng $1
+
+r:"^防御力の(\d+(?:\.\d*)?)%を攻撃力に変換する状態$"=Trạng thái chuyển $1% DEF thành ATK
+
+攻撃のターゲットになりやすい状態=Trạng thái dễ bị chọn làm mục tiêu tấn công hơn
+
+r:"^受けるダメージを([0-9]+)まで無効化する状態$"=Vô hiệu hóa sát thương nhận vào tối đa $1
+
+r:"^会心ダメージ倍率が(\d+(?:\.\d*)?)%上昇する状態$"=Tăng sát thương chí mạng $1%
+
+r:"^回復量が([0-9]+)%上昇する状態$"=Tăng lượng hồi phục $1%
+
+r:"^防御力が(\d+(?:\.\d*)?)%減少する状態$"=Trạng thái giảm DEF $1%
+
+1秒ごとに1Lvにつき最大HP1%%分のダメージを受ける状態\n（回復を受けるとLvが減少する）=<size\=70%>Trạng thái nhận sát thương bằng 1% HP tối đa mỗi Lv mỗi giây\n(Lv giảm khi được hồi phục)
+
+r:"^凍結耐性が(\d+(?:\.\d*)?)%%減少する状態$"=Giảm kháng Đóng Băng $1%
+
+r:"^行動時に最大HP(\d+(?:\.\d*)?)%分のダメージを受ける状態$"=Nhận sát thương bằng $1% HP tối đa khi hành động.
+
+1秒ごとに1Lvにつき最大HP3%%分のダメージを受ける状態\n（回復を受けるとLvが減少する）=<size\=90%>Nhận sát thương bằng 3% HP tối đa mỗi 1 Lv mỗi giây (Lv giảm khi được hồi phục)
+
+行動間隔が延長され、連撃率とスキルチャージ効率が低下した状態\n一定回数行動すると解除=<size\=90%>Kéo dài khoảng cách hành động, giảm tỉ lệ liên kích và hiệu suất nạp kỹ năng\nĐược gỡ bỏ sau một số lần hành động nhất định
+
+Lvに応じて強化された状態\n（魅了状態の間Lvが減少する）=<size\=90%>Trạng thái được cường hóa theo Lv\n(Lv giảm trong khi bị Mê Hoặc)
+
+r:"^2秒ごとに最大HP(\d+(?:\.\d*)?)%分のダメージを受ける状態$"=Nhận sát thương bằng $1% HP tối đa mỗi 2 giây
+
+r:"^攻撃力([0-9]+)$"=ATK $1
+
+r:"^防御力([0-9]+)$"=DEF $1
+
+r:"^攻撃間隔([0-9]+)秒$"=Khoảng cách $1 giây
+
+r:"^回復間隔([0-9]+)秒$"=Khoảng hồi $1 giây
+
+r:"^回復力([0-9]+)$"=Hồi phục $1
+
+r:"^CT([0-9]+)秒$"=CT $1 giây
+
+sr:"^マナクリスタル強化([0-9０-９]+)$"=Cường hóa Pha lê Mana $1
+
+メインストーリーNORMAL7章をクリア=Hoàn Thành Chương 7 Cốt Truyện Chính
+3体のキャラクターのアビリティLvを5にする=Tăng cấp Kỹ năng của ba nhân vật lên 5
+ユニークの装備を1回獲得する=Nhận 1 trang bị Độc Nhất một lần
+深淵で60Fに到達する=Đến Tầng 60 trong Vực Thẳm
+探索クエスト10回クリアする=Hoàn thành Nhiệm vụ Thám Hiểm 10 lần
+6体のキャラクターを絆Lv5にする=Nâng Cấp Gắn Kết lên 5 cho 6 Nhân Vật
+1体のキャラクターを絆Lv20にする=Nâng Cấp Gắn Kết của 1 Nhân Vật lên 20
+溶鉱炉の設置=Lắp đặt Lò luyện kim
+装備を200回分解する=Phân giải trang bị 200 lần
+迎撃戦で5回厄災を討伐する=Tiêu diệt Tai Ương 5 lần trong Trận Nghênh Chiến
+深淵を3回帰還か撤退する=Trở về hoặc Rút Lui từ Vực Thẳm 3 lần
+キャラ5人をレベル30にする=Đưa 5 nhân vật lên cấp 30
+ランク2の装備を3回獲得する=Thu thập trang bị Hạng 2 tổng cộng 3 lần
+施設効果の解放状況=Tình Trạng Mở Khóa Hiệu Ứng Cơ Sở

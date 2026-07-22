@@ -1,0 +1,155 @@
+﻿adultui,off
+
+bg,abg11500a
+
+charaload,chara_1,102001000G,ラヴェリア
+charamove,chara_1,Set,X,-600,0
+
+charaload,chara_2,106501000G,ソフィア
+
+charaload,chara_3,106601000G,ヒマリ
+charamove,chara_3,Set,X,600,0
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0035,1
+
+subimage,UI/BG/Novel/abg18200a,subimage_2,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_2,0,150,150,LinearTarget
+
+
+window,on,0.15
+message,,A few days later，I peeked into the training grounds and found<br>Laveria chatting with her friends.<br> 
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharashow,chara_2,0.3,STOP
+
+asynccharashow,chara_3,0.3,STOP
+
+asyncseplay,setag3_1,se4800009,0,1,CONT
+
+asynccharaemo,chara_3,Question,STOP
+
+asynccharareaction,chara_3,nod,1,STOP
+message,ヒマリ,Laveria... you seem even more beautiful than before?<br> ,,vc_10200100013_001_01
+
+charaface,chara_1,FaceSurprise
+
+asynccharareaction,chara_1,shake,1,STOP
+
+asyncseplay,setag3_2,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Huh? W-What do you mean，all of a sudden?<br> ,,vc_10200100013_002_01
+
+asynccharareaction,chara_2,nod,1,STOP
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,ソフィア,It is true. Your skin is so smooth. Did you change your makeup?<br> ,,vc_10200100013_003_01
+
+asyncseplay,setag3_3,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharareaction,chara_1,shake,0.5,STOP
+message,ラヴェリア,No，nothing like that.<br> ,,vc_10200100013_004_01
+
+asynccharareaction,chara_3,nod,1,STOP
+
+asyncseplay,setag3_4,se4800009,0,1,CONT
+
+asynccharaemo,chara_3,Question,STOP
+message,ヒマリ,Then why...?<br> ,,vc_10200100013_005_01
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharaface,chara_1,FaceShy,STOP,4.5
+message,ラヴェリア,I don't really have any idea... Ah.<br> ,,vc_10200100013_006_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_2,0,0.6235,0
+
+priority,chara_1,CHARA,1,FRONT,
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag3_5,se4800014,0,1,CONT
+
+charaemo,chara_1,Silence
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag3_6,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+window,on,0.15
+message,ラヴェリア,(Maybe it's because of that thing with Brother...?)<br> ,,vc_10200100013_007_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+priority,chara_2,CHARA,1,FRONT,
+
+subimagefade,subimage_2,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+charaface,chara_3,FaceSurprise
+
+asynccharareaction,chara_3,nod,1,STOP
+
+asyncseplay,setag3_7,se4800010,0,1,CONT
+
+asynccharareaction,chara_3,Jump,1,STOP
+asynccharaemo,chara_3,Exclamation,STOP
+window,on,0.15
+message,ヒマリ,Ah... you're blushing...<br> ,,vc_10200100013_008_01
+
+charaface,chara_2,FaceUnique02
+
+asynccharareaction,chara_2,nod,1,STOP
+
+asyncseplay,setag3_8,se4800014,0,1,CONT
+
+asynccharaemo,chara_2,Silence,STOP
+message,ソフィア,True. That's quite suspicious. Perhaps you have a lover?<br> ,,vc_10200100013_009_01
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,ラヴェリア,Th-That's not true! Don't talk nonsense!<br> ,,vc_10200100013_010_01
+
+asynccharareaction,chara_2,nod,1,STOP
+
+charaface,chara_2,FaceUnique01
+message,ソフィア,You're blushing again. That's even more suspicious...<br> ,,vc_10200100013_011_01
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ラヴェリア,N-No! I'm definitely not!<br> ,,vc_10200100013_012_01
+
+message,,Watching Laveria desperately deny it from the shadows，I found it<br>heartwarming...<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+

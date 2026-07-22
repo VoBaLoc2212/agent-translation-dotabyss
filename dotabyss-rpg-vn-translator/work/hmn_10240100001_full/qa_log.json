@@ -1,0 +1,71 @@
+{
+  "scene": "hmn_10240100001",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 86,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 88,
+  "translated_records": 88,
+  "changed_lines": 88,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1379,
+    "vi": 1379,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "f37b20fe878b3144972c6444d59f92c60a61ad57361be3c4ef2ba21bc01b98d9",
+  "output_sha256": "d3de17d5d51da803ebe30703d311b2309ec5a0778e982d5587bd8419238cb66d",
+  "qa_status": "PASS",
+  "source_type": "EN-asset-is-English (en.json holds English; title field still JP 花咲く騒がしさ)",
+  "blockers": [],
+  "items": [],
+  "structural_checks": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch": 0,
+    "technical_field_mismatch": 0,
+    "tag_mismatch": 0,
+    "placeholder_mismatch": 0,
+    "ascii_comma_in_vi_text": 0,
+    "translatable_records": 88,
+    "translated_records": 88
+  },
+  "linguistic_checks": {
+    "commander_to_chi_huy": "applied only where EN literally says 'Commander' (L1198)",
+    "ascii_comma_replaced_with_U+201A": true,
+    "proper_names_kept": [
+      "Magnolia",
+      "Makkun",
+      "Alicia",
+      "Eldorana",
+      "Magic Water"
+    ],
+    "speaker_labels_preserved": [
+      "<user>",
+      "マニョリア",
+      "マックン",
+      "怪しげな男",
+      "アリシア"
+    ],
+    "title_translated": "Hoa Nở Rộ Ồn Ào"
+  },
+  "notes": [
+    "All 88 text records (1 title + 86 message + 1 messageTextCenter) changed EN/JP->VI.",
+    "L705 EN '...!<br> ' (JP っ！？) rendered 'Hả!?<br> ' to clear UNCHANGED_TEXT_RECORDS with a genuine translation.",
+    "<size=48>—That Night</size> -> <size=48>—Đêm Đó</size>; tag and <br> counts preserved exactly.",
+    "First pass FAILed on L705 (echoed EN); fixed, re-verified -> PASS.",
+    "No H18 content in this scene."
+  ]
+}

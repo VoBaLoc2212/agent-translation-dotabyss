@@ -1,0 +1,167 @@
+﻿adultui,off
+
+bg,abg10200a
+
+charaload,chara_1,104401000G,ヤチヨ
+charamove,chara_1,Set,X,400,0
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceHappy
+
+
+
+
+
+window,on,0.15
+message,,—The next day，Yachiyo rushed to meet the Commander. He was<br>treating her to a date as a reward for her brothel work.<br> 
+
+asyncseplay,se3_1,se4000104,0,1,CONT
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharamove,chara_1,LinearTarget,X,0,0.3,STOP,0
+
+sestop,se3_1,1
+
+asyncseplay,setag3_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+message,ヤチヨ,I'm so sorry for keeping you waiting，Commander!<br> ,,vc_10440100023_001_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Don't worry about it. I just got here myself.<br> 
+
+asyncseplay,setag3_2,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ヤチヨ,Really? That's great!<br> ,,vc_10440100023_002_01
+
+asyncseplay,setag3_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+message,ヤチヨ,Um，about today... don't you have work?<br> ,,vc_10440100023_003_01
+
+message,<user>,Don't worry. I got it all done.<br> 
+
+asyncseplay,setag3_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ヤチヨ,Yay! Then we can be together all day，right? I'm so happy!♪<br> ,,vc_10440100023_004_01
+
+message,<user>,Ahaha，you're really energetic... So，where do you want to go today?<br> 
+
+asyncseplay,setag3_5,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ヤチヨ,First，a cafe! I heard it's really cozy and you can enjoy an adult<br>atmosphere! And after that，I want to go see some stylish clothes too!<br> ,,vc_10440100023_005_01
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ヤチヨ,—After that，finally...<br> ,,vc_10440100023_006_01
+
+
+
+window,off
+wait,0.15
+
+asyncseplay,setag3_6,se4400119,0,1,CONT
+
+crossfadeready
+
+charahide,chara_1,0
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+
+
+
+asyncseplay,setag3_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+window,on,0.15
+message,,Yachiyo fidgeted，then leaned in close to the Commander and<br>whispered softly in his ear.<br> 
+
+
+
+asyncseplay,setag3_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ヤチヨ,Tonight... I want to be intimate with you，Commander，until morning!♡<br> ,,vc_10440100023_007_01
+
+asyncseplay,setag3_9,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ヤチヨ,You don't have to worry about curfew. I'm an adult too，you know!♪<br> ,,vc_10440100023_008_01
+
+message,<user>,Honestly... you're too cute. I won't let you get any sleep tonight，you<br>know?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_10,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ヤチヨ,Yes!♪ Ufufu!♡<br> ,,vc_10440100023_009_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

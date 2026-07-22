@@ -1,0 +1,41 @@
+{
+  "scene": "hmn_10080100001",
+  "qa_status": "PASS",
+  "structural_self_check": {
+    "line_count_match": true,
+    "delimiter_counts_match": true,
+    "tag_counts_match": true,
+    "placeholder_counts_match": true,
+    "ascii_comma_in_vi_text_fields": 0
+  },
+  "issues": [],
+  "records_checked": 110,
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 110,
+  "translated_records": 110,
+  "changed_lines": 110,
+  "source_line_count": 2084,
+  "output_line_count": 2084,
+  "source_sha256": "433e87b7d1d881bb8773dfed15b85daaf0b24b2e98a1ca114503db53bcf87602",
+  "output_sha256": "c009da4924ddfca48254a43f5d4ef4cab4aa7ddeabf531f265c6cb0b44ecbc72",
+  "candidate_counts": {
+    "title": 1,
+    "message": 109,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "line_count": {
+    "en": 2084,
+    "vi": 2084,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0
+}

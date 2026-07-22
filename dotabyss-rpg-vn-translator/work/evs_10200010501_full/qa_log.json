@@ -1,0 +1,80 @@
+{
+  "scene": "evs_10200010501",
+  "timestamp_utc": "2026-07-19T08:49:55.009324+00:00",
+  "source_props": {
+    "jp_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010501\\ja.json",
+      "bytes": 16490,
+      "sha256": "e6695ddcf4ecbf91cbb6f2ce95a16f8edc867cc48fdf0e4ee2599de7c3a048b5",
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count": 74
+    },
+    "en_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010501\\en.json",
+      "bytes": 14639,
+      "sha256": "865b9e24ea9db9a7a5541a6fd7908248a002b8878b4cb8e12a2508346fbfae23",
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count": 74
+    },
+    "en_asset": {
+      "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010501.txt",
+      "bytes": 51942,
+      "sha256": "2fb0a8059799b370c5104c852a64e0ee3216dddca78b8b07ffda0a00d020cb6e",
+      "bom_utf8": true,
+      "newline": "CRLF",
+      "line_count": 2919
+    }
+  },
+  "output_props": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010501.txt",
+    "bytes": 53744,
+    "sha256": "ce86fb01977348d509665b308f6d84df67840eef8b188ca73a02a5134a72ca0a",
+    "bom_utf8": true,
+    "newline": "CRLF",
+    "line_count": 2919
+  },
+  "blockers": [],
+  "items": [
+    {
+      "code": "JP_COUNT_DIFFERS_FROM_ASSET",
+      "severity": "info",
+      "jp": 72,
+      "candidates": 74,
+      "message": "Novel JSON has fewer ordered pairs than asset candidate records; extra repeated silence records are translated from asset/context."
+    },
+    {
+      "code": "EN_JSON_COUNT_DIFFERS_FROM_ASSET",
+      "severity": "info",
+      "en_json": 72,
+      "candidates": 74,
+      "message": "Novel EN JSON has fewer ordered pairs than asset candidate records; extra repeated silence records are translated from asset/context."
+    }
+  ],
+  "notes": [
+    {
+      "code": "H18_CHECK",
+      "status": "PASS",
+      "message": "No H-18/adult-uncertain sexual content detected in this scene."
+    },
+    {
+      "code": "ADDRESSING",
+      "status": "PASS",
+      "message": "Commander/司令官 rendered as Chỉ Huy; female-to-Commander references use anh/Chỉ Huy as appropriate; female-female dialogue uses chị/em/tôi by context."
+    }
+  ],
+  "structural": {
+    "source_line_count": 2919,
+    "output_line_count": 2919,
+    "candidate_records": 74,
+    "translated_records": 74,
+    "delimiter_mismatches": [],
+    "field_mismatches": [],
+    "technical_field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_comma_in_translated_fields": []
+  },
+  "qa_status": "PASS"
+}

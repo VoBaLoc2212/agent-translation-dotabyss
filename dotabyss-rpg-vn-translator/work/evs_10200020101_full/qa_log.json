@@ -1,0 +1,16 @@
+{
+  "scene": "evs_10200020101",
+  "generated_at": "2026-07-19T09:02:20.559248+00:00",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 48,
+  "translated_records": 48,
+  "changed_lines": 48,
+  "source_sha256": "8962cd1c9c0c5f1be0d12196020de27f4fbd3fe0a08a6a10e3ed673f825a04a5",
+  "output_sha256": "98944fa034163c314919b74439649055e06dbc0db6ac1ac2aec202ab74fcff2f"
+}

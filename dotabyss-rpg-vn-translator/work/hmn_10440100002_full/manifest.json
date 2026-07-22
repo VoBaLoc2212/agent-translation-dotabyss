@@ -1,0 +1,83 @@
+{
+  "scene": "hmn_10440100002",
+  "character": "ヤチヨ (Yachiyo)",
+  "character_summary": "Shrine maiden who can communicate with the Dragon God to give weather forecasts. Cheerful and hardworking but loses confidence after forecasts keep failing.",
+  "other_characters": [
+    "市民 (Citizen) - female townsperson who does laundry",
+    "踊り子 (Dancer) - female dancer/prostitute who hangs costumes",
+    "兵士 (Soldier) - female Milesgard soldier, grateful to Yachiyo",
+    "モンスターＡ/Ｂ (Monsters) - pack-hunting monsters",
+    "<user> (Commander/Chỉ Huy) - player character"
+  ],
+  "addressing": {
+    "ヤチヨ → Chỉ Huy": "polite: Chỉ Huy (司令官さま) / Ngài, self: em",
+    "Chỉ Huy → ヤチヨ": "casual: cậu / Yachiyo (お前→cậu), self: tôi / ta",
+    "市民 → Chỉ Huy": "casual (thân mật như dân thường), self: chị/tôi",
+    "踊り子 → Chỉ Huy": "casual, self: em/chị",
+    "兵士 → ヤチヨ": "polite soldier, respectful: cô, self: tôi",
+    "ヤチヨ → 兵士": "polite: anh, self: em"
+  },
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "龍神さま/Lord Dragon God": "Rồng Thần",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "巫女/shrine maiden": "miko",
+    "デート/date": "hẹn hò",
+    "予報/forecast": "dự báo",
+    "的中率/accuracy": "tỷ lệ chính xác",
+    "遠征/expedition": "viễn chinh",
+    "モンスター/monster": "quái vật"
+  },
+  "notes": "EN-asset-is-English case (en.json non-empty, EN asset messages in English). Title field still JP. 2 extra messageTextCenter cards (seq 36, 43) not in ja.json. Yachiyo is a cheerful shrine maiden; uses em/Chỉ Huy style. Commander uses cậu/Yachiyo casual style. No H18 content in this scene. Monster SFX localized: Giíii, Gừooooo, Gíii to clear UNCHANGED_TEXT_RECORDS. <user> tag not present in EN asset for 3 narration lines (EN has 'the Commander') - used Chỉ Huy instead to match EN tag list.",
+  "source": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10440100002/ja.json (98 entries, identity map)",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10440100002/en.json (98 entries, English values)",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10440100002.txt"
+  },
+  "output": {
+    "vi_asset": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10440100002.txt",
+    "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10440100002_full/build_vi.py",
+    "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10440100002_full"
+  },
+  "independent_verify": {
+    "scene": "hmn_10440100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 89,
+      "messageTextUnder": 3,
+      "messageTextCenter": 7
+    },
+    "translatable_records": 100,
+    "translated_records": 100,
+    "changed_lines": 100,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2423,
+      "vi": 2423,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "38b55078cbd483bae2d6ffe9d64a6f9b3747489a47fd9ab4ddf0bfe407e50a05",
+    "output_sha256": "7638f5f31d4e8ebe2c25df62ce33411093c45d4a621d3f5091cb7ee9d7466ed4"
+  },
+  "independent_issues": [],
+  "independent_verify_ts": "2026-07-21T00:00:00Z",
+  "qa_status": "PASS",
+  "changed_lines": 100,
+  "total_records": 100,
+  "candidate_counts": {
+    "title": 1,
+    "message": 89,
+    "messageTextUnder": 3,
+    "messageTextCenter": 7
+  },
+  "status": "PASS"
+}

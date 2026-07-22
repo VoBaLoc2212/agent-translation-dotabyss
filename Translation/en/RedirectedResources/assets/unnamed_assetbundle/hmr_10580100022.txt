@@ -1,0 +1,648 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10580100022
+
+charaload,chara_1,105801000X,クレハ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10580100022_001_01,1,on
+
+
+
+
+
+
+
+
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,1
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+window,on,0.15
+l2dmessage,クレハ,Nn... is this the position you prefer，sir...?<br> ,,vc_10580100022_001_01
+
+
+message,,Clothes undone，Kureha kneels on the futon，<br>presenting her pale white rear to the male customer.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.5
+
+message,クレハ,(Kuh... this position truly is embarrassing，even for me...)<br> ,,vc_10580100022_002_01
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.1
+
+message,,Held in a lewd，almost animalistic pose，<br>Kureha's cheeks burn with shame.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,7.1
+
+message,クレハ,(And this man stares without a hint of restraint...<br>uu... his eyes keep going to such lewd places...)<br> ,,vc_10580100022_003_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,1.1
+
+message,,What a truly beautiful rear——<br>At the crude compliment，Kureha inwardly frowns.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+message,クレハ,(Words like that only bring me discomfort...<br>but for darling's sake，I must play the courtesan...)<br> ,,vc_10580100022_004_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,ExEmotion01,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5.5
+
+l2dmotion,EyeEmotionRight
+
+l2dmessage,クレハ,It's hardly worth such praise... but thank you.<br>You're quite the flatterer，sir...<br> ,,vc_10580100022_005_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+
+message,,She forces a smile through effort. His arousal only grows harder.<br>He seems entirely unaware of her inward reluctance.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,Driven purely by lust，<br>the man reaches a hand toward Kureha's body——<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10580100022_002_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,クレハ,Nn... ah... nnh...<br> ,,vc_10580100022_006_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+message,,Without warning，the man touches Kureha's rear，tasting her skin.<br>His breath grows ragged at the exquisite give of her flesh.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,0.2
+
+message,クレハ,(Such a lewd，appraising touch...<br>no consideration at all，as if he's simply sampling the goods...)<br> ,,vc_10580100022_007_01
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+message,クレハ,(And still，being touched by anyone but darling<br>fills me with resistance I can't shake...)<br> ,,vc_10580100022_008_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionLeft
+
+message,,Unable to accept him inwardly，Kureha's body stays unresponsive.<br>Even so，for his sake，she speaks the words of a courtesan.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.2
+
+l2dmessage,クレハ,Nn... haah... your hand，sir... it's quite lewd...<br>How does it feel to the touch...?<br> ,,vc_10580100022_009_01
+
+message,,Excited，the man returns a word of praise.<br>Kureha answers with only a surface show of pleasure.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,6
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,MouthEmotion01,on,STOP,6
+
+l2dmessage,クレハ,It feels very good，you say?<br>I'm glad to hear it... haah...<br> ,,vc_10580100022_010_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Her composed reply，born of an unstirred heart，excites him further.<br>Driven by overflowing lust，he draws his hips back to push inside——<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10580100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+wait,2
+
+l2dmessage,クレハ,Ah—— s-sir!?<br> ,,vc_10580100022_011_01
+
+l2dmotion,FaceAngleTop
+
+message,,Startled by the sudden motion behind her，Kureha panics.<br>The cock aimed at her was already hard，standing at full attention.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.1
+
+message,クレハ,(Could he possibly mean to enter me already...?<br>Thinking only of himself，so selfishly...?)<br> ,,vc_10580100022_012_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.5
+
+message,クレハ,(I'm hardly even wet yet...<br>Darling always thought of me properly，but this...)<br> ,,vc_10580100022_013_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+
+message,,Swallowing her unease and indignation，<br>Kureha speaks to the man as if pleading.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.8
+
+l2dmessage,クレハ,Haah... haah... please，sir，I beg you...<br>I'm not ready yet——<br> ,,vc_10580100022_014_01
+
+message,,Without even waiting for Kureha to finish，<br>the man tightens his grip with both hands.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10580100022_004_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,クレハ,Ugh... ahh，ahhhhh...!<br> ,,vc_10580100022_015_01
+
+message,,Her still-unwet passage is forced open by his cock.<br>Shock and pain pierce straight through Kureha.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+asyncl2dmotion,ExEmotion00,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+l2dmessage,クレハ,Ahh... haah... n-no，sir... not yet... uuh...<br> ,,vc_10580100022_016_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Even Kureha，an oni，feels a measure of pain.<br>An ordinary woman would likely have been injured by such brutality.<br> 
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.1
+
+l2dmessage,クレハ,This is too much，I can't...!<br>Nnh... please... please pull out...<br> ,,vc_10580100022_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Struggling for breath，Kureha tries to make the customer stop.<br>But he pays her no mind，savoring the feel of her walls instead.<br> 
+
+message,,After thoroughly enjoying her flesh twitching in pain，<br>the man drives his hips forward without hesitation.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10580100022_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Nn，ahh! Kyaun! W-wait...!<br> ,,vc_10580100022_018_01
+
+message,,His forceful thrusting bordered on violence.<br>There was little pleasure — only her oni endurance let her bear it.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion01,on,STOP,3
+
+message,クレハ,(He isn't listening to a word I say...!<br>What a loveless customer，driven by nothing but lust...)<br> ,,vc_10580100022_019_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+message,クレハ,(This is nothing at all like darling...<br>nothing like that happy act，so full of deep love...!)<br> ,,vc_10580100022_020_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Enduring the sensation of his cock scraping her insides，<br>Kureha lets her mind drift away from the reality of it.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,5.1
+
+message,クレハ,(Ahh，but... if it were darling doing this to me，<br>even something this rough might feel... good，wouldn't it...)<br> ,,vc_10580100022_021_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,If the one sharing her bed were someone she loved from her heart，<br>even this rough，selfish sex might have made her feel something.<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.2
+
+message,クレハ,(If it were darling piercing me like this...)<br> ,,vc_10580100022_022_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,3.1
+
+l2dmessage,クレハ,Nnh... fuah，kuun...! Ahh!<br> ,,vc_10580100022_023_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,If it were him behind her.<br>The instant she imagines it，Kureha's voice suddenly turns sweet.<br> 
+
+message,,Wetness that had only barely seeped out from instinct alone<br>begins to overflow steadily from deep within her.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+l2dmessage,クレハ,Fuaah... haah... aahn...!<br> ,,vc_10580100022_024_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,Kureha's voice grows unmistakably aroused.<br>Her wet passage clenches around the cock in tight，aching pulses.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Pleased by the sudden change in Kureha's reactions，<br>the man speeds up the motion of his hips——<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10580100022_006_01,1,on
+
+l2dmessage,クレハ,Ah... ah! Aahn!<br> ,,vc_10580100022_025_01
+
+message,,Each deep thrust draws a ringing cry from Kureha.<br>Her rear ripples with the motion，pleasing the man's eyes and ears.<br> 
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+message,クレハ,(Darling... ahh，darling...!<br>In truth，this is how I wish you were the one taking me...!)<br> ,,vc_10580100022_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Pushing him from her mind，she thinks only of the one she loves.<br>Sweet，melted moans slip naturally from her lips.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,6.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6.6
+
+l2dmessage,クレハ,It feels so good...!<br>A hard cock，grinding inside me... ahh...!<br> ,,vc_10580100022_027_01
+
+message,,Her once-dry passage now overflows with wetness，<br>making a wet，lewd sound with every repeated thrust.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,クレハ,It's good，your cock feels so good...!<br>Haan，so good...!<br> ,,vc_10580100022_028_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Though the thrusting was rough and forceful，<br>Kureha's sturdy body takes it all without breaking.<br> 
+
+message,,Even the grinding，scraping motion inside her<br>brings her oni flesh nothing but pleasure，with no pain at all.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+l2dmessage,クレハ,Thrust into me，again and again...!<br>Please，use my body to feel so good，fuaan...!<br> ,,vc_10580100022_029_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+message,,Directing every ounce of pleasure toward the man she loves，<br>Kureha climbs steadily toward climax.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+message,,Never imagining those words were meant for someone else entirely，<br>the man was already at his limit.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Feeling the twitching tremble of the cock inside her，<br>Kureha realizes the man is close to release.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,クレハ,Ah... please，wait!<br>——Not inside，please...!<br> ,,vc_10580100022_030_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Kureha's desperate words only stoked the man's lust further.<br>He pressed his hips in hard，his cock shuddering——<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10580100022_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Ah，ah，ah—— ahhhhhhhhhhh!!<br> ,,vc_10580100022_031_01
+
+asyncl2dmotion,ExEmotion02,on,STOP,2
+
+message,,The man releases his desire deep inside Kureha.<br>Climaxing at the same time，she could only tremble and take it.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+asyncl2dmotion,MouthEmotion01,on,STOP,7
+
+message,クレハ,(S-so this means the job is finished，doesn't it...<br>but to be finished inside like that... ahh，how could this...)<br> ,,vc_10580100022_032_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Joy at having been of use to the one she loves，<br>and the shock of him finishing inside，leave her eyes trembling.<br> 
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4.8
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4.8
+
+asyncl2dmotion,MouthEmotion01,on,STOP,4.8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.9
+
+message,クレハ,(...I mustn't bring shame to darling.<br>I must see this through to the end，as a professional...)<br> ,,vc_10580100022_033_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+message,,Swallowing her tangled feelings，Kureha looks up at the man.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10580100022_008_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,クレハ,Haah... nn... did that feel good for you，sir...?<br> ,,vc_10580100022_034_01
+
+
+message,,Ahh—— the man answers curtly.<br>Even facing a loveless customer，Kureha manages a brave smile.<br> 
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,2
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,2
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7
+
+l2dmessage,クレハ,That's... a relief to hear.<br>I'm glad I could please you...<br> ,,vc_10580100022_035_01
+
+bgvstop,bgvtag2_8,0.2,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

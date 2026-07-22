@@ -1,0 +1,1893 @@
+{
+  "scene": "hmn_10040100002",
+  "status": "PASS",
+  "paths": {
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10040100002.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10040100002.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10040100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10040100002\\en.json",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10040100002_full",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10040100002_full\\generate_vi.py",
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10040100002_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10040100002_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10040100002_full\\focused_diff.md"
+  },
+  "source": {
+    "sha256": "922720219f627dbcb13a72b1c65059b3b19a157d588ea7f9b66760126d0937f7",
+    "byte_length": 16095,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 550
+  },
+  "output": {
+    "sha256": "e157596cd36992cf3c078d41b517241d4b1baaa4c6c3c306245de05bbbf76910",
+    "byte_length": 17650,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 550
+  },
+  "counts": {
+    "novel_ja_pairs": 89,
+    "novel_en_pairs": 89,
+    "candidate_text_records": 89,
+    "title": 1,
+    "message": 88,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "translated_records": 89,
+    "kept_records": 0
+  },
+  "entries": [
+    {
+      "entry_index": 0,
+      "line_number": 21,
+      "record_type": "title",
+      "speaker": "",
+      "source_text": "不器用なオーバーパワー",
+      "source_signature": [
+        "title"
+      ],
+      "delimiter_count": 1,
+      "tag_counter": {},
+      "placeholder_counter": {},
+      "vi_text": "Siêu Sức Mạnh Vụng Về",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 1,
+      "line_number": 34,
+      "record_type": "message",
+      "speaker": "アリシア",
+      "source_text": "So that's how you became Xiaolei's teacher，Commander.<br> ",
+      "source_signature": [
+        "message",
+        "アリシア",
+        "",
+        "vc_10040100002_001_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "――Vậy là anh trở thành thầy của Xiaolei rồi nhỉ‚ Chỉ Huy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 2,
+      "line_number": 36,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "What was I supposed to do? Once she got a hold of me with that<br>freakish strength，I couldn't get away. And besides，she's promising as a combat asset for the Frontline Base.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Anh còn biết làm sao đây? Bị con bé dùng sức quái vật đó giữ lại thì<br>anh không thoát nổi. Hơn nữa‚ em ấy cũng rất đáng kỳ vọng làm chiến lực cho Căn Cứ Tiền Tuyến.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 3,
+      "line_number": 45,
+      "record_type": "message",
+      "speaker": "アリシア",
+      "source_text": "It's fine to treat her as a combat asset，but please make sure to<br>teach and guide her properly as her teacher.<br> ",
+      "source_signature": [
+        "message",
+        "アリシア",
+        "",
+        "vc_10040100002_002_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xem em ấy như chiến lực thì không sao‚ nhưng với tư cách là thầy<br>xin anh hãy dạy dỗ và dẫn dắt em ấy cho đàng hoàng nhé.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 4,
+      "line_number": 49,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "I intend to，but... it doesn't seem like there's much I can teach her.<br>She's way stronger than I am，after all.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Anh cũng định vậy‚ nhưng… có vẻ chẳng có mấy thứ để dạy đâu.<br>Dù sao Xiaolei mạnh hơn anh nhiều mà.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 5,
+      "line_number": 51,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "I just need to fill in the gaps in her common sense and keep her out<br>of trouble. If I do that，she'll become a solid combat asset...<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Chỉ cần bù vào phần thường thức còn thiếu và giúp con bé khỏi gặp rắc rối là được.<br>Làm vậy thì em ấy sẽ thành một chiến lực đáng tin—<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 6,
+      "line_number": 76,
+      "record_type": "message",
+      "speaker": "アリシア",
+      "source_text": "Kyaah! The command room door... it's been blown away...!<br> ",
+      "source_signature": [
+        "message",
+        "アリシア",
+        "",
+        "vc_10040100002_003_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Á! Cửa phòng chỉ huy… bị thổi bay rồi…!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 7,
+      "line_number": 78,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "What's going on? A disaster? A monster? Or is it sabotage by some<br>spy?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Có chuyện gì vậy!? Tai ương à? Quái vật à? Hay là hành vi phá hoại<br>của gián điệp nào đó!?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 8,
+      "line_number": 96,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Teacher，Xiaolei came.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_004_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Thầy‚ Xiaolei‚ tới rồi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 9,
+      "line_number": 99,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "It was one of our own! What do you think you're doing!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Hóa ra là người nhà gây án à! Em đang làm cái gì vậy hả!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 10,
+      "line_number": 104,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "...? Xiaolei came into Teacher's room.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_005_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "…? Xiaolei vào phòng của thầy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 11,
+      "line_number": 106,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "That's not the point! Why did you blow the door away?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Không phải ý đó! Sao em lại thổi bay cái cửa!?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 12,
+      "line_number": 118,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "When Xiaolei knocked，it flew off. Xiaolei didn't mean to.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_006_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei gõ cửa thì nó bay đi. Xiaolei không cố ý.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 13,
+      "line_number": 125,
+      "record_type": "message",
+      "speaker": "アリシア",
+      "source_text": "Just from a knock...? Ahaha... what incredible strength...<br> ",
+      "source_signature": [
+        "message",
+        "アリシア",
+        "",
+        "vc_10040100002_007_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Chỉ gõ cửa thôi mà…? A haha… sức mạnh khủng khiếp thật…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 14,
+      "line_number": 127,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "...Hold on. If it wasn't on purpose，then maybe... Hey Xiaolei，could<br>you try holding this cup?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "…Khoan đã. Nếu không phải cố ý thì có khi… Này Xiaolei‚ em thử<br>cầm cái cốc này xem được không?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 15,
+      "line_number": 132,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Mn.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_008_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ừm.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 16,
+      "line_number": 136,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "...It broke.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_009_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "…Vỡ rồi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 17,
+      "line_number": 138,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Ah，just as I thought... She's too strong and can't hold back. This<br>might be more of a problem than I expected...<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "À‚ đúng như anh nghĩ… Em ấy mạnh quá nên không biết nương tay. Chuyện này<br>có khi còn rắc rối hơn anh tưởng…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 18,
+      "line_number": 145,
+      "record_type": "message",
+      "speaker": "アリシア",
+      "source_text": "W-well... It looks like you have plenty to teach her，huh?<br> ",
+      "source_signature": [
+        "message",
+        "アリシア",
+        "",
+        "vc_10040100002_010_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ư-ừm… xem ra anh có rất nhiều thứ để dạy em ấy nhỉ?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 19,
+      "line_number": 170,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Alright，Xiaolei. First，let me confirm something... You can't control<br>your own strength，can you?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Được rồi‚ Xiaolei. Trước tiên cho anh xác nhận một chuyện… Em không kiểm soát được<br>sức mạnh của mình đúng không?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 20,
+      "line_number": 178,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Teacher，that's rude. That's not true!<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_011_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Thầy‚ thất lễ. Không có chuyện đó đâu.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 21,
+      "line_number": 180,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm，so you don't realize it，huh? Then why do you think the door<br>flew off and the cup you were holding shattered?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ừm‚ vậy là em không tự nhận ra nhỉ? Thế em nghĩ vì sao cái cửa<br>bị thổi bay còn cái cốc em cầm thì vỡ tan?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 22,
+      "line_number": 188,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Because everything here is flimsy.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_012_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Vì mọi thứ ở đây đều yếu xìu.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 23,
+      "line_number": 190,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "At home，things didn't break when Xiaolei picked them up. They<br>weren't this light either.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_013_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ở nhà Xiaolei cầm đồ thì đồ không vỡ. Chúng cũng<br>không nhẹ như thế này.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 24,
+      "line_number": 192,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Ah... now that you mention it，I did hear that from Xiaolei...<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "À… nhắc mới nhớ‚ anh có nghe Xiaolei nói vậy…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 25,
+      "line_number": 210,
+      "record_type": "message",
+      "speaker": "シャオレイの祖父",
+      "source_text": "...Well，even if I didn't teach her anything，Xiaolei was born strong.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイの祖父"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "…Ừ thì‚ dù ta chẳng dạy gì‚ Xiaolei sinh ra đã khỏe sẵn rồi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 26,
+      "line_number": 226,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "So Xiaolei's super strength is innate，huh. They must have replaced<br>everything at home with sturdy，heavy items to match it.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Vậy sức mạnh quái lực của Xiaolei là bẩm sinh nhỉ. Chắc ở nhà họ đã thay<br>mọi thứ bằng đồ bền chắc và nặng để hợp với em ấy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 27,
+      "line_number": 228,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Maybe they gradually made them heavier to train her. Like living with<br>weights on.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Có lẽ họ còn tăng dần trọng lượng để rèn luyện em ấy. Kiểu như sống cùng<br>tạ đeo trên người vậy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 28,
+      "line_number": 235,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "...? Do things just get heavier on their own?<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_014_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "…? Đồ vật không tự nặng lên sao?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 29,
+      "line_number": 237,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "No，they don't! That's called training!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Không tự nặng lên! Cái đó gọi là luyện tập đấy!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 30,
+      "line_number": 241,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Anyway. Your strength is useful in combat，but it's a bit excessive for<br>daily life.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Tóm lại. Sức mạnh của em rất hữu dụng trong chiến đấu‚ nhưng hơi quá mức với<br>đời sống hằng ngày.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 31,
+      "line_number": 243,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "I think you should start by learning to control your strength so you<br>can live without problems.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Anh nghĩ trước tiên em nên học cách kiểm soát sức mạnh để<br>có thể sinh hoạt mà không gặp vấn đề.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 32,
+      "line_number": 250,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "That's wrong. Xiaolei wants to get stronger. There's no need to<br>weaken it.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_015_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Sai rồi. Xiaolei muốn mạnh hơn. Không cần<br>làm sức mạnh yếu đi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 33,
+      "line_number": 252,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "But there is a need. Controlling your strength is also important for<br>getting stronger.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Nhưng vẫn cần đấy. Kiểm soát sức mạnh cũng rất quan trọng để<br>trở nên mạnh hơn.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 34,
+      "line_number": 255,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "If you always go all out，you'll burn through stamina quickly，and<br>feints and other tricky moves become harder to do.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Nếu lúc nào cũng dốc toàn lực‚ thể lực sẽ cạn rất nhanh‚ và<br>những đòn giả hay chiêu biến hóa cũng khó dùng hơn.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 35,
+      "line_number": 259,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Besides，truly strong martial artists value relaxation over brute<br>strength.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Hơn nữa‚ những võ nhân thật sự mạnh thường coi trọng thả lỏng hơn<br>sức mạnh cứng.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 36,
+      "line_number": 267,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Relaxation... Xiaolei has heard of that. As expected of Teacher.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_016_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Thả lỏng… Xiaolei từng nghe rồi. Đúng là thầy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 37,
+      "line_number": 271,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Good，you're listening well. Then，special training right away.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Tốt‚ em biết nghe lời lắm. Vậy thì bắt đầu đặc huấn ngay nào.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 38,
+      "line_number": 288,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Alright，first let's train here!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Nào‚ trước hết tập luyện ở đây!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 39,
+      "line_number": 296,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Are we eating lunch? Yay! Xiaolei was just hungry.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_017_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Mình ăn trưa sao? Hay quá! Xiaolei vừa đói bụng.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 40,
+      "line_number": 300,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "No，no，no. I'm going to have you wash dishes here. Washing fragile<br>plates without damaging them is good practice for strength control.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Không‚ không‚ không. Anh sẽ để Xiaolei rửa bát ở đây. Việc rửa những chiếc<br>đĩa dễ vỡ mà không làm hỏng chúng sẽ giúp luyện cách điều chỉnh lực.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 41,
+      "line_number": 305,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Xiaolei good at washing dishes. Xiaolei helped at home too.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_018_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei giỏi rửa bát. Xiaolei cũng từng phụ giúp ở quê.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 42,
+      "line_number": 307,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Oh，that's good. Take your time and do it carefully.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ồ‚ vậy thì tốt. Cứ từ từ và làm cẩn thận nhé.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 43,
+      "line_number": 314,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Yeah. Leave it to Xiaolei. Then—<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_019_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ừ. Cứ giao cho Xiaolei. Vậy thì—<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 44,
+      "line_number": 327,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "crash! crash! cr-cr-crash!<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "choang! choang! choang-choang-choang!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 45,
+      "line_number": 340,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Xiaolei done. No more dishes.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_020_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei xong rồi. Không còn bát nữa.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 46,
+      "line_number": 344,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Don't puff out your chest like that! You didn't finish washing<br>them—they're physically gone!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Đừng ưỡn ngực nói như thế! Em không rửa xong<br>mà là đống bát biến mất theo nghĩa vật lý rồi!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 47,
+      "line_number": 346,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Ugh，fine... Then we'll do different special training!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ư… hết cách rồi… Vậy thì đặc huấn kiểu khác!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 48,
+      "line_number": 364,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Listen，Xiaolei. What I want you to do now is give me a massage.<br>Loosen up my stiff muscles.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Nghe này‚ Xiaolei. Việc anh muốn em làm bây giờ là mát-xa.<br>Hãy xoa bóp cho cơ bắp cứng đờ của anh giãn ra.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 49,
+      "line_number": 366,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Surely you won't break a person... You won't，right? Please don't.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Chắc em sẽ không làm hỏng người đâu nhỉ… Em không làm đâu nhỉ? Làm ơn đừng nhé.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 50,
+      "line_number": 375,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Massage... you mean that sort of thing? Then Xiaolei good at that.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_021_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Mát-xa… ý thầy là xoa bóp? Vậy thì Xiaolei giỏi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 51,
+      "line_number": 377,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Really? Then I'll sit here. First，start with tapping my shoulders.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Thật sao? Vậy anh sẽ ngồi đây. Trước tiên hãy đấm vai cho anh.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 52,
+      "line_number": 385,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Leave it to Xiaolei. Teacher's shoulders，Xiaolei will tap hard.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_022_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Cứ giao cho Xiaolei. Vai của thầy‚ Xiaolei sẽ cố gắng đấm.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 53,
+      "line_number": 387,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Don't try hard! Definitely don't try hard! Use as little strength as<br>possible.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Đừng cố gắng! Tuyệt đối đừng cố gắng! Hãy dùng ít sức<br>nhất có thể.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 54,
+      "line_number": 399,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Xiaolei understands. Then begin... ah...<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_023_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei hiểu rồi. Vậy bắt đầu… a…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 55,
+      "line_number": 401,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "A butterfly came fluttering into the room through the open window.<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Một con bướm bay lượn vào phòng qua khung cửa sổ đang mở.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 56,
+      "line_number": 404,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Oh... a butterfly...<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_024_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ồ… bướm…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 57,
+      "line_number": 407,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "Xiaolei's eyes were drawn to the fluttering butterfly. Her body<br>swayed gently in time with its wings.<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ánh mắt Xiaolei bị hút theo cánh bướm đang chập chờn. Cơ thể em ấy<br>nhẹ nhàng đung đưa theo nhịp cánh.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 58,
+      "line_number": 409,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Xiaolei? What's wrong? Shoulder tapping?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei? Sao vậy? Đấm vai đâu?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 59,
+      "line_number": 413,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Ah... right. Teacher's shoulders，tap，tap.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_025_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "A… đúng rồi. Vai của thầy‚ đấm‚ đấm.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 60,
+      "line_number": 418,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "*bam*<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*ầm*<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 61,
+      "line_number": 420,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Whoaahh! The chair! The chair's totally busted!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Oaaa! Cái ghế! Cái ghế vỡ tan rồi!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 62,
+      "line_number": 428,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Oh... Xiaolei wasn't watching properly.<br>Next，Xiaolei will tap Teacher's shoulder.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_026_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ồ… Xiaolei không nhìn kỹ.<br>Tiếp theo‚ Xiaolei sẽ đấm vai thầy.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 63,
+      "line_number": 430,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "No，that's enough! You don't need to tap! Actually，I'm glad it<br>missed，seriously!<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Không‚ đủ rồi! Em không cần đấm nữa! Thật ra‚ anh mừng vì em đánh<br>trượt thật đấy!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 64,
+      "line_number": 434,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Well，let's do a different kind of training.<br>Next，we'll change our approach—<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ừm‚ chuyển sang kiểu huấn luyện khác nào.<br>Tiếp theo chúng ta sẽ đổi hướng tiếp cận—<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 65,
+      "line_number": 455,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "*crash*!<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*choang*!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 66,
+      "line_number": 457,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "So even cleaning's no good，huh...<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Vậy cả dọn dẹp cũng không ổn à…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 67,
+      "line_number": 463,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "*whimper*... Xiaolei can't do anything...<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_027_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*hức*… Xiaolei chẳng làm được gì…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 68,
+      "line_number": 465,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "I guess it was tough right away. But if you think of it as the price for<br>your combat power，it's understandable.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Có lẽ ngay lập tức thì khó thật. Nhưng nếu xem đó là cái giá cho<br>sức chiến đấu của em thì cũng đành chịu.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 69,
+      "line_number": 470,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Xiaolei is sorry.<br>Teacher taught Xiaolei，but...<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_028_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei xin lỗi.<br>Thầy đã dạy Xiaolei‚ vậy mà…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 70,
+      "line_number": 472,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Let's see it as you getting into the right mindset，and call it good for<br>today. We'll take our time.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Cứ xem như em đã có tâm thế đúng đắn và hôm nay vậy là tốt rồi.<br>Chúng ta sẽ từ từ làm tiếp.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 71,
+      "line_number": 479,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "*whimper*... Does Xiaolei have to keep going?<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_029_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*hức*… Xiaolei phải tiếp tục sao?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 72,
+      "line_number": 481,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Of course you can't stop.<br>If you go around breaking everything，you'll cause trouble for others.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Tất nhiên là không thể dừng.<br>Nếu em cứ đi đâu cũng phá hỏng mọi thứ thì người xung quanh sẽ gặp phiền phức.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 73,
+      "line_number": 489,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Trouble...?<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_030_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Phiền phức…?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 74,
+      "line_number": 498,
+      "record_type": "message",
+      "speaker": "兵士",
+      "source_text": "Lord Commander! Repairs to the command room are complete!<br>New plates will be delivered shortly!<br> ",
+      "source_signature": [
+        "message",
+        "兵士",
+        "900000001"
+      ],
+      "delimiter_count": 3,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Thưa Chỉ Huy! Việc sửa chữa phòng chỉ huy đã hoàn tất!<br>Bát đĩa mới cũng sẽ được giao tới ngay!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 75,
+      "line_number": 500,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Got it. Good work.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Rõ rồi. Vất vả cho cậu.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 76,
+      "line_number": 502,
+      "record_type": "message",
+      "speaker": "兵士",
+      "source_text": "Yes sir! I'll be off!<br> ",
+      "source_signature": [
+        "message",
+        "兵士",
+        "900000001"
+      ],
+      "delimiter_count": 3,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Rõ! Vậy tôi xin phép rời đi!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 77,
+      "line_number": 508,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Who was that just now...?<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_031_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Người vừa rồi là ai…?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 78,
+      "line_number": 510,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Oh，that's the guy who fixed the door you blew off. He also ordered<br>new plates for the broken ones，so go thank him later，okay?<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "À‚ đó là người sửa cái cửa mà Xiaolei thổi bay đấy. Anh ta cũng đặt<br>bát đĩa mới thay cho số bị vỡ‚ nên lát nữa nhớ cảm ơn nhé?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 79,
+      "line_number": 518,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Repair...<br>Because Xiaolei broke it?<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_032_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Sửa chữa…<br>Vì Xiaolei làm hỏng sao?<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 80,
+      "line_number": 521,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "We can't just leave broken things lying around.<br>We get them repaired，cleaned up，and restocked.<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Chúng ta không thể cứ để đồ hỏng nằm đó được.<br>Phải sửa chữa‚ dọn dẹp và bổ sung lại chứ.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 81,
+      "line_number": 524,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "It's Xiaolei's fault... Xiaolei was causing trouble.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_033_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Là lỗi của Xiaolei… Xiaolei đã gây phiền phức.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 82,
+      "line_number": 527,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "*sniff*... Xiaolei is sorry.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_034_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*sụt sịt*… Xiaolei xin lỗi.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 83,
+      "line_number": 529,
+      "record_type": "message",
+      "speaker": "パンパン[シャオレイ]",
+      "source_text": "*squeak*...<br> ",
+      "source_signature": [
+        "message",
+        "パンパン[シャオレイ]",
+        "900000003"
+      ],
+      "delimiter_count": 3,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*chíp*…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 84,
+      "line_number": 531,
+      "record_type": "message",
+      "speaker": "ダンダン[シャオレイ]",
+      "source_text": "*squeak*!<br> ",
+      "source_signature": [
+        "message",
+        "ダンダン[シャオレイ]",
+        "900000003"
+      ],
+      "delimiter_count": 3,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "*chíp*!<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 85,
+      "line_number": 534,
+      "record_type": "message",
+      "speaker": "シャオレイ",
+      "source_text": "Thank you，Panpan，Dandan... Xiaolei will do her best.<br> ",
+      "source_signature": [
+        "message",
+        "シャオレイ",
+        "",
+        "vc_10040100002_035_01"
+      ],
+      "delimiter_count": 4,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Cảm ơn Panpan‚ Dandan… Xiaolei sẽ cố gắng.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 86,
+      "line_number": 536,
+      "record_type": "message",
+      "speaker": "",
+      "source_text": "Xiaolei held back her tears and gently stroked Panpan and Dandan.<br> ",
+      "source_signature": [
+        "message",
+        ""
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Xiaolei kìm nước mắt và dịu dàng vuốt ve Panpan cùng Dandan.<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 87,
+      "line_number": 538,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "Well，no need to rush. With that attitude，you'll improve. And those<br>two are supporting you too...<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 2
+      },
+      "placeholder_counter": {},
+      "vi_text": "Ừm‚ không cần nóng vội đâu. Có tâm thế đó thì chắc chắn em sẽ tiến bộ. Và<br>hai đứa kia cũng đang ủng hộ em nữa…<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    },
+    {
+      "entry_index": 88,
+      "line_number": 540,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_text": "W-wait! I see... With this，maybe—<br> ",
+      "source_signature": [
+        "message",
+        "<user>"
+      ],
+      "delimiter_count": 2,
+      "tag_counter": {
+        "<br>": 1
+      },
+      "placeholder_counter": {},
+      "vi_text": "Khoan‚ chờ đã…! Ra là vậy‚ nếu thế thì có khi—<br> ",
+      "match_status": "EXACT_OR_ORDERED",
+      "translation_status": "TRANSLATED",
+      "changed": true
+    }
+  ]
+}

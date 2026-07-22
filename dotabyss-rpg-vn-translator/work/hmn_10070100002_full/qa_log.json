@@ -1,0 +1,46 @@
+{
+  "scene": "hmn_10070100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "structural_qa": {
+    "source_line_count": 1645,
+    "output_line_count": 1645,
+    "delimiter_mismatches": [],
+    "field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "kept_text_lines": [],
+    "text_records": 103,
+    "translated_records": 103,
+    "bom_preserved": true,
+    "newline_preserved": true
+  },
+  "linguistic_qa": {
+    "jp_primary_en_alignment_only": true,
+    "title_title_case_vi": true,
+    "commander_term": "司令官/Commander -> Chỉ Huy",
+    "names_preserved": [
+      "Film",
+      "Noir",
+      "フィルム",
+      "ノワール"
+    ],
+    "h18_present": false,
+    "notes": [
+      "Film dùng giọng chị gái dịu dàng pha trêu đùa; với Chỉ Huy dùng em/anh tùy sắc thái.",
+      "Noir chủ yếu là phản ứng không lời; các dấu ba chấm EN được Việt hóa sang dấu … để tránh kept-English.",
+      "messageTextCenter địa điểm được dịch và giữ nguyên thẻ <size=48>."
+    ]
+  },
+  "unresolved": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 103,
+  "translated_records": 103,
+  "changed_lines": 103,
+  "source_line_count": 1645,
+  "output_line_count": 1645,
+  "source_sha256": "79e421dc21927a2ab6d5421cbcdfa3c735873908b8d28eca0427a1ba5c6a8767",
+  "output_sha256": "6749ec864c746de64ffd9c2a53349c6808693b5ded9bd8ca713230e6c5f54881"
+}

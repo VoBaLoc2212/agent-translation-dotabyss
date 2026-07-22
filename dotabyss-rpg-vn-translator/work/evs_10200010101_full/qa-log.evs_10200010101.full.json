@@ -1,0 +1,15 @@
+{
+  "structural_qa": "PASS",
+  "issues": [],
+  "checks": {
+    "line_count_equal": true,
+    "changed_lines": 47,
+    "title_translated": true,
+    "message_lines_translated": 46,
+    "all_message_lines_translated": true,
+    "ascii_comma_absent_in_translated_fields": true,
+    "tags_preserved": true,
+    "placeholders_preserved": true,
+    "tech_fields_preserved": true
+  }
+}

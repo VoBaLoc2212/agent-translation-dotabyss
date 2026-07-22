@@ -1,0 +1,36 @@
+{
+  "scene": "hmn_10040100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "kept_english_records": [],
+  "intentional_identical_records": [],
+  "checks": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "candidate_total": 83,
+    "translated_records": 83,
+    "delimiter_counts_match": true,
+    "technical_fields_unchanged": true,
+    "tags_placeholders_preserved": true,
+    "no_ascii_comma_in_vi_text_fields": true,
+    "no_unintentional_kept_english": true
+  },
+  "notes": [
+    "JP ja.json used as primary source; EN asset/en.json used for ordered alignment.",
+    "All characters confirmed 18+ by project context; no H18 content appeared in this scene.",
+    "Speaker fields and charaload names preserved exactly; in-text names follow existing EN mapping Xiaolei/Panpan/Dandan.",
+    "ASCII commas in Vietnamese text fields replaced with U+201A where a comma-like pause was needed."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 83,
+  "translated_records": 83,
+  "changed_lines": 83,
+  "source_line_count": 541,
+  "output_line_count": 541,
+  "source_sha256": "35f6bc73d86129fb98724489f67ff1d8edac1eb0b8651706ca44aa8caa378399",
+  "output_sha256": "00b2ba017234b45e8318ccaf7462ca003755c83e40e387e29ee9c0a3e367d6dd"
+}

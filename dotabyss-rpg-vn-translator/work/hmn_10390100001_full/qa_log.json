@@ -1,0 +1,53 @@
+{
+  "qa_status": "PASS",
+  "scene": "hmn_10390100001",
+  "source_case": "EN-asset-is-English (title still JP; message/messageTextCenter English; en.json maps JP->EN)",
+  "ja_primary": true,
+  "en_alignment_only": true,
+  "all_characters_18plus": true,
+  "h18_handled": "no explicit H-18 content; adult-confirmed rule active by default",
+  "text_record_counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2,
+    "total": 82
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "translatable_records": 82,
+  "translated_records": 82,
+  "changed_lines": 82,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1523,
+    "vi": 1523,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "linguistic_qa": {
+    "commander_to_chi_huy": true,
+    "lord_commander_polite": "ngài Chỉ Huy / thưa Chỉ Huy (Margaret)",
+    "alicia_voice": "em/anh + Chỉ Huy/ngài (per project registry)",
+    "margaret_voice": "tôi + Chỉ Huy/ngài Chỉ Huy",
+    "title_case_title": "Mong Cứu Rỗi Bằng Giáo Lý Của Chúa",
+    "title_case_cards": "——Vài Phút Sau——",
+    "ascii_comma_replaced_with_U+201A": true,
+    "diacritic_scan": "no đứ/đự pitfalls found"
+  },
+  "open_points": [],
+  "source_sha256": "e89efa10fbab1e0de3371c0129c7ca581691b186923934f6ec752adbab7d038e",
+  "output_sha256": "0581964b834611c1b009b7c79f714bb1c14d30ccb6ab7540e68183164d201516",
+  "candidate_counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  }
+}

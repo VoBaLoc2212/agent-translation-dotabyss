@@ -1,0 +1,82 @@
+﻿adultui,off
+
+bg,abg13000b,off
+
+charaload,chara_1,103101000G,ハツネ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceShy
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,ハツネ,...<br> ,,vc_10310100013_001_01
+
+message,,Adjusting her disheveled clothes after it was over，Hatsune still<br>seemed dazed.<br> 
+
+message,<user>,Hey，were you okay?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,ハツネ,Y-yeah... I'm okay.<br> ,,vc_10310100013_002_01
+
+message,,Her voice lacked confidence. Perhaps she was intimidated by her first<br>'mating'.<br> 
+
+message,<user>,So，do you still want to work at the brothel? If it's too much for you，<br>you can quit.<br> 
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,ハツネ,Th-That was just because I was surprised since it was my first time! If<br>Kotono can do it，then I can too!<br> ,,vc_10310100013_003_01
+
+message,<user>,You're really competitive，huh... I don't think you should do it just for<br>that reason. That kind of attitude is childish...<br> 
+
+asyncseplay,setag3_2,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceSad,STOP
+
+asynccharaface,chara_1,FaceShy,STOP,5.5
+message,ハツネ,I'm not a child anymore! After all... you just made me into an adult<br>woman，Commander.<br> ,,vc_10310100013_004_01
+
+message,,Saying that，she looked at me with a mischievous smile. I was at a loss<br>for words.<br> 
+
+message,,After all，I was the one who made her an adult woman—<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

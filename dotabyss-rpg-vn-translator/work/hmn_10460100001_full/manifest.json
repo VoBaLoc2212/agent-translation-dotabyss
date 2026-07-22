@@ -1,0 +1,105 @@
+{
+  "scene": "hmn_10460100001",
+  "title": "堅物エルフの用心棒 / The Stiff-necked Elf Bodyguard",
+  "title_vi": "Người Lính Gác Elf Cứng Nhắc",
+  "characters": {
+    "エルミア": "Elmia - elf female, 200+ years, flat-chested bodyguard, weapon appraiser",
+    "商人": "Merchant (male) - boss of the trading company",
+    "盗賊Ａ": "Thief A",
+    "盗賊B": "Thief B",
+    "盗賊C": "Thief C"
+  },
+  "record_counts": {
+    "title": 1,
+    "message": 74,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 75
+  },
+  "source_type": "EN-asset-is-English",
+  "en_asset_text_language": "English",
+  "en_json_has_values": true,
+  "translation_approach": "JP->VI via ja.json as primary meaning, EN asset as structural authority. Content-match generator with seq-keyed VI dict. All ASCII commas in VI text replaced with U+201A ,.",
+  "notes": [
+    "Elmia uses casual self-reference toi -> anh to Commander",
+    "Commander uses toi -> co/Elmia to Elmia, calling her co/Elmia",
+    "Elmia calls merchant sep (boss), consistent with JP shecho",
+    "Thieves A/B/C: casual tao/tui lo nguoc",
+    "Seq 68: %user% preserved in VI, EN had %user% (not <user>)",
+    "Seq 57-58: ellipsis lines localised to ....... for differentiation from EN '...'",
+    "Commander sequence: refers to self as toi, calls Elmia co (not child)",
+    "Elmia's speech maintains curt/defensive elf bodyguard tone"
+  ],
+  "terminology": {
+    "Dai Huyet": "Dai Huyet",
+    "Frontline Base": "Can Cu Tien Tuyen",
+    "boss": "sep",
+    "Eldorana": "Eldorana",
+    "Commander": "Chi Huy",
+    "%user%": "%user% (preserved as-is)"
+  },
+  "addressing_matrix": {
+    "Commander->Elmia": "toi/co (informal peer)",
+    "Elmia->Commander": "toi/anh (casual)",
+    "Elmia->Merchant": "sep",
+    "Merchant->Elmia": "co/Elmia",
+    "Merchant->Commander": "cau"
+  },
+  "build_script": "build_vi.py",
+  "generated_at": "2026-07-21T00:00:00Z",
+  "independent_verify": {
+    "scene": "hmn_10460100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 74,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 75,
+    "translated_records": 75,
+    "changed_lines": 75,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1030,
+      "vi": 1030,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f7a4bc5b514ab3a357d9b9065dfe19547bdd3b9acfaf292afd0061aad246a48e",
+    "output_sha256": "7312c9d5924e4f862c577ab1fedaa36eb53e77a58baaa30de356a00eb9f8e189"
+  },
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 74,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 75,
+  "translated_records": 75,
+  "changed_lines": 75,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1030,
+    "vi": 1030,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "f7a4bc5b514ab3a357d9b9065dfe19547bdd3b9acfaf292afd0061aad246a48e",
+  "output_sha256": "7312c9d5924e4f862c577ab1fedaa36eb53e77a58baaa30de356a00eb9f8e189",
+  "status": "PASS"
+}

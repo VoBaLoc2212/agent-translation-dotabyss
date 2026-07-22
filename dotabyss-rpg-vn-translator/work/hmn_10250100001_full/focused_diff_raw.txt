@@ -1,0 +1,197 @@
+L27 EN: Wendy's New Workplace
+L27 VI: Nơi Làm Việc Mới Của Wendy
+
+L62 EN: Everyone! Where should I put this ore?<br> 
+L62 VI: Mọi người ơi! Em nên đặt khối quặng này ở đâu đây?<br> 
+
+L107 EN: Ah，just put it in that basket over there.<br> 
+L107 VI: À‚ để nó vào cái rổ bên đó đi.<br> 
+
+L128 EN: Got it! Heave-ho，heave-ho...<br> 
+L128 VI: Rõ rồi! Dô ta‚ dô ta……<br> 
+
+L139 EN: Sorry for putting you to work. It's not heavy，is it?<br> 
+L139 VI: Xin lỗi phải bắt em làm vậy. Nặng không đấy?<br> 
+
+L150 EN: Not at all! Because I'm an automaton!<br> 
+L150 VI: Hoàn toàn không sao! Vì em là một ô-tô-mát mà!<br> 
+
+L161 EN: That's true. You look like a normal girl，so I tend to forget.<br> 
+L161 VI: Đúng vậy. Vì em trông như một cô gái bình thường nên anh cứ quên mất.<br> 
+
+L170 EN: Ever since you came to this Frontline Base，things have been a lot<br>easier.<br> 
+L170 VI: Từ khi Wendy ơi đến Căn Cứ Tiền Tuyến này<br>mọi việc đã nhẹ nhõm hơn nhiều.<br> 
+
+L179 EN: Ehehe...<br> 
+L179 VI: E hè hè……<br> 
+
+L191 EN: But I'm not doing anything impressive. I'm just doing the jobs I've<br>been entrusted with!<br> 
+L191 VI: Nhưng em chẳng làm được gì ghê gớm đâu.<br>Em chỉ đang hoàn thành những công việc được giao phó thôi!<br> 
+
+L202 EN: It's all thanks to the Commander for giving me this job.<br> 
+L202 VI: Tất cả cũng là nhờ Chỉ Huy đã giới thiệu công việc này cho em.<br> 
+
+L213 EN: And everyone here has been so kind to me... I'm just filled with<br>gratitude!<br> 
+L213 VI: Với lại…… mọi người cũng đối xử tốt với em……<br>em thực sự tràn đầy lòng biết ơn!<br> 
+
+L224 EN: In other places，I always felt out of place at work because I'm an<br>automaton.<br> 
+L224 VI: Ở những nơi khác<br>vì là ô-tô-mát nên em luôn thấy lạc lõng ở chỗ làm.<br> 
+
+L235 EN: What were you doing before you came here?<br> 
+L235 VI: Trước khi đến đây em đã làm gì thế?<br> 
+
+L247 EN: Father told me to go out and see the world，so I was traveling to all<br>sorts of places!<br> 
+L247 VI: Cha bảo em đi ngắm nhìn thế giới‚ nên em đã đi du lịch<br>khắp các nơi!<br> 
+
+L258 EN: But along the way，I ran out of money... and I was nearly made a<br>slave...<br> 
+L258 VI: Nhưng dọc đường em hết sạch tiền……<br>lại còn suýt bị bắt làm nô lệ……<br> 
+
+L267 EN: Oh，geez...<br> 
+L267 VI: Ôi‚ trời ơi……<br> 
+
+L278 EN: That's when the Commander rescued me!<br> 
+L278 VI: Chính lúc đó Chỉ Huy đã cứu em!<br> 
+
+L289 EN: Wendy，you've been through a lot，haven't you...<br> 
+L289 VI: Wendy ơi‚ em đã trải qua nhiều gian khổ rồi đúng không……<br> 
+
+L300 EN: But at this Frontline Base，none of that happens!<br> 
+L300 VI: Nhưng ở Căn Cứ Tiền Tuyến này thì chẳng có chuyện đó!<br> 
+
+L311 EN: There are people from all sorts of backgrounds，so even an<br>automaton like me can fit right in!<br> 
+L311 VI: Có người từ đủ mọi xuất thân nên ngay cả ô-tô-mát như em<br>cũng có thể hòa nhập được!<br> 
+
+L323 EN: I'd like to continue my journey too，but working here forever might<br>not be so bad!<br> 
+L323 VI: Em cũng muốn tiếp tục chuyến du lịch‚ nhưng mà làm việc ở đây mãi<br>cũng chẳng tệ đâu!<br> 
+
+L334 EN: Wendy...!<br> 
+L334 VI: Wendy ơi……!<br> 
+
+L345 EN: Alright! For Wendy's smile，I'm gonna work extra hard!<br> 
+L345 VI: Được rồi! Vì nụ cười của Wendy‚ anh sẽ nỗ lực làm việc hết sức!<br> 
+
+L356 EN: Yes! I'll do my best too!<br> 
+L356 VI: Vâng! Em cũng sẽ cố gắng hết sức!<br> 
+
+L407 EN: *phew*... finally here. Hey，Veera，is this really the place?<br> 
+L407 VI: Haa…… cuối cùng cũng tới nơi rồi. Này‚ Veera.ổn chứ?<br> 
+
+L442 EN: According to Lord Commander，there's a guide in the tunnels around<br>here.<br> 
+L442 VI: Theo lời Chỉ Huy kể thì ở các đường hầm quanh đây<br>có một người dẫn đường đấy.<br> 
+
+L454 EN: Huh. I wonder what she's like?<br> 
+L454 VI: Ờ. Không biết cô ấy là người như thế nào nhỉ?<br> 
+
+L496 EN: Oh? Are you visitors?<br> 
+L496 VI: Hử? Các vị là khách sao?<br> 
+
+L542 EN: Hello!♡<br> 
+L542 VI: Xin chào—♡<br> 
+
+L547 EN: I'm sorry for showing up so suddenly.<br> 
+L547 VI: Xin lỗi vì đã đột ngột ghé thăm.<br> 
+
+L559 EN: That girl，is she about my age?<br> 
+L559 VI: Cô bé kia‚ chừng tuổi em đúng không?<br> 
+
+L568 EN: Hmm，maybe just by looks...? But she doesn't seem like an ordinary<br>girl...<br> 
+L568 VI: Ưm…… xét về bề ngoài thì có lẽ vậy……?<br>Nhưng trông cô ấy không giống một cô gái bình thường……<br> 
+
+L577 EN: Excuse me，are you Wendy?<br> 
+L577 VI: Xin lỗi‚ cô có phải là Wendy không?<br> 
+
+L589 EN: Yes! And who are you?<br> 
+L589 VI: Vâng! Còn hai vị là ai thế?<br> 
+
+L596 EN: I'm Veera. As you can see，I'm a mage from Perdion.<br> 
+L596 VI: Em là Veera. Như cô thấy đấy‚ em là một pháp sư từ Perdion.<br> 
+
+L608 EN: And this is my older sister，Verisa.<br> 
+L608 VI: Và đây là chị gái của em‚ Verisa.<br> 
+
+L619 EN: You can call me Verisa!♡<br> 
+L619 VI: Cứ gọi em là Verisa nhé!♡<br> 
+
+L626 EN: Nice to meet you，Verisa，Veera. Um，so what brings you two here<br>from Perdion?<br> 
+L626 VI: Rất hân hạnh được làm quen‚ Verisa‚ Veera. Ưm‚ vậy hai vị tới đây<br>từ Perdion để làm gì vậy?<br> 
+
+L637 EN: Actually，we're searching for a particular ore.<br> 
+L637 VI: Thực ra chúng em đang tìm một loại quặng nào đó.<br> 
+
+L648 EN: Ore?<br> 
+L648 VI: Quặng á?<br> 
+
+L655 EN: It's an ore I need for my magic experiments. A rare type that works<br>really well with fire.<br> 
+L655 VI: Là loại quặng em cần cho thí nghiệm ma pháp của mình. Một thứ hiếm<br>hợp rất tốt với lửa đấy.<br> 
+
+L664 EN: As Sis says，that ore is very rare and wasn't sold in the market.<br> 
+L664 VI: Như chị nói‚ loại quặng đó rất hiếm và không bán ở chợ.<br> 
+
+L676 EN: So we consulted the Lord Commander，and he told us we could obtain<br>it from the Abyss...<br> 
+L676 VI: Thế là bọn em có hỏi ý Chỉ Huy‚ và ngài báo có thể tìm được<br>ở Đại Huyệt……<br> 
+
+L687 EN: The Lord Commander has instructed us to have someone named Wendy<br>guide us to the ore deposit.<br> 
+L687 VI: Chỉ Huy đã truyền lệnh cho bọn em nhờ một người tên Wendy<br>dẫn đường tới mỏ quặng.<br> 
+
+L737 EN: The Commander entrusted this job to me?<br> 
+L737 VI: Chỉ Huy đã giao công việc này cho em sao!?<br> 
+
+L748 EN: Fufu... Ehehe... Ahem!<br> 
+L748 VI: Hư hư…… e hè hè…… á‚ á khụm!<br> 
+
+L814 EN: In that case，I'll guide you there!<br> 
+L814 VI: Đã thế thì để em dẫn đường cho hai vị!<br> 
+
+L825 EN: Thank you.<br> 
+L825 VI: Cảm ơn em.<br> 
+
+L836 EN: Wendy，you seem reliable!♡ I'm counting on you today!♡<br> 
+L836 VI: Wendy ơi‚ em trông đáng tin cậy đấy!♡ Hôm nay nhời em nhé!♡<br> 
+
+L847 EN: I'm not that strong，so I'd be happy if you could protect me，Wendy?<br> 
+L847 VI: Em không mạnh đến thế đâu‚ nên nếu được Wendy che chở thì em sẽ vui lắm nhé—?<br> 
+
+L856 EN: I see! Don't worry!<br> 
+L856 VI: Ra là vậy! Cứ yên tâm!<br> 
+
+L867 EN: This is an important job from the Commander. I'll see it through<br>successfully!<br> 
+L867 VI: Đây là công việc quan trọng từ Chỉ Huy. Em sẽ hoàn thành trọn vẹn<br>cho mà xem!<br> 
+
+L878 EN: Yay! Thank you! I love you，Wendy!♡<br> 
+L878 VI: Tuyệt quá! Cảm ơn em! Em yêu Wendy ơi!♡<br> 
+
+L889 EN: Ehehehe...♪<br> 
+L889 VI: E hè hè hè……♪<br> 
+
+L900 EN: *sigh*... Sis，you're playing innocent to slack off again...<br> 
+L900 VI: Haa…… chị ơi‚ chị lại giả ngu để lười biếc rồi……<br> 
+
+L911 EN: Ehh，what are you talking about? I'd rather you not say such strange<br>things?<br> 
+L911 VI: Ê‚ nói cái gì thế—?<br>Đừng có nói mấy điều kỳ quặc như vậy chứ?<br> 
+
+L924 EN: ...I don't mind for myself，but don't come crying if the Lord<br>Commander scolds you again!<br> 
+L924 VI: …… Em thì không sao‚ nhưng nếu Chỉ Huy lại mắng em lần nữa<br>thì em đừng có khóc nhé!<br> 
+
+L933 EN: Huh，Verisa，do you always get scolded like that?<br> 
+L933 VI: Hử‚ Verisa‚ chị lúc nào cũng bị mắng sao?<br> 
+
+L945 EN: Yes. Not just scolded—the Lord Commander even teases her back.<br> 
+L945 VI: Vâng. Không chỉ bị mắng—Chỉ Huy còn trêu chọc em nữa cơ.<br> 
+
+L956 EN: She cries every time... but that's kind of cute，you know.<br> 
+L956 VI: Mỗi lần như vậy em lại khóc…… nhưng mà chỗ đó cũng dễ thương đấy chứ.<br> 
+
+L967 EN: Vi，Veera! Don't go blabbing my secrets!<br> 
+L967 VI: Vi‚ Veera! Đừng có tự tiện bép xép bí mật của em!<br> 
+
+L978 EN: Ehehe! I'm sorry. It just slipped out...<br> 
+L978 VI: E hè hè! Xin lỗi em. Tại lở miệng thôi……<br> 
+
+L990 EN: Um...?<br> 
+L990 VI: Ưm……?<br> 
+
+L1001 EN: *gasp!* N-no，just kidding!♡ Kidding，kidding!♡ C'mon，let's go find<br>that ore already!<br> 
+L1001 VI: Hả!? Kh‚ không có gì đâu—♡ Đùa thôi♡ Đùa thôi♡ Nào‚ mau đi tìm<br>khối quặng thôi!<br> 
+
+L1012 EN: Oh，right! Understood. Please follow me!<br> 
+L1012 VI: Á‚ đúng rồi nhỉ! Em hiểu rồi. Mời hai vị đi theo em!<br> 

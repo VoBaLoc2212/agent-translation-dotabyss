@@ -1,0 +1,95 @@
+{
+  "scene": "hmn_10340100002",
+  "title_vi": "Huấn Luyện Khắc Nghiệt Cận Kề Cái Chết",
+  "source_case": "EN-asset-is-English + title-still-JP",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10340100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 67,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 68,
+    "translated_records": 68,
+    "changed_lines": 68,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 545,
+      "vi": 545,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "477bcf6f167e01a4e19c55d8b89cf197b50312a1ad6a8fdc39417b1abfa2ce99",
+    "output_sha256": "42d2678b91a18413d592b84ab8cd8be25f258d116c077d326945b58b9a3b63b5"
+  },
+  "language": "vi",
+  "source_language_primary": "ja",
+  "alignment_source": "en asset (structural authority) + ja.json (nuance) + en.json (reference)",
+  "records": {
+    "title": 1,
+    "message": 67,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 68
+  },
+  "structural": {
+    "bom": true,
+    "newline": "crlf",
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "line_count_en": 545,
+    "line_count_vi": 545
+  },
+  "rules_applied": {
+    "commander_to_chi_huy": true,
+    "speaker_labels_kept_byte_identical": [
+      "<user>",
+      "カーラ"
+    ],
+    "fullwidth_comma_to_U+201A": true,
+    "ascii_comma_in_vi": 0,
+    "br_tags_preserved": true,
+    "title_translated_title_case": true,
+    "h18_translated_normally": "all characters confirmed 18+ per project rule"
+  },
+  "terminology_bank": {
+    "Eldorana": "Eldorana (kept romanized)",
+    "Frontline Base / 前線基地": "Căn Cứ Tiền Tuyến",
+    "Guard / 警備隊": "Đội Cảnh Vệ",
+    "Republic Guard / 共和国警備隊": "Đội Cảnh Vệ Cộng Hòa",
+    "Commander / 司令官": "Chỉ Huy",
+    "Carla / カーラ": "Carla (voice: em; addressed anh by Commander)"
+  },
+  "addressing_matrix": {
+    "Carla (カーラ)": "self em; addresses Commander as Chỉ Huy / anh",
+    "<user> (Commander)": "self anh; addresses Carla as em"
+  },
+  "notes": [
+    "EN-asset-is-English variant: message fields are English (fullwidth ，commas) -> translated EN->VI.",
+    "title, field was still JP (死と隣り合わせの厳しい訓練) -> translated JP->VI Title Case.",
+    "No messageTextUnder/messageTextCenter records in this scene.",
+    "Source EN assets occasionally used 'Commander' mis-typed perspective; VI normalized to Chỉ Huy.",
+    "Quote-doubling convention: EN asset had no \"\" doubling; VI uses none.",
+    "verify_asset_translation.py run with native --root E:/AgentTranslation (not MSYS path) to avoid false BLOCKED."
+  ],
+  "artifacts": {
+    "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10340100002.txt",
+    "qa_log": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10340100002_full/qa_log.json",
+    "manifest": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10340100002_full/manifest.json",
+    "focused_diff": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10340100002_full/focused_diff.md",
+    "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10340100002_full/build_vi.py"
+  }
+}

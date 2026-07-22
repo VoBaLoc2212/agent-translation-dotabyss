@@ -1,0 +1,40 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg18200a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,301301000,人型厄災（人魂）
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Title
+
+wait,1
+
+bgmplay,bgmtag2_1,bgm0032,0.75,1
+
+window,on,0.15
+message,,――It was born from the depths of a deep abyss.<br> 
+
+message,,And it aimed upward，upward，crawling its way toward the surface.<br>Born from the depths of hope，toward the land where despair awaits.<br> 
+
+message,,Its cold gaze fixed on the surface now turns，now watches the young<br>men who press toward the bottom of the dark and deep abyss.<br> 
+
+message,？？？,...<br> ,301301000
+
+
+window,off
+bgmstop,bgmtag2_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

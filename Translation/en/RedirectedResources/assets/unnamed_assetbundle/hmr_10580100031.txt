@@ -1,0 +1,210 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg13000a
+
+charaload,chara_1,105801000G,クレハ
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,A Gentle，Modest Service
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+
+
+
+
+
+
+
+window,on,0.15
+message,,One lazy afternoon. It's his first day off in a while，<br>and %user% lies about at his leisure.<br> 
+
+message,<user>,It's been a while since I had a full day off.<br>Maybe I'll indulge myself and go back to sleep...<br> 
+
+asyncseplay,setag1_1,se4300001,0,1,CONT
+
+message,,Knock knock.<br>After the sound of a knock，a voice comes from beyond the door.<br> 
+
+message,クレハ,Darling，it's Kureha.<br> ,,vc_10580100031_001_01
+
+message,<user>,Kureha...?<br>What brings you all the way to my room?<br> 
+
+message,クレハ,I simply found myself wanting to see you，darling...<br>Am I intruding...?<br> ,,vc_10580100031_002_01
+
+message,<user>,No，I had the day off anyway.<br>Don't worry，come in.<br> 
+
+asyncseplay,setag1_2,se4300003,0,1,CONT
+
+wait,1
+
+charashow,chara_1,0.5
+
+asynccharareaction,chara_1,nod,1,STOP
+
+message,クレハ,Excuse me，then...<br>Darling，you really were resting.<br> ,,vc_10580100031_003_01
+
+message,<user>,Yeah，it'd be rude to stay lying down.<br>I'll get up in a moment——<br> 
+
+asyncseplay,setag1_3,se4402003,0,1,CONT
+
+asynccharareaction,chara_1,shake,0.5,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,クレハ,No，please，stay just as you are.<br> ,,vc_10580100031_004_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charahide,chara_1,0
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+
+
+window,on,0.15
+message,クレハ,You're always so tired from your work，darling.<br>Please，rest easy.<br> ,,vc_10580100031_005_01
+
+message,<user>,Well，if you insist...<br> 
+
+asyncseplay,setag1_4,se4402004,0,1,CONT
+
+message,,Kureha sits beside %user% as he lies there.<br>The bed creaks softly，and he catches her sweet，fragrant scent.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Having a girl sit beside me while I lie here is oddly exciting...<br>though I'm sure Kureha doesn't mean anything by it...)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asynccharaface,chara_1,FaceShy,STOP
+window,on,0.15
+message,クレハ,...Darling.<br> ,,vc_10580100031_006_01
+
+message,<user>,Wh-whoa!?<br>W-what's wrong，Kureha?<br> 
+
+asynccharareaction,chara_1,shake,1,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,クレハ,That... this is the room we first joined in，darling，isn't it...?<br> ,,vc_10580100031_007_01
+
+message,<user>,Ah... ah，yeah，that's right...<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(So Kureha was thinking something similar...<br>and what's with that lewd voice all of a sudden...!?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+window,on,0.15
+message,クレハ,...Fufu... darling，are you excited?<br> ,,vc_10580100031_008_01
+
+message,<user>,Well，of course I'd get excited hearing something like that.<br> 
+
+crossfadeready
+
+charahide,chara_1,0
+
+charascale,chara_1,2,0
+
+asynccharaface,chara_1,FaceShy,STOP
+
+charashow,chara_1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+message,クレハ,...If it's alright with you，darling...<br>would you join with me here again...?<br> ,,vc_10580100031_009_01
+
+message,,As %user% nods without thinking，<br>Kureha draws close to him with graceful，elegant motion——<br> 
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

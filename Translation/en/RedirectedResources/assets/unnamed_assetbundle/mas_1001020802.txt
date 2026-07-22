@@ -1,0 +1,846 @@
+fade,Out,Black,0
+initend
+
+//ドット会話の設定に必須
+balloonload
+
+//背景ロード
+dotbgload,bg_1,1016,03001
+dotbgload,bg_2,1016,03001
+dotbgload,bg_3,1016,03001
+
+//BGM
+bgmplay,bgmtag0_1,bgm0039,0,1
+
+
+//キャラロード
+objectload,chara_1,CHARA,300101000,<user>
+objectload,Sophia,CHARA,106501000G,ソフィア
+objectload,Belisa,CHARA,100201000G,ベリサ
+objectload,Marina,CHARA,100301000G,マリナ
+objectload,Krull,CHARA,106701000G,クルル
+objectload,chara_10,BOSS,2022201,氷河の厄災
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+objectload,mecha,CHARA, 550100006,高周波発生装置
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//エフェクト用
+objectload,Belisa_hide,CHARA,100201000G,ベリサ
+objectload,chara_hide,CHARA,100201000G,ベリサ
+
+///厄災　エフェクト
+dotprefabload,DisasterRoarAppeal,Novel/VariantEffect/Boss2027301/DisasterRoarAppeal,2.5,1,0,chara_10,EffectPos
+
+
+//背景表示
+dotbgshow,bg_1,0
+dotbgshow,bg_2,-1
+dotbgshow,bg_3,1
+
+//キャラ表示
+objectshow,chara_1,0
+objectshow,Sophia,0
+objectshow,Belisa,0
+objectshow,Marina,0
+objectshow,Krull,0
+objectshow,chara_10,0
+
+objectshow,chara_hide,0
+objectshow,Belisa_hide,0
+
+
+//キャラ初期配置
+dotmove,chara_1,0,-5,0,1.5,Set
+dotmove,Sophia,0, -1,0,-1,Set
+dotmove,Belisa,0, -3,0,0,Set
+dotmove,Marina,0,-4,0,-1.5,Set
+dotmove,Krull,0, -2,0,1,Set
+
+dotmove,mecha,0,-4,0,1.5,Set
+
+dotmove,Belisa_hide,0,-3,0,0,Set
+
+dotmove,chara_hide,0,-1,4,0,Set
+
+
+dotmove,chara_10,0,7,0,0,Set
+
+//向きを変える
+objectdirect,chara_10,LEFT
+
+// キャラモーション
+objectmotion,chara_1,N_scared,0,1,,1
+objectmotion,Sophia,N_scared,0,1,,1
+objectmotion,Belisa,N_scared,0,1,,1
+objectmotion,Marina,N_scared,0,1,,1
+objectmotion,Krull,N_scared,0,1,,1
+objectmotion,chara_10,C_WeaponWait,0,1,,1
+
+
+objectmotion,mecha,C_Wait,0,1,,1
+
+
+objecthide,chara_hide
+objecthide,Belisa_hide
+
+
+//カメラ設定
+asyncdotcamerazoom,0.8,0,LinearTarget,CONT,0
+asyncdotcameramove,3,2,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+uivisible,on
+
+
+
+//フェードイン
+fade,In,Black,0.5
+asyncwait
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+asyncseplay,se4700019,se4700019,0,0.4,CONT,0
+
+//SE再生　ba_summon_2022201_01
+asyncseplayIngame,ba_summon_2022201_01,ene_2022201,ba_summon_2022201_01,0,1,CONT,2.4
+asyncobjectmotion,chara_10,Skill001,1,1,C_WeaponWait,1,CONT,0
+wait,2.4
+
+//画面揺れ
+
+//主人公一向がふっとばされる
+asyncdotmove,chara_1,0.5,-1,0,0,Linear,CONT,0
+asyncdotmove,Sophia,0.5,-1,0,0,Linear,CONT,0
+asyncdotmove,Belisa,0.5,-1,0,0,Linear,CONT,0
+asyncdotmove,Marina,0.5,-1,0,0,Linear,CONT,0
+asyncdotmove,Krull,0.5,-1,0,0,Linear,CONT,0
+
+asyncdotprefabshow,DisasterRoarAppeal,CONT,0
+linework,on,White,Strong
+wait,2.4
+linework,off,White,Strong
+
+//////////////////////////////////////////////////////
+
+wait,1
+asyncdotcamerazoom,1,0.5,LinearTarget,CONT,0
+asyncdotcameramove,-1,0,LinearTarget,0.5,None,CONT,0
+asyncwait
+
+dotmessage,<user>,<size=24>Do we have any other choice...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,20
+
+
+//主人公一向をもとに戻す
+asyncdotmove,chara_1,0.5,1,0,0,Linear,CONT,0
+asyncdotmove,Sophia,0.5,1,0,0,Linear,CONT,0
+asyncdotmove,Belisa,0.5,1,0,0,Linear,CONT,0
+asyncdotmove,Marina,0.5,1,0,0,Linear,CONT,0
+asyncdotmove,Krull,0.5,1,0,0,Linear,CONT,0
+asyncwait
+
+
+//エモ　汗
+asyncseplay,se4800008,se4800008,0,1,CONT,0
+asyncobjectemo,Krull,Panic
+//向きを変える
+objectdirect,Krull,LEFT
+wait,0.1
+objectdirect,Krull,RIGHT
+wait,0.1
+objectdirect,Krull,LEFT
+wait,0.1
+objectdirect,Krull,RIGHT
+wait,0.1
+
+dotmessage,クルル,<size=24>It's，it's too biiiig~...,,mcv_1001020802_001_01,NORMAL,Mid,Sad,Krull,TOP,NORMAL,0,20
+
+
+//エモ　閃き
+asyncseplay,se4800005_,se4800005,0,1,CONT,0
+objectemo,Sophia,Flash
+objectdirect,Sophia,LEFT
+
+asyncobjectmotion,Sophia,N_gesture,1,1,N_gesture,1,CONT,0
+asyncdotmove,Sophia,0.5,-0.5,0,0,Linear,CONT,0
+asyncwait
+
+dotmessage,ソフィア,<size=24>Hey!<br>That thing Adelheid gave us!,,mcv_1001020802_002_01,NORMAL,Mid,Anger,Sophia,TOP,NORMAL,0,50
+
+asyncdotmove,Krull,0.5,0,0,-0.5,Linear,CONT,0
+asyncdotmove,Marina,0.5,0,0,0.5,Linear,CONT,0
+asyncwait
+
+//エモ　？
+asyncseplay,se4800009_,se4800009,0,1,CONT,0
+asyncobjectemo,Belisa,Question
+asyncobjectemo,Krull,Question
+asyncobjectemo,Marina,Question
+
+asyncobjectmotion,Belisa,N_think,1,1,None,1,CONT,0
+asyncobjectmotion,Marina,N_think,1,1,None,1,CONT,0.1
+asyncobjectmotion,Krull,N_think,1,1,None,1,CONT,0.2
+objectmotion,chara_1,C_Wait,0,1,,0.1
+asyncwait
+
+dotmessage,ベリサ,<size=24>What was it?<br>The one with the complicated name!,,mcv_1001020802_003_01,NORMAL,Mid,NORMAL,Belisa,TOP,NORMAL,0,20
+
+dotmessage,マリナ,<size=24>Ko-shuu... something?,,mcv_1001020802_004_01,NORMAL,Mid,Sad,Marina,TOP,NORMAL,0,50
+asyncobjectmotion,Marina,C_Wait,0,1,,1
+
+dotmessage,<user>,<size=24>It's called the High-Frequency Resonance Barrier!<br>Hold on!,,,NORMAL,Mid,,chara_1,TOP,SHAKE,0,20
+
+objectmotion,Sophia,C_Wait,0,1,,0.1
+
+
+objectdirect,Belisa,LEFT
+objectdirect,Krull,LEFT
+objectdirect,Sophia,LEFT
+objectdirect,Marina,LEFT
+
+objectmotion,Belisa,C_Wait,0,1,,0.1
+objectmotion,Sophia,C_Wait,0,1,,0.1
+objectmotion,Krull,C_Wait,0,1,,0.1
+objectmotion,Marina,C_Wait,0,1,,0.1
+
+//エモ　！？
+asyncseplay,se4800011_,se4800011,0,1,CONT,0
+asyncobjectemo,Belisa,Exclamation
+asyncobjectemo,Sophia,Exclamation
+asyncobjectemo,Krull,Exclamation
+asyncobjectemo,Marina,Exclamation
+
+objectmotion,chara_1,C_Wait,0,1,,0.1
+
+asyncwait
+objectdirect,chara_1,LEFT
+
+//エモ　・・・
+asyncseplay,se4800014_,se4800014,0,1,CONT,0
+asyncobjectemo,chara_1,Silence
+
+objectmotion,chara_1,C_Operation,0,1,,1
+
+//SE再生
+asyncseplay,se4402003,se4402003,0,1,CONT,1
+asyncseplay,se4402003_2,se4402003,0,1,CONT,1.5
+
+asyncobjectmotion,Belisa,C_Yell,1,1,C_Yell,1,CONT,0
+asyncobjectmotion,Marina,C_Yell,1,1,C_Yell,1,CONT,0.1
+asyncobjectmotion,Krull,C_Yell,1,1,C_Yell,1,CONT,0.2
+asyncobjectmotion,Sophia,C_Yell,1,1,C_Yell,1,CONT,0.2
+
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//高周波発生装置
+dotprefabload,NovelEF_HighFrequencyAttack,Effects/Novel/HighFrequency/prefabs/NovelEF_HighFrequencyAttack,0.15, -0.1, 0,mecha,EffectPos
+dotprefabload,NovelEF_HighFrequencyDown,Effects/Novel/HighFrequency/prefabs/NovelEF_HighFrequencyDown,0, 0, -1,mecha,EffectPos
+dotprefabload,NovelEF_HighFrequencyThunder,Effects/Novel/HighFrequency/prefabs/NovelEF_HighFrequencyThunder,0, 0, 0,chara_10,RootEffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+asyncwait
+asyncobjectmotion,chara_1,C_Wait,1,1,C_Wait,1,CONT,0
+objectdirect,chara_1,RIGHT
+
+
+dotmessage,<user>,<size=24>I'm not counting on it，but<br>please work!,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,20
+
+
+
+
+//高周波発生装置/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+asyncobjectmotion,mecha,C_Set,1,1,,1,CONT,0
+objectshow,mecha,0.1
+asyncwait
+
+//SE再生 
+asyncseplayIngame,ba_air_turret_start,battle_general,ba_air_turret_start,0,1,CONT,0
+asyncobjectmotion,mecha,C_Wait,0,1,,1,CONT,0
+asyncwait
+//カメラ設定
+asyncdotcamerazoom,0.8,1,LinearTarget,CONT,0
+asyncdotcameramove,3,2,LinearTarget,1,None,CONT,0
+asyncdotmove,mecha,1,-1,4,0,LinearTarget,CONT,0
+asyncwait
+
+//高周波発生装置/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+asyncobjectmotion,mecha,C_Attack,1,1,None,1,CONT,0
+
+//SE再生
+asyncseplay,se4410057,se4410057,0,1,CONT,0
+asyncdotprefabshow,NovelEF_HighFrequencyAttack,CONT,0
+
+asyncobjectmotion,Belisa,C_Wait,1,1,None,1,CONT,0
+asyncobjectmotion,Marina,C_Wait,1,1,None,1,CONT,0
+asyncobjectmotion,Krull,C_Wait,1,1,None,1,CONT,0
+asyncobjectmotion,Sophia,C_Wait,1,1,None,1,CONT,0
+
+
+
+objectdirect,Belisa,RIGHT
+objectdirect,Krull,RIGHT
+objectdirect,Sophia,RIGHT
+objectdirect,Marina,RIGHT
+
+
+
+asyncdotcamerazoom,0.9,0.25,LinearTarget,CONT,0
+asyncdotcameramove,5,2.5,LinearTarget,0.25,None,CONT,0
+asyncwait
+
+asyncdotshake,chara_10,0.2,0.08,0.2,4,on,0,off,CONT,0
+
+//SE再生
+asyncseplay,se4900133,se4900133,0,1,CONT,0
+asyncdotprefabshow,NovelEF_HighFrequencyThunder,CONT,0
+seplayIngame,ba_summon_2022201_01_2,ene_2022201,ba_summon_2022201_01,1,1
+dotmessage,氷河の厄災,<size=24>GROOAAAAaaaaaAAAAaaa!,900000002,,SHOUT_B,big,,chara_10,rightbottom,shake,-650,200
+
+objectmotion,chara_10,C_Stan,1,1,C_Stan,1
+
+asyncobjectmotion,Belisa,N_bounce,1,1,N_bounce,1,CONT,0
+
+objectmotion,Belisa,N_bounce,0,1,,1
+
+
+dotmessage,ベリサ,<size=24>Ohhh~~~!?,,mcv_1001020802_005_01,NORMAL,Mid,Surprise,Belisa,RIGHTTOP,NORMAL,250,100
+asyncobjectmotion,Belisa,C_Wait,1,1,,1
+
+
+objectmotion,Krull,N_bounce,0,1,,1
+
+dotmessage,クルル,<size=24>It stopped moving!,,mcv_1001020802_006_01,NORMAL,Mid,Surprise,Krull,RIGHTTOP,NORMAL,250,100
+asyncobjectmotion,Krull,C_Wait,1,1,,1
+
+objectmotion,Sophia,N_bounce,0,1,,1
+dotmessage,ソフィア,<size=24>No way...<br>It's working!?,,mcv_1001020802_007_01,NORMAL,Mid,Surprise,Sophia,RIGHTTOP,NORMAL,250,100
+asyncobjectmotion,Sophia,C_Wait,1,1,,1
+
+asyncobjectmotion,Marina,N_bounce,1,1,N_bounce,1,CONT,0
+dotmessage,マリナ,<size=24>This... this is our chance，isn't it?,,mcv_1001020802_008_01,NORMAL,Mid,happy,Marina,RIGHTTOP,NORMAL,450,100
+asyncobjectmotion,Marina,C_Wait,1,1,,1
+
+asyncdotcamerazoom,1,0.25,Set,CONT,0
+asyncdotcameramove,-1,0,Set,0.25,None,CONT,0
+asyncwait
+
+asyncobjectmotion,chara_1,N_Yes,1,1,C_Wait,1
+dotmessage,<user>,<size=24>As expected of Adelheid!<br>We might actually be able to do this!,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,20
+
+asyncdotmove,chara_1,0.1,-5,0,1.5,LinearTarget,CONT,0
+asyncdotmove,Belisa,0.1, -3,0,0,LinearTarget,CONT,0
+asyncdotmove,Marina,0.1,-4,0,-1.5,LinearTarget,CONT,0
+
+objectdirect,Belisa,LEFT
+objectdirect,Krull,LEFT
+objectdirect,Sophia,LEFT
+objectdirect,Marina,LEFT
+
+asyncobjectmotion,chara_1,U_Pointing,1,1,None,1,CONT,0
+dotmessage,<user>,<size=24>Everyone attack!<br>Hit it with everything you've got!,,,NORMAL,Big,,chara_1,TOP,SHAKE,0,20
+asyncobjectmotion,chara_1,C_Wait,2,1,,1
+
+asyncwait
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///ソフィアのスキル
+dotprefabload,ef_Skill01_1,Novel/VariantEffect/Unit106501000G/Eff_SophiaAround000,0, 0.00, 0.00,Sophia,EffectPos
+dotprefabload,ef_Skill01_2,Novel/VariantEffect/Unit106501000G/Eff_SophiaCharge000,0, 0.00, 0.00,Sophia,EffectPos
+dotprefabload,ef_Skill01_3,Novel/VariantEffect/Eff_LandSmokeSide000,0, 0.0, 0.00,Sophia,EffectPos
+dotprefabload,ef_Skill01_4,Novel/VariantEffect/Unit106501000G/Eff_SophiaSword000,0, 0.0, 0.00,Sophia,EffectPos
+dotprefabload,ef_Skill01_5,Novel/VariantEffect/Unit106501000G/Eff_SophiaSlash000,0, 0.0, 0.00,Sophia,EffectPos
+dotprefabload,ef_Skill01_6,Novel/VariantEffect/Unit106501000G/Eff_SophiaHit001,0, 0.0, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01_7,Novel/VariantEffect/Unit106501000G/Eff_SophiaSword001,0, 0.0, 0.00,Sophia,EffectPos
+
+//クルルのスキル
+dotprefabload,ef_SkillUniqueAction01_01_1,Novel/VariantEffect/Unit106701000G/BattleEF_KrullSmoke,0.00, 0.00, 0.00,Krull,RootEffectPos
+dotprefabload,ef_SkillUniqueAction01_01_2,Novel/VariantEffect/Unit106701000G/BattleEF_KrullEye,0.00, 0.00, 0.00,Krull,EffectPos
+dotprefabload,ef_Skill01SkillEffect_227,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHitSmall,1.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01SkillEffect_229,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHitSmall,1.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01SkillEffect_228,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHitSmall,1.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01SkillEffect_230,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHitSmall,1.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01SkillEffect_231,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHitSmall,1.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01SkillEffect_232,Novel/VariantEffect/Unit106701000G/BattleEF_KrullHit,1.00, 0.00, 0.00,chara_10,EffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+objectdirect,Belisa,RIGHT
+objectdirect,Krull,RIGHT
+objectdirect,Sophia,RIGHT
+objectdirect,Marina,RIGHT
+
+asyncobjectmotion,Marina,C_Yell,2,1,C_Yell,1
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//移動＋歩きモーション
+asyncobjectmotion,Sophia,C_Jamp,1,1,None,1,CONT,0
+asyncobjectmotion,Krull,C_Jamp,1,1,None,1,CONT,0.1
+asyncdotmove,Krull,0.5,-1,0,1,LinearTarget,CONT,0.1
+asyncdotmove,Sophia,0.5,0,0,-1.5,LinearTarget,CONT,0
+asyncwait
+asyncobjectmotion,Sophia,C_WeaponWait,0,1,,1,CONT,0
+asyncobjectmotion,Krull,C_WeaponWait,0,1,,1,CONT,0.1
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+//ベリサ　魔法チャージモーション
+asyncobjectmotion,Belisa,C_WeaponSkillCharge,0,1,,1,CONT,0
+
+asyncseplay,se4900054,se4900054,0,1,CONT,0
+asyncobjectmotion,Krull,C_WeaponSkillCharge,0,1,,1,CONT,0
+
+asyncseplay,se4900059,se4900059,0,1,CONT,0.1
+asyncobjectmotion,Sophia,C_WeaponSkillCharge,0,1,,1,CONT,0.1
+asyncwait
+
+
+//クルル スキル//////////////////////////////////////////////////////////////////////////////////////////////////
+
+//キャラの位置の定義
+//asyncdotmove,Krull,0.5,-1,0,1,LinearTarget,CONT,0.1
+setval,Krull.x,-1
+setval,Krull.y,0
+setval,Krull.z,1
+
+asyncobjectshadow,Krull,off,CONT,0.717
+
+//スキルモーション再生　前進
+asyncdotobjectskilltrigger,Krull,Skill01In
+
+//クルル_ジジジジ_ポーズ
+asyncobjectmotion,Krull,U_Skill01_start,1,1,None,1,CONT,0
+
+//クルル_トン_四つん這い
+asyncseplayIngame,ba_skill_106701000_01,cha_106701000,ba_skill_106701000_01,0,1,CONT,0
+asyncdotprefabshow,ef_SkillUniqueAction01_01_1,CONT,0.000
+
+//クルル_キラン_目が光る
+asyncseplayIngame,ba_skill_106701000_02,cha_106701000,ba_skill_106701000_02,0,1,CONT,0.633
+asyncdotprefabshow,ef_SkillUniqueAction01_01_2,CONT,0.633
+asyncwait
+
+//クルル_爪のスラッシュ音
+asyncseplayIngame,ba_battle_physics_bite_m,battle_general,ba_battle_physics_bite_m,0,1,CONT,0.367
+asyncdotprefabshow,ef_Skill01SkillEffect_227,CONT,0.367
+asyncseplayIngame,ba_battle_physics_bite_l,battle_general,ba_battle_physics_bite_l,0,1,CONT,0.450
+asyncdotprefabshow,ef_Skill01SkillEffect_228,CONT,0.450
+asyncdotprefabshow,ef_Skill01SkillEffect_229,CONT,0.533
+asyncdotprefabshow,ef_Skill01SkillEffect_230,CONT,0.617
+asyncdotprefabshow,ef_Skill01SkillEffect_231,CONT,0.717
+
+
+
+//SE再生 
+asyncseplayIngame,ba_battle_physics_slash_l_,battle_general,ba_battle_physics_slash_l,0,1,CONT,1.333
+asyncdotprefabshow,ef_Skill01SkillEffect_232,CONT,1.333
+//asyncdotmove,Krull,1,-1.5,0,1,LinearTarget,CONT,0
+
+//スキルモーション再生 後退
+asyncdotobjectskilltrigger,Krull,Skill01Out,CONT,0
+
+//クルル_着地
+asyncseplayIngame,ba_skill_106701000_03,cha_106701000,ba_skill_106701000_03,0,1,CONT,0.633
+asyncobjectshadow,Krull,on,CONT,0.633
+asyncwait
+
+asyncobjectmotion,Krull,C_WeaponWait,1,1,None,1,CONT,0
+
+//クルル//////////////////////////////////////////////////////////////////////////////////////////////////
+
+//ソフィア　スキル//////////////////////////////////////////////////////////////////////////////////////////////////
+//キャラの位置の定義
+//asyncdotmove,Sophia,0.5,-1,0,-1.5,LinearTarget,CONT,0
+setval,Sophia.x,0
+setval,Sophia.y,0
+setval,Sophia.z,-1.5
+
+
+//ソフィア
+
+//スキルモーション再生
+asyncdotobjectskilltrigger,Sophia,Skill01
+
+//SE
+asyncseplayIngame,ba_skill_106501000_01,cha_106501000,ba_skill_106501000_01,0,1,CONT,0
+asyncobjectmotion,Sophia,U_Skill_01_stance,   1,1,None,1,CONT,0.000
+
+//SE
+asyncseplayIngame,ba_battle_magic_light_s,battle_general,ba_battle_magic_light_s,0,1,CONT,0.833
+asyncobjectmotion,Sophia,U_Skill_02_reservoir,1,1,None,1,CONT,0.833
+
+asyncobjectmotion,Sophia,U_Skill_03_Slash,1,1,None,1,CONT,2.033
+
+asyncobjectmotion,Sophia,U_Skill_04_Chiburi,  1,1,None,1,CONT,2.583
+
+asyncobjectmotion,Sophia,U_Skill_05_to_Wait  ,1,1,None,1,CONT,3.667
+
+//SE
+asyncseplayIngame,ba_skill_106501000_04,cha_106501000,ba_skill_106501000_04,0,1,CONT,3.967
+asyncobjectmotion,Sophia,C_BackStep          ,1,1,None,1,CONT,3.967
+asyncobjectmotion,Sophia,C_WeaponWait        ,1,1,None,1,CONT,4.267
+
+asyncdotprefabshow,ef_Skill01_1,CONT,0.000
+asyncdotprefabshow,ef_Skill01_2,CONT,0.750
+asyncdotprefabshow,ef_Skill01_3,CONT,0.833
+
+//SE
+asyncseplayIngame,ba_skill_106501000_02,cha_106501000,ba_skill_106501000_02,0,1,CONT,1.4
+asyncseplayIngame,ba_skill_106501000_03,cha_106501000,ba_skill_106501000_03,0,1,CONT,1.4
+asyncdotprefabshow,ef_Skill01_4,CONT,1.400
+
+//SE
+asyncseplayIngame,ba_battle_magic_thunder_s,battle_general,ba_battle_magic_thunder_s,0,1,CONT,2.100
+asyncseplayIngame,ba_paralysis_apply,battle_general,ba_paralysis_apply,0,1,CONT,2.100
+asyncseplayIngame,ba_battle_physics_slash_l,battle_general,ba_battle_physics_slash_l,0,1,CONT,2.100
+asyncdotprefabshow,ef_Skill01_5,CONT,2.100
+asyncdotprefabshow,ef_Skill01_6,CONT,2.183
+asyncdotprefabshow,ef_Skill01_7,CONT,3.233
+
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///ベリサのスキル
+dotprefabload,ActionSkillStartOrange,Novel/VariantEffect/ActionSkillStartOrange,0.00, -0.50, -1.00,Belisa_hide
+//dotprefabload,ef_Attack_1,Novel/VariantEffect/ShockWaveEffectOrange,0.00, 0.00, 0.00,chara_10,EffectPos
+//dotprefabload,ef_Attack_2,Novel/VariantEffect/Eff_FlashOrange001,0.60, -0.28, 0.00,chara_10,EffectPos
+//dotprefabload,ef_AttackSkillEffect_1,Novel/VariantEffect/FireBallEffectOrange001,0.68, 0.0, 0.00,chara_10,
+//dotprefabload,ef_Skill01_378,Novel/VariantEffect/Unit100201000G/MagicCircleEffect,0.00, 0.00, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill01_01,Novel/VariantEffect/Unit100201000G/MagicCircleEffect,0.00, 0.00, 0.00,Belisa_hide,EffectPos
+dotprefabload,ef_Skill01_02,Novel/VariantEffect/SkillChargeEffectOrange,0.00, 0.70, 0.00,Belisa_hide,SkillChargeEffectPos
+dotprefabload,ef_Skill01_03,Novel/VariantEffect/Unit100201000G/LeftSmorkEffect,0.00, 0.00, 0.00,Belisa_hide,
+dotprefabload,ef_Skill01_04,Novel/VariantEffect/SkillChargeImpactEffectOrange,1.00, -0.70, 0.00,Belisa,SkillChargeImpactEffectPos
+dotprefabload,ef_Skill01_05,Novel/VariantEffect/Unit100201000G/RightSmorkEffect,0.00, 0.00, 0.00,Belisa_hide,
+dotprefabload,ef_Skill01SkillEffectTimeline_1,Novel/VariantEffect/Unit100201000G/ProjectileSkill01,6.5, 7, 0,chara_10
+dotprefabload,Skill01ImpactEffect,Novel/VariantEffect/Unit100201000G/Skill01ImpactEffect,0, 0.50, -1,chara_10
+//dotprefabload,FirePllar,Novel/VariantEffect/FirePllar,0, 0.50, -1,chara_10,
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+asyncwait
+
+//ソフィアスキルエフェクト消去
+dotprefabdelete,ef_Skill01_1
+dotprefabdelete,ef_Skill01_2
+dotprefabdelete,ef_Skill01_3
+dotprefabdelete,ef_Skill01_4
+dotprefabdelete,ef_Skill01_5
+dotprefabdelete,ef_Skill01_6
+dotprefabdelete,ef_Skill01_7
+
+dotmessage,ベリサ,<size=24>Everyone stand back!<br>I'm going to blast it with a really big one!,,mcv_1001020802_009_01,NORMAL,Mid,NORMAL,Belisa,TOP,NORMAL,0,20
+
+asyncobjectmotion,chara_1,C_BackStep,1,1,None,1,CONT,0
+asyncobjectmotion,Sophia,C_BackStep,1,1,None,1,CONT,0
+asyncobjectmotion,Marina,C_BackStep,1,1,None,1,CONT,0
+asyncobjectmotion,Krull,C_BackStep,1,1,None,1,CONT,0
+
+asyncdotmove,chara_1,0.5,-4,0,0,Linear,CONT,0
+asyncdotmove,Sophia,0.5,-4,0,0,Linear,CONT,0
+asyncdotmove,Krull,0.5,-4,0,0,Linear,CONT,0
+asyncdotmove,Marina,0.5,-4,0,0,Linear,CONT,0
+asyncwait
+
+asyncobjectmotion,Sophia,C_Yell,1,1,C_Yell,1,CONT,0
+asyncobjectmotion,Krull,C_Yell,1,1,C_Yell,1,CONT,0
+
+
+//ベリサ　スキル///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//キャラの位置の定義
+setval,Belisa.x,-3
+setval,Belisa.y,0
+setval,Belisa.z,0
+
+//スキルモーション再生
+asyncdotobjectskilltrigger,Belisa,Skill01
+
+asyncobjectmotion,Belisa,U_Skill,1,1,None,1,CONT,0.000
+
+//SE 大爆発	
+asyncseplay,se4900199,se4900199,0,1,CONT,0
+asyncdotprefabshow,ActionSkillStartOrange,CONT,0.000
+asyncdotprefabshow,ef_Skill01_01,CONT,0.000
+
+asyncdotprefabshow,ef_Skill01_02,CONT,0.000
+
+asyncseplayIngame,ba_skill_100201000_02,cha_100201000,ba_skill_100201000_02,0,1,CONT,2.182
+asyncdotprefabshow,ef_Skill01_04,CONT,2.182
+
+//カメラ設定
+asyncdotcamerazoom,0.8,0.5,LinearTarget,CONT,0
+asyncdotcameramove,2,2,LinearTarget,0.5,None,CONT,0
+
+
+//SE再生 
+asyncseplayIngame,ba_battle_magic_fire_l_10,battle_general,ba_battle_magic_fire_l,0,1,CONT,2.183
+asyncdotprefabshow,ef_Skill01SkillEffectTimeline_1,CONT,2.183
+
+//エフェクトを回転
+asyncdotprefabrotate,ef_Skill01SkillEffectTimeline_1,0,0,0,135,Set,CONT,0,0
+
+asyncdotprefabshow,ef_Skill01_03,CONT,0.917
+asyncdotprefabshow,ef_Skill01_05,CONT,0.917
+asyncwait
+
+
+
+//SE再生
+
+//SE再生
+asyncseplay,se4900201_,se4900201,0,1,CONT,0
+asyncseplayIngame,ba_battle_magic_fire_m,battle_general,ba_battle_magic_fire_m,0,1,CONT,0
+asyncdotprefabarcmove,ef_Skill01SkillEffectTimeline_1,0.2,XY,-1,0,0,LinearTarget,0,0,CONT,0
+asyncdotprefabdelete,ef_Skill01SkillEffectTimeline_1,CONT,0.2
+asyncdotprefabshow,Skill01ImpactEffect,CONT,0.000
+
+
+//ベリサスキル///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//SE 大爆発	
+asyncseplay,se4900002,se4900002,0,1,CONT,0.2
+
+//画面揺れ
+
+fade,Out,White,1
+
+dotmove,chara_1,0,-10,0,-1,Set
+dotmove,Marina,1,-10,0,0,Set
+
+asyncobjectmotion,chara_1,C_Wait,0,0,,0
+asyncobjectmotion,Marina,C_Wait,0,0,,0
+
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncobjectmotion,Belisa,C_WeaponWait,0,1,,1
+
+
+dotmove,chara_1,0,-5,0,1.5,Set
+dotmove,Sophia,0, -1,0,-1,Set
+dotmove,Belisa,0, -3,0,0,Set
+dotmove,Marina,0,-4,0,-1.5,Set
+dotmove,Krull,0, -2,0,1,Set
+
+wait,0.1
+
+// キャラモーション
+objectmotion,chara_1,C_Wait,0,1,,1
+objectmotion,Belisa,C_Wait,0,1,,1
+objectmotion,Marina,C_Wait,0,1,,1
+objectmotion,Sophia,C_Wait,0,1,,1
+objectmotion,Krull,C_Wait,0,1,,1
+
+
+//カメラ設定
+asyncdotcamerazoom,0.8,0,LinearTarget,CONT,0
+asyncdotcameramove,4,2,LinearTarget,0,None,CONT,0
+
+fade,In,White,1
+wait,1
+
+//SE再生　足踏み
+
+//画面揺れ
+
+//SE再生
+asyncseplay,se4030019,se4030019,0,1,CONT,2
+objectmotion,chara_10,C_Down,1,1,C_DownWait,1,CONT,0
+
+objectmotion,Krull,N_fun,0,1,,1
+objectmotion,Sophia,N_fun,0,1,,1
+
+
+//ベリサ　倒れる
+asyncobjectmotion,Belisa,N_limit,1,1,N_limit,1,CONT,0
+
+//////////////////////////////////////////////////////////////
+objectmotion,Krull,C_Wait,0,1,,1
+//エモ　汗
+asyncseplay,se4800008_2,se4800008,0,1,CONT,0
+asyncobjectemo,Krull,Panic
+objectdirect,Krull,LEFT
+dotmove,Krull,1,-2,0,0.5,LinearTarget
+asyncobjectmotion,Krull,N_squat,1,1,,1
+
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,-1,0,LinearTarget,0,None,CONT,0
+
+
+asyncwait
+//エモ　ハート
+asyncseplay,se4800002_,se4800002,0,1,CONT,0
+asyncobjectemo,Marina,Heart
+asyncobjectmotion,Marina,N_joy,0,1,,1
+asyncwait
+dotmessage,マリナ,<size=24>Everyone~!<br>Incredible! This is incredible~!,,mcv_1001020802_010_01,NORMAL,Mid,happy,Marina,TOP,NORMAL,0,50
+
+objectdirect,Sophia,LEFT
+objectmotion,Sophia,N_embarrassing,0,1,,1
+asyncobjectmotion,Marina,C_Wait,1,1,,1
+
+dotmessage,<user>,<size=24>Did we... do it!?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,20
+
+objectdirect,Sophia,RIGHT
+objectdirect,Krull,RIGHT
+
+// カメラ設定
+asyncdotcamerazoom,0.8,0.5,LinearTarget,CONT,0
+asyncdotcameramove,3,1,LinearTarget,0.5,None,CONT,0
+
+//厄災が起き上がる
+asyncobjectmotion,chara_10,N_rise,1,1,C_WeaponWait,1,CONT,0
+
+objectmotion,chara_1,N_scared,0,1,,1
+objectmotion,Sophia,N_scared,0,1,,1
+objectmotion,Belisa,N_scared,0,1,,1
+objectmotion,Marina,N_scared,0,1,,1
+objectmotion,Krull,N_scared,0,1,,1
+
+
+//エフェクトロード///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//冷凍ビーム
+dotprefabload,ef_Skill001A_1,Novel/VariantEffect/Boss2022201/GlacierWhiteBreathing000,-2.00, -1.20, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill001A_2,Novel/VariantEffect/Boss2022201/GlacierChargeBall000,-2.00, -1.20, 0.00,chara_10,EffectPos
+dotprefabload,ef_Skill001A_3,Novel/VariantEffect/Boss2022201/GlacierIceIrradiationBeam000,-2.00, -1.20, 0.00,chara_10,EffectPos
+
+//吹雪
+dotprefabload,ef_Skill002Wipe_3,Novel/VariantEffect/Boss2022201/GlacierAvalanche000,-2.00, -1.20, 0.00,chara_10,EffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+asyncwait
+asyncseplayIngame,ba_skill05_2022201_01,ene_2022201,ba_skill05_2022201_01,0,1,CONT,0
+
+
+//厄災がビームを撃つ
+setval,chara_10.x,0
+setval,chara_10.y,0
+setval,chara_10.z,0
+
+//SE再生　吸い込み
+seplayIngame,ba_skill01_2022201_01,ene_2022201,ba_skill01_2022201_01,1,1
+asyncobjectmotion,chara_10,Skill001,1,1,C_WeaponWait,1,CONT,0.000
+asyncdotmove,chara_10,2.500,0,0,0,Linear,CONT,0.000
+asyncdotscale,chara_10,2.500,1,1,LinearTarget,CONT,0.000
+asyncdotmove,chara_10,0.033,0,0,0,Linear,CONT,2.500
+asyncdotscale,chara_10,0.033,1,1,LinearTarget,CONT,2.500
+asyncdotmove,chara_10,0.467,0,0,0,Linear,CONT,2.533
+asyncdotscale,chara_10,0.467,1,1,LinearTarget,CONT,2.533
+asyncdotprefabshow,ef_Skill001A_1,CONT,0.000
+asyncdotprefabshow,ef_Skill001A_2,CONT,2.500
+
+//エフェクトを回転
+asyncdotprefabrotate,ef_Skill001A_3,0,0,0,-65,Linear,CONT,0
+asyncdotprefabarcmove,ef_Skill001A_3,0,XY,6.7,-1.5,0,Linear,0,0,CONT,0
+
+//SE再生　冷凍ビーム
+asyncseplayIngame,ba_skill01_2022201_02,ene_2022201,ba_skill01_2022201_02,0,1,CONT,2.5
+asyncdotprefabshow,ef_Skill001A_3,CONT,2.500
+
+//高周波発生装置/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+asyncobjectmotion,mecha,C_Down,1,1,None,1,CONT,2.5
+asyncseplay,se4900001,se4900001,0,1,CONT,2.5
+asyncdotprefabshow,NovelEF_HighFrequencyDown,CONT,2.5
+asyncobjecthide,mecha,0.5,CONT,2.5
+
+
+//エフェクト削除
+asyncdotprefabdelete,NovelEF_HighFrequencyAttack,CONT,2.5
+asyncdotprefabdelete,NovelEF_HighFrequencyThunder,CONT,2.6
+
+
+//画面揺れ
+
+
+asyncwait
+wait,3
+
+//SE再生　咆哮
+seplayIngame,ba_summon_2022201_01_3,ene_2022201,ba_summon_2022201_01,1,1
+dotmessage,氷河の厄災,<size=24>GROOAAAAaaaaaAAAAaaa!!,900000002,,SHOUT_B,big,,chara_10,rightbottom,shake,-750,300
+linework,off,White,Strong
+
+
+//厄災　吹雪エフェクト///////////////////////////////////////////////
+
+seplayIngame,ge_appe_2022201_04,ene_2022201,ge_appe_2022201_04,1,1
+asyncobjectmotion,chara_10,Skill002,1,1,C_WeaponWait,1,CONT,0
+
+//SE再生　足踏み
+asyncseplayIngame,ba_skill05_2022201_02,ene_2022201,ba_skill05_2022201_01,0,1,CONT,4.4
+
+
+//SE再生　吹雪
+asyncseplayIngame,ge_appe_2022201_02,ene_2022201,ge_appe_2022201_02,0,1,CONT,4.5
+asyncdotprefabshow,ef_Skill002Wipe_3,CONT,4.5
+wait,6
+
+//画面揺れ
+//SE再生　足踏み
+asyncseplayIngame,ba_skill05_2022201_12,ene_2022201,ba_skill05_2022201_01,0,1,CONT,0
+asyncwait
+
+asyncobjectmotion,chara_1,N_defense,1,1,None,1,CONT,0
+asyncobjectmotion,Sophia,N_guard,1,1,None,1,CONT,0
+asyncobjectmotion,Belisa,N_guard,1,1,None,1,CONT,0
+asyncobjectmotion,Marina,N_defense,1,1,None,1,CONT,0
+asyncobjectmotion,Krull,N_guard,1,1,None,1,CONT,0
+
+//主人公一向がふっとばされる
+asyncdotmove,chara_1,0.5,-7,0,0,Linear,CONT,0
+asyncdotmove,Sophia,0.5,-7,0,0,Linear,CONT,0
+asyncdotmove,Belisa,0.5,-7,0,0,Linear,CONT,0
+asyncdotmove,Marina,0.5,-7,0,0,Linear,CONT,0
+asyncdotmove,Krull,0.5,-7,0,0,Linear,CONT,0
+
+asyncdotmove,chara_10,1,0,-1,0,Linear,CONT,0
+asyncobjecthide,chara_10,1
+wait,3.5
+
+//フェードアウト//////////////////////////////////////////////////////////////////////////////////////////////
+fade,Out,White,1
+
+//高周波発生装置削除
+objectdelete,mecha
+
+//BGM止める
+bgmstop,bgmtag0_1,0.5
+sestop,se4700019,0.5
+
+dotmove,chara_1,0,-4.5,0,0.5,Set
+dotmove,Sophia,0, -4,0,-1,Set
+dotmove,Belisa,0, -3,0,0,Set
+dotmove,Marina,0,-5.5,0,-0.5,Set
+dotmove,Krull,0, -4,0,1,Set
+
+asyncdotcamerazoom,0.8,0,LinearTarget,CONT,0
+asyncdotcameramove,2,0,LinearTarget,0,None,CONT,0
+
+asyncobjectmotion,chara_1,N_limit,1,1,N_limit,1,CONT,0
+asyncobjectmotion,Sophia,N_limit,1,1,N_limit,1,CONT,0
+asyncobjectmotion,Belisa,C_DownWait,0,1,,1,CONT,0
+asyncobjectmotion,Krull,C_DownWait,0,1,,1,CONT,0
+asyncobjectmotion,Marina,N_limit,1,1,N_limit,1,CONT,0
+
+//厄災削除
+//objectdelete,chara_10
+dotprefabdelete,ef_Skill002Wipe_3
+
+fade,In,White,1
+
+wait,1.5
+
+asyncdotcamerazoom,1,1,LinearTarget,CONT,0
+dotcameramove,-3.5,0,LinearTarget,1,None,CONT,0
+wait,1
+
+//エモ　・・・
+asyncseplay,se4800014_2,se4800014,0,1,CONT,0
+objectemo,chara_1,Silence
+objectmotion,chara_1,C_Wait,0,1,,1
+dotmessage,<user>,<size=24>We're... saved...<br>Aren't we?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,20
+
+//window,off
+
+//スキップ処理
+//labeljump,p
+//:SkipPoint
+//uivisible,off
+//:p
+
+
+fade,Out,Black,0.5
+wait,0.5
+
+cleanall,ALL

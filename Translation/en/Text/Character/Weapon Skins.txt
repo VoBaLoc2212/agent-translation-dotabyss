@@ -1,0 +1,3 @@
+sr:"^デフォルト\(([\S\s]+)\)$"=Default ($1)
+sr:"^武器種：([\S\s]+)$"=<size\=80%><cspace\=-0.05em>Type: $1
+探索中のSDキャラが持つ<color\=#a8a8db>「武器の見た目」</color>は<br>パーティ編成で装備している武器になります=Your exploration SD character's <color\=#a8a8db>weapon appearance</color> matches the weapon equipped in your party.

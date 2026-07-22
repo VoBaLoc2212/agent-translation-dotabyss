@@ -1,0 +1,63 @@
+{
+  "scene": "hmn_10290100001",
+  "source_language": "ja",
+  "alignment_language": "en",
+  "case": "en-asset-is-english",
+  "title_case": true,
+  "commander": "Chỉ Huy",
+  "characters": {
+    "アリシア": {
+      "vo": "300201000",
+      "notes": "kept JP label"
+    },
+    "ミルティーユ": {
+      "vo": "102901000G",
+      "notes": "self-addresses as Mil; 'Commander'->Chỉ Huy"
+    },
+    "子熊": {
+      "vo": "900000003",
+      "notes": "bear cub, kept JP label; SFX Ruff/Grr localized"
+    },
+    "<user>": {
+      "notes": "Commander placeholder"
+    }
+  },
+  "conventions": {
+    "Mr. Bear": "Anh Gấu",
+    "Myrtille": "kept (romanized in dialogue)",
+    "Mil": "kept (self-name)",
+    "Lux Nova": "kept",
+    "Sweets Kingdom": "Vương Quốc Đồ Ngọt"
+  },
+  "notes": "EN-asset-is-English: title JP, message text fields English. Translated JP->VI via ja.json (en.json present/English). Every message,<br> suffix '<br> ' preserved; internal <br> counts mirrored to EN asset. ASCII commas replaced with U+201A (‚). No H18 content; all characters 18+ confirmed per project rule. No EN source text carried over.",
+  "independent_verify": {
+    "scene": "hmn_10290100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 99,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 100,
+    "translated_records": 100,
+    "changed_lines": 100,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1328,
+      "vi": 1328,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "ee9d6fb4926ab847c3173c421dbba8100df495429b50b1b6d3196a395571f42f",
+    "output_sha256": "d2adc678d3e18dcbfb2dfa3ad6fdebf12175839522b06e1667b4eb95dd26b2e6"
+  },
+  "status": "PASS"
+}

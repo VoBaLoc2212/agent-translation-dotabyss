@@ -1,0 +1,28 @@
+{
+  "qa_status": "PASS",
+  "blockers": [],
+  "kept_english": [],
+  "notes": [
+    {
+      "type": "NOVEL_PAIR_COUNT",
+      "ja_pairs": 71,
+      "en_pairs": 71,
+      "asset_candidates": 71
+    }
+  ],
+  "checks": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "candidate_count": 71,
+    "translated_count": 71
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 71,
+  "translated_records": 71,
+  "changed_lines": 71,
+  "source_sha256": "1283c11838459adcb8fe13964bcd3d67f2e8bfe670eb26dd11b7b8178c076887",
+  "output_sha256": "301b256902be56e65a4164cd9d61e80988c552e27faa40f7990c0963f9bb9918"
+}

@@ -1,0 +1,75 @@
+{
+  "scene": "hmn_10180100001",
+  "status": "FAIL",
+  "generated_at": "2026-07-19T10:39:33.235305+00:00",
+  "source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100001.txt",
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100001.txt",
+  "text_command_counts": {
+    "title": 1,
+    "message": 77
+  },
+  "total_text_records": 78,
+  "translated_records": 78,
+  "structural_errors": [],
+  "tag_mismatch": [],
+  "placeholder_mismatch": [],
+  "ascii_comma_violations": [],
+  "ambiguity": [
+    {
+      "line": 432,
+      "cmd": "message",
+      "matches": [
+        "……？",
+        "……お父、さん……？"
+      ],
+      "body": "message,グラディア,……お父、さん……？,,vc_10180100001_010_01,chara_1"
+    },
+    {
+      "line": 1225,
+      "cmd": "message",
+      "matches": [
+        "誰がお父さんだっ！",
+        "誰がお父さんだっ！！！"
+      ],
+      "body": "message,<user>,誰がお父さんだっ！！！"
+    }
+  ],
+  "unchanged_text_records": [],
+  "non_jp_sources": [],
+  "notes": [
+    "JP source in ja.json was primary; en.json contains blank values for this scene, so asset text order and ja.json keys were used for alignment.",
+    "Speaker names and charaload asset names were preserved exactly per instruction.",
+    "Gradia uses a calm, terse inventor voice; Commander↔Gradia translated mostly tôi/cô and Gradia→Commander cậu/Chỉ Huy based on source キミ/司令官.",
+    "Alicia keeps polite assistant tone with em–anh toward Commander and chị for Gradia."
+  ],
+  "h18_check": {
+    "adult_confirmation": "project-confirmed all characters 18+",
+    "h18_content_present": false
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 77,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 78,
+  "changed_lines": 78,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1234,
+    "vi": 1234,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "768346e22e0b858521a4cc932c0a81cdccbee6a3852739442df11440f3f9472e",
+  "output_sha256": "1df0ccfc8ed37808e4f1e5cb49805336f85e810ec27344db76ca34e7b2722c0e",
+  "qa_status": "PASS"
+}

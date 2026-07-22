@@ -1,0 +1,667 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10060100022
+
+charaload,chara_1,100601000X,ノエミ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+bgvplay,bgvtag2_1,bgv_10060100022_001_01,1
+
+
+
+
+window,on,0.15
+message,,She straddled the male customer on the bed，her face toward his<br>lower abdomen—following his orders，utterly confused.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+message,ノエミ,(Eeep...! His manhood is right in front of me... And my private parts<br>are being seen by the customer...!)<br> ,100601000X,vc_10060100022_001_01,
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+asyncl2dmotion,ExEmotion00,on,STOP,6.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,6.3
+
+message,ノエミ,(And on top of that，I'm squeezing it with my bosom! I never imagined<br>I'd end up in a situation like this!)<br> ,100601000X,vc_10060100022_002_01,
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,Blush00
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+message,,Her cheeks burned at such a lewd posture. Even though she had<br>decided to work at the brothel，she had not imagined it would go this far.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.7
+
+message,ノエミ,(Even if it's to heal the weary hearts of customers，isn't this an<br>unforgivable act for a woman of the cloth?!)<br> ,100601000X,vc_10060100022_003_01,
+
+
+message,,Noemi stopped moving，still trapping his manhood between her<br>bosom，and the man spoke: 'Should we stop after all?'<br> 
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+message,ノエミ,(*whimper*...! To make the customer worry about me... I decided to<br>work here to heal everyone，and yet—!)<br> ,100601000X,vc_10060100022_004_01,
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,She had to heal this weary-hearted customer! Suppressing her shame<br>with a sense of duty，Noemi began to move.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10060100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+l2dmessage,ノエミ,I-it's fine... I am a woman of the cloth after all...<br> ,100601000X,vc_10060100022_005_01
+
+
+message,,No one questioned if her being a woman of the cloth made this wrong.<br>Noemi，though inexperienced，moved her bosom up and down desperately.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.2
+
+message,ノエミ,(If I recall correctly，the book said to move it up and down like this...)<br> ,100601000X,vc_10060100022_006_01,
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion00
+
+message,,Each time Noemi swayed her bosom，soft flesh pleasured his manhood.<br>The soft pressure felt better than he'd expected; he moaned quietly.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.1
+
+message,ノエミ,(Looks like he's enjoying it...! I should move more，enveloping him like<br>this...)<br> ,100601000X,vc_10060100022_007_01,
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,His reaction gave Noemi confidence; she moved her bosom devotedly，<br>continuing her earnest service，forgetting the position's embarrassment.<br> 
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+message,,This was Noemi's devoted act as a pure-hearted clergywoman and<br>beloved healer. The man was too excited to stay still.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10060100022_003_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+wait,0.5
+
+l2dmessage,ノエミ,Ngh... *gasp* Aah!<br> ,100601000X,vc_10060100022_008_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.1
+
+message,,The man extended his tongue and licked her womanhood，which<br>swayed before his eyes. At the sudden stimulation，Noemi reflexively cried out.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+l2dmessage,ノエミ,S-suddenly... mmm... W-what are you doing? You're being healed<br>slowly... *pant*... it's okay...?<br> ,100601000X,vc_10060100022_009_01
+
+l2dmotion,EyebrowEmotionReset
+
+message,,Even as she tried to stop him，the tongue licking her didn't let up. He<br>grabbed her bottom，making escape from the pleasure impossible.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,—I'm sorry，I couldn't hold back，the man said desperately as he<br>moved his tongue，and Noemi floundered in confusion.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+message,ノエミ,(Being licked there and feeling pleasure... I mustn't...<br>B-but I can't make the customer hold back either...!)<br> ,100601000X,vc_10060100022_010_01,
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion02
+
+message,,He was very excited—his tongue moved passionately，from gentle<br>caresses to intense stimulation of her most sensitive spot.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,MouthEmotion04,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,6.5
+
+l2dmessage,ノエミ,*sigh*... *pant*... Aaah... mmm...<br>Ah! Not there，nooo... Aahn!<br> ,100601000X,vc_10060100022_011_01
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,8
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+message,ノエミ,(I mustn't give in to pleasure. I can't allow myself to feel this good...<br>But this... it's so nice...)<br> ,100601000X,vc_10060100022_012_01,
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+message,ノエミ,(If being licked feels this wonderful，then if I do it for him too，<br>perhaps—)<br> ,100601000X,vc_10060100022_013_01,
+
+
+message,,Noemi stared at the manhood. It was swollen as if about to burst，and<br>she gulped.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10060100022_004_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+message,ノエミ,Mmm... *lick*...<br> ,100601000X,vc_10060100022_014_01,
+
+
+message,,Noemi gently flicked her tongue over the tip caught between her<br>breasts. The man reacted dramatically.<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5
+
+asyncl2dmotion,Scene04_loop2,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.5
+
+l2dmessage,ノエミ,Mmm... *kiss*... *smooch*... It twitched，didn't it? Did it feel good...?<br> ,100601000X,vc_10060100022_015_01
+
+
+message,,Anxious and hesitant，Noemi licked him，and the man，somewhat<br>desperately，insisted it felt good.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,8.5
+
+asyncl2dmotion,Scene04_loop,on,STOP,8.5
+
+l2dmessage,ノエミ,Ah... I'm glad... mmm... *pant*... I'll keep going... *lick*... Mmph!...<br>*kiss*...<br> ,100601000X,vc_10060100022_016_01
+
+l2dmotion,EyeOpenReset
+
+message,ノエミ,(I'm glad I mustered the courage to try this...! I have to heal him even<br>more like this...)<br> ,100601000X,vc_10060100022_017_01,
+
+
+message,,The lewd scent of his precum and the stimulation stirred Noemi's<br>arousal. Desperately suppressing it，she asked the man.<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,2
+
+asyncl2dmotion,Scene04_loop2,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+l2dmessage,ノエミ,*lick*... *slurp*... Um... if there's anything else you want me to do，<br>please don't hesitate to say so，okay...?<br> ,100601000X,vc_10060100022_018_01
+
+
+message,,Noemi's voice was gentle yet pleading. He begged her to take his<br>manhood in her mouth.<br> 
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,ノエミ,With my mouth... y-yes，I understand.<br> ,100601000X,vc_10060100022_019_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10060100022_005_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+wait,0.7
+
+message,ノエミ,*kiss*...<br> ,100601000X,vc_10060100022_020_01,
+
+
+message,,Noemi opened her mouth wide and enveloped his manhood in one go.<br>Perhaps from the pleasant warmth，it trembled inside her mouth.<br> 
+
+asyncl2dmotion,EyeOpen03,on,STOP,2.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7
+
+message,ノエミ,(It's big... it's a little hard to breathe. But... the customer seems to<br>be feeling really good...)<br> ,100601000X,vc_10060100022_021_01,
+
+l2dmotion,EyeEmotionReset
+
+message,,His ragged breaths and tongue teasing her womanhood showed his<br>excitement，and Noemi kept moving，healing his manhood with her mouth.<br> 
+
+l2dmotion,EyeOpen01
+
+message,ノエミ,Mmph... *kiss*... *schlick*... *pant*... Ngh!<br> ,100601000X,vc_10060100022_022_01,
+
+asyncl2dmotion,EyeOpen02,on,STOP,5.7
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,5.7
+
+message,ノエミ,(I have to do my best... I am Clergy，after all. I must heal the one who<br>exhausted himself protecting this base!)<br> ,100601000X,vc_10060100022_023_01,
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Noemi eagerly licked the ridge of his tip while her bosom stimulated<br>his length，enveloping his manhood in unceasing pleasure.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion01
+
+message,,'It feels good. I want to do more for you，Noemi—' the man said，and<br>pressed his tongue firmly against her womanhood.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10060100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ノエミ,*gasp*! So suddenly，so intense— Ngh!<br> ,100601000X,vc_10060100022_024_01
+
+
+message,,The intense licking made Noemi pull her mouth from his manhood，<br>unable to control her body's response to the overwhelming stimulation.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,ノエミ,N-not there...! *pant*... Ngh!<br> ,100601000X,vc_10060100022_025_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,His tongue slipped into her entrance，spilling love juice from her<br>womanhood，and its soft caress was ideal for her inexperienced body.<br> 
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,8
+
+asyncl2dmotion,MouthEmotion04,on,STOP,8
+
+l2dmessage,ノエミ,Ngh... when you squeeze my rear like that，my insides tingle... *gasp*!<br> ,100601000X,vc_10060100022_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,The pleasure was far more intense than the gentle caresses before.<br>Noemi was quickly pushed to the brink of climax.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+message,ノエミ,(It feels so good... too good...! At this rate，I'll... I'll climax...!)<br> ,100601000X,vc_10060100022_027_01,
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,Perhaps noticing Noemi was on the verge，the man begged to share<br>pleasure and climax together.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+asyncl2dmotion,FaceAngleRight,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7.1
+
+message,ノエミ,(Together... but if this continues，I'll climax first...! I need to make<br>the customer feel good too...!)<br> ,100601000X,vc_10060100022_028_01,
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10060100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+wait,1
+
+message,ノエミ,Mmm... *slurp*!<br> ,100601000X,vc_10060100022_029_01,
+
+
+message,,Fueled by her sense of duty as Clergy and a brothel worker，and by<br>her innate kindness，Noemi latched onto the head of his manhood.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ノエミ,*gulp*，*slick*... *squish*，*slurp*... mmm，more... Mmph *kiss*...!<br> ,100601000X,vc_10060100022_030_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,It was a lewd service that pushed aside her embarrassment. She<br>moved as if using her whole mouth to stroke the head of his manhood.<br> 
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+l2dmessage,ノエミ,Mmph... *pant*... *slurp*... Mmph!<br> ,100601000X,vc_10060100022_031_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion01
+
+message,ノエミ,(It's trembling in my mouth...! He's feeling good，he's about to<br>climax...!)<br> ,100601000X,vc_10060100022_032_01,
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+l2dmessage,ノエミ,Come... please，come...! *suck*，*slurp*! *smooch*，Mmph，*pant*...<br>*sluuurp*!<br> ,100601000X,vc_10060100022_033_01
+
+
+message,,Noemi worshiped his manhood，making wet *squelch，squelch* sounds<br>as the man intensified his actions，both climbing toward ecstasy.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6.2
+
+l2dmessage,ノエミ,I-I'm coming...! Please，no more...! I'm at my limit...! *pant*，mmm，<br>Mmph!<br> ,100601000X,vc_10060100022_034_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Her thighs trembled as her nectar soaked the man's face. Noemi was<br>at the brink，barely enduring; any lapse would push her over.<br> 
+
+
+message,,The man licked her sensitive nub firmly，pulling back its little hood. A<br>stimulation beyond any she'd felt pushed her over into climax.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+l2dmessage,ノエミ,Ah，Aaaaahhh! I'm coming! I'm coming! I'm coooming!<br> ,100601000X,vc_10060100022_035_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+l2dmessage,ノエミ,Even though I'm a woman of the cloth... I'm putting a customer's<br>manhood in my mouth... and I'm about to come... *sob*!<br> ,100601000X,vc_10060100022_036_01
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10060100022_008_01,1,on
+
+l2dmotion,EyeOpenReset
+
+message,ノエミ,Mmm! mmm! Mmmmmmph!<br> ,100601000X,vc_10060100022_037_01,
+
+asyncl2dmotion,ExEmotion02,on,STOP,2
+
+message,,Twitching，Noemi reached her long-held climax. The prolonged<br>restraint intensified pleasure; her body convulsed and her vision went white.<br> 
+
+
+message,,At that same moment，the man also came. A vast amount of seed was<br>released into her mouth.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+message,ノエミ,*pant*... in my mouth... it's so full...<br> ,100601000X,vc_10060100022_038_01,
+
+
+message,,Startled by his release in her mouth，Noemi kept moving her tongue<br>until the end，still trying to heal his manhood，even if only a little.<br> 
+
+
+message,,Exquisite stimulation released every last drop of seed from his<br>urethra. It overflowed from her lips，painting her full bosom white.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,ノエミ,Aah... what a waste...<br> ,100601000X,vc_10060100022_039_01
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene09,on,STOP,0.5
+
+bgvplay,bgvtag2_9,bgv_10060100022_009_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ノエミ,Mmm... *pant*!<br> ,100601000X,vc_10060100022_040_01
+
+
+message,,Without thinking，Noemi swallowed the seed. She accepted the warm<br>seed as it clung to her throat，without resistance.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,11
+
+asyncl2dmotion,EyeOpen00,on,STOP,11
+
+asyncl2dmotion,MouthEmotion01,on,STOP,11
+
+l2dmessage,ノエミ,I went and swallowed it... And on top of that，even though I'm a<br>woman of the cloth，I came... Ufufu...<br> ,100601000X,vc_10060100022_041_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,Even after offering passionate service and showing herself filled with<br>pleasure，Noemi never shed her shyness and remained pure.<br> 
+
+
+message,,To that，the man said with satisfaction，'I feel fully healed.' Noemi<br>breathed a sigh of relief.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+message,ノエミ,(I was able to heal him properly... And I'm sure I met the Lord<br>Commander's expectations as well，right?)<br> ,100601000X,vc_10060100022_042_01,
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,12
+
+l2dmessage,ノエミ,I'm so glad you enjoyed it... Please come again. As a woman of the<br>cloth，I'll always be happy to heal you，anytime!♪<br> ,100601000X,vc_10060100022_043_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Noemi's expression，stained with semen，seemed almost sacred，and<br>the man prayed to God for another chance.<br> 
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

@@ -1,0 +1,633 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10120100022
+
+charaload,chara_1,101201000X,エティア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10120100022_001_01,1
+
+
+window,on,0.15
+message,,The customer's manhood，slick with lotion，was already hard and<br>swollen.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,FaceEmotion02,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+l2dmessage,エティア,Mmph... *pant*... like this... Mmph...<br> ,,vc_10120100022_001_01
+
+message,,Etia cupped her full bosom with both hands and wrapped it around the<br>customer's manhood.<br> 
+
+l2dmotion,FaceEmotion02
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,2.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2.5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2.5
+
+asyncl2dmotion,FaceEmotion02,on,STOP,5
+
+l2dmessage,エティア,*huff*... mmm... *pant*... Tonight，with this chest，I'll make you feel<br>good，sir...<br> ,,vc_10120100022_002_01
+
+message,,The customer swallowed hard and nodded with an eager gaze.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10120100022_002_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,エティア,Th-then... I'll start moving... Mmph...<br> ,,vc_10120100022_003_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+message,,Etia slowly began sliding her bosom up and down his manhood.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+l2dmessage,エティア,Mmph... *huff*... Mmph... *sigh*... *pant*... mmm...<br> ,,vc_10120100022_004_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+message,,Unfamiliar with the act，Etia seemed awkward.<br> 
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleBottom
+
+message,エティア,(How is it...? Am I doing this right...?)<br> ,,vc_10120100022_005_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+message,,To check if she was doing it well，Etia glanced at the customer.<br> 
+
+message,,The customer stared at Etia's jiggling bosom with a heated gaze，his<br>breathing ragged with excitement.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,8
+
+asyncl2dmotion,EyeOpen04,on,STOP,8
+
+l2dmessage,エティア,U-um... how is it...? Does it feel good...?<br> ,,vc_10120100022_006_01
+
+message,,In response to Etia's question，the customer nodded vigorously.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceEmotion01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,エティア,Oh，I see... that's good... eheh...<br> ,,vc_10120100022_007_01
+
+l2dmotion,FaceEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,エティア,(The customer seems to be enjoying it too... then I'll do more...)<br> ,,vc_10120100022_008_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5.2
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5.2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.2
+
+l2dmessage,エティア,I'm going to increase the pressure now... Ngh... Mmph...<br> ,,vc_10120100022_009_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10120100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,6
+
+l2dmessage,エティア,*huff*，Mmph... *pant*，Ah... Mmph... *pant*... Ah *huff*... Mmph...!<br> ,,vc_10120100022_010_01
+
+message,,Etia gradually increased the speed of her movements.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,7
+
+asyncl2dmotion,EyeOpen02,on,STOP,14
+
+l2dmessage,エティア,Mmph *huff*... Ngh，Mmph... *pant*... Ah... mmm... You've gotten so<br>hard... even more than before... Mmph...<br> ,,vc_10120100022_011_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+l2dmessage,エティア,And besides，it's so hot... Ngh... my chest... Ahn... I think I'm gonna<br>get burned... *pant*... just kidding... Ahaha...<br> ,,vc_10120100022_012_01
+
+l2dmotion,EyeOpen01
+
+message,,Having gained composure，Etia joked，but the customer's excitement<br>grew，and his length stiffened between her breasts.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceAngleBottom
+
+message,エティア,(Wow... it's gotten so big... He's really getting excited by my chest...<br>I'm kind of happy...)<br> ,,vc_10120100022_013_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,7
+
+l2dmessage,エティア,Ah，um... if there's anything else you'd like me to do，please just let<br>me know...<br> ,,vc_10120100022_014_01
+
+message,,When Etia asked，the customer requested oral service from her.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+message,エティア,(Oral service... I've never done that before... but if that's what the<br>customer wants...)<br> ,,vc_10120100022_015_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,MouthEmotion00
+
+l2dmessage,エティア,Y-yes，I understand... I'll serve you with my mouth...<br> ,,vc_10120100022_016_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10120100022_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+message,エティア,*pant*... Ah... Mmph... *kiss*... *schlick*... mmm... *huff*... mmm...<br> ,,vc_10120100022_017_01
+
+message,,When she took the head of his length into her mouth，the customer's<br>body gave a sudden jolt.<br> 
+
+l2dmotion,EyeOpen00
+
+message,エティア,*schlick*... *kiss*，*puff*... Ngh... *kiss*... *pop*... *puff*，Mmph...<br>mmm...<br> ,,vc_10120100022_018_01
+
+l2dmotion,EyeOpen04
+
+l2dmotion,EyebrowEmotion02
+
+message,エティア,(This is right，isn't it? If I stroke him with my chest while licking him<br>with my mouth...)<br> ,,vc_10120100022_019_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+message,エティア,Mmph，mmm... *slurp*，*kiss*... mmm，*huff*... *kiss*... mmm，*huff*...<br>Ngh... *pop*... *slurp*... Mmph... *huff*... Mmph... *puff*...<br> ,,vc_10120100022_020_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionReset
+
+message,エティア,(The customer's gotten even bigger... It's throbbing... Is this going to<br>be okay?)<br> ,,vc_10120100022_021_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10120100022_005_01,1,on
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2
+
+message,エティア,Ngh! *puff*... How ith it? ... Feelth good...?<br> ,,vc_10120100022_022_01
+
+message,,In a muffled voice，Etia asked the customer.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionReset
+
+message,,The customer nodded，but then indicated that he wanted her to lick<br>around the head more thoroughly.<br> 
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpenReset
+
+message,エティア,Fai... I undershtand... *kiss*... *slurp*，*lick*...<br> ,,vc_10120100022_023_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen02
+
+message,,As the customer wished，Etia kept his length in her mouth while<br>changing angles and running her tongue around the head.<br> 
+
+l2dmotion,FaceEmotion00
+
+message,エティア,*slurp*，*lick*，*slurp*... *slurp*，*kiss*，*slurp*... mmm... *huff*...<br> ,,vc_10120100022_024_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+message,,When Etia glanced at the customer，he had his eyes closed，his body<br>trembling with pleasure，and he let out satisfied breaths.<br> 
+
+message,,Watching the customer's reaction，Etia also felt a strange joy.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10120100022_006_01,1,on
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,6
+
+message,エティア,Mmph... *smooch*，*kiss*，*sigh*... mmm *sob*... *sigh*，mmm...<br>*slurp*...<br> ,,vc_10120100022_025_01
+
+l2dmotion,EyeOpen01
+
+message,エティア,(My service is making him feel good...<br>Somehow，it makes me happy...)<br> ,,vc_10120100022_026_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion02
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,8
+
+message,エティア,(If I did the same for Master... would he be happy...<br>I want to make Master feel good with my service...)<br> ,,vc_10120100022_027_01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpenReset
+
+message,エティア,Mmph... *kiss*，*sob*，*kiss*... *slurp*... *sigh*，mmph... mmm *sob*...<br> ,,vc_10120100022_028_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeOpen02,on,STOP,9
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,9
+
+message,エティア,(Ah... when I think of Master，my stomach gets hot...<br>Down there aches... I'm getting wet...)<br> ,,vc_10120100022_029_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2
+
+message,エティア,Mmm *sob*... *sigh*... *sigh*，mmm... *kiss*，*pop*... *sob*，*sigh*<br>mmm...<br> ,,vc_10120100022_030_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+message,エティア,(What should I do... I want to feel good too...<br>But I'm in the middle of servicing the customer...)<br> ,,vc_10120100022_031_01
+
+l2dmotion,EyeOpen01
+
+message,エティア,(...That's right. I could touch my own chest like Master did to me<br>before...)<br> ,,vc_10120100022_032_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10120100022_007_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,エティア,Mmph... *sigh*，mmm... mmm *sob*... *sigh*，mmph... *huff*，ah...<br>mmph... *sob*，*sigh*... mmph...<br> ,,vc_10120100022_033_01
+
+message,,While stroking the customer's cock，Etia remembered what Master had<br>done and kneaded her own breasts to recreate it.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+message,エティア,(If I imagine these hands are Master's...)<br> ,,vc_10120100022_034_01
+
+l2dmotion,EyebrowEmotion02
+
+message,エティア,*sigh*，Mmph!... *huff*，*sigh*... Mmph!... *kiss*，*pop*... *sigh*...<br>*huff*，*slurp*... mmm，*whimper*...<br> ,,vc_10120100022_035_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceEmotion02,on,STOP,6
+
+message,エティア,(It feels so good... Master... please knead my chest more... More<br>intensely... More roughly... I want you to maul them...!)<br> ,,vc_10120100022_036_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion00
+
+message,エティア,Mmph!... *huff*，*sigh*，mmm，*whimper*... *huff*，*whimper*... Ngh!...<br>*sigh*，*huff*，mmm，*sigh*... *kiss*，*slurp*... mmm，*sob*!<br> ,,vc_10120100022_037_01
+
+message,,Etia，imagining it was Master doing this to her，roughly kneaded her<br>own breasts.<br> 
+
+message,,That motion naturally transmitted to the customer's cock，eliciting<br>even more pleasure.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen01
+
+message,エティア,(Aah!... Master's hands feel so good...! More... more intensely--)<br> ,,vc_10120100022_038_01
+
+message,,The customer's desperate voice fell upon Etia，who was lost in her<br>fantasy with Master.<br> 
+
+l2dmotion,EyeOpenReset
+
+message,,Because Etia had been moving so intensely，it seemed he was close to<br>his limit.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen05
+
+message,エティア,R-right... That's right... For now，I have to focus on the customer...!<br> ,,vc_10120100022_039_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyebrowEmotion02
+
+message,エティア,Mmph... I-I understand... then... for the finish... deep in my throat...<br> ,,vc_10120100022_040_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.5
+
+message,,With that，Etia took a deep breath and took the customer's length<br>deep into her throat.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10120100022_008_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+message,エティア,Ngh...! Mmm，mmm... Ngh，*pop*，*gulp*，*slurp*... *huff*...!<br> ,,vc_10120100022_041_01
+
+message,,Etia kept him deep in her mouth and moved her head vigorously，<br>urging him to cum.<br> 
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceEmotion00
+
+message,エティア,*huff*，mmm，ngh，*squelch*，*gulp*，*mmph*!，ngh，*gulp*...<br>*mmph*!，*smooch*，*pop*，*pop*，*slurp*...!<br> ,,vc_10120100022_042_01
+
+message,,In addition to the deep oral service，Etia guided the customer toward<br>climax with an intense tit job.<br> 
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+message,エティア,(Ah... the customer's... it's twitching...? He's about to cum... I have to<br>catch it... with my mouth...)<br> ,,vc_10120100022_043_01
+
+l2dmotion,EyeOpen02
+
+message,,Just as Etia steeled herself for it—<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10120100022_001_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+wait,1
+
+message,エティア,Nnggh...! Pwah... *gasp* Aaah...!<br> ,,vc_10120100022_044_01
+
+l2dmotion,EyeOpen04
+
+message,,A hot torrent of cum shot into Etia's mouth，but the force was too<br>great and she had to pull away.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.5
+
+l2dmessage,エティア,Eep!... Mmmm!... *pant*，Aah!... *pop*... Ngh... *gasp*，Aah...<br> ,,vc_10120100022_045_01
+
+l2dmotion,EyeOpen04
+
+message,,The scattered cum landed on Etia's face and breasts，covering her in<br>a cloudy white liquid.<br> 
+
+bgvstop,bgvtag2_9,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene10
+
+bgvplay,bgvtag2_10,bgv_10120100022_010_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+l2dmessage,エティア,*pop*... *mmph*!... I'm sorry... it was too forceful... I couldn't hold it<br>all in my mouth... *pant*...<br> ,,vc_10120100022_046_01
+
+message,,The customer didn't mind at all; in fact，he told her he was so excited<br>that he came really well.<br> 
+
+l2dmotion,EyeOpen04
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceEmotion01,on,STOP,3
+
+l2dmessage,エティア,Did it... feel good...?<br> ,,vc_10120100022_047_01
+
+l2dmotion,MouthEmotion01
+
+message,,The customer nodded firmly and thanked Etia.<br> 
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleTop
+
+l2dmessage,エティア,I-It's me who should thank you... Thank you... very much...!<br> ,,vc_10120100022_048_01
+
+l2dmotion,EyeOpen04
+
+l2dmotion,MouthEmotion01
+
+message,,She felt a bit embarrassed，but the customer's words made her<br>happy.<br> 
+
+bgvstop,bgvtag2_10,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

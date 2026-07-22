@@ -1,0 +1,1114 @@
+{
+  "scene": "hmn_10080100002",
+  "source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10080100002.txt",
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10080100002.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10080100002_full",
+  "source_sha256": "927f1a298352e9f8cdb1cfeabea5d2f4b59ae10c07d84d7e5d6f8b9386557b9e",
+  "output_sha256": "ba3b7e79d9c34092600e29612275657d58874e4f6d5f924c9089877538862ac9",
+  "bom": true,
+  "newline": "CRLF",
+  "source_line_count": 2714,
+  "output_line_count": 2714,
+  "text_record_count": 118,
+  "candidate_counts": {
+    "title": 1,
+    "message": 116,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "entries": [
+    {
+      "index": 1,
+      "line": 36,
+      "cmd": "title",
+      "source_text": "Sisters in the Abyss",
+      "vi_text": "Chị Em Trong Đại Huyệt",
+      "status": "TRANSLATED",
+      "match": "EXACT"
+    },
+    {
+      "index": 2,
+      "line": 46,
+      "cmd": "messageTextCenter",
+      "source_text": "<size=48>— Inside the Abyss: Escort Mission for the Transport Unit to the Forward Camp</size>",
+      "vi_text": "<size=48>――Trong Đại Huyệt: Nhiệm Vụ Hộ Tống Đội Vận Chuyển Đến Căn Cứ Tạm</size>",
+      "status": "TRANSLATED",
+      "match": "EXACT"
+    },
+    {
+      "index": 3,
+      "line": 94,
+      "cmd": "message",
+      "source_text": "So this is the inside of the Abyss... It's far more mysterious than I'd<br>heard.<br> ",
+      "vi_text": "Vậy đây là bên trong Đại Huyệt… Không gian này kỳ lạ hơn em<br>từng nghe nhiều.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 4,
+      "line": 96,
+      "cmd": "message",
+      "source_text": "Veera，this is your first time in the Abyss，isn't it. Just remember，<br>this is an escort mission. Don't get worked up，stay calm and do your job.<br> ",
+      "vi_text": "Veera lần đầu vào Đại Huyệt nhỉ. Lần này suy cho cùng chỉ là<br>nhiệm vụ hộ tống. Đừng căng thẳng quá‚ cứ bình tĩnh làm việc.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 5,
+      "line": 107,
+      "cmd": "message",
+      "source_text": "Yes. I'll show you what kind of mage Big Sis's little sister can be.<br> ",
+      "vi_text": "Vâng. Em sẽ cho anh thấy em gái của chị là một pháp sư đến mức nào.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 6,
+      "line": 118,
+      "cmd": "message",
+      "source_text": "I'll make sure I don't embarrass Big Sis. Please look forward to it，<br>Lord Commander.<br> ",
+      "vi_text": "Em sẽ làm việc sao cho không khiến chị mất mặt. Xin hãy kỳ vọng<br>ở em‚ Chỉ Huy.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 7,
+      "line": 120,
+      "cmd": "message",
+      "source_text": "That's what I meant by getting worked up... Well，just don't overdo it.<br> ",
+      "vi_text": "Như thế gọi là căng thẳng quá đấy… Thôi‚ đừng cố sức quá.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 8,
+      "line": 139,
+      "cmd": "message",
+      "source_text": "Leave it to me.<br> ",
+      "vi_text": "Cứ giao cho em.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 9,
+      "line": 169,
+      "cmd": "message",
+      "source_text": "Verisa，who had been watching Veera's enthusiastic display，quietly<br>approached %user%.<br> ",
+      "vi_text": "Verisa nhìn Veera đang hừng hực khí thế rồi lặng lẽ<br>tiến lại gần %user%.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 10,
+      "line": 206,
+      "cmd": "message",
+      "source_text": "Fufufu，looks like Veera's all fired up.<br> ",
+      "vi_text": "Hư hư hư‚ xem ra Veera đang rất hăng hái nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 11,
+      "line": 217,
+      "cmd": "message",
+      "source_text": "But too bad! Today，I'm the one who's gonna be the star!<br> ",
+      "vi_text": "Nhưng tiếc quá nha! Hôm nay người tỏa sáng hơn Veera sẽ là em!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 12,
+      "line": 219,
+      "cmd": "message",
+      "source_text": "You were thinking about that?<br> ",
+      "vi_text": "Em đang nghĩ chuyện đó đấy à?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 13,
+      "line": 230,
+      "cmd": "message",
+      "source_text": "Huh? What's wrong with that? Showing my little sister who's boss is<br>just a natural big-sister urge，isn't it?<br> ",
+      "vi_text": "Ơ kìa? Có gì sai sao? Muốn cho em gái thấy đẳng cấp khác biệt<br>là ham muốn rất tự nhiên của một người chị mà‚ đúng không?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 14,
+      "line": 239,
+      "cmd": "message",
+      "source_text": "Or what，big bro，were you bothered by the thought of someone else<br>putting her in her place? Could it be that you're jealous?♡<br> ",
+      "vi_text": "Hay là anh không thích chuyện người ngoài anh bị dạy cho biết thân biết phận?<br>Chẳng lẽ anh đang ghen đó hả～♡<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 15,
+      "line": 241,
+      "cmd": "message",
+      "source_text": "...By the way，Veera said she didn't want to embarrass you. Looks like<br>you're already losing on the personality front.<br> ",
+      "vi_text": "…Nhân tiện‚ Veera thì có vẻ không muốn làm Verisa mất mặt đâu. Xem ra<br>về mặt nhân cách thì em đã thua rồi nhỉ?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 16,
+      "line": 252,
+      "cmd": "message",
+      "source_text": "Ugh... That's so like her! I'm the one who's gonna end up getting<br>crushed by my little sister's magic and looking like a fool!<br> ",
+      "vi_text": "Ưư… con bé cứ như vậy đó‚ thật là! Người sẽ mất mặt vì thua tan nát<br>trước ma pháp của em gái là em cơ mà…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 17,
+      "line": 254,
+      "cmd": "message",
+      "source_text": "...You don't seem to have a bad relationship with Veera. Is it just that<br>you can't stand being outdone in magic?<br> ",
+      "vi_text": "…Trông hai chị em đâu có ghét nhau. Chỉ là em không thích<br>thua kém về ma pháp thôi à?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 18,
+      "line": 265,
+      "cmd": "message",
+      "source_text": "Of course not! I'd never say I hate my sister for being talented!<br> ",
+      "vi_text": "Làm gì có chuyện đó! Em đời nào nói rằng mình ghét em gái vì con bé giỏi chứ!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 19,
+      "line": 276,
+      "cmd": "message",
+      "source_text": "It's just，well... In Perdion，she was the one everyone expected more<br>from. She had the talent and the track record，so...<br> ",
+      "vi_text": "Chỉ là… ở Perdion‚ con bé được kỳ vọng hơn em‚<br>cũng thật sự có tài và có thành quả nên…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 20,
+      "line": 295,
+      "cmd": "message",
+      "source_text": "I just want to show some big-sister authority for once，that's all.<br> ",
+      "vi_text": "Em chỉ muốn cho con bé thấy uy nghiêm của một người chị ở đây thôi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 21,
+      "line": 297,
+      "cmd": "message",
+      "source_text": "You don't need to worry about authority. She clearly respects you as<br>her big sister.<br> ",
+      "vi_text": "Dù không có uy nghiêm gì thì<br>con bé vẫn rất tôn trọng Verisa mà.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 22,
+      "line": 308,
+      "cmd": "message",
+      "source_text": "That's no good either! I wanna show I'm worth respecting，y'know!<br> ",
+      "vi_text": "Chính thế cũng không được! Em muốn cho con bé thấy rõ mình xứng đáng được tôn trọng chứ!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 23,
+      "line": 310,
+      "cmd": "message",
+      "source_text": "Well，if you show off your skills in the Abyss，it'd be easy to say<br>'That's our Verisa.'<br> ",
+      "vi_text": "Đúng là nếu em thể hiện tốt trong Đại Huyệt<br>thì mọi người sẽ nói quả nhiên là Verisa nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 24,
+      "line": 312,
+      "cmd": "message",
+      "source_text": "But Veera's a top-notch mage，isn't she? Can you actually win?<br> ",
+      "vi_text": "Nhưng Veera là một pháp sư lão luyện đúng không? Nói thật thì em thắng nổi không?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 25,
+      "line": 323,
+      "cmd": "message",
+      "source_text": "Fufu! I've got plenty of experience fighting in the Abyss! I've got no<br>intention of losing，even to Veera!<br> ",
+      "vi_text": "Hư hưーn! Nếu là chiến đấu trong Đại Huyệt thì em dày dạn kinh nghiệm!<br>Dù đối thủ là Veera thì em cũng không định thua đâu!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 26,
+      "line": 334,
+      "cmd": "message",
+      "source_text": "Too bad you won't get to see me lose，huh? Hey hey，are you<br>jealous，Mister?<br> ",
+      "vi_text": "Tiếc vì không được thấy em thua hả～?<br>Nè nè‚ cay không? Anh ơi?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 27,
+      "line": 336,
+      "cmd": "message",
+      "source_text": "Well，I have known you longer，Verisa. I'll at least cheer for you.<br> ",
+      "vi_text": "…Ừ thì‚ người anh quen lâu hơn là Verisa. Anh sẽ cổ vũ em một chút vậy.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 28,
+      "line": 347,
+      "cmd": "message",
+      "source_text": "You're not being honest for once. That's the spirit! Now watch me<br>show you my invincible big-sister skills!<br> ",
+      "vi_text": "Hiếm khi anh chịu thật lòng đấy. Tinh thần tốt lắm!<br>Nhìn cho kỹ dáng vẻ người chị vô địch của em đây!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 29,
+      "line": 392,
+      "cmd": "message",
+      "source_text": "Verisa triumphantly walked up to Veera and called out to her with full<br>confidence.<br> ",
+      "vi_text": "Verisa phấn chấn bước đến chỗ Veera<br>và tự tin cất tiếng gọi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 30,
+      "line": 403,
+      "cmd": "message",
+      "source_text": "Veera. How's your first time in the Abyss? You're not nervous，are<br>you?<br> ",
+      "vi_text": "Veera.<br>Lần đầu vào Đại Huyệt thế nào? Có căng thẳng không đó?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 31,
+      "line": 414,
+      "cmd": "message",
+      "source_text": "Ah，sis. Yeah，it really is a dangerous place.<br> ",
+      "vi_text": "A‚ chị ơi. Ừm‚ đúng là nơi nguy hiểm thật.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 32,
+      "line": 433,
+      "cmd": "message",
+      "source_text": "That's right. In this Abyss，even a little carelessness can be fatal.<br>For example，the dangers are... uh，well...<br> ",
+      "vi_text": "Đúng vậy‚ trong Đại Huyệt này chỉ một chút lơ là cũng có thể mất mạng.<br>Ví dụ như‚ nguy hiểm là… ừm‚ thì…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 33,
+      "line": 453,
+      "cmd": "message",
+      "source_text": "The Abyss's internal structure can change. A moment's inattention<br>and you could lose your way or get ambushed，right?<br> ",
+      "vi_text": "Cấu trúc bên trong Đại Huyệt đôi khi sẽ thay đổi.<br>Chỉ cần mất cảnh giác một chút là có thể lạc đường hoặc bị phục kích nhỉ?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 34,
+      "line": 464,
+      "cmd": "message",
+      "source_text": "Huh... Veera，you know about the Abyss?<br> ",
+      "vi_text": "Ơ… Veera‚ em biết thông tin về Đại Huyệt sao?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 35,
+      "line": 475,
+      "cmd": "message",
+      "source_text": "Because you guys researched it. I studied up on it before coming.<br> ",
+      "vi_text": "Vì đó là những gì chị và mọi người đã điều tra mà. Trước khi đến em đã học kỹ rồi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 36,
+      "line": 486,
+      "cmd": "message",
+      "source_text": "Urgh... as expected of my little sister...! But that's not all there is to<br>the Abyss's dangers!<br> ",
+      "vi_text": "Ư… đúng là em gái của chị…!<br>Nhưng nguy hiểm của Đại Huyệt đâu chỉ có thế!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 37,
+      "line": 497,
+      "cmd": "message",
+      "source_text": "You especially have to be careful of monsters...<br> ",
+      "vi_text": "Đặc biệt phải cẩn thận với quái vật…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 38,
+      "line": 508,
+      "cmd": "message",
+      "source_text": "Yeah，even if the monsters in the Abyss look alike，they can have<br>different attributes or special abilities，so you can't let your guard down.<br> ",
+      "vi_text": "Ừm‚ quái vật trong Đại Huyệt dù bề ngoài giống nhau<br>vẫn có thể khác thuộc tính hoặc có năng lực đặc biệt nên không được chủ quan nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 39,
+      "line": 519,
+      "cmd": "message",
+      "source_text": "U-ughhh!<br> ",
+      "vi_text": "Ư‚ ưưưư!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 40,
+      "line": 530,
+      "cmd": "message",
+      "source_text": "Why can't you let me be the big sister just this once...!<br> ",
+      "vi_text": "Sao ngay cả những lúc thế này em cũng không để chị ra dáng chị gái chứ…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 41,
+      "line": 541,
+      "cmd": "message",
+      "source_text": "...What's wrong，sis?<br> ",
+      "vi_text": "…? Sao vậy chị?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 42,
+      "line": 552,
+      "cmd": "message",
+      "source_text": "It's nothing... I haven't lost yet，you know!<br> ",
+      "vi_text": "Không có gì… Chị vẫn chưa thua đâu…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 43,
+      "line": 554,
+      "cmd": "message",
+      "source_text": "Yeah，doesn't look too good. Do your best，Verisa. Show your<br>big-sister pride.<br> ",
+      "vi_text": "…Đúng là có vẻ không ổn rồi.<br>Cố lên Verisa. Hãy cho con bé thấy uy nghiêm của người chị đi…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 44,
+      "line": 601,
+      "cmd": "message",
+      "source_text": "We'll be at the lift soon. Does that mean the mission is over?<br> ",
+      "vi_text": "Sắp đến thang nâng rồi nhỉ. Như vậy là nhiệm vụ kết thúc rồi sao?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 45,
+      "line": 603,
+      "cmd": "message",
+      "source_text": "Yeah，looks that way. It was a low-risk mission，but we made it back in<br>one piece.<br> ",
+      "vi_text": "Đúng vậy. Dù là nhiệm vụ ít nguy hiểm<br>nhưng chúng ta thật sự đã trở về bình an.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 46,
+      "line": 614,
+      "cmd": "message",
+      "source_text": "I didn't get to do anything... I wanted to show Sis what I can do...<br> ",
+      "vi_text": "Em chẳng có đất diễn… Em đã muốn cho chị thấy điểm tốt của mình mà…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 47,
+      "line": 616,
+      "cmd": "message",
+      "source_text": "Better no danger，right? You two are just alike，huh.<br> ",
+      "vi_text": "Không có nguy hiểm vẫn tốt hơn chứ. Hai chị em các em hơi giống nhau đấy…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 48,
+      "line": 655,
+      "cmd": "message",
+      "source_text": "GRRROOOOARRR!<br> ",
+      "vi_text": "Gàoồồồồồ!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 49,
+      "line": 665,
+      "cmd": "message",
+      "source_text": "What!? What's happening!?<br> ",
+      "vi_text": "Hả!? Chuyện gì vậy!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 50,
+      "line": 751,
+      "cmd": "message",
+      "source_text": "The transport unit，about to return to the lift，was suddenly<br>surrounded by a horde of golems that erupted from the ground.<br> ",
+      "vi_text": "Đội vận chuyển đang chuẩn bị quay về thang nâng<br>bất ngờ bị một bầy golem trồi lên từ mặt đất bao vây.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 51,
+      "line": 803,
+      "cmd": "message",
+      "source_text": "Why would golems appear in a place like this!?<br> ",
+      "vi_text": "Sao golem lại xuất hiện ở nơi này!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 52,
+      "line": 805,
+      "cmd": "message",
+      "source_text": "A trap or a coincidence? Either way，we have no choice but to fight.<br>All personnel，prepare for battle!<br> ",
+      "vi_text": "Là bẫy hay ngẫu nhiên cũng vậy. Dù sao chúng ta chỉ còn cách chiến đấu.<br>Toàn đội‚ chuẩn bị chiến đấu!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 53,
+      "line": 845,
+      "cmd": "message",
+      "source_text": "B-but we're just a transport unit...!<br> ",
+      "vi_text": "N‚ nhưng chúng tôi chỉ là đội vận chuyển thôi mà…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 54,
+      "line": 854,
+      "cmd": "message",
+      "source_text": "We can't fight golems，no way!<br> ",
+      "vi_text": "Bọn tôi không thể đánh nhau với golem đâu!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 55,
+      "line": 900,
+      "cmd": "message",
+      "source_text": "Everyone，calm down! It's fiiine! With me here，they're no match for<br>us!<br> ",
+      "vi_text": "Mọi người bình tĩnh! Không saaao đâu!<br>Có bọn tôi thì chúng không phải đối thủ đâu!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 56,
+      "line": 948,
+      "cmd": "message",
+      "source_text": "Sis!<br> ",
+      "vi_text": "Chị ơi!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 57,
+      "line": 959,
+      "cmd": "message",
+      "source_text": "Leave this to me，Veera. You stay back. It might be a bit tough for a<br>rookie，so this is a job for a veteran，got it?<br> ",
+      "vi_text": "Cứ để chị lo‚ Veera lùi lại đi. Với người mới thì có vẻ hơi khó<br>nên chỗ này là việc của cựu binh‚ hiểu chứ?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 58,
+      "line": 970,
+      "cmd": "message",
+      "source_text": "But...! I can fight too!<br> ",
+      "vi_text": "Nhưng…! Em cũng chiến đấu được mà!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 59,
+      "line": 982,
+      "cmd": "message",
+      "source_text": "Relax，I'm not doubting your magic power. So if I get in over my<br>head，you make sure to save me，okay?<br> ",
+      "vi_text": "Yên tâm‚ chị không nghi ngờ ma lực của Veera đâu. Vậy nên nếu chị gặp nguy<br>thì em phải cứu chị cho đàng hoàng đó nhé?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 60,
+      "line": 993,
+      "cmd": "message",
+      "source_text": "Okay... Do your best，Sis!<br> ",
+      "vi_text": "Ừm… Cố lên nhé chị!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 61,
+      "line": 1046,
+      "cmd": "message",
+      "source_text": "Phew... Listen up，everyone. These are the lowest-grade golems. If<br>you attack their cores，they go down easy!<br> ",
+      "vi_text": "Phù… mọi người nghe cho kỹ. Chúng là golem cấp thấp nhất‚<br>chỉ cần tấn công lõi là hạ được dễ dàng!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 62,
+      "line": 1048,
+      "cmd": "message",
+      "source_text": "Even so，how are we supposed to hit the core? We can't even get<br>close!<br> ",
+      "vi_text": "Nói thì nói vậy‚ nhưng làm sao đánh trúng lõi đây!?<br>Đến gần còn không được nữa là!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 63,
+      "line": 1057,
+      "cmd": "message",
+      "source_text": "Just leave that to my magic!♪ Alright，here I gooo!<br> ",
+      "vi_text": "Chuyện đó cứ để ma pháp của tôi lo♪ Nào‚ bắt đầu thôi～～～!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 64,
+      "line": 1059,
+      "cmd": "message",
+      "source_text": "Verisa raised her staff and deployed a magic circle. She aimed at the<br>golem and conjured a fireball.<br> ",
+      "vi_text": "Verisa giơ trượng lên và triển khai ma pháp trận.<br>Cô nhắm vào golem rồi tạo ra một quả cầu lửa.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 65,
+      "line": 1072,
+      "cmd": "message",
+      "source_text": "Aim for the core...! Burn it to ashes!<br> ",
+      "vi_text": "Nhắm bắn lõi…! Thiêu rụi đi!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 66,
+      "line": 1162,
+      "cmd": "message",
+      "source_text": "*groar*<br> ",
+      "vi_text": "Gừừừừ…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 67,
+      "line": 1198,
+      "cmd": "message",
+      "source_text": "The fireball struck the golem directly. The golem，its core destroyed<br>by the intense heat and powerful explosion，collapsed on the spot.<br> ",
+      "vi_text": "Quả cầu lửa được bắn ra trúng thẳng golem.<br>Lõi bị sức nóng dữ dội và vụ nổ mạnh phá hủy‚ golem đổ sụp ngay tại chỗ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 68,
+      "line": 1232,
+      "cmd": "message",
+      "source_text": "Ooh...! Not bad，little miss Verisa!<br> ",
+      "vi_text": "Ồồ…! Hay lắm‚ cô bé Verisa!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 69,
+      "line": 1243,
+      "cmd": "message",
+      "source_text": "I've gotta show off for my little sister! Alright，I'm going all out!<br> ",
+      "vi_text": "Phải cho em gái thấy điểm tốt của chị chứ! Nào‚ tiếp tục tới luôn nào!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 70,
+      "line": 1284,
+      "cmd": "message",
+      "source_text": "Verisa deployed multiple magic circles and unleashed a barrage of<br>fireballs. However—<br> ",
+      "vi_text": "Verisa triển khai nhiều ma pháp trận và liên tiếp phóng cầu lửa.<br>Thế nhưng――<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 71,
+      "line": 1326,
+      "cmd": "message",
+      "source_text": "Next... next!<br> ",
+      "vi_text": "Con tiếp theo… tiếp theo!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 72,
+      "line": 1378,
+      "cmd": "message",
+      "source_text": "V-Verisa! The golems are closing in!<br> ",
+      "vi_text": "V‚ Verisa!? Golem đang càng lúc càng tới gần đấy!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 73,
+      "line": 1427,
+      "cmd": "message",
+      "source_text": "*groar*<br> ",
+      "vi_text": "Gàoồồồ!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 74,
+      "line": 1471,
+      "cmd": "message",
+      "source_text": "I know that! But if I don't hit their cores dead on，we can't take them<br>down!<br> ",
+      "vi_text": "Biết rồi～～～!!!<br>Nhưng không bắn trúng lõi thì không thể hạ chúng được!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 75,
+      "line": 1523,
+      "cmd": "message",
+      "source_text": "A-at this rate，we'll be done for...! What are we supposed to do?!<br> ",
+      "vi_text": "C‚ cứ thế này thì chúng ta chết mất…! Phải làm sao đây!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 76,
+      "line": 1571,
+      "cmd": "message",
+      "source_text": "Thanks，Big Sis. I think I've got a handle on it.<br> ",
+      "vi_text": "…Cảm ơn chị. Em hiểu đại khái rồi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 77,
+      "line": 1640,
+      "cmd": "message",
+      "source_text": "Veera...!<br> ",
+      "vi_text": "Veera…!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 78,
+      "line": 1686,
+      "cmd": "message",
+      "source_text": "Veera created ice under her feet，glided forward，and leaped before<br>Verisa as massive magic converged into her staff.<br> ",
+      "vi_text": "Veera tạo ra một sàn băng dưới chân rồi lướt đến trước mặt Verisa.<br>Ma lực khổng lồ hội tụ vào cây trượng cô giơ trong tay.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 79,
+      "line": 1697,
+      "cmd": "message",
+      "source_text": "I won't let you interfere with our mission any longer. Freeze forever，<br>you pests...!<br> ",
+      "vi_text": "Ta sẽ không để các ngươi cản trở nhiệm vụ của ta và chị nữa.<br>Đóng băng vĩnh viễn đi‚ lũ cản đường…!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 80,
+      "line": 1771,
+      "cmd": "message",
+      "source_text": "A sharp ringing sound echoed. The next moment，light burst from her<br>staff，and all the surrounding golems were encased in ice.<br> ",
+      "vi_text": "――Keng‚ một âm thanh cao vút vang lên. Ngay khoảnh khắc ánh sáng bắn ra từ trượng<br>toàn bộ golem xung quanh đã bị băng bao phủ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 81,
+      "line": 1824,
+      "cmd": "message",
+      "source_text": "That's all of them.<br> ",
+      "vi_text": "…Vậy là xong.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 82,
+      "line": 1854,
+      "cmd": "message",
+      "source_text": "As Veera snapped her fingers，the frozen cores shattered with a<br>crack. Every last golem crumbled and vanished，leaving none behind.<br> ",
+      "vi_text": "Khi Veera búng tay‚ những lõi bị bọc trong băng vỡ tan răng rắc.<br>Không còn sót lại một con nào‚ tất cả golem sụp đổ rồi biến mất.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 83,
+      "line": 1897,
+      "cmd": "message",
+      "source_text": "If there are cores hidden somewhere，freezing everything should<br>destroy them all at once.<br> ",
+      "vi_text": "Nếu lõi nằm ở đâu đó<br>thì chỉ cần đóng băng tất cả là có thể phá hủy cả lõi cùng lúc.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 84,
+      "line": 1908,
+      "cmd": "message",
+      "source_text": "Compared to yours，Sis，it's a pretty clumsy spell.<br> ",
+      "vi_text": "So với chị đây là một ma pháp khá vụng về nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 85,
+      "line": 1910,
+      "cmd": "message",
+      "source_text": "...Impressive. You did great，Veera.<br> ",
+      "vi_text": "…Xuất sắc lắm. Em làm tốt lắm‚ Veera.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 86,
+      "line": 1921,
+      "cmd": "message",
+      "source_text": "No，I just handled it so I wouldn't trouble you. Right，Sis?<br> ",
+      "vi_text": "Không đâu‚ em chỉ xử lý để không gây phiền cho chị thôi. Đúng không chị?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 87,
+      "line": 1981,
+      "cmd": "message",
+      "source_text": "...You're amazing，Veera. You really saved us. As expected，I'm just...<br> ",
+      "vi_text": "…Em giỏi quá‚ Veera. Em thật sự đã cứu chị rồi. Quả nhiên‚ người như chị…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 88,
+      "line": 1992,
+      "cmd": "message",
+      "source_text": "Sis...?<br> ",
+      "vi_text": "Chị… ơi…?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 89,
+      "line": 2037,
+      "cmd": "message",
+      "source_text": "Veera's magic annihilated the golems. Verisa couldn't hide the bitter<br>look on her face at the brilliant result.<br> ",
+      "vi_text": "Bằng ma pháp Veera tung ra‚ bọn golem đã bị tiêu diệt sạch.<br>Trước chiến quả tuyệt vời ấy‚ Verisa không thể che giấu vẻ mặt cay đắng.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 90,
+      "line": 2068,
+      "cmd": "message",
+      "source_text": "The transport unit Verisa and Veera escorted repelled a golem<br>ambush with Veera's magic and returned safely to the Frontline Base.<br> ",
+      "vi_text": "Đội vận chuyển do Verisa và Veera hộ tống<br>đã nhờ ma pháp của Veera đẩy lùi cuộc phục kích của golem và an toàn trở về căn cứ tiền tuyến.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 91,
+      "line": 2108,
+      "cmd": "message",
+      "source_text": "Man，that young lady used some incredible magic! That really<br>surprised me!<br> ",
+      "vi_text": "Chà‚ cô bé này dùng ma pháp ghê gớm thật đấy!<br>Làm tôi giật cả mình!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 92,
+      "line": 2117,
+      "cmd": "message",
+      "source_text": "Yeah，thanks to her we were saved!<br> ",
+      "vi_text": "Ừ‚ nhờ cô ấy mà chúng ta được cứu!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 93,
+      "line": 2163,
+      "cmd": "message",
+      "source_text": "It was Sis who told me their weak point. I just destroyed them with<br>magic; anyone could have done that...<br> ",
+      "vi_text": "Người chỉ ra điểm yếu là chị mà.<br>Em chỉ phá hủy chúng bằng ma pháp thôi‚ chuyện đó ai cũng…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 94,
+      "line": 2224,
+      "cmd": "message",
+      "source_text": "No，I couldn't have done it. It was your power，Veera.<br> ",
+      "vi_text": "Không‚ chị không làm được. Đó là sức mạnh của em đấy‚ Veera.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 95,
+      "line": 2235,
+      "cmd": "message",
+      "source_text": "Sis，why are you saying that...?<br> ",
+      "vi_text": "Chị ơi‚ sao chị lại nói vậy…?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 96,
+      "line": 2289,
+      "cmd": "message",
+      "source_text": "Just like Miss Verisa said! You're an incredible mage!<br> ",
+      "vi_text": "Đúng như cô bé Verisa nói! Cô là một pháp sư kinh khủng đấy!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 97,
+      "line": 2298,
+      "cmd": "message",
+      "source_text": "Hey，Veera，let me buy you a drink! As thanks for saving us!<br> ",
+      "vi_text": "Này Veera‚ để tôi đãi cô một ly nhé! Coi như cảm ơn vì đã cứu bọn tôi!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 98,
+      "line": 2346,
+      "cmd": "message",
+      "source_text": "Huh...?!<br> ",
+      "vi_text": "Ơ…!?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 99,
+      "line": 2357,
+      "cmd": "message",
+      "source_text": "Lord Commander，what should I do...?<br> ",
+      "vi_text": "Chỉ Huy‚ em nên làm sao đây…?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 100,
+      "line": 2359,
+      "cmd": "message",
+      "source_text": "That sounds good，doesn't it? A drink to celebrate your first mission.<br> ",
+      "vi_text": "Cũng được mà nhỉ? Một ly chúc mừng hoàn thành nhiệm vụ đầu tiên cũng hay đấy.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 101,
+      "line": 2404,
+      "cmd": "message",
+      "source_text": "Alright，I'll pay. Everyone，let's head to the tavern!<br> ",
+      "vi_text": "Được rồi‚ tôi sẽ trả tiền. Mọi người‚ giờ đến quán rượu nào!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 102,
+      "line": 2413,
+      "cmd": "message",
+      "source_text": "That's the Commander for you! He gets it!<br> ",
+      "vi_text": "Quả đúng là Chỉ Huy! Hiểu chuyện ghê!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 103,
+      "line": 2440,
+      "cmd": "message",
+      "source_text": "Let's go，Veera!<br> ",
+      "vi_text": "Đi thôi‚ Veera!<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 104,
+      "line": 2497,
+      "cmd": "message",
+      "source_text": "Understood. Sis，will you come with me?<br> ",
+      "vi_text": "Em hiểu rồi. Chị ơi‚ đi cùng em nhé?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 105,
+      "line": 2508,
+      "cmd": "message",
+      "source_text": "Hmm... I'll pass. I'm full and not really in the mood.<br> ",
+      "vi_text": "Ừm… chị thôi. Chị no rồi và cũng không có tâm trạng đó.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 106,
+      "line": 2519,
+      "cmd": "message",
+      "source_text": "Sis，you're not coming? Then I'll pass too.<br> ",
+      "vi_text": "Chị không đi sao? Vậy em cũng không đi nữa.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 107,
+      "line": 2531,
+      "cmd": "message",
+      "source_text": "No，you go，Veera. It's important to bond with your comrades here at<br>the base.<br> ",
+      "vi_text": "Không‚ Veera cứ đi đi nhé?<br>Giao lưu với đồng đội ở căn cứ này cũng là chuyện quan trọng mà.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 108,
+      "line": 2542,
+      "cmd": "message",
+      "source_text": "B-but...<br> ",
+      "vi_text": "N‚ nhưng…<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 109,
+      "line": 2553,
+      "cmd": "message",
+      "source_text": "Just go. Okay?<br> ",
+      "vi_text": "Cứ đi đi. Nhé?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 110,
+      "line": 2572,
+      "cmd": "message",
+      "source_text": "... Okay. But feel free to join us later，okay?<br> ",
+      "vi_text": "…Ừm. Nhưng lúc nào chị cũng có thể đến nhé?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 111,
+      "line": 2633,
+      "cmd": "message",
+      "source_text": "Verisa... You alright?<br> ",
+      "vi_text": "Verisa… em ổn chứ?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 112,
+      "line": 2644,
+      "cmd": "message",
+      "source_text": "What is it，Mister? Come to laugh at the pathetic sister who lost to<br>her little sister?<br> ",
+      "vi_text": "Gì vậy anh?<br>Anh đến cười em là người chị vô dụng thua em gái à?<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 113,
+      "line": 2646,
+      "cmd": "message",
+      "source_text": "Who'd do that? You fought bravely，didn't you?<br> ",
+      "vi_text": "Ai lại làm chuyện đó. Em đã chiến đấu rất ra dáng mà.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 114,
+      "line": 2658,
+      "cmd": "message",
+      "source_text": "... Thanks，Mister. But I guess I'm just a little tired today.<br> ",
+      "vi_text": "…Cảm ơn anh. Nhưng hôm nay có lẽ em hơi mệt rồi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 115,
+      "line": 2669,
+      "cmd": "message",
+      "source_text": "Don't worry about me，Mister. Go celebrate Veera's success.<br> ",
+      "vi_text": "Đừng bận tâm đến em. Anh hãy đi chúc mừng chiến quả của Veera đi.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 116,
+      "line": 2671,
+      "cmd": "message",
+      "source_text": "Got it. But make sure to come by later.<br> ",
+      "vi_text": "Anh hiểu rồi. Nhưng lát nữa nhất định phải ghé mặt đấy.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 117,
+      "line": 2673,
+      "cmd": "message",
+      "source_text": "Veera wants you to congratulate her more than anyone else，I'm sure.<br> ",
+      "vi_text": "Veera chắc chắn muốn được em chúc mừng hơn bất kỳ ai.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    },
+    {
+      "index": 118,
+      "line": 2705,
+      "cmd": "message",
+      "source_text": "... Yeah. I know.<br> ",
+      "vi_text": "…Ừm. Em biết.<br> ",
+      "status": "TRANSLATED",
+      "match": "CONTEXT_MATCH"
+    }
+  ],
+  "qa_status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10080100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 116,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 118,
+    "translated_records": 118,
+    "changed_lines": 118,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2714,
+      "vi": 2714,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "927f1a298352e9f8cdb1cfeabea5d2f4b59ae10c07d84d7e5d6f8b9386557b9e",
+    "output_sha256": "ba3b7e79d9c34092600e29612275657d58874e4f6d5f924c9089877538862ac9"
+  },
+  "status": "PASS"
+}

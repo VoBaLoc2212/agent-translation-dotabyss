@@ -1,0 +1,75 @@
+ルディアに配置をお願いしますか？<br>(すべてのおしごとに自動でスタッフを割り当てます)=Bạn có muốn Ludia sắp xếp giúp không?<br>(Tự động phân công nhân viên cho tất cả công việc)
+任せる=<size\=90%>Giao cho tôi
+キャラクターを\n選択してください。=Vui lòng chọn\nnhân vật.
+フロア1=Tầng 1
+フロア2=Tầng 2
+フロア3=Tầng 3
+ラウンジ1=Phòng Chờ 1
+ラウンジ2=Phòng Chờ 2
+個室1=Phòng Riêng 1
+個室2=Phòng Riêng 2
+個室3=Phòng Riêng 3
+r:"^フロア([0-9]+)の満足度$"=Độ hài lòng của Tầng $1
+r:"^ラウンジ([0-9]+)の満足度$"=Độ hài lòng của Phòng Chờ $1
+r:"^個室([0-9]+)の満足度$"=Độ hài lòng của Phòng Riêng $1
+VIPの満足度=Độ hài lòng của VIP
+キャラをタッチして配置しましょう=<size\=90%>Chạm vào nhân vật để thay thế
+運営情報=<size\=80%>Thông Tin\nĐiều Hành
+おまかせ配置=<size\=85%>Tự Động Sắp Xếp
+営業再開=<size\=80%><cspace\=-0.1em>Mở Cửa Lại
+合計満足度=<size\=85%><cspace\=-0.1em>Tổng Độ Hài Lòng
+総合評価=Đánh Giá Tổng Quan
+合計コンボ数=Tổng Combo
+獲得ソウル：=<size\=71%>Linh Hồn nhận được:
+獲得ゴールド：=<size\=85%>Vàng kiếm được:
+再営業=Mở Lại
+交換所へ=<size\=75%>Đến Cửa Hàng Đổi Thưởng
+次へ=<size\=75%><cspace\=-0.1em>Tiếp Theo
+このおしごとはまだ解放されていません。<br>娼館の施設のアップグレードを進めると<br>スタッフを配置できるようになります。=Công việc này chưa được mở khóa.<br>Khi bạn nâng cấp các cơ sở của Tửu Quán,<br>bạn sẽ có thể phân công nhân viên.
+規模=Quy Mô
+スタッフ数=<size\=70%>Số Lượng Nhân Viên
+r:"^([0-9]+)人$"=$1 người
+娼館の開発を進めましょう=Hãy tiến hành kế hoạch phát triển Tửu Quán.
+施設詳細=<size\=70%>Chi Tiết Cơ Sở
+満足度評価=<cspace\=-0.1em><line-height\=60%><size\=80%>Đánh giá độ hài lòng
+最高満足度=<cspace\=-0.1em><line-height\=60%><size\=80%>Độ hài lòng cao nhất
+本日の営業は終了いたしました。=Công việc kinh doanh hôm nay đã kết thúc.
+営業再開まで=Cho đến lần mở lại tiếp theo
+追加営業許可証を使って再営業することもできます。=<size\=80%>Bạn có thể dùng giấy phép kinh doanh bổ sung để mở cửa lại.
+営業開始=<cspace\=-0.1em><line-height\=60%><size\=90%>Bắt Đầu Kinh Doanh
+営業開始=<cspace\=-0.1em><line-height\=60%><size\=90%>Bắt Đầu Kinh Doanh
+本日の営業を開始しますか？=Bắt đầu kinh doanh hôm nay?
+開始する=Bắt Đầu
+おまかせカード選択=Chọn Thẻ Ngẫu Nhiên
+提案カードを選択してください=Vui lòng chọn thẻ đề xuất
+お客様に最高の手札から最高のおもてなしを！=<cspace\=-0.1em>Chúng tôi mang đến sự phục vụ tốt nhất từ những thẻ bài tuyệt nhất!
+sr:"^([\S\s]+)に「([\S\s]+)」を付与し満足度\+([0-9]+)%$"=Thêm 「$2」 vào $1 và tăng độ hài lòng lên $3%
+sr:"^([0-9]+)Fのおしごとに「([\S\s]+)」を付与し満足度\+([0-9]+)%$"=Thêm 「$2」 vào mọi công việc ở Tầng $1 và tăng độ hài lòng lên $3%
+ドリンク=Thức Uống
+接客=Phục Vụ
+料理=Nấu Ăn
+
+Suggestion Card
+sr:"^([\S\s]+)の提案$"=Đề Xuất Của $1
+sr:"^ランダムな<color\=#AC83FD>「([\S\s]+)」</color>の\nスタッフ最大([0-9]+)体に<color\=#AC83FD>「([\S\s]+)」</color>を付与。\nそれらのスタッフの満足度\+<color\=#4CF37B>([0-9]+)%</color>$"=<line-height\=60%>Cấp <color\=#AC83FD>“$3”</color> cho tối đa $2 nhân viên <color\=#AC83FD>“$1”</color> ngẫu nhiên.\nTăng độ hài lòng của những nhân viên đó thêm <color\=#4CF37B>$4%</color>
+sr:"^ランダムな<color\=#AC83FD>「([\S\s]+)」</color>の\nスタッフ最大([0-9]+)体に<color\=#AC83FD>「([\S\s]+)」</color>を付与。$"=<line-height\=60%>Cấp <color\=#AC83FD>“$3”</color> cho tối đa $2 nhân viên <color\=#AC83FD>“$1”</color> ngẫu nhiên.
+
+sr:"^<color\=#AC83FD>「([\S\s]+)」</color>が付与されているスタッフに\n<color\=#AC83FD>「([\S\s]+)」</color>を付与する。$"=<line-height\=60%>Cấp <color\=#AC83FD>“$2”</color> cho các nhân viên đã được cấp <color\=#AC83FD>“$1”</color>.
+sr:"^評価が(Good|Great)以上のスタッフの満足度\+<color\=#4CF37B>([0-9]+)%</color>$"=<line-height\=60%>Độ hài lòng của nhân viên có đánh giá từ “$1” trở lên +<color\=#4CF37B>$2%</color>
+r:"^全てのスタッフの満足度\+<color\=#4CF37B>([0-9]+)%</color>$"=<line-height\=60%>Độ hài lòng của toàn bộ nhân viên +<color\=#4CF37B>$1%</color>
+r:"^全てのスタッフに評価に応じた\n満足度ボーナス（最大で\+<color\=#4CF37B>([0-9]+)%</color>）。$"=<line-height\=60%>Tất cả nhân viên nhận thưởng độ hài lòng dựa trên đánh giá (tối đa +<color\=#4CF37B>$1%</color>).
+sr:"^次ターンの営業カードが必ず<color\=#AC83FD>「([\S\s]+)」</color>関連のものになる。\n（最終ターンでは効果を発揮しません）$"=<line-height\=60%>Thẻ Kinh Doanh của lượt tiếp theo chắc chắn sẽ liên quan đến <color\=#AC83FD>“$1”</color>.\n(Hiệu ứng này không hoạt động ở lượt cuối cùng.)
+sr:"^次ターンの営業カードが必ず(?:<color\=#AC83FD>)?「ドリンク」(?:</color>)?関連のものになる。\n全てのスタッフの満足度\+(?:<color\=#4CF37B>)?([0-9]+)[%％](?:</color>)?$"=<line-height\=60%>Thẻ Kinh Doanh lượt sau chắc chắn thuộc nhóm <color\=#AC83FD>“Thức Uống”</color>.\nĐộ hài lòng của toàn bộ nhân viên +<color\=#4CF37B>$1%</color>
+sr:"^次ターンの営業カードが必ず(?:<color\=#AC83FD>)?「接客」(?:</color>)?関連のものになる。\n全てのスタッフの満足度\+(?:<color\=#4CF37B>)?([0-9]+)[%％](?:</color>)?$"=<line-height\=60%>Thẻ Kinh Doanh lượt sau chắc chắn thuộc nhóm <color\=#AC83FD>“Phục Vụ”</color>.\nĐộ hài lòng của toàn bộ nhân viên +<color\=#4CF37B>$1%</color>
+sr:"^次ターンの営業カードが必ず(?:<color\=#AC83FD>)?「料理」(?:</color>)?関連のものになる。\n全てのスタッフの満足度\+(?:<color\=#4CF37B>)?([0-9]+)[%％](?:</color>)?$"=<line-height\=60%>Thẻ Kinh Doanh lượt sau chắc chắn thuộc nhóm <color\=#AC83FD>“Nấu Ăn”</color>.\nĐộ hài lòng của toàn bộ nhân viên +<color\=#4CF37B>$1%</color>
+sr:"^次ターンの営業カードが必ず<color\=#AC83FD>「([\S\s]+)」</color>関連のものになる。\n全てのスタッフの満足度\+<color\=#4CF37B>([0-9]+)%</color>$"=Thẻ kinh doanh của lượt tiếp theo sẽ luôn liên quan đến <color=#AC83FD>「$1」</color>.\nĐộ hài lòng của tất cả nhân viên +<color=#4CF37B>$2%</color>
+sr:"^次ターンの営業カードが必ず「([\S\s]+)」関連のものになる。\n全てのスタッフの満足度\+([0-9]+)%$"=<line-height\=60%>Thẻ Kinh Doanh của lượt tiếp theo chắc chắn sẽ liên quan đến <color\=#AC83FD>"$1"</color>.\nĐộ hài lòng của toàn bộ nhân viên +<color\=#4CF37B>$2%</color>
+sr:"^ランダムな<color\=#AC83FD>「([\S\s]+)」</color>のスタッフ最大1体に\n<color\=#AC83FD>「([\S\s]+)」</color>を付与する。$"=Cấp <color\=#AC83FD>"$2"</color> cho tối đa 1 nhân viên <color\=#AC83FD>"$1"</color> ngẫu nhiên.
+
+すべてのおしごと=Tất cả công việc
+
+戻る=Quay lại
+
+スタッフ選択=<line-height\=80%>Chọn\nNhân viên
+
+sr:"^([\S\s]+)<br>に配置$"=Bố trí vào<br>$1

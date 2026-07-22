@@ -1,0 +1,638 @@
+{
+  "scene": "hmn_10190100003",
+  "source_file": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10190100003.txt",
+  "output_file": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10190100003.txt",
+  "source_sha256": "fac136f0565bc1081bef735d00444b1c3ecd97806c07dd33e412c04eddb258c4",
+  "output_sha256": "bf3b2670afbc4b1ea8c4035ff03b38a863f3e759c0098b2b78810e08cb055709",
+  "bom_preserved": true,
+  "newline": "CRLF",
+  "candidate_counts": {
+    "title": 1,
+    "message": 96,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 97,
+  "translated_records": 97,
+  "title_translated": true,
+  "entries": [
+    {
+      "cmd": "title",
+      "speaker": "",
+      "jp": "決着！　勝負の行方は……！？",
+      "vi": "Quyết Đấu! Kết Cục Trận Đấu Là……!?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "いかがかしら？<br>ワタシの集めた品は。",
+      "vi": "Thế nào?<br>Hàng tôi thu thập đấy."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "目録を見たが、確かにいい品がそろってるな。",
+      "vi": "Tôi đã xem bản kê khai‚ hàng hóa đúng là tốt thật đấy."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "だが、アウラ。<br>そもそも俺が依頼したのはルシータだ。なぜおまえが納品に来る？",
+      "vi": "Nhưng‚ Aura.<br>Vốn dĩ anh mới là người giao việc cho Lucita cơ. Sao cậu lại đến giao hàng?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ふふん、甘っちょろいことを言うのね。商売はいつだって弱肉強食！<br>より早く、よりよい品を用意したものが勝者！",
+      "vi": "Hứ‚ nói năng ngây thơ thật đấy. Thương trường luôn là mạnh được yếu thua!<br>Kẻ chuẩn bị hàng tốt hơn‚ nhanh hơn mới là người chiến thắng!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "そうでしょ？",
+      "vi": "Đúng không?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "その商談！　ちょっと待ったーーー！",
+      "vi": "Phi vụ đó! Khoan đã------!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "あらあら、ずいぶんと遅い到着ね、ルシータ。",
+      "vi": "Ồn ôn‚ đến muộn quá nhỉ‚ Lucita."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アウラ！　お前は昔からいっつもいっつも、<br>アタシのやることを邪魔して……！",
+      "vi": "Aura! Từ xưa đến nay cậu lúc nào cũng<br>làm phiền việc của tôi……!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "心外ねぇ。アンタも商売人なら、人を非難する前に<br>自分を売り込むことを考えたらどう？",
+      "vi": "Thật bất ngờ. Cậu cũng là thương nhân mà‚ sao không nghĩ đến việc quảng bá bản thân<br>trước khi đi chỉ trích người khác?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "横からしゃしゃり出ておいて、偉そうなことを言うな！",
+      "vi": "Thích nhảy vào giữa rồi lên mặt dạy đời à!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "なるほど。<br>要は、アウラがルシータを出し抜こうとしたわけだな。",
+      "vi": "Ra thế.<br>Tức là Aura định qua mặt Lucita đúng không."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ふふん、ご明察。でも、司令官も司令官よ。<br>最初っからワタシに依頼すれば話は早かったのに。",
+      "vi": "Hứ‚ nhạy bén đấy. Nhưng Chỉ Huy cũng bậy bạ thật.<br>Đáng ra từ đầu cứ giao cho tôi thì xong chuyện sớm hơn."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "前線基地を預かる立場なら、取引相手はよく選ばなくては<br>いけないのでは？",
+      "vi": "Đứng ở vị trí trông coi tiền tuyến‚ hẳn là phải chọn kỹ<br>đối tác giao dịch chứ?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ほう？<br>それで、おまえは自分のほうがいい取引相手だというわけか。",
+      "vi": "Ồ?<br>Vậy tức là cậu cho mình là đối tác giao dịch tốt hơn đúng không."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "当然。<br>言うまでもないわ。",
+      "vi": "Tất nhiên.<br>Đương nhiên rồi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アタシだって一生懸命集めたんだからな！<br>ちょっとだけ先を越されただけだ！",
+      "vi": "Tôi cũng đã dồn hết sức thu thập mà!<br>Chỉ là bị cậu đi trước một chút thôi!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "オホホホホ！<br>負け犬の遠吠えはよく響くわねぇ！",
+      "vi": "Ô hô hô hô!<br>Tiếng hú của kẻ bại trận vang xa thật đấy!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "まだ負けとは決まってないだろ！<br>司令官、アタシの納品目録も見てくれよ！",
+      "vi": "Chưa quyết là thua đâu!<br>Chỉ Huy‚ xem cả bản kê khai giao hàng của tôi nữa đi!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ああ、それは確認させてもらうが……。<br>おまえら、そもそもなんでそんなに仲が悪いんだ？　古い付き合いなんだろ？",
+      "vi": "À‚ tôi sẽ xem qua chuyện đó…….<br>Hai đứa bây‚ tại sao quan hệ lại tệ thế? Là quen biết lâu năm mà nhỉ?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "知らないよ、そんなの。<br>こいつはいっつも人を下に見てきてさ。",
+      "vi": "Tôi không biết đâu.<br>Ả này lúc nào cũng coi thường người khác."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "そういうアンタは、どれだけワタシに負けても挑み続けてきたわね。",
+      "vi": "Còn cậu thì‚ dù thua tôi bao nhiêu lần vẫn cứ thách đấu mãi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "やられっぱなしは趣味じゃないんだ。<br>そもそも、アタシは負けたなんて思ったことはないからな！",
+      "vi": "Tôi không thích kiểu cứ ăn đòn mãi.<br>Vả lại‚ tôi chưa bao giờ nghĩ mình thua đâu!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ほんと、負けず嫌いよね～。",
+      "vi": "Thật đấy‚ cậu đúng ghét thua cuộc ghê~."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "――そう、アンタだけだったわ。<br>ワタシと張り合い続けてくれたのは。",
+      "vi": "――Đúng vậy‚ chỉ có mình cậu thôi.<br>Là người tiếp tục đấu với tôi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "え？",
+      "vi": "Hả?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "他の連中がワタシと張り合うことをやめても、<br>アンタだけはいつまで経ってもワタシに負けまいと食い下がってきた。",
+      "vi": "Dù bao kẻ khác đã thôi đấu với tôi‚<br>chỉ riêng cậu là mãi mãi cứ bám lấy‚ không chịu thua tôi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "だからワタシも、そんなアンタに負けないように、<br>ますます頑張ることができたのよ。",
+      "vi": "Vì thế tôi cũng đã có thể nỗ lực hơn‚<br>để không thua một cậu như cậu."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "な、なんだよ、いきなり。",
+      "vi": "N‚ n‚ sao tự dưng vậy."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "なるほど。つまり、似た者同士ってことだ。",
+      "vi": "Ra thế. Tức là cùng hội cùng thuyền nhỉ."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "似た者同士……？",
+      "vi": "Cùng hội cùng thuyền……?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "そうだろ？　どっちもどっちの負けず嫌い。<br>アウラもおまえに負けたくないから、ずっと張り合ってきたんだろ。",
+      "vi": "Đúng không? Cả hai đều ghét thua cuộc như nhau.<br>Aura cũng chẳng muốn thua cậu nên mới đấu suốt đúng không."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アウラが、アタシに……？",
+      "vi": "Aura mà‚ lại nói với tôi……?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "……アンタはずっと、アタシなんて眼中にないと思ってた。",
+      "vi": "……Tôi cứ nghĩ cậu chẳng bao giờ để tôi trong mắt."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "バカ言わないで。<br>アンタみたいにうるさいの、無視できるはずないでしょ。",
+      "vi": "Đừng có nói bậy.<br>Cậu ồn ào như vậy‚ làm sao mà bỏ mặc được chứ."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "な、なんだよ！<br>うるさいのはおまえのほうだろ！",
+      "vi": "N‚ nói cái gì chứ!<br>Cậu mới là người ồn ào hơn mà!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "アウラ。言いたいことは、もっと別にあるんじゃないのか？",
+      "vi": "Aura. Cậu không còn điều gì muốn nói sao?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "それは……。",
+      "vi": "Chuyện đó thì……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "なんだよ、言いたいことがあるなら言えよ。<br>アウラがうじうじしてるなんて、似合ってないぞ。",
+      "vi": "Này‚ có gì muốn nói thì nói đi.<br>Aura mà dây dưa thế này chẳng hợp chút nào."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "……ん～～～っ、もう！<br>まったくアンタは、やりにくいったらないわ！",
+      "vi": "……Ưn~~~~tôi‚ thôi đi!<br>Cậu đúng là khó đối phó quá chừng!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ええっ、そうよ！　ワタシのライバルはルシータだけ！<br>アンタがいないと、張り合いがないのよ！",
+      "vi": "Ơ kìa‚ đúng thế! Đối thủ của tôi chỉ có Lucita!<br>Không có cậu thì chẳng còn ai đấu với tôi nữa!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "へっ！？　ライバル……？",
+      "vi": "Hể!? Đối thủ……?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "そうよ！　だから司令官に仕事を任されて張り切ってるのが<br>気に食わなかったのよ！　ワタシのことなんか目にも入ってないみたいで！",
+      "vi": "Đúng vậy! Vì thế tôi mới bực mình khi cậu được Chỉ Huy giao việc rồi hăng hái thế!<br>Như thể chẳng thèm để tôi vào mắt vậy!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "え！？<br>そ、そんな理由だったのか！？",
+      "vi": "Hể!?<br>H‚ hóa ra là lý do đó sao!?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "～～～～っ、ったく、なんだよ。<br>調子狂うなぁ……。",
+      "vi": "~~~~tôi‚ thật tình‚ nói cái gì chứ.<br>Làm tôi mất nhịp quá……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "分かったよ……。そういうことなら、もういい。<br>悔しいけど、アウラのほうが手際がよかったのも確かだし。",
+      "vi": "Hiểu rồi……. Đã thế thì thôi.<br>Dù cay đắng nhưng đúng là Aura làm tốt hơn tôi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "今回は、アタシの負けだ。",
+      "vi": "Lần này‚ tôi thua."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "あら、あっさり負けを認めるなんて、アンタらしくないわね。",
+      "vi": "Ồ‚ dễ dàng nhận thua thế‚ chẳng giống cậu chút nào."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アウラが用意する品の品質が悪いってことはないだろうしな。<br>だったら早く納品した分、優秀なのはアウラだ。",
+      "vi": "Hàng Aura chuẩn bị chắc chẳng kém chất lượng đâu.<br>Thế thì xét về giao hàng nhanh‚ Aura mới là người giỏi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "今回は、アタシも勉強させてもらった。<br>けど、次は負けないからなっ！",
+      "vi": "Lần này tôi cũng học được nhiều.<br>Nhưng lần sau tôi sẽ không thua đâu!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ルシータ、アンタ……。",
+      "vi": "Lucita‚ cậu……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "ふっ……。一皮むけたようね。<br>次からは、もっと手強い相手になりそう。",
+      "vi": "Hứ……. Cậu như thể đã lột xác rồi đấy.<br>Từ giờ có vẻ sẽ là đối thủ khó nhằn hơn."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "ああっ！　覚悟しておけよ！",
+      "vi": "Â‚ chuẩn bị đi nhé!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "というわけだから、司令官。<br>アタシが用意した品は、持ち帰ることにするよ。",
+      "vi": "Nói tóm lại‚ Chỉ Huy.<br>Hàng tôi chuẩn bị thì tôi sẽ mang về."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "いや、ルシータが用意した品をもらうぞ。",
+      "vi": "Không‚ tôi sẽ nhận hàng Lucita chuẩn bị."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ・アウラ",
+      "jp": "……え！？",
+      "vi": "……Hả!?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "なにを驚いている。<br>そもそも俺は、早く納品した者が勝ちなんてルールは決めてないぞ。",
+      "vi": "Sao lại ngạc nhiên thế.<br>Vốn dĩ tôi đâu có đặt luật giao hàng trước thì thắng."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ちょうど今、ルシータの納品目録を確認し終わった。<br>で、ルシータの品がいいと思ったからおまえに決めたんだ。",
+      "vi": "Tôi vừa xem xong bản kê khai giao hàng của Lucita.<br>Vì thấy hàng của Lucita tốt nên tôi mới chọn cậu."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "ほ、本当か！？<br>でも、どうしてアタシなんだ？",
+      "vi": "T‚ thật sao!?<br>Nhưng tại sao lại là tôi?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "理由を聞いてもいい？",
+      "vi": "Tôi nghe lý do được không?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "アウラが用意したものは確かに、高級で品質も確かな品ばかりだ。<br>その点で言えば文句はない。",
+      "vi": "Hàng Aura chuẩn bị đúng là toàn đồ cao cấp‚ chất lượng đảm bảo.<br>Xét ở điểm đó thì không chê vào đâu được."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "だが――それはエルドラーナであればの話だ。",
+      "vi": "Nhưng――đó là nếu ở Eldorana."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "エルドラーナなら……？<br>どういうことかしら？",
+      "vi": "Nếu là Eldorana……?<br>Ý là sao cơ?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ルシータ。おまえはあえて高級品ではなく、<br>量産品を多めに仕入れているな。それはどうしてだ？",
+      "vi": "Lucita. Cậu cố tình không lấy hàng cao cấp mà<br>nhập nhiều hàng đại trà. Tại sao vậy?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "ああ、それか。前線基地はエルドラーナほど環境がよくないから、<br>きっと機材も壊れやすいよな？",
+      "vi": "À‚ ra là vậy. Tiền tuyến không có môi trường tốt như Eldorana‚<br>chắc máy móc cũng dễ hỏng đúng không?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "特に複雑な設計の機材だと、壊れた時に専門の修理業者が必要になる。<br>でも、危険な前線基地にまで修理に来てくれる修理業者はなかなかいないだろ。",
+      "vi": "Nhất là máy móc thiết kế phức tạp‚ hỏng thì cần thợ sửa chuyên môn.<br>Nhưng chẳng mấy khi có thợ chịu đến tận tiền tuyến nguy hiểm để sửa đâu."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "だから今回の場合、もちろん品質も大事だけど、<br>耐久性とメンテナンスのしやすさも大切だと思ったんだ。",
+      "vi": "Nên lần này‚ chất lượng đúng là quan trọng‚<br>nhưng tôi nghĩ độ bền và dễ bảo trì cũng thiết yếu."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "…………っ！",
+      "vi": "…………!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "ほら、アタシってもともと海賊稼業やってただろ？<br>海の上だと、なにか壊れてもすぐに修理できないからな。",
+      "vi": "Này‚ tôi vốn trước đây làm nghề cướp biển mà?<br>Trên biển mà hỏng gì thì cũng chẳng sửa ngay được."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "そういう環境だと、頑丈なものとか単純なもののほうが使いやすいんだよ。<br>だから、前線基地でも量産品のほうがいいと思ったんだ。",
+      "vi": "Ở môi trường đó thì đồ chắc chắn hay đơn giản mới dễ dùng.<br>Nên tôi nghĩ ở tiền tuyến hàng đại trà vẫn tốt hơn."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "そこまで考えていたの……。",
+      "vi": "Cậu tính toán xa đến thế cơ……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "そういうことだ。注文の時、俺はあえて細かい要望は伝えなかった。<br>それは、ルシータなら言わずとも適切なものを選んでくれると思ったからだ。",
+      "vi": "Đúng thế. Lúc đặt hàng‚ anh cố tình không nói rõ yêu cầu.<br>Vì tin Lucita sẽ tự chọn được món phù hợp mà không cần nhắc."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "結果的に、ルシータは期待通りの品を用意してくれた。<br>アウラ。これ以上の説明が必要か？",
+      "vi": "Kết quả là Lucita đã chuẩn bị hàng như anh kỳ vọng.<br>Aura. Cần giải thích thêm không?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "……いいえ。納得したわ。<br>確かに、ワタシは顧客のニーズを満たせていなかったようね。",
+      "vi": "……Không. Tôi hiểu rồi.<br>Đúng là tôi dường như đã không thỏa mãn nhu cầu khách hàng."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "思えば最初から、ワタシはルシータに勝つことばかり考えていたけど、<br>ルシータは真剣に顧客のことだけを考えていたのね……負けて当然だわ。",
+      "vi": "Nghĩ lại thì từ đầu tôi chỉ nghĩ đến chuyện thắng Lucita‚<br>còn Lucita chỉ nghiêm túc nghĩ cho khách hàng thôi…… thua là đúng rồi."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アウラ……。",
+      "vi": "Aura……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "（さすがのアウラも、負けたのがショックなのかな……）",
+      "vi": "(Đến cả Aura cũng sốc vì thua sao……)"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "――ま、そういうことなら、ワタシが用意した品物は<br>マーケットの高級店で売りさばくとするわ。",
+      "vi": "――Thôi‚ đã thế thì hàng tôi chuẩn bị<br>tôi sẽ đem bán tống ở tiệm cao cấp ngoài chợ."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "え……？",
+      "vi": "Hả……?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "前線基地ではなかなか手に入らない高級品だもの。<br>きっといい値で売れるわよ～♪",
+      "vi": "Ở tiền tuyến khó mà mua được hàng cao cấp thế.<br>Chắc chắn bán được giá cao thôi~♪"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "あっ、それからルシータ。今日のところはワタシの負けだけど、<br>次は絶対にワタシが勝つから、首を洗って待ってなさいね！",
+      "vi": "Á‚ còn nữa Lucita. Hôm nay thì tôi thua‚<br>nhưng lần sau nhất định tôi thắng nên cứ rửa sạch cổ mà đợi nhé!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "アウラ",
+      "jp": "それではおふたりとも、ごきげんよう～。",
+      "vi": "Vậy hai người‚ chào nhé~."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "…………。",
+      "vi": "…………"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "なんというか……めげないやつだな。",
+      "vi": "Sao nhỉ…… bả đúng là không biết nản."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "……ハハッ！　ホントにな！<br>アウラが落ち込んでるところなんて、見たことないからな！",
+      "vi": "……Ha ha! Đúng là thế!<br>Tôi chưa từng thấy Aura buồn bã thế này!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "そうか。なにはともあれ、納品完了だ。よくやってくれた。",
+      "vi": "Ra thế. Dù sao thì giao hàng xong rồi. Cậu làm tốt lắm."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "で、どうだ？　大きな仕事をこなしてみた感想は。",
+      "vi": "Nào‚ cảm thấy thế nào? Sau khi làm xong một việc lớn."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "大変だったけど、いい経験だったぞ！",
+      "vi": "Có vất vả nhưng là một trải nghiệm tốt!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "司令官、アタシに仕事を任せてくれて、本当にありがとうな！",
+      "vi": "Chỉ Huy‚ cảm ơn anh đã giao việc cho tôi!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "あと、それから……。",
+      "vi": "À‚ còn nữa……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ん？　なんだ？",
+      "vi": "Ưm? Có chuyện gì?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "アウラのことも、たまには気にかけてやってくれるか？",
+      "vi": "Thỉnh thoảng anh cũng để ý đến Aura giùm tôi được không?"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "ほら、アイツって、なにかとトラブル起こしがちだからさ。<br>他の国の連中と問題起こさないか、ちょっと心配なんだ。",
+      "vi": "Này‚ ả ấy hay gây rắc rối đủ thứ nên tôi hơi lo.<br>Sợ ả dính vào chuyện với bọn nước khác."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "<user>",
+      "jp": "ふっ、いいだろう。いい仕事をしてくれた礼だ。",
+      "vi": "Hứ‚ được thôi. Coi như phần thưởng vì cậu đã làm tốt."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "おうっ、ありがとうな！",
+      "vi": "Ô‚ cảm ơn anh!"
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "司令官のおかげで、アタシも前より自信がついたぞ！<br>これからも、じゃんじゃん商売するから……。",
+      "vi": "Nhờ Chỉ Huy mà tôi cũng tự tin hơn trước!<br>Từ giờ tôi sẽ tiếp tục buôn bán rôm rả……."
+    },
+    {
+      "cmd": "messag",
+      "speaker": "ルシータ",
+      "jp": "引き続き、よろしく頼むぞ！",
+      "vi": "Vẫn mong được anh giúp đỡ tiếp nhé!"
+    }
+  ],
+  "notes": [
+    "Speaker names ルシータ/アウラ/<user>/ルシータ・アウラ kept unchanged (no explicit mapping).",
+    "Commander 司令官 -> Chỉ Huy; 俺 (male Commander) -> anh; women アタシ -> tôi; mutual アンタ/おまえ -> cậu.",
+    "ASCII commas inside VI text fields converted to U+201A (‚).",
+    "Source EN asset holds JP text for this project; ja.json/en.json are JP/blank references."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10190100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 96,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 97,
+    "translated_records": 97,
+    "changed_lines": 97,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1038,
+      "vi": 1038,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "fac136f0565bc1081bef735d00444b1c3ecd97806c07dd33e412c04eddb258c4",
+    "output_sha256": "bf3b2670afbc4b1ea8c4035ff03b38a863f3e759c0098b2b78810e08cb055709"
+  },
+  "status": "PASS"
+}

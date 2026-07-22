@@ -1,0 +1,53 @@
+{
+  "scene": "hmn_10280100002",
+  "source_type": "EN-asset-is-English (en.json holds English values; asset text already English)",
+  "jp_primary": "dotabyss-translation-main/translations/novels/hmn_10280100002/ja.json",
+  "en_alignment": "dotabyss-translation-main/translations/novels/hmn_10280100002/en.json + EN asset (structural authority)",
+  "output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10280100002.txt",
+  "work_dir": "dotabyss-rpg-vn-translator/work/hmn_10280100002_full",
+  "character": "エミリー / Emily (chara_1, 102801000G) — speaker; <user> = Chỉ Huy (Commander); 女店長 = Manager (900000001).",
+  "addressing": "Emily (female) uses em/anh to Chỉ Huy; Commander = Chỉ Huy; Manager (Boss/てんちょー) kept as Viên Quản Lý.",
+  "title_case": "Tìm Viên Quản Lý! (title,)",
+  "delimiter_rule": "ASCII comma inside VI text fields replaced with U+201A '‚'; structural delimiters untouched.",
+  "bom": true,
+  "crlf": true,
+  "counts": {
+    "title": 1,
+    "message": 66,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total_text_records": 67
+  },
+  "h18": "none",
+  "notes": "No H-18 lines in this scene. All character names/asset charaload names preserved byte-identical (エミリー, <user>, 女店長, chara_1, 102801000G, 900000001). Internal <br> tag counts mirrored from EN asset; 3 lines corrected for <br> count (L213, L388, L658) and 3 lines localized to clear UNCHANGED_TEXT_RECORDS (L552 À...ừm?, L614 Hì hì!♪, L691 *Rầm!*). 'Commaander' typo in EN source repaired to 'Chỉ Huy'.",
+  "independent_verify": {
+    "scene": "hmn_10280100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 66,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 67,
+    "translated_records": 67,
+    "changed_lines": 67,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 916,
+      "vi": 916,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "ddb6952426a83fb87f1f9f9b5eb6a162d1ee29d8ba8f4c1b6e20cb416c16b406",
+    "output_sha256": "14c987e70107a6a52d5539d65d57799a8787951bf71e89f2fb0103cee5f754b7"
+  },
+  "status": "PASS"
+}

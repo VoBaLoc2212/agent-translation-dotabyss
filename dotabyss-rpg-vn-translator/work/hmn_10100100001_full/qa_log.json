@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10100100001",
+  "created_at": "2026-07-19T10:11:26.819465+00:00",
+  "structural_qa": {
+    "line_count_match": true,
+    "delimiter_counts_match": true,
+    "technical_fields_preserved": true,
+    "tag_placeholder_preserved": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "text_command_counts": {
+      "messageTextCenter": 0,
+      "messageTextUnder": 0,
+      "message": 114,
+      "title": 1
+    }
+  },
+  "linguistic_qa": {
+    "jp_primary_en_alignment_only": true,
+    "commander_translation": "司令官/Commander -> Chỉ Huy trong text fields",
+    "speaker_and_charaload_names_preserved": true,
+    "ascii_comma_rule": "No ASCII comma inside translated text fields; U+201A used where needed.",
+    "h18": "No H18/adult content in this scene."
+  },
+  "issues": [],
+  "unchanged_text_lines": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 114,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 115,
+  "translated_records": 115,
+  "changed_lines": 115,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2002,
+    "vi": 2002,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "deb55074b71890045ec5e8503077517c01cb7512e61b28f64d6aea754fbbfcbe",
+  "output_sha256": "742caffc69a1625e86649828d4841e398ea69a44af9ea8b91f5bae385b60b99a",
+  "qa_status": "PASS"
+}

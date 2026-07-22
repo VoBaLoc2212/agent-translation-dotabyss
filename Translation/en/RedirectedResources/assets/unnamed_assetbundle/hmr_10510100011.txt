@@ -1,0 +1,150 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12100a
+
+charaload,chara_1,105101000G,フェイリン
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,秘伝の技で精気注入
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0026,0.75,1
+
+
+
+
+
+
+
+
+window,on,0.15
+message,<user>,Feilin，are you all right?<br> 
+
+asyncseplay,setag1_1,se4800011,0,1,CONT
+
+asynccharaemo,chara_1,ExclaQues,CONT
+
+charaface,chara_1,FaceSurprise
+
+
+charashow,chara_1,0.3
+message,フェイリン,Master...? Ah，wh-where am I! I remember thinking it was nice weather<br>and going for a walk... and then my memory just...<br> ,,vc_10510100011_001_01
+
+
+message,<user>,You don't remember? You collapsed in front of the brothel.<br>I found you and carried you in here.<br> 
+
+asyncshake,CHARA,chara_1,20,0,0.5,2,off,off,0,off,CONT,0
+
+asyncseplay,setag1_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT
+
+charaface,chara_1,FaceSad
+message,フェイリン,I see... I'm so sorry for causing you trouble... I was out for a stroll，<br>and suddenly my body went weak and I felt dizzy...<br> ,,vc_10510100011_002_01
+
+message,<user>,Are Jiangshi even supposed to be out walking in the daytime?<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,フェイリン,Well，technically I'm a dead body，so I do try to avoid direct sunlight.<br>But it was such a beautiful day，I just...<br> ,,vc_10510100011_003_01
+
+message,<user>,'Just'... That's way too careless. Hmm，just as I suspected... looks like<br>you got too much sun and collapsed.<br> 
+
+message,<user>,Overexposure to sunlight makes a Jiangshi lose vital energy，get<br>dizzy and lightheaded，and possibly collapse... I see.<br> 
+
+
+asyncseplay,setag1_3,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,CONT
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,フェイリン,Master，what's that book you're reading...?<br> ,,vc_10510100011_004_01
+
+message,<user>,Ah. A Jiangshi's body is special，after all.<br>I've been collecting books about Jiangshi to learn more about them.<br> 
+
+asyncseplay,setag1_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+
+charaface,chara_1,FaceHappy
+message,フェイリン,For my sake...? Ah... Thank you，Master.<br> ,,vc_10510100011_005_01
+
+message,<user>,Especially this book，'Alchemy (Comedic)'—it's packed full of<br>treatments for Jiangshi.<br> 
+
+asyncseplay,setag1_5,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,CONT
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,フェイリン,Alchemy (Comedic)...<br> ,,vc_10510100011_006_01
+
+message,<user>,Let's see... treatment for a sun-depleted Jiangshi... Ah，here it is!<br>The Spirit Infusion Technique! Procedure is...<br> 
+
+message,<user>,...<br> 
+
+charaface,chara_1,FaceSurprise
+message,フェイリン,Master? Is something wrong?<br> ,,vc_10510100011_007_01
+
+message,<user>,Ah，no... I found a way to help you，but... it's a drastic treatment. If<br>you're not okay with it，we'll forget it. What do you say?<br> 
+
+charahide,chara_1,0.5
+
+asynccharashow,chara_1,0.3,STOP
+
+charascale,chara_1,1.5,0
+
+asyncseplay,setag1_6,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,CONT
+
+charaface,chara_1,FaceFun
+message,フェイリン,Please. I want to keep being useful to you，Master.<br>For that，I have to get better，no matter what it takes.<br> ,,vc_10510100011_008_01
+
+message,<user>,...I understand. I'll give it my all to match that determination of yours.<br> 
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

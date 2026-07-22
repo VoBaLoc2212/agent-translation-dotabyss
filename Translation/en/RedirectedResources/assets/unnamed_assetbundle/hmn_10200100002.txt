@@ -1,0 +1,612 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+cameramove,LinearTarget,X,-100,0
+
+charaload,chara_1,102001000G,ラヴェリア
+charamove,chara_1,Set,X,-200,0
+
+charaload,chara_2,300201000,アリシア
+charamove,chara_2,Set,X,600,0
+
+charaface,chara_1,FaceFun
+
+charaface,chara_2,FaceUnique01
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,決戦の地へ……！
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0036,0.75,1
+
+
+
+
+charashow,chara_1,0.3
+
+seplay,setag1_1,se4400021,0,1
+
+wait,1
+
+seplay,setag1_2,se4400137,0,1
+
+wait,1
+
+asynccharareaction,chara_1,Nod,1,STOP
+window,on,0.15
+message,ラヴェリア,Alright，the report from the last expedition is all compiled. Brother，<br>could you verify it?<br> ,,vc_10200100002_001_01
+
+message,<user>,Hmm... yeah，no problems here. That's confirmed，Alicia. Please send<br>it to each country.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_3,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+message,ラヴェリア,Hey，hey，Brother，you sure you can be that casual?<br> ,,vc_10200100002_002_01
+
+message,<user>,I've already checked the contents. I know how capable you are，<br>Laveria. This is what they call saving time.<br> 
+
+message,<user>,If I had to say，Laveria... I think you're underselling your own<br>achievements a bit.<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_4,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ラヴェリア,Oh? You read it thoroughly，didn't you. As expected of the<br>Commander.<br> ,,vc_10200100002_003_01
+
+charaface,chara_1,FaceHappy
+
+asynccharaface,chara_1,FaceFun,STOP,2
+message,ラヴェリア,Then，Alicia，I'll leave this with you. The Commander has already<br>okayed it.<br> ,,vc_10200100002_004_01
+
+window,off
+wait,0.15
+
+asynccameramove,LinearTarget,X,100,1,STOP
+
+asynccharashow,chara_2,0.3,STOP,0.5
+asynccharamove,chara_2,LinearTarget,X,500,0.3,STOP,0.5
+
+asyncseplay,setag1_5,se4800004,1,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP,1
+asynccharaemo,chara_2,Laugh,STOP,1
+window,on,0.15
+message,アリシア,Yes，I'll submit it! Good work，everyone!<br> ,,vc_10200100002_005_01
+
+window,off
+wait,0.15
+
+asynccharaface,chara_2,EyeOpen,STOP
+asynccharaface,chara_2,FaceNormal,STOP
+
+asynccameramove,LinearTarget,X,-100,1,STOP
+
+asynccharahide,chara_2,0.3,STOP
+asynccharamove,chara_2,LinearTarget,X,600,0.3,STOP
+
+window,on,0.15
+message,<user>,Today's work is finally done... Thanks，Laveria，you were a huge help.<br> 
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,I'm used to this kind of desk work. This is easy as pie.<br> ,,vc_10200100002_006_01
+
+message,<user>,I see. But you used to do clerical work，so why did you decide to fight<br>as a warrior?<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,It's necessary to protect my comrades. You think so too，right，<br>Brother?<br> ,,vc_10200100002_007_01
+
+message,<user>,Hmm... For me，it's more like I was asked to do this job. As for having<br>the same sense of responsibility as you... I'm not sure.<br> 
+
+message,<user>,Well then. Here，Laveria，today's bonus. It's not a lot of gold coins，<br>but please take it.<br> 
+
+asyncseplay,setag1_6,se4400068,0,1,CONT
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_7,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Hah! I don't need a bonus! I only just helped out!<br> ,,vc_10200100002_008_01
+
+message,<user>,I asked you to do work outside your duties. I'd feel bad if I didn't at<br>least pay you.<br> 
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,But... it feels wrong to take money when I didn't do much.<br> ,,vc_10200100002_009_01
+
+message,<user>,Think of it as a token from me. You can spend it on your hobbies or<br>whatever you like.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,0.1
+
+asyncseplay,setag1_8,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,0.2
+asynccharaface,chara_1,FaceNormal,STOP,0.2
+
+asynccharaface,chara_1,EyeOpen,STOP,4.8
+asynccharaface,chara_1,FaceNormal,STOP,4.8
+message,ラヴェリア,Something I like，huh... Alright，I'll gratefully accept.<br> ,,vc_10200100002_010_01
+
+message,<user>,Good. There are still more unprocessed reports... Could you help me<br>tomorrow and the day after too?<br> 
+
+asyncseplay,setag1_9,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeClose,STOP,3
+asynccharaface,chara_1,FaceNormal,STOP,3
+
+asynccharaface,chara_1,EyeOpen,STOP,5
+asynccharaface,chara_1,FaceNormal,STOP,5
+
+message,ラヴェリア,Tomorrow and the day after too，huh? Well，fine. I'll be staying at the<br>Frontline Base for a while.<br> ,,vc_10200100002_011_01
+
+message,<user>,That's the spirit! You're a huge help!<br> 
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,Honestly，you're a real hard taskmaster，Brother. I'll head out for<br>today. Good work!<br> ,,vc_10200100002_012_01
+
+window,off
+wait,0.15
+
+seplay,setag1_10,se4010003,0,1
+
+asynccharahide,chara_1,0.3,STOP,0
+
+asynccharamove,chara_1,LinearTarget,X,100,0.3,STOP
+
+window,on,0.15
+message,<user>,Alright，that's one more person who can handle office work. I think<br>we can get through this now.<br> 
+
+window,off
+wait,0.15
+
+charamove,chara_2,Set,X,0,0
+
+asynccharashow,chara_2,0.3,STOP
+asynccharamove,chara_2,LinearTarget,X,-100,0.3,STOP
+
+charaface,chara_2,FaceAnger
+
+asyncseplay,setag1_11,se4800016,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP,0.6
+asynccharaemo,chara_2,BePeevish,STOP,0.6
+window,on,0.15
+message,アリシア,Oh，Commander. Laveria is busy too，you know. You shouldn't push<br>her too hard.<br> ,,vc_10200100002_013_01
+
+message,<user>,I'm paying her properly，so it's not like I'm forcing her，right?<br> 
+
+message,<user>,Besides，Laveria would help even without pay. She's really reliable.<br> 
+
+charaface,chara_2,FaceHappy
+
+asynccharareaction,chara_2,Nod,1,STOP
+message,アリシア,Yes，we're really grateful to Laveria. She's strong and dependable on<br>the battlefield，and also great at paperwork...<br> ,,vc_10200100002_014_01
+
+message,<user>,I could use about five more Laverias. I'd have them take turns in the<br>command room.<br> 
+
+charaface,chara_2,FaceSad
+
+asynccharareaction,chara_2,Shake,1,STOP
+message,アリシア,Aww，then I'd become unnecessary...<br> ,,vc_10200100002_015_01
+
+
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+
+bg,abg18000b
+
+cameramove,LinearTarget,X,0,0
+
+charamove,chara_2,Set,X,400,0
+
+charamove,chara_1,Set,X,-400,0
+
+charahide,chara_2,0
+
+wait,1
+
+fade,In,Black,1
+
+wait,1
+
+crossfadeready
+
+bg,abg18000a
+
+crossfade,1,0,0,1,1
+wait,1
+
+wait,1
+
+crossfadeready
+
+bg,abg11000a
+
+crossfade,1,0,0,1,1
+wait,1
+
+wait,1
+
+bgmplay,bgmtag1_2,bgm0035,0.75,1
+
+asynccharashow,chara_1,0.3,STOP
+
+asynccharashow,chara_2,0.3,STOP
+
+
+seplay,setag1_12,se4400021,0,1
+
+wait,1
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_13,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+window,on,0.15
+message,アリシア,Laveria，thank you for helping again today.<br> ,,vc_10200100002_016_01
+
+charaface,chara_1,FaceFun
+message,ラヴェリア,I promised Brother. And I have free time，so helping out is no<br>problem.<br> ,,vc_10200100002_017_01
+
+message,<user>,Thanks to you，Laveria，we might avoid night work. I'm counting on<br>you today too! The strong，office-savvy，beautiful Lady Laveria!<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_14,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,2.5
+message,ラヴェリア,Stop with the weird flattery. Come on，just give me the next file.<br> ,,vc_10200100002_018_01
+
+message,<user>,Alright，I'm counting on you，Laveria.<br> 
+
+charaface,chara_2,FaceSad
+
+asyncseplay,setag1_15,se4800014,0,1,CONT
+
+asynccharaemo,chara_2,Silence,STOP
+message,アリシア,Lucky...<br> ,,vc_10200100002_019_01
+
+asyncseplay,setag1_16,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Hm? Something wrong，Alicia?<br> ,,vc_10200100002_020_01
+
+charaface,chara_2,FaceUnique06
+
+asyncseplay,setag1_17,se4800003,0,1,CONT
+
+asynccharaemo,chara_2,Twinkle,STOP
+message,アリシア,You're strong，cool，and the Commander depends on you... I've always<br>thought you're incredible，Laveria!<br> ,,vc_10200100002_021_01
+
+
+charaface,chara_1,FaceFun
+
+asynccharaface,chara_1,EyeOpen,STOP,3.5
+asynccharaface,chara_1,FaceNormal,STOP,3.5
+message,ラヴェリア,Haha，I'm not that great. I just happen to be good at a few things.<br> ,,vc_10200100002_022_01
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_18,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,2
+asynccharaface,chara_1,FaceNormal,STOP,2
+
+asynccharaface,chara_1,EyeClose,STOP,5.1
+asynccharaface,chara_1,FaceNormal,STOP,5.1
+message,ラヴェリア,I've got plenty of weak points too. The other day，I got carried away<br>during a fight and rushed in too far，right?<br> ,,vc_10200100002_023_01
+
+charaface,chara_2,FaceSad
+message,アリシア,That's not a flaw at all! I wish I could become like you，Miss Laveria...<br> ,,vc_10200100002_024_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharaface,chara_1,FaceUnique01,STOP,2.3
+message,ラヴェリア,You're fine as you are. Brother needs someone like you by his side.<br> ,,vc_10200100002_025_01
+
+
+charaface,chara_2,FaceSurprise
+
+asyncseplay,setag1_19,se4800010,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Exclamation,STOP
+message,アリシア,Huh... is that right?<br> ,,vc_10200100002_026_01
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Yeah，you help lighten the mood. It'd be hard to give orders with just<br>a frowning Brother around.<br> ,,vc_10200100002_027_01
+
+charaface,chara_2,FaceFun
+
+asyncseplay,setag1_20,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,アリシア,Really? Commander，I am useful after all!<br> ,,vc_10200100002_028_01
+
+message,<user>,Yeah，you're useful. How to put it... you're kind of like the base's<br>mascot.<br> 
+
+charaface,chara_2,FaceSad
+
+asynccharareaction,chara_2,Shake,1,STOP
+message,アリシア,Ugh... a mascot...<br> ,,vc_10200100002_029_01
+
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_21,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,1.6
+message,ラヴェリア,Fufu... it means you're a cute presence，Alicia.<br> ,,vc_10200100002_030_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Hey，I want to ask you something. Brother，what kind of image do you<br>have of me?<br> ,,vc_10200100002_031_01
+
+message,<user>,Hm? How I see you? Well...<br> 
+
+message,<user>,Excellent combat ability，a stable mind even in crisis，and a warrior<br>trusted by everyone around her.<br> 
+
+message,<user>,You have a habit of focusing on combat，so as a commander I look<br>forward to your growth. All in all，you're a reliable beauty.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_22,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,Reliable，is it? That's quite a compliment...<br> ,,vc_10200100002_032_01
+
+message,<user>,I meant that as a high compliment，but you don't look very pleased.<br> 
+
+
+charaface,chara_1,FaceHappy
+message,ラヴェリア,No，it's got me motivated. I need to stay reliable for you，Brother.<br> ,,vc_10200100002_033_01
+
+charaface,chara_2,FaceSad
+
+asyncseplay,setag1_23,se4800015,0,1,CONT
+
+asynccharaemo,chara_2,Dull,STOP
+
+asynccharaface,chara_2,FaceFun,STOP,1
+
+message,アリシア,I want to become a reliable Deputy Commander too... If you have the<br>chance，please tell me more!<br> ,,vc_10200100002_034_01
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_24,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,アリシア,Ah，how about next time we all go into town together with everyone<br>from Lux Nova?<br> ,,vc_10200100002_035_01
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Yeah，that sounds fun. Please do invite me.<br> ,,vc_10200100002_036_01
+
+charaface,chara_2,FaceUnique01
+
+charareaction,chara_2,Nod,1
+message,アリシア,Yes，for sure! I hear a new store just opened，so I'll guide you there!<br> ,,vc_10200100002_037_01
+
+
+asyncseplay,setag1_25,se4800014,0,1,CONT
+
+charaemo,chara_1,Silence
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+message,ラヴェリア,A new store... What kind of store is it?<br> ,,vc_10200100002_038_01,chara_1
+
+charaface,chara_2,FaceUnique07
+
+asyncseplay,setag1_26,se4800013,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Spirits,STOP
+message,アリシア,It's a shop full of cute things. I'm looking forward to going too!<br> ,,vc_10200100002_039_01
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_27,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,...A shop full of cute things...! So that store's finally...!<br> ,,vc_10200100002_040_01
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Alright! No time for small talk! Let's get back to work!<br> ,,vc_10200100002_041_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,<user>,What's up，Laveria? You're suddenly so motivated.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charamove,chara_1,Set,X,0,0
+
+charahide,chara_2,0
+
+camerazoom,1.5,0,LinearTarget
+
+cameramove,LinearTarget,Y,200,0
+
+blur,on,BACK,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+linework,on,White,Light
+
+charaface,chara_1,FaceAnger
+window,on,0.15
+message,ラヴェリア,Less talk，more work! We're finishing this up fast!<br> ,,vc_10200100002_042_01
+
+linework,off,White,Light
+
+message,<user>,O-okay... What's gotten into you? That's some incredible motivation...<br> 
+
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_2,0.5,0
+
+transitionFade,Tra01,out,black,0.5
+
+camerazoom,1,0,LinearTarget
+
+cameramove,LinearTarget,Y,0,0
+
+blur,off,BACK,0
+
+bg,abg11200a
+
+charahide,chara_1,0
+
+charamove,chara_1,Set,X,-100,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,1
+
+bgmplay,bgmtag1_3,bgm0035,0.5,1
+
+transitionFade,Tra02,in,black,0.5
+
+window,on,0.15
+message,<user>,Ahh，finally free. Without Laveria's help，I don't know how things<br>would have turned out...<br> 
+
+message,<user>,Hm...? That person over there is...<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charashow,chara_1,0
+
+cameramove,LinearTarget,Y,150,0
+
+camerazoom,1.3,0,LinearTarget
+
+blur,on,BACK,0
+
+crossfade,1,1,1,1.3,1.3
+wait,1
+
+asyncseplay,setag1_28,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+window,on,0.15
+message,ラヴェリア,...<br> ,,vc_10200100002_043_01
+
+message,<user>,Laveria，huh. She looks oddly serious... what's she up to?<br> 
+
+window,off
+wait,0.15
+
+charaface,chara_1,FaceSad
+
+charamove,chara_1,EaseOutTarget,X,0,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-300,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-200,0.3
+
+asynccharareaction,chara_1,Nod,1,STOP
+window,on,0.15
+message,ラヴェリア,O-okay，no one's watching，right? No one's noticed me，right...?<br> ,,vc_10200100002_044_01
+
+message,<user>,She seems to be looking around nervously... But more than being on<br>guard，she looks giddy...<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag1_29,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,Is it really okay...? But... Just once，just a little...!<br> ,,vc_10200100002_045_01
+
+window,off
+wait,0.15
+
+charaface,chara_1,FaceSad
+
+charamove,chara_1,EaseOutTarget,X,100,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-400,0.3
+
+wait,0.3
+
+charamove,chara_1,EaseOutTarget,X,-100,0.3
+
+window,on,0.15
+message,<user>,She's sneaking along while glancing around... Suspicious，way too<br>obviously suspicious!<br> 
+
+message,<user>,What's Laveria planning to do in the middle of town...?<br> 
+
+message,<user>,...Should I follow? If she's in trouble，I can't just leave her alone.<br> 
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_30,se4800003,6,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP,6
+message,ラヴェリア,A-alright，let's go to the decisive battlefield...! Fufu，fufufufufu!<br> ,,vc_10200100002_046_01
+
+window,off
+bgmstop,bgmtag1_3,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

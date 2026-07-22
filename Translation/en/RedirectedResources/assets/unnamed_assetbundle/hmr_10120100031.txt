@@ -1,0 +1,225 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg11200b
+
+charaload,chara_1,101201000G,エティア
+
+charaload,chara_2,101201000X,エティア<娼館>
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,自分に自信を持ちたくて
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+
+charashow,chara_1,0.3
+
+asynccharareaction,chara_1,Nod,1,CONT
+
+asynccharaface,chara_1,FaceFun,CONT,1
+window,on,0.15
+message,エティア,Alright then... back to work again...<br> ,,vc_10120100031_001_01
+
+asyncskipwait
+
+
+message,<user>,Hm? Is that Etia? I was wondering why I haven't seen her at Command<br>HQ lately. Where is she heading?<br> 
+
+message,<user>,Hey，Etia!<br> 
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP,0.8
+message,エティア,Huh? Ah...! M-Master...!<br> ,,vc_10120100031_002_01
+
+message,<user>,It's been a while.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Nod,0.5,STOP,0.8
+
+asynccharaface,chara_1,FaceShy,STOP,2
+message,エティア,U-um... it's been a while，Master...<br> ,,vc_10120100031_003_01
+
+message,<user>,I haven't seen you around lately. Has something happened?<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP
+message,エティア,Well... um... I still can't find the confidence...<br> ,,vc_10120100031_004_01
+
+message,<user>,Confidence? Confidence in what?<br> 
+
+message,<user>,You're already a skilled hunter，aren't you? I'd say you can be<br>confident about that.<br> 
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag1_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,3
+asynccharaface,chara_1,FaceNormal,STOP,3
+
+asyncseplay,setag1_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP,7
+asynccharaemo,chara_1,Shy,STOP,7
+
+asynccharaface,chara_1,EyeClose,STOP,7
+asynccharaface,chara_1,FaceNormal,STOP,7
+message,エティア,N-no，not that... um... how should I put this... confidence in making<br>you feel good，Master...<br> ,,vc_10120100031_005_01
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,EyeOpen,CONT,3
+asynccharaface,chara_1,FaceNormal,CONT,3
+window,on,0.15
+message,エティア,So... I asked Ludia and she's letting me work at the brothel... until I<br>can gain confidence...<br> ,,vc_10120100031_006_01
+
+asyncskipwait
+
+message,<user>,*sigh*... good grief... I never thought you'd be worrying about<br>something like that. Come with me.<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncshake,CHARA,chara_1,20,15,0.25,1,off,off,0,off,STOP
+
+message,エティア,Huh... Mast— Eep!<br> ,,vc_10120100031_007_01
+
+window,off
+wait,0.15
+
+asynccharahide,chara_1,0.3,CONT
+charamove,chara_1,LinearTarget,X,-100,0.3
+
+transitionCrossFadeReady
+
+bg,abg18200a
+
+
+transitionCrossFade,Tra01,1
+wait,1
+
+window,on,0.15
+message,,I grabbed Etia's arm and dragged her to the brothel，then ordered<br>her to change into her brothel outfit.<br> 
+
+message,,After she finished changing，I stood her in front of a mirror，still<br>looking flustered.<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+bg,abg12100b,off
+
+
+transitionCrossFade,Tra02,1
+wait,1
+
+
+
+charaface,chara_2,FaceSad
+
+charashow,chara_2,0.3
+
+asynccharareaction,chara_2,Shake,1,CONT
+
+asyncseplay,setag1_6,se4800007,0,1,CONT
+
+asynccharaemo,chara_2,Panic,CONT
+
+asynccharaface,chara_2,FaceUnique02,CONT,3
+window,on,0.15
+message,エティア<娼館>,U-um... Master... what is this...?<br> ,,vc_10120100031_008_01
+
+asyncskipwait
+
+message,,I told Etia，as she looked in the mirror，that it really suited her. She<br>looked far more alluring than usual.<br> 
+
+charaface,chara_2,FaceUnique01
+
+asyncseplay,setag1_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Shy,STOP
+
+asynccharaface,chara_2,EyeOpen,STOP,2.8
+asynccharaface,chara_2,FaceNormal,STOP,2.8
+message,エティア<娼館>,Th-thank you... so，um... what should I do...?<br> ,,vc_10120100031_009_01
+
+message,,Etia still seemed unable to fully understand the situation.<br> 
+
+message,,Ignoring that，I pulled her into an embrace from behind and forcefully<br>grabbed her underwear.<br> 
+
+charaface,chara_2,FaceSurprise
+
+asyncseplay,setag1_8,se4800011,0,1,CONT
+
+asynccharaemo,chara_2,ExclaQues,STOP
+
+asyncshake,CHARA,chara_2,20,15,0.5,3,off,off,0,off,STOP
+
+asynccharaface,chara_2,FaceUnique02,STOP,2.5
+message,エティア<娼館>,Kyaah! M-Master... what are you...?<br> ,,vc_10120100031_010_01
+
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+

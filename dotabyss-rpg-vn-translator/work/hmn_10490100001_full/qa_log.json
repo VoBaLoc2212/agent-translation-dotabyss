@@ -1,0 +1,46 @@
+{
+  "scene": "hmn_10490100001",
+  "generator": "build_asset_vi.py (seq-keyed field-index)",
+  "translation_type": "EN-asset-is-English (title still JP)",
+  "record_count": 88,
+  "records_processed": 88,
+  "records_translated": 88,
+  "br_errors": 0,
+  "ascii_comma_errors": 0,
+  "bom": true,
+  "newline": "CRLF",
+  "independent_verify": "PASS",
+  "notes": [
+    "6 BR mismatches identified by preflight, all fixed before write.",
+    "EN asset text English, title still JP. ja.json is identity map.",
+    "Used fullwidth ，(U+FF0C) in VI text, no ASCII comma conflicts.",
+    "Speaker labels kept JP-byte-identical.",
+    "Chloe voice: fangirl mage. Sophia: serious knight. Alicia: formal adjutant. Commander: Chỉ Huy."
+  ],
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 86,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 88,
+  "translated_records": 88,
+  "changed_lines": 88,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1693,
+    "vi": 1693,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "a20f32dea9843c117c9275ed7ab12e462a66ac4bf101fd2b4d36118d9d03daec",
+  "output_sha256": "ddfe378e5c8bc059ac10afa427cdbc974f34728535234509036111105c18adfe",
+  "qa_status": "PASS"
+}

@@ -1,0 +1,95 @@
+﻿adultui,off
+
+bg,abg11200a
+
+charaload,chara_1,106301001G,ホノカ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0024,1
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+
+
+
+
+
+
+
+
+
+
+
+charashow,chara_1,0.5
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag3_1,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,CONT
+asynccharaemo,chara_1,Flower,CONT
+
+asynccharareaction,chara_1,Hop,1,STOP
+window,on,0.15
+message,ホノカ,Woof!♪ We're back. The walk was super fun，Commander!<br> ,,vc_10630100113_001_01
+
+charaface,chara_1,FaceFun
+message,<user>,Yeah，I had fun too. That was quite a stimulating walk.<br> 
+
+charaface,chara_1,FaceHappy
+message,,When Honoka appeared on the street in her dog costume，the<br>shoppers gathered around again，drawn by her adorable appearance.<br> 
+
+charaface,chara_1,FaceFun
+message,街の子どもＢ,What's that，Big Sis Honoka?<br> ,900000001
+
+message,街の人Ｂ,What's this，what's this? A costume?<br> ,900000001
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ホノカ,I'm a dog today!♪ Woof!♪<br> ,,vc_10630100113_002_01
+
+message,,Just as before，the gathered people began to pet Honoka. She<br>happily accepted their attention.<br> 
+
+message,<user>,You're really popular，Honoka. ...Hm?<br> 
+
+asyncseplay,setag3_2,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,CONT
+asynccharaemo,chara_1,Shy,CONT
+
+charaface,chara_1,FaceShy
+message,ホノカ,Mmm，ngh...<br> ,,vc_10630100113_003_01
+
+charaface,chara_1,FaceShy
+message,,Honoka let out the faintest sound，her cheeks flushing. The child who<br>had been petting her tilted their head，puzzled.<br> 
+
+message,街の子どもＢ,What's wrong，Big Sis Honoka? Are you hurt?<br> ,900000001
+
+asyncseplay,setag3_3,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceHappy
+message,ホノカ,It's nothing at all!♪ I'm totally fine!♪<br> ,,vc_10630100113_004_01
+
+charaface,chara_1,FaceShy
+message,,Honoka covered it up with a smile，but behind her—on her bottom—a<br>small stain had formed.<br> 
+
+message,,Apparently，the semen pumped into her so much earlier under the<br>guise of 'marking' was starting to leak out.<br> 
+
+message,,There were men surrounding Honoka，but this time they felt no<br>jealousy—only satisfaction and forbidden excitement.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

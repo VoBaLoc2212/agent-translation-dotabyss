@@ -1,0 +1,86 @@
+{
+  "scene": "hmn_10190100002",
+  "skill": "dotabyss-rpg-vn-translator",
+  "source_language": "JP (EN asset carried JP source; en.json blank)",
+  "target_language": "vi",
+  "source_files": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10190100002/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10190100002/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10190100002.txt"
+  },
+  "output_file": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10190100002.txt",
+  "source_sha256": "3200e03c783bab8b582c9a56b10bd746d14c6e2cffb03f280224966c8e622396",
+  "output_sha256": "b674ee7e5249bffc957d1ed6659029c5b7b263ecf1fbceb498587bee53e41981",
+  "encoding": "utf-8-sig (BOM preserved)",
+  "newline": "CRLF preserved",
+  "line_count": {
+    "en": 1517,
+    "vi": 1517,
+    "match": true
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 63,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 66,
+  "translated_records": 66,
+  "kept_text_lines": [],
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "independent_verify": {
+    "scene": "hmn_10190100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 63,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 66,
+    "translated_records": 66,
+    "changed_lines": 66,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1517,
+      "vi": 1517,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "3200e03c783bab8b582c9a56b10bd746d14c6e2cffb03f280224966c8e622396",
+    "output_sha256": "b674ee7e5249bffc957d1ed6659029c5b7b263ecf1fbceb498587bee53e41981"
+  },
+  "qa_status": "PASS",
+  "rules_applied": {
+    "commander": "Chỉ Huy",
+    "speaker_labels_kept": [
+      "ルシータ",
+      "アウラ",
+      "手下A",
+      "手下B",
+      "手下Ｃ",
+      "手下たち"
+    ],
+    "in_dialogue_name_localization": "Lucita / Aura (romanized, matching project convention e.g. Film/Noir)",
+    "ascii_comma_replaced_with_U+201A": true,
+    "tags_placeholders_preserved": true,
+    "title_translated_title_case": true
+  },
+  "notes": [
+    "EN asset text was JP; en.json values empty. Translated from JP per JP-primary rule.",
+    "No H18 content in this scene; all text is story dialogue (Lucita/Aura supply competition).",
+    "One initial <br> tag drop in final line fixed before verification; verifier then PASS."
+  ],
+  "status": "PASS"
+}

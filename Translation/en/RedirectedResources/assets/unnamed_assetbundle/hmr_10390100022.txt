@@ -1,0 +1,427 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10390100022
+
+charaload,chara_1,103901000X,マーガレット
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10390100022_001_01,1,on
+
+
+
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+window,on,0.15
+message,マーガレット,(U-um... even though I helped someone，it's still embarrassing...)<br> ,,vc_10390100022_001_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,Just the thought of a strange man seeing her naked made her whole<br>body feel like it was burning.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion02
+
+message,マーガレット,(Come to think of it，the last time I was with Lord Commander，we<br>were intimate without seeing each other's faces...)<br> ,,vc_10390100022_002_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+message,マーガレット,(My shameless expression... he'll see all of it，right...?)<br> ,,vc_10390100022_003_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10390100022_002_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+wait,1.5
+
+l2dmessage,マーガレット,Mmph... Ngh... Aaaaah!<br> ,,vc_10390100022_004_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,His manhood slid into Margaret's womanhood，stopping deep inside<br>her.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.1
+
+l2dmessage,マーガレット,*pant，pant*... Mmph... *sigh*... Ngh... *pant*...<br> ,,vc_10390100022_005_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,5.1
+
+asyncl2dmotion,MouthEmotion02,on,STOP,9
+
+message,マーガレット,(It's so warm inside me... but... what could it be...? Something feels<br>different from when I was with Lord Commander...)<br> ,,vc_10390100022_006_01
+
+
+message,,The feeling of fullness inside her didn't change. But Margaret clearly<br>felt a difference from the last time.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10390100022_003_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,マーガレット,Mmph... *pant*... Ah... Mmph... *sigh*... Mmph... Mmph... Ah... Aah...<br> ,,vc_10390100022_007_01
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionBottomRight
+
+message,,The client's hips moved. Despite her shame，Margaret cried out each<br>time his manhood pressed into her womb entrance.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+l2dmessage,マーガレット,Mmph... *pant*... Ah，Ah... Ahaah! Ngh... Mmph... Mmph... Mmph...<br>*pant*!<br> ,,vc_10390100022_008_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,7
+
+message,マーガレット,(How embarrassing... I'm definitely making a shameless expression<br>right now... And Lord Commander has never even seen that expression...)<br> ,,vc_10390100022_009_01
+
+l2dmotion,FaceAngleReset
+
+message,,Margaret couldn't bear the shame and covered her face with her<br>hands. The male client was clearly confused by her reaction.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+message,,'Could you let me see your face?' The male client naturally wanted to<br>see the woman's aroused expression.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,マーガレット,Mmph!? W-why...!? *pant*，*pant*...<br> ,,vc_10390100022_010_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10390100022_004_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,マーガレット,I... I can't! Th-that's the one thing I can't do!<br> ,,vc_10390100022_011_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+message,,Margaret desperately tried to hide her face，but the man's rhythm<br>grew more intense，and she couldn't quite conceal it.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.1
+
+l2dmessage,マーガレット,Ah... Mmph... *pant*... Mmph! *pant*... Ah... Ah... Aaaaah!<br> ,,vc_10390100022_012_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Margaret didn't seem to notice. She blossomed wildly in response to<br>the man's intense thrusts.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+message,,The man muttered，'Margaret's face looks so good... it gets me so<br>excited...'<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+message,マーガレット,(W-what?! What does that mean? He saw my... my wanton face...?)<br> ,,vc_10390100022_013_01
+
+
+message,,'That face you make when you feel good... could you show me more?<br>Please!' the male customer demanded.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10390100022_005_01,1,on
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyeOpen01,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion05,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9
+
+l2dmessage,マーガレット,*whimper，whimper*... th-then，just for a moment... Ngh! N-no，I<br>cannot do it after all!<br> ,,vc_10390100022_014_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.2
+
+message,,She mustered her courage and tried to comply for just a moment，but<br>shame got the better of her and she hid her face again.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Seeing Margaret's bashful display，the male customer grew even more<br>excited and quickened his pace.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.1
+
+l2dmessage,マーガレット,Ah! Aaah... Ahn! Ahn!... Ahaah! Yah... Aaah... Ngh!... Mmph!... *pant*!<br> ,,vc_10390100022_015_01
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8.1
+
+l2dmessage,マーガレット,Ah! Ah! Aah... Ngh! Aah! Ngh! *pant* I-it is intense but... i-it feels...<br>good!<br> ,,vc_10390100022_016_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+message,マーガレット,(I-it feels good... b-but still，something is different from when I was<br>with Commander...)<br> ,,vc_10390100022_017_01
+
+
+message,,Though caught up in the intense rhythm，Margaret still felt a<br>lingering sense of unease.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10390100022_006_01,1,on
+
+wait,0.2
+
+l2dmessage,マーガレット,Mmph... Ah! Aah! Mmmph... Aah! *pant*，Ah，Ah，Aaah! Yah... Aaaaah!<br> ,,vc_10390100022_018_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+message,,The man's relentless thrusting caused Margaret's hand，which had<br>been hiding her face，to slip away without her noticing.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.1
+
+message,,Her flushed，wanton expression was laid bare before the customer，<br>but Margaret didn't realize it.<br> 
+
+l2dmotion,MouthEmotion06
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7.5
+
+message,マーガレット,(I-it is so intense... I can feel how much this customer desires my<br>body... Like a beast... c-could this also be a form of love...?)<br> ,,vc_10390100022_019_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7.1
+
+l2dmessage,マーガレット,*pant*... Aahn，Mmph... Mmmph... Mmmph... Ahaa! Ngh... Aah! *pant*...<br>Ah... a-amazing... this!<br> ,,vc_10390100022_020_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen01
+
+message,,The man continued to pant heavily，thrusting his hips with abandon.<br>Margaret surrendered to it，letting out sweet moans.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+l2dmessage,マーガレット,Aahn... Ahaaa... Ah... Mmph... *puff*... Mmph... Mmph... Ah... Aaah!<br> ,,vc_10390100022_021_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The pressure pulsated deep within her，again and again—the intense<br>stimulation numbed her mind and stripped away all thought.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.1
+
+l2dmessage,マーガレット,Aaaaah! I cannot... I am reaching my peak... I am coming undone!<br> ,,vc_10390100022_022_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Her vision flickered behind her eyelids. It was clear Margaret's climax<br>was near.<br> 
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+l2dmessage,マーガレット,Aaah! My mind is going blank again...!<br>Ah! Mmph! Aah *pant*! No more... I can't...!<br> ,,vc_10390100022_023_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,2.5
+
+bgvplay,bgvtag2_7,bgv_10390100022_007_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,マーガレット,Aaah! I'm coming! I'm coming! I'm going to come!<br> ,,vc_10390100022_024_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,ExEmotion02,on,STOP,1
+
+message,,The moment Margaret climaxed，he pulled out，and a torrent of semen<br>burst forth.<br> 
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1
+
+message,,The sperm sprayed forcefully across Margaret's stomach，chest，and<br>even her bangs.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+l2dmessage,マーガレット,*Gasp*... *gasp*... *pant*... *pant*...<br>Mmph，mmm... *sigh*...<br> ,,vc_10390100022_025_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+message,,Margaret stared blankly at the semen，slowly steadying her ragged<br>breath.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,'That felt good... Ah，thank you very much，' he said. The man，who<br>had been like a beast moments before，now politely expressed his thanks.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeEmotionLeft
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion02,on,STOP,6
+
+l2dmessage,マーガレット,I was so mortified... I thought my face would catch fire...<br> ,,vc_10390100022_026_01
+
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

@@ -1,0 +1,91 @@
+﻿ライトアーマー=Giáp Nhẹ
+金属となめした革を組み合わせた鎧\n紋章：情熱の力に反応して防御力を高める。=Giáp kết hợp giữa kim loại và da thuộc.\nGia tăng Phòng Thủ phản ứng với sức mạnh của Huy Hiệu: Nhiệt Huyết.
+ヘビーアーマー=Giáp Nặng
+プレートを組み合わせた重鎧\n紋章：衝撃の力に反応して防御力を高める。=Trọng giáp lắp ráp từ các tấm thép.\nGia tăng Phòng Thủ phản ứng với sức mạnh của Huy Hiệu: Xung Kích.
+キルトメタルアーマー=Giáp Kim Loại Chần
+鉄線で編まれた鎧\n動きやすさと防御力を両立している。=Giáp được đan từ dây sắt.\nCân bằng giữa sự linh hoạt khi di chuyển và khả năng Phòng Thủ.
+聖者のマント=Áo Choàng Thánh Nhân
+聖職者たちが愛用するマント\n紋章：情熱の力に反応して会心率を高める。=Áo choàng được các giáo sĩ ưa chuộng.\nGia tăng Tỉ Lệ Chí Mạng phản ứng với sức mạnh của Huy Hiệu: Nhiệt Huyết.
+魔術師のマント=Áo Choàng Ma Thuật Sư
+魔術師たちが愛用するマント\n紋章：衝撃の力に反応して防御力を高める。=Áo choàng được các ma thuật sư ưa chuộng.\nGia tăng Phòng Thủ phản ứng với sức mạnh của Huy Hiệu: Xung Kích.
+クリムゾンマント=Áo Choàng Đỏ Thẫm
+鮮やかな深紅のマント\n紋章：情熱の力に反応して防御力を高める。=Một chiếc áo choàng đỏ thẫm rực rỡ.\nGia tăng Phòng Thủ phản ứng với sức mạnh của Huy Hiệu: Nhiệt Huyết.
+ウィンドマント=Áo Choàng Gió
+旅人たちが愛用するマント\n風をまとうような軽さと防御能力を持つ逸品。=Áo choàng được những lữ khách ưa chuộng.\nMột tuyệt phẩm mang sự nhẹ nhàng như quấn lấy ngọn gió và khả năng Phòng Thủ.
+パラディンマント=Áo Choàng Paladin
+高貴な聖騎士のマント\n紋章：衝撃の力に反応して連続攻撃率を高める。=Áo choàng của Thánh Hiệp Sĩ cao quý.\nGia tăng Tỉ Lệ Liên Đòn phản ứng với sức mạnh của Huy Hiệu: Xung Kích.
+ワーカーベスト=Áo Gile Công Nhân
+機能的に設計された採掘者用のベスト\n紋章：情熱に反応してスキルの使用を助ける。=Áo gile dành cho thợ mỏ với thiết kế chú trọng công năng.\nHỗ trợ sử dụng Kỹ Năng phản ứng với Huy Hiệu: Nhiệt Huyết.
+エプロンドレス=Váy Tạp Dề
+上品なメイド用の衣装\n紋章：衝撃に反応してスキルの使用を助ける。=Trang phục trang nhã dành cho hầu gái.\nHỗ trợ sử dụng Kỹ Năng phản ứng với Huy Hiệu: Xung Kích.
+ギルデッドスチールアーマー=Giáp Thép Mạ Vàng
+豪華な装飾が施された鎧\n紋章：情熱の力に反応して耐性を高める。=Giáp được trang trí lộng lẫy.\nGia tăng khả năng kháng phản ứng với sức mạnh của Huy Hiệu: Nhiệt Huyết.
+漆黒のアーマー=Giáp Đen Tuyền
+謂れが謎に包まれた漆黒の鎧\n被害に反応して紋章：衝撃の力を高める。=Bộ giáp đen tuyền ẩn chứa nhiều bí ẩn.\nTăng cường sức mạnh của Huy Hiệu: Xung Kích khi nhận sát thương.
+エレメンタルマント=Áo Choàng Nguyên Tố
+精霊の力を宿したマント\n紋章：情熱の力に反応して味方を回復する。\n=Chiếc áo choàng mang sức mạnh của tinh linh.\nHồi phục cho đồng minh khi phản ứng với Huy Hiệu: Nhiệt Huyết.\n
+フォレストマント=Áo Choàng Rừng Xanh
+森の妖精が織ったといわれるマント\nフォースチェインに反応して味方の力を高める。=Chiếc áo choàng tương truyền được dệt bởi tinh linh rừng rậm.\nTăng cường sức mạnh cho đồng minh khi phản ứng với Xích Lực.
+漆黒のマント=Áo Choàng Đen Tuyền
+謂れが謎に包まれた漆黒のマント\n紋章：衝撃に反応してスキルの使用を助ける。=Chiếc áo choàng đen tuyền ẩn chứa nhiều bí ẩn.\nHỗ trợ sử dụng Kỹ Năng khi phản ứng với Huy Hiệu: Xung Kích.
+バニースーツ=Trang Phục Thỏ
+異界より流れ着いたセクシーな衣装\n紋章：情熱に反応してスキルの使用を助ける。=Trang phục gợi cảm trôi dạt từ dị giới.\nHỗ trợ sử dụng Kỹ Năng khi phản ứng với Huy Hiệu: Nhiệt Huyết.
+漆黒のドレス=Váy Đen Tuyền
+謂れが謎に包まれた漆黒の衣\n紋章：衝撃の力を高める。=Chiếc váy đen tuyền ẩn chứa nhiều bí ẩn.\nTăng cường sức mạnh của Huy Hiệu: Xung Kích.
+I have read both files completely. Let me compare the Japanese keys present in each file.
+
+**EN file** keys (Japanese text to the left of `=`):
+1. ライトアーマー
+2. 金属となめした革を組み合わせた鎧
+紋章：情熱の力に反応して防御力を高める。
+3. ヘビーアーマー
+4. プレートを組み合わせた重鎧
+紋章：衝撃の力に反応して防御力を高める。
+5. キルトメタルアーマー
+6. 鉄線で編まれた鎧
+動きやすさと防御力を両立している。
+7. 聖者のマント
+8. 聖職者たちが愛用するマント
+紋章：情熱の力に反応して会心率を高める。
+9. 魔術師のマント
+10. 魔術師たちが愛用するマント
+紋章：衝撃の力に反応して防御力を高める。
+11. クリムゾンマント
+12. 鮮やかな深紅のマント
+紋章：情熱の力に反応して防御力を高める。
+13. ウィンドマント
+14. 旅人たちが愛用するマント
+風をまとうような軽さと防御能力を持つ逸品。
+15. パラディンマント
+16. 高貴な聖騎士のマント
+紋章：衝撃の力に反応して連続攻撃率を高める。
+17. ワーカーベスト
+18. 機能的に設計された採掘者用のベスト
+紋章：情熱に反応してスキルの使用を助ける。
+19. エプロンドレス
+20. 上品なメイド用の衣装
+紋章：衝撃に反応してスキルの使用を助ける。
+21. ギルデッドスチールアーマー
+22. 豪華な装飾が施された鎧
+紋章：情熱の力に反応して耐性を高める。
+23. 漆黒のアーマー
+24. 謂れが謎に包まれた漆黒の鎧
+被害に反応して紋章：衝撃の力を高める。
+25. エレメンタルマント
+26. 精霊の力を宿したマント
+紋章：情熱の力に反応して味方を回復する。
+
+27. フォレストマント
+28. 森の妖精が織ったといわれるマント
+フォースチェインに反応して味方の力を高める。
+29. 漆黒のマント
+30. 謂れが謎に包まれた漆黒のマント
+紋章：衝撃に反応してスキルの使用を助ける。
+31. バニースーツ
+32. 異界より流れ着いたセクシーな衣装
+紋章：情熱に反応してスキルの使用を助ける。
+33. 漆黒のドレス
+34. 謂れが謎に包まれた漆黒の衣
+紋章：衝撃の力を高める。
+
+**VI file** keys are the same 34 entries. All 17 pairs (17 name keys + 17 description keys) present in the EN file already exist in the VI file with Vietnamese translations. There are no missing Japanese keys.

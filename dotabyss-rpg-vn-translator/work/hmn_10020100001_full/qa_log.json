@@ -1,0 +1,50 @@
+{
+  "scene": "hmn_10020100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "kept_english_records": [],
+  "intentional_identical_records": [],
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatches": [],
+    "field_or_tech_mismatches": [],
+    "tag_placeholder_mismatches": []
+  },
+  "linguistic_qa": {
+    "commander_term": "No Commander/司令官 line in this scene; <user> translated as male MC anh where appropriate.",
+    "character_names": "Technical speaker names kept unchanged; Berisa used consistently in Vietnamese text for ベリサちゃん.",
+    "h18": "No explicit H18 content detected in this file; project adult rule noted."
+  },
+  "counts": {
+    "en_asset_sha256": "08231daa159f625ad2844f5011e8eb4e25361995c83529ff516a548f4c6a05d6",
+    "en_asset_bytes": 29815,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1349,
+    "candidate_text_records": 87,
+    "candidate_counts": {
+      "message": 86,
+      "messageTextCenter": 0,
+      "messageTextUnder": 0,
+      "title": 1
+    },
+    "ja_pairs": 87,
+    "en_pairs": 87,
+    "vi_sha256": "808444417976ce14e2e7f295b44c74257d8ec27c0b659e15790ae5996b3424ca",
+    "bytes": 31728,
+    "changed_text_records": 87
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 87,
+  "translated_records": 87,
+  "changed_lines": 87,
+  "source_line_count": 1349,
+  "output_line_count": 1349,
+  "source_sha256": "08231daa159f625ad2844f5011e8eb4e25361995c83529ff516a548f4c6a05d6",
+  "output_sha256": "808444417976ce14e2e7f295b44c74257d8ec27c0b659e15790ae5996b3424ca"
+}

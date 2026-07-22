@@ -1,0 +1,59 @@
+{
+  "scene": "hmn_10390100001",
+  "title_vi": "Mong Cứu Rỗi Bằng Giáo Lý Của Chúa",
+  "status": "PASS",
+  "source_case": "EN-asset-is-English (title still JP; message/messageTextCenter fields English; en.json maps JP->EN)",
+  "ja_primary": true,
+  "en_alignment_only": true,
+  "all_characters_18plus": true,
+  "h18_handled": "no explicit H-18 content in this scene; adult-confirmed rule applied by default",
+  "text_record_counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2,
+    "total": 82
+  },
+  "conventions": {
+    "Commander": "Chỉ Huy",
+    "Lord Commander (司令官様)": "Chỉ Huy (addressed politely as ngài Chỉ Huy / thưa Chỉ Huy by Margaret)",
+    "Alicia (アリシア)": "kept verbatim; addresses Commander as Chỉ Huy / ngài, self em/anh per project registry",
+    "Margaret (マーガレット)": "kept verbatim; self-refers as tôi, addresses Commander as Chỉ Huy / ngài Chỉ Huy",
+    "clergywoman": "nữ tu",
+    "Frontline Base": "Căn Cứ Tiền Tuyến",
+    "Milesgard": "Milesgard (kept)",
+    "Perdion": "Perdion (kept)",
+    "ascii_comma_in_vi": "replaced with U+201A (‚) inside Vietnamese text fields",
+    "title_case": "Vietnamese Title Case applied to title and messageTextCenter cards"
+  },
+  "notes": "EN-asset-is-English case: translated JP->VI via en.json EN as alignment reference, kept EN asset as structural authority (delimiters, tags, <br> counts, CRLF, BOM). No EN typos/mistranslations repaired. L826 '...' -> '…' (ellipsis char) to clear unchanged-text. All 79 message lines + title + 2 messageTextCenter translated; 82/82 text records changed; 0 kept-text lines.",
+  "independent_verify": {
+    "scene": "hmn_10390100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 79,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 82,
+    "translated_records": 82,
+    "changed_lines": 82,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1523,
+      "vi": 1523,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "e89efa10fbab1e0de3371c0129c7ca581691b186923934f6ec752adbab7d038e",
+    "output_sha256": "0581964b834611c1b009b7c79f714bb1c14d30ccb6ab7540e68183164d201516"
+  }
+}

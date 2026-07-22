@@ -1,0 +1,101 @@
+{
+  "scene": "hmn_10180100003",
+  "status": "PASS",
+  "source_meta": {
+    "asset_source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100003.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10180100003\\en.json",
+    "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100003.txt",
+    "sha256_asset_source": "f7041659f44183b30db0e1ef42f2527b2f837a38bec09ea492274cc2994ce7fd",
+    "sha256_ja_json": "5f11c87c6e7428964cae9f2e972c7ef2c3a69a2fad036216e2e739927c8ff97e",
+    "sha256_en_json": "748856f8563ceb1f4be01ed781b2abd67bbe1b48bd57fc6b63a2661b2cf14066",
+    "sha256_output": "d3b69787805ea103350c2b4e572fcad12c21009beb16bc3008ea76d53daca207",
+    "bom_source": true,
+    "bom_output": true,
+    "newline_source": "CRLF",
+    "newline_output": "CRLF",
+    "line_count_source": 1380,
+    "line_count_output": 1380,
+    "candidate_text_records": 101,
+    "command_counts": {
+      "title": 1,
+      "messageTextCenter": 1,
+      "message": 99
+    },
+    "translated_text_records": 101,
+    "ja_json_entries": 101,
+    "en_json_entries": 101,
+    "en_json_blank_values": 101,
+    "field_rule": "title uses field 2; message/messageTextUnder/messageTextCenter use field 3; preserve all other fields and delimiters",
+    "notes": [
+      "JP asset text matched ja.json order; en.json values are blank for this scene, so JP asset/ja.json were used as primary alignment source.",
+      "Speaker names and charaload asset names kept unchanged per task rule; Japanese character-name leftovers グラディア/アリシア are intentional."
+    ]
+  },
+  "outputs": {
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10180100003.txt",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100003_full\\focused_diff.md",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100003_full\\qa_log.json",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10180100003_full\\apply_translation.py"
+  },
+  "mapping_status_counts": {
+    "TRANSLATED": 101,
+    "UNMATCHED": 0
+  },
+  "qa_summary": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_preserved": true,
+    "tag_placeholder_errors": [
+      {
+        "line": 57,
+        "type": "tag_mismatch",
+        "source": [
+          "<user>",
+          "<br>"
+        ],
+        "vi": [
+          "<br>",
+          "<user>"
+        ]
+      }
+    ],
+    "ascii_comma_errors": [],
+    "candidate_text_records": 101,
+    "translated_text_records": 101,
+    "unmatched_records": [],
+    "remaining_japanese_excluding_preserved_names": [],
+    "h18": "not_present; all characters confirmed 18+ by project rule",
+    "commander_rule": "司令官/Commander translated as Chỉ Huy in text fields"
+  },
+  "independent_verify": {
+    "scene": "hmn_10180100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 99,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1380,
+      "vi": 1380,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f7041659f44183b30db0e1ef42f2527b2f837a38bec09ea492274cc2994ce7fd",
+    "output_sha256": "d3b69787805ea103350c2b4e572fcad12c21009beb16bc3008ea76d53daca207"
+  }
+}

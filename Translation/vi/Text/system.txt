@@ -1,0 +1,512 @@
+司令官Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Chỉ huy Lv
+施設へ=Đến Cơ Sở
+探索の様子を見てみる=<size\=90%>Tiến Độ Thám Hiểm
+キャラクター=Nhân Vật
+コスチューム=Trang Phục
+装備アイテム=Trang Bị
+SSRキャラ獲得回数=<size\=80%>Số Lượng Nhân Vật SSR Sở Hữu
+ガチャ回転数<color\=#4cf37b>【個人】</color>=<size\=90%>Số Lần Gacha<color\=#4cf37b>[Cá Nhân]</color>
+遊び方=Hướng Dẫn
+<line-height\=80%><size\=30><color\=#47008A>報酬受け取り済</color></size><br><color\=#47008A>リセット時刻</color>  <color\=#FF3F00>AM5:00</color></line-height>=<line-height\=80%><size\=25><color\=#47008A>Đã nhận phần thưởng</color></size><br><color\=#47008A>Thời gian làm mới</color>  <color\=#FF3F00>AM5:00</color></line-height>
+<line-height\=80%><color\=#47008A>ガチャ回数リセット時刻</color><br><color\=#FF3F00><size\=30>AM5:00</size></color></line-height>=<line-height\=80%><color\=#47008A>Thời gian làm mới Gacha</color><br><color\=#FF3F00><size\=30>AM5:00</size></color></line-height>
+ <color\=#47008A>集めたアイテムをGET！<br>(</color><color\=#FF3F00>1日1回</color><color\=#47008A>限定)</color>\n= <size\=80%><color\=#47008A>Nhận Vật Phẩm Thám Hiểm!<br>(Giới hạn </color><color\=#FF3F00>1 lần/ngày</color><color\=#47008A>)</color>\n
+提供一覧=Danh Sách Cung Cấp
+提供キャラ一覧=Danh Sách Nhân Vật Cung Cấp
+回=lần
+本日あと=Hôm nay còn: 
+ガチャを引く=Quay Gacha
+r:"^([0-9]+)回引く$"=Quay $1 lần
+全部引く=Quay Tối Đa
+目玉報酬獲得済み=Đã Nhận Phần Thưởng Chính
+r:"^ボックス([0-9]+)$"=Hộp $1
+ラッキーボックス=Hộp May Mắn
+ボックス更新=Làm Mới Hộp
+このボックスはまだ引くことが出来ません=Chưa thể quay hộp này.
+目玉報酬獲得済みのためボックス更新が可能です=<cspace\=-0.1em>Đã nhận phần thưởng chính, có thể làm mới hộp.
+更新すると現在のボックスは引くことができなくなります。=<size\=90%>Sau khi làm mới, bạn không thể quay hộp hiện tại nữa.
+次のボックスに更新しますか？=Bạn có muốn làm mới sang hộp tiếp theo không?
+更新=Làm Mới
+ボックスの報酬をすべて獲得したため、\nボックスを更新しました。=Vì đã nhận tất cả phần thưởng trong hộp,\nhộp đã được làm mới.
+SR以上1体確定=<size\=80%>Đảm bảo 1 SR trở lên
+1日1回限定=<size\=80%><cspace\=-0.1em>Giới Hạn 1 Lần/Ngày
+有償=<size\=70%>Trả Phí
+詳細/提供割合=Chi Tiết/Tỉ Lệ Cung Cấp
+ガチャ履歴=<size\=70%>Lịch Sử Gacha
+SSR確定=Đảm bảo SSR
+ピックアップ設定=<cspace\=-0.1em>Cài Đặt Tăng Tỉ Lệ
+SSR1体確定=<cspace\=-0.1em>Đảm bảo 1 SSR
+セレクトリストを設定=Cài đặt danh sách tự chọn
+セレクトピップアップSSR確定ガチャでは設定した中からキャラクターが出現します。=Trong Gacha Tự Chọn Tăng Tỉ Lệ Đảm Bảo SSR, nhân vật sẽ xuất hiện từ những người đã cài đặt.
+報酬=Phần Thưởng
+閉じる=Đóng
+もう一度引く=Quay lại lần nữa
+ガチャトップへ=Về đầu Gacha
+確定=Xác Nhận
+衣装\n切り替え=Đổi\nTrang Phục
+すべて=Tất cả
+人=người
+選択済み=Đã chọn
+キャラクターを\r\nまとめて選択します。 =Chọn tất cả\nnhân vật cùng lúc.
+編成したいキャラクターを選択してください。=Vui lòng chọn nhân vật \nbạn muốn cho vào Đội.
+クイック選択後は\r\nキャラクターのロールに応じて\r\n自動で編成位置を決定します。=Sau khi chọn nhanh, vị trí trong Đội sẽ được tự động quyết định dựa theo vai trò của nhân vật.
+キャラクター選択=Chọn Nhân Vật
+プレゼントボックス=Hộp Quà Tặng
+ゲームの終了=Thoát Trò Chơi
+ゲームを終了しますか？=Bạn có muốn thoát trò chơi không?
+終了=Thoát
+キャンセル=Hủy
+
+Maintenance notice and other ones
+メンテナンス終了予定=Thời gian dự kiến kết thúc Bảo Trì
+現在サーバーメンテナンス中です。<br>作業完了までいましばらくお待ちください。=Máy chủ hiện đang được Bảo Trì.<br>Vui lòng đợi cho đến khi hoàn tất.
+現在メンテナンス対応中です。\n対応完了までいましばらくお待ちください。=Hiện đang tiến hành Bảo Trì.\nVui lòng đợi cho đến khi hoàn tất.
+最新情報をチェック=Kiểm Tra Thông Tin Mới Nhất
+データ更新=Cập Nhật Dữ Liệu
+データが更新されました。\nデータ更新のためゲームを再起動します。=Dữ liệu đã được cập nhật.\nTrò chơi sẽ khởi động lại để cập nhật dữ liệu.
+データ連携に関する注意事項=Ghi Chú Về Liên Kết Dữ Liệu
+データ連携について=Về Liên Kết Dữ Liệu
+一括データダウンロード=Tải Dữ Liệu Hàng Loạt
+全てのゲームデータのダウンロードを行います。\nダウンロード完了後、タイトルへ移動します。=Tất cả dữ liệu trò chơi sẽ được tải xuống.\nSau khi tải xong, bạn sẽ được đưa về Màn hình tiêu đề.
+一括ダウンロードを行うことで、プレイ中の通信量を削減できます。=Thực hiện tải xuống hàng loạt giúp giảm dung lượng mạng khi chơi.
+実行=Thực Hiện
+連携コードを発行しました。=Mã Liên Kết Đã Được Cấp.
+データ連携に関する注意事項=Ghi Chú Về Liên Kết Dữ Liệu
+データ連携について=Về Liên Kết Dữ Liệu
+データ連携を行うことで、<color\=#FE376E>連携先のゲームデータは連携元のゲームデータで上書きされるため、プレイできません。</color><br>異なるプラットフォーム間でデータを連携した場合、</color><color\=#FE376E>連携元で所持していた有償アビスジェムは、連携先では使用することができません。</color><br>メンテナンス中にはデータ連携を行うことができません。=Khi tiến hành đồng bộ dữ liệu, <color\=#FE376E>dữ liệu trò chơi ở đích sẽ bị ghi đè bởi dữ liệu nguồn, khiến bạn không thể chơi tiếp bằng dữ liệu cũ.</color><br>Nếu bạn đồng bộ dữ liệu giữa các nền tảng khác nhau, </color><color\=#FE376E>Ngọc Vực Thẳm Trả Phí sở hữu ở nguồn sẽ không thể sử dụng ở đích.</color><br>Bạn không thể đồng bộ dữ liệu trong thời gian Bảo Trì.
+連携コードについて=Về Mã Đồng Bộ
+連携コードは発行から24時間有効となります。<br>連携コードを第三者に教えたり、公開などしないようにお願いいたします。=Mã Đồng Bộ sẽ có hiệu lực trong vòng 24 giờ kể từ khi được cấp.<br>Vui lòng không tiết lộ hoặc công khai Mã Đồng Bộ cho bất kỳ bên thứ ba nào.
+連携コードの発行確認=Xác Nhận Cấp Mã Đồng Bộ
+連携コードを発行しました。=Mã Liên Kết Đã Được Cấp.
+ユーザーID=ID Người Dùng
+連携コード=Mã Đồng Bộ
+連携コードは24時間有効です。<br>異なるプラットフォーム間での連携を行う場合、<br>連携元で所持していた有償アビスジェムは連携先は使用できません。<br>連携コードを第三者に教えたり、公開しないでください。=Mã Đồng Bộ có hiệu lực trong 24 giờ. <br>Khi đồng bộ giữa các nền tảng khác nhau, <br>Ngọc Vực Thẳm Trả Phí sở hữu ở nguồn sẽ không thể sử dụng ở đích. <br>Vui lòng không tiết lộ hoặc công khai Mã Đồng Bộ cho bất kỳ ai.
+プレイヤーLv=Người Chơi Lv
+フォロー=Đang theo dõi
+おすすめ=Đề xuất
+フォロワー=Người theo dõi
+ID検索=     <size\=90%>Tìm kiếm ID
+フォロー解除=Hủy theo dõi
+フォロワー解除=Xóa người theo dõi
+検索する=Tìm kiếm
+IDを入力=Nhập ID
+検索したいプレイヤーのIDを入力してください。=Vui lòng nhập ID của người chơi bạn muốn tìm.
+プレイヤーは見つかりませんでした。=Không tìm thấy người chơi nào.
+r:"^([0-9]+)分前$"=$1 Phút trước
+r:"^([0-9]+)時間前$"=$1 Giờ trước
+r:"^([0-9]+)日前$"=$1 Ngày trước
+r:"^([0-9]+)/20人$"=$1/20 người
+r:"^([0-9]+)/100人$"=$1/100 người
+
+ホーム\n=Trang Chủ
+パーティ=Đội
+ショップ=Cửa Hàng
+ガチャ=Gacha
+クエスト=Nhiệm Vụ
+娼館=Tửu Quán
+キャンペーン=Chiến Dịch
+プレゼント=Quà Tặng
+施設=Cơ Sở
+お知らせ=Thông Báo
+交流=Gắn Kết
+開発計画=<size\=90%>Kế Hoạch<br>Phát Triển
+鍛冶屋=Thợ Rèn
+司令本部=<line-height\=60%><cspace\=-0.1em>Bộ Chỉ Huy</cspace></line-height>
+兵器工場=Nhà Máy Vũ Khí
+研究所=Viện Nghiên Cứu
+MAXまで=Đến MAX
+
+設定リセット=Cài Lại Cài Đặt
+オプション=Tùy Chọn
+設定リセット=Cài Lại Cài Đặt
+画面=Màn Hình
+サウンド=Âm Thanh
+ウィンドウ=Cửa sổ
+フルスクリーン=Toàn màn hình
+ウィンドウサイズ=Kích Thước Cửa Sổ
+画面設定=Cài Đặt Màn Hình
+ボイス=Giọng nói
+設定=Cài Đặt
+再開する=Tiếp Tục
+撤退=Rút Lui
+フレームレート=Tốc độ khung hình
+バトル=Chiến Đấu
+マナクリスタルの自動使用（通常戦闘）=<size\=90%><cspace\=-0.1em>Tự động sử dụng Pha Lê Mana (Chiến Đấu Thông Thường)
+バトルスピード（厄災戦闘）=<cspace\=-0.1em>Tốc độ chiến đấu (Trận Chiến Tai Ương)
+マナクリスタルの自動使用（厄災戦闘）=<size\=85%><cspace\=-0.1em>Tự động sử dụng Pha Lê Mana (Trận Chiến Tai Ương)
+マナクリスタルの演出スキップ=<cspace\=-0.1em>Bỏ qua hiệu ứng Pha Lê Mana
+バトルスピード（通常戦闘）=<cspace\=-0.1em>Tốc độ chiến đấu (Chiến Đấu Thông Thường)
+する=Bật
+しない=Tắt
+3倍=3x
+2倍=2x
+1倍=1x
+遅い=<size\=90%>Chậm
+普通=Vừa
+即時=Bỏ qua
+速い=Nhanh
+表示速度=<line-height\=60%>Tốc Độ Hiển Thị
+ウィンドウ透過度=<line-height\=60%>Độ Trong Suốt Cửa Sổ
+自動分解=<line-height\=60%>Tự Động Phân Giải
+装備自動分解の設定=Cài đặt Tự Động Phân Giải Trang Bị
+指定したランク以下を分解=<size\=80%>Phân Giải Trang Bị từ Hạng chỉ định trở xuống
+指定したレア度以下を分解=<size\=80%>Phân Giải Trang Bị từ Độ Hiếm chỉ định trở xuống
+r:"^ランク([0-9]+)以下$"=<size\=90%>Hạng $1 trở xuống
+r:"^ランク([0-9]+)以上$"=<size\=90%>Hạng $1 trở lên
+ウィンドウ透過度確認用のサンプルテキストです。=Văn Bản Mẫu Cho Độ Trong Suốt.
+メニュー=Trình Đơn
+図鑑=Bách Khoa Toàn Thư
+フレンド=Bạn Bè
+アイテム一覧=Danh Sách Vật Phẩm
+ヘルプ=Trợ Giúp
+ログインボーナス=Thưởng Đăng Nhập
+データ連携=Đồng Bộ Dữ Liệu
+タイトルに戻る=Về Màn Hình Tiêu Đề
+一括ダウンロード=Tải Xuống Hàng Loạt
+ゲーム終了=Thoát Trò Chơi
+一括ダウンロード=Tải Xuống Hàng Loạt
+スタミナの回復=Phục Hồi Thể Lực
+スタミナを回復するアイテムを選んでください。=Chọn Vật Phẩm để phục hồi Thể Lực.
+スタミナ回復量=Lượng Phục Hồi
+アビスジェムによる回復回数に応じて、1回回復あたりに必要なアビスジェムが増加していきます。=Số lượng Ngọc Vực Thẳm cần thiết cho mỗi lần phục hồi sẽ tăng dần tùy theo số lần bạn đã dùng Ngọc Vực Thẳm để phục hồi.
+999を超えてスタミナ回復を行うことはできません。=Không thể phục hồi Thể Lực vượt quá 999.
+アビスジェムを使用する場合、無償アビスジェムから優先して消費されます。=Khi sử dụng Ngọc Vực Thẳm, Ngọc Vực Thẳm Miễn Phí sẽ được ưu tiên tiêu thụ trước.
+999を超えてスタミナ回復を行うことはできません。=Không thể phục hồi Thể Lực vượt quá 999.
+探索ボーナス=<size\=80%>Phần Thưởng Thám Hiểm
+アイテムをGET=Nhận Vật Phẩm
+探索中…=Đang Thám Hiểm...
+探索隊=Đội Thám Hiểm
+ダンジョン内を=Trong Hầm Ngục
+次の報酬まで=<size\=90%>Đến Phần Thưởng tiếp theo
+r:"^探索報酬は([0-9]+)分後に受け取れるようになります。$"=Có thể nhận Phần Thưởng Thám Hiểm sau $1 phút.
+開始=Bắt Đầu
+挑戦回数【=Số lần Thử Thách [
+期限=<size\=70%>Thời Hạn
+発見：=Phát hiện:
+記憶の欠片：=<line-height\=60%>Mảnh Vỡ Ký Ức:
+獲得EXP：=EXP nhận được:
+ガチャ結果=Kết Quả Gacha
+選択中=<size\=85%><cspace\=-0.1em>Đang Chọn
+キャラ+装備の=Nhân Vật + Trang Bị
+合計探索ボーナス=<size\=80%>Tổng Thưởng Thám Hiểm
+入れ替えない=<size\=90%>Không Thay Đổi
+決定=Xác Nhận
+獲得探索ポイント=<size\=70%>Điểm Thám Hiểm Nhận Được
+入手中の装備を選択して、報酬リストのアイテムを選択すると交換できます。=Bạn có thể Đổi Thưởng bằng cách chọn Trang Bị đang sở hữu và chọn Vật Phẩm từ danh sách phần thưởng.
+結果を確定=Xác Nhận Kết Quả
+引き直す=Quay Lại
+今回の結果を破棄して、\\nもう一度ガチャを引き直します。\\nよろしいですか？=Hủy bỏ kết quả lần này và quay Gacha lại một lần nữa.\nBạn có chắc không?
+ガチャ確認=Xác Nhận Gacha
+ウェブブラウザを起動して、外部サイトへ移動します。<br>よろしいですか？=Trình duyệt web sẽ được mở để chuyển đến trang web bên ngoài.<br>Bạn có chắc không?
+ウェブブラウザを起動して、お知らせを確認します。<br>よろしいですか？=Trình duyệt web sẽ được mở để kiểm tra thông báo.<br>Bạn có chắc không?
+ガチャの結果を確定します。\\nよろしいですか？=Xác nhận kết quả Gacha.\\nBạn có chắc không?
+移動する=Di chuyển
+<color\=#4CF37B>プレミアムガチャチケットx10</color>を消費して\\n<color\=#4CF37B>プレミアムガチャ</color>を<color\=#4CF37B>10回</color>実行しますか？=Sử dụng <color\=#4CF37B>10 Vé Gacha Cao Cấp</color> \nđể tiến hành <color\=#4CF37B>Gacha Cao Cấp</color> <color\=#4CF37B>10 lần</color>?
+<color\=#4CF37B>プレミアムガチャチケットx1</color>を消費して\\n<color\=#4CF37B>プレミアムガチャ</color>を<color\=#4CF37B>1回</color>実行しますか？=Sử dụng <color\=#4CF37B>1 Vé Gacha Cao Cấp</color> \nđể tiến hành <color\=#4CF37B>Gacha Cao Cấp</color> <color\=#4CF37B>1 lần</color>?
+<color\=#4CF37B>ピックアップガチャチケットx1</color>を消費して\\n<color\=#4CF37B>ウェンディ＆ヴィーラWピックアップガチャ</color>を<color\=#4CF37B>1回</color>実行しますか？=Sử dụng <color\=#4CF37B>1 Vé Gacha Tuyển Chọn</color> \nđể tiến hành <color\=#4CF37B>Gacha Tuyển Chọn Kép Wendy & Viera</color> <color\=#4CF37B>1 lần</color>?
+<color\=#4CF37B>ピックアップガチャチケットx10</color>を消費して\\n<color\=#4CF37B>ウェンディ＆ヴィーラWピックアップガチャ</color>を<color\=#4CF37B>10回</color>実行しますか？=Sử dụng <color\=#4CF37B>10 Vé Gacha Tuyển Chọn</color> \nđể tiến hành <color\=#4CF37B>Gacha Tuyển Chọn Kép Wendy & Viera</color> <color\=#4CF37B>10 lần</color>?
+プレミアムガチャでSSRキャラクター獲得時、登録したキャラクターの提供割合が上昇します。\r\r\n(SSRキャラクターの合計提供割合に変化はありません)=<size\=70%>Khi nhận được nhân vật SSR từ Gacha Cao Cấp, Tỉ Lệ xuất hiện của nhân vật đã đăng ký sẽ tăng lên. \r\r\n(Tổng Tỉ Lệ xuất hiện của nhân vật SSR không thay đổi)
+<color\=#4CF37B>アビスジェムx3000</color>を消費して\\n<color\=#4CF37B>ディアーナ＆レヴィエーヌマルチピックアップガチャ</color>を<color\=#4CF37B>10回</color>実行しますか？=Sử dụng <color\=#4CF37B>3,000 Ngọc Vực Thẳm</color> để tiến hành <color\=#4CF37B>Gacha Tuyển Chọn Nhiều Nhân Vật Deanna & Levienne</color> <color\=#4CF37B>10 lần</color>?
+<color\=#4CF37B>アビスジェムx300</color>を消費して\\n<color\=#4CF37B>ディアーナ＆レヴィエーヌマルチピックアップガチャ</color>を<color\=#4CF37B>10回</color>実行しますか？=Sử dụng <color\=#4CF37B>300 Ngọc Vực Thẳm</color> để tiến hành <color\=#4CF37B>Gacha Tuyển Chọn Nhiều Nhân Vật Deanna & Levienne</color> <color\=#4CF37B>1 lần</color>?
+無償=<size\=80%>Miễn Phí
+無償アビスジェムから優先して消費されます。=Ngọc Vực Thẳm Miễn Phí sẽ được ưu tiên tiêu thụ trước.
+設定キャラクター=Nhân Vật Đã Cài Đặt
+ルクスノヴァ除く=<size\=90%><line-height\=60%>Loại trừ \nLuxnova
+r:"^選択中([0-9]+)/([0-9]+)人$"=<size\=90%><line-height\=60%>Đã chọn $1/$2 nhân vật
+すでに獲得済みのキャラクターは「純真結晶」に変換されます。=Nhân vật đã sở hữu sẽ tự động được chuyển đổi thành "Pha Lê Thuần Khiết".
+交換=Đổi Thưởng
+ピックアップ設定したSSRキャラクターは<br>提供割合が上昇します。<br>キャラクターを選択してください。=Nhân vật SSR đã được Cài Đặt Tăng Tỉ Lệ <br>sẽ có tỉ lệ xuất hiện cao hơn.<br>Vui lòng chọn nhân vật.
+選択可能なキャラクター=Nhân Vật Có Thể Chọn
+選択したキャラクターはいつでも変更可能です。=Có thể thay đổi nhân vật đã chọn bất cứ lúc nào.
+ピックアップ設定するキャラクターを選択してください。=Vui lòng chọn nhân vật bạn muốn Tăng Tỉ Lệ.
+r:"^あと([0-9]+)時間([0-9]+)分$"=Còn $1 Giờ $2 Phút
+r:"^あと([0-9]+)日([0-9]+)時間([0-9]+)分$"=<size\=80%>Còn $1 Ngày $2 Giờ $3 Phút
+r:"^開催期間　([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+) 〜 ([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)$"=Thời gian diễn ra: $1/$2/$3 $4:$5 - $6/$7/$8 $9:$10
+r:"^あと([0-9]+)時間([0-9]+)分([0-9]+)秒$"=Còn $1 Giờ $2 Phút $3 Giây
+r:"^([0-9]+)年([0-9]+)月([0-9]+)日([0-9]+):([0-9]+)に解放$"=Mở khóa vào lúc $4:$5 ngày $3/$2/$1
+r:"^([0-9]+)日([0-9]+)時間([0-9]+)分$"=$1 Ngày $2 Giờ $3 Phút
+残り時間=<size\=80%>Thời gian còn lại
+メンテナンス通知=Thông Báo Bảo Trì
+未定=Chưa rõ
+メンテナンス通知=Thông Báo Bảo Trì
+未定=Chưa rõ
+確認=Xác Nhận
+このゲームでは音声が再生されます。=Trò chơi này có phát âm thanh.
+本作品はフィクションです。<br>実在の人物、団体、事件などには一切関係ありません。=Đây là một tác phẩm hư cấu.<br>Không liên quan đến bất kỳ cá nhân, tổ chức hay sự kiện có thật nào.
+本作品はフィクションです。\n実在の人物、団体、事件などには一切関係ありません。=Đây là một tác phẩm hư cấu.\nKhông liên quan đến bất kỳ cá nhân, tổ chức hay sự kiện có thật nào.
+本作品はフィクションです。=Đây là một tác phẩm hư cấu.
+実在の人物、団体、事件などには一切関係ありません。=Không liên quan đến bất kỳ cá nhân, tổ chức hay sự kiện có thật nào.
+プレイヤーID：=ID Người Chơi: 
+タッチでプレイヤーIDを表示=Chạm Để Hiển Thị ID Người Chơi
+注意事項に同意する=Tôi đồng ý với các Điều Khoản và Điều Kiện
+注意事項=Điều Khoản và Điều Kiện
+エラーが発生しました。=Đã xảy ra lỗi.
+r:"^エラーが発生しました。\nError Code: ([0-9]+)$"=Đã xảy ra lỗi.\nMã Lỗi: $1
+通信がタイムアウトしました。\n通信環境の良いところで再度お試しください。=Kết nối đã quá thời gian.\nVui lòng thử lại ở nơi có mạng tốt hơn.
+リトライ=Thử Lại
+スキップ=Bỏ Qua
+データダウンロード=Tải Xuống Dữ Liệu
+ゲームを快適にプレイするために\n必要なデータをダウンロードします。=Tải xuống dữ liệu cần thiết để chơi trò chơi mượt mà.
+ダウンロード サイズ=Dung Lượng Tải Xuống
+スキップ後も一括ダウンロードでダウンロードが可能です。=Bạn có thể tải xuống tất cả dữ liệu cùng lúc ngay cả sau khi bỏ qua.
+WiFi環境でのダウンロードを推奨します。=Khuyến nghị tải xuống trong môi trường có kết nối WiFi.
+続行=Tiếp Tục
+パス購入=Mua Thẻ
+ノーマル報酬=Phần Thưởng Thông Thường
+プレミアム報酬=Phần Thưởng Cao Cấp
+レベル購入=Mua Cấp
+一部報酬は販売期間終了後に\n今後再登場する可能性があります。=Một số phần thưởng có thể sẽ xuất hiện lại trong tương lai sau khi thời gian mở bán kết thúc.
+パス購入=Mua Thẻ
+獲得日時=<size\=75%>Ngày & Giờ
+受取期限=Thời Hạn
+期限あり=Có Thời Hạn
+受取履歴=Lịch Sử
+期限なし=Không Có Thời Hạn
+以下のアイテムを受け取りました。=Đã nhận các Vật Phẩm sau.
+受け取り確認=Xác Nhận Nhận
+受取期限が過ぎたプレゼントは自動的に消去されます。=Quà Tặng đã quá hạn sẽ tự động bị xóa.
+未受け取り数=Chưa nhận
+以下のプレゼントを受け取りました。=Đã nhận Quà Tặng sau.
+プレゼントがありません。=Không có Quà Tặng nào.
+前線基地\n開発計画=<cspace\=-0.05em><size\=70%><line-height\=60%>Kế Hoạch Phát Triển\nTiền Đồn
+セリフウィンドウ長押しで高速表示となります。=Nhấn và giữ hộp thoại để hiển thị nhanh.
+ストーリーをスキップします。=Bỏ qua Câu Chuyện.
+フォロー数=Số lượng theo dõi
+迎撃に協力し、=Đã hợp tác Chặn Đánh,
+r:"^([0-9]+)フレンドPt$"=$1 Điểm Bạn Bè 
+を獲得しました。=đã nhận.
+宿舎の建設依頼=Yêu cầu xây ký túc xá
+訓練所の建設依頼=Yêu cầu xây dựng Thao trường
+治療所の建設依頼=Yêu cầu xây trung tâm điều trị
+キャラ変更=Thay Đổi
+フォロワー数=<size\=90%>Số lượng người theo dõi
+r:"^あと([0-9]+)$"=Còn $1
+お気に入りキャラ変更=Thay Đổi Nhân Vật Yêu Thích
+選択したキャラはお気に入りとしてプロフィール画像に表示されます。<br>また、プレイヤーアイコンとして設定されます。=<size\=90%>Nhân vật được chọn sẽ hiển thị dưới dạng nhân vật yêu thích trong Hồ Sơ của bạn. <br> Nhân vật này cũng sẽ được đặt làm biểu tượng người chơi của bạn.
+おしごとコス=Trang Phục Làm Việc
+称号をはずす=<size\=90%>Gỡ Bỏ Danh Hiệu
+設定中=<cspace\=-0.1em><size\=90%>Đang cài đặt
+所持状況=Sở hữu
+初心者司令官=<line-height\=60%>Chỉ huy Tân Binh
+紳士の嗜み=Hương Vị Quý Ông
+第一人者=Chuyên Gia Hàng Đầu
+大穴探索者=Nhà Thám Hiểm Vực Thẳm
+新任司令官=Chỉ huy Mới
+未開の冒険者=<line-height\=60%>Nhà Thám Hiểm Khai Hoang
+プレイヤーIDをコピーしました。=Đã sao chép ID Người Chơi.
+
+キャラ10人をレベル30にする=Nâng 10 nhân vật lên cấp 30
+VIPランク=Hạng VIP
+まで=tới
+次のランクまで=<size\=90%>Đến Rank tiếp theo
+ショップへ=Đến Cửa Hàng
+現在のVIPランク=VIP Rank hiện tại
+商品をDMMポイントやクレジット決済で購入することでVIPランクが上がります。=<cspace\=-0.1em>VIP Rank sẽ tăng lên khi bạn mua sản phẩm bằng Điểm DMM hoặc thanh toán thẻ tín dụng
+ウィークリー報酬とウィークリー商品は、毎週月曜日5:00に更新されます。=<cspace\=-0.1em>Phần thưởng hàng tuần và sản phẩm hàng tuần được cập nhật vào 5:00 Thứ Hai hàng tuần.
+探索で獲得するゴールド=Vàng nhận được từ Thám Hiểm
+探索で獲得するキャラ経験値=EXP Nhân Vật nhận được từ Thám Hiểm
+探索で獲得する記憶の欠片=Mảnh Vỡ Ký Ức nhận được từ Thám Hiểm
+探索での放置時間の上限が増加=Giới hạn thời gian treo máy khi Thám Hiểm tăng
+称号「VIP」=Danh Hiệu "VIP"
+r:"^\+([0-9]+)時間$"=+$1 Giờ
+ウィークリー商品\n=Sản Phẩm Hàng Tuần\n
+受取=Nhận
+ウィークリー報酬\n=Phần Thưởng Hàng Tuần\n
+VIP特典\n=Đặc quyền VIP\n
+購入=Mua
+自動分解設定=<size\=70%>Cài Đặt Tự Động Phân Giải
+所持している装備の数が上限に達しています。<br>所持枠に空きを作ってから実行して下さい。=Số lượng Trang Bị sở hữu đã đạt đến giới hạn.<br>Hãy tạo khoảng trống trước khi thực hiện.
+装備一覧=<size\=80%><line-height\=70%>Danh Sách\nTrang Bị
+自動分解確認=Xác Nhận Tự Động Phân Giải
+所持している装備の数が上限に達しました。=Số lượng Trang Bị sở hữu đã đạt đến giới hạn.
+r:"^自動分解設定に基づいて([0-9]+)個の装備を分解しようとしています。$"=Đang tiến hành Phân Giải $1 Trang Bị dựa trên Cài Đặt Tự Động Phân Giải.
+r:"^([0-9]+)個の装備を分解して以下のマイレージ報酬を獲得しました。$"=<size\=80%>Đã Phân Giải $1 Trang Bị và nhận được các phần thưởng Điểm Tích Lũy sau.
+所持している装備の数が上限に達した為自動分解しました。=Vì số lượng Trang Bị sở hữu đã đạt đến giới hạn, đã tiến hành tự động Phân Giải.
+武器　Lv=Vũ Khí Lv
+防具　Lv=Giáp Lv
+アクセサリ　Lv=Phụ Kiện Lv
+分解する=Phân Giải
+獲得したアイテム=Vật Phẩm nhận được
+sr:"^「([\S\s]+)」のマイレージLvが上昇しました。$"=Điểm Tích Lũy Lv của 「$1」 đã tăng.
+初回限定=Giới Hạn Lần Đầu
+リリース記念=Kỷ Niệm Phát Hành
+購入回数=<size\=70%>Số lần mua
+残り=<size\=70%>Còn lại
+1回=1 lần
+3回=3 lần
+2回=2 lần
+ポイント=Điểm
+Research
+アップグレード=Nâng Cấp
+施設効果=Hiệu Ứng
+発展度=Phát Triển
+開発計画書=Kế Hoạch Phát Triển
+強化可能=<size\=60%>Có thể Nâng Cấp
+sr:"^すべてのキャラの(最大HP|攻撃力|防御力)[+|＋](?<value_i>[0-9]+\.[\d]+)[%|％]\z"=Tất cả Nhân Vật $1 ＋${value_i}％
+sr:"^追加アイテム入手確率[+＋](?<value_i>[0-9０-９]+(?:\.[0-9０-９]+)?)[%％]$"=Tỉ Lệ Nhận Vật Phẩm Thêm +${value_i}%
+sr:"^「([^」]+)」を解放$"=Mở khóa 「$1」
+sr:"^「([^」]+)」のLv[+|＋](?<lv_i>[0-9])$"=「$1」 Lv＋${lv_i}
+レベルシンクロ機能解放=Mở Khóa Đồng Bộ Cấp Độ
+r:"マナクリスタルのRANK[+|＋]([0-9]+)$"=Pha Lê Mana Rank＋$1
+マナクリスタルのRANK強化=Tăng Rank Pha Lê Mana
+全キャラクターをレベルシンクロと同一のLvにする=Đặt tất cả nhân vật về cùng cấp với cấp đồng bộ
+<color\=#4CF37BFF>アップグレード</color>を行いますか？=Bạn có muốn tiến hành <color\=#4CF37BFF>Nâng Cấp</color> không?
+sr:"^開発計画書「([\S\s]+)」の\n完了で解放$"=Mở khóa sau khi hoàn thành Kế Hoạch Phát Triển "$1"
+sr:"^「([\S\s]+)」のアップグレードが完了し、以下のボーナスを獲得しました。$"=<size\=90%>Nâng cấp "$1" hoàn tất! Đã nhận được các phần thưởng sau:
+開発計画書へ=<cspace\=-0.1em><size\=80%>Đến Kế Hoạch Phát Triển
+前線基地の拡張計画=Kế hoạch mở rộng Tiền Đồn
+探索支援計画=Kế Hoạch Hỗ Trợ Thám Hiểm
+探索隊の編成計画=Kế hoạch thành lập Đội Thám Hiểm
+娼館の経営戦略=Chiến lược kinh doanh Tửu Quán
+娼館の増築=Mở Rộng Tửu Quán
+sr:"^装備点検：([\S\s]+)$"=Bảo Dưỡng Trang Bị: $1
+溶鉱炉の整備=Bảo Dưỡng Lò Luyện
+体力=Thể Lực
+迎撃設備の強化=Cường hóa thiết bị Chặn Đánh
+壁上・基地スキルの強化=Cường hóa Kỹ Năng Tường/Cơ Sở
+罠・障害物の強化=Cường hóa bẫy và chướng ngại vật
+支援設備の強化=Cường hóa thiết bị Hỗ Trợ
+シンクロ研究=Nghiên Cứu Đồng Bộ
+マナクリスタル研究=Nghiên Cứu Pha Lê Mana
+
+sr:"^「([\S\s]+)」Lv([0-9]+)$"=「$1」Lv$2
+探索隊編成枠を1つ解放=Mở khóa 1 ô Đội Thám Hiểm
+探索隊編成枠を2つ解放=Mở khóa 2 ô Đội Thám Hiểm
+報酬増加=Tăng phần thưởng
+r:"^([0-9]+)階のおしごと解放$"=Mở khóa công việc tầng $1
+r:"^おしごと報酬UP([0-9]+)$"=Phần thưởng công việc TĂNG $1
+r:"^営業デッキLv([0-9]+)$"=Đội hình kinh doanh Lv$1
+sr:"^「([\S\s]+)」解放$"=「$1」 được mở khóa
+会話ログ=Nhật Ký Hội Thoại
+本当にフォローを解除しますか？=Bạn có chắc muốn hủy theo dõi không?
+解除する=Hủy theo dõi
+r:"^「([\S\s]+)」をフォローしました。$"=Đã theo dõi 「$1」.
+フォロー数が上限のためフォローできませんでした=Không thể theo dõi.\nĐã đạt giới hạn theo dõi.
+本当にフォロワーを解除しますか？=Bạn có chắc muốn xóa người theo dõi này không?
+一度解除すると再度フォローされるまでは<br>戻すことはできません。=Một khi đã xóa, bạn không thể khôi phục cho đến khi họ theo dõi bạn trở lại.
+こちらのウィンドウサイズに変更しますか？=Bạn có muốn thay đổi kích thước cửa sổ này không?
+テキスト=Văn Bản
+プレイヤー名テキスト=Tên Người Chơi
+ウィンドウ透過度確認用のサンプルテキストです。=Văn Bản Mẫu Cho Độ Trong Suốt.
+r:"^エラーが発生しました。エラーコード: ([0-9]+)$"=Đã xảy ra lỗi.\nMã Lỗi: $1
+一括で受け取れるプレゼントは100件までです。=Bạn có thể nhận tối đa 100 Quà Tặng cùng lúc.
+30日以上経過した履歴は自動的に削除されます。=Lịch sử cũ hơn 30 ngày sẽ tự động bị xóa.
+受取日時=<cspace\=-0.05em>Ngày/Giờ Nhận
+プレイヤーID=ID Người Chơi
+体力=Thể Lực
+迎撃設備の強化=Cường hóa thiết bị Chặn Đánh
+壁上・基地スキルの強化=Cường hóa Kỹ Năng Tường/Cơ Sở
+罠・障害物の強化=Cường hóa bẫy và chướng ngại vật
+支援設備の強化=Cường hóa thiết bị Hỗ Trợ
+シンクロ研究=Nghiên Cứu Đồng Bộ
+マナクリスタル研究=Nghiên Cứu Pha Lê Mana
+
+-Upgrade effect
+sr:"^「([\S\s]+)」Lv([0-9]+)$"=「$1」Lv$2
+探索隊編成枠を1つ解放=Mở khóa 1 ô Đội Thám Hiểm
+データダウンロード中=Đang tải dữ liệu...
+ダウンロードはWiFi環境での実施をおすすめします=Chúng tôi khuyên bạn nên tải trong môi trường WiFi.
+噴水の建設依頼=Yêu cầu xây đài phun nước
+探索隊効率化計画=Kế hoạch hiệu suất đội thám hiểm
+探索隊長育成=Huấn luyện đội trưởng thám hiểm
+
+お問い合わせ=Liên hệ
+
+<cspace\=-0.1em>プライバシーポリシー</cspace>=<cspace\=-0.1em>Chính sách quyền riêng tư</cspace>
+
+<cspace\=-0.1em>キャッシュクリア</cspace>=<cspace\=-0.1em>Xóa cache</cspace>
+
+<cspace\=-0.1em>アカウントデータ</cspace>削除=<cspace\=-0.1em>Xóa dữ liệu tài khoản</cspace>
+
+<cspace\=-0.1em>ライセンス</cspace>表記=<cspace\=-0.1em>Thông tin giấy phép</cspace>
+
+・ゲームのセーブデータは削除されません。 <br>・キャッシュクリアにより、エラー解消や動作が軽くなる場合があります。 <br>・キャッシュクリア後はゲームが終了し、次回起動時にデータの再ダウンロードを行います。 <br>・通信環境により、再ダウンロードに時間がかかる場合があります。=• Dữ liệu lưu game của bạn sẽ không bị xóa.<br>• Xóa cache có thể khắc phục lỗi và giúp game chạy nhẹ hơn.<br>• Sau khi xóa cache, game sẽ đóng. Dữ liệu sẽ được tải lại ở lần khởi động tiếp theo.<br>• Tùy môi trường mạng, việc tải lại có thể mất thời gian.
+
+・ゲームのセーブデータは削除されません。\r<br>・キャッシュクリアにより、エラー解消や動作が軽くなる場合があります。\r<br>・キャッシュクリア後はゲームが終了し、次回起動時にデータの再ダウンロードを行います。\r<br>・通信環境により、再ダウンロードに時間がかかる場合があります。=• Dữ liệu lưu game của bạn sẽ không bị xóa.<br>• Xóa cache có thể khắc phục lỗi và giúp game chạy nhẹ hơn.<br>• Sau khi xóa cache, game sẽ đóng. Dữ liệu sẽ được tải lại ở lần khởi động tiếp theo.<br>• Tùy môi trường mạng, việc tải lại có thể mất thời gian.
+
+キャッシュデータをクリアしますか？=Xóa dữ liệu cache?
+
+キャッシュクリア=Xóa cache
+
+スタミナ最大値=Stamina tối đa
+
+sr:^"「(.+?)」が加入しました。[\S\s]*?今後ガチャでも「(.+?)」が出るようになります。$"=“$1” đã gia nhập.\\nTừ giờ, “$2” cũng sẽ xuất hiện trong gacha.
+
+DMM GAMES版（ゲームプラットフォーム「DMM GAMES」および「FANZA GAMES」内にて提供されるものをいいます。）\n「ドットアビス」(以下本サービスといいます)のご利用にあたり、有償サービス（利用者による本サービスの利用に際し、当社から有償で提供される一切のサービスおよびコンテンツをいい、以下総称して「有償サービス」といいます）に関する以下の注意事項をご確認およびご同意いただきますようお願いいたします。\n\n有償サービスに関する注意事項\n1．利用者は、当社規定の方法により、有償サービスを購入できます。\n2．利用者が未成年の場合には、購入の申し込みに際して必ず法定代理人の同意を得た上で、有償サービスを購入するものとします。\n3．当社は、理由の如何に関わらず、利用者が購入した有償サービスの返還、交換または返金を行いません。\n4．有償サービスのうち、ゲーム内通貨「アビスジェム」の利用期限は、購入日より150日間とします。\n5．利用者と決済会社の間で課金を巡って紛争が生じた場合には、当該当事者間で解決するものとし、当社に一切の迷惑をかけないものとします。\n6．本サービス内で利用者に対して提供される有償サービスについては、「買う」または「購入する」などその表記内容にかかわらず、利用者は、本サービス内で定められた範囲内においてのみ利用権を有します。\n7．DMMポイント及び有償で購入した「アビスジェム」と交換することにより取得可能なその他のゲーム内通貨・コンテンツ・アイテム等については、その取得をもって当該ゲーム内通貨・コンテンツ・アイテム等にかかる商品又はサービスの提供がなされたものとし、資金決済法に定める前払式支払手段には該当しません。\n=Phiên bản DMM GAMES (được cung cấp trên nền tảng “DMM GAMES” và “FANZA GAMES”).\nTrước khi sử dụng “Dot Abyss” (sau đây gọi là “Dịch vụ”), vui lòng đọc và đồng ý với các lưu ý sau liên quan đến dịch vụ trả phí (bao gồm toàn bộ dịch vụ và nội dung do Công ty cung cấp có thu phí khi người dùng sử dụng Dịch vụ, sau đây gọi chung là “Dịch vụ trả phí”).\n\nLưu ý về Dịch vụ trả phí\n1. Người dùng có thể mua Dịch vụ trả phí bằng phương thức do Công ty quy định.\n2. Nếu người dùng là trẻ vị thành niên, người dùng phải có sự đồng ý của người đại diện hợp pháp trước khi đăng ký mua Dịch vụ trả phí.\n3. Công ty không hoàn trả, trao đổi hoặc hoàn tiền Dịch vụ trả phí đã mua vì bất kỳ lý do nào.\n4. Trong Dịch vụ trả phí, thời hạn sử dụng tiền tệ trong game “Abyss Gem” là 150 ngày kể từ ngày mua.\n5. Nếu phát sinh tranh chấp thanh toán giữa người dùng và đơn vị thanh toán, các bên liên quan tự giải quyết và không gây bất kỳ phiền hà nào cho Công ty.\n6. Đối với Dịch vụ trả phí được cung cấp cho người dùng trong Dịch vụ này, bất kể hiển thị là “Mua” hay “Thanh toán” hoặc cách ghi tương tự, người dùng chỉ có quyền sử dụng trong phạm vi được quy định trong Dịch vụ này.\n7. DMM Point, “Abyss Gem” mua bằng tiền và các tiền tệ, nội dung, vật phẩm trong game khác nhận được thông qua trao đổi được xem là hàng hóa hoặc dịch vụ đã được cung cấp tại thời điểm nhận, và không thuộc phương tiện thanh toán trả trước theo Luật Dịch vụ Thanh toán của Nhật Bản.\n
+
+WiFi環境でのダウンロードを推奨します=Khuyến nghị tải xuống bằng WiFi
+
+ボイスありで再生=Phát có voice
+
+ボイス無しで再生=Phát không voice
+
+ボイス なし=Không voice
+
+ボイス あり=Có voice
+
+ダウンロードサイズ=Dung lượng tải xuống
+
+追加データをダウンロードします。\nボイスを再生しますか？=Sẽ tải dữ liệu bổ sung.\nPhát voice không?
+
+sr:"^([0-9]+)章([0-9]+)話「([\S\s]+)」クリアで解放$"=Hoàn thành Chương $1 Tập $2 「$3」
+
+建てました。=Đã xây xong.
+
+交流でスタッフ登録3人以上で解放=Mở khóa khi đăng ký từ 3 nhân viên trở lên qua giao lưu
+
+予兆？=Điềm báo?
+
+ループ報酬=Lặp
+
+ログインボーナスの報酬です。=Phần thưởng đăng nhập.
+
+探索隊の効率化計画=Kế hoạch tối ưu hóa Đội thám hiểm
+
+探索隊のリーダー講習=Khóa huấn luyện đội trưởng Đội thám hiểm
+
+r:"^娼館の経営戦略([0-9]+)$"=Chiến lược kinh doanh lầu xanh $1
+
+治療所の設置=Lắp đặt Trạm xá
+
+VIP席の設置=Lắp đặt ghế VIP
+
+個室の設置=Lắp đặt phòng riêng
+
+娼館の拡張1=Mở rộng lầu xanh 1
+
+娼館の拡張2=Mở rộng lầu xanh 2
+
+宿舎の設置=Lắp đặt ký túc xá
+
+訓練所の設置=Lắp đặt thao trường
+
+噴水の設置=Lắp đặt đài phun nước
+
+探索隊の編成計画Lv２=Kế hoạch biên chế Đội thám hiểm Lv2
+
+基地スキルの開放1=Mở khóa Kỹ năng Cứ điểm 1
+
+基地スキルの開放2=Mở khóa Kỹ năng Cứ điểm 2
+
+r:"^娼館のミニゲームでスコア([0-9]+)を達成する$"=Đạt $1 điểm trong minigame lầu xanh
+
+sr:"^アップグレード「([\S\s]+)」解放$"=Mở khóa nâng cấp “$1”
+
+sr:"^アップグレード「([\S\s]+)Lv([0-9]+)」解放$"=Mở khóa nâng cấp “$1 Lv$2”
+
+r:"^分解した際のマイレージ\+([0-9]+)％$"=Điểm tích lũy khi phân giải +$1％
+
+sr:"^「([^」]+)」の解放$"=Mở khóa [$1]
+
+分解した際のマイレージ＋1％=Điểm tích lũy khi phân giải +1％
+開発段階一覧=<size\=80%>Giai Đoạn Phát Triển
+sr:"^(\d+)時間(\d+)分"=$1 giờ $2 phút
+メインストーリーへ=Đến Cốt truyện chính
+探索隊へ=Đến Đội thám hiểm
+シリアルコード入力=Nhập mã Serial
+シリアルコード=Mã Serial
+半角英数字のみ入力できます。=Chỉ nhập được chữ cái và số ASCII.
+14文字のコードを入力してください。=Vui lòng nhập mã gồm 14 ký tự.
+14文字=14 ký tự
+文字=ký tự
+r:"^([0-9]+) /14文字$"=$1 /14 ký tự
+連続で入力に失敗すると不正防止のため一定時間入力を行うことができません。=Nếu nhập sai liên tục‚ bạn sẽ không thể nhập trong một khoảng thời gian để chống gian lận.

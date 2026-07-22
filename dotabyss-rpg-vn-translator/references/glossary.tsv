@@ -1,0 +1,5 @@
+source	preferred_vi	category	status	notes
+Commander	Chỉ Huy	title	locked	Danh xưng nhân vật chính
+指揮官	Chỉ Huy	title	locked	Dùng khi chỉ nhân vật chính
+お兄ちゃん	Anh hai / Anh trai / cách gọi riêng	addressing	context	Phải kiểm tra character registry
+旦那様	Phu quân / Chồng yêu / cách gọi theo bối cảnh	addressing	context	Không dịch máy móc thành “ngài”

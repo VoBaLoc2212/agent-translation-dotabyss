@@ -1,0 +1,129 @@
+﻿
+fade,Out,White,0
+initend
+
+l2dlipsyncmode,multi
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+uivisible,on
+
+l2dshow,l2d_1001061002
+
+fade,In,White,0.5
+
+
+wait,1
+
+bgmplay,bgmtag2_1,bgm0042,0.75,1
+
+
+
+
+l2dmotion,EyeEmotion00
+
+window,on,0.15
+l2dmessage,ベリサ,Come on~，Sophia! Hurry up already~!<br> ,100201000G,mcv_1001061001_001_99_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+l2dmotion,FaceEmotion00
+
+l2dmessage,ソフィア,Sh-shut up... I know already!<br>I just have to do it，right!?<br> ,106501000G,mcv_1001061001_002_99_03
+
+
+
+message,,%user% watched as Sophia stood<br>trembling with a fork of cake in hand.<br> 
+
+
+
+message,<user>,Hey Sophia，I don't care what you do but<br>stop pointing that weapon at me.<br> 
+
+
+
+l2dmessage,ソフィア,Just— s-say 'aah' already!<br>I-I'll feed you... so...<br> ,106501000G,mcv_1001061001_003_99_03
+
+
+
+message,<user>,......Huh?<br> 
+
+
+asyncl2dmotion,FaceEmotion01,on,STOP,0.5
+
+l2dmessage,ベリサ,Pfft~~~heheheh!<br>Go for it，Sophia~~!<br> ,100201000G,mcv_1001061001_004_99_01
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+message,,Verisa grinned mischievously behind Sophia.<br>Clearly this un-Sophia-like act was her idea.<br> 
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,ソフィア,Just open your mouth already!<br>I lost at rock-paper-scissors，okay...?<br> ,106501000G,mcv_1001061001_005_99_03
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,<user>,Seriously... don't make me the target.<br> 
+
+
+asyncl2dmotion,FaceEmotion03,on,STOP,2.5
+
+l2dmessage,クルル,Himari，you don't like strawberries~?<br>Then Kururu will eat them for you~!<br> ,106701000G,mcv_1001061001_006_99_05
+
+
+
+message,,At the far end of the table，Kururu lunged<br>for Himari's strawberry as she pulled her plate away.<br> 
+
+
+l2dmotion,FaceEmotion02
+
+l2dmessage,ヒマリ,No Kururu~ that's not it! I'm not skipping it<br>because I hate it! I'm saving the best for last!<br> ,106601000G,mcv_1001061001_007_99_04
+
+
+
+l2dmessage,クルル,But~ if you don't eat it soon it'll spoil~?<br> ,106701000G,mcv_1001061001_008_99_05
+
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,ヒマリ,It won't spoil that fast!<br> ,106601000G,mcv_1001061001_009_99_04
+
+
+asyncl2dmotion,FaceEmotion04,on,STOP,0.5
+
+l2dmessage,マリナ,Ufufu♪ You two should share nicely~♪<br> ,100301000G,mcv_1001061001_010_99_02
+
+
+
+message,,Further back，Marina watched Himari and<br>Kururu with a warm smile.<br> 
+
+
+
+message,,This trivial yet irreplaceable commotion——<br> 
+
+
+
+message,<user>,(Maybe this is what I've been risking<br>my life to protect...)<br> 
+
+
+
+labeljump,c
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:c
+window,off
+bgmstop,bgmtag2_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+l2dhide
+
+
+

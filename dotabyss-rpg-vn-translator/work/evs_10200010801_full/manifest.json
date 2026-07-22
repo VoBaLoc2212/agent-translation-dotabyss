@@ -1,0 +1,678 @@
+{
+  "scene": "evs_10200010801",
+  "source_en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010801.txt",
+  "source_ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010801\\ja.json",
+  "source_en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\evs_10200010801\\en.json",
+  "output_vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010801.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200010801_full",
+  "source_sha256": "103b71a9c9dd666910245b39a1ce1f02d4663479ac2935c98f007afeb81c4793",
+  "output_sha256": "14e3bd9746a0b23b2c82a86d7405c563fd9fd40e4fde5e614a62bc10f90e7a3e",
+  "source_bytes": 33792,
+  "output_bytes": 35566,
+  "bom": true,
+  "newline": "CRLF",
+  "line_count_source": 1791,
+  "line_count_output": 1791,
+  "candidate_record_count": 65,
+  "command_counts": {
+    "title": 1,
+    "message": 64,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "novel_ja_pairs": 65,
+  "novel_en_pairs": 65,
+  "entries": [
+    {
+      "ordinal": 1,
+      "line": 38,
+      "record_type": "title",
+      "speaker": null,
+      "source_en": "Title",
+      "vi": "Tiêu Đề",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 2,
+      "line": 83,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Haah~... we're finally back~~. Quite the change from when we went in;<br>Wendy sure is full of energy now...<br> ",
+      "vi": "Hàa~… cuối cùng cũng về được rồi~~.<br>Khác hẳn lúc mới vào‚ Wendy khỏe khoắn lại rồi nhỉ…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 3,
+      "line": 136,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Thanks to you and the others; I'm a hundred times better!<br>Now we can get the party preparations done in no time!<br> ",
+      "vi": "Nhờ Verisa và mọi người mà em khỏe gấp trăm lần rồi ạ!<br>Thế này thì việc chuẩn bị tiệc cũng có thể tiến triển thật nhanh!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 4,
+      "line": 147,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "But really，you two were incredible!<br>I've never seen such amazing magic before!<br> ",
+      "vi": "Mà phải nói là hai chị giỏi thật đấy ạ!<br>Em chưa từng thấy phép thuật nào tuyệt vời đến thế!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 5,
+      "line": 206,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Hmhm~~. That much is only natural for someone like me♪<br>You all did pretty well too; I guess~?<br> ",
+      "vi": "Hừ hừ~~. Nếu là chị đây ra tay thì cỡ đó là chuyện đương nhiên♪<br>Các em cũng cố gắng tàm tạm đấy chứ nhỉ~?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 6,
+      "line": 223,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "Jeez; Onee-chan，you're so dishonest.<br>You were praising Wendy so much earlier.<br> ",
+      "vi": "Thôi nào‚ chị hai đúng là chẳng chịu thật lòng gì cả.<br>Rõ ràng lúc nãy chị khen Wendy nhiều lắm mà.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 7,
+      "line": 274,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Sh-shhhh! Viera，don't say stuff like that~~!<br> ",
+      "vi": "S‚ suỵt---! Viera‚ đừng nói mấy chuyện thừa thãi đó mà~~!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 8,
+      "line": 317,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Hehe. You two are always so close.<br>I'll handle the party preparations，so please rest.<br> ",
+      "vi": "Hihi. Hai chị em lúc nào cũng thân nhau nhỉ.<br>Việc chuẩn bị tiệc cứ để em lo tiếp nên mọi người nghỉ đi ạ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 9,
+      "line": 387,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "No; I'm fine. We need to finish the preparations<br>before Commander-sama returns，so there's no time to rest.<br> ",
+      "vi": "Không‚ em không sao đâu ạ. Phải chuẩn bị xong trước khi Chỉ Huy về<br>nên em không có thời gian nghỉ đâu.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 10,
+      "line": 398,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "...Actually，what time is it~?<br>We were down in the Abyss for quite a while--<br> ",
+      "vi": "…Mà khoan‚ giờ là mấy giờ rồi nhỉ~?<br>Hình như tụi mình đã xuống Đại Huyệt lâu lắm rồi thì phải――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 11,
+      "line": 422,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "What are you all doing?<br> ",
+      "vi": "Các em đang làm gì vậy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 12,
+      "line": 477,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Hyawaaaah!?<br> ",
+      "vi": "Hyaaaaááááá!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 13,
+      "line": 547,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "C-Commander-sama!?<br>Why are you here... weren't you out on an inspection?<br> ",
+      "vi": "C‚ Chỉ Huy ạ!?<br>Sao anh lại ở đây… chẳng phải anh đang đi thị sát sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 14,
+      "line": 549,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "The inspection just finished，and I came straight back.<br> ",
+      "vi": "Thị sát thì vừa xong rồi nên anh mới quay về đây.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 15,
+      "line": 560,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "N-no way...!? You're back already~~!?<br> ",
+      "vi": "K‚ không thể nào…!? Anh về mất rồi sao~~!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 16,
+      "line": 562,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "What，is that a problem? And... all three of you are covered in mud.<br>What have you been doing? From the looks of it; Wendy seems to be fixed up though.<br> ",
+      "vi": "Sao thế‚ có gì bất tiện à? Mà… cả ba đứa đều lấm lem bùn đất hết rồi kìa.<br>Các em đã làm gì vậy? Nhìn qua thì tình trạng của Wendy có vẻ đã ổn rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 17,
+      "line": 615,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Th-that's... a lot happened~~! Ugh，seriously!<br>If you come back this early，we can't set up the surprise party~!<br> ",
+      "vi": "C‚ chuyện đó… xảy ra nhiều chuyện lắm~~! Aaa‚ thật tình!<br>Anh về sớm thế này thì tụi em đâu chuẩn bị kịp tiệc bất ngờ chứ~!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 18,
+      "line": 658,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "--Ah.<br> ",
+      "vi": "――A.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 19,
+      "line": 703,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "Onee-chan... if you say that...<br> ",
+      "vi": "Chị hai… chị nói ra chuyện đó thì…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 20,
+      "line": 754,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Huh? ...Ah......<br> ",
+      "vi": "Hả? …A…………<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 21,
+      "line": 765,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "...That didn't count! It didn't，it didn't，it didn't~~~~~~~~~~!<br>Onii-san didn't hear anything，right~~!? Right!? Riiiight~~!?<br> ",
+      "vi": "…Không tính! Không không không! Vừa rồi không tính~~~~~~~~~~!<br>Anh trai chưa nghe thấy gì hết đúng không~~!? Đúng không!? Nha~~!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 22,
+      "line": 767,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "I definitely heard 'surprise party'.<br> ",
+      "vi": "Anh nghe thấy tiệc bất ngờ rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 23,
+      "line": 778,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "NOOOOOOO~~~~~~~~~~~~!<br>Forget it~~! Hit your head and forget~~!<br> ",
+      "vi": "Khôngggggg~~~~~~~~~~~~!<br>Quên đi~~! Anh đập đầu rồi quên luôn đi mà~~!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 24,
+      "line": 780,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "That's a tall order.<br>Well; I figured it was something like that.<br> ",
+      "vi": "Đừng đòi hỏi vô lý vậy.<br>Thật ra anh cũng đoán đại khái là chuyện như thế rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 25,
+      "line": 847,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "Wha...!?<br>Commander-sama，you knew...!?<br> ",
+      "vi": "Ơ…!?<br>Chỉ Huy đã nhận ra rồi sao ạ…!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 26,
+      "line": 849,
+      "record_type": "message",
+      "speaker": "主人公",
+      "source_en": "I saw you all shopping at the market;<br>and Wendy was up making something every night.<br> ",
+      "vi": "Anh đã thấy các em đi mua đồ ở chợ‚<br>còn Wendy thì đêm nào cũng làm thứ gì đó mà.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 27,
+      "line": 860,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "N-no way...<br>You knew about everything...<br> ",
+      "vi": "K‚ không thể nào…<br>Vậy là anh biết hết rồi sao…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 28,
+      "line": 862,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Hey，don't worry about it. Even if it wasn't a surprise; knowing you<br>were all trying to do something for me is plenty to be happy about.<br> ",
+      "vi": "Thôi‚ đừng bận tâm quá. Dù không còn là bất ngờ‚ việc các em<br>muốn làm điều gì đó cho anh cũng đủ khiến anh vui rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 29,
+      "line": 864,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "That said; Wendy，you push yourself too hard. No more overworking<br>to the point of collapse. I can't celebrate if the host isn't well.<br> ",
+      "vi": "Nhưng Wendy thì hơi cố quá rồi. Đừng liều đến mức hỏng hóc như vậy nữa.<br>Người tổ chức mà không khỏe thì anh cũng không thể thật lòng vui được.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 30,
+      "line": 917,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Yes... I'll be more careful...<br> ",
+      "vi": "Vâng… em sẽ rút kinh nghiệm…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 31,
+      "line": 919,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Good.<br> ",
+      "vi": "Vậy thì tốt.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 32,
+      "line": 930,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "But... I really did want the surprise party to work...<br> ",
+      "vi": "Nhưng… em vẫn muốn tổ chức tiệc bất ngờ lắm…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 33,
+      "line": 932,
+      "record_type": "message",
+      "speaker": "",
+      "source_en": "%user%'s hand<br>gently pats the dejected Wendy on the head.<br> ",
+      "vi": "Bàn tay của %user%<br>dịu dàng xoa đầu Wendy đang ủ rũ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 34,
+      "line": 934,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "I told you，right? Just knowing you wanted to celebrate makes me<br>happiest. Besides，you've clearly learned a lot. You look more grown-up now.<br> ",
+      "vi": "Anh đã nói việc Wendy muốn chúc mừng anh là điều khiến anh vui nhất rồi mà?<br>Hơn nữa‚ có vẻ em đã học được rất nhiều điều. Gương mặt em trưởng thành hơn rồi đấy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 35,
+      "line": 945,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Grown up...? Do you think I've grown?<br> ",
+      "vi": "Trưởng thành…? Anh nghĩ em đã trưởng thành rồi sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 36,
+      "line": 947,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Yeah，a lot. Seeing you grow is the biggest surprise of all. In that<br>case... all that's left is the party. Let me help with preparations.<br> ",
+      "vi": "Ừ‚ rất nhiều. Theo một nghĩa nào đó‚ được thấy em trưởng thành mới là bất ngờ lớn nhất.<br>Vậy thì… giờ chỉ cần tổ chức tiệc nữa là đúng kế hoạch. Anh sẽ giúp chuẩn bị.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 37,
+      "line": 992,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Huh~~? What's that about~~. It's Onii-san's inauguration party，and<br>Onii-san is doing the prep work~?<br> ",
+      "vi": "Hả~~? Gì vậy chứ~~.<br>Rõ ràng là tiệc mừng anh trai nhậm chức mà anh trai lại đi chuẩn bị sao~?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 38,
+      "line": 994,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "What's wrong with that? No rule says the guest of honour can't help.<br>If we're running behind，how about we make it Wendy's welcome party too?<br> ",
+      "vi": "Có sao đâu. Đâu có luật nào cấm nhân vật chính tự chuẩn bị.<br>À đúng rồi‚ nếu đã muộn một nhịp thì hay là kiêm luôn tiệc chào mừng Wendy nhỉ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 39,
+      "line": 1053,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "That's a lovely idea.<br>Commander-sama and Wendy can celebrate each other♪<br> ",
+      "vi": "Ý hay đấy ạ.<br>Chỉ Huy và Wendy cứ chúc mừng lẫn nhau là được mà♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 40,
+      "line": 1102,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "The Commander's and mine...<br>That's wonderful! Let's get started right away!<br> ",
+      "vi": "Của Chỉ Huy và… của em…<br>Nghe tuyệt quá ạ! Chúng ta bắt đầu ngay thôi!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 41,
+      "line": 1138,
+      "record_type": "message",
+      "speaker": "",
+      "source_en": "The barracks' party venue，decorated in vivid colours. The hall now<br>bustles with a crowd gathered to celebrate %user% and Wendy.<br> ",
+      "vi": "Phòng tiệc trong ký túc xá được trang hoàng đủ màu sắc. Lúc này nơi đó<br>đang đông vui với rất nhiều người đến chúc mừng %user% và Wendy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 42,
+      "line": 1171,
+      "record_type": "message",
+      "speaker": "ラヴェリア",
+      "source_en": "Ooh! This is quite the spread!<br>My comrades and I are going to enjoy this!<br> ",
+      "vi": "Ồ! Quả là thịnh soạn thật!<br>Ta cùng đồng đội sẽ tận hưởng cho thật đã!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 43,
+      "line": 1211,
+      "record_type": "message",
+      "speaker": "ホノカ",
+      "source_en": "The decorations are all FWOOOOSH~ and sparkly TADAAA! It's like a<br>festival! Oh right，you gotta tell me what you thought of the modded cart later!<br> ",
+      "vi": "Đồ trang trí bùm bùm bùm~ rồi lấp lánh tà-daaa! Cứ như lễ hội ấy!<br>À đúng rồi‚ lát nữa nhớ cho tớ nghe cảm tưởng về chiếc xe kéo cải tạo nhé!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 44,
+      "line": 1249,
+      "record_type": "message",
+      "speaker": "アーデルハイト",
+      "source_en": "I came to check on Wendy's condition，but she seems perfectly fine.<br>A party... well，since I'm here; I'll be glad to join.<br> ",
+      "vi": "Tôi đến kiểm tra tình trạng của Wendy‚ nhưng xem ra không có vấn đề gì.<br>Tiệc sao… dù gì cũng đã đến đây rồi nên cho phép tôi tham gia nhé.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 45,
+      "line": 1298,
+      "record_type": "message",
+      "speaker": "兵士たち",
+      "source_en": "All ri~~ght! We're going all out tonight~~!!<br> ",
+      "vi": "Được rồiii! Hôm nay chúng ta cũng quẩy hết mình nào~~!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 46,
+      "line": 1334,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "This is... quite something. That's a lot of people.<br> ",
+      "vi": "Chuyện này… đúng là bất ngờ thật. Đông người ghê.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 47,
+      "line": 1395,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Obviously~♪ Verisa-chan and the gang went around<br>inviting everyone to celebrate Onii-san~♪<br> ",
+      "vi": "Tất nhiên rồi♪ Để mọi người chúc mừng anh trai‚<br>nhóm Verisa đã đi mời khắp nơi mà~♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 48,
+      "line": 1407,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "Wendy worked the hardest of all，though. This many people showed up<br>because your dedication really touched them.<br> ",
+      "vi": "Wendy là người cố gắng nhất mà.<br>Nhiều người tụ họp thế này là vì sự hết mình của Wendy đã chạm đến họ đấy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 49,
+      "line": 1409,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Haha，this is my first time having such a grand party.<br> ",
+      "vi": "Ha ha‚ đây là lần đầu anh có một bữa tiệc long trọng thế này.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 50,
+      "line": 1462,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Are you happy; Commander?<br> ",
+      "vi": "Anh có vui không ạ‚ Chỉ Huy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 51,
+      "line": 1464,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Yeah，very much.<br>Seeing how many friends you've made makes me twice as happy.<br> ",
+      "vi": "Ừ‚ vui lắm.<br>Biết được bạn bè của Wendy đã tăng lên nhiều thế này‚ niềm vui còn nhân đôi nữa.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 52,
+      "line": 1466,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "...So; Wendy? The forward base is full of eccentric types;<br>but they're all pretty great，aren't they?<br> ",
+      "vi": "…Thế nào‚ Wendy? Căn cứ tiền tuyến có rất nhiều người cá tính mạnh‚<br>nhưng toàn những người thú vị đúng không?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 53,
+      "line": 1477,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Yes! Everyone is such a wonderful person!<br> ",
+      "vi": "Vâng ạ. Mọi người đều rất tốt bụng!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 54,
+      "line": 1488,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "...This time; I was able to hold this party<br>because so many people helped me.<br> ",
+      "vi": "…Lần này‚ nhờ được rất nhiều người giúp đỡ‚<br>em mới có thể tổ chức bữa tiệc này.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 55,
+      "line": 1499,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "My strength alone is small，but with so many people helping me;<br>I can accomplish something big... and that makes me so happy!<br> ",
+      "vi": "Sức của em tuy nhỏ bé‚ nhưng nhờ nhiều người giúp đỡ‚<br>em có thể làm được chuyện lớn… điều đó khiến em rất vui!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 56,
+      "line": 1501,
+      "record_type": "message",
+      "speaker": "<user>",
+      "source_en": "Haha，is that so. Well，it looks like everyone's waiting;<br>so the host should give the toast，don't you think?<br> ",
+      "vi": "Ha ha‚ vậy à. Thế thì mọi người có vẻ đang chờ rồi‚<br>người chủ trì phải nói vài lời nâng ly chứ nhỉ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 57,
+      "line": 1512,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "The toast... is it really okay if I do it?<br> ",
+      "vi": "Nâng ly… để em làm thật sự ổn sao ạ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 58,
+      "line": 1571,
+      "record_type": "message",
+      "speaker": "ベリサ",
+      "source_en": "Of course it is~♪<br>You're the one who deserves the most credit; Wendy♪<br> ",
+      "vi": "Đương nhiên là được rồi~♪<br>Wendy là công thần số một mà♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 59,
+      "line": 1582,
+      "record_type": "message",
+      "speaker": "ヴィーラ",
+      "source_en": "I don't think anyone is more suited for it than you; Wendy.<br>Please go ahead♪<br> ",
+      "vi": "Tôi cũng nghĩ không ai phù hợp hơn Wendy đâu.<br>Nhờ em nhé♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 60,
+      "line": 1631,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Verisa; Viera...<br>--All right! I'll give it a try!<br> ",
+      "vi": "Verisa‚ Viera…<br>――Vâng! Em sẽ thử ạ!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 61,
+      "line": 1660,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Um... ahem. Everyone，thank you for waiting. We will now begin the<br>Commander's inauguration celebration!<br> ",
+      "vi": "Ưm… e hèm. Mọi người đã chờ lâu rồi. Bây giờ chúng ta sẽ bắt đầu<br>tiệc mừng Chỉ Huy nhậm chức!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 62,
+      "line": 1671,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "Well，let's skip the formal speeches and get right to it--<br> ",
+      "vi": "Ừm‚ bỏ qua lời chào cứng nhắc đi‚ trước hết là――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 63,
+      "line": 1688,
+      "record_type": "message",
+      "speaker": "ウェンディ",
+      "source_en": "--Chee~~~rs♪<br> ",
+      "vi": "――Cạn ly~~~♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 64,
+      "line": 1762,
+      "record_type": "message",
+      "speaker": "一同",
+      "source_en": "Chee~~rs♪<br> ",
+      "vi": "Cạn ly~~♪<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "ordinal": 65,
+      "line": 1782,
+      "record_type": "message",
+      "speaker": "",
+      "source_en": "It was a gentle start for what was meant to be a surprise; but<br>everywhere you looked there were smiles--a party overflowing with Wendy's warmth--<br> ",
+      "vi": "Đó là một khởi đầu khá nhẹ nhàng đối với một bữa tiệc bất ngờ‚ nhưng<br>nhìn đâu cũng thấy những nụ cười――một bữa tiệc tràn đầy chất Wendy――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "qa_status": "PASS"
+}

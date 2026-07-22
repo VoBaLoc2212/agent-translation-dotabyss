@@ -1,0 +1,97 @@
+{
+  "scene": "hmn_10460100002",
+  "title_vi": "Chiến Dịch Thu Hồi Cung Và Thánh Kiếm Của Elmia",
+  "language_pair": "ja→vi",
+  "source_type": "EN-asset-is-English (en.json has EN values, asset text is English)",
+  "agent": "Hermes Agent (oc/deepseek-v4-flash-free)",
+  "completed_at": "2026-07-21",
+  "characters": {
+    "エルミア": {
+      "name_en": "Elmia",
+      "role": "elf archer, merchant's bodyguard",
+      "self_ref": "tôi (私/watashi)",
+      "addresses_commander": "Chỉ Huy (JP: <user> / EN: boss)",
+      "notes": "Confident but touchy about petite build. Uses tôi/anh addressing with Commander. Self-identifies as Elf archer."
+    },
+    "盗賊A": {
+      "name_en": "Thief A",
+      "role": "captured thief",
+      "addresses_elmia": "nhóc (ガキ/kid)",
+      "notes": "Speaker label kept as 盗賊A (JP field 1)"
+    },
+    "<user>": {
+      "role": "Commander/Chỉ Huy",
+      "self_ref": "tôi (俺/ore)",
+      "addresses_elmia": "cô (お前/omae)",
+      "notes": "Translated as Chỉ Huy consistently throughout"
+    }
+  },
+  "record_count": 71,
+  "title": 1,
+  "message": 70,
+  "messageTextUnder": 0,
+  "messageTextCenter": 0,
+  "line_count": 1349,
+  "bom": "UTF-8 BOM preserved",
+  "newline": "CRLF preserved",
+  "delimiter": "ASCII comma (field delimiter), fullwidth ，(U+FF0C) for in-text punctuation",
+  "technical_notes": {
+    "generator": "field-index build with full split(`','`)/join",
+    "br_count_preservation": "All 71 records match EN asset br count exactly",
+    "ascii_comma_guard": "No ASCII commas in VI text fields (used fullwidth ，/？/！)",
+    "engine_fields_preserved": "All trailing fields (characode, voicekey, chara label) intact",
+    "commander_localization": "Commander→Chỉ Huy (3 occurrences: seq37, seq47; '<user>' lines use Chỉ Huy)",
+    "special_terms": {
+      "エルフ": "tộc Elf (kept 'Elf' as proper noun)",
+      "鑑定眼": "Con Mắt Thẩm Định (Appraisal Eye)",
+      "星ブレ": "Thanh Kiếm Sao (Starblade - EN shortening kept in VI for consistency)",
+      "星々の輝きを模した…聖剣・コスミックエッジインフィニティブレード": "Thanh Kiếm Thánh mô phỏng ánh sao... Cosmic Edge Infinity Blade",
+      "アジト": "sào huyệt (hideout/secret base)"
+    },
+    "intentional_keeps": [
+      "Elmia (proper name, in-dialogue)",
+      "Cosmic Edge Infinity Blade (title/name kept)",
+      "tộc Elf (proper race name)"
+    ]
+  },
+  "quality_checks": {
+    "line_count_match": true,
+    "record_count_match": true,
+    "br_count_match": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "no_ascii_comma_in_text": true,
+    "title_case": "Chiến Dịch Thu Hồi Cung Và Thánh Kiếm Của Elmia (Vietnamese Title Case)"
+  },
+  "notes": "Clean EN-asset-is-English case. Elmia's first scene — elf archer bodyguard on mission to recover stolen sacred sword from thieves. No H18 content. No user tag replacements beyond the imperative <user>→Chỉ Huy. No intentional kept-English records.",
+  "independent_verify": {
+    "scene": "hmn_10460100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 70,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 71,
+    "translated_records": 71,
+    "changed_lines": 71,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1349,
+      "vi": 1349,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "005a71ff41dd0f149c52e7c81668b30182eae111829493633cd595f17c243b7d",
+    "output_sha256": "d0eca25df6b4bb33a3cf3d3eaba99a1c9636e6156274a57aebabbc70d3ec5a9d"
+  },
+  "status": "PASS"
+}

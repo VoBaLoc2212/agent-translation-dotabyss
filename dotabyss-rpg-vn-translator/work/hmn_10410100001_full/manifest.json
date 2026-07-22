@@ -1,0 +1,66 @@
+{
+  "scene": "hmn_10410100001",
+  "source_case": "EN-asset-is-English with JP title (mixed)",
+  "title_jp": "事務員を志望しています",
+  "title_vi": "Tôi Muốn Làm Nhân Viên Văn Phòng",
+  "counts": {
+    "title": 1,
+    "message": 92,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "total_text_records": 94
+  },
+  "addressing": {
+    "Commander (<user)": "Chỉ Huy; inner/monologue 'ta'; addresses Alicia 'anh'/'cô', Ayame 'anh'/'cô', guard 'ngươi'",
+    "Alicia (アリシア)": "addresses Commander 'anh'; Commander addresses her 'cô'/'anh'",
+    "Ayame (アヤメ)": "addresses Commander 'Thần'/'Chỉ Huy'/'anh Chỉ Huy'; Commander addresses her 'anh'/'cô'",
+    "Warehouse guard (倉庫警備の兵士)": "addresses Commander 'ngài'/'Chỉ Huy'",
+    "Fallen enemy (倒れた男)": "uses 貴様 -> 'ngươi' to Commander"
+  },
+  "terminology": {
+    "厄災": "Tai Ương",
+    "前線基地": "Căn Cứ Tiền Tuyến",
+    "書道": "thư pháp",
+    "千国連合": "Liên Minh Ngàn Quốc",
+    "ホウライ": "Hourai",
+    "横領": "biển thủ",
+    "暗殺": "ám sát",
+    "事務員": "nhân viên văn phòng"
+  },
+  "kept_english_intentional": [
+    "Alicia (name, romanized to match shipped VI)",
+    "Ayame (name, romanized in dialogue; field-1 label kept JP アヤメ)",
+    "Hourai (region name)"
+  ],
+  "notes": "Title field JP->VI Title Case. All speaker labels (field 1) kept byte-identical JP. ASCII commas inside VI text replaced with U+201A (‚). BOM/CRLF/<br>/tags preserved. EN-asset typo 'Commanderrr' treated as 'Commander' -> 'Chỉ Huy'.",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10410100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 92,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 94,
+    "translated_records": 94,
+    "changed_lines": 94,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1132,
+      "vi": 1132,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "7640e516b100112bd8f5706ae3e38ac82819df8ab31fefa10ac36825178ac869",
+    "output_sha256": "45e1f3edf2da580a091e36c2c8ec1d81f8bbf3ebc4b84529dd08ea65737167b6"
+  }
+}

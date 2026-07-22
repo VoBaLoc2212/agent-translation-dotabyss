@@ -1,0 +1,30 @@
+{
+  "scene": "hmn_10020100002",
+  "status": "PASS",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [],
+  "counts": {
+    "source_lines": 2048,
+    "output_lines": 2048,
+    "candidate_text_records": 105,
+    "translated_records": 105,
+    "record_types": {
+      "title": 1,
+      "message": 104
+    },
+    "kept_english_count": 0
+  },
+  "kept_english": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 105,
+  "translated_records": 105,
+  "changed_lines": 105,
+  "source_line_count": 2048,
+  "output_line_count": 2048,
+  "source_sha256": "9998564d2bb18ae6b858322db1bd6d60020c845659651c716f8a466e526d048d",
+  "output_sha256": "d64ee511afff8ef51a53805ce0e6f650189c305eda4c780b0cfc5056d21b5d3d"
+}

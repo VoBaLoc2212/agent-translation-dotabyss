@@ -1,0 +1,67 @@
+{
+  "scene": "hmn_10320100001",
+  "title_jp": "採掘家の怪しい秘密",
+  "title_vi": "Bí Mật Đáng Ngờ Của Thợ Mỏ",
+  "source_case": "EN-asset-is-English (message fields English; title field JP)",
+  "sources": {
+    "ja_json": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10320100001/ja.json (identity map)",
+    "en_json": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10320100001/en.json (English)",
+    "en_asset": "AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10320100001.txt"
+  },
+  "output": "AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10320100001.txt",
+  "structure": {
+    "line_count": 1177,
+    "bom": true,
+    "newline": "CRLF",
+    "delimiter": "ASCII comma",
+    "records_total": 99,
+    "records_by_command": {
+      "title": 1,
+      "message": 97,
+      "messageTextCenter": 1
+    }
+  },
+  "characters": {
+    "ダリア (Daria)": "Thợ mỏ trẻ, ít nói, mê đá quý; self-ref em; calls 親方/司令官 -> sếp; kept speaker label ダリア",
+    "<user> (Commander/親方)": "Chỉ Huy; nam; sếp/Chỉ Huy; addresses Daria as em",
+    "兵士Ａ / 兵士Ｂ": "binh sĩ; xưng tôi with Chỉ Huy; kept JP speaker labels"
+  },
+  "addressing_notes": "親方 (Boss/foreman) -> 'sếp' in dialogue; 司令官/Commander -> Chỉ Huy; Daria uses em, Commander uses tôi/em toward her.",
+  "delimiter_handling": "ASCII commas inside VI text replaced with U+201A ‚; build asserts no ASCII comma in translated fields.",
+  "tags": "All <br>, <size=48>, voice IDs (vc_...), chara_X, <user> speaker tokens preserved. <br> count per field matched EN asset (authoritative).",
+  "intentional_localizations": [
+    "SFX localized to VI onomatopoeia: Clink->Coong, Clatter->Loảng xoảng, knock->Cốc cốc, click->Cạch, Zzz->Khò, *huff*->Hì hục, *yawn*->Hoááp",
+    "punctuation-only line ...! -> ……! (distinct bytes)"
+  ],
+  "h18_note": "Scene is comedic/non-explicit; breast-tucking gag (L389) translated at source tone, no exaggeration.",
+  "independent_verify": {
+    "scene": "hmn_10320100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 97,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 99,
+    "translated_records": 99,
+    "changed_lines": 99,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1176,
+      "vi": 1176,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "5d9c93eca68a99bc992d7398fc024a2868dc3404e05571f00c1e51ec5bd6901f",
+    "output_sha256": "e2f3c5d8e6dd653293b30a5ad8c65d26235d3b24371bdbc8768f585640124a2e"
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,30 @@
+{
+  "scene": "evs_10200020501",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "Không có dòng text giữ nguyên EN có thể dịch.",
+    "Tên riêng Kureha‚ Shiraes và Oni Island được giữ nguyên theo yêu cầu preserve names.",
+    "Không có nội dung H18 trong file này; quy tắc dự án all 18+ vẫn được ghi nhận."
+  ],
+  "checks": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_match": true,
+    "technical_fields_unchanged": true,
+    "tags_placeholders_preserved": true,
+    "no_ascii_comma_in_vi_text_fields": true,
+    "no_unintentional_unchanged_text_fields": true,
+    "no_kept_english_review_items": true
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 79,
+  "translated_records": 79,
+  "changed_lines": 79,
+  "source_sha256": "9690302fad685e15f8f12d97677104aa91e9756a12c1ba2a01fa5a125c900418",
+  "output_sha256": "42547534da3ec91f7cad344d9fbbc50afcbc70956fd062b26a5cf4fa205110ac"
+}

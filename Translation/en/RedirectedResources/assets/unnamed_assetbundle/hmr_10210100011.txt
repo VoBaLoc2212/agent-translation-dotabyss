@@ -1,0 +1,268 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg10200b
+
+charaload,chara_1,102101000G,ヒュメナ
+
+charaload,chara_2,300301000,ルディア
+charamove,chara_2,Set,X,400,0
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,人間の交尾って？
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+charashow,chara_1,0.3
+
+
+asyncseplay,setag1_1,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+charaface,chara_1,FaceSurprise
+window,on,0.15
+message,ヒュメナ,...Huh?<br> ,,vc_10210100011_001_01
+
+message,娼館から響く声,Aaah!<br> 
+
+asyncseplay,setag1_2,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+charaface,chara_1,FaceSad
+message,ヒュメナ,I wonder what that voice is? It sounds happy，but also like a scream...<br> ,,vc_10210100011_002_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charahide,chara_1,0
+
+charamove,chara_1,Set,X,-400,0
+
+charamove,chara_2,Set,X,400,0
+
+charashow,chara_2,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+asyncseplay,setag1_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,STOP
+
+asynccharareaction,chara_2,nod,1,STOP
+window,on,0.15
+message,ルディア,Oh，Humena? Is something the matter?<br> ,,vc_10210100011_003_01
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceSad
+message,ヒュメナ,Ah，Ludia. I was curious about the sounds coming from the brothel.<br> ,,vc_10210100011_004_01
+
+charapose,chara_2,2
+
+asynccharareaction,chara_2,Nod,0.5,STOP
+
+charaface,chara_2,FaceHappy
+message,ルディア,Ah，these sounds? So you don't know much about human sex，Humena.<br> ,,vc_10210100011_005_01
+
+asyncseplay,setag1_4,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceSurprise
+message,ヒュメナ,Sex? ...So those are the sounds of human mating?<br> ,,vc_10210100011_006_01
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+message,ルディア,That's right. Well，human sexuality is diverse，so it varies from<br>person to person.<br> ,,vc_10210100011_007_01
+
+asyncseplay,setag1_5,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+charaface,chara_1,FaceFun
+message,ヒュメナ,Oh，I see... I think I'm getting interested in human mating. Maybe I'll<br>do some research...<br> ,,vc_10210100011_008_01
+
+asyncseplay,setag1_6,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+charapose,chara_2,1
+
+charaface,chara_2,FaceFun
+message,ルディア,Fufu，that might be interesting. By all means，look into it.<br> ,,vc_10210100011_009_01
+
+asyncseplay,setag1_7,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+charaface,chara_1,FaceHappy
+message,ヒュメナ,Yeah! Thanks，I will!<br> ,,vc_10210100011_010_01
+
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+
+charahide,chara_1,0.3
+
+charahide,chara_2,0.3
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+bg,abg11000b,off
+
+wait,1
+
+fade,In,Black,1
+bgmplay,bgmtag1_2,bgm0025,1
+
+
+charamove,chara_1,Set,X,0,0
+
+messagetextwindow,on,0.15
+
+messageTextCenter,,<size=48>—A few days later—</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+seplay,setag1_8,se4300001,0,1
+
+wait,0.5
+
+seplay,setag1_9,se4300003,0,1
+
+wait,0.5
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,ヒュメナ,Commander，are you there?<br> ,,vc_10210100011_011_01
+
+message,<user>,Huh? Humena? What's up?<br> 
+
+asyncseplay,setag1_10,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceShy
+message,ヒュメナ,Well，actually... I have a favor to ask，Commander.<br> ,,vc_10210100011_012_01
+
+message,<user>,A favor? What is it? Are you in trouble?<br> 
+
+asyncseplay,setag1_11,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,ヒュメナ,Well，um... will you mate with me?<br> ,,vc_10210100011_013_01
+
+message,<user>,What，mating?—Wait，mating!<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ヒュメナ,They do it in the brothel，right? Ludia taught me，so I did some<br>research on human mating!<br> ,,vc_10210100011_014_01
+
+asyncseplay,setag1_12,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharareaction,chara_1,shake,0.5,STOP
+
+charaface,chara_1,FaceSad
+message,ヒュメナ,I even tried masturbation，but the guilt won out because we<br>priestesses see mating as a sacred act that creates new life...<br> ,,vc_10210100011_015_01
+
+asyncseplay,setag1_13,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceShy
+message,ヒュメナ,S-so，I want to experience proper human mating. You're one of the<br>few acquaintances I have who isn't connected to the temple，Commander...<br> ,,vc_10210100011_016_01
+
+message,<user>,Hey，you can't just spring that on me. That's something you do with<br>someone you're in love with.<br> 
+
+message,<user>,If you just want to learn，I could introduce you to an experienced<br>woman... You'd still get the information，right?<br> 
+
+charaface,chara_1,FaceSad
+message,ヒュメナ,That's... no. It would be more embarrassing to be taught by another<br>woman. A-and... ugh...<br> ,,vc_10210100011_017_01
+
+asynccharareaction,chara_1,Shake,0.5,STOP
+
+charaface,chara_1,FaceShy
+message,ヒュメナ,Not some other man... I hope you'll understand why I'm asking you，<br>Commander...<br> ,,vc_10210100011_018_01
+
+message,,Humena's cheeks were bright red. She was fidgeting nervously. I<br>immediately understood what she was trying to say.<br> 
+
+message,<user>,...Alright. If that's the case，I'll teach you. Are you sure you want it<br>to be me?<br> 
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+message,ヒュメナ,Yes. I want you.<br> ,,vc_10210100011_019_01
+
+message,,Humena nodded quietly but firmly. I took her trembling hand and led<br>her to the bedroom...<br> 
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_2,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

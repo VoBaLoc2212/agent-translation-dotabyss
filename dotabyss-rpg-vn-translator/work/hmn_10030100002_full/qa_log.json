@@ -1,0 +1,38 @@
+{
+  "scene": "hmn_10030100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "warnings": [],
+  "info": [
+    {
+      "type": "INTENTIONAL_LATIN_TEXT",
+      "items": [
+        "Marina",
+        "Alicia",
+        "Hourai",
+        "Fufufu",
+        "Ufufufufu"
+      ],
+      "reason": "proper names or stylized laugh/onomatopoeia intentionally retained"
+    }
+  ],
+  "kept_english_records": [],
+  "intentional_identical_records": [],
+  "summary": {
+    "candidate_records": 72,
+    "translation_entries": 72,
+    "blocker_count": 0,
+    "adult_h18": "No explicit H18 content in this asset; project 18+ confirmation noted.",
+    "unchanged_english_policy": "No text record may remain identical to EN unless logged intentional."
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 72,
+  "translated_records": 72,
+  "changed_lines": 72,
+  "source_line_count": 1033,
+  "output_line_count": 1033,
+  "source_sha256": "5b722803862af1e7d255521a6bf25afafdb70e91174ef262d506ad7b19fa24fe",
+  "output_sha256": "cefa63dcdd149ed265005f91289f884e1b95f21d6876d4262263fc0b027af0e3"
+}

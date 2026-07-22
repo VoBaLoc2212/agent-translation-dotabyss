@@ -1,0 +1,95 @@
+{
+  "scene": "hmn_10090100003",
+  "status": "PASS",
+  "timestamp_utc": "2026-07-19T10:06:00.237681+00:00",
+  "sources": {
+    "ja_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10090100003\\ja.json",
+      "bytes": 15560,
+      "sha256": "27aa59546aa578247a8f1604d745ed6e4afd13093cd8ff7882b73191b79488e5",
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count": 92,
+      "endswith_newline": false
+    },
+    "en_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10090100003\\en.json",
+      "bytes": 13891,
+      "sha256": "2793e4f766648f7359702330353bbd9bfa46f9e103d24d394b1efbab9ceb36b0",
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count": 92,
+      "endswith_newline": false
+    },
+    "en_asset": {
+      "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10090100003.txt",
+      "bytes": 40511,
+      "sha256": "1cab2fd547f44fa604e33fee8ffb57829a86bd9db7c57248b295fbf31d4a77da",
+      "bom_utf8": true,
+      "newline": "CRLF",
+      "line_count": 1990,
+      "endswith_newline": true
+    }
+  },
+  "output": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10090100003.txt",
+    "bytes": 43046,
+    "sha256": "226c0adec48bed7b51877813db554244bfbefab724cc31538fa6b0eee8f858ef",
+    "bom_utf8": true,
+    "newline": "CRLF",
+    "line_count": 1990,
+    "endswith_newline": true
+  },
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10090100003_full",
+  "text_command_counts": {
+    "title": 1,
+    "message": 88,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "total_text_records": 90,
+  "translated_records": 90,
+  "delimiter": ",",
+  "internal_comma_rule": "ASCII comma in Vietnamese text fields replaced/avoided; U+201A used where needed.",
+  "mapping_status": {
+    "TRANSLATED": 90,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0,
+    "REVIEW": 0
+  },
+  "characters": {
+    "レヴィエーヌ": "kept charaload/speaker name; translated prose as Levienne",
+    "ルディア": "kept charaload/speaker name; translated prose references contextually",
+    "<user>/%user%": "placeholder preserved"
+  },
+  "qa_errors": [],
+  "independent_verify": {
+    "scene": "hmn_10090100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 88,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 90,
+    "translated_records": 90,
+    "changed_lines": 90,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1990,
+      "vi": 1990,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "1cab2fd547f44fa604e33fee8ffb57829a86bd9db7c57248b295fbf31d4a77da",
+    "output_sha256": "226c0adec48bed7b51877813db554244bfbefab724cc31538fa6b0eee8f858ef"
+  }
+}

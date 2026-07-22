@@ -1,0 +1,131 @@
+﻿adultui,off
+
+bg,abg13000b,off
+
+charaload,chara_1,102101000G,ヒュメナ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+
+charamove,chara_1,Set,X,400,0
+
+shake,BACK,,100,0,0.25,1,off,off,0
+shake,CHARA,chara_1,100,0,0.25,1,off,off,0
+
+window,on,0.15
+message,<user>,Ugh... I don't really remember，but... I feel like I did something awful...<br> 
+
+message,,As I waited for Humena，who had gone to the bathroom ahead of me，I<br>pondered.<br> 
+
+message,,My memories were hazy，but I recalled being turned into a tentacle<br>creature，blacking out，and waking to find Humena covered in cum.<br> 
+
+message,<user>,...Upah，you really did something crazy.<br> 
+
+message,ウパ,U-upaaah...<br> ,900000003,vc_10210100033_001_01,
+
+message,,Upah was panicking like a puppy caught in mischief. Just as I was<br>wondering how to scold him—<br> 
+
+asynccharashow,chara_1,0.3,CONT
+charamove,chara_1,LinearTarget,X,0,0.3
+
+asyncseplay,setag3_1,se4800007,0,1,CONT
+
+asynccharareaction,chara_1,shake,0.5,STOP
+
+asynccharaemo,chara_1,Panic,STOP
+message,ヒュメナ,Commander，please don't be too hard on Upah.<br> ,,vc_10210100033_002_01
+
+message,,Just then，Humena，who had gone to take a shower，returned.<br> 
+
+message,<user>,No，I'm fine. But are you okay，Humena?<br> 
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+message,ヒュメナ,Yeah，I'm fine. Upah did it for me，you know.<br> ,,vc_10210100033_003_01
+
+message,<user>,For your sake? What exactly did you say to Upah?<br> 
+
+asyncseplay,setag3_2,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceShy
+message,ヒュメナ,Well... I'm happy you're so gentle with me，Commander，but<br>sometimes... I wish you'd be more aggressive... That's what I told him.<br> ,,vc_10210100033_004_01
+
+message,<user>,Oh，is that all? If you'd said so，I'd do that anytime.<br> 
+
+asyncseplay,setag3_3,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+charaface,chara_1,FaceSurprise
+message,ヒュメナ,Eh，really? Well then... how about now...?<br> ,,vc_10210100033_005_01
+
+asyncseplay,setag3_4,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceUnique02
+message,,Humena suddenly fixed me with a seductive upturned gaze. Despite<br>what she had just gone through，she still seemed to have energy left.<br> 
+
+message,,If Humena's in the mood，then—I brace myself.<br> 
+
+message,<user>,Yeah，of course.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+asynccharahide,chara_1,0,CONT,0
+
+camerazoom,1.5,0,LinearTarget
+
+blur,on,BACK,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+asyncseplay,setag3_5,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+window,on,0.15
+message,ヒュメナ,Ah!♡<br> ,,vc_10210100033_006_01
+
+message,,I pushed the delighted Humena down onto the bed. She had just<br>showered，but I was about to get her thoroughly dirty again.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+ストーリーイベント=Story Event
+報酬受取期間=Ended
+交換可能期間：=Exchange Period:
+r:"^([0-9]+)/([0-9]+)/([0-9]+)　([0-9]+):([0-9]+):([0-9]+)まで$"= Until $1/$2/$3 $4:$5:$6
+スキップ1回につき 挑戦回数=Attempt for 1 Skip
+挑戦回数を消費して ステージをスキップします。=Spend 1 attempt to skip stage.
+ドロップアイテム=Item Drops
+sr:"^([\S\s]+)獲得量([0-9]+)%UP!$"=<cspace\=-0.1em>Increase $1 by $2%!
+特効キャラ一覧=Special Characters List
+読む=Read
+sr:"^【([0-9]+)話】(.+?)\\nを再生しますか？$"=Do you want to read\n[Ep$1] $2?
+sr:"^【([0-9]+)話】([\S\s]+)$"=[Ep$1] $2
+
+Lucky Box
+r:"^ラッキーボックス券獲得量([0-9]+)%UP!$"=Lucky Box Ticket Rate $1% Increase!
+r:"^ボックス([0-9]+)$"=Box $1
+ラッキーボックス=Lucky Box
+ボックス更新=<cspace\=-0.1em>Refresh box
+このボックスはまだ引くことが出来ません=Can't pull this box yet.
+目玉報酬獲得済みのためボックス更新が可能です=<cspace\=-0.1em>Main reward obtained, able to refresh box.
+更新すると現在のボックスは引くことができなくなります。=<size\=90%>You can no longer pull on current box by refreshing.
+次のボックスに更新しますか？=Would you like to refresh to next box?
+更新=Refresh
+ボックスの報酬をすべて獲得したため、\nボックスを更新しました。=All rewards have been claimed,\nbox will be refreshed.
+r:"^ボーナスクエスト発生率([0-9]+)%UP!$"=Bonus Quest Trigger Rate $1% Increase!
+ボーナスクエスト=<line-height\=60%>Bonus Quest
+クエスト発生率=<cspace\=-0.1em><size\=90%>Quest Trigger Rate
+イベント<br>ボーナスクエスト=Event<br>Bonus Quest
+ボーナスクエスト発生率=<cspace\=-0.1em><size\=80%>Bonus Quest Trigger Rate
+
+Crystal Hunt
+r:"^クリスタルハント([0-9]+)$"=Crystal Hunt $1
+r:"^クリスタルハント([0-9]+) をクリア$"=Clear Crystal Hunt $1
+評価=<cspace\=-0.05em>Eval
+ベストレコード=Best Record
+チャレンジ ステージ=Challenge Stage
+イベント ステージ=Event Stage
+採掘イベント=<cspace\=-0.1em>Mining Event</cspace>
+残り挑戦回数=Attempts
+アビスジェムを50個消費して 挑戦回数を1回復します。=Spend 50 Abyss Gems to recover 1 attempt.
+クリスタルハント7を180秒以内にクリアする=Clear Crystal Hunt 7 within 180 seconds
+目標の敵が逃げる前に討伐をお願いします。\\n敵を倒せたら報酬が豪華になりますよ！=Take down the target before it escapes!\\nDo it, and you'll earn bonus rewards!
+敵がいなくなりました！\\n今がチャンスです！=The enemies are gone!\\nNow's your chance!
+あと2体です。\\n頑張ってください！=Only two left!\\nKeep it up!
+討伐成功です！\\nやりましたね！=Target eliminated!\\nWe did it!
+最後の1体です。\\n司令官、お願いします！=Just one left!\\nCommander, finish it!
+討伐実績=Defeat Record
+クリスタルハント6をクリアで開放=Clear Crystal Hunt 6 to unlock
+クリスタルハント7をクリアする=Clear Crystal Hunt 7
+採掘クリスタル=Mining Crystal
+
+June30 Event
+鬼ヶ島観光リーフレット=Onigashima Tourist Leaflet
+sr:"^([\S\s]+)をクリアする$"=Clear $1
+鬼手仏心：その力は誰がため1=Demon's Hand, Buddha's Heart 1
+鬼手仏心：その力は誰がため2=Demon's Hand, Buddha's Heart 2
+回収任務、成功……？=<cspace\=-0.05em>Recovery Mission, Success...?</cspace>
+いざ、鬼ヶ島！！=<cspace\=-0.05em>To Onigashima!!</cspace>
+花嫁の里帰り？=<cspace\=-0.05em>The Bride Returns Home?</cspace>
+鬼ヶ島プロデュース大作戦！=<cspace\=-0.05em>Onigashima Makeover Op!</cspace>
+おいでませ、鬼ヶ島リゾート！=<cspace\=-0.05em>Welcome to Onigashima Resort!</cspace>
+混乱の大宴会=A Chaotic Banquet
+鬼ヶ島大乱戦！！=<cspace\=-0.05em>Great Battle in Onigashima!!</cspace>
+鬼族と人間と=Onis and Humans
+ふふ、クレハ君はいい子だな。\n時間をかけて仲良くなろう……\n１０年くらい……少し長いかな？=Hehe, Kureha, you're such a \ngood girl. Let's take our time \ngetting to know each other...\nMaybe ten years... \nHmm, is that too long?
+鬼ヶ島、か……\n千年以上冒険者をやっていたが、\n行くのは初めてだよ。楽しみだ=Onigashima, huh...\nI've been an adventurer\nfor over a thousand years,\nbut this will be my first time \nthere. I'm looking forward to it.
+旦那様が私と一緒に鬼ヶ島へ\n里帰りしてくださるのですか！？\nもしや結婚の挨拶のために！？=Master, you're coming \nback to Onigashima with me!?\nCould it be to ask for my hand!?
+仲人になっていただき、\n感謝しますシラエスさん……\nいえ、シラエスママ！=Thank you for being \nour matchmaker, Shiraes-san...\nNo, Mama Shiraes!
+旦那様～♪　観光客のみなさまに\nお出しする料理ができました♪\n味見してください、あ～～ん♪=Darling~♪\nThe meal for the tourists is ready♪\nPlease try a bite—ahhh~♪
+みんな張り切っているね……\n私も、精一杯盛り上げるとしよう。\nあ、よいしょよいしょ=Everyone's really fired up...\nPerhaps I'll do my best to\nliven things up, too.\nOoo, here we go here we go!
+サクラ役なら任せてほしい。\n伊達に歳を重ねてないからな。\n演技には自信があるよ=If it’s the role of Sakura,\nI’d love to take it on.\nI haven’t just been getting\nolder for nothing, after all.\nI’m confident in my acting.
+私と旦那の愛のパワーで、\n必ずや鬼ヶ島のプロデュースを\n成功させてみせます！=With the power of darling \nand me, I’ll definitely make \nthe production of Oni Island \na success!
+新しい難易度が解放されました。=New difficulty level unlocked.
+
+Reyzelia Request
+依頼イベント=<line-height\=60%>Request\nEvent
+r:"^特別依頼クエスト([0-9]+)$"=<cspace\=-0.1em>Special Request Quest $1</cspace>
+r:"^特別依頼クエストEX([0-9]+)$"=<cspace\=-0.1em>Special Request Quest EX$1</cspace>
+r:"^特別依頼クエスト([0-9]+)をクリア$"=<cspace\=-0.05em><line-height\=60%>Clear Special Request Quest $1
+r:"^特別依頼クエスト([0-9]+)をクリアする$"=<cspace\=-0.05em><line-height\=60%>Clear Special Request Quest $1
+r:"^特別依頼クエストEX([0-9]+)をクリアする$"=<cspace\=-0.05em><line-height\=60%>Clear Special Request Quest EX$1
+r:"^「特別依頼クエスト([0-9]+)」が解放されました$"=<cspace\=-0.05em>Special Request Quest $1 has been unlocked
+r:"^特別依頼クエスト([0-9]+)で最大FCダメージ([0-9]+)を達成する$"=Achieve $2 maximum FC damage in Special Request Quest $1
+スコア状況=<line-height\=60%>Score Status
+記録なし=No record
+イベント効果=<cspace\=-0.1em><size\=80%>Event Effects
+編成バフ情報=Buff Info.
+クエストごとに紋章：情熱の付与など、様々な効果が発生します。（内容はクエスト詳細で確認できます。）=<cspace\=-0.05em><size\=90%>Each quest triggers various effects, such as granting Crest: Zeal. (Check the details in quest description.)
+紋章：情熱を持つキャラを5～9人編成=<cspace\=-0.05em>Form a party of 5 to 9 with Crest: Zeal trait
+紋章：情熱を持つキャラを3～4人編成=<cspace\=-0.05em>Form a party of 3 to 4 with Crest: Zeal trait
+紋章：情熱を持つキャラを10人編成=<cspace\=-0.05em>Form a party of 10 with Crest: Zeal trait
+上級【情熱】バフ=High [Zeal] Buff
+中級【情熱】バフ=Mid [Zeal] Buff
+初級【情熱】バフ=Normal [Zeal] Buff
+r:"^<color\=#FF5050>紋章：情熱</color>キャラの攻撃力、防御力、最大HP、通常回復が【<color\=#4CF37B>([0-9]+)%</color>】上昇$"=<cspace\=-0.05em><color\=#FF5050>Crest: Zeal</color> characters gain +$1% ATK, DEF, Max HP, and Healing.
+効果発動中=Active
+編成バフ効果=<cspace\=-0.1em><line-height\=60%>Team Buff Eff.
+編成バフ一覧=Party Buff List
+r:"^紋章：情熱を持つキャラ【([0-9]+)人】編成中$"=<line-height\=60%><cspace\=-0.05em>Team with $1 Crest: Zeal Chara
+編成バフ=Team Buff
+編成バフを確認=<cspace\=-0.1em>Check PT Buffs
+r:"^([0-9]+)ダメージ$"=$1 Damage
+大穴で産出される武具は\nミレスガルドの戦力強化に有益\n優先的に買い取らせて欲しい=We'd like to prioritize purchasing\nthe weapons and armor produced\nin the Great Cave, as they are\nbeneficial for strengthening Millesgard's\ncombat capabilities.
+王都の防衛で手が離せぬ今、\n前線の指揮は\nあの男に任せるしかない、か……=With my hands tied defending\nthe capital right now, I guess I\nhave no choice but to leave\ncommand of the front lines to that man...
+ソフィアが信頼する人物……\nその手並み拝見させてもらうぞ=Someone Sophia trusts…\nI’m going to watch how you\nhandle this.
+
+-modifier
+味方全体が行動時に自身の最大HP【5％】分のダメージ=<cspace\=-0.07em><size\=90%>All allies take damage equal to [5%] of their maximum HP when they act
+クエスト開始時、火水土属性の味方に<color\=#FF5050>紋章：情熱</color>を【5】付与=<cspace\=-0.07em><size\=90%>At the start of the quest, grants [5] <color\=#FF5050>Crest: Zeal</color> to allies with the Fire, Water, and Soil attributes
+味方全体が会心時に自身の最大HP【10％】分の回復=<cspace\=-0.07em><size\=90%>When any ally lands a critical hit, all allies recover [10%] of their maximum HP
+クエスト開始時、火水土属性の味方に<color\=#FF5050>紋章：情熱</color>を【10】付与=<cspace\=-0.07em><size\=90%>At quest start, apply <color\=#FF5050>Crest: Zeal</color> [10] to Fire, Water, and Soil allies.
+戦闘開始時、敵全体に攻撃力UP【50％ / 60秒】と防御力UP【100％ / 60秒】を付与=<cspace\=-0.07em><size\=90%>At quest start, grants all enemies ATK Boost [50% / 60 seconds] and DEF Boost [100% / 60 seconds]
+クエスト開始時、火水土属性の味方に<color\=#FF5050>紋章：情熱</color>を【3】付与=<cspace\=-0.07em><size\=90%>At quest start, apply [3] <color\=#FF5050>Crest: Zeal</color> to Fire, Water, and Soil allies
+戦闘開始時、敵全体に攻撃力UP【100％ / 60秒】と防御力UP【200％ / 60秒】を付与=<cspace\=-0.07em><size\=90%>At quest start, grants all enemies ATK Boost [100% / 60 seconds] and DEF Boost [200% / 60 seconds]
+味方全体が会心時に自身の最大HP【5％】分の回復=<cspace\=-0.07em><size\=90%>When any ally lands CRIT, all allies recover [5%] of their max HP
+味方全体が行動時に自身の最大HP【10％】分のダメージ=<cspace\=-0.07em><size\=90%>All allies take damage equal to [10%] of their max HP when they act

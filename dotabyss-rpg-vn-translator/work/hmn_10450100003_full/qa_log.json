@@ -1,0 +1,51 @@
+{
+  "scene": "hmn_10450100003",
+  "qa_status": "PASS",
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "delimiter_count_match": true,
+    "text_record_count": 101,
+    "translated_record_count": 101,
+    "unchanged_text_records": [],
+    "br_tag_mismatches": [],
+    "ascii_commas_in_vi_text": [],
+    "technical_field_changes": []
+  },
+  "linguistic_qa": {
+    "character_voice": "Iola: casual young female student, uses em/mình/tôi, addresses Commander as Thầy; Commander: uses tôi/anh, addresses Iola as em; Soldiers use Chỉ Huy for Commander",
+    "adult_content": "none (action/battle scene, no H18)",
+    "title_translated": true,
+    "title_vi": "Đi Nào! Hỏa Diễm Ma Pháp Của Tôi!",
+    "commander_translated_as": "Chỉ Huy",
+    "notes": "EN asset is English; title field still JP. Fixed 5 collapsed internal <br> to match EN authoritative count. Localized SFX/interjections."
+  },
+  "independent_verify": "PASS",
+  "manifest_updated": false,
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 1,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 101,
+  "translated_records": 101,
+  "changed_lines": 101,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2338,
+    "vi": 2338,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "06f3ccbaf1e8b5d332384f22b116428588d866ff2561cbfe1beb314911e64233",
+  "output_sha256": "25789d9da39e2ffd6d20636aa668ad2ca373fe3c6d6474d01aea95691fd9f60a"
+}

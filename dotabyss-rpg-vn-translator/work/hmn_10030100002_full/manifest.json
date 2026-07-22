@@ -1,0 +1,790 @@
+{
+  "scene": "hmn_10030100002",
+  "created_at": "2026-07-19T09:27:08.059852+00:00",
+  "source_paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10030100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10030100002\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10030100002.txt"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10030100002.txt",
+  "artifact_paths": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10030100002_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10030100002_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10030100002_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10030100002_full\\generate_vi.py"
+  },
+  "source_properties": {
+    "sha256": "5b722803862af1e7d255521a6bf25afafdb70e91174ef262d506ad7b19fa24fe",
+    "bytes": 22287,
+    "bom": true,
+    "encoding": "utf-8-sig",
+    "newline": "CRLF",
+    "line_count": 1033
+  },
+  "output_properties": {
+    "sha256": "cefa63dcdd149ed265005f91289f884e1b95f21d6876d4262263fc0b027af0e3",
+    "bytes": 24207,
+    "bom": true,
+    "encoding": "utf-8-sig",
+    "newline": "CRLF",
+    "line_count": 1033
+  },
+  "candidate_counts": {
+    "total": 72,
+    "title": 1,
+    "message": 69,
+    "messageTextUnder": 1,
+    "messageTextCenter": 1
+  },
+  "translated_records": 72,
+  "mapping_basis": "JP ja.json primary; EN en.json and EN asset used for ordered alignment/context; asset candidate order authoritative.",
+  "character_notes": {
+    "Marina": "Giữ tên Marina trong lời dịch; giọng thương nhân trêu chọc. 旦那さま rendered as anh yêu as scene-specific teasing address to Commander.",
+    "Commander": "<user>/司令官 rendered as anh/Chỉ Huy depending context."
+  },
+  "entries": [
+    {
+      "index": 1,
+      "line": 25,
+      "record_type": "title",
+      "speaker_or_empty": null,
+      "source_text": "ただ入札しているだけです♪",
+      "vi_text": "Chỉ Là Đang Đấu Giá Thôi Mà♪",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 2,
+      "line": 35,
+      "record_type": "messageTextCenter",
+      "speaker_or_empty": "",
+      "source_text": "<size=48>—Auction Hall</size>",
+      "vi_text": "<size=48>――Hội Trường Đấu Giá</size>",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 3,
+      "line": 71,
+      "record_type": "message",
+      "speaker_or_empty": "兵士Ａ",
+      "source_text": "K-90，000 gold...<br> ",
+      "vi_text": "C-chín vạn vàng...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 4,
+      "line": 113,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Then，100，000 gold!♪<br> ",
+      "vi_text": "Vậy thì mười vạn vàng nhé♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 5,
+      "line": 138,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Come on，100，000! Any more? This precious \"\"magic explosive stone\"\"!<br>You won't find it anywhere else!<br> ",
+      "vi_text": "Nào‚ mười vạn rồi! Còn ai trả mười vạn nữa không!<br>『Ma Đạo Bộc Thạch』 quý hiếm đây! Không nơi nào khác có đâu!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 6,
+      "line": 169,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Kuh... the winning bid is higher than planned. At this rate，we're in<br>trouble...<br> ",
+      "vi_text": "Khụ... Giá trúng thầu cao hơn dự tính rồi. Cứ thế này thì<br>không ổn mất...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 7,
+      "line": 180,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Oh dear，this is troubling，Honey.<br> ",
+      "vi_text": "Ôi chao‚ rắc rối rồi nhỉ‚ anh yêu.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 8,
+      "line": 182,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Whose fault do you think it is? You're the one driving up the prices，<br>aren't you!<br> ",
+      "vi_text": "Em nghĩ là tại ai hả!<br>Marina đang đẩy giá lên còn gì!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 9,
+      "line": 194,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "That's mutual，isn't it? I'm just placing bids!♪<br> ",
+      "vi_text": "Hai ta cũng như nhau thôi mà? Em chỉ đang ra giá thôi đấy chứ♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 10,
+      "line": 205,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "...But，Honey，do you really need to win it that badly?<br> ",
+      "vi_text": "...Nhưng mà‚ anh yêu‚ anh thật sự cần thắng bằng mọi giá đến thế sao?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 11,
+      "line": 207,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "It's a dangerous tool that can cause a massive explosion. If it goes<br>off at this base，that'd be a problem. I'd like to have the unit use it if possible.<br> ",
+      "vi_text": "Đó là đạo cụ nguy hiểm có thể gây nổ lớn đấy.<br>Nó mà phát nổ trong căn cứ này thì rắc rối lắm‚ nếu được thì anh muốn đơn vị sử dụng nó.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 12,
+      "line": 218,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Then it's fine if I win it instead of you，Honey，isn't it? It'll be safe in<br>my hands，and I can use it if necessary.<br> ",
+      "vi_text": "Vậy người giành được nó không phải anh mà là em cũng được nhỉ?<br>Nếu nằm trong tay em thì sẽ yên tâm hơn‚ khi cần em cũng có thể dùng mà.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 13,
+      "line": 220,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Hmm... that might be true，but...<br> ",
+      "vi_text": "Ừm... có lẽ đúng là vậy‚ nhưng...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 14,
+      "line": 245,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Any more? No? Then for 100，000，the young lady over there wins!<br> ",
+      "vi_text": "Còn ai không! Không có rồi nhỉ! Vậy với giá mười vạn‚ cô gái bên kia thắng thầu!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 15,
+      "line": 283,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Thank you very much.<br> ",
+      "vi_text": "Cảm ơn nhiều ạ～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 16,
+      "line": 285,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Tch! While I was hesitating... Ah well，I suppose it's fine. Knowing<br>Marina has it puts my mind at ease.<br> ",
+      "vi_text": "Khự! Trong lúc mình còn đang nghĩ thì...!<br>Thôi kệ vậy‚ đúng là nếu Marina giữ nó thì cũng yên tâm thật.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 17,
+      "line": 296,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Fufufu... This seems like it'll be in high demand at the Frontline Base.<br>I can't wait to decide how much to sell it for.<br> ",
+      "vi_text": "Fufufu... Món này xem ra sẽ rất được săn đón ở Tiền Đồn nhỉ.<br>Không biết nên rao bán với giá bao nhiêu đây‚ em háo hức quá～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 18,
+      "line": 298,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Wait，wait，wait! You're planning to sell it? Didn't you say you'd keep<br>it?<br> ",
+      "vi_text": "Khoan khoan khoan‚ em định bán nó thật à!?<br>Chẳng phải Marina sẽ giữ nó bên mình sao!?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 19,
+      "line": 309,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Of course I'll keep it. Until it sells，that is.<br> ",
+      "vi_text": "Tất nhiên em sẽ giữ bên mình rồi? Cho đến khi bán được thôi ạ.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 20,
+      "line": 311,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "You...! You played me!<br> ",
+      "vi_text": "Cô nàng này...! Em chơi anh một vố rồi đấy!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 21,
+      "line": 322,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Don't you worry. I'll keep it safe and sell it outside the base.♪<br> ",
+      "vi_text": "Xin anh cứ yên tâm. Em sẽ bảo đảm an toàn thật cẩn thận rồi bán cho người ở ngoài căn cứ mà♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 22,
+      "line": 334,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Come，come，no time for anger，Honey. The next auction item is<br>already up!<br> ",
+      "vi_text": "Nào nào‚ anh không có thời gian tức giận đâu‚ anh yêu.<br>Món đấu giá tiếp theo đã được mang ra rồi kìa～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 23,
+      "line": 336,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Tch...!<br> ",
+      "vi_text": "Khụ...!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 24,
+      "line": 361,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Now，next up is this! An item from distant Hourai，the 'Guardian<br>Stone Lantern'!<br> ",
+      "vi_text": "Nào‚ tiếp theo là món này!<br>Một vật phẩm đến từ vùng đất Hourai xa xôi‚ 『Thạch Đăng Hộ Mệnh』!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 25,
+      "line": 400,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "According to the catalog，it's a tool that can deploy a barrier on the<br>spot. It looks like you need this too，doesn't it，Honey?<br> ",
+      "vi_text": "Theo danh mục thì đây là đạo cụ có thể triển khai tường chắn ngay tại chỗ đấy.<br>Món này cũng có vẻ cần cho anh lắm nhỉ‚ anh yêu?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 26,
+      "line": 402,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Yeah，it's supposedly single-use，but I really want that<br>performance...!<br> ",
+      "vi_text": "Ừ‚ nghe nói chỉ dùng một lần‚ nhưng năng lực đó thì anh nhất định muốn có<br>lắm...!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 27,
+      "line": 427,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Alright，this one also starts at 10，000!<br> ",
+      "vi_text": "Nào‚ món này cũng bắt đầu từ một vạn!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 28,
+      "line": 429,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "I bid!<br> ",
+      "vi_text": "Tôi ra giá!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 29,
+      "line": 467,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Then I will too. 20，000! Now then，I wonder who will win this time!♪<br> ",
+      "vi_text": "Vậy em cũng tham gia. Hai vạn! Nào nào‚ lần này ai sẽ thắng đây♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 30,
+      "line": 469,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Tch... I'm not letting you win this time!<br> ",
+      "vi_text": "Khụ... Lần này anh tuyệt đối không nhường đâu!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 31,
+      "line": 480,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Oh dear，you're all fired up，Honey. I don't dislike a passionate man.<br> ",
+      "vi_text": "Ôi chao‚ anh đang hừng hực khí thế nhỉ‚ anh yêu. Em không ghét đàn ông nhiệt huyết đâu～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 32,
+      "line": 508,
+      "record_type": "message",
+      "speaker_or_empty": "兵士Ａ",
+      "source_text": "150，000!<br> ",
+      "vi_text": "Mười lăm vạn!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 33,
+      "line": 510,
+      "record_type": "message",
+      "speaker_or_empty": "兵士Ｂ",
+      "source_text": "180，000!<br> ",
+      "vi_text": "Mười tám vạn!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 34,
+      "line": 512,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Tch... 200，000!<br> ",
+      "vi_text": "Khụ... h-hai mươi vạn!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 35,
+      "line": 514,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "200，000! We have 200，000! Now，anyone else? This rare 'Guardian<br>Stone Lantern'!<br> ",
+      "vi_text": "Hai mươi vạn! Đã có hai mươi vạn‚ nào còn ai nữa không!<br>Đây là 『Thạch Đăng Hộ Mệnh』 quý hiếm đấy!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 36,
+      "line": 561,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Hmm，is that so? Then I'll bow out.<br> ",
+      "vi_text": "...Chắc đến đây là được rồi nhỉ. Em xin rút lui vậy～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 37,
+      "line": 563,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Yes! I win this time!<br> ",
+      "vi_text": "Tốt! Lần này là anh thắng rồi!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 38,
+      "line": 574,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Yes，I lost indeed. As expected of you，Honey.<br> ",
+      "vi_text": "Vâng‚ em thua mất rồi ạ. Quả không hổ là anh yêu.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 39,
+      "line": 576,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "You don't look upset at all，Marina...? ...Huh?<br> ",
+      "vi_text": "Marina‚ em trông chẳng tiếc nuối chút nào nhỉ...? ...Hử?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 40,
+      "line": 578,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Wait a minute，this price is way higher than the estimated price! So<br>that's why you backed off so easily!<br> ",
+      "vi_text": "Khoan đã‚ mức giá này cao hơn dự toán rất nhiều!<br>Vậy nên em mới rút lui nhẹ nhàng như thế à!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 41,
+      "line": 590,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "It's true that I would have wanted it if it were cheap，you know?<br>That's not a lie.<br> ",
+      "vi_text": "Nếu rẻ thì em thật sự cũng muốn có nó mà?<br>Điều đó không phải nói dối đâu ạ.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 42,
+      "line": 601,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "But the 'Guardian Stone Lantern' creates a barrier on the spot，so<br>it's not really suited for Abyss exploration，you know.<br> ",
+      "vi_text": "Nhưng 『Thạch Đăng Hộ Mệnh』 là đạo cụ dựng tường chắn tại chỗ mà.<br>Dùng cho việc thám hiểm Đại Huyệt thì hơi không hợp nhỉ.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 43,
+      "line": 612,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "As for whether it would fetch a high price at this base... I'm not so<br>sure about that.<br> ",
+      "vi_text": "Còn bảo liệu nó có bán được giá cao ở căn cứ này không thì...<br>không biết sẽ thế nào đây?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 44,
+      "line": 614,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "You knew that and dropped out... damn...<br> ",
+      "vi_text": "Em biết rõ nên mới rút lui à... khụ...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 45,
+      "line": 626,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Now things are getting exciting!♪ Here comes the next item，honey!<br> ",
+      "vi_text": "Nào‚ mọi chuyện bắt đầu thú vị rồi đấy♪ Đến món tiếp theo rồi‚ anh yêu!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 46,
+      "line": 653,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Now，are there any other bidders?<br> ",
+      "vi_text": "...Nào‚ còn vị nào khác không ạ?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 47,
+      "line": 708,
+      "record_type": "message",
+      "speaker_or_empty": "客たち",
+      "source_text": "Ugh...<br> ",
+      "vi_text": "Ư...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 48,
+      "line": 752,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Then，the Grand Spear of the Great Ice Tree goes to the young lady<br>over there for 50，000!<br> ",
+      "vi_text": "Vậy 『Đại Thương Cây Băng Khổng Lồ』 này sẽ thuộc về<br>cô gái bên kia với giá năm vạn!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 49,
+      "line": 763,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Thank you!♪<br> ",
+      "vi_text": "Cảm ơn ạ～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 50,
+      "line": 765,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Marina won again... And the price is right at the bottom of the<br>expected range.<br> ",
+      "vi_text": "Lại là Marina thắng à...<br>Mà giá cũng sát mức thấp nhất của giá trúng thầu dự kiến còn gì.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 51,
+      "line": 777,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Since no one else seemed to be bidding much，I'll take it off your<br>hands!♪<br> ",
+      "vi_text": "Vì mọi người có vẻ không ra giá nhiều lắm nên<br>em xin phép nhận lấy vậy～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 52,
+      "line": 786,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "You can bid against me too，you know，honey?♪<br> ",
+      "vi_text": "Anh yêu cũng cứ cạnh tranh với em cũng được mà?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 53,
+      "line": 788,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "The item I'm after hasn't come up yet. I can't afford to spend any<br>more funds.<br> ",
+      "vi_text": "Món anh nhắm tới vẫn chưa xuất hiện.<br>Anh không thể tiêu thêm tiền được nữa.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 54,
+      "line": 799,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Indeed. Thanks to everyone's enthusiasm，the early items went for<br>quite high prices，you see.<br> ",
+      "vi_text": "Đúng vậy nhỉ. Nhờ mọi người hào hứng mà<br>những món ở nửa đầu đều đạt giá khá cao rồi.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 55,
+      "line": 810,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "It's only natural to worry about your remaining budget. A wise<br>decision，honey.♪<br> ",
+      "vi_text": "Anh lo lắng về ngân sách còn lại cũng là chuyện dễ hiểu.<br>Đúng là phán đoán bình tĩnh đấy‚ anh yêu♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 56,
+      "line": 812,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "...No way... Is this all going according to your plan?<br> ",
+      "vi_text": "...Chẳng lẽ tất cả đều đúng như em tính toán sao?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 57,
+      "line": 814,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "You drove up the prices on the early items so you could win the later<br>ones cheap，didn't you!<br> ",
+      "vi_text": "Em đẩy giá lên ngay từ đầu<br>để có thể thắng các món sau với giá rẻ hơn à!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 58,
+      "line": 826,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Not at all!♪ Everyone just had fun participating in the auction，right?<br> ",
+      "vi_text": "Làm gì có chuyện đó ạ. Mọi người chỉ vui vẻ tham gia đấu giá thôi‚ đúng không nào?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 59,
+      "line": 828,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "That's rich...! You really tricked me!<br> ",
+      "vi_text": "Giả nai quá đấy...! Em dám lừa anh như vậy sao!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 60,
+      "line": 839,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "That bitter tone of yours is like a cheer to me. I'd love to hear<br>more!♪<br> ",
+      "vi_text": "Giọng điệu cay cú ấy đối với em chẳng khác nào tiếng reo hò cổ vũ.<br>Em muốn được nghe nhiều hơn nữa cơ♪<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 61,
+      "line": 841,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "I'm beat... I've been completely outplayed so far. But the game is still<br>on.<br> ",
+      "vi_text": "Thua thật rồi... Tới giờ mình toàn bị dắt mũi thôi sao.<br>Nhưng cuộc đấu còn chưa kết thúc đâu.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 62,
+      "line": 852,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Oh my，I can't wait.<br>Ufufufufu.<br> ",
+      "vi_text": "Ôi‚ em mong lắm đấy.<br>Ufufufufu～.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 63,
+      "line": 867,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "*You're naive，Marina... You're probably thinking my target is the<br>main attraction，the Ancient Orb.*<br> ",
+      "vi_text": "（Marina‚ em còn non lắm. Dù sao em cũng nghĩ mục tiêu của anh là<br>món tâm điểm 『Quả Cầu Cổ Đại』 chứ gì）<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 64,
+      "line": 869,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "*Sorry to disappoint，but I have no interest in that. As long as my<br>true target stays hidden，I can't lose.*<br> ",
+      "vi_text": "（Tiếc là anh chẳng hứng thú gì với thứ đó.<br>Chừng nào món anh thật sự muốn còn chưa bị lộ‚ anh sẽ không thua đâu）<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 65,
+      "line": 884,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "... I'll make you regret challenging this Frontline Base Commander，<br>Marina.<br> ",
+      "vi_text": "...Anh sẽ khiến em hối hận vì đã thách thức vị Chỉ Huy Tiền Đồn này đấy‚<br>Marina.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 66,
+      "line": 911,
+      "record_type": "message",
+      "speaker_or_empty": "主催者",
+      "source_text": "Now then! At last，today's main attraction! The Ancient Orb makes its<br>appearance!<br> ",
+      "vi_text": "Nào! Cuối cùng cũng đến món tâm điểm hôm nay!<br>『Quả Cầu Cổ Đại』 xuất hiện rồi!<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 67,
+      "line": 949,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "There it is，Honey. An orb containing a powerful sealed<br>monster—you'll be securing that one，of course?<br> ",
+      "vi_text": "Ra rồi nhỉ‚ anh yêu.<br>Quả cầu phong ấn một quái vật hùng mạnh‚ tất nhiên anh sẽ giành lấy nó chứ?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 68,
+      "line": 951,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "Alicia told me to win the bid，but as the main attraction，it'll be<br>pricey. If I don't have enough gold，then so be it.<br> ",
+      "vi_text": "Alicia có bảo anh phải thắng thầu.<br>Nhưng đã là món tâm điểm thì chắc đắt lắm‚ nếu không đủ tiền thì cũng đành chịu thôi.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 69,
+      "line": 962,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "Oh my，you're not as invested as I thought? If the monster's seal<br>were to break here at the base，that would be a disaster，you know?<br> ",
+      "vi_text": "Ôi chao‚ anh không cố chấp như em tưởng nhỉ?<br>Nếu phong ấn quái vật bị giải ở ngay căn cứ này thì sẽ nguy to đấy?<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 70,
+      "line": 964,
+      "record_type": "message",
+      "speaker_or_empty": "<user>",
+      "source_text": "It's dangerous，but as the main attraction，it'll be secured. Even the<br>winning bidder wouldn't treat it carelessly.<br> ",
+      "vi_text": "Tất nhiên là nguy hiểm‚ nhưng đã là món tâm điểm thì hẳn được quản lý chặt chẽ.<br>Người thắng thầu cũng sẽ không đối xử cẩu thả với một vật phẩm đắt giá đâu.<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 71,
+      "line": 975,
+      "record_type": "message",
+      "speaker_or_empty": "マリナ",
+      "source_text": "I hope you're right...<br> ",
+      "vi_text": "Nếu đúng vậy thì tốt...<br> ",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    },
+    {
+      "index": 72,
+      "line": 1024,
+      "record_type": "messageTextUnder",
+      "speaker_or_empty": "",
+      "source_text": "At the same time Marina murmured those words，the Ancient Orb was beginning to emit a dark aura，slowly spreading—",
+      "vi_text": "Cùng lúc Marina khẽ lẩm bẩm‚ 『Quả Cầu Cổ Đại』 bắt đầu chầm chậm tỏa ra một luồng hào quang màu bóng tối――",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "translation_status": "TRANSLATED"
+    }
+  ],
+  "qa_status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10030100002",
+    "status": "PASS",
+    "en_sha256": "5b722803862af1e7d255521a6bf25afafdb70e91174ef262d506ad7b19fa24fe",
+    "vi_sha256": "cefa63dcdd149ed265005f91289f884e1b95f21d6876d4262263fc0b027af0e3",
+    "line_count_en": 1033,
+    "line_count_vi": 1033,
+    "bom_match": true,
+    "newline_en": "CRLF",
+    "newline_vi": "CRLF",
+    "candidate_records": 72,
+    "changed_text_records": 72,
+    "delimiter_mismatches": [],
+    "technical_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_commas_in_text": [],
+    "unchanged_text_records": [],
+    "targeted_english_leftovers": [],
+    "qa_log_status": "PASS",
+    "qa_log_blockers": 0
+  }
+}

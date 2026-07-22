@@ -1,0 +1,885 @@
+{
+  "scene": "hmn_10140100003",
+  "qa_status": "PASS",
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_match": true,
+    "text_record_count": 104,
+    "command_counts": {
+      "title": 1,
+      "message": 103
+    }
+  },
+  "linguistic_qa": {
+    "jp_primary_en_alignment_only": true,
+    "commander_term": "Chỉ Huy",
+    "title_case_vi": true,
+    "ascii_comma_policy": "No ASCII comma added inside Vietnamese text fields; U+201A used where a comma pause was needed.",
+    "h18": "No explicit H18 content in this scene; project adult confirmation noted.",
+    "unresolved_items": []
+  },
+  "text_records": 104,
+  "mapping": [
+    {
+      "record_index": 1,
+      "line": 23,
+      "command": "title",
+      "status": "TRANSLATED",
+      "source_text": "In an Isekai Without a Smartphone",
+      "vi_text": "Ở Dị Giới Không Có Smartphone"
+    },
+    {
+      "record_index": 2,
+      "line": 48,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Hey，where to next?<br> ",
+      "vi_text": "Này‚ tiếp theo mình đi đâu vậy?<br> "
+    },
+    {
+      "record_index": 3,
+      "line": 50,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I'll buy you whatever you want at the market. Pick something that<br>might cheer you up.<br> ",
+      "vi_text": "Ra chợ anh sẽ mua cho em thứ em thích. Thấy món nào có vẻ làm em<br>vui lên thì cứ chọn.<br> "
+    },
+    {
+      "record_index": 4,
+      "line": 61,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "For real? Think there are any games?<br> ",
+      "vi_text": "Thật hả? Không biết có game không nhỉ?<br> "
+    },
+    {
+      "record_index": 5,
+      "line": 84,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Alright，I'll ask. Shopkeeper，where are the games kept?<br> ",
+      "vi_text": "Được‚ để anh hỏi thử. Chủ tiệm‚ game được để ở khu nào?<br> "
+    },
+    {
+      "record_index": 6,
+      "line": 106,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "They're all piled up over there.<br> ",
+      "vi_text": "Đều gom lại ở đằng kia đấy ạ.<br> "
+    },
+    {
+      "record_index": 7,
+      "line": 146,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Ah，no video games after all. Bummer.<br> ",
+      "vi_text": "Aaa‚ quả nhiên không có video game rồi. Chán ghê.<br> "
+    },
+    {
+      "record_index": 8,
+      "line": 148,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Nothing you wanted...? Any games you know of?<br> ",
+      "vi_text": "Không có thứ em muốn à…? Có game nào em biết không?<br> "
+    },
+    {
+      "record_index": 9,
+      "line": 160,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Oh，playing cards.<br> ",
+      "vi_text": "À‚ bài Tây kìa.<br> "
+    },
+    {
+      "record_index": 10,
+      "line": 162,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Playing cards... The card game kind.<br> ",
+      "vi_text": "Bài Tây… kiểu trò chơi bài nhỉ.<br> "
+    },
+    {
+      "record_index": 11,
+      "line": 173,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "It's an analog game，but hey，a game's a game.<br> ",
+      "vi_text": "Tuy là game analog nhưng dù sao game vẫn là game mà.<br> "
+    },
+    {
+      "record_index": 12,
+      "line": 175,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I'll buy them just in case. Shopkeeper，I'll take these.<br> ",
+      "vi_text": "Cứ mua thử đã. Chủ tiệm‚ cho tôi lấy bộ này.<br> "
+    },
+    {
+      "record_index": 13,
+      "line": 221,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Thanks.<br> ",
+      "vi_text": "Cảm ơn ạ.<br> "
+    },
+    {
+      "record_index": 14,
+      "line": 223,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Pico，is there anything else you're looking for besides games?<br> ",
+      "vi_text": "Pico‚ ngoài game ra em còn tìm thứ gì nữa không?<br> "
+    },
+    {
+      "record_index": 15,
+      "line": 234,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Got a gaming PC? And high-end Bluetooth headphones for my phone!<br> ",
+      "vi_text": "Có PC gaming không? Với cả tai nghe Bluetooth cao cấp kết nối được với điện thoại!<br> "
+    },
+    {
+      "record_index": 16,
+      "line": 245,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "What kind of spell is that?<br> ",
+      "vi_text": "…Đó là bùa chú gì vậy ạ?<br> "
+    },
+    {
+      "record_index": 17,
+      "line": 247,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "No clue...<br> ",
+      "vi_text": "Không biết nữa…<br> "
+    },
+    {
+      "record_index": 18,
+      "line": 295,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Uwaaah! I wanna go back to my world!<br> ",
+      "vi_text": "Uaaaah! Mình muốn về thế giới cũ quá đi!<br> "
+    },
+    {
+      "record_index": 19,
+      "line": 297,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Hmm... Let's just move on for now...<br> ",
+      "vi_text": "Ừm… Tạm thời chuyển chỗ đã nhỉ…<br> "
+    },
+    {
+      "record_index": 20,
+      "line": 352,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "What's this place?<br> ",
+      "vi_text": "Đây là đâu vậy?<br> "
+    },
+    {
+      "record_index": 21,
+      "line": 354,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "It's the Command Room.<br> ",
+      "vi_text": "Phòng chỉ huy.<br> "
+    },
+    {
+      "record_index": 22,
+      "line": 365,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I know that already! What are you up to，dragging me in here all of a<br>sudden?<br> ",
+      "vi_text": "Cái đó mình biết rồi. Đột nhiên kéo mình vào đây<br>là định làm gì?<br> "
+    },
+    {
+      "record_index": 23,
+      "line": 367,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Don't be weird. I just thought we could play with the cards I bought.<br>You like games，right?<br> ",
+      "vi_text": "Đừng nói kỳ quặc thế. Anh chỉ định cùng em chơi bộ bài vừa mua thôi.<br>Em thích game mà‚ đúng không?<br> "
+    },
+    {
+      "record_index": 24,
+      "line": 401,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "We could play all sorts of games，but it's just the two of us... Wanna<br>try Speed? Or Memory，or Sevens?<br> ",
+      "vi_text": "Chơi được nhiều trò lắm nhưng chỉ có hai người thôi… Muốn thử<br>Speed không? Hoặc Memory‚ Sevens gì đó?<br> "
+    },
+    {
+      "record_index": 25,
+      "line": 403,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I'm down for whatever.<br> ",
+      "vi_text": "Trò nào anh cũng chơi cùng được.<br> "
+    },
+    {
+      "record_index": 26,
+      "line": 414,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Huh? You seem pretty confident?<br> ",
+      "vi_text": "Ủa? Trông anh có vẻ tự tin ghê?<br> "
+    },
+    {
+      "record_index": 27,
+      "line": 416,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "You gotta be quick on your feet to be the Commander.<br> ",
+      "vi_text": "Không nhanh trí thì không làm Chỉ Huy được đâu.<br> "
+    },
+    {
+      "record_index": 28,
+      "line": 427,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...I'm getting a little scared now. This isn't strip poker，is it?<br> ",
+      "vi_text": "…Tự nhiên mình hơi sợ rồi đó. Đây không phải bài cởi đồ đúng không?<br> "
+    },
+    {
+      "record_index": 29,
+      "line": 429,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "No!<br> ",
+      "vi_text": "Không phải!<br> "
+    },
+    {
+      "record_index": 30,
+      "line": 440,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "But what if I lose at high stakes and have to go to an underground<br>labor facility? Seriously，no way!<br> ",
+      "vi_text": "Lỡ thật ra thua cược lớn là bị đưa xuống cơ sở lao động ngầm thì<br>mình chịu không nổi đâu nha!?<br> "
+    },
+    {
+      "record_index": 31,
+      "line": 442,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "That's not happening either. It's a proper game，so relax.<br> ",
+      "vi_text": "Cũng không có chuyện đó. Đây là trò chơi lành mạnh nên yên tâm đi.<br> "
+    },
+    {
+      "record_index": 32,
+      "line": 453,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Alright then! Let the games begin!<br> ",
+      "vi_text": "Vậy thì ổn! Nào‚ bắt đầu game thôi!<br> "
+    },
+    {
+      "record_index": 33,
+      "line": 494,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I lost again... That's six in a row?<br> ",
+      "vi_text": "L-lại thua nữa… sáu trận liên tiếp?<br> "
+    },
+    {
+      "record_index": 34,
+      "line": 505,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Ugh，I got totally wrecked by an analog gamer from another world...<br>It's definitely a beginner's trap... So deflating...<br> ",
+      "vi_text": "Ưư‚ mình bị gamer analog dị giới săn gà rồi…<br>Chắc chắn là lừa người mới mà… tụt mood quá…<br> "
+    },
+    {
+      "record_index": 35,
+      "line": 507,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "You said you liked games，so it'd be rude to go easy on you. Sorry for<br>dragging you into something you're not good at. Forgive me.<br> ",
+      "vi_text": "Em nói mình thích game nên anh nghĩ nương tay thì thất lễ… Xin lỗi vì<br>đã bắt em chơi thứ em không giỏi. Tha cho anh nhé.<br> "
+    },
+    {
+      "record_index": 36,
+      "line": 518,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "This is a crappy game! I'm never playing cards with you again!<br> ",
+      "vi_text": "Cái này là game rác‚ rác thật luôn. Mình không bao giờ chơi bài với Chỉ Huy nữa.<br> "
+    },
+    {
+      "record_index": 37,
+      "line": 529,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...I've gotta study the patterns and priorities before next time.<br> ",
+      "vi_text": "…Trước lần sau phải xem lại mẫu hình và thứ tự ưu tiên mới được.<br> "
+    },
+    {
+      "record_index": 38,
+      "line": 531,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "You said you'd never play again，but you're super motivated...<br> ",
+      "vi_text": "Vừa nói không bao giờ chơi nữa mà em hăng hái ghê nhỉ…<br> "
+    },
+    {
+      "record_index": 39,
+      "line": 542,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I'm a hardcore gamer! The real match starts after I get used to it!<br> ",
+      "vi_text": "Mình là gamer cày cuốc mà! Quen tay rồi mới là lúc vào trận thật!<br> "
+    },
+    {
+      "record_index": 40,
+      "line": 553,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "But I can't look up card strategies... I wanna get online...<br> ",
+      "vi_text": "Ưư‚ nhưng không có cách tra chiến thuật bài Tây… Mình muốn lên mạng quá…<br> "
+    },
+    {
+      "record_index": 41,
+      "line": 568,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(I thought it would be a distraction，but playing games from her world<br>just made her miss it more...)<br> ",
+      "vi_text": "(Anh tưởng nó sẽ giúp em đổi gió‚ nhưng chơi game từ thế giới cũ<br>lại chỉ khiến em nhớ bên đó hơn sao…)<br> "
+    },
+    {
+      "record_index": 42,
+      "line": 592,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "So，Commaander，shouldn't we go to Adelheid's soon? The charging's<br>probably done by now.<br> ",
+      "vi_text": "Vậy Chỉ Huy ơi‚ mình qua chỗ Adelheid chưa? Chắc điện thoại<br>sạc xong rồi đó.<br> "
+    },
+    {
+      "record_index": 43,
+      "line": 596,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...No，there's still somewhere I want to go. We'll head out after I take<br>care of this.<br> ",
+      "vi_text": "…Không‚ anh vẫn còn một nơi muốn đi. Dọn xong rồi<br>ra ngoài nào.<br> "
+    },
+    {
+      "record_index": 44,
+      "line": 600,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "The door opened with a clatter!<br> ",
+      "vi_text": "Cửa mở đánh cạch!<br> "
+    },
+    {
+      "record_index": 45,
+      "line": 650,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Commander! We've received huge bills from the Tavern and Market!<br>Please explain what's going on!<br> ",
+      "vi_text": "Chỉ Huy! Quán Rượu và Chợ gửi hóa đơn khổng lồ tới rồi đây!<br>Xin hãy giải thích chuyện này là sao!<br> "
+    },
+    {
+      "record_index": 46,
+      "line": 691,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Oh crap! Pico，we're escaping through the window!<br> ",
+      "vi_text": "Chết rồi! Pico‚ trốn qua cửa sổ thôi!<br> "
+    },
+    {
+      "record_index": 47,
+      "line": 727,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "*whew*... we managed to lose Alicia. So，what do you think? This<br>place.<br> ",
+      "vi_text": "Phù… bằng cách nào đó cũng cắt đuôi được Alicia rồi. Thế nào?<br>Chỗ này ấy.<br> "
+    },
+    {
+      "record_index": 48,
+      "line": 791,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "There's nothing here，though?<br> ",
+      "vi_text": "Có gì đâu?<br> "
+    },
+    {
+      "record_index": 49,
+      "line": 793,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "That's what's good about it. When I don't want to think or I'm fed up<br>with work，I come here to lie down and look at the sky.<br> ",
+      "vi_text": "Đó chính là điểm hay của nơi này. Khi không muốn nghĩ gì hoặc chán ngấy<br>công việc‚ anh đến đây nằm dài ngắm trời.<br> "
+    },
+    {
+      "record_index": 50,
+      "line": 804,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Hmm... so it's Commaander's rest spot.<br> ",
+      "vi_text": "Hừm… chỗ nghỉ của Chỉ Huy à.<br> "
+    },
+    {
+      "record_index": 51,
+      "line": 806,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Nice view，right? Not a bad place to relax，is it?<br> ",
+      "vi_text": "Cảnh đẹp đúng không? Thỉnh thoảng thong thả ở nơi như thế này cũng đâu tệ nhỉ?<br> "
+    },
+    {
+      "record_index": 52,
+      "line": 817,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "If I'm gonna relax，I'd rather be inside. I hate being near grass<br>because of the bugs.<br> ",
+      "vi_text": "Muốn thong thả thì ở trong phòng vẫn hơn. Mình ghét gần cỏ<br>vì sẽ có côn trùng bay tới.<br> "
+    },
+    {
+      "record_index": 53,
+      "line": 819,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Then how about some exercise instead of relaxing?<br> ",
+      "vi_text": "Vậy không thong thả nữa‚ thử vận động chút nhé?<br> "
+    },
+    {
+      "record_index": 54,
+      "line": 830,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Do I look like the type to relieve stress with exercise?<br> ",
+      "vi_text": "Trông mình giống kiểu giải tỏa stress bằng vận động à?<br> "
+    },
+    {
+      "record_index": 55,
+      "line": 832,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...No，you don't.<br> ",
+      "vi_text": "…Không giống.<br> "
+    },
+    {
+      "record_index": 56,
+      "line": 843,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Besides，you don't look like you're good at exercise either，<br>Commaander.<br> ",
+      "vi_text": "Mà nói vậy chứ Chỉ Huy cũng đâu có vẻ giỏi<br>vận động.<br> "
+    },
+    {
+      "record_index": 57,
+      "line": 845,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...You're right. I just laze around here all the time.<br> ",
+      "vi_text": "…Đúng vậy thật. Anh lúc nào cũng chỉ nằm ườn ở đây thôi.<br> "
+    },
+    {
+      "record_index": 58,
+      "line": 856,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Self-burn!<br> ",
+      "vi_text": "Tự hủy luôn kìa!<br> "
+    },
+    {
+      "record_index": 59,
+      "line": 891,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Hmm... so this place won't work either.<br> ",
+      "vi_text": "Ừm… nơi này cũng không thành chỗ giúp em vui được à.<br> "
+    },
+    {
+      "record_index": 60,
+      "line": 919,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "After Pico calmed down，the two returned inside the Frontline Base.<br>Their steps were heavy as they trudged along listlessly.<br> ",
+      "vi_text": "Sau khi Pico bình tĩnh lại‚ cả hai trở về trong Căn Cứ Tiền Tuyến.<br>Bước chân họ nặng nề‚ lê đi một cách uể oải.<br> "
+    },
+    {
+      "record_index": 61,
+      "line": 931,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...Pico，you okay?<br> ",
+      "vi_text": "…Pico‚ em ổn không?<br> "
+    },
+    {
+      "record_index": 62,
+      "line": 940,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...Not really. I'm tired.<br> ",
+      "vi_text": "…Không hẳn. Mệt rồi.<br> "
+    },
+    {
+      "record_index": 63,
+      "line": 942,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I see...<br> ",
+      "vi_text": "Vậy à…<br> "
+    },
+    {
+      "record_index": 64,
+      "line": 957,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(I tried all sorts of things，but in the end I couldn't help her...)<br> ",
+      "vi_text": "(Anh đã thử đủ cách‚ nhưng rốt cuộc vẫn chẳng giúp được em ấy…)<br> "
+    },
+    {
+      "record_index": 65,
+      "line": 990,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Ah...!<br>Aaaaaah!<br> ",
+      "vi_text": "A…!<br>Aaaaa!<br> "
+    },
+    {
+      "record_index": 66,
+      "line": 992,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "What's wrong?<br> ",
+      "vi_text": "Sao vậy?<br> "
+    },
+    {
+      "record_index": 67,
+      "line": 1001,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "It's a kitty!<br>Look，over there! Over there!<br> ",
+      "vi_text": "Mèo con kìa!<br>Nhìn đi‚ đằng kia! Đằng kia đó!<br> "
+    },
+    {
+      "record_index": 68,
+      "line": 1003,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "A cat...?<br> ",
+      "vi_text": "Mèo…?<br> "
+    },
+    {
+      "record_index": 69,
+      "line": 1005,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Meow?<br> ",
+      "vi_text": "Meo?<br> "
+    },
+    {
+      "record_index": 70,
+      "line": 1030,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Will it come here? Will it come?<br>Pspspsps...<br> ",
+      "vi_text": "Nó có lại đây không? Có lại không?<br>Chíp chíp chíp…<br> "
+    },
+    {
+      "record_index": 71,
+      "line": 1032,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "The cat slowly approached Pico.<br> ",
+      "vi_text": "Con mèo chậm rãi tiến lại gần Pico.<br> "
+    },
+    {
+      "record_index": 72,
+      "line": 1043,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Wowaaah! It's so friendly!<br>So cute!<br> ",
+      "vi_text": "Hoaaa! Nó thân người quá!<br>Dễ thương ghê!<br> "
+    },
+    {
+      "record_index": 73,
+      "line": 1045,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I think someone around the base feeds this cat.<br> ",
+      "vi_text": "Hình như có ai đó trong căn cứ vẫn cho con mèo này ăn.<br> "
+    },
+    {
+      "record_index": 74,
+      "line": 1071,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Srsly!? I wanna play too! I wanna play with some kittehs!<br> ",
+      "vi_text": "Thật á!? Mình cũng muốn làm! Muốn chơi với mèo méo meo!<br> "
+    },
+    {
+      "record_index": 75,
+      "line": 1073,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...I'll introduce you tomorrow.<br> ",
+      "vi_text": "…Mai anh giới thiệu cho.<br> "
+    },
+    {
+      "record_index": 76,
+      "line": 1084,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Yay!<br>I'm so happy!<br> ",
+      "vi_text": "Hoan hô!<br>Vui quá đi.<br> "
+    },
+    {
+      "record_index": 77,
+      "line": 1086,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "So you like cats?<br> ",
+      "vi_text": "Em thích mèo à?<br> "
+    },
+    {
+      "record_index": 78,
+      "line": 1097,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Yeah! Even my costume and hair are cat-themed，you know.<br>If I can play with cats，maybe I can get by in this world. Meow?<br> ",
+      "vi_text": "Ừ! Đến cả trang phục và kiểu tóc của mình cũng lấy chủ đề mèo mà.<br>Nếu được chơi với mèo thì ở thế giới này mình cũng sống nổi đó. Meo?<br> "
+    },
+    {
+      "record_index": 79,
+      "line": 1099,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Meow.<br> ",
+      "vi_text": "Meo.<br> "
+    },
+    {
+      "record_index": 80,
+      "line": 1110,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Meow! Fufufu.<br> ",
+      "vi_text": "Meo! Hì hì hì.<br> "
+    },
+    {
+      "record_index": 81,
+      "line": 1125,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(Pico is laughing! What a relief...)<br> ",
+      "vi_text": "(Pico đang cười! May quá…)<br> "
+    },
+    {
+      "record_index": 82,
+      "line": 1127,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(But...)<br> ",
+      "vi_text": "(…Nhưng mà)<br> "
+    },
+    {
+      "record_index": 83,
+      "line": 1129,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(She was complaining so much just now，but just meeting a cat...?<br>W-what about everything I did today...?!)<br> ",
+      "vi_text": "(Mới vừa nãy em ấy còn than thở nhiều như thế‚ vậy mà chỉ gặp mèo thôi sao…?<br>R-rốt cuộc những việc anh làm hôm nay là gì đây…!?)<br> "
+    },
+    {
+      "record_index": 84,
+      "line": 1154,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Hey，Commander. Since I'm feeling better thanks to that kitty，I'll say<br>this now—<br> ",
+      "vi_text": "…Này‚ Chỉ Huy. Nhờ mèo con mà mình khỏe lên rồi nên mình sẽ nói<br>vào lúc này nhé—<br> "
+    },
+    {
+      "record_index": 85,
+      "line": 1165,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Thanks for today.<br> ",
+      "vi_text": "Cảm ơn anh vì cả ngày hôm nay.<br> "
+    },
+    {
+      "record_index": 86,
+      "line": 1167,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "You're welcome. Though I wasn't much help.<br> ",
+      "vi_text": "Không có gì. Dù anh cũng chẳng giúp được bao nhiêu.<br> "
+    },
+    {
+      "record_index": 87,
+      "line": 1179,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Huh? That's not true. I was really happy you took me around. And<br>escaping from Alicia was fun too.<br> ",
+      "vi_text": "Hả? Không phải vậy đâu. Anh dẫn mình đi khắp nơi‚ mình thật sự vui lắm.<br>Với cả chạy trốn Alicia-tan cũng vui nữa.<br> "
+    },
+    {
+      "record_index": 88,
+      "line": 1190,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "When I'm alone，I tend to brood and feel down. I only realized that<br>because you took me around，Commander.<br> ",
+      "vi_text": "Ở một mình thì hình như mình lại nghĩ đủ thứ rồi tụt mood. Mình nhận ra điều đó<br>cũng là nhờ Chỉ Huy kéo mình đi vòng vòng đó.<br> "
+    },
+    {
+      "record_index": 89,
+      "line": 1201,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Back in my original world，even when I was alone in my room，I had<br>everyone online，so I didn't feel alone. But here，it's different.<br> ",
+      "vi_text": "Khi còn ở thế giới cũ‚ dù một mình trong phòng thì vẫn có mọi người kết nối<br>qua mạng nên mình không thấy cô đơn. Nhưng ở đây thì khác.<br> "
+    },
+    {
+      "record_index": 90,
+      "line": 1213,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "So while I'm in this world，I'm going to enjoy spending time with<br>people.<br> ",
+      "vi_text": "Vậy nên trong lúc ở thế giới này‚ mình sẽ thử tận hưởng thời gian bên<br>người khác.<br> "
+    },
+    {
+      "record_index": 91,
+      "line": 1215,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I see. If you can think that way，that's a relief. It was worth taking<br>you out.<br> ",
+      "vi_text": "Vậy à. Nếu em có thể nghĩ tích cực như thế thì anh cũng yên tâm.<br>Công dẫn em ra ngoài không uổng rồi.<br> "
+    },
+    {
+      "record_index": 92,
+      "line": 1217,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Though I can't help but be amazed at your dramatic change.<br> ",
+      "vi_text": "Dù sự thay đổi kịch tính của Pico vẫn khiến anh phải ngạc nhiên.<br> "
+    },
+    {
+      "record_index": 93,
+      "line": 1228,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Ehehe. I've started to think this world isn't so bad.<br> ",
+      "vi_text": "Ê hê hê. Mình bắt đầu nghĩ thế giới này cũng không tệ lắm rồi.<br> "
+    },
+    {
+      "record_index": 94,
+      "line": 1239,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "I think I found the good thing about this world.<br> ",
+      "vi_text": "Có lẽ mình đã tìm thấy điểm hay của thế giới này.<br> "
+    },
+    {
+      "record_index": 95,
+      "line": 1241,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Well，well. All thanks to the cat.<br> ",
+      "vi_text": "Chịu em thật. Tất cả là nhờ mèo nhỉ.<br> "
+    },
+    {
+      "record_index": 96,
+      "line": 1252,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Wrong，wrong. It's not the cat. Cats exist in my original world too.<br>Even without that cat，I definitely would've thanked you，Commander.<br> ",
+      "vi_text": "Không không. Không phải mèo đâu. Ở thế giới cũ bên kia cũng có mèo mà.<br>Dù không gặp con mèo đó‚ mình chắc chắn vẫn sẽ cảm ơn Chỉ Huy.<br> "
+    },
+    {
+      "record_index": 97,
+      "line": 1254,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "From the way you put it，it's something that only exists in this world?<br> ",
+      "vi_text": "Cách em nói thì đó là thứ chỉ có ở thế giới này à?<br> "
+    },
+    {
+      "record_index": 98,
+      "line": 1265,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Yep!<br> ",
+      "vi_text": "Ừm!<br> "
+    },
+    {
+      "record_index": 99,
+      "line": 1267,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "...Did I introduce something like that today?<br> ",
+      "vi_text": "…Hôm nay anh có giới thiệu thứ như vậy sao?<br> "
+    },
+    {
+      "record_index": 100,
+      "line": 1293,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(Hmm... For a Commander，you're surprisingly dense.)<br> ",
+      "vi_text": "(Hừm… là Chỉ Huy mà không ngờ lại chậm hiểu ghê.)<br> "
+    },
+    {
+      "record_index": 101,
+      "line": 1304,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "(Since he seems worried about me，I'm going to rely on him a lot from<br>now on!♪)<br> ",
+      "vi_text": "(Có vẻ anh ấy lo cho mình‚ từ giờ mình sẽ dựa dẫm thật nhiều<br>luôn♪)<br> "
+    },
+    {
+      "record_index": 102,
+      "line": 1321,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "What're you grinning about?<br> ",
+      "vi_text": "Em cười tủm tỉm gì thế?<br> "
+    },
+    {
+      "record_index": 103,
+      "line": 1355,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Nothin'! Let's get Adelheid to give my smartphone back. Then you can<br>help me film again.<br> ",
+      "vi_text": "Hổng có gì! Đi lấy smartphone từ Adelheid về thôi! Sau đó<br>lại giúp mình quay phim nhé!<br> "
+    },
+    {
+      "record_index": 104,
+      "line": 1363,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_text": "Alright，alright. Don't drag me.<br> ",
+      "vi_text": "Rồi rồi. Đừng kéo anh.<br> "
+    }
+  ],
+  "errors": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 103,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 104,
+  "translated_records": 104,
+  "changed_lines": 104,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1372,
+    "vi": 1372,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "88a8ba88c6a1ac8461ef56adafe9114f4d024016604aa7d4d3211340aada5ef4",
+  "output_sha256": "2584046a03f5d1b92719fbe4d7f2cd63ea4027bd22a3ddb7a4b6e79526cbbe9e"
+}

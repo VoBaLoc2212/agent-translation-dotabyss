@@ -1,0 +1,80 @@
+{
+  "scene": "hmn_10320100003",
+  "en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10320100003.txt",
+  "vi_output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10320100003.txt",
+  "ja_json": "dotabyss-translation-main/translations/novels/hmn_10320100003/ja.json",
+  "en_json": "dotabyss-translation-main/translations/novels/hmn_10320100003/en.json",
+  "en_condition": "en-asset-is-English (en.json holds non-empty EN; title field still JP)",
+  "text_command_counts": {
+    "title": 1,
+    "message": 116,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 117
+  },
+  "translatable_records": 117,
+  "translated_records": 117,
+  "characters": {
+    "Daria": {
+      "speaker_label": "ダリア (kept JP verbatim)",
+      "addresses_commander": "sếp (親方)",
+      "self_address": "em",
+      "voice": "earnest former-thief/miner, em-anh with Commander"
+    },
+    "girl": {
+      "speaker_label": "少女 (kept JP verbatim)",
+      "addresses_daria": "chị gái (おねえちゃん)",
+      "addresses_commander": "ông (おじさん)",
+      "voice": "childish, loyal to Daria"
+    },
+    "commander": {
+      "speaker_label": "<user> (engine key, kept)",
+      "referred_as": "Chỉ Huy (司令官) / sếp (親方)",
+      "voice": "ta/anh/em per partner; em-anh with Daria, anh-ong with girl"
+    },
+    "soldiers": {
+      "speaker_labels": "兵士Ａ / 兵士Ｂ (kept JP verbatim)",
+      "address_commander": "Chỉ Huy"
+    }
+  },
+  "conventions_applied": [
+    "Commander/司令官 -> Chỉ Huy (L138); 親方 -> sếp (Daria's in-dialogue term + speaker self-address to boss)",
+    "Title in Vietnamese Title Case: 元盗賊の隠しごと -> Bí Mật Của Cựu Trộm",
+    "おねえちゃん -> chị gái; おじさん -> ông; 兵士Ａ/Ｂ kept JP",
+    "Speaker labels (field 1) kept byte-identical JP; only in-dialogue mentions romanized",
+    "Internal <br> counts mirrored exactly to EN asset (3 internal breaks restored: L505, L828, L1817)",
+    "ASCII fullwidth comma ，-> U+201A ‚ inside VI text fields",
+    "BOM + CRLF preserved; no ASCII comma added"
+  ],
+  "notes": "Scene has no H-18 content. All characters confirmed 18+ per project rule but no adult lines present. Residual-English SFX localized: *sigh*->*thở dài*, *sob*/Waaaaah!/Sniff->*nức nở*/Òa khóc!/Sụt sịt, Hyaah/Oof->Hyaa/Ối, Hmph kept as Hmph (shared convention).",
+  "independent_verify": {
+    "scene": "hmn_10320100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 116,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 117,
+    "translated_records": 117,
+    "changed_lines": 117,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1848,
+      "vi": 1848,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "2484960337ed167ba51bfe41125f839c0dc4541a5ecaa891b69ddeb4747bb07e",
+    "output_sha256": "b018ee155ebaf8024ce9e049b00cdf5d62f84921bf1af928c0b9109bbb5fbf3a"
+  },
+  "status": "PASS"
+}

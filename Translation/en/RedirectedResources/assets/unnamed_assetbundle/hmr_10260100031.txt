@@ -1,0 +1,154 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg18000b
+
+charaload,chara_1,102601000G,シルヴィア
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,I Want You to Look at Me
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+
+seplay,setag1_1,se4300001,0,1
+
+window,on,0.15
+message,,I was working late in the command room when Sylvia came in.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+seplay,setag1_2,se4300003,0,1
+
+charashow,chara_1,0
+
+bg,abg11000b,off
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,<user>,What brings you here this late? Is there something you want to talk<br>about?<br> 
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_3,se4800014,0,1,CONT
+
+charaemo,chara_1,Silence
+
+message,,Her cheeks were flushed and she looked down. She clearly had<br>something to say.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_4,se4800012,1.8,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP,1.8
+asynccharaemo,chara_1,Shy,STOP,1.8
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP,1.8
+message,シルヴィア,Elder Brother...? Lately，I feel that our play has been lacking...<br> ,,vc_10260100031_001_01
+
+message,,With that one statement，I understood at once why Sylvia had come.<br>This was，in her own earnest way，her version of a 'night visit'.<br> 
+
+message,<user>,Ah... you're right. I've been so busy with work that we haven't played<br>recently.<br> 
+
+message,<user>,I'm sorry. Now that work has settled down，how about we play<br>together for the first time in a while?<br> 
+
+asyncseplay,setag1_5,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceHappy
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,シルヴィア,Y-yes...!<br> ,,vc_10260100031_002_01
+
+message,,Sylvia's face lit up. I stood up，thinking how cute she was.<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+camerazoom,1.3,0,LinearTarget
+
+blur,on,BACK,0
+
+transitionCrossFade,Tra19,1
+wait,1
+window,on,0.15
+message,<user>,Alright then... here is fine，right?<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_6,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,CONT
+asynccharaemo,chara_1,Shock,CONT
+
+asyncshake,CHARA,chara_1,20,15,0.25,1,off,off,0,off,CONT
+
+asynccharaface,chara_1,FaceSad,CONT,2.6
+message,シルヴィア,Eh... H-Here...? But... what if someone were to come?<br> ,,vc_10260100031_003_01
+
+asyncskipwait
+
+message,<user>,Hardly anyone comes at this hour. If they did，it'd be a cute girl<br>sneaking in for a night visit.<br> 
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,シルヴィア,Ah...<br> ,,vc_10260100031_004_01
+
+message,,Once again，her face turned bright red，and she shyly lowered her<br>head.<br> 
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+message,シルヴィア,I have never played outside the brothel... I am not familiar with how<br>to go about it here...<br> ,,vc_10260100031_005_01
+
+message,<user>,Just do as I say，and it'll be fine. Leave it to me.<br> 
+
+asynccharareaction,chara_1,Nod,0.5,CONT
+
+asyncskipwait
+
+message,,And so，I took her hand，which seemed uneasy...<br> 
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+

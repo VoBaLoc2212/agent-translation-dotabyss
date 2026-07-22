@@ -1,0 +1,795 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10310100022
+
+charaload,chara_1,103101000X,ハツネ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10310100022_001_01,1,on
+
+
+
+
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+window,on,0.15
+message,ハツネ,(I know everyone's got their kinks，but his demands are way too<br>fucking crazy...)<br> ,,vc_10310100022_001_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,The earlier client sat completely naked，blindfolded，hands bound<br>behind his back—all his own request.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.1
+
+message,,His already half-hard dick was sandwiched between Hatsune's soles，<br>twitching. Her fingers were placed near his nipples.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+message,ハツネ,(The soles of my feet are burning hot... He's way too turned on in this<br>state... No，maybe it's this situation getting him excited...)<br> ,,vc_10310100022_002_01
+
+l2dmotion,FaceAngleReset
+
+message,,Hatsune shot the client a contemptuous glare. Unaware，he<br>requested: 'Please verbally abuse me as much as you want.'<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+l2dmessage,ハツネ,With words!? Uh，so you want me to curse you out?<br> ,,vc_10310100022_003_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,The client nodded，breathing raggedly.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeEmotionLeft
+
+message,ハツネ,(As I thought，this guy is an unbelievable pervert... Getting off on<br>being insulted...)<br> ,,vc_10310100022_004_01
+
+l2dmotion,EyeOpen00
+
+message,,Hatsune couldn't understand what was good about that kind of kink.<br>Anyway，she decided to go along with the client's wishes.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10310100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ハツネ,Hey，pervert! This is what you want，huh?<br> ,,vc_10310100022_005_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,Insulting the man as requested，Hatsune began to stroke his dick with<br>the sole of her foot.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopRight
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+l2dmessage,ハツネ,Just a little touch with my foot and you're already leaking precum...<br>You're a seriously disgusting extreme pervert，aren't you?<br> ,,vc_10310100022_006_01
+
+l2dmotion,FaceAngleReset
+
+message,,The man apologized，'Yes! Sorry for being an extreme pervert!' but<br>his dick got harder and hotter，arching up as if to pierce the ceiling.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.3
+
+l2dmessage,ハツネ,Hey，hey，don't get off on being called a pervert. You're way too<br>fucking gross...<br> ,,vc_10310100022_007_01
+
+message,,Hatsune said exactly what she thought，throwing the words straight<br>at him. Each time，the man snorted heavily and his dick twitched.<br> 
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.1
+
+asyncl2dmotion,EyebrowEmotion05,on,STOP,5
+
+l2dmessage,ハツネ,Ugh，the soles of my feet are getting all slimy. Now my feet are dirty<br>with your filthy precum.<br> ,,vc_10310100022_008_01
+
+l2dmotion,FaceAngleReset
+
+message,,Even as he apologized，'Sorry，sorry，' his voice sounded somehow<br>happy.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleTopRight
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+l2dmessage,ハツネ,The soles of my feet are all slimy with your precum and it feels<br>disgusting! Later，I'll make you lick it all off!<br> ,,vc_10310100022_009_01
+
+message,,'Thank you for the reward!' The client replied，still sounding happy.<br> 
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleReset
+
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+message,ハツネ,(This guy gets off on everything I say... It's starting to piss me off.)<br> ,,vc_10310100022_010_01
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleBottomLeft
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+message,ハツネ,(Oh! I just had a great idea! What if I did the opposite of what this<br>pervert wants?)<br> ,,vc_10310100022_011_01
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleTopRight
+
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+l2dmessage,ハツネ,Hey，you total degenerate，still not cumming? Tell me how you want<br>me to do it!<br> ,,vc_10310100022_012_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The client instantly answered: 'I want you to stroke me even harder，<br>much harder!'<br> 
+
+asyncl2dmotion,ExEmotion01,on,STOP,1.3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,4
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.1
+
+l2dmessage,ハツネ,I see，got it! Then...<br> ,,vc_10310100022_013_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10310100022_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,1.6
+
+asyncl2dmotion,MouthEmotion04,on,STOP,1.6
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1.6
+
+l2dmessage,ハツネ,Heh heh... I'll do it like this.<br> ,,vc_10310100022_014_01
+
+message,,Instead，Hatsune abruptly stopped stroking his cock with her foot.<br>The client noticed and started to fidget nervously.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpen00
+
+l2dmotion,ExEmotion00
+
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,3.5
+
+l2dmessage,ハツネ,Nah，I'm done. That's it for today. Use your own hand or something<br>and cum on your own.<br> ,,vc_10310100022_015_01
+
+message,,The client despaired at Hatsune's dismissive words，then begged on<br>the verge of tears，'Please，I'm begging you!'<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleBottomRight
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen04,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6.1
+
+message,ハツネ,(Heh heh... Serves you right! Making such a pathetic sound. Ah，this<br>is fun，so fun.)<br> ,,vc_10310100022_016_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen00
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+l2dmessage,ハツネ,No way. Your drippy precum's making my sole all slippery and gross.<br>And my foot's tired too.<br> ,,vc_10310100022_017_01
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopRight
+
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+l2dmessage,ハツネ,Y'know，from the start you've been way too demanding—do this，do<br>that. Think you're some kind of lord? Acting all high and mighty...<br> ,,vc_10310100022_018_01
+
+message,,The client hurriedly denied，'N-not at all!' Still，his cock stayed rock<br>hard.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+l2dmessage,ハツネ,Then there's a proper way to ask! If you want something from me，<br>you'd better ask nicely!<br> ,,vc_10310100022_019_01
+
+message,,The client finally began to plead，his voice choked with tears:<br>'Please! Ms. Hatsune! Please，I beg you! Continue...'<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,0.1
+
+message,ハツネ,(Maybe I went a little too far...? He's about to cry...)<br> ,,vc_10310100022_020_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,6.7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7
+
+l2dmessage,ハツネ,W-well，if you say you want it that badly，I guess I can't say no. I'm<br>not that heartless.<br> ,,vc_10310100022_021_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10310100022_004_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ハツネ,Jeez... you're such a hopeless little pervert，you know that?<br> ,,vc_10310100022_022_01
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+message,,Hatsune took him by surprise and began moving her foot faster than<br>before. He writhed from the sudden intense stimulation.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The man told her with a trembling voice: 'Ah，t-teasing play...<br>th-thank you!'<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+message,ハツネ,(Teasing play?! The hell is that?! No way... is this guy actually happy<br>that I stopped earlier?!)<br> ,,vc_10310100022_023_01
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen03,on,STOP,7
+
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,11
+
+asyncl2dmotion,EyeOpen04,on,STOP,12.2
+
+asyncl2dmotion,FaceAngleTop,on,STOP,11
+
+asyncl2dmotion,MouthEmotion00,on,STOP,11
+
+message,ハツネ,(What the hell is with this guy... The harsher I am with him，the more<br>he gets off. Hmm... but maybe this is starting to get interesting.)<br> ,,vc_10310100022_024_01
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+l2dmessage,ハツネ,Hey，you pervert! Which part of you is most sensitive? Spit it out!<br> ,,vc_10310100022_025_01
+
+message,,At Hatsune's question，the client replied that his nipples and cock<br>head were sensitive.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10310100022_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ハツネ,Ohhh? Nipples and your cock head，huh...<br> ,,vc_10310100022_026_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+message,,Hatsune's fingertips trailed the man's nipples while her toes worked<br>his cock head. Under the dual assault，he moaned in delight.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeOpen02,on,STOP,1.5
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4
+
+l2dmessage,ハツネ,Fufu... This is it，isn't it? Pervert...<br> ,,vc_10310100022_027_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10310100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ハツネ,Mmph... *pant*... mmm... Ngh! Hey，you like this，don't you?<br> ,,vc_10310100022_028_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.1
+
+message,,Hatsune twisted both his nipples while picking up the pace of the<br>footjob. The man trembled and cried out in bliss.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+l2dmessage,ハツネ,What，is it that good? Moaning like you're loving it!<br> ,,vc_10310100022_029_01
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeEmotionTop
+
+l2dmessage,ハツネ,Hey，I asked if it felt good! Don't just enjoy yourself，answer me!<br> ,,vc_10310100022_030_01
+
+message,,—I-It feels... good! The man answered，flustered，his voice trembling.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10310100022_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ハツネ,What kind of face are you making while you're getting off? Come on，<br>let me see that pervert face of yours.<br> ,,vc_10310100022_031_01
+
+message,,Hatsune peered into the client's face with a contemptuous gaze.<br> 
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+l2dmessage,ハツネ,You've got the look of someone who can't handle how good it feels.<br>But don't you dare cum yet，got it?<br> ,,vc_10310100022_032_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,As she gave the order，she twisted his nipple hard. Then she stroked<br>his cock，and the client writhed and groaned in delight.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,ハツネ,Hey，hey，you look like you're about to cum any second. I told you，<br>you're not allowed to cum yet.<br> ,,vc_10310100022_033_01
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,8.5
+
+l2dmessage,ハツネ,I'm making you feel good just like you wanted，so hold it until I say<br>you can! Got it?<br> ,,vc_10310100022_034_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleReset
+
+message,,Hatsune enjoyed making unreasonable demands on the client. Though<br>he muttered about her heartlessness，he couldn't help moaning in pleasure.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+l2dmessage,ハツネ,Because if you shoot your cum，your filthy cum will get my feet<br>dirty，right?<br> ,,vc_10310100022_035_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Moaning in intense pleasure，the client gritted his teeth and replied<br>that he understood.<br> 
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4.1
+
+l2dmessage,ハツネ,Hey，your dick's throbbing like crazy，isn't it? And more precum's<br>leaking out.<br> ,,vc_10310100022_036_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.1
+
+l2dmessage,ハツネ,Whoa，the precum's getting stringy. My foot's all slippery. At this<br>point，it doesn't matter if cum gets on it or not.<br> ,,vc_10310100022_037_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The thick precum slicked her foot，letting her jerk his dick even<br>harder，faster，and more fiercely.<br> 
+
+message,,The client writhed in ecstasy，straining desperately to hold back his<br>climax as Hatsune commanded.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleBottom
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7
+
+l2dmessage,ハツネ,Huh，you've got more spine than I figured. I've gained a little respect.<br>So here's a reward，go on.<br> ,,vc_10310100022_038_01
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10310100022_008_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ハツネ,Fufu... How about that...? This feels good，right?<br> ,,vc_10310100022_039_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,Hatsune's soles assaulted the sensitive head of his dick. Under the<br>violent stimulation，the client let out choked gasps.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,'Please! Please! I-I can't hold it anymore...' the client begged，his<br>voice on the verge of tears.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4.1
+
+asyncl2dmotion,EyeOpen03,on,STOP,7
+
+l2dmessage,ハツネ,My foot's tired too，so this'll do. You held out well. Now cum.<br> ,,vc_10310100022_040_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ハツネ,See? You don't have to hold back anymore. Let it all out.<br> ,,vc_10310100022_041_01
+
+message,,As she gave the okay，Hatsune jerked his dick even harder，and<br>then—<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10310100022_009_01,1,on
+
+wait,1.3
+
+l2dmessage,ハツネ,Whoa!<br> ,,vc_10310100022_042_01
+
+message,,The head of his dick burst between Hatsune's soles，and his cum<br>erupted like a geyser.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeEmotionBottom
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,3.1
+
+l2dmessage,ハツネ,Hey，hey... that's way too much... How long were you saving that up，<br>man?<br> ,,vc_10310100022_043_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The man kept apologizing，'Sorry，sorry.'<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,With a pathetic moan，turned on by the sight of his own cum soiling<br>Hatsune's feet，the client shot out even more cum.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.1
+
+l2dmessage,ハツネ,Hey，that's way too much cum. Th-that's an incredible amount...<br> ,,vc_10310100022_044_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+message,,Hatsune gaped at the cum covering her feet and the client's body. He<br>replied sheepishly that it felt too good.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,2.1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+l2dmessage,ハツネ,Honestly，you total degenerate.<br> ,,vc_10310100022_045_01
+
+message,,At Hatsune's 'total degenerate，' the client flinched.<br> 
+
+window,off
+wait,0.15
+
+fade,Out,Black,0.5
+
+wait,0.5
+
+bgvstop,bgvtag2_9,1.5,1
+
+l2dhide
+
+bg,abg18200a
+
+wait,1
+
+fade,In,Black,0.5
+
+window,on,0.15
+message,ハツネ,Oi! Why are you getting hard again!?<br> ,,vc_10310100022_046_01
+
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

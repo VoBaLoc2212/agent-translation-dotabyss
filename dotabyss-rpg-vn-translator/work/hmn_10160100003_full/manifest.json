@@ -1,0 +1,852 @@
+{
+  "scene": "hmn_10160100003",
+  "status": "PASS",
+  "source_paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100003\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100003.txt"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100003.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100003_full",
+  "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100003_full\\translate_hmn_10160100003.py",
+  "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100003_full\\focused_diff.md",
+  "source_sha256": "99bb32060e36f564e1dc57cef78d115bba3d58f3531ecfa907ebacdd4c208d55",
+  "output_sha256": "e13c20b3adb215528d57c439f1745fde8db0a42fadcae96dcc656b745360e9e1",
+  "encoding": {
+    "utf8_bom": true,
+    "newline": "CRLF",
+    "line_count": 1560
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 108,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "records": [
+    {
+      "record_index": 1,
+      "line": 23,
+      "command": "title",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 2,
+      "line": 61,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 3,
+      "line": 72,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 4,
+      "line": 74,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 5,
+      "line": 86,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 6,
+      "line": 112,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 7,
+      "line": 114,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 8,
+      "line": 145,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 9,
+      "line": 156,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 10,
+      "line": 158,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 11,
+      "line": 177,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 12,
+      "line": 179,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 13,
+      "line": 181,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 14,
+      "line": 193,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 15,
+      "line": 204,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 16,
+      "line": 206,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 17,
+      "line": 221,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 18,
+      "line": 223,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 19,
+      "line": 279,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 20,
+      "line": 281,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 21,
+      "line": 292,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 22,
+      "line": 311,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 23,
+      "line": 320,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 24,
+      "line": 322,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 25,
+      "line": 341,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 26,
+      "line": 350,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 27,
+      "line": 359,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 28,
+      "line": 368,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 29,
+      "line": 370,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 30,
+      "line": 381,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 31,
+      "line": 392,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 32,
+      "line": 401,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 33,
+      "line": 449,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 34,
+      "line": 451,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 35,
+      "line": 453,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 36,
+      "line": 472,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 37,
+      "line": 483,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 38,
+      "line": 485,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 39,
+      "line": 494,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 40,
+      "line": 496,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 41,
+      "line": 498,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 42,
+      "line": 509,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 43,
+      "line": 533,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 44,
+      "line": 544,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 45,
+      "line": 556,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 46,
+      "line": 558,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 47,
+      "line": 560,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 48,
+      "line": 571,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 49,
+      "line": 582,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 50,
+      "line": 584,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 51,
+      "line": 595,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 52,
+      "line": 597,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 53,
+      "line": 608,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 54,
+      "line": 615,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 55,
+      "line": 626,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 56,
+      "line": 628,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 57,
+      "line": 639,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 58,
+      "line": 650,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 59,
+      "line": 652,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 60,
+      "line": 654,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 61,
+      "line": 665,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 62,
+      "line": 667,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 63,
+      "line": 678,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 64,
+      "line": 709,
+      "command": "messageTextCenter",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 65,
+      "line": 716,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 66,
+      "line": 771,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "CONTEXT_MATCH"
+    },
+    {
+      "record_index": 67,
+      "line": 780,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 68,
+      "line": 825,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 69,
+      "line": 836,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 70,
+      "line": 847,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 71,
+      "line": 858,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 72,
+      "line": 919,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 73,
+      "line": 958,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 74,
+      "line": 1032,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 75,
+      "line": 1043,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 76,
+      "line": 1054,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 77,
+      "line": 1065,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 78,
+      "line": 1076,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 79,
+      "line": 1087,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 80,
+      "line": 1096,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 81,
+      "line": 1107,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 82,
+      "line": 1118,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 83,
+      "line": 1139,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 84,
+      "line": 1150,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 85,
+      "line": 1159,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 86,
+      "line": 1167,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 87,
+      "line": 1178,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 88,
+      "line": 1189,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 89,
+      "line": 1198,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 90,
+      "line": 1209,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 91,
+      "line": 1218,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 92,
+      "line": 1229,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 93,
+      "line": 1254,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 94,
+      "line": 1286,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 95,
+      "line": 1332,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 96,
+      "line": 1343,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 97,
+      "line": 1389,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 98,
+      "line": 1418,
+      "command": "messageTextCenter",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 99,
+      "line": 1463,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 100,
+      "line": 1465,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 101,
+      "line": 1476,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "CONTEXT_MATCH"
+    },
+    {
+      "record_index": 102,
+      "line": 1478,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 103,
+      "line": 1480,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 104,
+      "line": 1491,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 105,
+      "line": 1493,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 106,
+      "line": 1504,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 107,
+      "line": 1515,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 108,
+      "line": 1526,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 109,
+      "line": 1528,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 110,
+      "line": 1539,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    },
+    {
+      "record_index": 111,
+      "line": 1551,
+      "command": "message",
+      "status": "TRANSLATED",
+      "mapping_status": "EXACT"
+    }
+  ],
+  "mapping_summary": {
+    "EXACT": 109,
+    "CONTEXT_MATCH": 2,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0,
+    "TRANSLATED": 111
+  },
+  "rules": {
+    "jp_primary": true,
+    "en_alignment_only": true,
+    "commander": "Chỉ Huy",
+    "ascii_comma_in_vi_text": "forbidden; use U+201A ‚"
+  },
+  "self_qa": {
+    "status": "PASS",
+    "issues": [],
+    "translated_records": 111
+  },
+  "independent_verify": {
+    "scene": "hmn_10160100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 108,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 111,
+    "translated_records": 111,
+    "changed_lines": 111,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1560,
+      "vi": 1560,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "99bb32060e36f564e1dc57cef78d115bba3d58f3531ecfa907ebacdd4c208d55",
+    "output_sha256": "e13c20b3adb215528d57c439f1745fde8db0a42fadcae96dcc656b745360e9e1"
+  }
+}

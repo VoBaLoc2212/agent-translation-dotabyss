@@ -1,0 +1,94 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,102601000G,シルヴィア
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+
+
+
+
+charashow,chara_1,0.3
+
+charaface,chara_1,FaceUnique02
+
+asyncshake,CHARA,chara_1,20,0,0.25,2,off,off,0,off,CONT
+window,on,0.15
+message,シルヴィア,Mmm... Ah...!<br> ,,vc_10260100033_001_01
+
+asyncskipwait
+
+charareaction,chara_1,Shake,0.5
+message,,Sylvia suddenly let out a moan and began fidgeting shyly.<br> 
+
+message,<user>,What's wrong?<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag3_1,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+message,シルヴィア,Ah，um... Onii's seed is about to... spill out...<br> ,,vc_10260100033_002_01
+
+message,,Apparently，the seed I'd released inside her was now beginning to<br>leak out.<br> 
+
+message,<user>,Then you should take a bath. I'll heat it up for you right away—<br> 
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,0.5
+message,シルヴィア,I would rather not.<br> ,,vc_10260100033_003_01
+
+message,<user>,...Why not?<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag3_2,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,シルヴィア,Because... I long to be one with you，Onii...<br> ,,vc_10260100033_004_01
+
+message,<user>,I'm glad you feel that way，but it'll get messy later，you know?<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+
+asyncseplay,setag3_3,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+asynccharaface,chara_1,FaceSad,STOP,2
+message,シルヴィア,I know，Onii... but...<br> ,,vc_10260100033_005_01
+
+message,<user>,Then I'll get in with you and wash you. Will you take a bath then?<br> 
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP,2
+message,シルヴィア,Ah... Well，if that's the case... I suppose I could take one，Onii.<br> ,,vc_10260100033_006_01
+
+message,,With a wry inward chuckle，I began preparing the bath.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

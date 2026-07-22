@@ -1,0 +1,58 @@
+{
+  "scene": "hmn_10430100001",
+  "status": "PASS",
+  "source_mode": "EN-asset-is-English (mixed JP-title / EN-message case)",
+  "jp_primary_source": "dotabyss-translation-main/translations/novels/hmn_10430100001/ja.json",
+  "en_alignment_source": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10430100001.txt",
+  "vi_output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10430100001.txt",
+  "candidate_counts": {
+    "title": 1,
+    "message": 63,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 65,
+  "translated_records": 65,
+  "kept_text_lines": [],
+  "notes": [
+    "EN asset text fields were already English; title field still JP. Translated JP->VI via ja.json meaning, EN asset used as structural authority (BOM/CRLF/delimiter/tag/<br> count).",
+    "Title localized JP '遠い日の贈りもの' -> 'Món Quà Từ Ngày Xa Xưa' (Vietnamese Title Case).",
+    "messageTextCenter card '<size=48>—Frontline Base Town</size>' -> '<size=48>—Căn Cứ Tiền Tuyến</size>' (project term Căn Cứ Tiền Tuyến; EN was a paraphrase).",
+    "Gemma (ジェンマ) = old dwarf woman, self-refers 'ワシ' -> 'ta'; calls Commander '小僧/boy' -> 'chú bé'. <user> = Commander.",
+    "JP speaker label 'ジェンマ' (charaload chara_1=104301000G) and '店主' (chara_2=400301000) KEPT verbatim as technical fields.",
+    "Commander addressed by shopkeeper as 'mister' -> 'ông'/'ông chủ'; 'shopkeeper' -> 'chủ tiệm'/'ông chủ tiệm'.",
+    "Character names 'Gemma' and place 'Perdion' intentionally kept as proper nouns in VI text (not translated; verified residual-English scan).",
+    "8 lines had EN-asset-authoritative single <br> (suffix only); collapsed natural VI internal breaks to match EN count.",
+    "In-text ASCII commas replaced with U+201A (‚); 0 ASCII commas in VI text per verifier.",
+    "No H18 content in this scene. All characters confirmed 18+ per project rule."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10430100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 63,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 65,
+    "translated_records": 65,
+    "changed_lines": 65,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 952,
+      "vi": 952,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "086085f66297fa93c6ca2ba14d067ce0aeae9cb81504a49dd2ce426f3f14b9ea",
+    "output_sha256": "9b8325d356bf0174fff71f0bfc16a036ca6a7d907b61c354730a1ece00c15ee1"
+  }
+}

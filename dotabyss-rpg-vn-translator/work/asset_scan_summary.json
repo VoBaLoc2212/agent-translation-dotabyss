@@ -1,0 +1,367 @@
+{
+  "en_txt_total": 887,
+  "prefix_counts": {
+    "hmr": 441,
+    "hmn": 171,
+    "men": 145,
+    "mas": 114,
+    "evs": 16
+  },
+  "files_with_known_text_commands": 880,
+  "pass_count": 16,
+  "pending_count": 864,
+  "pending_first_30": [
+    {
+      "file": "hmn_10010100001.txt",
+      "records": 90,
+      "lines": 2019,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10010100002.txt",
+      "records": 92,
+      "lines": 1973,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10010100003.txt",
+      "records": 80,
+      "lines": 1346,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100001.txt",
+      "records": 87,
+      "lines": 1349,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100002.txt",
+      "records": 105,
+      "lines": 2048,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100003.txt",
+      "records": 106,
+      "lines": 941,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100001.txt",
+      "records": 72,
+      "lines": 1328,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100002.txt",
+      "records": 72,
+      "lines": 1033,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100003.txt",
+      "records": 109,
+      "lines": 2086,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100001.txt",
+      "records": 97,
+      "lines": 619,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100002.txt",
+      "records": 89,
+      "lines": 550,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100003.txt",
+      "records": 83,
+      "lines": 541,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100001.txt",
+      "records": 110,
+      "lines": 2787,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100002.txt",
+      "records": 66,
+      "lines": 1358,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100003.txt",
+      "records": 114,
+      "lines": 2582,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100001.txt",
+      "records": 87,
+      "lines": 2526,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100002.txt",
+      "records": 72,
+      "lines": 1563,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100003.txt",
+      "records": 104,
+      "lines": 1640,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10070100001.txt",
+      "records": 103,
+      "lines": 1496,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10070100002.txt",
+      "records": 103,
+      "lines": 1645,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10070100003.txt",
+      "records": 90,
+      "lines": 1085,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10080100001.txt",
+      "records": 110,
+      "lines": 2084,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10080100002.txt",
+      "records": 118,
+      "lines": 2714,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10080100003.txt",
+      "records": 132,
+      "lines": 2819,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10090100001.txt",
+      "records": 84,
+      "lines": 1386,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10090100002.txt",
+      "records": 71,
+      "lines": 885,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10090100003.txt",
+      "records": 90,
+      "lines": 1990,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10100100001.txt",
+      "records": 115,
+      "lines": 2002,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10100100002.txt",
+      "records": 116,
+      "lines": 1925,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10100100003.txt",
+      "records": 102,
+      "lines": 2121,
+      "vi_exists": false,
+      "qa_status": null
+    }
+  ],
+  "non_evs_text_first_20": [
+    {
+      "file": "hmn_10010100001.txt",
+      "records": 90,
+      "lines": 2019,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10010100002.txt",
+      "records": 92,
+      "lines": 1973,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10010100003.txt",
+      "records": 80,
+      "lines": 1346,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100001.txt",
+      "records": 87,
+      "lines": 1349,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100002.txt",
+      "records": 105,
+      "lines": 2048,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10020100003.txt",
+      "records": 106,
+      "lines": 941,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100001.txt",
+      "records": 72,
+      "lines": 1328,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100002.txt",
+      "records": 72,
+      "lines": 1033,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10030100003.txt",
+      "records": 109,
+      "lines": 2086,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100001.txt",
+      "records": 97,
+      "lines": 619,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100002.txt",
+      "records": 89,
+      "lines": 550,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10040100003.txt",
+      "records": 83,
+      "lines": 541,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100001.txt",
+      "records": 110,
+      "lines": 2787,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100002.txt",
+      "records": 66,
+      "lines": 1358,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10050100003.txt",
+      "records": 114,
+      "lines": 2582,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100001.txt",
+      "records": 87,
+      "lines": 2526,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100002.txt",
+      "records": 72,
+      "lines": 1563,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10060100003.txt",
+      "records": 104,
+      "lines": 1640,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10070100001.txt",
+      "records": 103,
+      "lines": 1496,
+      "vi_exists": false,
+      "qa_status": null
+    },
+    {
+      "file": "hmn_10070100002.txt",
+      "records": 103,
+      "lines": 1645,
+      "vi_exists": false,
+      "qa_status": null
+    }
+  ]
+}

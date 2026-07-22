@@ -1,0 +1,557 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+
+charaload,chara_1,102001000X,ラヴェリア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1
+
+
+
+
+window,on,0.15
+message,ラヴェリア,*gasp*! Aaah，Ah，Ah，Aaaaaah!<br> ,,vc_10200100022_001_01
+
+window,off
+bgmstop,bgmtag2_1,0.5
+fade,Out,Black,0.5
+
+l2dshow,l2d_10200100022
+
+wait,1
+
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10200100022_001_01,1,on
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+window,on,0.15
+l2dmessage,ラヴェリア,Mmm... Mmph... *pant*，*pant*... Th-that's the second... ejaculation...<br>huh... Mmph...<br> ,,vc_10200100022_002_01
+
+message,,She felt the semen's heat fill her womb，her body spasming. Many<br>minutes had passed—she'd climaxed many times.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,,The client should have ejaculated too，but his swollen cock showed no<br>signs of softening. His stamina far exceeded Laveria's imagination.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+message,,Could she really last until the end with this man? Sensing the faint<br>anxiety in Laveria's heart，the client asked if she was okay.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,ExEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,ラヴェリア,I-I don't need... your concern... I'm a warrior，I've trained<br>accordingly.<br> ,,vc_10200100022_003_01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7
+
+l2dmessage,ラヴェリア,This is nothing，no problem at all. Don't mind me，use me until you're<br>satisfied.<br> ,,vc_10200100022_004_01
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+message,,Half bravado，but she meant it. She'd told Ludia she'd handle it，so<br>she squeezed her cunt tight to prove she'd satisfy him.<br> 
+
+l2dmotion,EyeOpen00
+
+message,,The cock throbbed in her cunt. The client's heart was full of hope<br>that he might have finally found a woman who could take all his desires.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,Then，he would unleash his desires for real. It might get a bit rough，<br>but would that still be okay?—the client made a final check.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10200100022_002_01,1,on
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+l2dmessage,ラヴェリア,Eh? Ah... y-you mean you weren't serious until now...? That's...—<br> ,,vc_10200100022_005_01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceAngleBottom
+
+message,,The fact that he hadn't been serious until now made even Laveria<br>flinch for a moment. But she quickly met his intense gaze head-on.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,ラヴェリア,*pant*... *pant*... Do as you please... A warrior never goes back on<br>her word.<br> ,,vc_10200100022_006_01
+
+l2dmotion,MouthEmotionC
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+message,ラヴェリア,(I've done it with Brother so many times. There's no way this could<br>break a body he trained...)<br> ,,vc_10200100022_007_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,The moment he got Laveria's consent，the client shivered with<br>pleasure down his spine. At the same time，his cock grew even harder.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10200100022_003_01,1,on
+
+l2dmessage,ラヴェリア,Eh...? It's getting bigger...? Hyaa! Aaaahn!<br> ,,vc_10200100022_008_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+message,,She was still startled by his cock swelling to stretch her cunt from<br>the inside when the client began thrusting without hesitation.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,ExEmotion00,on,STOP,2
+
+l2dmessage,ラヴェリア,Nnauhh! Ah，aah...! W-wait，it's rough—Aaaahn!<br> ,,vc_10200100022_009_01
+
+message,,His cock raged so hard it bulged her lower belly. The force of his<br>thrusts was tremendous，pounding deep into her organs.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+l2dmessage,ラヴェリア,Mmm，Aah... *pant*! Ah，ah，aaa... I'm break... ing...! Mmph! Aaaah!<br> ,,vc_10200100022_010_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,,Her full tits bounced violently as she let out an inarticulate cry.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,ラヴェリア,(N-no，no...! This—I wasn't told... At this rate，I'll go crazy...!)<br> ,,vc_10200100022_011_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleReset
+
+message,,Even if she tried to escape，the customer held her tightly. Even if she<br>tried to protest，her own moans prevented it.<br> 
+
+l2dmotion,EyeOpenReset
+
+message,,She was treated like a toy now. Her body was helplessly shaken by the<br>violent thrusts that seemed to expand her cunt.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10200100022_004_01,1,on
+
+l2dmessage,ラヴェリア,Ah，ah...! *whimper*... Wh-what...? *pant* Aahn!♡<br> ,,vc_10200100022_012_01
+
+l2dmotion,EyeOpen01
+
+message,,Pleasure slowly but surely began to well up inside Laveria，who had<br>been enduring only painful thrusts.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9.5
+
+message,ラヴェリア,(No way... is this the drug Ludia told me to take...? It's kicking in<br>now，turning my pain into pleasure... is that it?)<br> ,,vc_10200100022_013_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+message,ラヴェリア,(But this... isn't it working too well...? Aaah!♡ It feels so good it<br>hurts... Aaah!♡)<br> ,,vc_10200100022_014_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+message,,Pleasure washed over her in waves，making her cunt contract. The<br>intermittent but intense clenching made the customer cry out in delight.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,ラヴェリア,(Aah，aah，Aaah!♡ Feels good... I can't... I'm going crazy... Aaaah!♡)<br> ,,vc_10200100022_015_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,ExEmotion00,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+message,ラヴェリア,(At this rate，I'm really gonna lose it...! I gotta stop... somehow...!)<br> ,,vc_10200100022_016_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ラヴェリア,S-stop... *gasp*!♡ N-no，nooo...!♡<br> ,,vc_10200100022_017_01
+
+l2dmotion,EyeOpenReset
+
+message,,The pleasure was too much for her to form words to stop him. The<br>customer's rhythm，already consumed by lust，grew even more intense.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10200100022_005_01,1,on
+
+asyncl2dmotion,ExEmotion00,on,STOP,1.5
+
+asyncl2dmotion,Scene05,on,STOP,1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+l2dmessage,ラヴェリア,Nooo... I'm gonna c-cum again...! Ah，Aaaaaaah!♡<br> ,,vc_10200100022_018_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+message,,Laveria was driven to another climax，as if being toyed with. But she<br>remained at the peak，unable to find any relief.<br> 
+
+message,,The customer，huffing and puffing，was single-mindedly savoring her<br>cunt，his lust seemingly endless.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTopLeft
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,8
+
+message,ラヴェリア,(Feels so good... too good... I can't think anymore... What's going to<br>become of me...?)<br> ,,vc_10200100022_019_01
+
+fade,Out,Black,2
+
+l2dmotion,ExEmotion02
+
+message,,And so，the customer continued to use her dazed body like a toy—<br> 
+
+fade,In,Black,1
+
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10200100022_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ラヴェリア,Auh. Ah，ah，aah...! Aaah!♡ *pant*!♡ Auh...♡<br> ,,vc_10200100022_020_01
+
+l2dmotion,BlushReset
+
+message,,The customer's powerful thrusts continued without pause. Laveria，<br>surrendering to his movements，shook her body，stained with his cum.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+message,,After that，the customer came several more times，and Laveria<br>climaxed even more. The room reeked of mingled semen and love juice.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ラヴェリア,Aaaah!♡ Feels so... good... *gasp*... Aaaaah!♡<br> ,,vc_10200100022_021_01
+
+message,,The pain in Laveria was gone，replaced by pleasure so intense her<br>expression was lewd beyond her usual self.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ラヴェリア,Auh... ah... ah... ah... Hah! I-it's coming again... aahn... Ahn! Auun!♡<br> ,,vc_10200100022_022_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,Laveria had another small climax. Her cunt squeezed tight around his<br>cock，delighting it.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,Groaning with pleasure，the customer was astonished that Laveria<br>could fulfill his desires so completely.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+message,ラヴェリア,(At this rate... I might never... go back to the old me...)<br> ,,vc_10200100022_023_01
+
+message,,In the back of her mind，a cool-headed part of her still remained. A<br>seasoned warrior indeed，but—<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion01,on,STOP,1
+
+l2dmessage,ラヴェリア,Mmmore... mmmore... gimme...!♡<br> ,,vc_10200100022_024_01
+
+l2dmessage,ラヴェリア,Ah!♡ Aahn，ah!♡ More... break me... me... fuck me up... Aaaahn!♡<br> ,,vc_10200100022_025_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotionReset
+
+message,,The customer's heart burned at her barely coherent plea. He<br>tightened his grip on Laveria and whispered，""Don't break for real.""<br> 
+
+message,,Then，as if for a final sprint，he pounded into her relentlessly. The<br>cum he'd already pumped into her womb sloshed with each thrust.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,ExEmotion00,on,STOP,4
+
+l2dmessage,ラヴェリア,Hiiii!♡ Hya，ah，my cunt... it's breakin'... hyah，hnn! My cunt's<br>breakin' hyuuu!♡<br> ,,vc_10200100022_026_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Laveria kept having small，continuous orgasms. Each time，her cunt<br>gripped his cock，and the customer was approaching a massive climax—<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+asyncl2dmotion,MouthEmotionG,on,STOP,6
+
+l2dmessage,ラヴェリア,Yah，hyah，nnnaaaa!♡ Pwease，fill my cunt with cum... lots...<br>gimmee!♡<br> ,,vc_10200100022_027_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,1
+
+bgvplay,bgvtag2_7,bgv_10200100022_007_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+l2dmessage,ラヴェリア,Ah!♡ Ah!♡ Mmph! Aaaaaaaaaaaaah...!♡<br> ,,vc_10200100022_028_01
+
+message,,With a huge load pumped deep into her cunt，Laveria reached an even<br>greater peak.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmessage,ラヴェリア,*gasp*，mmm... *pant*，Mmph! *pant*... Aah...!♡<br> ,,vc_10200100022_029_01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,ExEmotion01,on,STOP,3
+
+message,,Laveria's mouth hung slack as she drowned in pleasure，her womb full<br>of cum yet her cunt greedily milked his cock.<br> 
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+message,ラヴェリア,(Ah，aaah... My head's gone completely blank... B-but，this should be<br>enough to satisfy him...)<br> ,,vc_10200100022_030_01
+
+message,,The customer watched unmoving as Laveria stared at the ceiling in<br>ecstasy. Seeing this，she anticipated release—just then—<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10200100022_008_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ラヴェリア,Huh...? W-why again... so big... Ngh!<br> ,,vc_10200100022_031_01
+
+l2dmotion,EyeOpen03
+
+message,,""Sorry，but I wanted to fill you up one more time."" With those<br>merciless words，the customer started moving again.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotionB
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6.5
+
+message,ラヴェリア,(S-so... when does this end...? Mmph，Aaah...!♥)<br> ,,vc_10200100022_032_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleTop
+
+message,,Laveria，inwardly stunned，was soon again swallowed up by that<br>endless pleasure...<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,2
+fade,Out,Black,2
+wait,2
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

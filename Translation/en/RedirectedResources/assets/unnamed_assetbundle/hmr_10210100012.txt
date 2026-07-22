@@ -1,0 +1,544 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10210100012
+
+charaload,chara_1,102101000G,ヒュメナ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10210100012_001_01,1
+
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+window,on,0.15
+l2dmessage,ヒュメナ,Mmm... D-do you really have to spread my legs this far...? And my<br>breasts too...<br> ,,vc_10210100012_001_01
+
+message,,Fully exposed，Humena was embarrassed. I told her this is how human<br>mating works—everyone does it.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion02,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotion00,on,STOP,7
+
+l2dmessage,ヒュメナ,Everyone does it in such an embarrassing position... O-okay... I'll<br>leave it to you，Commander，but...<br> ,,vc_10210100012_002_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,ヒュメナ,Please，be as gentle as you can...<br> ,,vc_10210100012_003_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,,I nodded and looked down at her naked body. Her skin was porcelain，<br>her breasts beautiful cups，and her pussy a lovely untouched color.<br> 
+
+message,,On closer inspection，her nails and hair were impeccably groomed and<br>fragrant. I couldn't help but tell her how beautiful she was.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3.6
+
+asyncl2dmotion,EyeOpen03,on,STOP,3.6
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.6
+
+l2dmessage,ヒュメナ,Ugh... W-why are you suddenly saying that...? I'm already super<br>embarrassed...<br> ,,vc_10210100012_004_01
+
+message,,I thought a compliment would relax her，but she stiffened. I explained<br>that communication is crucial in human mating.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmessage,ヒュメナ,Is that so...?<br> ,,vc_10210100012_005_01
+
+message,,I explained carefully that human mating involves both physical and<br>emotional connection，requiring effort from both.<br> 
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,6
+
+l2dmessage,ヒュメナ,So human mating really is that complex... It's completely different<br>from water creatures after all...<br> ,,vc_10210100012_006_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7
+
+l2dmessage,ヒュメナ,So，what do we do next? P-please... go ahead with the practice... I'm<br>relying on you...<br> ,,vc_10210100012_007_01
+
+message,,Perhaps because she was nervous，she asked in a formal tone. I<br>looked at her breasts，her nipples a cherry-blossom pink.<br> 
+
+l2dmotion,Scene02
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene02,on,STOP,0.5
+
+bgvplay,bgvtag2_2,bgv_10210100012_002_01,1,on
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ヒュメナ,Mmm... Ngh...!<br> ,,vc_10210100012_008_01
+
+l2dmotion,EyeOpen00
+
+message,,A light touch on her breasts drew a sweet moan from her. I sank my<br>fingers into her soft，beautiful breasts and began to knead.<br> 
+
+l2dmotion,MouthEmotion07
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotion00,on,STOP,7
+
+asyncl2dmotion,MouthEmotion03,on,STOP,10.3
+
+l2dmessage,ヒュメナ,Mmm... Ah... Not my breasts...! When you knead them like that，it<br>feels... Ngh!<br> ,,vc_10210100012_009_01
+
+message,,Humena responded sensitively to every squeeze，her whole body<br>twitching as moans escaped her lips. She seemed to be naturally sensitive.<br> 
+
+l2dmotion,EyeOpen00
+
+message,,Guessing as much，I checked between her legs. As I suspected，clear<br>nectar was dripping from her pussy.<br> 
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,7
+
+asyncl2dmotion,EyeEmotion01,on,STOP,7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+l2dmessage,ヒュメナ,Mmmh... W-what are you looking at? I-it's embarrassing when you<br>stare at my pussy...<br> ,,vc_10210100012_010_01
+
+message,,I told Humena，trembling and embarrassed，'You seem very sensitive.<br>In the future，if you have a partner，tell them so they can be gentle.'<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,MouthEmotion02,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,13
+
+asyncl2dmotion,EyeEmotion02,on,STOP,14
+
+l2dmessage,ヒュメナ,Th-that's enough，as long as you understand...? I don't intend to fall<br>in love with anyone but you... ah，no... *whimper*...<br> ,,vc_10210100012_011_01
+
+message,,She seemed to have let slip her true feelings. Heartened，I confirmed<br>that it was really okay to go all the way.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+asyncl2dmotion,Blush00,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+l2dmessage,ヒュメナ,Of course... I'm entrusting all of me to you... Please teach me human<br>mating.<br> ,,vc_10210100012_012_01
+
+message,,I nodded in reply to the blushing Humena pleading to be taught. Then<br>I brought my cock，swollen and fully erect，closer.<br> 
+
+l2dmotion,Scene03
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10210100012_003_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ヒュメナ,Mmm... Aahn!<br> ,,vc_10210100012_013_01
+
+message,,While caressing her breasts，I rubbed her clitoris with my cock，and<br>Humena reacted strongly. As I thought，this spot was sensitive too.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeOpen00,on,STOP,8.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8.5
+
+l2dmessage,ヒュメナ,*pant*... Mmph... th-there，what... My head is feeling all fuzzy...<br>Hyaaah...!<br> ,,vc_10210100012_014_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotion00,on,STOP,5
+
+l2dmessage,ヒュメナ,*pant*，Ah...! No，*whimper*... My body is twitching on its own...<br>*whimper*...<br> ,,vc_10210100012_015_01
+
+message,,Under the unfamiliar stimulation，her sensitive body seemed pained.<br>She was wet enough，so it was okay to insert.<br> 
+
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene04,on,STOP,2.2
+
+bgvplay,bgvtag2_4,bgv_10210100012_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,ヒュメナ,*pant*，mmm... Ah! *gasp*... *whimper*...!<br> ,,vc_10210100012_016_01
+
+message,,Her well-lubricated depths easily swallowed my cock. Still，inside was<br>so tight it felt like my cock would be crushed.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion02
+
+asyncl2dmotion,FaceAngleReset,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,ヒュメナ,Ngh... mmm... inside my body... so full... *pant*... Ah... This is... my<br>Commander's...?<br> ,,vc_10210100012_017_01
+
+message,,Humena's body was stiff with fear. The fear seemed deeper than<br>simple first-time nerves，so I asked her what was wrong.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotion00,on,STOP,12
+
+l2dmessage,ヒュメナ,Well... among water creatures... there are ones that，after inserting<br>their cock，inject venom so their partner can't escape... so...<br> ,,vc_10210100012_018_01
+
+message,,I couldn't help but smile at that biased knowledge—just the sort of<br>thing Humena，who spends all her time with water spirits，would say.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionTop
+
+message,,I promised I'd never hurt her，and thrust deeper.<br> 
+
+l2dmotion,Scene05
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10210100012_005_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ヒュメナ,*pant*... Ah! Aaaah!<br> ,,vc_10210100012_019_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,10
+
+l2dmessage,ヒュメナ,It's moving inside me... Ngh! Commander's... so hot... mmm... and still，<br>deeper... so deep... Ngh!<br> ,,vc_10210100012_020_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+l2dmessage,ヒュメナ,*sigh* mmm... Ah，ahn，ah...! No，*gasp*... my pussy's being stirred<br>up... Mmph!<br> ,,vc_10210100012_021_01
+
+l2dmotion,FaceAngleReset
+
+message,,Humena let out breathy moans in time with my thrusts. Her inner walls<br>writhed and clenched around me like a living thing.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,ExEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,12
+
+l2dmessage,ヒュメナ,It's completely different... from when I tried it myself...<br>It was never this amazing，not at all... Ahh，it feels so good!<br> ,,vc_10210100012_022_01
+
+l2dmotion,FaceAngleReset
+
+message,,She'd completely abandoned herself to pleasure. Her melting insides<br>felt so good I could barely control myself，so I asked to go faster.<br> 
+
+l2dmotion,Scene06
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10210100012_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ヒュメナ,Ngh... unh... *pant*... Aaaah!<br> ,,vc_10210100012_023_01
+
+message,,The moment she nodded，I thrust my hips forward energetically. I<br>kept thrusting，*schlick，schlick，schlick*.<br> 
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,ヒュメナ,Aahn...! Fwah，Hyaa，Hauu...!<br>Amazing... human mating... amazing... Aah! Ngh ah!<br> ,,vc_10210100012_024_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+l2dmessage,ヒュメナ,Hahn，fwah! Hyan，Aun，Ah，Aaah...!<br>I-I'm making sounds... Mnhf! Aaaah!<br> ,,vc_10210100012_025_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion03
+
+message,,As she desperately tried to hold back，I asked to hear more of her<br>cute voice. I told her she didn't need to suppress any pleasure or moan.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotion05
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,6
+
+l2dmessage,ヒュメナ,U-unh... okay... Aahn! Ah，Aaaah!<br>It feels so good! It feels so good，Commander...! Hyaan!<br> ,,vc_10210100012_026_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,9
+
+l2dmessage,ヒュメナ,Hahn! Deep in my belly，and at the top of my entrance... it's good...!<br>So... it feels so good! Fwah! Aaaaah!<br> ,,vc_10210100012_027_01
+
+message,,Faithfully reporting where she felt it，Humena climbed even higher.<br>Her voice，too，seemed to be changing into moans freed from reason.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmessage,ヒュメナ,Ngh，Aah，*pant*，Aaaah...!♡ I can't anymore! My head's gone blank...<br>I can't think of anything... Aaah!♡<br> ,,vc_10210100012_028_01
+
+message,,I neared my limit，my cock's head swollen to bursting. I told her I'd<br>come inside and thrust harder.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+l2dmessage,ヒュメナ,Nguu! Aah，ah，fwah，ahn，*pant*，Hauuu! So amazing... too intense...!<br>Aaah，it's hitting deep inside，pounding!♡<br> ,,vc_10210100012_029_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ヒュメナ,Commander...! I love you... I love you so much!♡ Aaahn!♡<br> ,,vc_10210100012_030_01
+
+message,,Her confession，meltingly moaned，made my heart race.<br>Fueled by pleasure and our joined bodies，my cock neared its limit.<br> 
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+l2dmessage,ヒュメナ,Ahn，hahn，*sob*，ngh，Aaaaah...!♡<br>Commander! I love you! I love you so much... I'm... hin，Mmmn!♡<br> ,,vc_10210100012_031_01
+
+message,,Suddenly，her pussy tightened more，squeezing my cock. At that，my<br>balls rose up all at once—<br> 
+
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,1
+
+bgvplay,bgvtag2_7,bgv_10210100012_007_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ヒュメナ,Fwaa! Ah，ah! Ah，Aaaaaaaah!<br> ,,vc_10210100012_032_01
+
+message,,At the same moment I came inside her，Humena cried out and peaked.<br>Her body convulsed，tightening around my cock and milking out my cum.<br> 
+
+l2dmotion,MouthEmotion06
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,8
+
+l2dmessage,ヒュメナ,Ah，aah... *pant*...!♡<br>What is this... aah，amazing... it feels so good...!♡<br> ,,vc_10210100012_033_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,9
+
+asyncl2dmotion,FaceAngleReset,on,STOP,13
+
+l2dmessage,ヒュメナ,Deep in my belly，it's hot... *spurt*，*spurt*，hitting me... So hot...<br>feels so good... Ngh... Aaaah!♡<br> ,,vc_10210100012_034_01
+
+asyncl2dmotion,ExEmotion01,on,STOP,2
+
+message,,Finally，I emptied my cum into Humena's convulsing uterus as she<br>came. The long，sweet ejaculation left my head hazy.<br> 
+
+l2dmotion,Scene08
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_8,bgv_10210100012_008_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,BlushReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ヒュメナ,Ngh... *pant*... *pant*... *pant*...<br> ,,vc_10210100012_035_01
+
+message,,Humena slowly closed her languid eyes. Her body seemed to have gone<br>completely limp.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmessage,ヒュメナ,Zzz... zzz...<br> ,,vc_10210100012_036_01
+
+l2dmotion,MouthEmotion03
+
+message,,I watched her closely，but could only hear her breathing. It seemed<br>she had fallen asleep，still bathed in the afterglow.<br> 
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,10
+
+asyncl2dmotion,MouthEmotion03,on,STOP,10
+
+l2dmessage,ヒュメナ,Zzz... zzz... mmm... Commander... Mmph...<br> ,,vc_10210100012_037_01
+
+message,,I watched her call my name in her sleep and smiled wryly. I never<br>expected she would faint from pleasure on her first time.<br> 
+
+message,,At this rate，I couldn't help but worry about the future. I resolved<br>that I had to teach her more about human mating.<br> 
+
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

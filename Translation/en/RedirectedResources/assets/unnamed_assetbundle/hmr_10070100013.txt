@@ -1,0 +1,69 @@
+﻿adultui,off
+
+bg,abg11100a
+
+charaload,chara_1,100701000G,フィルム
+
+wait,1
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0031,1
+
+
+charaface,chara_1,FaceFun
+
+charashow,chara_1,0.3
+
+
+asyncseplay,setag3_1,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+window,on,0.15
+message,フィルム,Ufufu，I suppose it's only natural for young people to drown in love<br>and crave a bit of physical warmth.<br> ,,vc_10070100013_001_01
+
+charaface,chara_1,FaceShy
+message,フィルム,Now I really understand how those who visit the brothel feel.<br> ,,vc_10070100013_002_01
+
+message,ノワール,...<br> ,550100001,vc_10070100013_003_01,
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,フィルム,Geez，Noir. I'm allowed to get a little carried away，aren't I?<br> ,,vc_10070100013_004_01
+
+asyncseplay,setag3_2,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+charaface,chara_1,FaceFun
+message,フィルム,It's just that I never imagined I'd ever feel like an ordinary girl.<br> ,,vc_10070100013_005_01
+
+asyncseplay,setag3_3,se4800012,0,1,CONT
+
+asynccharaemo,chara_1,Imagination,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,フィルム,Romance，marriage，children—like any ordinary person—maybe it's<br>okay for me to seek those things again.<br> ,,vc_10070100013_006_01
+
+asyncseplay,setag3_4,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+charaface,chara_1,FaceShy
+message,フィルム,To do that，I need to find someone first. Someone to share a<br>wonderful love with.<br> ,,vc_10070100013_007_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

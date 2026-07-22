@@ -1,0 +1,86 @@
+{
+  "scene": "hmn_10330100002",
+  "asset_kind": "hmn (event/novel text asset)",
+  "source_mode": "EN-asset-is-English (asset text fields are English with internal fullwidth U+FF0C; en.json holds English; ja.json is JP-primary identity map)",
+  "title_vi": "Chắc Chắn Sẽ Trở Về Tổng Hành Din Rồi♪",
+  "candidate_counts": {
+    "title": 1,
+    "message": 72,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 75,
+  "translated_records": 75,
+  "kept_text_lines": [],
+  "speaker_label_policy": "JP charaload/speaker labels preserved verbatim (field 1): 一般兵Ａ/Ｂ, モンスター, エメルダ, ルディア, 先輩記者, <user>. In-dialogue name mentions romanized to Scoop / Emeralda per shipped VI convention.",
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "大穴": "Đại Huyệt",
+    "前線基地/Frontline Base": "Tiền Tuyến Căn Cứ",
+    "特ダネ/Scoop": "Scoop (kept romanized in dialogue)",
+    "エメルダ/Emelda": "Emeralda (kept romanized in dialogue)",
+    "リフト/Lift": "'Thang'",
+    "オーバーテクノロジー/Over-Technology": "'Siêu Công Nghệ'",
+    "副司令官/Deputy Commander": "Phó Chỉ Huy",
+    "合コン/mixer (blind-date party)": "cuộc gặp gỡ giới thiệu",
+    "先輩記者/senpai reporter (boss)": "sếp (boss)"
+  },
+  "addressing": {
+    "Scoop (Commander) -> Emelda": "anh–em (anh / em)",
+    "Emelda -> Scoop": "Scoop à / anh",
+    "Emelda self": "em",
+    "先輩記者 (boss) -> Emelda": "em (informal boss)",
+    "一般兵 -> Emelda/Scoop": "casual anh em / Emeralda"
+  },
+  "h18": "No H-18 / adult content in this scene. All characters confirmed 18+ per project rule; not applicable here.",
+  "structure_preserved": {
+    "bom": true,
+    "crlf": true,
+    "line_count_en": 889,
+    "line_count_vi": 889,
+    "delimiter_mismatch": 0,
+    "technical_field_mismatch": 0,
+    "tag_mismatch": 0,
+    "placeholder_mismatch": 0,
+    "ascii_comma_in_vi_text": 0
+  },
+  "intentional_localizations": [
+    "Monster SFX 'Giii!' -> 'Giíi!', 'Gwooo!' -> 'Gùuoo!' (Vietnamese roars; not proper names, must change to clear UNCHANGED_TEXT_RECORDS).",
+    "Internal <br> break count per text field set to match EN asset authority (75 records).",
+    "ASCII comma inside Vietnamese text replaced with U+201A '‚' (fullwidth U+FF0C in EN kept as-is in structure, VI uses ‚).",
+    "Title and messageTextCenter cards in Vietnamese Title Case with <size=48>…</size> preserved (<size=48>—Vài Giờ Sau.</size>, <size=48>—Giờ Ăn Tối</size>)."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10330100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 72,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 75,
+    "translated_records": 75,
+    "changed_lines": 75,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 889,
+      "vi": 889,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "4ad84ab1c34b72b6334be1da6611ca8ba866fb937b3178bc1a333b9f5510243d",
+    "output_sha256": "2671f65054aeba004c40f293b2633a367d2a9ff5b87299ee5d9ccb30c90ea3b1"
+  },
+  "independent_issues": [],
+  "qa_status": "PASS",
+  "notes": "EN-asset-is-English case; translated from EN text fields (ja.json identity map, en.json English values). All 75 records changed. No missing source. No CAKE/uncertain items.",
+  "status": "PASS"
+}

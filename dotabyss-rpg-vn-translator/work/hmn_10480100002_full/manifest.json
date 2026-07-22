@@ -1,0 +1,81 @@
+{
+  "scene": "hmn_10480100002",
+  "title_ja": "ぜーんぶ、司令官のせいよ！！",
+  "title_vi": "Tất Cả Là Tại Chỉ Huy!!",
+  "character": "セレスト (Celeste)",
+  "character_voice": "Celeste is a lazy/delinquent guard from Milesgard. Casual tone, self-reference as 'tôi', addresses Commander casually as 'anh'. Commander uses ore/omae toward her.",
+  "en_asset_is_english": true,
+  "en_asset_notes": "EN asset text fields are English. Title field is still JP. en.json has English values for most keys (title key empty).",
+  "text_record_count": 92,
+  "text_record_breakdown": {
+    "title": 1,
+    "message": 89,
+    "messageTextUnder": 2,
+    "messageTextCenter": 0
+  },
+  "source_paths": {
+    "ja_novel": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100002/ja.json",
+    "en_novel": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10480100002/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10480100002.txt"
+  },
+  "output_path": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10480100002.txt",
+  "bom": true,
+  "crlf": true,
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "ミレスガルド/Milesgard": "Milesgard",
+    "警備隊/patrol squad": "đội tuần tra",
+    "衛兵隊/Guard Corps": "Đội Vệ Binh",
+    "ルディア/Ludia": "Ludia",
+    "セレスト/Celeste": "Celeste"
+  },
+  "addressing": {
+    "Celeste→Commander": "tôi/anh (casual)",
+    "Commander→Celeste": "tôi/cô (ore→omae tone)",
+    "Celeste self-ref": "tôi (あたし→tôi)",
+    "passersby→Commander": "generic"
+  },
+  "intentional_localizations": {
+    "SFX_yaaawn": "ngáp → Vietnamese onomatopoeia",
+    "SFX_sigh": "thở dài → Vietnamese descriptive"
+  },
+  "notes": [
+    "EN-asset-is-English case: EN text translated to VI with JP as primary reference for meaning",
+    "Title translated directly from JP: ぜーんぶ､司令官のせいよ！！ → Tất Cả Là Tại Chỉ Huy!!",
+    "Celeste's casual/delinquent tone preserved in Vietnamese",
+    "Fullwidth commas ､ preserved in VI text per EN asset convention",
+    "All 92 text records translated (1 title + 89 message + 2 messageTextUnder)",
+    "BR counts matched to EN asset exactly (authoritative)"
+  ],
+  "independent_verify": {
+    "scene": "hmn_10480100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 89,
+      "messageTextUnder": 2,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 92,
+    "translated_records": 92,
+    "changed_lines": 92,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1445,
+      "vi": 1445,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "a2c73c3262de5ae35150c26369457ff0470d91501e729418df516a6ba5dea523",
+    "output_sha256": "a7b8841ba770e753d56b5d85fb323e9e3f7cc05e9a472687943cb93d494ac1eb"
+  },
+  "status": "PASS"
+}

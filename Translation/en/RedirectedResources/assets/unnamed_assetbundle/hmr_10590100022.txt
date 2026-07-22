@@ -1,0 +1,600 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10590100022
+
+charaload,chara_1,105901000X,スティーラ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+bgvplay,bgvtag2_1,bgv_10590100022_001_01,1,on
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,4
+
+window,on,0.15
+l2dmessage,スティーラ,*pant*... Mmph!... Aah...<br> ,,vc_10590100022_001_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,The lamp's glow filled the brothel room as the girl moaned. On her<br>knees，she pressed her core against his length and rocked her hips.<br> 
+
+
+message,,Her bare cheeks swayed with her movements，exposed by undone<br>clothes. Lamp shadows glided over her silky skin，emphasizing curves.<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8.1
+
+message,スティーラ,(Ugh... I'm still nervous... B-but，at least in this position，I don't have<br>to see the client's face...)<br> ,,vc_10590100022_002_01
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,1.6
+
+asyncl2dmotion,EyeOpen00,on,STOP,19
+
+message,スティーラ,(But something's strange... The lamp should be working，yet my body<br>isn't getting hot like last time... Why is that?)<br> ,,vc_10590100022_003_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,FaceAngleTop,on,STOP,10
+
+message,スティーラ,(N-no，no! I need to focus on making the client feel good... I have to<br>try my best...!)<br> ,,vc_10590100022_004_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,1.1
+
+message,,Steela rubbed the client's length with her hips，moving back and<br>forth. Though clumsy，she moved earnestly，and his excitement grew.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+l2dmessage,スティーラ,Mmph!... *huff*... *pant*，*pant*...<br> ,,vc_10590100022_005_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Stimulated by the hot length rubbing against her petals，Steela's<br>entrance gradually grew wet with moisture.<br> 
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,12.5
+
+message,スティーラ,(I-it's finally getting wet... W-with this，maybe I can take the<br>client's... probably...)<br> ,,vc_10590100022_006_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+l2dmessage,スティーラ,S-soon... I-it s-seems okay... P-please...!<br> ,,vc_10590100022_007_01
+
+
+message,,Suppressing her embarrassment，she told the client in a faint voice.<br>He pressed his length to Steela's entrance and thrust forward.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10590100022_002_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8
+
+l2dmessage,スティーラ,*gasp*... Ngh... mmm... *pant*... Aaaaah...<br> ,,vc_10590100022_008_01
+
+
+message,,The man's length forced its way into her tight passage，reaching the<br>deepest part.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.1
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+l2dmessage,スティーラ,*pant，pant*... Mmph!... I-it's so big...<br> ,,vc_10590100022_009_01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,The thick length stretched Steela's small opening. Her expression<br>twisted from the pressure in her abdomen.<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,12
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,12.1
+
+message,スティーラ,(W-what should I do... I've n-never done it in th-this position...<br>Sh-should I just let him m-move f-freely...?)<br> ,,vc_10590100022_010_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Unfamiliar with the position，Steela froze，unsure. Just as she<br>wondered what to do，the client called her name.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10590100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+wait,1
+
+l2dmessage,スティーラ,Eep!<br> ,,vc_10590100022_011_01
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,9
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,9
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,9.1
+
+l2dmessage,スティーラ,Oh，I'm s-sorry... I was st-startled because you s-suddenly spoke to<br>me... S-so... what is it...?<br> ,,vc_10590100022_012_01
+
+
+message,,Fortunately，this position hid the client's face，so she managed a few<br>words. He apologized and asked her to take the lead.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,12
+
+asyncl2dmotion,FaceAngleTop,on,STOP,12
+
+asyncl2dmotion,EyeOpenReset,on,STOP,12
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,12.1
+
+l2dmessage,スティーラ,I-I'm the one who moves...? I wonder if I can do it well... I... I'll give it<br>a try...<br> ,,vc_10590100022_013_01
+
+
+message,,Steela steeled herself and began to move her body back and forth.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10590100022_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,スティーラ,Mmph... *pant*... Ngh... Mmph. *pant*...<br> ,,vc_10590100022_014_01
+
+
+message,,His shaft rubbed against Steela's inner walls. She struggled in the<br>new position but soon got the hang of it，her strokes growing longer.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,6.1
+
+message,スティーラ,(So this is what it feels like to move on my own... I wonder if all men<br>like this?)<br> ,,vc_10590100022_015_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+asyncl2dmotion,MouthEmotion00,on,STOP,8
+
+
+message,スティーラ,(Last time，I left everything to the Lord Commander... I wonder if I<br>could please the Lord Commander too if I take the initiative next time.)<br> ,,vc_10590100022_016_01
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,7
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,7.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,13
+
+l2dmessage,スティーラ,*huff*，*huff*... Ngh... *pant*... *huff*... H-how is it...? mmm... am I<br>d-doing it right...? *pant*... *huff*...<br> ,,vc_10590100022_017_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Steela fine-tuned the angle to rub his shaft better. Though her<br>movements were slow，her inner walls clung tight，heightening his pleasure.<br> 
+
+
+message,,The man replied that it felt good. More than anything，he said he was<br>happy that Steela was trying so hard.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.1
+
+l2dmessage,スティーラ,Is that... really so...? mmm... I'm glad... *huff*... Mmph... Then I'll... try<br>even harder，okay...<br> ,,vc_10590100022_018_01
+
+
+message,,Encouraged by the client's approval，Steela made further<br>adjustments. As she did，his length began hitting a sensitive spot.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+asyncl2dmotion,MouthEmotion04,on,STOP,15
+
+l2dmessage,スティーラ,Aaah... Mmph... the client's thing... is... hitting my... good spot...<br>Mmph，Hyaaah...<br> ,,vc_10590100022_019_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,14
+
+asyncl2dmotion,FaceAngleReset,on,STOP,14
+
+asyncl2dmotion,EyeOpen03,on,STOP,14
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,14.1
+
+message,スティーラ,(It's not like that melting-all-over feeling when I was with the Lord<br>Commander... but this is nice too... maybe.)<br> ,,vc_10590100022_020_01
+
+
+message,,Steela was starting to get used to the movement and sensation in this<br>position，but the client was also changing.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Until then，the man had left it to Steela，but suddenly he reached for<br>her hips...<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10590100022_005_01,1,on
+
+wait,1.2
+
+l2dmessage,スティーラ,Eep! Mmph，Ah，Aaah，*pant*!<br> ,,vc_10590100022_021_01
+
+
+message,,He thrust harder into Steela，unleashing his lust. Her core，which had<br>been adjusting，clenched now at the stronger sensation.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+l2dmessage,スティーラ,*pant* Aaahn...! Th-this... no! It's reaching so deep... mmm，*pant*!<br>*pant* Aaah...!<br> ,,vc_10590100022_022_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+message,,The room，lit by the lamp's glow，echoed with Steela's moans and the<br>lewd sounds of flesh slapping against flesh.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The impact of the client thrusting into her from behind made her bare<br>breasts bounce.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyebrowEmotion04
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,13
+
+message,スティーラ,(N-no... t-the lewd sounds are echoing...!<br>E-even though he can't see my face，it's s-so embarrassing...!)<br> ,,vc_10590100022_023_01
+
+
+message,,Whether he knew Steela's face was bright red with shame or not，the<br>client vigorously thrust his hips against her.<br> 
+
+l2dmotion,MouthEmotion08
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,9
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,9.1
+
+l2dmessage,スティーラ,Eep，ah，ooh，Ah!，*pant*...! I-It's too rough...!<br>I-I can't... I'll f-fall apart...!<br> ,,vc_10590100022_024_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen03,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Why had he suddenly started moving so roughly...? As that thought<br>crossed her mind，Steela suddenly realized.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotion04
+
+message,スティーラ,(I-I see... s-so it's the lamp's effect...!<br>It's not just me... t-the client is getting excited too...!)<br> ,,vc_10590100022_025_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotion04,on,STOP,5
+
+asyncl2dmotion,MouthEmotion08,on,STOP,5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5.1
+
+l2dmessage,スティーラ,S-Sir... Eee...!<br>Ah!，Aah!，*pant*!，mmm，*pant*...!<br> ,,vc_10590100022_026_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,The intense thrusting made it hard for her to speak，and even if she<br>had，there was no guarantee the excited client would have stopped.<br> 
+
+
+message,,The man's painfully swollen member ground against Steela's inner<br>walls，while her tight folds fiercely caressed his sensitive area.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,8
+
+asyncl2dmotion,MouthEmotion08,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,8
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,11
+
+l2dmessage,スティーラ,O-oh，sir...! Ah!，Aah!，*gasp* Aaaaah...!<br>I-I... I'm at my limit...!<br> ,,vc_10590100022_027_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Steela's core drove his arousal to its peak; with a shiver，as the urge<br>to ejaculate surged，he buried himself deep inside her.<br> 
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,8
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+l2dmessage,スティーラ,I-I can't... no more...! I'm g-gonna come! I'm coming...!<br> ,,vc_10590100022_028_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,2
+
+bgvplay,bgvtag2_6,bgv_10590100022_006_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,スティーラ,Ah，ah，ah... *pant* Mmph! Ah... Aaah! *pant*!<br> ,,vc_10590100022_029_01
+
+asyncl2dmotion,FaceEmotion02,on,STOP,2
+
+message,,With a high-pitched cry，Steela reached her peak. At the same time，a<br>torrent of semen was pumped into her convulsing depths.<br> 
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,10
+
+asyncl2dmotion,FaceAngleRight,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,10.1
+
+l2dmessage,スティーラ,*pant*... *pant*... Mmph! ...I... I thought I was going to... f-fall apart...<br> ,,vc_10590100022_030_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,With a dazed expression，Steela struggled to catch her breath. Semen<br>overflowed from their union and trickled down her inner thigh.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,16
+
+asyncl2dmotion,EyeOpen00,on,STOP,16
+
+message,スティーラ,(So much semen... was he really that excited...? mmm... my belly feels<br>so warm...)<br> ,,vc_10590100022_031_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10590100022_007_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+l2dmessage,スティーラ,*pant*... *pant*... *sigh*... Sir... D-did it... feel good...?<br> ,,vc_10590100022_032_01
+
+
+message,,Still breathing heavily，she looked at the client and spoke. The client<br>nodded，answering that it had felt good.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8.6
+
+l2dmessage,スティーラ,I'm... I'm glad... R-Really...<br> ,,vc_10590100022_033_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,MouthEmotion01,on,STOP,2
+
+message,,With that whisper，Steela's strength gave out，and she collapsed<br>limply onto the bed.<br> 
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

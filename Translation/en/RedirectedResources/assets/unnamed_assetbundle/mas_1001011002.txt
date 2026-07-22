@@ -1,0 +1,212 @@
+﻿
+fade,Out,White,0
+initend
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+l2dshow,l2d_1001011002
+
+uivisible,on
+
+fade,In,White,0.5
+
+
+wait,1
+
+bgmplay,bgmtag2_1,bgm0031,0.75,1
+
+
+
+window,on,0.15
+l2dmessage,アリシア,Ah，that's right! Commander.<br>The sandstorm in the Abyss has stopped!<br> ,300201000,mcv_1001011001_001_99
+
+message,<user>,That's good.<br>Now we'll be able to lower observation balloons safely.<br> 
+
+l2dmessage,アリシア,Yes! Now we can do advance surveys!<br>We should really reduce casualties going forward!<br> ,300201000,mcv_1001011001_002_99
+
+message,<user>,...Haha.<br> 
+
+l2dmessage,アリシア,...Commander?<br> ,300201000,mcv_1001011001_003_99
+
+message,<user>,It's probably because I was confined for so long.<br>I haven't felt this satisfied in a very long time.<br> 
+
+message,<user>,We were able to beat the Calamity because everyone was here.<br>Because the people of the frontline base were here...<br> 
+
+message,<user>,Maybe taking your invitation<br>was the right call after all.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion00
+
+l2dmessage,アリシア,Um，Commander.<br>Something's been on my mind for a long time...<br> ,300201000,mcv_1001011001_004_99
+
+l2dmessage,アリシア,Do you... have any regrets?<br>About accepting my invitation to become Commander.<br> ,300201000,mcv_1001011001_005_99
+
+message,<user>,...<br> 
+
+l2dmessage,アリシア,I'm sorry. I... had someone look into your background，Commander.<br> ,300201000,mcv_1001011001_006_99
+
+l2dmessage,アリシア,You are the descendant of the hero who achieved<br>great victories in that war——<br>You carry that blood.<br> ,300201000,mcv_1001011001_007_99
+
+l2dmessage,アリシア,Why would someone of such distinguished lineage<br>have been exiled to that remote frontier?<br> ,300201000,mcv_1001011001_008_99
+
+message,<user>,Well，that's something you'd hear better details about<br>from the big shots of the Three Nations.<br> 
+
+l2dmessage,アリシア,I didn't really know. The leaders of the Three Nations told me<br>to bring you back to be Commander since you're capable...<br> ,300201000,mcv_1001011001_009_99
+
+window,off
+wait,0.15
+
+
+bgmstop,ALL,1.5,0
+
+window,on,0.15
+message,<user>,I see.<br>From birth，I've been burdened with being 'the hero's grandson'...<br> 
+
+message,<user>,The 'Blood of the Hero' may sound impressive.<br>But in this war-torn land，a 'hero' was unwanted.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,Scene02
+
+window,off
+wait,0.15
+
+bgmplay,bgmtag2_2,bgm0030,0.75,1
+
+wait,0.5
+
+window,on,0.15
+l2dmessage,アリシア,That's... But thanks to your grandfather，Commander，<br>the conflicts in Treslia were brought to an end.<br> ,300201000,mcv_1001011001_010_99
+
+l2dmessage,アリシア,And your grandfather was such a hero<br>that bards composed songs about him.<br> ,300201000,mcv_1001011001_011_99
+
+message,<user>,Yes. The wars of the Treslian region did end——<br>temporarily.<br> 
+
+message,<user>,But afterward，he got caught up in the Three Nations' power<br>struggles and lost his position and honors almost instantly.<br> 
+
+message,<user>,Crushed under senseless political pressure.<br>From what I've heard，his later life was quite a sorry affair.<br> 
+
+l2dmessage,アリシア,That's terrible... for someone called a 'hero' to be treated that way...<br> ,300201000,mcv_1001011001_012_99
+
+message,<user>,That's how people are. The useful ones become 'heroes.'<br>The unwanted ones become mere nuisances.<br> 
+
+l2dmessage,アリシア,That's just too cruel...<br> ,300201000,mcv_1001011001_013_99
+
+message,<user>,History has proven this for millennia. We humans are fools<br>who clash swords and shed blood for our own egos.<br> 
+
+message,<user>,Yet a situation arose where even those foolish humans<br>had no room left to push their own agendas.<br> 
+
+l2dmessage,アリシア,And that was... the appearance of the Abyss，and the Calamity...?<br> ,300201000,mcv_1001011001_014_99
+
+message,<user>,Yeah. So the time came to make use of that inconvenient<br>'Blood of the Hero' once more——that's all there is to it.<br> 
+
+l2dmessage,アリシア,I'm sorry. Without knowing any of this，I forced you...<br>I looked into your past and felt so terrible...<br> ,300201000,mcv_1001011001_015_99
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,9.5
+
+l2dmessage,アリシア,But without defeating the Calamity，the world is in danger...<br>and you're surely the only one who can... So，so...!<br> ,300201000,mcv_1001011001_016_99
+
+message,,I gently placed my hand on Alicia's head as her eyes welled with<br>tears.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,<user>,Right，I never answered your question.<br>I have no regrets about becoming Commander here.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmessage,アリシア,...!<br> ,300201000,mcv_1001011001_017_99
+
+message,<user>,I was thoroughly sick of my retirement in that remote frontier.<br>Anything was better than that—that's why I accepted.<br> 
+
+bgmstop,bgmtag2_2,1.5,0
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+l2dmessage,アリシア,Ehhh～，so that was the reason～!?<br> ,300201000,mcv_1001011001_018_99
+
+message,<user>,Besides，I couldn't exactly refuse.<br>I even considered faking it and escaping when the time was right...<br> 
+
+l2dmessage,アリシア,Hawawa! You were thinking about all of that?!<br> ,300201000,mcv_1001011001_019_99
+
+bgmplay,bgmtag2_3,bgm0042,0.75,1
+
+message,<user>,But now it's different.<br>My thinking changed while spending time with you and the others.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,アリシア,Because you met us...?<br> ,300201000,mcv_1001011001_020_99
+
+message,<user>,You were like that from the start.<br>You believed in the 'possibility' of my hero's blood.<br> 
+
+window,off
+wait,0.15
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,Scene03
+
+
+window,on,0.15
+l2dmessage,アリシア,Y-yes... that's right! You were our one and only hope!<br> ,300201000,mcv_1001011001_021_99
+
+message,<user>,And not just You— Sophia，Verisa，Marina too.<br>I realized everyone at this base had faith in me...<br> 
+
+message,<user>,As I fought alongside everyone，my outlook changed.<br>I decided to believe in my own 'possibility' as well——<br> 
+
+l2dmessage,アリシア,Commander... So you're not thinking<br>of slipping away anymore，right?!<br> ,300201000,mcv_1001011001_022_99
+
+message,<user>,Yes.<br>That's exactly what I intend.<br> 
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3.3
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.3
+
+l2dmessage,アリシア,Commander! Please keep leading us on th—... Achoo!<br> ,300201000,mcv_1001011001_023_99
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,<user>,Haha!<br>That anticlimactic ending is so you，Alicia.<br> 
+
+l2dmessage,アリシア,Hey～! Don't laugh at me～!<br> ,300201000,mcv_1001011001_024_99
+
+message,<user>,It's gotten quite cold.<br>Let's get back inside before you catch a chill.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,3.5
+
+l2dmessage,アリシア,Aahn! Please let me say this properly! ...Ahem!<br> ,300201000,mcv_1001011001_025_99
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,アリシア,Once more，formally—<br>I look forward to working with you，Commander!<br> ,300201000,mcv_1001011001_026_99
+
+
+labeljump,c
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:c
+window,off
+bgmstop,bgmtag2_3,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+l2dhide
+
+
+
+

@@ -1,0 +1,12 @@
+{
+  "scene": "evs_10200020701",
+  "qa_status": "PASS",
+  "blockers": [],
+  "warnings": [],
+  "notes": [
+    "JP source used as primary via ordered ja.json pairs; EN asset used for line/field alignment.",
+    "All characters confirmed 18+ by project context; no H18 lines present in this file.",
+    "Commander/司令官 translated as Chỉ Huy where applicable.",
+    "ASCII commas inside VI fields are forbidden; Vietnamese separators use U+201A where needed."
+  ]
+}

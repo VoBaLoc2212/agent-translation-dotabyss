@@ -1,0 +1,569 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10460100022
+
+charaload,chara_1,104601000X,エルミア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10460100022_001_01,1,on
+
+
+
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1
+
+window,on,0.15
+l2dmessage,エルミア,H-huh? Wait!<br>Are we doing it here... like this?<br> ,,vc_10460100022_001_01
+
+message,,Elmia stood bewildered as he seized her bosom. She felt his manhood<br>pressing against her，his breath ragged. He was clearly aroused.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,2
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5.8
+
+l2dmessage,エルミア,Geez...! D-don't be so rough!<br>Hey... Ah!<br> ,,vc_10460100022_002_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+message,エルミア,(What a bold customer...<br>But why is it? This kind of thing might be making my heart race...)<br> ,,vc_10460100022_003_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Elmia felt love juice surging from deep within her womb.<br>Gradually，her womanhood began to grow moist.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+message,エルミア,(It's my first time with someone other than the Commander...<br>I'm nervous... Can I do it well...?)<br> ,,vc_10460100022_004_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleBottom
+
+message,エルミア,(Oh no，I'm already getting wet...<br>I-it must be a different thrill than when I was with the Commander...)<br> ,,vc_10460100022_005_01
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10460100022_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エルミア,Mmph... Mmmph... Ah... Mmph... mmm，*sigh*... Ah...<br>Mmmph... Umph... *pant*... *whimper*...<br> ,,vc_10460100022_006_01
+
+message,,The male customer began to fondle her bosom.<br>Just that alone made Elmia let out a soft moan.<br> 
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+l2dmessage,エルミア,*sigh*... Mmphk... *pant*... Mmph...<br>Ummph... Ah... Mmph... mmm，*sigh*... Ah...<br> ,,vc_10460100022_007_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,'I've heard that flat-chested girls are sensitive，but elves are the<br>same，huh?' the man asked in an excited voice.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,6
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9.5
+
+l2dmessage,エルミア,H-how rude! Don't call me flat-chested! Say slender...!<br>mmm... Ah... Ahaah...!<br> ,,vc_10460100022_008_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionLeft
+
+message,エルミア,(mmm... It's so frustrating，but I'm really feeling it...<br>So I really am as sensitive as he said!)<br> ,,vc_10460100022_009_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10460100022_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エルミア,Aaaah! W-wait... no!<br>mmm... mmmm...! Ah!<br> ,,vc_10460100022_010_01
+
+message,,The man suddenly pinched her nipples and started kneading them. It<br>was a rough caress，but the tingling sensation shook Elmia's entire body.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+l2dmessage,エルミア,*pant*... mmm... ngh... Ahaah...!<br>mmm... no... mmm... Ahaah... Mmph...!<br> ,,vc_10460100022_011_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleTopRight
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+l2dmessage,エルミア,A-a little more... g-gently...<br>mmm... Aaaah...! *pant*... mmm!<br> ,,vc_10460100022_012_01
+
+message,,Her nipples were just as sensitive as he'd thought. The man smiled at<br>her reaction，which was even better than he'd imagined.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,MouthEmotion00,on,STOP,6
+
+l2dmessage,エルミア,Mmm... *pant*... ngh...!<br>I-it's not like I'm feeling it that much...<br> ,,vc_10460100022_013_01
+
+l2dmotion,EyeOpen00
+
+message,,She tried to protest，but the stimulation to her nipples made more<br>love juice well up from her womb. It dripped down her inner thighs.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+message,エルミア,(No way...! When did I get this wet...? And just from my tips...?)<br> ,,vc_10460100022_014_01
+
+message,,As wet as she was，she had no choice but to acknowledge the man's<br>words.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10460100022_004_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エルミア,Eh! *pant* Mmph! W-Wait... Ah! Ngh!<br> ,,vc_10460100022_015_01
+
+message,,On top of the stimulation to her tips，the man's fingertips also<br>assaulted the entrance to her womanhood.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,4
+
+l2dmessage,エルミア,Ah... Mmph... *pant*! Ngh... ah... w-wait... ah... th-there...!<br> ,,vc_10460100022_016_01
+
+l2dmotion,EyeOpenReset
+
+message,,*squelch，squelch*—a lewd sound bloomed. The man's fingers slid<br>around the entrance to her womanhood，stimulating Elmia.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,ExEmotion00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+asyncl2dmotion,FaceAngleTop,on,STOP,8
+
+l2dmessage,エルミア,Ah... Ngh... no，th-there... don't! I... when you touch me there...<br>Aaaah!<br> ,,vc_10460100022_017_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,""I said you weren't feeling it much earlier，but you've been soaked<br>this whole time，haven't you?"" the man said with a smirk.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+l2dmessage,エルミア,No... Ngh... don't say such embarrassing things!<br> ,,vc_10460100022_018_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,The man's relentless caresses continued. At this rate，she felt she<br>would come just from his fingers.<br> 
+
+message,,""Looks like you're wet enough—this should be fine，"" the man said，<br>wrapping his arms around Elmia's waist.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10460100022_005_01,1,on
+
+wait,3
+
+l2dmessage,エルミア,Ngh! Ah! mmm，Aaaaah!<br> ,,vc_10460100022_019_01
+
+message,,The man's length slid into Elmia's tight core，spreading her open，and<br>soon the tip pressed against her womb and stopped.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,3
+
+l2dmessage,エルミア,Ngh... *pant*... Mmph... Are we really going to do it all the way here<br>like this?<br> ,,vc_10460100022_020_01
+
+message,,The man didn't answer，but his breathing grew rough at the sensation<br>of the elf's core，which he was tasting for the first time.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+message,エルミア,W-what is this，this way of doing things...! It's like I'm being raped，<br>isn't it!<br> ,,vc_10460100022_021_01
+
+message,,But the instant she thought that，Elmia felt a throbbing deep in her<br>belly.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,Blush00,on,STOP,6
+
+message,エルミア,W-what's wrong with me... Just the thought of being raped... is making<br>my heart race...<br> ,,vc_10460100022_022_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10460100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,エルミア,Ah! Uuhn... Aaaaah... Mmmmph!<br> ,,vc_10460100022_023_01
+
+message,,The man，breathing roughly，began to thrust wildly，pounding into her<br>without mercy again and again.<br> 
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+l2dmessage,エルミア,Ah! *gasp* Ah! Mmph! Aah...<br>*whimper* Mmph... Mmph... Ah! Ah! Yah... Ahaa!<br> ,,vc_10460100022_024_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The man's rough movements drove his cock in with a lewd slap，and<br>when he pulled back，he scraped the love juice from her inner walls.<br> 
+
+message,,His moves lacked consideration or gentleness—only his own pleasure.<br>Elmia mustered strength to resist，struggling to stay conscious.<br> 
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,11
+
+l2dmessage,エルミア,Ah! Ah! Yah! S-so rough... Mmph... *whimper* Mmph!<br>Ah! Mmph... Ah! Ahaa... I... I-I'm gonna break...!<br> ,,vc_10460100022_025_01
+
+message,,The man's rough thrusting continued relentlessly. The obscene<br>slapping of flesh echoed through the room.<br> 
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,10.5
+
+l2dmessage,エルミア,Mmph... T-the lewd sounds are echoing...! *pant*... Mmph... Ahaa...<br>Mmph... I-it feels... good!<br> ,,vc_10460100022_026_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Elmia wondered why she got so aroused. Was it instinctual pleasure in<br>being desired by a male and submitting to his strength?<br> 
+
+message,,Various thoughts swirled in her mind，but the thrusts continued to<br>slam into her，and her chain of reason was soon torn apart.<br> 
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,13
+
+l2dmessage,エルミア,Mmph... Aah! N-no! My head... it's going crazy!<br>Mmph... Ah! Ahaa! M-more... harder...<br> ,,vc_10460100022_027_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Hearing that，the man's thrusts became even more relentless. Elmia<br>felt like she wanted to sink into this sexual abyss.<br> 
+
+message,,'I'm gonna cum inside!' the man shouted excitedly.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion04
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6.5
+
+l2dmessage,エルミア,'Eh?! W-wait...! No! Not inside...! Ah，Aah... *pant*!'<br> ,,vc_10460100022_028_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,She struggled to escape his lustful trap，but her hips gave out.<br>Instead，he held her waist firmly and resumed his fierce thrusting.<br> 
+
+l2dmotion,MouthEmotion04
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+l2dmessage,エルミア,'Mmph... Ah... *pant*! I... I-I can't! Aah... I'm going to come! Ah! Ah!<br>Aah... *pant*!'<br> ,,vc_10460100022_029_01
+
+l2dmotion,FaceAngleReset
+
+message,,The man could hold back no longer. In the height of brutality，he<br>prepared to unleash all his desire，aiming his semen into her womb.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10460100022_007_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,エルミア,'I'm coming! I'm coming... Aaaaaah—!'<br> ,,vc_10460100022_030_01
+
+message,,Elmia reached her peak. At that moment，the man also emptied his<br>semen deep within her.<br> 
+
+l2dmotion,ExEmotion01
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+l2dmessage,エルミア,'Mmm... *whimper*... *pant*... I-inside... it's hot...'<br> ,,vc_10460100022_031_01
+
+l2dmotion,FaceAngleReset
+
+message,,From the gap between their joined bodies，the excess semen<br>overflowed，trickling down her thighs and soiling the floor.<br> 
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleBottom
+
+message,エルミア,'Mmph... it's a bit frustrating... that was such rough sex，yet I got<br>strangely excited...'<br> ,,vc_10460100022_032_01
+
+message,,Staring blankly at the white cum staining the floor，Elmia thought of<br>another man.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,FaceAngleLeft
+
+message,エルミア,(Being taken by force... I'd like that with the boss too... He's<br>gentle—would he do it if I asked...?)<br> ,,vc_10460100022_033_01
+
+message,,—That felt incredible... Elf bodies really are the best，aren't they?<br>Hearing the man murmur that，Elmia snapped back to reality.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10460100022_008_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,エルミア,Eh! A-ah，really...? Th-that's good...<br> ,,vc_10460100022_034_01
+
+message,,The moment he finished，the man reverted to his usual self，changing<br>to such a gentlemanly demeanor it was almost anticlimactic.<br> 
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,6
+
+l2dmessage,エルミア,W-well，in the end，I got carried away too... um，how should I put it...<br>I-it felt good... for me too...<br> ,,vc_10460100022_035_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,MouthEmotion06,on,STOP,10.5
+
+l2dmessage,エルミア,Ah... I-I can't anymore... my legs won't hold me... I can't stand...<br> ,,vc_10460100022_036_01
+
+message,,After saying that，Elmia's knees gave way and she collapsed to the<br>floor.<br> 
+
+
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,669 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10290100032
+
+charaload,chara_1,102901000G,ミルティーユ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10290100032_001_01,1,on
+
+
+
+l2dmotion,Blush00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.8
+
+window,on,0.15
+l2dmessage,ミルティーユ,*whimper*... this is so embarrassing...<br> ,,vc_10290100032_001_01
+
+message,,He forced her clothes open，baring her chest and flower.<br>She braced against the wall，bottom out，his hard cock exposed.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4.5
+
+asyncl2dmotion,MouthEmotionA,on,STOP,3.5
+
+l2dmotion,MouthEmotionB
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,ミルティーユ,Um，um... it's not that it's wrong.<br>Mil doesn't dislike it，you know?<br> ,,vc_10290100032_002_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Myrtille flustered and troubled，frantically trying to stop me.<br>Normally I'd have pitied her，but somehow now it didn't bother me—<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,ExEmotion00,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4.8
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4.8
+
+l2dmessage,ミルティーユ,Well，it's still daytime，and someone might come back，so...<br> ,,vc_10290100032_003_01
+
+message,,That didn't matter. I wanted to take you now.<br>When I said it firmly，Myrtille's voice caught in her throat.<br> 
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotionF,on,STOP,0.3
+
+l2dmotion,BodyAngleTop
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,MouthEmotionA,on,STOP,4
+
+asyncl2dmotion,FaceAngleRight,on,STOP,4.2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+l2dmessage,ミルティーユ,W-Well，when you put it that way...<br>Mil... Mil wants it too...<br> ,,vc_10290100032_004_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.3
+
+l2dmotion,EyeEmotionLeft
+
+message,,At his passionate words，Myrtille was flustered.<br>—'I'm going in，' he muttered briefly，and thrust his hips forward.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10290100032_002_01,1,on
+
+wait,3
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ミルティーユ,Ah，aah，aahn!<br> ,,vc_10290100032_005_01
+
+message,,He thrust his hard cock deep into her flower with a *squelch*.<br>It slid in smoothly with little effort，all the way to the hilt.<br> 
+
+l2dmotion,BlushReset
+
+message,,Though there seemed to be no resistance，the sudden insertion made<br>Myrtille let out a high-pitched cry.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,ExEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,4
+
+l2dmessage,ミルティーユ,Th-That's... Commaander，you can't do that...<br> ,,vc_10290100032_006_01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotionA,on,STOP,1.8
+
+message,,Despite her surprise，Myrtille firmly accepted his cock and let out a<br>half-hearted refusal，her voice tinged with sweetness.<br> 
+
+message,,The inside of her flower was moist and offered no resistance. Slightly<br>puzzled by this unexpected sensation，he stopped his movements.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.8
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.8
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.8
+
+l2dmessage,ミルティーユ,Um... Commaander?<br> ,,vc_10290100032_007_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.3
+
+message,,—Myrtille，you're soaking wet，aren't you?<br>—Don't tell me you were touching yourself while making sweets?<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,ExEmotion01
+
+l2dmotion,EyeOpen04
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotionF,on,STOP,0.3
+
+l2dmotion,EyebrowEmotionTop
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+asyncl2dmotion,ExEmotion00,on,STOP,3.5
+
+asyncl2dmotion,FaceEmotion01,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2.7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5.3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.3
+
+l2dmessage,ミルティーユ,Huh? N-No，that's not true!<br>M-Mil would never do such a thing!<br> ,,vc_10290100032_008_01
+
+message,,—Then why are you so wet? As he asked，the walls of her flower grew<br>even wetter，and love juice seeped from deep inside.<br> 
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotionA,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.3
+
+l2dmessage,ミルティーユ,Th-That's because...<br> ,,vc_10290100032_009_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+message,ミルティーユ,(Well，Mil also ate one piece，so...)<br> ,,vc_10290100032_010_01
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+message,,——Well，fine. I'll let her body do the talking. I set aside my questions<br>for Myrtille，who was mumbling and swallowing her words.<br> 
+
+message,,All I could think about was relieving my sexual desire. Seeking only<br>pleasure，I began thrusting——<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10290100032_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,ミルティーユ,*gasp*，*pant*，Aaaaaahn!<br> ,,vc_10290100032_011_01
+
+l2dmotion,FaceEmotion00
+
+message,,As I thrust my cock in and out，stirring her slick，honeyed depths，<br>Myrtille let out a moan louder than ever before.<br> 
+
+l2dmotion,FaceEmotionReset
+
+message,,——If you shout that loud，they'll hear you all the way to the bazaar. I<br>said that teasingly，and Myrtille's insides shuddered.<br> 
+
+l2dmotion,MouthEmotionA
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionB,on,STOP,4
+
+l2dmessage,ミルティーユ,H-ha... don't say such embarrassing things... Mmph，Hnn... Aaaaaaahn!<br> ,,vc_10290100032_012_01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,1
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,EyeEmotionReset
+
+message,,Myrtille tried to stifle her cries，but she couldn't hold back even for<br>a moment，and let out a high-pitched moan.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionReset
+
+message,,She seemed just as aroused as I was. So，deciding there was no need<br>to hesitate，I continued thrusting from behind.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10290100032_004_01,1,on
+
+wait,0.8
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,ミルティーユ,Ah! Aaaaah! N-no...!<br> ,,vc_10290100032_013_01
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,FaceAngleBottomRight
+
+message,,Myrtille trembled violently，desperately trying to suppress her voice.<br>I pulled my cock out of her depths.<br> 
+
+l2dmessage,ミルティーユ,Ngh，Aah，*pant* Aaahn...<br> ,,vc_10290100032_014_01
+
+message,,Myrtille's face twisted as she panted raggedly. She seemed overcome<br>by a pleasure so intense it was hard to believe she'd already come.<br> 
+
+asyncl2dmotion,ExEmotion01,on,STOP,1
+
+l2dmessage,ミルティーユ,*pant*... Ngh... *whimper*.♥<br> ,,vc_10290100032_015_01
+
+message,,——Has she already come? When I look，her pussy is already soaked to<br>overflowing.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotionA
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.3
+
+asyncl2dmotion,ExEmotion00,on,STOP,1
+
+l2dmessage,ミルティーユ,*gasp*... Please don't look...<br> ,,vc_10290100032_016_01
+
+l2dmotion,FaceAngleLeft
+
+message,,——Mine's all sticky with your syrup. I show her my cock，dripping with<br>love juice.<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.5
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,ミルティーユ,*whimper*... So embarrassing...<br> ,,vc_10290100032_017_01
+
+l2dmotion,FaceAngleReset
+
+message,,Myrtille，panting raggedly，felt ashamed to have come so<br>easily.——Then，the tip of my cock brushed against her back entrance.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+l2dmotion,ExEmotion01
+
+l2dmessage,ミルティーユ,Mmm，Ah!<br> ,,vc_10290100032_018_01
+
+message,,Myrtille reacted sensitively to the faintest touch. Maybe she can feel<br>pleasure from that hole too.<br> 
+
+message,,As if on cue，my cock is already slick with Myrtille's love juice. If<br>she's this soaked，I might be able to use her other hole too.<br> 
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,EyebrowEmotionTop
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.8
+
+l2dmessage,ミルティーユ,This... place...?<br> ,,vc_10290100032_019_01
+
+message,,Myrtille looked puzzled，unable to grasp his meaning. Without any<br>explanation，he pressed his cock against her asshole.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10290100032_005_01,1,on
+
+wait,1
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3
+
+l2dmessage,ミルティーユ,Huh...? Aaaaah!<br> ,,vc_10290100032_020_01
+
+message,,Her ass swallowed his cock. The Commander began thrusting hard.<br> 
+
+l2dmotion,MouthEmotionB
+
+message,,Unlike the front hole，her ass was less wet，but its uniquely soft，<br>squishy feel and painfully tight grip sent pleasure through his cock.<br> 
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+l2dmessage,ミルティーユ,N-no，Commander! Aah... That spot's not for that...!<br> ,,vc_10290100032_021_01
+
+message,,Even experienced Myrtille had never taken it in the back. Genuinely<br>shocked，she cried out，desperately trying to keep his cock out.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotionF
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,1.5
+
+asyncl2dmotion,MouthEmotionD,on,STOP,1.8
+
+asyncl2dmotion,EyeOpen03,on,STOP,1.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+l2dmessage,ミルティーユ,That's the bottom... it's a different place! It's not for that kind of<br>thing! *gasp*!<br> ,,vc_10290100032_022_01
+
+message,,His already-peaked arousal surged even higher at Myrtille's adorable<br>reaction.<br> 
+
+message,,Without stopping，he continued thrusting into her asshole，savoring<br>the sensation of her rear with his entire cock.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyebrowEmotionBottom
+
+l2dmessage,ミルティーユ,Mmph，Aaah... This is so weird...!<br> ,,vc_10290100032_023_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpen02
+
+message,,Though Myrtille kept refusing，her reactions grew sweet and<br>melting.—Should I stop，then? If he asked，her answer was this.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,BodyAngleReset
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionG,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+l2dmessage,ミルティーユ,N-no... Don't stop!♡<br> ,,vc_10290100032_024_01
+
+message,,Greedily accepting the unprecedented stimulation，Myrtille pleaded in<br>a melting voice.<br> 
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ミルティーユ,Because it feels so good...! Aaah! Having my bottom all squishy and<br>messy feels so good!<br> ,,vc_10290100032_025_01
+
+l2dmotion,EyebrowEmotionReset
+
+message,,When he thrust hard into her asshole，love juice gushed from her<br>pussy. The depraved sight made his impending climax build rapidly.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmessage,ミルティーユ,If it's my beloved Commander，no matter what you do to me，Mil is<br>happy! More，do it lots more...!<br> ,,vc_10290100032_026_01
+
+l2dmotion,FaceAngleBottom
+
+message,,Myrtille moaned desperately and clenched tightly around him. His<br>cock was squeezed even harder，sending a jolt of pleasure up his spine.<br> 
+
+l2dmotion,EyeOpen01
+
+message,,Myrtille，you're the best today. I'm overflowing with affection for you<br>as you accept every act driven by my excitement.<br> 
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,Blush01
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionG,on,STOP,0.5
+
+l2dmessage,ミルティーユ,Commander too!♡ You're always the best!♡<br> ,,vc_10290100032_027_01
+
+l2dmotion,EyeOpen00
+
+l2dmessage,ミルティーユ,Mil loves you... Mil loves you!♡ Mil loves you!♡ *gasp* Aaaaah!<br> ,,vc_10290100032_028_01
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionBottom,on,STOP,0.5
+
+message,,The sight of Myrtille moaning lewdly and losing control excited me<br>breathlessly. Overcome by this mysterious arousal，I couldn't hold back.<br> 
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,BodyAngleTop
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionH,on,STOP,0.5
+
+l2dmessage,ミルティーユ,Commander，let it out! White syrup，lots! Mmph!<br> ,,vc_10290100032_029_01
+
+message,,She must have noticed my twitching cock. I released all my desire into<br>Myrtille's asshole as she begged with a voice melting with pleasure.<br> 
+
+l2dmotion,MouthEmotionG
+
+l2dmessage,ミルティーユ,Let it out lots into Mil's bottom!<br> ,,vc_10290100032_030_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene06,on,STOP,0.5
+
+bgvplay,bgvtag2_6,bgv_10290100032_006_01,1,on
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,ミルティーユ,Mmph，Aaaaaaaah!<br> ,,vc_10290100032_031_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,Blush02,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+l2dmotion,BodyAngleTop
+
+message,,At the moment I released a huge amount of semen into Myrtille's<br>asshole，she too arched her back and reached climax.<br> 
+
+l2dmotion,BodyAngleReset
+
+l2dmessage,ミルティーユ,*whimper*，Mmph... *pant* Aaaahn...<br> ,,vc_10290100032_032_01
+
+message,,The push from the hole hit my cock，and I shuddered. Thick cum<br>spilling from her asshole gave me deep satisfaction.<br> 
+
+l2dmotion,MouthEmotionG
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpen03,on,STOP,5
+
+l2dmessage,ミルティーユ,Mmm... Mil's tummy is warm.♡ This feels so strange.♡<br> ,,vc_10290100032_033_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+message,,Myrtille spoke in a faltering，melting voice. Even though I had my way<br>with her，a worry crossed my mind: was she okay?<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotionG,on,STOP,0.3
+
+message,,—Up until a moment ago，I felt like I wasn't myself. Now that I've<br>ejaculated and am calm，I can't help but be puzzled.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,1.4
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,1.4
+
+asyncl2dmotion,MouthEmotionA,on,STOP,1.4
+
+asyncl2dmotion,EyeOpen02,on,STOP,1.4
+
+message,兵士Ａ,Hey，something smells good? Is someone baking something?<br> 
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+message,兵士Ｂ,What? But don't you smell something weird? It smells like squid or<br>something...<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10290100032_007_01,1
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+l2dmotion,FaceEmotionReset
+
+message,,Voices approached. I couldn't let anyone see Myrtille like this.<br>—Myrtille，let's hide，quick!<br> 
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.8
+
+l2dmotion,ExEmotion02
+
+l2dmessage,ミルティーユ,Yess... with Commander，I'll come anywhere... ehehe.♡<br> ,,vc_10290100032_034_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleLeft
+
+message,,I took the hand of the dreamily murmuring Myrtille and hastily left the<br>spot—<br> 
+
+
+bgvstop,bgvtag2_7,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

@@ -1,0 +1,174 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000b,off
+
+charaload,chara_1,102801000X,エミリー
+
+fade,In,Black,0.5
+
+
+seplay,seopening_tag,se5030001
+title,What Do You Think of My Boobs?
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+charaface,chara_1,FaceHappy
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+window,on,0.15
+message,エミリー,Coming，coming!♪<br>Sorry to keep you waiting!♪<br> ,,vc_10280100021_001_01
+
+message,,Emily had grown fully accustomed to her brothel outfit，and she was<br>working energetically again today.<br> 
+
+asyncseplay,setag1_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceFun
+message,エミリー,Oh，sir，it's been a while!♪<br>Of course I remember you.<br> ,,vc_10280100021_002_01
+
+asyncseplay,setag1_3,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharareaction,chara_1,Jump,1,STOP
+
+charaface,chara_1,FaceSurprise
+message,エミリー,Huh? Did I get prettier since you last saw me? That makes me happy.<br>Then maybe I'll give you some special service today!♪<br> ,,vc_10280100021_003_01
+
+charaface,chara_1,FaceHappy
+message,,Emily was popular with many customers due to her carefree<br>brightness，and she was frequently approached from all sides.<br> 
+
+message,,One man's eyes intently followed Emily's figure. The regular customer<br>muttered to himself that Emily was really popular after all.<br> 
+
+message,,The man seemed to want to call out to her，but Emily was talking with<br>customers all around，and he couldn't quite find the timing.<br> 
+
+asyncseplay,setag1_4,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+charaface,chara_1,FaceFun
+message,エミリー,Ah...♪<br> ,,vc_10280100021_004_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charahide,chara_1,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+charascale,chara_1,1.3,0
+
+charashow,chara_1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+window,on,0.15
+message,,Meanwhile，Emily noticed the regular customer.<br>And she casually came over to his table.<br> 
+
+asyncseplay,setag1_5,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+message,エミリー,You came again today!<br>Ehehe，I'm so happy!♪<br> ,,vc_10280100021_005_01
+
+message,,Emily's smile made the man so overjoyed he felt like ascending.<br>Then，flustered，he rummaged in his pocket and pulled something out.<br> 
+
+message,,They were gold coins.<br>And a substantial amount.<br> 
+
+asyncseplay,setag1_6,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+charaface,chara_1,FaceSurprise
+
+asynccharareaction,chara_1,nod,1,STOP
+message,エミリー,Huh? So many gold coins!<br>Where did all these come from?<br> ,,vc_10280100021_006_01
+
+message,,The man told the surprised Emily that he had worked hard and saved<br>them all for her.<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+message,エミリー,Huh? For me?<br>That means...<br> ,,vc_10280100021_007_01
+
+message,,The man，turning bright red and stuttering，asked if she would go<br>upstairs with him today.<br> 
+
+asyncseplay,setag1_7,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceHappy
+message,エミリー,Yes! I'd be delighted!♪<br>I'm so happy that you worked so hard for me!♪<br> ,,vc_10280100021_008_01
+
+message,,Emily showed her usual bright smile and cheerfully took the man's<br>hand.<br> 
+
+asyncseplay,setag1_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceFun
+message,エミリー,Well then，let's go.<br> ,,vc_10280100021_009_01
+
+message,,As he went upstairs with his beloved Emily，the man's heart was<br>pounding so hard it felt like it might burst.<br> 
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

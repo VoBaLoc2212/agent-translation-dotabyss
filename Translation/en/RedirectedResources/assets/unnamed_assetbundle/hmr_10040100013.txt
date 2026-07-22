@@ -1,0 +1,67 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,100401000X,シャオレイ
+
+wait,1
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceFun
+
+charashow,chara_1,0.3
+
+
+window,on,0.15
+message,<user>,...Xiaolei，does your arm hurt? I got so engrossed midway that I<br>couldn't check on you.<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_1,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+message,シャオレイ,Xiaolei is fine. Xiaolei is strong.<br> ,,vc_10040100013_001_01
+
+message,<user>,I see. That's good to hear.<br> 
+
+
+asyncseplay,setag3_2,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,シャオレイ,And... Xiaolei now likes sex. Sex is fun.<br> ,,vc_10040100013_002_01
+
+
+asyncseplay,setag3_3,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,シャオレイ,Xiaolei wants Teacher to teach Xiaolei about sex again.<br> ,,vc_10040100013_003_01
+
+message,<user>,Ah，right... I guess so. Looking after everyone is part of a<br>Commander's duties.<br> 
+
+asyncseplay,setag3_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Yay! Xiaolei looks forward to it，Teacher!♪<br> ,,vc_10040100013_004_01
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

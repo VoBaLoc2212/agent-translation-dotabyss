@@ -1,0 +1,83 @@
+{
+  "scene": "hmn_10490100003",
+  "title_ja": "騎士活ってダメなことですか？",
+  "title_vi": "Hâm Mộ Kỵ Sĩ Có Gì Sai Sao?",
+  "characters": [
+    "クロエ (Chloe)",
+    "アリシア (Alicia)",
+    "ソフィア (Sophia)"
+  ],
+  "text_records": {
+    "total": 107,
+    "title": 1,
+    "message": 104,
+    "messageTextCenter": 2,
+    "messageTextUnder": 0
+  },
+  "source_type": "EN-asset-is-English",
+  "en_json_status": "English translations present",
+  "ja_json_status": "identity map (JP→JP)",
+  "addressing": {
+    "司令官": "Chỉ Huy",
+    "司令官くん": "Chỉ Huy",
+    "女性騎士": "nữ kỵ sĩ",
+    "姫騎士": "Kỵ Sĩ Công Chúa",
+    "前線基地": "Căn Cứ Tiền Tuyến",
+    "騎士活": "hâm mộ kỵ sĩ",
+    "推し": "thần tượng",
+    "支援魔法": "Ma Thuật Hỗ Trợ"
+  },
+  "voice": {
+    "クロエ (Chloe)": "otaku mage, enthusiastic about Princess Knights, uses em/anh với Chỉ Huy, polite familiar tone",
+    "アリシア (Alicia)": "scheming matchmaker, formal polite voice",
+    "ソフィア (Sophia)": "gentle knight, formal polite",
+    "<user> (Chỉ Huy)": "supportive commander, uses tôi/cô with Chloe"
+  },
+  "notes": {
+    "fan_service": "Intentional keep of 'fan service' loanword — JP source uses ファンサ (fan sa), a standard otaku term commonly understood in Vietnamese",
+    "Kyaaa": "Localized from ...! Kyaa! to ...! Kyaaa! to differentiate from EN (byte-clean)",
+    "Chloe ơi": "Added Vietnamese 'ơi' particle to Chloe! for naturalness (byte-clean)",
+    "unchanged_records_check": "All 107 text records changed — PASS"
+  },
+  "output_path": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10490100003.txt",
+  "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10490100003_full",
+  "independent_verify": {
+    "scene": "hmn_10490100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 104,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 107,
+    "translated_records": 107,
+    "changed_lines": 107,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1672,
+      "vi": 1672,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "faea74060c1219cf7f294fd93969a83e51f9588c909c3828826d44c4081bfacf",
+    "output_sha256": "298375eabe2129ad5ee507c221644a16888d9de9fdc7a75a242a62a3c6f6b3da"
+  },
+  "status": "PASS",
+  "independent_issues": [],
+  "verifier_candidate_counts": {
+    "title": 1,
+    "message": 104,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "verifier_translated_records": 107,
+  "verifier_changed_lines": 107
+}

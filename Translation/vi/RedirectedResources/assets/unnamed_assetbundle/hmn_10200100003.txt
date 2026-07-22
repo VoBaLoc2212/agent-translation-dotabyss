@@ -1,0 +1,601 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11200a
+
+cameramove,LinearTarget,X,-100,0
+
+charaload,chara_1,102001000G,ラヴェリア
+charamove,chara_1,Set,X,-100,0
+
+charaload,chara_2,400101000,店主
+charamove,chara_2,Set,X,650,0
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,Quá Đỗi Dễ Thương!
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+
+
+seplay,setag1_1,se4030002,0,1
+
+wait,2
+
+window,on,0.15
+message,<user>,Laveria chắc chắn đã vào tiệm này rồi... Rốt cuộc đây là tiệm gì thế...?<br> 
+
+
+
+bgmstop,bgmtag1_1,0.25,0
+message,？？？,Đừng động đậy.<br> ,900000001,vc_10200100003_001_01,
+
+bgmplay,bgmtag1_2,bgm0034,0.75,1
+message,<user>,Hả!<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Một lưỡi dao kề cổ anh...! Khi nào cô ấy lẻn ra sau lưng anh vậy!?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Á‚ thôi anh chịu thua‚ anh đầu hàng. Anh không chống cự đâu‚ chỉ xin tha mạng cho anh.<br> 
+
+message,<user>,Nhưng anh khuyên ngươi nên vứt vũ khí và mau rời khỏi đây đi‚ vì<br>hiện tại trong tiệm này có một nữ chiến binh mạnh đến kinh ngạc‚ đáng tin cậy.<br> 
+
+bgmstop,bgmtag1_2,0.25,0
+
+window,off
+wait,0.15
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,ラヴェリア,...Cô gái ""mạnh đến kinh ngạc"" mà anh vừa nhắc—chính là em‚ đúng không‚<br>anh?<br> ,,vc_10200100003_002_01
+
+bgmplay,bgmtag1_3,bgm0027,0.75,1
+
+message,<user>,Cái gì! Chính là em sao‚ Laveria! Anh cứ tưởng em là một loại sát thủ nào đó!<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_2,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP,2
+asynccharaface,chara_1,FaceNormal,STOP,2
+
+asynccharaface,chara_1,EyeClose,STOP,5
+asynccharaface,chara_1,FaceNormal,STOP,5
+message,ラヴェリア,Lời đó phải là của em chứ. Em cứ tưởng có kẻ tình nghi đang bám đuôi‚<br>hóa ra lại là anh‚ Laveria.<br> ,,vc_10200100003_003_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Cố tình lẩn trốn rồi bám theo em—em định làm gì thế?<br> ,,vc_10200100003_004_01
+
+message,<user>,Chẳng có lý do lớn lao. Anh chỉ ghé xem thử vì em đã biểu hiện<br>sự đáng ngờ quá rành rành.<br> 
+
+asyncseplay,setag1_3,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,ラヴェリア,...Em lại đáng ngờ đến thế sao?<br> ,,vc_10200100003_005_01
+
+message,<user>,Đáng ngờ đến mức nếu anh là lính canh‚ anh đã giải em về<br>trạm gác rồi.<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,ラヴェリア,R-Phải... Xin lỗi vì đã làm anh lo.<br> ,,vc_10200100003_006_01
+
+message,<user>,Nhưng sao em lại làm vậy? Có chuyện gì ở tiệm này<br>hay không?<br> 
+
+message,<user>,Trông qua thì... có vẻ chỉ là một tiệm đồ dễ thương thôi.<br> 
+
+charaface,chara_1,FaceShy
+
+asyncseplay,setag1_5,se4800011,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+message,ラヴェリア,C-Đúng‚ đúng rồi‚ đây là tiệm bán đồ dễ thương—một tiệm xinh xắn... anh<br>không nghĩ có gì kỳ lạ đâu‚ đúng không?<br> ,,vc_10200100003_007_01
+
+message,<user>,Kỳ lạ không phải là tiệm‚ mà là em‚ Laveria. Hay em có<br>việc gì ở đây?<br> 
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_6,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+message,ラヴェリア,Ơ‚ cũng chẳng hẳn là việc‚ chỉ là... không phải em có lý do<br>gì đặc biệt đâu...<br> ,,vc_10200100003_008_01
+
+message,<user>,Có chuyện gì em không thể nói với anh sao? Á! Anh hiểu rồi‚ giờ anh biết rồi!<br> 
+
+message,<user>,Hóa ra là vậy—tiệm này dính líu đến thế giới ngầm‚ và em đến để<br>điều tra‚ đúng không?<br> 
+
+
+linework,on,White,Middle
+
+charaface,chara_1,FaceAnger
+message,ラヴェリア,Không đời nào! Làm sao một tiệm xinh đẹp thế này lại có quan hệ<br>mờ ám chứ!<br> ,,vc_10200100003_009_01
+
+
+message,ラヴェリア,Em chỉ đến để mua đồ ""dễ thương"" thôi‚ thế thôi!<br> ,,vc_10200100003_010_01
+
+linework,off,White,Middle
+
+message,<user>,…<br> 
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+wait,0.1
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,…<br> ,,vc_10200100003_011_01
+
+message,<user>,...Vậy là em đến để mua đồ ""dễ thương"".<br> 
+
+
+asyncseplay,setag1_7,se4800012,0,1,CONT
+
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,ラヴェリア,Á... không‚ ý anh là...<br> ,,vc_10200100003_012_01
+
+message,<user>,Ừ‚ đúng rồi‚ chỗ này dường như chỉ bán toàn đồ dễ thương. Thế nên<br>em đến mua đồ ""dễ thương"" là đúng thôi‚ phải không? Thế đấy.<br> 
+
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,ラヴェリア,*ưm*... *chết tiệt*... Sao? Nếu anh muốn cười thì cứ cười đi. Đúng rồi‚<br>chính em—một nữ chiến binh—đã đến mua đồ dễ thương!<br> ,,vc_10200100003_013_01
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,Em thích đồ dễ thương! Em yêu cả cái khái niệm dễ thương! Phòng em đầy<br>những thú bông! Có vấn đề gì không hả?<br> ,,vc_10200100003_014_01
+
+message,<user>,Không‚ anh không phiền. Thế nên anh tưởng em đến mua quà tặng‚<br>hóa ra là cho chính mình‚ đúng không?<br> 
+
+charaface,chara_1,FaceUnique02
+
+asyncseplay,setag1_8,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,ラヴェリア,Á... ôi... ưgh‚ em lỡ lời rồi! Em nói quá nhiều!<br> ,,vc_10200100003_015_01
+
+message,<user>,Cô ấy đã lỡ lời sạch sẽ và đỏ mặt rần rộ! Anh không ngờ<br>Laveria lại có nét đáng yêu đến thế.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1.5,0,LinearTarget
+
+cameramove,LinearTarget,Y,200,0
+
+charaface,chara_1,FaceHappy
+
+blur,on,BACK,0
+
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,ラヴェリア,Ha! Anh nhìn thấu thật đấy‚ anh!<br> ,,vc_10200100003_016_01
+
+message,<user>,Ơ—ôi chao!<br> 
+
+asyncseplay,setag1_9,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+message,ラヴェリア,Đúng rồi! Ở đây có đống hàng dễ thương!<br> ,,vc_10200100003_017_01
+
+message,<user>,Không‚ không‚ khi anh nói ""dễ thương""‚ anh đâu có nhắc đến tiệm hay<br>món hàng...<br> 
+
+charaface,chara_1,FaceUnique01
+message,ラヴェリア,Đúng‚ tiệm này là một danh tiệm ẩn nổi tiếng. Họ mở chi nhánh tại đây để<br>xoa dịu lòng người ở căn cứ.<br> ,,vc_10200100003_018_01
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_10,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,Không chỉ dễ thương bề ngoài—triết lý của nó tràn ngập<br>sự đáng yêu. Tuyệt diệu làm sao...!<br> ,,vc_10200100003_019_01
+
+message,<user>,Laveria chẳng thèm nghe anh nói chút nào...! Hay là anh cứ để em ấy yên<br>và đừng phá không khí này...?<br> 
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_11,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+message,ラヴェリア,Em hiểu rồi‚ anh‚ em hiểu rồi! Bầu không khí này thật khó cưỡng! Đúng‚<br>tiệm này không chỉ có hàng—cả không khí cũng dễ thương!<br> ,,vc_10200100003_020_01
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_12,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+message,ラヴェリア,Chỉ cần ở trong không gian này‚ em như được bao bọc bởi sự dễ thương... Á‚ thật đáng yêu...<br> ,,vc_10200100003_021_01
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_13,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,...*há hốc!* E-xin lỗi‚ em đã nói quá đà và lỡ lời...<br> ,,vc_10200100003_022_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+camerazoom,1,0,LinearTarget
+
+cameramove,LinearTarget,Y,0,0
+
+blur,off,BACK,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+window,on,0.15
+message,<user>,...Em đã trở lại rồi? Ừ‚ nó thật sự dễ thương‚ ừm hứm. Anh cứ cảm giác như<br>đang nạp quá liều dễ thương.<br> 
+
+charaface,chara_1,FaceHappy
+
+asyncseplay,setag1_14,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,Á‚ anh đồng ý. Anh bị bao quanh bởi đồ dễ thương đến mức gần chịu không nổi...<br> ,,vc_10200100003_023_01
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Không‚ quan trọng hơn... Vậy là giờ anh đã biết tất cả về em rồi‚<br>anh...<br> ,,vc_10200100003_024_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Em van anh đấy‚ anh. Anh làm ơn quên chuyện này đi được không?<br> ,,vc_10200100003_025_01
+
+message,<user>,Anh có thể giả vờ quên‚ nhưng như thế lại càng khó xử hơn‚ anh<br>nghĩ sao?<br> 
+
+message,<user>,Thôi‚ nếu điều đó làm em bận tâm‚ Laveria‚ anh sẽ giữ kín. Chứ anh đâu có<br>kể với ai đâu.<br> 
+
+
+charaface,chara_1,FaceUnique01
+
+asyncseplay,setag1_15,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+message,ラヴェリア,...Nếu anh đã nói vậy‚ anh‚ em tin anh. Thế thì nhẹ nhõm rồi. Cảm ơn anh.<br> ,,vc_10200100003_026_01
+
+message,<user>,Em cần phải giấu kỹ đến thế sao? Đâu phải sở thích xấu đâu.<br> 
+
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,...Nhưng mà xấu hổ quá‚ đúng không? Một nữ chiến binh lại mê đồ dễ thương như vậy.<br> ,,vc_10200100003_027_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Như anh nói‚ anh‚ em phải là một nữ chiến binh đáng tin cậy. Em có<br>hình tượng cần giữ gìn.<br> ,,vc_10200100003_028_01
+
+message,<user>,Thế à? Cá nhân anh thấy đó là một sự bất ngờ thú vị đấy.<br> 
+
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Hơn nữa‚ đồ dễ thương là dành cho người dễ thương. Kẻ như em<br>thực không xứng sở hữu chúng.<br> ,,vc_10200100003_029_01
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharaface,chara_1,FaceSad,STOP,3.5
+
+asyncseplay,setag1_16,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,ラヴェリア,Đúng‚ em biết mà. Một nữ chiến binh thô ráp như em không hợp với tiệm<br>như thế này...<br> ,,vc_10200100003_030_01
+
+message,<user>,Thật sao? Anh thấy chẳng có chuyện đó đâu.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Em không cần nịnh hót. Em tự biết mình thế nào. Em sẽ về trước khi<br>trở nên vướng mắt ở tiệm.<br> ,,vc_10200100003_031_01
+
+
+message,<user>,Á‚ khoan đã‚ Laveria. Em định bỏ mặc anh ở đây thật sao?<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_17,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,...Ý anh là sao?<br> ,,vc_10200100003_032_01
+
+message,<user>,Hôm nay anh bị kề dao sau lưng‚ nên anh bất an. Ở một mình thì<br>đáng sợ... Anh cần một vệ sĩ đáng tin cậy‚ em biết không?<br> 
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP,0.5
+message,ラヴェリア,*rên rẩm*... thôi được. Nếu có ai tới‚ em sẽ nói em là vệ sĩ của anh‚ rõ chưa!<br> ,,vc_10200100003_033_01
+
+message,<user>,Ừ‚ được đấy. Thế thì... hmm‚ anh nên lấy cái nào ta?<br> 
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_18,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+message,ラヴェリア,Anh định mua gì sao?<br> ,,vc_10200100003_034_01
+
+message,<user>,Một món quà nho nhỏ thôi.<br> 
+
+asynccharaemo,chara_1,Flash,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP,0.2
+message,ラヴェリア,Á... Alicia từng để mắt đến chỗ này.<br> ,,vc_10200100003_035_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Mọi thứ về cô ấy đều dễ thương. Khác với em‚ đồ ở tiệm này có lẽ<br>rất hợp với cô ấy.<br> ,,vc_10200100003_036_01
+
+message,<user>,Thôi‚ quà tặng cho một cô gái dễ thương chắc chắn là lựa chọn đúng... Ồ‚ cái này<br>có nét giống em đấy‚ Laveria.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asyncseplay,setag1_19,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Giống em sao?<br> ,,vc_10200100003_037_01
+
+message,<user>,Nó là thú bông trông đáng tin cậy mà lại mềm mại‚ búng được.<br>Cá nhân anh thấy nó hợp với em hoàn hảo.<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_20,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+message,ラヴェリア,Đó là mẫu mới của dòng thú bông đó... Nó đã có hàng rồi!<br> ,,vc_10200100003_038_01
+
+message,<user>,Tốt‚ trông như em cũng chẳng ghét nó. Vậy anh lấy con này.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Khoan‚ Chỉ Huy. Đó chỉ là sở thích cá nhân của em thôi‚ em không rõ nó<br>có hợp gu Alicia hay không.<br> ,,vc_10200100003_039_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Điều quan trọng là người nhận cảm thấy thế nào. Anh nên hỏi cô ấy<br>trước đã...<br> ,,vc_10200100003_040_01
+
+message,<user>,Thế thì không sao‚ ổn mà. Này‚ chủ tiệm‚ giúp anh<br>được không?<br> 
+
+window,off
+wait,0.15
+
+seplay,setag1_21,se4030002,0,1
+
+asynccameramove,LinearTarget,X,100,1,STOP
+
+asynccharashow,chara_2,0.3,STOP,0.5
+asynccharamove,chara_2,EaseOutTarget,X,550,0.3,STOP,0.5
+
+asynccharaface,chara_1,EyeOpen,STOP,0.6
+asynccharaface,chara_1,FaceNormal,STOP,0.6
+window,on,0.15
+message,店主,Dạ‚ khách cần gì ạ?<br> ,,vc_10200100003_041_01
+
+message,<user>,Làm ơn gói hộ anh cái này được không? Anh định tặng nó cho một cô gái<br>dễ thương.<br> 
+
+
+charaface,chara_1,FaceSad
+
+asyncseplay,setag1_22,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+message,ラヴェリア,…<br> ,,vc_10200100003_042_01
+
+charaface,chara_2,FaceHappy
+
+asyncseplay,setag1_23,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+message,店主,Ôi chao‚ thế à? Tất nhiên‚ tôi sẽ gói thật xinh xắn cho khách.<br> ,,vc_10200100003_043_01
+
+message,<user>,Cảm ơn‚ anh nhờ chị đấy.<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+
+asynccharareaction,chara_2,Nod,1,STOP
+window,on,0.15
+message,店主,Dạ‚ của khách đây. Chắc chắn họ sẽ thích cho mà xem.<br> ,,vc_10200100003_044_01
+
+window,off
+wait,0.15
+
+seplay,setag1_24,se4030003,0,1
+
+asynccameramove,LinearTarget,X,-100,1,STOP
+
+asynccharahide,chara_2,0.3,STOP
+asynccharamove,chara_2,EaseOutTarget,X,650,0.3,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,0.6
+
+asyncseplay,setag1_25,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+window,on,0.15
+message,ラヴェリア,Biết bao nơ‚ giấy gói đủ sắc màu‚ và một nhân vật linh vật<br>được đặt khéo léo...!<br> ,,vc_10200100003_045_01
+
+asyncseplay,setag1_26,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+message,ラヴェリア,Dễ thương quá‚ dễ thương quá! Thế ra đây là hàng thật...!<br> ,,vc_10200100003_046_01
+
+message,<user>,Ngay cả anh cũng thấy nó khá dễ thương... Nào‚ Laveria.<br> 
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,ラヴェリア,Á‚ về phòng chỉ huy‚ anh sẽ đưa cái này cho Alicia—<br> ,,vc_10200100003_047_01
+
+bgmstop,bgmtag1_3,0.25,0
+
+message,<user>,Đây là quà tặng‚ Laveria. Hãy nhận lấy nó.<br> 
+
+bgmplay,bgmtag1_4,bgm0031,0.75,1
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_27,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+message,ラヴェリア,Hả...? Cho... em sao...?<br> ,,vc_10200100003_048_01
+
+message,<user>,Ừ. Em luôn giúp đỡ anh‚ dù trên chiến trường hay ở<br>phòng chỉ huy. Từ giờ anh vẫn trông cậy vào em.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharareaction,chara_1,Jump,1,STOP
+message,ラヴェリア,Cái gì...! Không‚ em không thể nhận.<br> ,,vc_10200100003_049_01
+
+message,<user>,Tại sao không? Nãy em nói về nó đầy nhiệt huyết thế kia‚ rõ ràng em thích mà‚<br>đúng không?<br> 
+
+
+charaface,chara_1,FaceUnique02
+
+asynccharaface,chara_1,FaceSad,STOP,2
+message,ラヴェリア,Tất nhiên em thích. Nhưng ngay cả anh cũng thấy kỳ lạ khi<br>kẻ như em lại thích đồ dễ thương...!<br> ,,vc_10200100003_050_01
+
+message,<user>,Chẳng kỳ lạ chút nào. Đó là sở thích tốt mà. Em không cần kể<br>với ai‚ nhưng cũng chẳng cần xấu hổ.<br> 
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,C-nhưng‚ đồ này là cho các cô gái dễ thương mà‚ đúng không...?<br> ,,vc_10200100003_051_01
+
+message,<user>,Đó là lý do anh tặng em‚ Laveria. Nó là quà cho một cô gái dễ thương.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Em sao...?<br> ,,vc_10200100003_052_01
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,E-không cần đâu. Em chẳng dễ thương tí nào.<br> ,,vc_10200100003_053_01
+
+message,<user>,Không‚ hôm nay em dễ thương suốt cả ngày. Em đã cho anh thấy nét đáng yêu của mình‚<br>chứ không chỉ là một nữ chiến binh đáng tin cậy.<br> 
+
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,Em... dễ thương sao...?<br> ,,vc_10200100003_054_01
+
+message,<user>,Ừ‚ em dễ thương mà. Cách mắt em sáng lên khi nói về<br>những thứ em yêu thích‚ và cái cách em bối rối sau khi nói quá nhiều.<br> 
+
+message,<user>,Có gì sai đâu khi một cô gái dễ thương thích đồ dễ thương? Nó hợp với em<br>hoàn hảo mà‚ Laveria.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ラヴェリア,Anh...<br> ,,vc_10200100003_055_01
+
+message,<user>,Thôi‚ cứ coi đây là tiền thưởng. Lần sau anh lại nhờ em.<br> 
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,Nod,0.5,STOP,1.7
+message,ラヴェリア,...Ừ‚ cảm ơn anh.<br> ,,vc_10200100003_056_01
+
+message,<user>,Được rồi. Ta về thôi. Vẫn còn chút việc phải làm mà.<br> 
+
+window,off
+wait,0.15
+
+seplay,setag1_28,se4030003,0,1
+
+wait,1.2
+
+charaface,chara_1,FaceSad
+window,on,0.15
+message,ラヴェリア,...Á‚ đúng là em là thú bông dễ thương thật. Dù nó chẳng hợp với<br>kẻ như em chút nào...<br> ,,vc_10200100003_057_01
+
+charaface,chara_1,FaceUnique01
+message,ラヴェリア,Nhưng anh bảo em là một cô gái dễ thương. Anh nói đồ dễ thương hợp với em.<br> ,,vc_10200100003_058_01
+
+charaface,chara_1,FaceShy
+message,ラヴェリア,...Anh cũng thấy em dễ thương sao‚ giống như em nhìn anh vậy...?<br> ,,vc_10200100003_059_01
+
+charaface,chara_1,FaceFun
+
+asyncseplay,setag1_29,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP,3
+message,ラヴェリア,Nếu vậy thì‚ em cũng hơi vui một chút. Nếu chỉ trước mặt<br>anh thôi‚ thì có lẽ làm cô gái dễ thương cũng chẳng tệ‚ nhỉ.<br> ,,vc_10200100003_060_01
+
+window,off
+bgmstop,bgmtag1_4,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

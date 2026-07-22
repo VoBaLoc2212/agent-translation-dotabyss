@@ -1,0 +1,550 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11000a
+
+charaload,chara_1,100401000G,シャオレイ
+charamove,chara_1,Set,X,400,0
+
+charaload,chara_2,300201000,アリシア
+
+asynccharaface,chara_2,FaceFun,STOP
+
+charaitem,chara_2,0,0,1,0
+
+charapose,chara_2,3
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Siêu Sức Mạnh Vụng Về
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+charashow,chara_2,0.3
+
+asyncseplay,setag1_1,se4800004,0,1,CONT
+
+asynccharaemo,chara_2,Laugh,STOP
+
+window,on,0.15
+message,アリシア,――Vậy là anh trở thành thầy của Xiaolei rồi nhỉ‚ Chỉ Huy.<br> ,,vc_10040100002_001_01
+
+message,<user>,Anh còn biết làm sao đây? Bị con bé dùng sức quái vật đó giữ lại thì<br>anh không thoát nổi. Hơn nữa‚ em ấy cũng rất đáng kỳ vọng làm chiến lực cho Căn Cứ Tiền Tuyến.<br> 
+
+charapose,chara_2,2
+
+asyncseplay,setag1_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,STOP
+
+asynccharaface,chara_2,FaceHappy,STOP
+message,アリシア,Xem em ấy như chiến lực thì không sao‚ nhưng với tư cách là thầy<br>xin anh hãy dạy dỗ và dẫn dắt em ấy cho đàng hoàng nhé.<br> ,,vc_10040100002_002_01
+
+asynccharaface,chara_2,EyeOpen,STOP
+asynccharaface,chara_2,FaceNormal,STOP
+message,<user>,Anh cũng định vậy‚ nhưng… có vẻ chẳng có mấy thứ để dạy đâu.<br>Dù sao Xiaolei mạnh hơn anh nhiều mà.<br> 
+
+message,<user>,Chỉ cần bù vào phần thường thức còn thiếu và giúp con bé khỏi gặp rắc rối là được.<br>Làm vậy thì em ấy sẽ thành một chiến lực đáng tin—<br> 
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_1,0.5,0
+
+seplay,setag1_3,se4900001,0,1
+
+shake,BACK,,10,0,0.5,1,off,off,0
+
+asyncseplay,setag1_4,se4800017,0,1,CONT
+
+asynccharaemo,chara_2,Shock,STOP
+
+asynccharaface,chara_2,FaceSurprise,STOP
+
+asynccharareaction,chara_2,Jump,1,STOP
+
+asynccharamove,chara_2,Linear,X,-400,0.5,CONT
+
+charapose,chara_2,1
+
+asynccharaface,chara_2,FaceSad,STOP,1
+window,on,0.15
+message,アリシア,Á! Cửa phòng chỉ huy… bị thổi bay rồi…!<br> ,,vc_10040100002_003_01
+
+message,<user>,Có chuyện gì vậy!? Tai ương à? Quái vật à? Hay là hành vi phá hoại<br>của gián điệp nào đó!?<br> 
+
+window,off
+wait,0.15
+
+asyncseplay,setag1_5,se4010102,0,1,CONT
+
+charashow,chara_1,0.3
+
+bgmplay,bgmtag1_2,bgm0026,0.75,1
+
+wait,1
+
+asyncseplay,setag1_6,se4800013,0,1,CONT
+
+asynccharaemo,chara_1,Spirits,STOP
+
+window,on,0.15
+message,シャオレイ,Thầy‚ Xiaolei‚ tới rồi.<br> ,,vc_10040100002_004_01
+
+asynccharaface,chara_2,FaceSurprise,STOP
+message,<user>,Hóa ra là người nhà gây án à! Em đang làm cái gì vậy hả!<br> 
+
+asyncseplay,setag1_7,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,シャオレイ,…? Xiaolei vào phòng của thầy.<br> ,,vc_10040100002_005_01
+
+message,<user>,Không phải ý đó! Sao em lại thổi bay cái cửa!?<br> 
+
+window,off
+wait,0.15
+
+asyncseplay,setag1_8,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+wait,1
+
+window,on,0.15
+message,シャオレイ,Xiaolei gõ cửa thì nó bay đi. Xiaolei không cố ý.<br> ,,vc_10040100002_006_01
+
+asynccharaface,chara_2,FaceSad,STOP
+
+asyncseplay,setag1_9,se4800015,0,1,CONT
+
+asynccharaemo,chara_2,Dull,STOP
+message,アリシア,Chỉ gõ cửa thôi mà…? A haha… sức mạnh khủng khiếp thật…<br> ,,vc_10040100002_007_01
+
+message,<user>,…Khoan đã. Nếu không phải cố ý thì có khi… Này Xiaolei‚ em thử<br>cầm cái cốc này xem được không?<br> 
+
+asyncseplay,setag1_10,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+message,シャオレイ,Ừm.<br> ,,vc_10040100002_008_01
+
+asyncseplay,setag1_11,se4400032,0,1,CONT
+
+message,シャオレイ,…Vỡ rồi.<br> ,,vc_10040100002_009_01
+
+message,<user>,À‚ đúng như anh nghĩ… Em ấy mạnh quá nên không biết nương tay. Chuyện này<br>có khi còn rắc rối hơn anh tưởng…<br> 
+
+asynccharareaction,chara_2,Shake,1,STOP
+
+asyncseplay,setag1_12,se4800008,0,1,CONT
+
+asynccharaemo,chara_2,Sweat,STOP
+message,アリシア,Ư-ừm… xem ra anh có rất nhiều thứ để dạy em ấy nhỉ?<br> ,,vc_10040100002_010_01
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+
+charahide,chara_2,0.3
+
+charahide,chara_1,0.3
+
+bg,abg11100a
+
+wait,1
+
+
+transitionFade,Tra02,in,black,1
+
+charamove,chara_1,Set,X,0,0
+charamove,chara_1,Set,CharaHeight,0,0
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,<user>,Được rồi‚ Xiaolei. Trước tiên cho anh xác nhận một chuyện… Em không kiểm soát được<br>sức mạnh của mình đúng không?<br> 
+
+asynccharaface,chara_1,FaceAnger,STOP
+
+asyncseplay,setag1_13,se4800016,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,BePeevish,STOP
+message,シャオレイ,Thầy‚ thất lễ. Không có chuyện đó đâu.<br> ,,vc_10040100002_011_01
+
+message,<user>,Ừm‚ vậy là em không tự nhận ra nhỉ? Thế em nghĩ vì sao cái cửa<br>bị thổi bay còn cái cốc em cầm thì vỡ tan?<br> 
+
+asyncseplay,setag1_14,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Vì mọi thứ ở đây đều yếu xìu.<br> ,,vc_10040100002_012_01
+
+message,シャオレイ,Ở nhà Xiaolei cầm đồ thì đồ không vỡ. Chúng cũng<br>không nhẹ như thế này.<br> ,,vc_10040100002_013_01
+
+message,<user>,À… nhắc mới nhớ‚ anh có nghe Xiaolei nói vậy…<br> 
+
+window,off
+wait,0.15
+
+fade,Out,White,1.5
+
+screeneffect,SEPIATONE,on,1,1
+
+emodelete,chara_1,0,0
+
+bg,abg14400a
+
+wait,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,シャオレイの祖父,…Ừ thì‚ dù ta chẳng dạy gì‚ Xiaolei sinh ra đã khỏe sẵn rồi.<br> 
+
+window,off
+wait,0.15
+
+fade,Out,White,1.5
+
+screeneffect,SEPIATONE,off,1,0
+
+bg,abg11100a
+
+wait,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,<user>,Vậy sức mạnh quái lực của Xiaolei là bẩm sinh nhỉ. Chắc ở nhà họ đã thay<br>mọi thứ bằng đồ bền chắc và nặng để hợp với em ấy.<br> 
+
+message,<user>,Có lẽ họ còn tăng dần trọng lượng để rèn luyện em ấy. Kiểu như sống cùng<br>tạ đeo trên người vậy.<br> 
+
+asyncseplay,setag1_15,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,…? Đồ vật không tự nặng lên sao?<br> ,,vc_10040100002_014_01
+
+message,<user>,Không tự nặng lên! Cái đó gọi là luyện tập đấy!<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Tóm lại. Sức mạnh của em rất hữu dụng trong chiến đấu‚ nhưng hơi quá mức với<br>đời sống hằng ngày.<br> 
+
+message,<user>,Anh nghĩ trước tiên em nên học cách kiểm soát sức mạnh để<br>có thể sinh hoạt mà không gặp vấn đề.<br> 
+
+asynccharaface,chara_1,FaceAnger,STOP
+
+asyncseplay,setag1_16,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+message,シャオレイ,Sai rồi. Xiaolei muốn mạnh hơn. Không cần<br>làm sức mạnh yếu đi.<br> ,,vc_10040100002_015_01
+
+message,<user>,Nhưng vẫn cần đấy. Kiểm soát sức mạnh cũng rất quan trọng để<br>trở nên mạnh hơn.<br> 
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,<user>,Nếu lúc nào cũng dốc toàn lực‚ thể lực sẽ cạn rất nhanh‚ và<br>những đòn giả hay chiêu biến hóa cũng khó dùng hơn.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Hơn nữa‚ những võ nhân thật sự mạnh thường coi trọng thả lỏng hơn<br>sức mạnh cứng.<br> 
+
+asyncseplay,setag1_17,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Thả lỏng… Xiaolei từng nghe rồi. Đúng là thầy.<br> ,,vc_10040100002_016_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Tốt‚ em biết nghe lời lắm. Vậy thì bắt đầu đặc huấn ngay nào.<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+emodelete,chara_1,0,0
+
+bg,abg13600a
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+
+window,on,0.15
+message,<user>,Nào‚ trước hết tập luyện ở đây!<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asyncseplay,setag1_18,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+message,シャオレイ,Mình ăn trưa sao? Hay quá! Xiaolei vừa đói bụng.<br> ,,vc_10040100002_017_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Không‚ không‚ không. Anh sẽ để Xiaolei rửa bát ở đây. Việc rửa những chiếc<br>đĩa dễ vỡ mà không làm hỏng chúng sẽ giúp luyện cách điều chỉnh lực.<br> 
+
+asyncseplay,setag1_19,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+message,シャオレイ,Xiaolei giỏi rửa bát. Xiaolei cũng từng phụ giúp ở quê.<br> ,,vc_10040100002_018_01
+
+message,<user>,Ồ‚ vậy thì tốt. Cứ từ từ và làm cẩn thận nhé.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+asyncseplay,setag1_20,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+message,シャオレイ,Ừ. Cứ giao cho Xiaolei. Vậy thì—<br> ,,vc_10040100002_019_01
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+wait,0.5
+
+seplay,setag1_21,se4400032,0,1
+
+wait,1
+window,on,0.15
+message,,choang! choang! choang-choang-choang!<br> 
+
+window,off
+wait,0.15
+
+charashow,chara_1,0.3
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asyncseplay,setag1_22,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+window,on,0.15
+message,シャオレイ,Xiaolei xong rồi. Không còn bát nữa.<br> ,,vc_10040100002_020_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Đừng ưỡn ngực nói như thế! Em không rửa xong<br>mà là đống bát biến mất theo nghĩa vật lý rồi!<br> 
+
+message,<user>,Ư… hết cách rồi… Vậy thì đặc huấn kiểu khác!<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+charascale,chara_1,1.3,0
+
+emodelete,chara_1,0,0
+
+bg,abg13000a
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+window,on,0.15
+message,<user>,Nghe này‚ Xiaolei. Việc anh muốn em làm bây giờ là mát-xa.<br>Hãy xoa bóp cho cơ bắp cứng đờ của anh giãn ra.<br> 
+
+message,<user>,Chắc em sẽ không làm hỏng người đâu nhỉ… Em không làm đâu nhỉ? Làm ơn đừng nhé.<br> 
+
+asyncseplay,setag1_23,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP,1
+message,シャオレイ,Mát-xa… ý thầy là xoa bóp? Vậy thì Xiaolei giỏi.<br> ,,vc_10040100002_021_01
+
+message,<user>,Thật sao? Vậy anh sẽ ngồi đây. Trước tiên hãy đấm vai cho anh.<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asyncseplay,setag1_24,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+message,シャオレイ,Cứ giao cho Xiaolei. Vai của thầy‚ Xiaolei sẽ cố gắng đấm.<br> ,,vc_10040100002_022_01
+
+message,<user>,Đừng cố gắng! Tuyệt đối đừng cố gắng! Hãy dùng ít sức<br>nhất có thể.<br> 
+
+bgmstop,bgmtag1_2,6,0
+
+asyncseplay,setag1_25,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP,3.5
+message,シャオレイ,Xiaolei hiểu rồi. Vậy bắt đầu… a…<br> ,,vc_10040100002_023_01
+
+message,,Một con bướm bay lượn vào phòng qua khung cửa sổ đang mở.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Ồ… bướm…<br> ,,vc_10040100002_024_01
+
+asyncshake,CHARA,chara_1,30,0,3,3,off,off,0,off,STOP
+message,,Ánh mắt Xiaolei bị hút theo cánh bướm đang chập chờn. Cơ thể em ấy<br>nhẹ nhàng đung đưa theo nhịp cánh.<br> 
+
+message,<user>,Xiaolei? Sao vậy? Đấm vai đâu?<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,A… đúng rồi. Vai của thầy‚ đấm‚ đấm.<br> ,,vc_10040100002_025_01
+
+shake,BACK,,0,25,0.5,1,off,off,0
+
+seplay,setag1_26,se4400063,0,1
+message,,*ầm*<br> 
+
+message,<user>,Oaaa! Cái ghế! Cái ghế vỡ tan rồi!<br> 
+
+asyncseplay,setag1_27,se4800017,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,Shock,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Ồ… Xiaolei không nhìn kỹ.<br>Tiếp theo‚ Xiaolei sẽ đấm vai thầy.<br> ,,vc_10040100002_026_01
+
+message,<user>,Không‚ đủ rồi! Em không cần đấm nữa! Thật ra‚ anh mừng vì em đánh<br>trượt thật đấy!<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Ừm‚ chuyển sang kiểu huấn luyện khác nào.<br>Tiếp theo chúng ta sẽ đổi hướng tiếp cận—<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+charahide,chara_1,0.3
+
+emodelete,chara_1,0,0
+
+bg,abg11100a
+
+wait,1
+
+bgmplay,bgmtag1_3,bgm0027,0.75,1
+
+transitionFade,Tra01,in,black,1
+
+asyncseplay,setag1_28,se4400032,0,1,CONT
+window,on,0.15
+message,,*choang*!<br> 
+
+message,<user>,Vậy cả dọn dẹp cũng không ổn à…<br> 
+
+asynccharaface,chara_1,FaceSad,STOP
+
+charashow,chara_1,0.3
+
+message,シャオレイ,*hức*… Xiaolei chẳng làm được gì…<br> ,,vc_10040100002_027_01
+
+message,<user>,Có lẽ ngay lập tức thì khó thật. Nhưng nếu xem đó là cái giá cho<br>sức chiến đấu của em thì cũng đành chịu.<br> 
+
+asyncseplay,setag1_29,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+message,シャオレイ,Xiaolei xin lỗi.<br>Thầy đã dạy Xiaolei‚ vậy mà…<br> ,,vc_10040100002_028_01
+
+message,<user>,Cứ xem như em đã có tâm thế đúng đắn và hôm nay vậy là tốt rồi.<br>Chúng ta sẽ từ từ làm tiếp.<br> 
+
+asyncseplay,setag1_30,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+shake,CHARA,chara_1,10,0,0.5,2,off,off,0
+message,シャオレイ,*hức*… Xiaolei phải tiếp tục sao?<br> ,,vc_10040100002_029_01
+
+message,<user>,Tất nhiên là không thể dừng.<br>Nếu em cứ đi đâu cũng phá hỏng mọi thứ thì người xung quanh sẽ gặp phiền phức.<br> 
+
+asyncseplay,setag1_31,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+
+message,シャオレイ,Phiền phức…?<br> ,,vc_10040100002_030_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+
+window,off
+wait,0.15
+
+window,on,0.15
+message,兵士,Thưa Chỉ Huy! Việc sửa chữa phòng chỉ huy đã hoàn tất!<br>Bát đĩa mới cũng sẽ được giao tới ngay!<br> ,900000001
+
+message,<user>,Rõ rồi. Vất vả cho cậu.<br> 
+
+message,兵士,Rõ! Vậy tôi xin phép rời đi!<br> ,900000001
+
+window,off
+wait,0.15
+
+window,on,0.15
+message,シャオレイ,Người vừa rồi là ai…?<br> ,,vc_10040100002_031_01
+
+message,<user>,À‚ đó là người sửa cái cửa mà Xiaolei thổi bay đấy. Anh ta cũng đặt<br>bát đĩa mới thay cho số bị vỡ‚ nên lát nữa nhớ cảm ơn nhé?<br> 
+
+asyncseplay,setag1_32,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Sửa chữa…<br>Vì Xiaolei làm hỏng sao?<br> ,,vc_10040100002_032_01
+
+asynccharaface,chara_1,FaceSad,STOP
+message,<user>,Chúng ta không thể cứ để đồ hỏng nằm đó được.<br>Phải sửa chữa‚ dọn dẹp và bổ sung lại chứ.<br> 
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,シャオレイ,Là lỗi của Xiaolei… Xiaolei đã gây phiền phức.<br> ,,vc_10040100002_033_01
+
+shake,CHARA,chara_1,10,0,0.5,2,off,off,0
+message,シャオレイ,*sụt sịt*… Xiaolei xin lỗi.<br> ,,vc_10040100002_034_01
+
+message,パンパン[シャオレイ],*chíp*…<br> ,900000003
+
+message,ダンダン[シャオレイ],*chíp*!<br> ,900000003
+
+asynccharaface,chara_1,FaceSad,STOP
+message,シャオレイ,Cảm ơn Panpan‚ Dandan… Xiaolei sẽ cố gắng.<br> ,,vc_10040100002_035_01
+
+message,,Xiaolei kìm nước mắt và dịu dàng vuốt ve Panpan cùng Dandan.<br> 
+
+message,<user>,Ừm‚ không cần nóng vội đâu. Có tâm thế đó thì chắc chắn em sẽ tiến bộ. Và<br>hai đứa kia cũng đang ủng hộ em nữa…<br> 
+
+message,<user>,Khoan‚ chờ đã…! Ra là vậy‚ nếu thế thì có khi—<br> 
+
+
+
+window,off
+bgmstop,bgmtag1_3,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+

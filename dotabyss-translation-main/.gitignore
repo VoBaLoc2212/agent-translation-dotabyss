@@ -1,0 +1,17 @@
+*.bak
+*.tmp
+*.pending.json
+.DS_Store
+Thumbs.db
+
+# Local backup archives
+*.rar
+*.zip
+
+bundles_cache/
+
+# Local editor / agent settings
+.claude/
+**/.claude/
+
+__pycache__

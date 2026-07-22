@@ -1,0 +1,52 @@
+{
+  "scene": "hmn_10100100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "structural_checks": {
+    "line_count_match": true,
+    "delimiter_mismatches": [],
+    "technical_field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "unchanged_text_records": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 101,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translated_total": 102
+  },
+  "linguistic_notes": [
+    "JP asset text matched novel order; EN novel values are blank for this scene‚ so JP was primary and EN asset/asset text order was used for alignment.",
+    "Diana voice: playful boku/kimi localized mostly as mình/cậu; explicit 司令官くん translated as Chỉ Huy.",
+    "No H18/adult lines found in this scene."
+  ],
+  "manual_review_items": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 101,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 102,
+  "translated_records": 102,
+  "changed_lines": 102,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2121,
+    "vi": 2121,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "c50776452fe67011b9f34dae18fa76149395bd69ec7b70a3993fda4266cef3c3",
+  "output_sha256": "354137b16703387ea10d6cea662268485b14c279d0b2eb7ebdd233415378a0ab"
+}

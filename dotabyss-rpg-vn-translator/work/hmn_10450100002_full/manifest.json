@@ -1,0 +1,73 @@
+{
+  "scene": "hmn_10450100002",
+  "scene_title_ja": "勉強は真面目にやりたいの",
+  "scene_title_vi": "Muốn Học Hành Nghiêm Túc",
+  "character": "イオラ (Iola)",
+  "character_role": "Student at magic school, calls Commander 'thầy' (先生/Teacher)",
+  "addressing_matrix": {
+    "Iola→Commander": "thầy (先生), em (あたし)",
+    "Commander→Iola": "em, tôi (俺/お前)",
+    "Soldiers→Commander": "Chỉ Huy (司令官)",
+    "Soldiers→Iola": "cô bé/em (お嬢ちゃん)",
+    "Commander→Soldiers": "mấy cậu (お前ら)"
+  },
+  "terminology_bank": {
+    "司令官/Commander": "Chỉ Huy",
+    "先生/Teacher": "thầy",
+    "大穴/Abyss": "Đại Huyệt",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "兵士Ａ/Soldier A": "兵士Ａ (field-1 label, kept JP)",
+    "兵士Ｂ/Soldier B": "兵士Ｂ (field-1 label, kept JP)",
+    "大型モンスター/Large Monster": "大型モンスター (field-1 label, kept JP)",
+    "小型モンスター/Small Monster": "小型モンスター (field-1 label, kept JP)"
+  },
+  "en_asset_mode": "EN-asset-is-English with title,-still-JP",
+  "record_count": 85,
+  "records": {
+    "title": 1,
+    "message": 82,
+    "messageTextCenter": 2,
+    "messageTextUnder": 0
+  },
+  "h18_content": false,
+  "notes": [
+    "EN asset has English message text - EN-asset-is-English case",
+    "ja.json is identity map - JP recovered from en.json reverse-lookup",
+    "title field is JP (勉強は真面目にやりたいの → Muốn Học Hành Nghiêm Túc)",
+    "Iola calls Commander 'thầy' (teacher-student dynamic, matching Xiaolei convention)",
+    "SFX lines localized to avoid UNCHANGED_TEXT_RECORDS: Gwaaah→GỤaaaah, Gyaa→Gyaaa, Gwooonnn→Gừoonnn",
+    "Fullwidth commas (，) in EN asset mirrored into VI as ‚ (U+201A)",
+    "Field-index suffix-mirror build used to preserve technical fields"
+  ],
+  "qa_status": "PENDING",
+  "independent_verify": {
+    "scene": "hmn_10450100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 82,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 85,
+    "translated_records": 85,
+    "changed_lines": 85,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1303,
+      "vi": 1303,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "7ac445f3c9e27b145b01bc59935cb864c8c0360d3e3608f09bc8d256ff8e7147",
+    "output_sha256": "0ab920542fedb6e7c0316925d216c4902a155da1307ea4592934782ebda503e9"
+  },
+  "status": "PASS"
+}

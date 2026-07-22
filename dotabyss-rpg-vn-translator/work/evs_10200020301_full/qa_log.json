@@ -1,0 +1,33 @@
+{
+  "scene": "evs_10200020301",
+  "timestamp_utc": "2026-07-19T09:03:36.532210+00:00",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "JP is primary source; EN asset used only for alignment.",
+    "All characters confirmed 18+ by task context; no H18 content in this asset.",
+    "No existing VI file was found before generation; output created from EN asset structure.",
+    "Proper names/placeholders preserved: Kureha, Shiraes, Adelheid, %user%.",
+    "No translatable field was left identical to its EN asset source; proper names/technical placeholders only remain where required."
+  ],
+  "counts": {
+    "source_lines": 2431,
+    "output_lines": 2431,
+    "candidate_records": 99,
+    "translated_records": 99,
+    "title_records": 1,
+    "message_records": 97,
+    "messageTextUnder_records": 0,
+    "messageTextCenter_records": 1,
+    "blocker_count": 0
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 99,
+  "translated_records": 99,
+  "changed_lines": 99,
+  "source_sha256": "bbc981c5f957e30affdb8f26257f4e41dfc256f0e5f66f23f0ca2f4de37f1901",
+  "output_sha256": "03b2893c20981d6c783e93c8a80624151ddd9c95a65f939a48e70b29492ab852"
+}

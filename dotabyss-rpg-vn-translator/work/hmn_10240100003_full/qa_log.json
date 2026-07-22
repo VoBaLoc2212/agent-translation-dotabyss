@@ -1,0 +1,69 @@
+{
+  "scene": "hmn_10240100003",
+  "title_vi": "Công Chúa Của Khu Rừng",
+  "source_condition": "EN-asset-is-English (en.json non-empty English; asset text field English). JP primary via ja.json; EN asset = structural authority.",
+  "sources": {
+    "ja": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10240100003/ja.json",
+    "en": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10240100003/en.json",
+    "en_asset": "AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100003.txt"
+  },
+  "output": "AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100003.txt",
+  "candidate_counts": {
+    "title": 1,
+    "message": 94,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 95,
+  "translated_records": 95,
+  "structural": {
+    "line_count_en": 2087,
+    "line_count_vi": 2087,
+    "match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0
+  },
+  "build": "dotabyss-rpg-vn-translator/work/hmn_10240100003_full/build.py (field-index, split(',',5), <br>-count guard, comma->U+201A guard, BOM+CRLF preserved)",
+  "verifier": "python dotabyss-rpg-vn-translator/work/verify_asset_translation.py --root E:/AgentTranslation hmn_10240100003",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "source_sha256": "159ab61d3effd90e33b15c9b631d5d9ab67467fe8d9419305cc5556e6c28cdf9",
+  "output_sha256": "c665b1084311deb6b0c57042d2b2e537047d7de534b4ab5a3526895a5e622cb8",
+  "characters_and_voice": {
+    "マニョリア (Magnolia / Manyo)": "Female forest princess; timid but earnest. To Commander: em–anh. Third-person self-reference 'Manyo' preserved. Speaker label kept JP verbatim.",
+    "<user> (Commander/司令官)": "Chỉ Huy; male; tôi/anh toward Magnolia (anh–em), confident planner voice.",
+    "怪しげな男 (suspicious man/thief)": "Crude greedy thief; rough register (tao/mày/ngươi). Speaker label kept JP.",
+    "マックン (Makkun/Mak)": "Magic plant spirit friend; boisterous casual (tớ/cậu), calls Magnolia 'Manyo', calls Commander 'anh'. Speaker label kept JP.",
+    "魔法植物 records": "Onomatopoeia/SFX localized to Vietnamese (Ken két, Nhoẹt, Xoẹt, Ngoạm, Ùng ục) to avoid kept-English."
+  },
+  "decisions": [
+    "Commander/司令官 -> Chỉ Huy (source uses <user>/relationship; addressed as anh).",
+    "おにいさん from Magnolia -> anh / anh ơi (romantic-leaning affection, matches ending reveal).",
+    "Speaker name labels (field 1: マニョリア/怪しげな男/マックン/大口の魔法植物 etc.) kept JP byte-identical.",
+    "Proper names Makkun, Magnolia, Manyo, Eldorana, Hell Rafflesia romanized in dialogue.",
+    "SFX/interjection message records localized (not kept English) to satisfy unchanged-text check.",
+    "Title Case Vietnamese title: 'Công Chúa Của Khu Rừng'.",
+    "All ASCII commas inside VI text replaced with U+201A; <br> counts matched EN asset exactly."
+  ],
+  "needs_context": [],
+  "changed_lines": 95,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2087,
+    "vi": 2087,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "qa_status": "PASS"
+}

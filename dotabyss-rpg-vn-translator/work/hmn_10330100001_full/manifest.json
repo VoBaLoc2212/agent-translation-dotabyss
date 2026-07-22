@@ -1,0 +1,69 @@
+{
+  "scene": "hmn_10330100001",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10330100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 94,
+      "messageTextUnder": 3,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 99,
+    "translated_records": 99,
+    "changed_lines": 99,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1131,
+      "vi": 1131,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "5d6a0d2d45c37fb20dc5aea0083a195cd0460fcde3cd89c75972423f7f7436dd",
+    "output_sha256": "25707ee8e18bca0ef7b61152ce10c5f849a2491c80a464dc700a1a30c90bbd4a"
+  },
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 99,
+  "translated_records": 99,
+  "source_line_count": 1131,
+  "output_line_count": 1131,
+  "source_sha256": "5d6a0d2d45c37fb20dc5aea0083a195cd0460fcde3cd89c75972423f7f7436dd",
+  "output_sha256": "25707ee8e18bca0ef7b61152ce10c5f849a2491c80a464dc700a1a30c90bbd4a",
+  "case": "EN-asset-is-English (asset text English with fullwidth ，; title still JP). Translated JP->VI (title) and EN->VI (all messages).",
+  "addressing_matrix": {
+    "Commander/司令官": "Chỉ Huy",
+    "エメルダ/Emeralda (self)": "em/anh; addressed anh by others",
+    "アリシア/Alicia": "em/anh <-> Chỉ Huy",
+    "<user> (Commander)": "anh/tôi; addresses Alicia em, Emeralda em/anh",
+    "speaker labels (field 1)": "kept byte-identical JP: 一般兵Ａ, 一般兵Ｂ, 先輩記者, 女性市民A/B, Ｓさん/Ｂさん/Ａさん/Ｍさん/Ｋさん/Ｈさん, エメルダ, アリシア, <user>"
+  },
+  "terminology": {
+    "特ダネ/特ダネさん (Scoop)": "Đặc Tin",
+    "前線基地 (Frontline Base)": "Căn Cứ Tiền Tuyến",
+    "大穴 (Abyss)": "Đại Huyệt",
+    "エルドラーナ (Eldorana)": "Eldorana (kept)",
+    "旦那さま (Honey)": "phu quân",
+    "ご主人さま (Master)": "chủ nhân",
+    "エッチ (Lewd, H18-adjacent)": "đê tiện",
+    "パワハラ (power harassment)": "bạo hành quyền lực",
+    "freedom of the press": "tự do báo chí"
+  },
+  "notes": {
+    "fullwidth_comma": "All 77 fullwidth ， converted to U+201A ‚; 0 ASCII commas inside VI text fields.",
+    "quote_doubling": "Doubled quotes \"\" and '' dropped (shipped VI convention).",
+    "title": "新聞記者、エメルダと申します -> 'Tôi Là Phóng Viên Emeralda' (Vietnamese Title Case).",
+    "card_size48": "—The Next Day— -> —Ngày Hôm Sau— (Title Case, tag preserved).",
+    "messageTextUnder": "Lines 251/253/255 translated, no <br> suffix (source has none).",
+    "h18": "H18-adjacent content (Lewd->Đê tiện, Honey->phu quân, Master->chủ nhân, power harassment) translated per project-confirmed adult rule; tone/consent preserved.",
+    "kept_text_fix": "L933 '...!' -> '…!' (ellipsis char) to clear unchanged-text record."
+  }
+}

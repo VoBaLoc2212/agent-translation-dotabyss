@@ -1,0 +1,59 @@
+{
+  "scene": "hmn_10480100002",
+  "title": "Tất Cả Là Tại Chỉ Huy!!",
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "candidate_counts": {
+    "title": 1,
+    "message": 89,
+    "messageTextUnder": 2,
+    "messageTextCenter": 0
+  },
+  "structural_qa": {
+    "bom_present": true,
+    "crlf_normalized": true,
+    "line_count_matches_en": true,
+    "en_line_count": 1445,
+    "vi_line_count": 1445,
+    "delimiter_preserved": true,
+    "field_counts_preserved": true,
+    "tag_integrity": true,
+    "br_count_matches_en": true,
+    "ascii_comma_in_vi_field": false
+  },
+  "translation_qa": {
+    "title_translated": true,
+    "title_case": true,
+    "commander_done": true,
+    "all_text_records_translated": 92
+  },
+  "issues": [],
+  "notes": [
+    "EN-asset-is-English case: EN→VI translation with JP primary reference",
+    "Title was JP in EN asset → direct JP→VI Title Case",
+    "Celeste's casual/delinquent voice preserved: anta→anh (not deferential)",
+    "All BR counts matched to EN asset (authoritative)",
+    "SFX/onomatopoeia localized: yaaawn→ngáp, sigh→thở dài",
+    "Fullwidth comma convention preserved",
+    "%user% preserved in messageTextUnder fields"
+  ],
+  "independent_issues": [],
+  "translatable_records": 92,
+  "translated_records": 92,
+  "changed_lines": 92,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1445,
+    "vi": 1445,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "a2c73c3262de5ae35150c26369457ff0470d91501e729418df516a6ba5dea523",
+  "output_sha256": "a7b8841ba770e753d56b5d85fb323e9e3f7cc05e9a472687943cb93d494ac1eb"
+}

@@ -1,0 +1,650 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10260100022
+
+charaload,chara_1,102601000X,シルヴィア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10260100022_001_01,1,on
+
+
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,ExEmotion02,on,STOP,2
+
+window,on,0.15
+l2dmessage,シルヴィア,Ngh... I-is this to your satisfaction...?<br> ,,vc_10260100022_001_01
+
+message,,The customer nodded，his hand on her black-tights thigh. Sylvia<br>gasped as his rough breath tickled her neck.<br> 
+
+l2dmotion,ExEmotionReset
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen02,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1
+
+l2dmessage,シルヴィア,Um... does this truly excite you so much...?<br> ,,vc_10260100022_002_01
+
+message,,The customer immediately nodded in response to her confused query.<br>He told her that her plump thighs wrapped in tights were irresistible.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,MouthEmotion00,on,STOP,2
+
+message,シルヴィア,(Plump，he says... Ugh，are my legs really that thick...?)<br> ,,vc_10260100022_003_01
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,EyeOpen03
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,MouthEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5.5
+
+l2dmessage,シルヴィア,Oh? You're asking if I wear tights regularly? Well，yes... I do wear<br>them，though not black ones.<br> ,,vc_10260100022_004_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,The customer's breathing grew even rougher. He trembled slightly<br>from sheer excitement.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,0.5
+
+message,シルヴィア,(W-what in the world is this...?)<br> ,,vc_10260100022_005_01
+
+message,,Sylvia grew increasingly confused，but the customer，unconcerned，<br>tensed his whole body.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+wait,1
+
+l2dmessage,シルヴィア,Ngh... *pant*... Ngh? Hyaahn!<br> ,,vc_10260100022_006_01
+
+message,,His manhood emerged from between her plump thighs.<br> 
+
+bgvplay,bgvtag2_2,bgv_10260100022_002_01,1,on
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1
+
+l2dmessage,シルヴィア,Ah... eh，eh...? It is so swollen...<br> ,,vc_10260100022_007_01
+
+message,,The customer's manhood，which had emerged from between her<br>thighs，was already fully erect，its prominent veins pulsing and twitching.<br> 
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,6
+
+l2dmessage,シルヴィア,Um... is it really because of these tights that it has become like<br>this...?<br> ,,vc_10260100022_008_01
+
+message,,The customer nodded silently and let out an ecstatic sigh，as if<br>savoring the plumpness and pressure of Sylvia's thighs.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,ExEmotion00,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+message,シルヴィア,(He gets this way just from tights... How distasteful...)<br> ,,vc_10260100022_009_01
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+message,,Though she felt sorry for the customer，it was only natural for her to<br>feel that way about a fetish she had never encountered before.<br> 
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+message,,Yet，strangely，she was fascinated. The manhood twitching between<br>her thighs—even when she tried to look away，her gaze kept returning.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10260100022_003_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,3
+
+l2dmessage,シルヴィア,Mmm... are you really sure... this is all right...?<br> ,,vc_10260100022_010_01
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+l2dmessage,シルヴィア,It seems quite different from the games other customers play，<br>though...<br> ,,vc_10260100022_011_01
+
+message,,The customer firmly replied this was fine，then fervently explained<br>this act was called a 'thigh job，' a pastime enjoyed by true gentlemen.<br> 
+
+l2dmotion,EyeEmotionBottomLeft
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+asyncl2dmotion,ExEmotion02,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+l2dmessage,シルヴィア,F- thigh job...? A pastime enjoyed by true gentlemen...? *sigh*... I<br>don't quite understand，but...<br> ,,vc_10260100022_012_01
+
+l2dmotion,ExEmotionReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,8
+
+asyncl2dmotion,FaceAngleRight,on,STOP,8
+
+l2dmessage,シルヴィア,Well，if this is what you desire，Sir，then it is my duty to oblige.<br>However... am I to simply sit here and do nothing?<br> ,,vc_10260100022_013_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+message,,'I want you to move，' the customer replied at once. Perhaps he was<br>quite excited; his length twitched and throbbed.<br> 
+
+l2dmotion,FaceAngleLeft
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,7
+
+l2dmessage,シルヴィア,Like bumping my bottom against you...? I... I am not sure if I can do it<br>well，but... I shall try...<br> ,,vc_10260100022_014_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10260100022_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,シルヴィア,Ngh... kuh... *huff*!<br> ,,vc_10260100022_015_01
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,,Lifting her hips slightly，Sylvia moved so that her bottom bumped<br>against the customer's crotch.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,4
+
+l2dmessage,シルヴィア,Ngh... *huff*... *pant*... L-like this... Mmph... is it good...?<br> ,,vc_10260100022_016_01
+
+message,,As Sylvia repeated the pseudo-cowgirl motion，the customer nodded<br>over and over and told her to continue just like that.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,,The pleasure of his length rubbing the smooth tights was what the<br>customer craved; her soft bottom pressing him was irresistible.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2.5
+
+l2dmessage,シルヴィア,I-I understand... Mmph... Ngh... *huff*... *pant*...<br> ,,vc_10260100022_017_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotion03
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,シルヴィア,I see... so this is how I stroke you，Sir，with my thighs... and that is<br>why they call it a 'thigh job'...<br> ,,vc_10260100022_018_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionRight
+
+message,シルヴィア,But... is this really pleasant...? Even if you enjoy it，Sir，it's quite<br>tiring for me，and besides...<br> ,,vc_10260100022_019_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,シルヴィア,Ngh... somehow... this is unpleasant... Mmph...!<br> ,,vc_10260100022_020_01
+
+message,,Too focused on moving，Sylvia inadvertently let slip her true feelings.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+asyncl2dmotion,EyeOpen02,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3.5
+
+l2dmessage,シルヴィア,Ah... I-I'm so sorry... For me to have said such a thing，I just—<br> ,,vc_10260100022_021_01
+
+message,,Ignoring Sylvia's flustered apology，the customer let out a moan of<br>ecstasy，his length twitching and throbbing.<br> 
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.5
+
+l2dmessage,シルヴィア,Eh... U-um... Sir...?<br> ,,vc_10260100022_022_01
+
+message,,It seemed the customer had interpreted Sylvia's slip of the tongue as<br>verbal humiliation that increased his excitement.<br> 
+
+message,,Seeing the customer fervently begging her to say more like that，to<br>insult him more，Sylvia finally understood what he wanted.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleRight,on,STOP,9
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,9
+
+asyncl2dmotion,EyeOpenReset,on,STOP,9
+
+l2dmessage,シルヴィア,I see... So you have a peculiar sensibility... a so-called 'pervert'...<br>That is what it comes down to，is it not?<br> ,,vc_10260100022_023_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotionG,on,STOP,7
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,7
+
+asyncl2dmotion,EyeOpen04,on,STOP,7
+
+l2dmessage,シルヴィア,I understand... Then I shall treat you accordingly... Pervert...<br> ,,vc_10260100022_024_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,Her ice-cold whisper gave the customer goosebumps of delight. If<br>scolding brings him joy，Sylvia flipped the switch even further.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10260100022_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,シルヴィア,Mmph... Ngh... *huff*... Mmph!<br> ,,vc_10260100022_025_01
+
+l2dmotion,EyeEmotionBottomLeft
+
+message,,Sylvia moved her hips more fiercely，roughly stroking his manhood.<br>The bouncing left her breathless，but she forced her voice out—<br> 
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,2
+
+l2dmessage,シルヴィア,Hmph... Honestly... What is so enjoyable about this sort of game...?<br> ,,vc_10260100022_026_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,2
+
+asyncl2dmotion,MouthEmotionG,on,STOP,11
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,11
+
+l2dmessage,シルヴィア,Being stroked between my... Mmph!... plump thighs... Ngh!... and you<br>enjoy it... *gasp*... Ah! Ngh!... You're a pervert，aren't you...<br> ,,vc_10260100022_027_01
+
+message,,Subjected to her verbal abuse，the customer's tip overflowed precum.<br>The tight squeeze of her thighs also seemed to stimulate him.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen04,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,5
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,5
+
+l2dmessage,シルヴィア,*pant*... *pant*... Mmph!... Ngh!... *sigh*... That shameful fluid is<br>overflowing from your tip... Mmph!... *sigh*...<br> ,,vc_10260100022_028_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionBottomLeft
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+l2dmessage,シルヴィア,At your age，having such a little accident... how embarrassing...<br>*huff*...<br> ,,vc_10260100022_029_01
+
+message,,The more Sylvia insulted him with her cold words，the more the<br>customer's body trembled with joy.<br> 
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1
+
+message,シルヴィア,And yet，the smell of his arousal... it is very strong...<br> ,,vc_10260100022_030_01
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+message,シルヴィア,When I inhale this scent... it is vexing，but... somehow even I am<br>beginning to feel strange...<br> ,,vc_10260100022_031_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+message,,Sylvia's heartbeat gradually quickened. Her core，slick with love<br>juice，grew exquisitely sensitive to the friction of his manhood.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,シルヴィア,Mmph... *whimper*... *huff*... Mmph... *pant*... Aah... mmm... *pant*，<br>*pant*... It feels good!... Mmmph... Hya，Ah!<br> ,,vc_10260100022_032_01
+
+message,,Sylvia had involuntarily let slip those words. The customer's<br>excitement reached its peak.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10260100022_006_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+l2dmessage,シルヴィア,Huh? Ah，no... Hyaahn...!<br> ,,vc_10260100022_033_01
+
+l2dmotion,EyeOpen00
+
+message,,His reason lost to desire，the customer began thrusting on his own.<br>His manhood scraped her sensitive nub，drawing sweet moans from Sylvia.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3
+
+l2dmessage,シルヴィア,*whimper*... *gasp*... Ah... Mmph!... Aah，C-customer，sir...! Wh-what<br>are you doing so suddenly...?!<br> ,,vc_10260100022_034_01
+
+message,,Even as she questioned，the customer only breathed heavily and gave<br>no answer. He grabbed Sylvia's thighs and thrust wildly.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+asyncl2dmotion,ExEmotion00,on,STOP,9
+
+l2dmessage,シルヴィア,Ngh!... Th-that's... treating me as if I were a mere plaything...<br>*whimper*，*huff*... *pant*，Ahh!... Hiii...!<br> ,,vc_10260100022_035_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleRight
+
+l2dmessage,シルヴィア,Please，stop... *pant*，Ahn!... stop... Ngh!<br> ,,vc_10260100022_036_01
+
+message,,Sylvia called out，trying to stop him. But the customer replied that he<br>couldn't stop his hips because it felt too good.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+l2dmessage,シルヴィア,Ngh!... Th-then you're no different from a monkey... Ah!，Hyaa!...<br>*gasp*!<br> ,,vc_10260100022_037_01
+
+message,,The insult inflamed the customer's lust. He slid his manhood back and<br>forth between her thighs，vigorously rubbing her hidden folds and sensitive pearl.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,FaceAngleLeft
+
+message,シルヴィア,(At this rate，I'll be made to come too...! Forced to climax by the very<br>man I called a pervert... but，already...!)<br> ,,vc_10260100022_038_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeEmotionReset
+
+message,,Almost simultaneously，Sylvia felt the onset of her climax，and the<br>customer sensed the heat of his rising seed.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,4
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+l2dmessage,シルヴィア,Fwah!，Ah!，Hiu!，Mmph!... *groan*...! I... I'm coming... I'm—!<br> ,,vc_10260100022_039_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10260100022_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,シルヴィア,Ngh!... Ah!... Cooooming!<br> ,,vc_10260100022_040_01
+
+l2dmotion,EyeOpen00
+
+message,,Just as Sylvia arched her neck and let out a high-pitched cry，the<br>customer groaned and spent himself.<br> 
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,MouthEmotionG,on,STOP,12
+
+l2dmessage,シルヴィア,*pant*... *pant*... Ah! *groan*... Sir's seed... on my thighs... so much...<br>so much of it...<br> ,,vc_10260100022_041_01
+
+message,,The spurting seed landed on Sylvia's black tights，painting an<br>obscene contrast.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10260100022_008_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,シルヴィア,*pant*... Fufu...<br> ,,vc_10260100022_042_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5.5
+
+l2dmessage,シルヴィア,Judging by the amount you released，I take it you were entirely<br>satisfied—were you not?<br> ,,vc_10260100022_043_01
+
+asyncl2dmotion,EyeOpen04,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+message,,To her smiling inquiry，the customer wore an expression of ecstasy<br>and replied with a single word: 'That was the best...'<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+

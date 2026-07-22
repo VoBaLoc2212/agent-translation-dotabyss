@@ -1,0 +1,43 @@
+{
+  "scene": "hmn_10320100001",
+  "self_qa": {
+    "line_count_match": true,
+    "records_translated": 99,
+    "records_total": 99,
+    "bom_preserved": true,
+    "crlf_preserved": true,
+    "ascii_comma_in_vi_fields": 0,
+    "br_count_matches_en_asset": true,
+    "technical_fields_unchanged": true,
+    "speaker_labels_kept": true,
+    "commander_to_chi_huy": true,
+    "unchanged_text_records": 0
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 97,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 99,
+  "translated_records": 99,
+  "changed_lines": 99,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1176,
+    "vi": 1176,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "5d9c93eca68a99bc992d7398fc024a2868dc3404e05571f00c1e51ec5bd6901f",
+  "output_sha256": "e2f3c5d8e6dd653293b30a5ad8c65d26235d3b24371bdbc8768f585640124a2e",
+  "qa_status": "PASS"
+}

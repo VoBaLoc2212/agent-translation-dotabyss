@@ -1,0 +1,141 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,101401000G,ピコ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0036,1
+
+
+
+
+charashow,chara_1,0.3
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP,3.5
+window,on,0.15
+message,ピコ,Mmm... Looks like we got it perfect this time. Good，good.<br> ,,vc_10140100033_001_01
+
+message,<user>,Hey... you said earlier you were gonna stream that video，didn't you?<br>You really gonna do that?<br> 
+
+charaface,chara_1,FaceUnique01
+message,ピコ,Mmm... What should I do?<br> ,,vc_10140100033_002_01
+
+asyncseplay,setag3_1,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+charaface,chara_1,FaceFun
+message,ピコ,Well，for Pico-nyan's channel，it might be a little too extreme...<br> ,,vc_10140100033_003_01
+
+message,<user>,So，what would happen if you put that up on stream?<br> 
+
+asyncseplay,setag3_2,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+charaface,chara_1,FaceHappy
+message,ピコ,Well then，all the people in the world will get to see Pico-nyan and<br>Commander's round from start to finish.<br> ,,vc_10140100033_004_01
+
+message,<user>,Wait wait wait! That's obviously a problem!<br> 
+
+asyncseplay,setag3_3,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+
+charaface,chara_1,FaceSad
+message,ピコ,Mmm... Yeah，I might get my account banned.<br> ,,vc_10140100033_005_01
+
+asyncseplay,setag3_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,ピコ,Well，Commander，if you really don't want me to，I can always just not<br>stream it.<br> ,,vc_10140100033_006_01
+
+message,,Pico got up and started to leave the room.<br> 
+
+message,<user>,...Let me just ask. If you're not streaming it，you're not planning to<br>show it to anyone at the Frontline Base，right?<br> 
+
+asyncseplay,setag3_5,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharareaction,chara_1,nod,1,STOP
+
+charaface,chara_1,FaceUnique01
+message,ピコ,Hmm... what should I do?...<br> ,,vc_10140100033_007_01
+
+message,<user>,Hey! Not that! Don't show it to anyone，got it?!<br> 
+
+asyncseplay,setag3_6,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+charaface,chara_1,FaceHappy
+message,ピコ,I know，I know! Later!♪<br> ,,vc_10140100033_008_01
+
+seplay,setag3_7,se4300003,0,1
+
+window,off
+wait,0.15
+
+transitionFade,Tra05,out,black,1
+
+charahide,chara_1,0
+
+charashow,chara_1,0
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+bgmstop,bgmtag3_1,0,0
+
+bg,abg11200b
+
+bgmplay,bgmtag3_2,bgm0025,0.75,1
+
+transitionFade,Tra06,in,black,1
+
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+window,on,0.15
+message,,Pico slipped into a deserted alley. After checking to make sure no<br>one was around，she secretly peered at her smartphone screen.<br> 
+
+message,,What was displayed was the intimate encounter she'd just had with<br>the Commander.<br> 
+
+charaface,chara_1,EyeClose
+charaface,chara_1,FaceNormal
+message,ピコ,...You're such an idiot，Commander... Like I'd ever show this to<br>anyone...<br> ,,vc_10140100033_009_01
+
+asyncseplay,setag3_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,FaceShy
+message,ピコ,I'm keeping this as my own private memory with the Commander，you<br>know!♪<br> ,,vc_10140100033_010_01
+
+message,,Her cheeks flushed red，Pico tucked her smartphone into her pocket<br>and made her way back to the dormitory.<br> 
+
+
+window,off
+bgmstop,bgmtag3_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+

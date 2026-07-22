@@ -1,0 +1,74 @@
+{
+  "scene": "hmn_10260100001",
+  "source_case": "EN-asset-is-English",
+  "ja_primary": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10260100001\\ja.json",
+  "en_asset_authority": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10260100001.txt",
+  "vi_output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10260100001.txt",
+  "build_script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10260100001_full\\build_vi.py",
+  "verifier": "dotabyss-rpg-vn-translator/work/verify_asset_translation.py",
+  "generated": "2026-07-19T20:25:41",
+  "text_command_counts": {
+    "title": 1,
+    "message": 60,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 61,
+  "translated_records": 61,
+  "changed_lines": 61,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 641,
+    "vi": 641,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "independent_verify": {
+    "scene": "hmn_10260100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 60,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 61,
+    "translated_records": 61,
+    "changed_lines": 61,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 641,
+      "vi": 641,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "706130b19a9b19acb3cdc899bcf35046551f1304e3f4fda58e53d9aed74bec4d",
+    "output_sha256": "af9538f6e48694d8733d8da08fffbe53d9b52925ccbb15e9b59f5bac11921bc3"
+  },
+  "independent_issues": [],
+  "qa_status": "PASS",
+  "notes": [
+    "Title localized to Vietnamese Title Case: 氷の世界の少女 → Thiếu Nữ Từ Thế Giới Băng Giá.",
+    "Commander/司令官 → Chỉ Huy consistently.",
+    "大穴 (Abyss) → Đại Huyệt; 氷使い → pháp sư băng; 貴族 → quý tộc; 芸術家 → nghệ sĩ.",
+    "Speaker label シルヴィア kept verbatim (engine charaload key); <user> kept verbatim.",
+    "All internal commas rendered as U+201A (‚); fullwidth 、 from EN asset preserved verbatim.",
+    "Every message field mirrors the EN asset's exact <br> count and trailing '<br> ' suffix (no structural drift).",
+    "No CJK/Hiragana/Katakana left in any VI text field (verified).",
+    "No H18 content in this scene; all characters confirmed 18+ per project rule (N/A here)."
+  ],
+  "status": "PASS"
+}

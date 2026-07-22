@@ -1,0 +1,53 @@
+{
+  "scene": "hmn_10160100001",
+  "status": "PASS",
+  "checks": {
+    "line_count": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_counts_preserved": true,
+    "technical_fields_preserved": true,
+    "tags_preserved": true,
+    "placeholders_preserved": true,
+    "text_command_counts": {
+      "title": 1,
+      "message": 94
+    },
+    "translated_records": 95
+  },
+  "errors": [],
+  "notes": [
+    "JP ja.json used as primary; EN novel and EN asset used for ordered alignment.",
+    "All text command types counted: title/message/messageTextUnder/messageTextCenter.",
+    "ASCII commas inside VI text replaced with U+201A where needed.",
+    "Speaker fields, charaload names, IDs, voice IDs, placeholders, and tags preserved.",
+    "Scene contains non-explicit adult-adjacent exposure comedy; translated normally under project adult-content confirmation without changing consent/tone."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 94,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 95,
+  "translated_records": 95,
+  "changed_lines": 95,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1269,
+    "vi": 1269,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "04797275d60402fd2181d90643bb30f60333e3f73e6aed3946469a3e11866785",
+  "output_sha256": "657c03f618e03dc9fd40ef18ffb0d36c6272e34103d9b51eb238b2230d8bae9f",
+  "qa_status": "PASS"
+}

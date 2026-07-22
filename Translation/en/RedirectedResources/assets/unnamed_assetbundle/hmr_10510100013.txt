@@ -1,0 +1,150 @@
+﻿adultui,off
+
+bg,abg12100a
+
+charaload,chara_1,105101000G,フェイリン
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0035,1
+
+
+
+
+
+
+
+
+
+
+
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,,Some time later，Feilin had completely recovered，and if anything，<br>her complexion seemed better.<br> 
+
+message,<user>,Good to see you've recovered.<br> 
+
+
+
+asyncseplay,setag3_1,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,CONT
+asynccharaemo,chara_1,Flower,CONT
+
+charaface,chara_1,FaceHappy
+message,フェイリン,Thank you so much for saving me! Master，you are my savior!<br> ,,vc_10510100013_001_01
+
+charaface,chara_1,FaceUnique02
+message,フェイリン,Well，it's not like I have a life left to save，but...<br> ,,vc_10510100013_002_01
+
+message,,However，there was a troubling passage in the book on Alchemy<br>(Comedic). I told her about it.<br> 
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,<user>,Actually，according to the book，this Spirit Infusion Technique needs<br>to be performed regularly，or it's not good.<br> 
+
+
+
+charaface,chara_1,FaceSurprise
+message,フェイリン,Huh? Is that so... But，well... it did feel really good...<br> ,,vc_10510100013_003_01
+
+message,<user>,You seem happy about that... It's fine when I can look after you，but I<br>can't be there all the time.<br> 
+
+asyncseplay,setag3_2,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT
+
+charaface,chara_1,FaceSad
+message,フェイリン,Ah... you're right. Master is a busy person，after all...<br> ,,vc_10510100013_004_01
+
+message,フェイリン,Um... then，how about I work at the brothel?<br> ,,vc_10510100013_005_01
+
+message,<user>,Feilin，at the brothel?<br> 
+
+asyncseplay,setag3_3,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,CONT
+
+charaface,chara_1,FaceSad
+message,フェイリン,Yes. I do not know if there are customers who would want to have sex<br>with a corpse like me，but...<br> ,,vc_10510100013_006_01
+
+message,<user>,(No，Feilin's embrace is unique，and it felt so good it could become<br>addictive...)<br> 
+
+message,<user>,Got it. I'll talk to Ludia about it. But if you feel unwell，come to me<br>first.<br> 
+
+
+asyncseplay,setag3_4,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+
+charaface,chara_1,FaceShy
+message,フェイリン,Yes，I understand! I would be happier if Master is my partner，after<br>all...<br> ,,vc_10510100013_007_01
+
+message,,Feilin said that，her cheeks flushed. Perhaps due to Alchemy<br>(Comedic)，her complexion was no different from a living person's.<br> 
+
+message,<user>,(Hmm. If I research Alchemy (Comedic) more thoroughly，I might find a<br>way to bring Feilin back to life...)<br> 
+
+
+asyncseplay,setag3_5,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,CONT
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+message,フェイリン,Um... Master，is something wrong? You are staring at my face and you<br>have gone quiet...<br> ,,vc_10510100013_008_01
+
+message,<user>,No，I thought I'd look into Jiangshi a bit more. Maybe we can find a<br>way to return you to your original body.<br> 
+
+asyncseplay,setag3_6,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,CONT
+
+charaface,chara_1,FaceFun
+message,フェイリン,Is that true!? If I can get my original body back，then...!<br> ,,vc_10510100013_009_01
+
+charaface,chara_1,FaceShy
+message,,Feilin blushed again and shyly looked down.<br> 
+
+
+
+asyncseplay,setag3_7,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,CONT
+message,フェイリン,Th-then，when that time comes... please hold me like you did earlier. I<br>want you to feel my warmth too，Master.<br> ,,vc_10510100013_010_01
+
+message,<user>,Haha，a hug? Okay，I promise.<br> 
+
+message,,He didn't know if there really was a way to restore a Jiangshi to her<br>original body. But for Feilin，who was pure and kind-hearted—<br> 
+
+message,,The Commander steeled his resolve to pore over every document<br>related to Jiangshi，from ancient texts to the latest research papers.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

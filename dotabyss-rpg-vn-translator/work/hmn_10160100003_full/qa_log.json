@@ -1,0 +1,42 @@
+{
+  "scene": "hmn_10160100003",
+  "qa_status": "PASS",
+  "structural_qa": {
+    "status": "PASS",
+    "issues": [],
+    "translated_records": 111
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 108,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 111,
+  "translated_records": 111,
+  "unmatched": [],
+  "ambiguous": [],
+  "notes": [
+    "JP source used as primary; EN asset used for alignment and authoritative tag/field structure.",
+    "Speaker names and charaload names preserved as source keys.",
+    "Wisteria voice kept reserved and formal using tôi/cậu with Commander/Chỉ Huy where explicit."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "changed_lines": 111,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1560,
+    "vi": 1560,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "99bb32060e36f564e1dc57cef78d115bba3d58f3531ecfa907ebacdd4c208d55",
+  "output_sha256": "e13c20b3adb215528d57c439f1745fde8db0a42fadcae96dcc656b745360e9e1"
+}

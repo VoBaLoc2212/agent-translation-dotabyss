@@ -1,0 +1,256 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg12000b,off
+
+charaload,chara_1,102801000G,エミリー
+
+charaload,chara_2,300301000,ルディア
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Please Train Me Upstairs
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+charaface,chara_1,FaceUnique01
+
+
+asynccameramove,LinearTarget,X,100,0.5,STOP
+
+asyncscale,BACK,,0.5,1.5,1.5,LinearTarget,STOP
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_1,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Hop,0.5,STOP
+window,on,0.15
+message,エミリー,Welcome!♪ Party of three，right this way!<br> ,,vc_10280100011_001_01
+
+message,,When I peeked into the tavern，Emily was bustling about efficiently.<br> 
+
+charahide,chara_1,0
+
+asynccameramove,LinearTarget,X,0,0.5,STOP
+
+scale,BACK,,0.5,1,1,LinearTarget
+
+charashow,chara_2,0.3
+
+asyncseplay,setag1_2,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,STOP
+
+charapose,chara_2,2
+
+message,ルディア,Oh，Commander. Did you come to check on Emily?<br> ,,vc_10280100011_002_01
+
+message,<user>,Well，something like that. How's Emily doing?<br> 
+
+charaface,chara_2,FaceFun
+
+asynccharareaction,chara_2,Nod,0.5,STOP
+message,ルディア,She's fast，cheerful，and charming，so the customers love her. Emily<br>is really capable，isn't she?<br> ,,vc_10280100011_003_01
+
+message,<user>,Emily will be glad to hear you say that.<br> 
+
+asyncseplay,setag1_3,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+asynccharareaction,chara_2,Nod,1,STOP
+
+charapose,chara_2,1
+
+charaface,chara_2,FaceHappy
+message,ルディア,Ufufu，then go tell her quickly!♪<br> ,,vc_10280100011_004_01
+
+message,,Spurred on by Ludia，I headed over to Emily，who was busy working.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charahide,chara_2,0
+
+charashow,chara_1,0
+
+asynccameramove,LinearTarget,X,100,0.5,STOP
+
+asyncscale,BACK,,0.5,1.5,1.5,LinearTarget,STOP
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+asyncseplay,setag1_4,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+charaface,chara_1,FaceFun
+
+asynccharareaction,chara_1,nod,1,STOP
+window,on,0.15
+message,エミリー,Ah! Commaander!<br> ,,vc_10280100011_005_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+asyncseplay,setag1_5,se4010005,0,1,CONT
+
+charahide,chara_1,0
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,0.5,0,0,1,1
+wait,0.5
+
+window,on,0.15
+message,,Emily noticed me and happily ran over. This kind of friendliness is<br>probably why she's popular with customers.<br> 
+
+message,<user>,Looks like you're working hard. Ludia was praising you.<br> 
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+
+charaface,chara_1,FaceHappy
+
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+message,エミリー,Really? Wow，I'm so happy!<br> ,,vc_10280100011_006_01
+
+message,<user>,Any troubles? If there's anything you don't understand about the<br>job，feel free to ask me.<br> 
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharareaction,chara_1,shake,0.5,STOP
+
+charaface,chara_1,FaceSurprise
+message,エミリー,Huh? Um... s-so，come to think of it...<br> ,,vc_10280100011_007_01
+
+message,<user>,What is it? If you have something to ask，don't hesitate.<br> 
+
+asyncseplay,setag1_6,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+charaface,chara_1,FaceShy
+message,エミリー,... The girls who s-sometimes go to the second floor with customers...<br>what do they do up there?<br> ,,vc_10280100011_008_01
+
+charaface,chara_1,FaceUnique02
+message,,I was flustered by the unexpected question. I thought she didn't know<br>about the second floor，but Emily was blushing.<br> 
+
+charaface,chara_1,FaceShy
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Does she know and is asking on purpose?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_7,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+charaface,chara_1,FaceUnique02
+
+asynccharareaction,chara_1,shake,1,STOP
+window,on,0.15
+message,エミリー,W-well，if everyone's doing it，I'd like to work on the second floor<br>too... I'd be happy if Commaander taught me about it...?<br> ,,vc_10280100011_009_01
+
+message,,Emily blushed and looked at me invitingly. As expected，she knew<br>what the second floor was for and said it deliberately.<br> 
+
+message,<user>,To work on the second floor，you need training first... Are you sure<br>you want me to train you?<br> 
+
+asynccharaemo,chara_1,Speak,STOP
+
+charaface,chara_1,FaceUnique01
+
+asynccharareaction,chara_1,HOP,0.5,STOP
+message,エミリー,Ah，yes! You're fine，Commaander!<br> ,,vc_10280100011_010_01
+
+message,,Emily cheerfully answered right away. As I thought，she had been<br>hinting at it all along.<br> 
+
+message,<user>,Are you really sure? I mean，you actually know what they do up<br>there，right?<br> 
+
+asyncseplay,setag1_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+charaface,chara_1,FaceHappy
+message,エミリー,Ehehehe! I don't really know，so please teach me!♪ I'm looking<br>forward to it!♪<br> ,,vc_10280100011_011_01
+
+message,,I took the innocently delighted Emily and went up to the second floor.<br> 
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

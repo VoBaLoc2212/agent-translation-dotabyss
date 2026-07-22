@@ -1,0 +1,612 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10580100032
+
+charaload,chara_1,105801000G,クレハ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10580100032_001_01,1
+
+
+
+
+
+
+
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5.5
+
+window,on,0.15
+l2dmessage,クレハ,Haah... it's a little embarrassing，with the room this bright...<br> ,,vc_10580100032_001_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,,Clothes loosened，Kureha straddles his thighs.<br>Still broad daylight，her beautiful chest is clearly visible.<br> 
+
+message,,Half-drowsy as he was，he'd already been growing hard.<br>A sight like this could only make him harder still.<br> 
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,FaceAngleTopRight,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,1.8
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,4.5
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,10
+
+asyncl2dmotion,FaceAngleReset,on,STOP,9
+
+asyncl2dmotion,ExEmotion00,on,STOP,10.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,9
+
+l2dmessage,クレハ,Fufu... darling，it's still so early，and already this big...<br>Did you want to join with me that badly?<br> ,,vc_10580100032_002_01
+
+l2dmotion,ExEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Assuming just the sight of her made him hard，Kureha smiles happily.<br>Being thought the only one this excited is a little embarrassing.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,There's such a thing as morning wood，he tries to explain——<br>but before he can...<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10580100032_002_01,1,on
+
+wait,0.3
+
+l2dmotion,BodyAngleReset
+
+l2dmessage,クレハ,Nn? Darling...?<br> ,,vc_10580100032_003_01
+
+message,,Seeing her expression suddenly turn uneasy，<br>he quickly corrects himself — her body is simply too alluring.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotionC
+
+l2dmessage,クレハ,Fufu... I see...<br>I'm very happy，if I'm the one who aroused you，darling♡<br> ,,vc_10580100032_004_01
+
+asyncl2dmotion,ExEmotion01,on,STOP,3
+
+asyncl2dmotion,MouthEmotion00,on,STOP,3
+
+l2dmessage,クレハ,After all，I came to this place<br>to be joined with you，darling...<br> ,,vc_10580100032_005_01
+
+l2dmotion,Blush00
+
+message,,Kureha smiles，cheeks flushed.<br>Seeing that face makes any small embarrassment feel like nothing.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+l2dmessage,クレハ,Then... please，darling，just stay as you are.<br>Let me soothe away your everyday fatigue.<br> ,,vc_10580100032_006_01
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+l2dmessage,クレハ,Since then，I've studied from books and learned<br>a great many things... so please，look forward to it.<br> ,,vc_10580100032_007_01
+
+l2dmotion,MouthEmotionD
+
+message,,Is it really alright to be pampered this much? At his look，<br>Kureha smiles and begins to move.<br> 
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.3
+
+l2dmotion,BodyAngleReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5
+
+asyncl2dmotion,ExEmotion01,on,STOP,7
+
+l2dmessage,クレハ,Last time，you guided me through everything，step by step...<br>so today，allow me to serve you properly♡<br> ,,vc_10580100032_008_01
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10580100032_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceEmotionReset,on,STOP,1
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Nn... haah...<br> ,,vc_10580100032_009_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,Kureha raises her hips，pressing his tip to her entrance.<br>At the contact，she lets out a soft breath.<br> 
+
+message,,Worried her body isn't ready yet，<br>he speaks up in a hurry，but Kureha answers，sounding pleased.<br> 
+
+l2dmotion,BlushReset
+
+l2dmotion,BodyAngleBottom
+
+l2dmotion,EyeEmotionTop
+
+asyncl2dmotion,ExEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,3
+
+asyncl2dmotion,MouthEmotionA,on,STOP,1
+
+l2dmessage,クレハ,Don't worry，darling.<br>Please，leave everything to me...<br> ,,vc_10580100032_010_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10580100032_004_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,クレハ,Nn，uuuuh...! Ah，haah...<br> ,,vc_10580100032_011_01
+
+message,,Without hesitation，she lowers her hips，sliding the tip inside.<br>Swallowing him all the way，Kureha lets out a blissful breath.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+asyncl2dmotion,MouthEmotionC,on,STOP,2
+
+l2dmessage,クレハ,Haaa... it's all the way in now，darling...<br> ,,vc_10580100032_012_01
+
+message,,Despite no foreplay at all，her insides are already slick，<br>enveloping his cock in surprising heat.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,MouthEmotionA
+
+l2dmessage,クレハ,Nn... I finish my preparations every night，inside my thoughts...<br>so I can serve you，darling，whenever you wish.<br> ,,vc_10580100032_013_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionD
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+l2dmessage,クレハ,And besides，I... ahh，haah... it seems just imagining you，darling，<br>is enough to make me wet these days...<br> ,,vc_10580100032_014_01
+
+message,,True to her word，Kureha's passage grows wetter and wetter，<br>the slick sound of her arousal audible against his cock.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.5
+
+l2dmessage,クレハ,Nn... forgive me for having such an indecent body，darling...<br> ,,vc_10580100032_015_01
+
+message,,He knew her love ran deep，but to grow wet from thought alone?<br>Normally，he might have been a little taken aback.<br> 
+
+message,,But her walls pulse and writhe in time with her lewd words，<br>coiling and squeezing around his cock — and excitement wins out.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionA
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7
+
+l2dmessage,クレハ,Ahh... your cock is twitching inside me too，darling...<br>It seems you're ready as well，aren't you...<br> ,,vc_10580100032_016_01
+
+l2dmotion,BodyAngleBottom
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,クレハ,Fufu... then，allow me to make you feel good right away...<br> ,,vc_10580100032_017_01
+
+message,,Kureha puts strength into her hips<br>and lifts her body up——<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10580100032_005_01,1,on
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Nnah... ah... haaa...<br> ,,vc_10580100032_018_01
+
+message,,Kureha rocks her whole body up and down，<br>using her entire passage to stroke his cock.<br> 
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+l2dmessage,クレハ,First... let me treat your cock，darling，<br>gently，lovingly—— nn，ahh...!<br> ,,vc_10580100032_019_01
+
+l2dmotion,EyeOpenReset
+
+
+l2dmotion,EyeEmotionReset
+
+message,,She truly must have studied — her hips move with more than rhythm.<br>She uses her walls skillfully，and melting pleasure washes over him.<br> 
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6.5
+
+l2dmessage,クレハ,Fufu... perhaps from comforting myself every night，thinking of you.<br>My pussy... has already grown used to your cock，darling...<br> ,,vc_10580100032_020_01
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,MouthEmotionA
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+l2dmessage,クレハ,We're pressed so tightly together...<br>I can tell exactly where you react，and what feels good...<br> ,,vc_10580100032_021_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+message,,Her already-skilled hips adapt further to his reactions.<br>The tight spot squeezes his head，feeling good enough to melt him.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,5
+
+asyncl2dmotion,ExEmotion00,on,STOP,6.5
+
+l2dmessage,クレハ,How is it，darling...?<br>Haaa... ah，fuu... does it feel good...?<br> ,,vc_10580100032_022_01
+
+message,,Her beautiful breasts sway with each thrust，<br>a lewd，wet sound echoing as her fluids are stirred by his cock.<br> 
+
+message,,Between the direct pleasure and Kureha's lewd figure，he can't stop.<br>Overwhelmed by the pleasure，all he can do is nod.<br> 
+
+l2dmotion,ExEmotionReset
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,MouthEmotionA
+
+l2dmessage,クレハ,Ahh... I'm glad...<br>I feel it too... I feel so good too，darling...♡<br> ,,vc_10580100032_023_01
+
+message,,Perhaps she's aroused by the sight of him feeling it.<br>Her passage trembles and clenches，caught up in strong pleasure.<br> 
+
+message,,If only he could feel this wonderful pleasure even more intensely——<br>Kureha notices the desire he'd been harboring right away.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+asyncl2dmotion,EyeOpen02,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.8
+
+l2dmessage,クレハ,You want more，don't you，darling...<br>Nn，ahh... of course，leave it to me——<br> ,,vc_10580100032_024_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,As if delivering the final blow to his cornered cock，<br>Kureha lifts her hips even higher.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10580100032_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Aaahh，haah! Ahh! Aaahn!<br> ,,vc_10580100032_025_01
+
+message,,Kureha drives her hips with fierce，rapid motion.<br>It already felt too good to bear — there's no enduring this.<br> 
+
+l2dmotion,BodyAngleTop
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,クレハ,Fuaah! It feels so good...!<br>Darling，you're so hard，so hot...!<br> ,,vc_10580100032_026_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionF,on,STOP,7
+
+l2dmessage,クレハ,My beloved darling is melting away beneath me...!<br>I'm so happy... so blissful... I love you... ahhh!<br> ,,vc_10580100032_027_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,MouthEmotionD
+
+message,,On top of it all，Kureha cries out，climbing higher alongside him.<br>The rising urge to release could no longer be held back.<br> 
+
+message,,The moment he confesses his limit，Kureha's smile bursts open.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionTop
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Yes...♡ Ahh，fu，ahh...♡<br>Please，let it out...♡<br> ,,vc_10580100032_028_01
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+message,,Along with her whisper，the mouth of her womb descends.<br>It clings tight to the tip of his cock，sucking at the head.<br> 
+
+message,,His entire cock is stroked，the tip drawn into her womb——<br>and heat surges through his lower body.<br> 
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionF
+
+l2dmessage,クレハ,Aaahh♡ Into my womb♡<br>Please，fill me with your seed，darling♡ Aaaahhh♡<br> ,,vc_10580100032_029_01
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10580100032_007_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,クレハ,Ahh! Ah! Aaaahh! Fuaaahh!<br> ,,vc_10580100032_030_01
+
+message,,Unable to hold back，he releases a torrent of seed into her womb.<br>The sensation must be bliss，as Kureha climaxes at the same time.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionD,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionTop,on,STOP,0.5
+
+l2dmessage,クレハ,Ahh... your seed，darling，it's overflowing...<br> ,,vc_10580100032_031_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+message,,Kureha looks down at him with a blissful expression，<br>smiling at the semen leaking from where they're joined.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,BodyAngleBottom
+
+asyncl2dmotion,ExEmotion00,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionD,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,ExEmotionReset,on,STOP,8.5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,8.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,8.5
+
+asyncl2dmotion,BodyAngleReset,on,STOP,11
+
+asyncl2dmotion,MouthEmotion00,on,STOP,10
+
+l2dmessage,クレハ,Is there still more...? Please，let it all out，every drop...<br>Spurt，spurt... fufu...<br> ,,vc_10580100032_032_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionTop
+
+message,,Kureha squeezes tight around him，wringing out every last drop.<br>The pleasant aftershock leaves him feeling boneless.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10580100032_008_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,クレハ,Nfuu♡ You came so much♡<br> ,,vc_10580100032_033_01
+
+message,,Completely wrung out，all the strength leaves his body.<br>Floating in pleasure，he feels almost drowsy enough to sleep.<br> 
+
+l2dmotion,ExEmotion00
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotionTop
+
+asyncl2dmotion,BodyAngleBottom,on,STOP,9
+
+asyncl2dmotion,ExEmotion01,on,STOP,9
+
+l2dmessage,クレハ,Nn... darling，have you grown sleepy...?<br>It's alright，just rest easy like this...<br> ,,vc_10580100032_034_01
+
+message,,With Kureha's words，the mess on their bodies no longer matters.<br>Entrusting himself to her，he closes his eyes，awash in pleasure——<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

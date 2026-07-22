@@ -1,0 +1,126 @@
+{
+  "scene": "hmn_10490100001",
+  "title": "Fan Service Quá Hào Phóng……！",
+  "source_jp": "dotabyss-translation-main/translations/novels/hmn_10490100001/ja.json",
+  "source_en": "dotabyss-translation-main/translations/novels/hmn_10490100001/en.json",
+  "asset_en": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10490100001.txt",
+  "asset_vi": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10490100001.txt",
+  "work_dir": "dotabyss-rpg-vn-translator/work/hmn_10490100001_full",
+  "translation_type": "EN-asset-is-English (title still JP)",
+  "record_count": 88,
+  "records": {
+    "title": 1,
+    "message": 86,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "encoding": {
+    "bom": true,
+    "newline": "CRLF"
+  },
+  "characters": {
+    "speaker_labels_kept": [
+      "ソフィア",
+      "？？？",
+      "クロエ",
+      "アリシア",
+      "<user>"
+    ],
+    "commander_localized": "Chỉ Huy"
+  },
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "大穴/Abyss": "Đại Huyệt",
+    "姫騎士/Princess Knight": "Công Chúa Kỵ Sĩ",
+    "白雷の騎士/White Lightning Knight": "Kỵ Sĩ Sét Trắng",
+    "支援魔法/Support Magic": "Ma Thuật Hỗ Trợ",
+    "推し/fave": "fave (kept as loanword, intentional)",
+    "ミレスガルド/Milesgard": "Milesgard (kept as proper noun)",
+    "ファンサ/fan service": "fan service (kept as loanword, intentional)"
+  },
+  "addressing": {
+    "Chloe→Sophia": "cháu–chị (respectful junior)",
+    "Chloe→Commander": "cháu–ngài (polite)",
+    "Commander→Chloe": "cô (casual senior)",
+    "Sophia→Chloe": "em (casual senior)",
+    "Alicia→Chloe": "em (casual senior)",
+    "Commander narration (俺)": "tôi (neutral)"
+  },
+  "voice_profile": {
+    "Chloe": "Fangirl mage – enthusiastic, stammering, self-deprecating. Uses fangirl lingo (fave, fan service)",
+    "Sophia": "Serious knight – polite, humble, professional",
+    "Alicia": "Formal adjutant – direct, concerned",
+    "Commander": "Confused but tolerant senior. Casual 俺→tôi narration"
+  },
+  "notes": [
+    "EN-asset-is-English: EN asset text is English except title (still JP). ja.json is identity map (JP→JP).",
+    "Title translated from JP (ファンサが手厚すぎるぅ……！) → Vietnamese Title Case.",
+    "Speaker labels kept JP-byte-identical (ソフィア, ？？？, クロエ, アリシア, <user>).",
+    "All H18 rules: no adult content in this scene; pure comedy/fangirling.",
+    "Fullwidth ，(U+FF0C) used inside VI text fields to avoid delimiter conflict with ASCII comma.",
+    "EN asset 〈br〉 count authoritative: 6 lines adjusted from natural VI (removed/inserted internal BR to match).",
+    "SFX/interjections localized: *pant*→*thở dốc*, *phew*→*phù*, Kyaa→Kyaa (kept), Fueee→Hu hu.",
+    "All 88/88 text records translated."
+  ],
+  "intentional_keeps": [
+    "Kyaa (interjection, kept as natural Vietnamese exclamation)",
+    "fave (fan community term, no good VI equivalent)",
+    "fan service (loanword, kept as-is)",
+    "Kaiser (spell name, kept as-is)",
+    "Milesgard (proper noun)"
+  ],
+  "independent_verify": {
+    "scene": "hmn_10490100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 86,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 88,
+    "translated_records": 88,
+    "changed_lines": 88,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1693,
+      "vi": 1693,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "a20f32dea9843c117c9275ed7ab12e462a66ac4bf101fd2b4d36118d9d03daec",
+    "output_sha256": "ddfe378e5c8bc059ac10afa427cdbc974f34728535234509036111105c18adfe"
+  },
+  "status": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 86,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 88,
+  "translated_records": 88,
+  "changed_lines": 88,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1693,
+    "vi": 1693,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0
+}

@@ -1,0 +1,313 @@
+﻿balloonload
+fade,Out,Black,0
+//initend
+
+dotbgload,bg_1,8001,01001
+
+//BGM再生
+bgmplay,bgmtag1,bgm0027,0,1
+
+//カメラ設定
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,0,0,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+objectload,chara_1,CHARA,300101000,<user>
+objectload,Alicia,CHARA,300201000,アリシア
+
+dotbgshow,bg_1,0
+
+dotmove,chara_1,0,-5,0,1,LinearTarget,Set
+dotmove,Alicia,0,-1,0,0,LinearTarget,Set
+
+objectshow,Alicia,0
+
+
+dotprefabload,LeftSmorkEffect,Novel/VariantEffect/Unit100201000G/LeftSmorkEffect,0.00, 0.00, 0.00,Alicia,
+
+messageTextCenter,,<size=48>——Frontier Fortress，Audience Chamber</size>,,,
+
+uivisible,on
+
+
+fade,In,Black,0.5
+
+
+//エモ　・・・
+asyncseplay,se4800014_,se4800014,0,1,CONT,0
+objectemo,Alicia,Silence
+
+
+dotmessage,アリシア,<size=24>Phew~~...<br>I'm so nervous~...,,mcv_1001000201_001_01,NORMAL,Mid,NORMAL,Alicia,TOP,NORMAL,0,0
+
+objectmotion,Alicia,N_think,1,1,,1
+dotmessage,アリシア,<size=24>Someone said to be the very 'hope'<br>that could save humanity...,,mcv_1001000201_002_01,NORMAL,Mid,EYECLOSE,Alicia,TOP,NORMAL,0,0
+dotmessage,アリシア,<size=24>...What kind of person could they be?,,mcv_1001000201_003_01,NORMAL,Mid,SAD,Alicia,TOP,NORMAL,0,0
+dotmessage,アリシア,<size=24>Sharp-minded but stubborn—<br>or so they say...,,mcv_1001000201_004_01,NORMAL,Mid,UNIQUE02,Alicia,TOP,NORMAL,0,0
+
+objectdirect,Alicia,RIGHT
+
+//扉開ける
+asyncseplay,se4300003,se4300003,1,1,CONT,0
+asyncobjectshow,chara_1,0.5
+
+asyncobjectmotion,chara_1,C_Walk,0,1,NONE,1,CONT,0
+asyncdotmove,chara_1,1,-2,0,1,LinearTarget,CONT,0
+asyncwait
+asyncobjectmotion,chara_1,U_Wait01,0,1,,1,CONT,0
+
+dotmessage,<user>,<size=24>You're the one?<br>The envoy from the Three Nations?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectdirect,Alicia,LEFT
+asyncobjectmotion,Alicia,N_Yes,1,1,,1
+
+dotmessage,アリシア,<size=24>Y-yes!,,mcv_1001000201_005_01,NORMAL,Mid,SURPRISE,Alicia,TOP,NORMAL,0,0
+objectdirect,Alicia,RIGHT
+asyncobjectmotion,Alicia,C_Wait,0,1,,1
+
+//カメラ移動
+asyncdotcameramove,1.5,0,LinearTarget,1,None,CONT,0
+asyncobjectmotion,chara_1,C_Walk,0,1,NONE,1,CONT,0
+dotmove,chara_1,1,2.75,0,0,LinearTarget,CONT,0
+asyncwait
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+objectdirect,chara_1,LEFT
+wait,0.5
+objectmotion,chara_1,N_No,1,1,U_Wait02,1
+
+dotmessage,<user>,<size=24>I'll tell you upfront—<br>I'm not taking the job，all right?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+
+
+//エモ　Σ
+asyncseplay,se4800017_,se4800017,0,1,CONT,0
+asyncobjectmotion,Alicia,N_surprised,1,1,,1
+objectemo,Alicia,Shock
+
+dotmessage,アリシア,<size=24>What!?<br>I haven't even said anything yet...,,mcv_1001000201_006_01,NORMAL,Mid,SURPRISE,Alicia,TOP,NORMAL,0,0
+asyncobjectmotion,Alicia,C_Wait,1,1,,1
+
+objectmotion,chara_1,N_No,1,1,U_Wait01,1
+
+dotmessage,<user>,<size=24>I don't need you to tell me. I can guess.<br>It's trouble，isn't it?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,chara_1,C_Wait,0,1,,1
+
+
+//エモ　焦り
+asyncseplay,se4800007_,se4800007,0,1,CONT,0
+asyncobjectmotion,Alicia,N_bounce,1,1,,1,CONT,0
+objectemo,Alicia,Panic
+
+dotmessage,アリシア,<size=24>W-well... that's...,,mcv_1001000201_007_01,NORMAL,Mid,SAD,Alicia,TOP,NORMAL,0,0
+
+objectmotion,chara_1,N_Pointing,1,1,,1
+dotmessage,<user>,<size=24>Coming all the way to this backwater<br>just to see a troublemaker like me...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,chara_1,U_Wait01,1,1,,1
+dotmessage,<user>,<size=24>It could only be<br>a troublesome request，right?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+//エモ　汗
+asyncseplay,se4800008_10,se4800008,0,1,CONT,0
+objectemo,Alicia,Sweat
+dotmessage,アリシア,<size=24>W-well...,,mcv_1001000201_008_01,NORMAL,Mid,SAD,Alicia,TOP,NORMAL,0,0
+
+objectmotion,chara_1,N_think,1,1,,1
+dotmessage,<user>,<size=24>Several months ago，the mysterious Abyss<br>appeared，followed by an attack from a massive creature...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+dotmessage,<user>,<size=24>I've heard rumors that small nations near the Abyss<br>vanished from the map in a single night...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+objectmotion,chara_1,C_Wait,1,1,,1
+
+objectmotion,Alicia,N_Yes,1,1,,1
+dotmessage,アリシア,<size=24>Combining the forces of the Three Nations，<br>we managed to drive back the enormous beast.,,mcv_1001000201_009_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+
+objectmotion,Alicia,N_sorrow,1,1,,1
+dotmessage,アリシア,<size=24>With many... sacrifices...,,mcv_1001000201_010_01,NORMAL,Mid,UNIQUE02,Alicia,TOP,NORMAL,0,0
+
+//移動＋歩きモーション
+asyncobjectmotion,Alicia,C_Walk,0,1,NONE,1,CONT,0
+asyncdotmove,Alicia,1,1.5,0,0,Linear,CONT,0
+asyncwait
+objectmotion,Alicia,N_wish,0,1,,1
+
+dotmessage,アリシア,<size=24>I'll get right to the point!,,mcv_1001000201_011_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+dotmessage,アリシア,<size=24>We wish for you to take the post<br>of Commander of our frontline base!,,mcv_1001000201_012_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+asyncobjectmotion,Alicia,C_Wait,1,1,,1
+
+objectmotion,chara_1,N_think,1,1,,1
+dotmessage,<user>,<size=24>That base the Three Nations are jointly funding<br>and rushing to build—that one，huh...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,chara_1,U_Wait01,1,1,,1
+
+asyncobjectmotion,Alicia,N_wish,0,1,,1
+dotmessage,アリシア,<size=24>Please! We beg you—<br>please lend us your strength!,,mcv_1001000201_013_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+asyncobjectmotion,Alicia,C_Wait,0,1,,1
+
+asyncobjectmotion,chara_1,N_No,1,1,U_Wait01,1
+dotmessage,<user>,<size=24>...I refuse.,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+//エモ　Σ
+asyncseplay,se4800017_2,se4800017,0,1,CONT,0
+asyncobjectmotion,Alicia,N_surprised,1,1,,1,CONT,0
+objectemo,Alicia,Shock
+
+dotmessage,アリシア,<size=24>Ehh!?,,mcv_1001000201_014_01,NORMAL,Mid,SURPRISE,Alicia,TOP,NORMAL,0,0
+asyncobjectmotion,Alicia,C_Wait,0,1,,1
+
+asyncobjectmotion,chara_1,U_Wait02,0,1,,1
+
+dotmessage,<user>,<size=24>I told you at the beginning，didn't I?<br>Go find someone else...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+
+
+asyncobjectmotion,chara_1,C_Walk,0,1,NONE,1,CONT,0
+dotmove,chara_1,1,-1.5,0,0.5,LinearTarget
+asyncwait
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+
+objectdirect,Alicia,LEFT
+
+//エモ　焦り
+asyncseplay,se4800007_90,se4800007,0,1,CONT,0
+objectemo,Alicia,Panic
+asyncobjectmotion,Alicia,N_bounce,1,1,,1
+
+dotmessage,アリシア,<size=24>P-Please wait!,,mcv_1001000201_015_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+
+//アリシア　すっ転ぶ////////////////////////////////////////////////////////////////////////
+
+asyncobjectmotion,chara_1,C_Walk,0,1,NONE,1,CONT,0
+dotmove,chara_1,1,-2.5,0,0,LinearTarget
+asyncwait
+asyncobjectmotion,chara_1,C_Wait,0,1,,1,CONT,0
+
+objectdirect,chara_1,RIGHT
+
+//カメラ移動
+asyncdotcamerazoom,1.2,0.5,LinearTarget,CONT,0
+asyncdotcameramove,-1,0,LinearTarget,0.5,None,CONT,0
+asyncobjectmotion,Alicia,C_Run,0,1,,1,CONT,0
+asyncdotmove,Alicia,0.5,-1.5,0,0,LinearTarget,EaseOut,0
+wait,0.3
+asyncdotprefabshow,LeftSmorkEffect,CONT,0
+
+//SE再生
+asyncseplay,se4400106,se4400106,0,1,CONT,0
+asyncobjectmotion,Alicia,C_Down,1,1,None,1,CONT,0
+
+//エモ　！
+objectdirect,chara_1,RIGHT
+asyncseplay,se4800010_10,se4800010,0,1,CONT,0
+asyncobjectemo,chara_1,Exclamation,CONT,0
+asyncobjectmotion,chara_1,N_surprised,1,1,,0,CONT,0
+
+
+//画面揺れ
+asyncobjectmotion,Alicia,C_DownWait,0,1,,1,CONT,0
+asyncwait
+
+
+dotmessage,アリシア,<size=24>Urgh!!!!,,mcv_1001000201_016_01,NORMAL,Mid,SAD,Alicia,TOP,NORMAL,0,0
+
+objectmotion,chara_1,C_Wait,1,1,,1
+//asyncdotmove,chara_1,0.5,-2.5,0,0,LinearTarget,CONT,0
+
+dotmessage,<user>,<size=24>...Hey，hey.<br>You okay?,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,chara_1,N_hold_out_hand,1,1,None,1
+asyncwait
+
+dotmessage,<user>,<size=24>Here. Can you stand?<br>That was quite the tumble，though~...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,Alicia,C_Wait,0,1,,1
+asyncdotmove,Alicia,0.1,-0.5,0,0,Linear,CONT,0
+
+//SE再生 物を掴む
+asyncseplay,se5050019,se5050019,0,1,CONT,0
+asyncobjectmotion,Alicia,N_hold_out_hand,1,1,,1,CONT,0
+//エモ　！？
+asyncseplay,se4800011_11,se4800011,0,1,CONT,0
+objectemo,chara_1,ExclaQues
+
+asyncwait
+
+dotmessage,アリシア,<size=24>I-I've got you!!,,mcv_1001000201_017_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+sestop,se5050019,0.5
+
+//エモ　焦り
+asyncseplay,se4800007_4,se4800007,0,1,CONT,0
+asyncobjectemo,chara_1,Panic,CONT,0
+
+//SE再生 物を掴む
+asyncseplay,se5050019_2,se5050019,0,1,CONT,0
+asyncdotshake,chara_1,0.1,0,0.5,5,off,0,off,CONT,0
+asyncdotshake,Alicia,0.1,0,0.5,5,off,0,off,CONT,0
+asyncdotmove,chara_1,0.5,0.5,0,0,Linear,CONT,0
+asyncdotmove,Alicia,0.5,0.5,0,0,Linear,CONT,0
+//asyncwait
+wait,0.75
+
+dotmessage,<user>,<size=24>Wha...!?<br>Ngh...! Let go!,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+sestop,se5050019_2,0.5
+
+//BGM止める
+//bgmstop,bgmtag1,0.5
+
+//SE再生 物を掴む
+asyncseplay,se5050019_5,se5050019,0,1,CONT,0
+asyncdotshake,Alicia,0.1,0,0.5,5,off,0,off,CONT,0
+dotmessage,アリシア,<size=24>I won't let go of your hand until you agree<br>to become our Commander!,,mcv_1001000201_018_01,NORMAL,Mid,UNIQUE03,Alicia,TOP,NORMAL,0,0
+sestop,se5050019_5,0.5
+
+//BGM
+//bgmplay,bgmtag2,bgm0030,0,1
+dotmessage,アリシア,<size=24>Because... if you refuse，<br>you'll be...!,,mcv_1001000201_019_01,NORMAL,Mid,SAD,Alicia,TOP,NORMAL,0,0
+objectmotion,Alicia,C_Wait,0,1,,1
+
+asyncobjectmotion,Alicia,C_Walk,0,1,NONE,1,CONT,0
+dotmove,Alicia,1,1,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Alicia,C_Wait,0,1,,1,CONT,0
+
+asyncobjectmotion,Alicia,N_wish,0,1,,1
+dotmessage,アリシア,<size=24>You'll be hunted by the Three Nations<br>and thrown in prison!,,mcv_1001000201_020_01,NORMAL,Mid,UNIQUE04,Alicia,TOP,NORMAL,0,0
+
+asyncobjectmotion,Alicia,N_No,1,1,,1
+dotmessage,アリシア,<size=24>A-And，possibly...<br>your very life may be at risk too...,,mcv_1001000201_021_01,NORMAL,Mid,UNIQUE04,Alicia,TOP,NORMAL,0,0
+asyncobjectmotion,Alicia,C_Wait,0,1,,1
+
+//エモ　モヤモヤ
+asyncseplay,se4800006_8,se4800006,0,1,CONT,0
+objectmotion,chara_1,N_sorrow,1,1,,1
+objectemo,chara_1,Trouble
+dotmessage,<user>,<size=24>I see. So from the beginning，<br>I never had the right to refuse...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+asyncobjectmotion,chara_1,N_No,1,1,,1
+dotmessage,<user>,<size=24>...Fine，whatever.<br>I had nothing but time on my hands anyway.,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+objectmotion,chara_1,U_Appeal,1,1,,1
+dotmessage,<user>,<size=24>I'll take the job，<br>dealing with those monsters...,,,NORMAL,Mid,,chara_1,TOP,NORMAL,0,0
+
+
+//エモ　！？
+asyncseplay,se4800011_,se4800011,0,1,CONT,0
+asyncobjectmotion,Alicia,N_bounce,1,1,,1
+objectemo,Alicia,ExclaQues
+dotmessage,アリシア,<size=24>...!,,mcv_1001000201_022_01,NORMAL,Mid,UNIQUE07,Alicia,TOP,NORMAL,0,0
+
+//エモ　花
+asyncseplay,se4800018_,se4800018,0,1,CONT,0
+asyncobjectmotion,Alicia,N_joy,1,1,C_Wait,1
+objectemo,Alicia,Flower
+
+bgmstop,bgmtag1,0.5
+//bgmstop,bgmtag2,0.5
+fade,Out,Black,0.5
+//wait,0.5
+
+//カメラ設定
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,0,0,LinearTarget,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+cleanall,ALL

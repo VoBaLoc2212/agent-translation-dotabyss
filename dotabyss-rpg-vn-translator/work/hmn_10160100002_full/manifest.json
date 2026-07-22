@@ -1,0 +1,743 @@
+{
+  "scene": "hmn_10160100002",
+  "status": "PASS",
+  "source_paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100002\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100002.txt"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100002.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100002_full",
+  "format": {
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 818,
+    "delimiter": "ASCII comma",
+    "translatable_commands": [
+      "title,",
+      "message,",
+      "messageTextUnder,",
+      "messageTextCenter,"
+    ]
+  },
+  "source_sha256": "3c68d5d6ee00ba063dd13547c5ca264f511db38c7b417dbdff4a054a1da6bc1e",
+  "output_sha256_preverify": "70f602fa640f745e84a39b9b2532e9dd5ce7a7a8b54cf1eb31f1a38f1d2b82d7",
+  "candidate_counts": {
+    "title": 1,
+    "message": 82,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 84,
+  "translated_records": 84,
+  "records": [
+    {
+      "record_index": 1,
+      "line": 26,
+      "command": "title",
+      "status": "TRANSLATED",
+      "source_asset_text": "タイトル",
+      "vi_text": "Tiêu Đề"
+    },
+    {
+      "record_index": 2,
+      "line": 35,
+      "command": "messageTextCenter",
+      "status": "TRANSLATED",
+      "source_asset_text": "<size=48>—Frontline Base Tavern</size>",
+      "vi_text": "<size=48>――Quán Rượu Căn Cứ Tiền Tuyến</size>"
+    },
+    {
+      "record_index": 3,
+      "line": 42,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "The day after meeting Wisteria in the forest，%user% went to the<br>Frontline Base's tavern.<br> ",
+      "vi_text": "Ngày hôm sau khi gặp Wisteria trong rừng‚ %user% đi đến<br>quán rượu của Căn Cứ Tiền Tuyến.<br> "
+    },
+    {
+      "record_index": 4,
+      "line": 70,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...Ludia，got a moment?<br> ",
+      "vi_text": "...Ludia‚ cô rảnh một chút không?<br> "
+    },
+    {
+      "record_index": 5,
+      "line": 81,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Oh? What brings you here at this hour? Do you want a drink?<br> ",
+      "vi_text": "Ôi‚ giờ này ban ngày mà có chuyện gì thế? Anh muốn uống rượu sao?<br> "
+    },
+    {
+      "record_index": 6,
+      "line": 83,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I'm looking for someone and need some info.<br>The expert archer，Wisteria.<br> ",
+      "vi_text": "Tôi đang tìm một người nên muốn hỏi thông tin.<br>Là Wisteria‚ cung thủ lão luyện.<br> "
+    },
+    {
+      "record_index": 7,
+      "line": 90,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Wisteria...<br>She's known as the War God，isn't she?<br> ",
+      "vi_text": "Wisteria...<br>Cô ấy là người được gọi là Chiến Thần nhỉ?<br> "
+    },
+    {
+      "record_index": 8,
+      "line": 92,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Yeah，that's her. We have a bit of a connection，so I was thinking of<br>inviting her to a meal...<br> ",
+      "vi_text": "Ừ‚ chính là cô ấy. Tôi có chút duyên gặp gỡ với cô ấy<br>nên định mời cô ấy đi ăn một bữa...<br> "
+    },
+    {
+      "record_index": 9,
+      "line": 103,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Oh my!♪<br>As expected，you're blessed with good encounters，aren't you?<br> ",
+      "vi_text": "Ôi chà♪<br>Quả không hổ là anh‚ luôn gặp được những mối duyên tốt nhỉ.<br> "
+    },
+    {
+      "record_index": 10,
+      "line": 114,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "But... that's a problem.<br>I don't have much information on Wisteria.<br> ",
+      "vi_text": "Nhưng... khó rồi đây.<br>Tôi không có nhiều thông tin về Wisteria đâu.<br> "
+    },
+    {
+      "record_index": 11,
+      "line": 116,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Even you，Ludia...?<br> ",
+      "vi_text": "Ngay cả Ludia cũng vậy sao...?<br> "
+    },
+    {
+      "record_index": 12,
+      "line": 125,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "She's elusive by nature.<br>I don't even know if she uses the barracks rooms.<br> ",
+      "vi_text": "Vốn dĩ cô ấy là người thoắt ẩn thoắt hiện.<br>Đến mức tôi còn không biết cô ấy có dùng phòng trong doanh trại không.<br> "
+    },
+    {
+      "record_index": 13,
+      "line": 127,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I see... Alright，I'll look around some more.<br> ",
+      "vi_text": "Vậy à... Được rồi‚ tôi sẽ tự đi tìm thêm một chút.<br> "
+    },
+    {
+      "record_index": 14,
+      "line": 138,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Yes，good luck!♪<br> ",
+      "vi_text": "Ừ‚ cố lên nhé♪<br> "
+    },
+    {
+      "record_index": 15,
+      "line": 176,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Wisteria...? We're in the same unit，but we're not on friendly terms...<br> ",
+      "vi_text": "Wisteria... ạ? Bọn em ở cùng đơn vị nhưng không thân thiết lắm...<br> "
+    },
+    {
+      "record_index": 16,
+      "line": 178,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Haven't you seen her around the Frontline Base?<br> ",
+      "vi_text": "Cô có từng thấy cô ấy trong Căn Cứ Tiền Tuyến không?<br> "
+    },
+    {
+      "record_index": 17,
+      "line": 187,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "No，I've hardly ever seen her resting or eating.<br> ",
+      "vi_text": "Dạ‚ em hầu như chưa từng thấy cô ấy nghỉ ngơi hay ăn uống.<br> "
+    },
+    {
+      "record_index": 18,
+      "line": 189,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I see... thanks.<br> ",
+      "vi_text": "Ra vậy... cảm ơn.<br> "
+    },
+    {
+      "record_index": 19,
+      "line": 223,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Ah，Wisteria? She barely responds when you speak to her，and I've<br>never really had a conversation with her.<br> ",
+      "vi_text": "À‚ Wisteria hả? Khi nói chuyện thì cô ấy cũng chẳng phản ứng mấy<br>nên em chưa từng thật sự trò chuyện với cô ấy.<br> "
+    },
+    {
+      "record_index": 20,
+      "line": 232,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Many soldiers respect her as reliable in battle，but as for personal<br>matters，nothing at all...<br> ",
+      "vi_text": "Nhiều binh sĩ kính trọng cô ấy vì rất đáng tin trên chiến trường<br>nhưng chuyện riêng tư thì hoàn toàn...<br> "
+    },
+    {
+      "record_index": 21,
+      "line": 234,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "As I thought... That helps，I appreciate it.<br> ",
+      "vi_text": "Quả nhiên là vậy... Thông tin đó giúp ích lắm‚ cảm ơn.<br> "
+    },
+    {
+      "record_index": 22,
+      "line": 269,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I sometimes see the War God buying things.<br> ",
+      "vi_text": "Nếu là Chiến Thần thì thỉnh thoảng em thấy cô ấy đi mua đồ.<br> "
+    },
+    {
+      "record_index": 23,
+      "line": 271,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Oh really? What was she doing?<br> ",
+      "vi_text": "Thật sao? Lúc đó trông cô ấy thế nào?<br> "
+    },
+    {
+      "record_index": 24,
+      "line": 282,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "She mostly buys food. Also，I've seen her getting camping gear.<br> ",
+      "vi_text": "Chủ yếu là mua lương thực ạ. Ngoài ra em cũng từng thấy cô ấy chuẩn bị dụng cụ cắm trại.<br> "
+    },
+    {
+      "record_index": 25,
+      "line": 284,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I see... Sorry for taking up your time.<br> ",
+      "vi_text": "Ra vậy... Xin lỗi vì đã làm mất thời gian của cô.<br> "
+    },
+    {
+      "record_index": 26,
+      "line": 307,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Wisteria doesn't seem to be using a room in the barracks. She doesn't<br>eat or rest inside the base either.<br> ",
+      "vi_text": "Wisteria có vẻ không dùng phòng trong doanh trại.<br>Cô ấy cũng không ăn hay nghỉ ngơi trong căn cứ.<br> "
+    },
+    {
+      "record_index": 27,
+      "line": 309,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "But she does shop，stocking up on food and preparing for camping.<br> ",
+      "vi_text": "Nhưng cô ấy vẫn đi mua sắm‚ tích trữ lương thực và chuẩn bị cho việc cắm trại.<br> "
+    },
+    {
+      "record_index": 28,
+      "line": 311,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "And considering where I met her in the forest... Alright，let's check it<br>out.<br> ",
+      "vi_text": "Và nếu xét đến nơi tôi đã gặp cô ấy trong rừng――.<br>Được‚ thử đến đó xem sao...!<br> "
+    },
+    {
+      "record_index": 29,
+      "line": 336,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Judging from where we ran into each other before，it's probably this<br>direction. Hmm... if I do the same as last time...<br> ",
+      "vi_text": "Xét theo nơi chúng tôi chạm mặt lần trước thì có lẽ là hướng này.<br>Ừm... nếu làm giống lần trước thì...<br> "
+    },
+    {
+      "record_index": 30,
+      "line": 338,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Ah，I'm starting to feel the urge! Guess I'll just take a leak!<br> ",
+      "vi_text": "A‚ tự nhiên thấy buồn đi quá! Chắc phải giải quyết một chút thôi!<br> "
+    },
+    {
+      "record_index": 31,
+      "line": 340,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Alright，dropping my pants...<br> ",
+      "vi_text": "Nào‚ kéo quần xuống...<br> "
+    },
+    {
+      "record_index": 32,
+      "line": 342,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "—Don't move.<br> ",
+      "vi_text": "――Đứng yên.<br> "
+    },
+    {
+      "record_index": 33,
+      "line": 344,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...! Yeah，I won't resist. Don't be rough，okay?<br> ",
+      "vi_text": "...! Ừ‚ tôi sẽ không chống cự. Đừng mạnh tay nhé?<br> "
+    },
+    {
+      "record_index": 34,
+      "line": 373,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "The Commander turned around，still with his pants down. Standing<br>there was Wisteria，looking a bit exasperated.<br> ",
+      "vi_text": "Chỉ Huy quay lại khi quần vẫn đang tụt xuống. Đứng đó là Wisteria<br>với vẻ mặt hơi ngán ngẩm.<br> "
+    },
+    {
+      "record_index": 35,
+      "line": 382,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...So it is you. I thought that figure looked familiar...<br> ",
+      "vi_text": "...Quả nhiên là cậu. Tôi đã nghĩ bóng lưng này trông quen quen mà...<br> "
+    },
+    {
+      "record_index": 36,
+      "line": 384,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Haha，what a coincidence，Wisteria.<br> ",
+      "vi_text": "Ha ha‚ tình cờ ghê nhỉ Wisteria.<br> "
+    },
+    {
+      "record_index": 37,
+      "line": 395,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "What's with your carefree attitude... This isn't the sort of place you<br>run into someone by accident.<br> ",
+      "vi_text": "Sao cậu lại thong dong thế...<br>Đây đâu phải nơi có thể tình cờ gặp người khác.<br> "
+    },
+    {
+      "record_index": 38,
+      "line": 406,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Why are you here? Another terrain survey?<br> ",
+      "vi_text": "Vì sao cậu lại ở đây? Lại khảo sát địa hình à?<br> "
+    },
+    {
+      "record_index": 39,
+      "line": 408,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "No，I came to see you this time.<br> ",
+      "vi_text": "Không‚ lần này tôi đến để gặp cô.<br> "
+    },
+    {
+      "record_index": 40,
+      "line": 419,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Me...? Don't tell me you were just wandering around looking for me?<br> ",
+      "vi_text": "Gặp tôi...? Chẳng lẽ cậu cứ đi lung tung để tìm tôi sao?<br> "
+    },
+    {
+      "record_index": 41,
+      "line": 430,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Just because we met in this forest once doesn't mean it'll happen<br>again...<br> ",
+      "vi_text": "Chỉ vì từng gặp tôi trong khu rừng này<br>đâu có nghĩa là sẽ có lần thứ hai...<br> "
+    },
+    {
+      "record_index": 42,
+      "line": 432,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "No，I knew you'd come. Wisteria，your secret base is around here，<br>isn't it?<br> ",
+      "vi_text": "Không‚ tôi tin chắc cô sẽ tới.<br>Wisteria‚ căn cứ bí mật của cô ở quanh đây đúng không?<br> "
+    },
+    {
+      "record_index": 43,
+      "line": 443,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...!?<br> ",
+      "vi_text": "…!?<br> "
+    },
+    {
+      "record_index": 44,
+      "line": 462,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "How did you know?!<br> ",
+      "vi_text": "Sao cậu biết được!?<br> "
+    },
+    {
+      "record_index": 45,
+      "line": 464,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I deduced it from info I gathered at the base. I figured you must be<br>camping somewhere.<br> ",
+      "vi_text": "Tôi suy luận từ thông tin thu thập ở căn cứ.<br>Tôi đoán cô đang cắm trại ở đâu đó.<br> "
+    },
+    {
+      "record_index": 46,
+      "line": 475,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...Why were you waiting here? It should be far from where we met<br>before.<br> ",
+      "vi_text": "...Vì sao cậu lại đợi ở đây?<br>Nơi này đáng lẽ phải cách xa chỗ chúng ta gặp lần trước.<br> "
+    },
+    {
+      "record_index": 47,
+      "line": 477,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Because you said you carefully got behind me. That means you saw me<br>about to take a piss and deliberately circled around.<br> ",
+      "vi_text": "Vì cô từng nói mình cẩn thận vòng ra sau lưng tôi.<br>Nghĩa là khi thấy tôi sắp đi giải quyết‚ cô đã cố ý vòng ra phía sau.<br> "
+    },
+    {
+      "record_index": 48,
+      "line": 488,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Just from that short conversation...?!<br> ",
+      "vi_text": "Chỉ từ cuộc nói chuyện ngắn đó...!?<br> "
+    },
+    {
+      "record_index": 49,
+      "line": 490,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "You seemed like the serious type，Wisteria. I figured you wouldn't<br>deliberately lie.<br> ",
+      "vi_text": "Wisteria trông rất nghiêm túc mà.<br>Tôi nghĩ cô sẽ không cố ý nói dối đâu.<br> "
+    },
+    {
+      "record_index": 50,
+      "line": 509,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...You were gathering information on this forest too.<br> ",
+      "vi_text": "...Cậu cũng đã thu thập thông tin về khu rừng này nhỉ.<br> "
+    },
+    {
+      "record_index": 51,
+      "line": 516,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "From the vegetation and terrain data you gathered，you identified<br>likely campsites...<br> ",
+      "vi_text": "Từ thông tin về thảm thực vật và địa hình đã thu thập<br>cậu khoanh vùng những nơi thích hợp để cắm trại...<br> "
+    },
+    {
+      "record_index": 52,
+      "line": 525,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "You deliberately exposed a weakness where I'd notice it，and lured me<br>out like this.<br> ",
+      "vi_text": "Rồi cố ý để lộ sơ hở ở vị trí tôi sẽ nhận ra<br>và dụ tôi ra như thế này sao.<br> "
+    },
+    {
+      "record_index": 53,
+      "line": 527,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Exactly right.<br> ",
+      "vi_text": "Chính xác.<br> "
+    },
+    {
+      "record_index": 54,
+      "line": 538,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...I thought I was skilled at silent movement，but to be lured out so<br>skillfully...<br> ",
+      "vi_text": "...Tôi cứ tưởng mình giỏi lén bước<br>vậy mà lại bị dụ ra một cách hoàn hảo như thế.<br> "
+    },
+    {
+      "record_index": 55,
+      "line": 550,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "It seems my judgment was off. You're a far more capable Commander<br>than I imagined.<br> ",
+      "vi_text": "Có vẻ nhận định của tôi đã sai.<br>Cậu là một Chỉ Huy xuất sắc hơn tôi tưởng rất nhiều.<br> "
+    },
+    {
+      "record_index": 56,
+      "line": 552,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I'm honored by the compliment.<br> ",
+      "vi_text": "Được cô khen vậy là vinh hạnh cho tôi rồi.<br> "
+    },
+    {
+      "record_index": 57,
+      "line": 563,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "But I'm surprised you managed to gather so much information on me...<br> ",
+      "vi_text": "Nhưng thật lạ là cậu lại thu thập được thông tin về tôi...<br> "
+    },
+    {
+      "record_index": 58,
+      "line": 574,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "There's hardly anyone at that base who knows me.<br> ",
+      "vi_text": "Ở căn cứ đó đáng lẽ hầu như không có ai biết về tôi mới phải.<br> "
+    },
+    {
+      "record_index": 59,
+      "line": 576,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "No，everyone's been worried about you. As expected of the War God，<br>quite the celebrity.<br> ",
+      "vi_text": "Không đâu‚ mọi người đều để ý đến Wisteria đấy.<br>Đúng là Chiến Thần‚ cô nổi tiếng thật đấy.<br> "
+    },
+    {
+      "record_index": 60,
+      "line": 587,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I didn't give myself that name. There's no way I'm popular.<br> ",
+      "vi_text": "Tôi đâu có tự xưng như vậy. Làm gì có chuyện tôi nổi tiếng.<br> "
+    },
+    {
+      "record_index": 61,
+      "line": 596,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "You're about the only one who'd go out of their way to come looking<br>for me like this，Commander.<br> ",
+      "vi_text": "Người cất công đến tìm tôi như thế này<br>chỉ có mình cậu thôi‚ Chỉ Huy.<br> "
+    },
+    {
+      "record_index": 62,
+      "line": 598,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I don't think that's the case...<br> ",
+      "vi_text": "Tôi không nghĩ là vậy đâu...<br> "
+    },
+    {
+      "record_index": 63,
+      "line": 617,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "It's true that I'm good at stealth，but even when I behave normally，<br>plenty of people don't notice me.<br> ",
+      "vi_text": "Đúng là tôi giỏi ẩn mật<br>nhưng ngay cả khi cư xử bình thường‚ rất nhiều người vẫn không nhận ra tôi.<br> "
+    },
+    {
+      "record_index": 64,
+      "line": 626,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "If I suppress my presence，I sometimes go unnoticed even when I'm<br>standing right next to someone.<br> ",
+      "vi_text": "Nếu tôi xóa đi khí tức<br>thì có khi đứng ngay bên cạnh cũng không ai nhận ra.<br> "
+    },
+    {
+      "record_index": 65,
+      "line": 635,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "No one is interested in me. Not even the other members of the base.<br> ",
+      "vi_text": "Không ai hứng thú với tôi cả. Dù là đồng đội cùng căn cứ cũng vậy.<br> "
+    },
+    {
+      "record_index": 66,
+      "line": 637,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Hmm... maybe it's just that you're too good at hiding your presence...<br> ",
+      "vi_text": "Ừm... có khi chỉ là vì Wisteria xóa khí tức quá giỏi thôi...<br> "
+    },
+    {
+      "record_index": 67,
+      "line": 639,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Anyway，I've come this far. Would you invite me to your secret base?<br> ",
+      "vi_text": "Dù sao thì tôi cũng đã đến tận đây rồi. Cô có thể mời tôi đến căn cứ bí mật được không?<br> "
+    },
+    {
+      "record_index": 68,
+      "line": 650,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...That's a problem. I've never invited anyone before.<br> ",
+      "vi_text": "...Tôi khó xử lắm. Tôi chưa từng mời ai đến đó cả.<br> "
+    },
+    {
+      "record_index": 69,
+      "line": 652,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "So I'd be your first guest. That's quite an honor.<br> ",
+      "vi_text": "Tức là tôi sẽ là vị khách đầu tiên sao. Vinh hạnh thật đấy.<br> "
+    },
+    {
+      "record_index": 70,
+      "line": 663,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "You really are an optimistic one... Well，I suppose it's a problem to<br>hide my campsite from a superior officer.<br> ",
+      "vi_text": "Cậu đúng là người tích cực thật...<br>...Thôi được‚ giấu nơi cắm trại với cấp trên cũng là vấn đề nhỉ.<br> "
+    },
+    {
+      "record_index": 71,
+      "line": 674,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Besides... if it's you who managed to find me...<br> ",
+      "vi_text": "Hơn nữa... nếu là cậu‚ người đã tìm thấy tôi...<br> "
+    },
+    {
+      "record_index": 72,
+      "line": 686,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Fine，I'll show you.<br> ",
+      "vi_text": "Được rồi‚ tôi sẽ dẫn đường.<br> "
+    },
+    {
+      "record_index": 73,
+      "line": 688,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Really? Thank you，Wisteria.<br> ",
+      "vi_text": "Thật sao? Cảm ơn cô‚ Wisteria.<br> "
+    },
+    {
+      "record_index": 74,
+      "line": 699,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "...But before that，Commander. Um... about that thing...<br> ",
+      "vi_text": "...Nhưng trước đó‚ Chỉ Huy. Ừm... chuyện... c-cái đó...<br> "
+    },
+    {
+      "record_index": 75,
+      "line": 708,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Is the front of your trousers... fastened?<br> ",
+      "vi_text": "Phía trước quần của cậu... đã kéo lại chưa...?<br> "
+    },
+    {
+      "record_index": 76,
+      "line": 710,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Yeah，it's fine today. I made sure it was closed before you even said<br>anything.<br> ",
+      "vi_text": "Ừ‚ hôm nay không sao.<br>Tôi đã kéo lại đàng hoàng trước khi cô nói rồi.<br> "
+    },
+    {
+      "record_index": 77,
+      "line": 726,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Wisteria，who had been constantly averting her gaze，finally looked<br>at the Commander and let out a sigh of relief.<br> ",
+      "vi_text": "Wisteria‚ người vẫn luôn khẽ tránh ánh mắt‚ cuối cùng cũng nhìn<br>Chỉ Huy và thở phào nhẹ nhõm.<br> "
+    },
+    {
+      "record_index": 78,
+      "line": 738,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "I'm sorry about that. The impression from last time was so strong that<br>I couldn't help it.<br> ",
+      "vi_text": "Tôi thất lễ rồi.<br>Ấn tượng lần trước quá mạnh nên bất giác...<br> "
+    },
+    {
+      "record_index": 79,
+      "line": 740,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Oh，is that it? Sorry about that.<br> ",
+      "vi_text": "Ồ‚ ra là vậy à. Vậy thì xin lỗi nhé.<br> "
+    },
+    {
+      "record_index": 80,
+      "line": 759,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Seriously... it just won't leave my head...<br> ",
+      "vi_text": "Thật sự là vậy... chẳng hiểu sao nó cứ mắc kẹt trong đầu tôi...<br> "
+    },
+    {
+      "record_index": 81,
+      "line": 770,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "It pops into my mind at random times... it even shows up in my<br>dreams...<br> ",
+      "vi_text": "Thỉnh thoảng tôi lại nhớ đến...<br>thậm chí còn xuất hiện trong mơ...<br> "
+    },
+    {
+      "record_index": 82,
+      "line": 772,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "Dream...?<br> ",
+      "vi_text": "Trong mơ...?<br> "
+    },
+    {
+      "record_index": 83,
+      "line": 783,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "N-no，it's nothing.<br>Forget it.<br> ",
+      "vi_text": "K-không. Chuyện riêng của tôi thôi.<br>Quên đi.<br> "
+    },
+    {
+      "record_index": 84,
+      "line": 795,
+      "command": "message",
+      "status": "TRANSLATED",
+      "source_asset_text": "My campsite is this way.<br>I don't know if it's comfortable，but... I welcome you.<br> ",
+      "vi_text": "Nơi cắm trại của tôi ở hướng này.<br>Tôi không biết cậu có thấy thoải mái không... nhưng tôi chào đón cậu.<br> "
+    }
+  ],
+  "notes": [
+    "JP ja.json used as primary source; en.json and EN asset used for ordered alignment.",
+    "Speaker/charaload names and technical fields preserved.",
+    "ASCII commas avoided in Vietnamese text fields; Vietnamese internal pauses use U+201A where needed.",
+    "All characters confirmed 18+ by project context; mild adult-adjacent gag translated normally."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10160100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 82,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 84,
+    "translated_records": 84,
+    "changed_lines": 84,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 818,
+      "vi": 818,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "3c68d5d6ee00ba063dd13547c5ca264f511db38c7b417dbdff4a054a1da6bc1e",
+    "output_sha256": "70f602fa640f745e84a39b9b2532e9dd5ce7a7a8b54cf1eb31f1a38f1d2b82d7"
+  }
+}

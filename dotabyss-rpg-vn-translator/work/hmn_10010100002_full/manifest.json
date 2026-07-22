@@ -1,0 +1,867 @@
+{
+  "scene": "hmn_10010100002",
+  "status": "PASS",
+  "sources": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10010100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10010100002\\en.json",
+    "en_asset": {
+      "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10010100002.txt",
+      "bytes": 39044,
+      "sha256": "21b05b18aaa1f3055c99106919fa0575c2af34e591a6c2fed85b3ccfd96047c4",
+      "bom": true,
+      "newline": "CRLF",
+      "line_count": 1973
+    },
+    "vi_asset": {
+      "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10010100002.txt",
+      "bytes": 41170,
+      "sha256": "ffd5e5c1884a8022d91860759ee0d04eefe6f832b942c5dde90355ea3fe5f24f",
+      "bom": true,
+      "newline": "CRLF",
+      "line_count": 1973
+    }
+  },
+  "text_command_counts": {
+    "candidate_records": 92,
+    "translated_records": 92,
+    "title": 1,
+    "message": 91,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "kept_en_records": 0
+  },
+  "translation_source_policy": "JP primary; EN for alignment only",
+  "entries": [
+    {
+      "index": 1,
+      "asset_line": 25,
+      "record": "title",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "どうすればいいんでしょうっ",
+      "vi_text": "Em Phải Làm Sao Đây"
+    },
+    {
+      "index": 2,
+      "asset_line": 33,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Alright，Rosa，my knight escort，this is today's destination.<br> ",
+      "vi_text": "Nào‚ Rosa‚ kỵ sĩ được giao hộ vệ ta. Đây là điểm đến hôm nay.<br> "
+    },
+    {
+      "index": 3,
+      "asset_line": 64,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Lord Commander... this place... it's a tavern，isn't it?<br> ",
+      "vi_text": "Thưa Chỉ Huy…… nơi này…… chẳng phải là quán rượu sao……?<br> "
+    },
+    {
+      "index": 4,
+      "asset_line": 66,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's right. I've got important business here today. But as you<br>know，a tavern isn't exactly safe.<br> ",
+      "vi_text": "Đúng vậy. Hôm nay ta có công việc quan trọng ở đây. Nhưng như em biết đấy‚<br>quán rượu không thể gọi là nơi tuyệt đối an toàn.<br> "
+    },
+    {
+      "index": 5,
+      "asset_line": 85,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yes，I have heard that taverns have many visitors and are places<br>where fights and disputes occur.<br> ",
+      "vi_text": "Vâng‚ em nghe nói quán rượu có rất nhiều khách lui tới<br>và là nơi dễ xảy ra đánh nhau hay cãi vã.<br> "
+    },
+    {
+      "index": 6,
+      "asset_line": 87,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Right. That's why I need your strength，Rosa. I want you to stand<br>guard at the entrance.<br> ",
+      "vi_text": "Ừm. Vì thế ta cần sức của em đấy‚ Rosa. Ta muốn em đứng<br>hộ vệ thật chắc ở trước cửa quán.<br> "
+    },
+    {
+      "index": 7,
+      "asset_line": 107,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I see! Understood! Please leave this to me!<br> ",
+      "vi_text": "Ra là vậy! Em đã rõ! Xin cứ giao nơi này cho em!<br> "
+    },
+    {
+      "index": 8,
+      "asset_line": 109,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Ah，of course you can let regular customers in! Just stop anyone who<br>might cause me trouble.<br> ",
+      "vi_text": "À‚ tất nhiên khách bình thường thì cứ cho vào nhé! Chỉ cần chặn<br>những kẻ có vẻ sẽ gây rắc rối cho ta thôi.<br> "
+    },
+    {
+      "index": 9,
+      "asset_line": 111,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Don't let through any women who try to make me do other work while<br>I'm handling important business!<br> ",
+      "vi_text": "Nhất là mấy cô gái định bắt ta làm việc vặt khác trong lúc<br>ta đang thi hành nhiệm vụ quan trọng‚ tuyệt đối đừng cho qua!<br> "
+    },
+    {
+      "index": 10,
+      "asset_line": 130,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That is a very specific instruction... Understood，I will surely carry it<br>out.<br> ",
+      "vi_text": "Chỉ thị của ngài cụ thể quá nhỉ…… Em hiểu rồi‚<br>nhất định em sẽ bảo vệ đến cùng.<br> "
+    },
+    {
+      "index": 11,
+      "asset_line": 132,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I'm counting on you，Rosa!<br> ",
+      "vi_text": "Nhờ em đấy‚ Rosa!<br> "
+    },
+    {
+      "index": 12,
+      "asset_line": 156,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Alright! Everyone，are you drinking?<br> ",
+      "vi_text": "Được rồi! Mọi người‚ đang uống chứ?<br> "
+    },
+    {
+      "index": 13,
+      "asset_line": 182,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Oh，Commander? Welcome. I'm so glad you came.<br> ",
+      "vi_text": "Ôi‚ Chỉ Huy đấy à? Chào mừng anh. Em vui vì anh đã đến lắm.<br> "
+    },
+    {
+      "index": 14,
+      "asset_line": 229,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "What sort of mission could this be...? No，whatever it is，I will simply<br>carry out my guard duty.<br> ",
+      "vi_text": "Không biết đây là nhiệm vụ gì nhỉ……? Không‚ dù nội dung là gì‚<br>em chỉ cần hoàn thành nhiệm vụ hộ vệ của mình thôi!<br> "
+    },
+    {
+      "index": 15,
+      "asset_line": 231,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Come on，today we drink! Everyone，raise your glasses，cheers!<br> ",
+      "vi_text": "Nào‚ hôm nay uống cho đã nào! Mọi người nâng ly lên‚ cạn ly!!!<br> "
+    },
+    {
+      "index": 16,
+      "asset_line": 241,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Kyaa，Commander，you're amazing! Cheers!<br> ",
+      "vi_text": "Kyaa‚ Chỉ Huy tuyệt quá! Cạn ly!<br> "
+    },
+    {
+      "index": 17,
+      "asset_line": 292,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "(...This really is work，isn't it? Lord Commander...?)<br> ",
+      "vi_text": "(……Đây thật sự là công việc‚ phải không ạ? Thưa Chỉ Huy……?)<br> "
+    },
+    {
+      "index": 18,
+      "asset_line": 325,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "No sign of any suspicious individuals. I must not let my guard down<br>and continue my escort duty...<br> ",
+      "vi_text": "Không thấy có kẻ khả nghi nào xuất hiện. Từ giờ em cũng không được lơ là‚<br>phải tiếp tục làm tròn nhiệm vụ hộ vệ……<br> "
+    },
+    {
+      "index": 19,
+      "asset_line": 373,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Ugh，Commander... where did you go...?<br> ",
+      "vi_text": "Ư ư‚ Chỉ Huy…… anh đi đâu rồi vậy……?<br> "
+    },
+    {
+      "index": 20,
+      "asset_line": 415,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's Alicia? She looks so troubled. What could be wrong?<br> ",
+      "vi_text": "Kia là Alicia……? Trông chị ấy bối rối như vậy‚ rốt cuộc có chuyện gì nhỉ?<br> "
+    },
+    {
+      "index": 21,
+      "asset_line": 426,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I have my guard duty，but... leaving someone in trouble would go<br>against my code of chivalry.<br> ",
+      "vi_text": "Em còn nhiệm vụ hộ vệ‚ nhưng…… bỏ mặc người đang gặp khó khăn<br>là trái với tinh thần kỵ sĩ.<br> "
+    },
+    {
+      "index": 22,
+      "asset_line": 489,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Alicia，is something troubling you?<br> ",
+      "vi_text": "Alicia‚ chị đang gặp chuyện gì sao?<br> "
+    },
+    {
+      "index": 23,
+      "asset_line": 500,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Oh，Rosa! Actually，the Commander abandoned his work and went off<br>somewhere...<br> ",
+      "vi_text": "A‚ Rosa! Thật ra Chỉ Huy bỏ mặc công việc<br>rồi đi đâu mất rồi……<br> "
+    },
+    {
+      "index": 24,
+      "asset_line": 546,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "T-the Lord Commander! Abandoned his work?<br> ",
+      "vi_text": "C-Chỉ Huy ấy ạ!? Ngài ấy bỏ bê công việc sao!?<br> "
+    },
+    {
+      "index": 25,
+      "asset_line": 600,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's right! Even though there are so many reports coming due...<br>Rosa，have you seen the Commander?<br> ",
+      "vi_text": "Đúng vậy. Dù còn rất nhiều báo cáo sắp đến hạn……<br>Rosa‚ cô có thấy Chỉ Huy không?<br> "
+    },
+    {
+      "index": 26,
+      "asset_line": 625,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I have seen him... but...<br> ",
+      "vi_text": "Em có…… thấy ngài ấy‚ nhưng mà……<br> "
+    },
+    {
+      "index": 27,
+      "asset_line": 644,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Really! Where did he go?<br> ",
+      "vi_text": "Thật sao!? Chỉ Huy đã đi đâu rồi!?<br> "
+    },
+    {
+      "index": 28,
+      "asset_line": 661,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Well，um...<br> ",
+      "vi_text": "Chuyện đó‚ ừm……<br> "
+    },
+    {
+      "index": 29,
+      "asset_line": 716,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "(Alicia is clearly distressed，but if I let her in，I'll only cause trouble<br>for the Lord Commander as well.)<br> ",
+      "vi_text": "(Alicia đang rất khổ sở‚ nhưng nếu cứ để chị ấy vào trong‚<br>chắc chắn Chỉ Huy cũng sẽ gặp rắc rối.)<br> "
+    },
+    {
+      "index": 30,
+      "asset_line": 727,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "(Then I can't fulfill my duty as his escort. But I can't just leave Alicia<br>to her own devices either...)<br> ",
+      "vi_text": "(Như vậy em sẽ không thể hoàn thành công việc được giao với tư cách hộ vệ.<br>Nhưng em cũng không thể bỏ mặc Alicia được……)<br> "
+    },
+    {
+      "index": 31,
+      "asset_line": 738,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "(W-what should I do?)<br> ",
+      "vi_text": "(E-em phải làm sao đây!?)<br> "
+    },
+    {
+      "index": 32,
+      "asset_line": 803,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Rosa was utterly perplexed. Alicia looked at the building behind her<br>and nodded，as if understanding everything.<br> ",
+      "vi_text": "Rosa bối rối đến cùng cực. Alicia nhìn tòa nhà phía sau cô<br>rồi gật đầu như thể đã hiểu ra tất cả.<br> "
+    },
+    {
+      "index": 33,
+      "asset_line": 814,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "...Ah，I see! So the Commander is in the tavern!<br> ",
+      "vi_text": "……À‚ ra là vậy. Chỉ Huy đang ở trong quán rượu đúng không!<br> "
+    },
+    {
+      "index": 34,
+      "asset_line": 825,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "A-Alicia! You can't go in!<br> ",
+      "vi_text": "A‚ Alicia!? Không được‚ chị không được vào!<br> "
+    },
+    {
+      "index": 35,
+      "asset_line": 836,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "No arguments!<br> ",
+      "vi_text": "Miễn tranh luận!<br> "
+    },
+    {
+      "index": 36,
+      "asset_line": 881,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Hahaha! Man，today's booze is hitting the spot! There's nothing<br>better than a drink when you've blown off work!<br> ",
+      "vi_text": "Ha ha ha! Chà‚ rượu hôm nay ngon thật!<br>Rượu uống khi trốn việc đúng là ngon hơn tất cả!<br> "
+    },
+    {
+      "index": 37,
+      "asset_line": 923,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Commander! What do you think you're doing?<br> ",
+      "vi_text": "Chỉ Huy! Anh đang làm gì vậy hả!?<br> "
+    },
+    {
+      "index": 38,
+      "asset_line": 933,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "A-Alicia! Why are you here? What about my guard Rosa?<br> ",
+      "vi_text": "A-Alicia sao!? Sao cô lại ở đây!? Hộ vệ Rosa đâu rồi!?<br> "
+    },
+    {
+      "index": 39,
+      "asset_line": 993,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I-I'm terribly sorry! I couldn't stop her!<br> ",
+      "vi_text": "E-em vô cùng xin lỗi! Em đã không thể ngăn chị ấy!<br> "
+    },
+    {
+      "index": 40,
+      "asset_line": 1034,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Panicked，Rosa stood in front of Alicia as if to protect the<br>Commander.<br> ",
+      "vi_text": "Rosa hốt hoảng đứng chắn trước Alicia<br>như để bảo vệ Chỉ Huy.<br> "
+    },
+    {
+      "index": 41,
+      "asset_line": 1041,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Alicia，please stop! I won't let you lay a hand on the Lord<br>Commander!<br> ",
+      "vi_text": "Alicia‚ xin chị dừng lại!<br>Em sẽ không để chị động tay vào Chỉ Huy đâu!<br> "
+    },
+    {
+      "index": 42,
+      "asset_line": 1043,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Oh，my trusty guard! Please protect me from Alicia!<br> ",
+      "vi_text": "Ồ‚ đúng là hộ vệ của ta! Làm ơn bảo vệ ta khỏi Alicia với!<br> "
+    },
+    {
+      "index": 43,
+      "asset_line": 1054,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yes，even at the cost of my life!<br> ",
+      "vi_text": "Vâng‚ dù phải đánh đổi cả thân này!<br> "
+    },
+    {
+      "index": 44,
+      "asset_line": 1056,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Thanks，Rosa! You're the only one I can rely on...<br> ",
+      "vi_text": "Cảm ơn em‚ Rosa! Ta chỉ còn biết trông cậy vào em thôi……<br> "
+    },
+    {
+      "index": 45,
+      "asset_line": 1067,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Lord Commander...!<br> ",
+      "vi_text": "Thưa Chỉ Huy……!<br> "
+    },
+    {
+      "index": 46,
+      "asset_line": 1119,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Why am I the bad guy here?! It's your fault，Commander!<br> ",
+      "vi_text": "Sao thành ra em mới là người xấu vậy chứ! Là lỗi của Chỉ Huy mà!<br> "
+    },
+    {
+      "index": 47,
+      "asset_line": 1130,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Miss Alicia，please forgive him!<br> ",
+      "vi_text": "Alicia‚ xin chị rộng lượng tha thứ!<br> "
+    },
+    {
+      "index": 48,
+      "asset_line": 1186,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "As Alicia tried to corner the Commander，Rosa threw herself in to<br>block her.<br> ",
+      "vi_text": "Khi Alicia định áp sát Chỉ Huy‚<br>Rosa lấy thân mình ra ngăn lại.<br> "
+    },
+    {
+      "index": 49,
+      "asset_line": 1197,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Geez! What's going on here?! Why does the Commander need a guard<br>just to drink?!<br> ",
+      "vi_text": "Trời ơi! Rốt cuộc chuyện này là sao vậy!?<br>Tại sao Chỉ Huy đi uống rượu mà lại cần hộ vệ chứ!?<br> "
+    },
+    {
+      "index": 50,
+      "asset_line": 1206,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Well，the Lord Commander seemed troubled，so...<br> ",
+      "vi_text": "Chuyện là‚ vì Chỉ Huy trông có vẻ đang gặp khó khăn nên……<br> "
+    },
+    {
+      "index": 51,
+      "asset_line": 1217,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "He doesn't look troubled at all! Please explain properly!<br> ",
+      "vi_text": "Anh ấy trông chẳng khó khăn chút nào cả! Xin cô giải thích cho rõ đi!<br> "
+    },
+    {
+      "index": 52,
+      "asset_line": 1226,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Actually，the Lord Commander is in the middle of important duties. I<br>am serving as his guard.<br> ",
+      "vi_text": "Thật ra Chỉ Huy đang trong lúc làm nhiệm vụ quan trọng.<br>Em đang đảm nhiệm việc hộ vệ cho ngài ấy.<br> "
+    },
+    {
+      "index": 53,
+      "asset_line": 1237,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Important duties...?<br> ",
+      "vi_text": "Nhiệm vụ quan trọng……?<br> "
+    },
+    {
+      "index": 54,
+      "asset_line": 1244,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yes，that's what I've been told.<br> ",
+      "vi_text": "Vâng‚ em được nghe như vậy.<br> "
+    },
+    {
+      "index": 55,
+      "asset_line": 1246,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's right，Alicia. I'm working，so don't bother me.<br> ",
+      "vi_text": "Đúng đấy Alicia‚ ta đang làm việc‚ đừng làm phiền ta.<br> "
+    },
+    {
+      "index": 56,
+      "asset_line": 1257,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's obviously a lie! There's no such job as this!<br> ",
+      "vi_text": "Nhìn thế nào cũng là nói dối mà! Làm gì có công việc nào như thế chứ!<br> "
+    },
+    {
+      "index": 57,
+      "asset_line": 1313,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Is that so，Lord Commander?<br> ",
+      "vi_text": "Có…… thật vậy không ạ‚ thưa Chỉ Huy?<br> "
+    },
+    {
+      "index": 58,
+      "asset_line": 1315,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I'm not lying. I have a report on the city's economic situation，so I'm<br>conducting field research.<br> ",
+      "vi_text": "Ta đâu có nói dối? Ta có một bản báo cáo về tình hình kinh tế trong thành‚<br>nên đang điều tra thực địa đây.<br> "
+    },
+    {
+      "index": 59,
+      "asset_line": 1326,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I see! So that's how it is!<br> ",
+      "vi_text": "Ra là vậy! Hóa ra là như thế!<br> "
+    },
+    {
+      "index": 60,
+      "asset_line": 1381,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "So，Miss Alicia，could you please give us a little more time?<br> ",
+      "vi_text": "Vậy nên Alicia‚ chị có thể cho chúng em thêm chút thời gian được không?<br> "
+    },
+    {
+      "index": 61,
+      "asset_line": 1392,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Don't be fooled，it's just an excuse! He's just drinking and having<br>fun!<br> ",
+      "vi_text": "Đừng để bị lừa‚ đó chỉ là cái cớ thôi!<br>Anh ấy chỉ đang uống rượu chơi bời thôi mà!<br> "
+    },
+    {
+      "index": 62,
+      "asset_line": 1394,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "No，no，there are fewer customers than last time，right? I've been<br>keeping a sharp eye out，you know?<br> ",
+      "vi_text": "Không không‚ khách ít hơn lần trước đấy chứ?<br>Ta vẫn đang quan sát rất kỹ mà‚ biết không?<br> "
+    },
+    {
+      "index": 63,
+      "asset_line": 1403,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's only because Rosa's been keeping watch at the entrance，<br>keeping the rough customers out!<br> ",
+      "vi_text": "Chỉ là vì Rosa đứng canh ở lối vào<br>nên mấy người thô lỗ không vào được thôi mà!<br> "
+    },
+    {
+      "index": 64,
+      "asset_line": 1412,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Indeed，it is my duty as a guard to eliminate any danger to the Lord<br>Commander before it occurs.<br> ",
+      "vi_text": "Vâng‚ loại bỏ nguy hiểm cho Chỉ Huy từ trước khi nó xảy ra<br>là công việc đương nhiên của một hộ vệ.<br> "
+    },
+    {
+      "index": 65,
+      "asset_line": 1414,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Mm，well done，Rosa. Keep it up.<br> ",
+      "vi_text": "Ừm‚ em làm tốt lắm‚ Rosa. Cứ tiếp tục như vậy nhé.<br> "
+    },
+    {
+      "index": 66,
+      "asset_line": 1425,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yes，leave it to me!<br> ",
+      "vi_text": "Vâng‚ xin cứ giao cho em!<br> "
+    },
+    {
+      "index": 67,
+      "asset_line": 1473,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Geez!<br> ",
+      "vi_text": "Trời ơi!!!<br> "
+    },
+    {
+      "index": 68,
+      "asset_line": 1513,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Oh，Commander，did you call another girl over?<br> ",
+      "vi_text": "Ôi Chỉ Huy‚ anh còn gọi thêm cô gái khác nữa à?<br> "
+    },
+    {
+      "index": 69,
+      "asset_line": 1515,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Hahaha，you're the only one for me today.<br> ",
+      "vi_text": "Ha ha ha‚ hôm nay đối tượng của anh chỉ có em thôi.<br> "
+    },
+    {
+      "index": 70,
+      "asset_line": 1526,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "'Today's partner，' you say? You never change，Commander.<br> ",
+      "vi_text": "“Đối tượng hôm nay” cơ đấy. Chỉ Huy vẫn y như mọi khi nhỉ.<br> "
+    },
+    {
+      "index": 71,
+      "asset_line": 1578,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "See，Rosa! There's no way seducing women is part of his duties!<br> ",
+      "vi_text": "Nhìn đi Rosa! Làm gì có nhiệm vụ nào là tán tỉnh phụ nữ chứ!<br> "
+    },
+    {
+      "index": 72,
+      "asset_line": 1589,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "W-well，that... may be true，but...<br> ",
+      "vi_text": "C-chuyện đó…… có lẽ là vậy‚ nhưng……<br> "
+    },
+    {
+      "index": 73,
+      "asset_line": 1591,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "No，no，by drinking and spending time with women，I free my weary<br>heart and channel that into the power to protect the peace.<br> ",
+      "vi_text": "Không không‚ bằng việc uống rượu và giao lưu với phụ nữ‚ ta giải phóng<br>trái tim mệt mỏi rồi biến nó thành sức mạnh để bảo vệ hòa bình.<br> "
+    },
+    {
+      "index": 74,
+      "asset_line": 1595,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "This is also part of a Commander's duties，you see.<br> ",
+      "vi_text": "Đây cũng là nhiệm vụ của Chỉ Huy đấy.<br> "
+    },
+    {
+      "index": 75,
+      "asset_line": 1604,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I see... I never would have imagined! Understood! I，too，shall assist<br>the Lord Commander in protecting the peace!<br> ",
+      "vi_text": "Ra là vậy…… Em chưa từng tưởng tượng đến! Em hiểu rồi‚<br>em cũng sẽ giúp Chỉ Huy bảo vệ hòa bình!<br> "
+    },
+    {
+      "index": 76,
+      "asset_line": 1635,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "O-oh!<br> ",
+      "vi_text": "Ơ-ồ!?<br> "
+    },
+    {
+      "index": 77,
+      "asset_line": 1678,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Rosa sat next to %user%，and hesitantly，awkwardly leaned into him.<br> ",
+      "vi_text": "Rosa ngồi xuống cạnh %user%‚ rồi rụt rè và vụng về tựa sát vào anh.<br> "
+    },
+    {
+      "index": 78,
+      "asset_line": 1687,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "If drinking together can help the Lord Commander，then allow me to<br>assist as well...!<br> ",
+      "vi_text": "Nếu uống rượu cùng nhau có thể giúp ích cho Chỉ Huy‚<br>xin hãy cho em được hỗ trợ nữa……!<br> "
+    },
+    {
+      "index": 79,
+      "asset_line": 1689,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Ah，right... thanks...<br> ",
+      "vi_text": "À‚ ừ…… cảm ơn em……<br> "
+    },
+    {
+      "index": 80,
+      "asset_line": 1731,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "<size=30>DON'T YOU FEEL ANY GUILT，COMMANDER?</size>",
+      "vi_text": "<size=30>CHỈ HUY KHÔNG THẤY CẮN RỨT SAO?</size>"
+    },
+    {
+      "index": 81,
+      "asset_line": 1733,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "...Honestly，a little bit.<br> ",
+      "vi_text": "……Thành thật mà nói‚ có một chút.<br> "
+    },
+    {
+      "index": 82,
+      "asset_line": 1775,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "...? Did I do something wrong?<br> ",
+      "vi_text": "……? Em đã làm sai gì sao?<br> "
+    },
+    {
+      "index": 83,
+      "asset_line": 1784,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Ah... that's right. A knight like me couldn't possibly soothe the<br>Commander.<br> ",
+      "vi_text": "À…… đúng rồi nhỉ. Một kỵ sĩ như em<br>đâu thể nào xoa dịu được Chỉ Huy.<br> "
+    },
+    {
+      "index": 84,
+      "asset_line": 1822,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I will return to my guard duty. Commander，please rest easy.<br> ",
+      "vi_text": "Em sẽ quay lại nhiệm vụ hộ vệ. Xin Chỉ Huy hãy nghỉ ngơi cho tâm hồn được thư thái.<br> "
+    },
+    {
+      "index": 85,
+      "asset_line": 1824,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "No，I'm fine，Rosa. Thanks to you，I'm feeling a lot better.<br> ",
+      "vi_text": "Không‚ không sao đâu‚ Rosa. Nhờ có em mà ta đã được xoa dịu đủ rồi.<br> "
+    },
+    {
+      "index": 86,
+      "asset_line": 1835,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Really?<br> ",
+      "vi_text": "Thật sao ạ?<br> "
+    },
+    {
+      "index": 87,
+      "asset_line": 1837,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yeah. The inspection's over，so I guess I'll get back to work. Right，<br>Alicia?<br> ",
+      "vi_text": "Ừ. Việc thị sát cũng xong rồi‚ ta cũng nên quay lại làm việc thôi.<br>Đúng không‚ Alicia?<br> "
+    },
+    {
+      "index": 88,
+      "asset_line": 1892,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "You should have just done that from the start!<br> ",
+      "vi_text": "Ngay từ đầu anh cứ ngoan ngoãn làm thế đi!<br> "
+    },
+    {
+      "index": 89,
+      "asset_line": 1903,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "I'm so glad both of your problems are taken care of!<br> ",
+      "vi_text": "Nếu khó khăn của cả hai người đều được giải quyết‚ thì thật sự tốt quá rồi!<br> "
+    },
+    {
+      "index": 90,
+      "asset_line": 1905,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "Yeah，thanks for keeping me company... Looks like I've got no more<br>time to run from reality.<br> ",
+      "vi_text": "Ừ‚ cảm ơn em đã cùng ta giải khuây.<br>……Có vẻ ta cũng không còn thời gian để trốn tránh thực tại nữa rồi.<br> "
+    },
+    {
+      "index": 91,
+      "asset_line": 1916,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "That's right! If you keep putting off the paperwork，you're only going<br>to make things harder for yourself!<br> ",
+      "vi_text": "Đúng vậy! Anh cứ trì hoãn việc giấy tờ‚<br>người gặp rắc rối từ giờ sẽ là Chỉ Huy đấy!<br> "
+    },
+    {
+      "index": 92,
+      "asset_line": 1962,
+      "record": "message",
+      "status": "EXACT_TO_ORDERED_NOVEL",
+      "translation_status": "TRANSLATED",
+      "en_text": "The Commander might be troubled...!<br> ",
+      "vi_text": "Chỉ Huy sẽ…… gặp khó khăn sao……!?<br> "
+    }
+  ],
+  "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10010100002_full\\qa_log.json",
+  "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10010100002_full\\focused_diff.md",
+  "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10010100002_full\\generate_vi.py"
+}

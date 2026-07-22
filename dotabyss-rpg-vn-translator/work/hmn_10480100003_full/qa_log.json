@@ -1,0 +1,92 @@
+{
+  "scene": "hmn_10480100003",
+  "task": "Translate EN asset (mixed JP-title/EN-message) to VI",
+  "generator": "build_asset_vi_hmn_10480100003.py (field-index seq-keyed VI_DICT with suffix mirror, embedded BR/comma preflight)",
+  "status": "PASS",
+  "structural_qa": {
+    "line_count_en": 2418,
+    "line_count_vi": 2418,
+    "line_count_match": true,
+    "bom_en_present": true,
+    "bom_vi_present": true,
+    "bom_match": true,
+    "newline_en": "CRLF",
+    "newline_vi": "CRLF",
+    "newline_match": true,
+    "total_records": 111,
+    "total_records_vi": 111,
+    "records_match": true
+  },
+  "text_record_qa": {
+    "title": 1,
+    "message": 109,
+    "messageTextCenter": 1,
+    "messageTextUnder": 0,
+    "translated_count": 111,
+    "translated_pct": "100%",
+    "kept_en_lines": []
+  },
+  "delimiter_qa": {
+    "en_source_delimiter": "ASCII comma",
+    "delimiter_mismatch_count": 0,
+    "ascii_commas_in_vi_fields": "None found (all commas in VI text are U+201A ‚)"
+  },
+  "tag_qa": {
+    "tag_mismatch_count": 0,
+    "br_count_match": true,
+    "placeholder_mismatch_count": 0,
+    "tech_field_mismatch_count": 0
+  },
+  "independent_verify": "PASS",
+  "verifier_output": {
+    "kept_text_lines": [],
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0
+  },
+  "linguistic_notes": [
+    "Celeste uses あたし → em (casual female self-reference), calls Commander informally.",
+    "Commander uses お前 → em (casual senior-to-junior female), self-reference 俺 → tôi/anh.",
+    "Guard Captain uses formal speech → tôi/ngài when addressing Commander.",
+    "Robber boss uses rude speech → tao/mày when addressing Celeste.",
+    "All character names in field 1 (speaker label) kept as JP byte-identical.",
+    "Proper names in dialogue: Celeste/セレスト kept as Celeste, Alicia/アリシア kept as Alicia.",
+    "Frontline Base → Căn Cứ Tiền Tuyến, Commander → Chỉ Huy, Abyss → Đại Huyệt, Deputy Commander → Phó Chỉ Huy.",
+    "Seq 68 (JP '!!!!' → EN '...') intentionally translated as '!!!!' to reflect JP shock/excitement intent.",
+    "%user% placeholder preserved on all relevant lines.",
+    "BOM and CRLF preserved exactly from EN asset.",
+    "All translations are from EN message text field → VI, title field (JP) translated directly JP→VI.",
+    "Title: Tiền Thưởng Bị Chia Bớt Mất! (Vietnamese Title Case).",
+    "Center card: —Later → —Mấy Hôm Sau (Vietnamese Title Case)."
+  ],
+  "pending_decisions": [],
+  "issues": [],
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 109,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 111,
+  "translated_records": 111,
+  "changed_lines": 111,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2418,
+    "vi": 2418,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "9a92f7b1f9de7af42cb541714e9763556335a8fc220b9e0ff42cdac4579d0e73",
+  "output_sha256": "d4899fb9de5b01121b1958441ebf09226c6b8935eb0b07b58259b888efa87ccf",
+  "qa_status": "PASS"
+}

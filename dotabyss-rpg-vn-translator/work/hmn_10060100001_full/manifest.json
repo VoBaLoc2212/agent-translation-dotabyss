@@ -1,0 +1,836 @@
+{
+  "scene": "hmn_10060100001",
+  "sources": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10060100001\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10060100001\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10060100001.txt"
+  },
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10060100001.txt",
+  "artifacts": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100001_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100001_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100001_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10060100001_full\\generate_vi.py"
+  },
+  "source_hashes": {
+    "ja_json_sha256": "fe61f1fdff0eab6a148f059f43c6036b3bdb7ef7d86509958918055fc1c75760",
+    "en_json_sha256": "db4955196215a91e16888187c4d26f4da02932062e5db004c67e7f2024dcac10",
+    "en_asset_sha256": "cb22f03d22404a9d645a216b3dc4d3e5028d74240db7428143b7a5396beca1b1"
+  },
+  "output_hashes": {
+    "vi_asset_sha256": "ae8a16efebf2ab00a806fd216dde6251ae2b15774fcab4c627547d49cc1de2c0"
+  },
+  "encoding": {
+    "utf8_bom": true,
+    "newline": "CRLF"
+  },
+  "line_count": {
+    "en": 2526,
+    "vi": 2526
+  },
+  "text_command_counts": {
+    "title": 1,
+    "messageTextCenter": 1,
+    "message": 85
+  },
+  "total_text_records": 87,
+  "records": [
+    {
+      "seq": 1,
+      "line": 36,
+      "command": "title",
+      "status": "TRANSLATED",
+      "old_text": "あなたは私が治します",
+      "vi_text": "Em Sẽ Chữa Cho Anh",
+      "delimiter_count": 1
+    },
+    {
+      "seq": 2,
+      "line": 46,
+      "command": "messageTextCenter",
+      "status": "TRANSLATED",
+      "old_text": "<size=48><size=48>――The Abyss</size>",
+      "vi_text": "<size=48><size=48>――Đại Huyệt</size>",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 3,
+      "line": 82,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "%user%'s unit was engaging the monster.<br> ",
+      "vi_text": "%user% đang chỉ huy đơn vị giao chiến với quái vật.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 4,
+      "line": 130,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "ROOOAAAAR!<br> ",
+      "vi_text": "GÀÀÀÀÀÀO!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 5,
+      "line": 170,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Uwaaaaa!<br> ",
+      "vi_text": "Áaaaaa!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 6,
+      "line": 223,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Unable to withstand the monster's pressure，one soldier after<br>another fell severely wounded. The tragic sight spread fear among the surrounding soldiers.<br> ",
+      "vi_text": "Không chịu nổi áp lực từ con quái vật‚ từng người lính lần lượt bị trọng thương.<br>Cảnh tượng đau lòng ấy khiến nỗi sợ lan sang cả những binh sĩ xung quanh.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 7,
+      "line": 250,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Tch，more wounded! Fall back and call a healer!<br> ",
+      "vi_text": "Khốn kiếp‚ lại có thêm người bị thương! Lui về phía sau và gọi healer tới!<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 8,
+      "line": 288,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Leave it to me! I'll treat them right away!<br> ",
+      "vi_text": "Cứ giao cho em! Em sẽ chữa trị ngay!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 9,
+      "line": 290,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yeah，I'm counting on you，Noemi!<br> ",
+      "vi_text": "Ừ‚ nhờ em đấy‚ Noemi!<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 10,
+      "line": 385,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "God，please heal my friends...! Please，get better!<br> ",
+      "vi_text": "Xin Chúa hãy chữa lành cho bạn hữu con...! Làm ơn‚ hãy khỏi đi!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 11,
+      "line": 430,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Sorry，missy...<br> ",
+      "vi_text": "Xin lỗi nhé‚ cô bé...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 12,
+      "line": 449,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "It's alright，I'll help you right away...!<br> ",
+      "vi_text": "Không sao đâu‚ em sẽ cứu anh ngay...!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 13,
+      "line": 464,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(Noemi's doing her best，but it's tough for just one person. Any more<br>casualties and we won't be able to keep up with treatment.)<br> ",
+      "vi_text": "(Noemi đang cố hết sức‚ nhưng quả nhiên chỉ một mình em ấy thì quá khó. Nếu còn<br>thêm người bị thương nữa thì chúng ta sẽ không kịp chữa trị.)<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 14,
+      "line": 466,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(We can beat this enemy，but at this rate it's dangerous. If the<br>wounded are left untreated，the soldiers will lose their will to fight...!)<br> ",
+      "vi_text": "(Kẻ địch này không phải không thể thắng‚ nhưng cứ thế này thì nguy mất. Nếu<br>người bị thương bị bỏ mặc‚ binh sĩ sẽ mất ý chí chiến đấu...!)<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 15,
+      "line": 514,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I have to hurry，I have to hurry...! I'll heal you right away!<br> ",
+      "vi_text": "Mình phải nhanh lên‚ phải nhanh lên...! Em sẽ chữa lành cho anh ngay!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 16,
+      "line": 566,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "...No，forget about me. Please heal the others.<br> ",
+      "vi_text": "...Không‚ kệ tôi đi. Làm ơn hãy chữa cho những người khác.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 17,
+      "line": 585,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "What! With an injury like this，what are you saying! At this rate you'll<br>die!<br> ",
+      "vi_text": "Cái gì! Bị thương nặng thế này mà anh còn nói gì vậy! Cứ thế này anh sẽ<br>chết mất!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 18,
+      "line": 596,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "This wound would take time to heal，right? How many comrades can<br>you treat in that time?<br> ",
+      "vi_text": "Vết thương này muốn chữa thì sẽ tốn thời gian đúng không? Trong lúc đó cô có thể<br>chữa cho bao nhiêu đồng đội?<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 19,
+      "line": 607,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Please，help the others. I can't bear someone dying because of me...<br> ",
+      "vi_text": "Làm ơn‚ hãy cứu những người khác. Tôi không chịu nổi cảnh có ai đó chết vì tôi...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 20,
+      "line": 679,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "...No. I will heal you.<br> ",
+      "vi_text": "...Không được. Anh sẽ do tôi chữa.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 21,
+      "line": 732,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "But then，the others...<br> ",
+      "vi_text": "Nhưng như vậy thì đồng đội của tôi...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 22,
+      "line": 769,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I'll heal you all—every single one of you!<br> ",
+      "vi_text": "Anh cũng vậy‚ mọi người cũng vậy‚ tôi sẽ chữa hết tất cả!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 23,
+      "line": 778,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I won't abandon a single person! We're all going home alive!<br> ",
+      "vi_text": "Tôi sẽ không bỏ mặc bất kỳ ai! Tất cả chúng ta sẽ cùng sống sót trở về!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 24,
+      "line": 831,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Miss Noemi... I'm sorry，I lost my nerve... Please save me and<br>everyone else...<br> ",
+      "vi_text": "Cô Noemi... xin lỗi‚ tôi đã yếu lòng... Xin hãy cứu tôi và mọi người<br>nữa...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 25,
+      "line": 842,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yes，absolutely!<br> ",
+      "vi_text": "Vâng‚ nhất định!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 26,
+      "line": 897,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Heh，our healer's got some fire. We can't afford to slack off either.<br> ",
+      "vi_text": "...Hê‚ healer của chúng ta khí thế thật đấy. Bên mình cũng không được phép lơ là chiến đấu đâu.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 27,
+      "line": 906,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "No matter how bad the injury，Noemi won't abandon us. So I can still<br>keep fighting!<br> ",
+      "vi_text": "Dù bị thương nặng đến đâu‚ Noemi cũng sẽ không bỏ mặc chúng ta. Vậy nên tôi vẫn<br>có thể tiếp tục chiến đấu!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 28,
+      "line": 921,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(Noemi's hard work has boosted the unit's morale. We can push them<br>back now!)<br> ",
+      "vi_text": "(Sự nỗ lực của Noemi đã nâng cao sĩ khí đơn vị. Bây giờ chúng ta có thể đẩy lùi<br>chúng!)<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 29,
+      "line": 936,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Don't let any enemies through to the healer! That way，we won't die!<br>Protect Noemi and our wounded comrades!<br> ",
+      "vi_text": "Đừng để kẻ địch lọt tới chỗ healer! Làm được vậy thì chúng ta sẽ không chết!<br>Bảo vệ Noemi và những đồng đội bị thương!<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 30,
+      "line": 962,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Uoooooh!<br> ",
+      "vi_text": "Uôôôôô!<br> ",
+      "delimiter_count": 3
+    },
+    {
+      "seq": 31,
+      "line": 1024,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Gwooooh!<br> ",
+      "vi_text": "Gưooooh!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 32,
+      "line": 1048,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Mustering their strength，the soldiers finally drove back the monster.<br>Noemi was doing her utmost to heal the remaining wounded.<br> ",
+      "vi_text": "Dốc hết sức lực‚ cuối cùng các binh sĩ cũng đẩy lùi được con quái vật.<br>Noemi cũng đang dốc toàn lực chữa lành cho những người bị thương còn lại.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 33,
+      "line": 1096,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "As a cleric blessed by God，I have to save the wounded...<br> ",
+      "vi_text": "Là một giáo sĩ nhận được phước lành của Chúa‚ mình phải cứu những người bị thương...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 34,
+      "line": 1151,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Um，your wound is in the arm! I'll treat it right away!<br> ",
+      "vi_text": "Ừm‚ vết thương của anh ở cánh tay nhỉ! Em sẽ chữa trị ngay!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 35,
+      "line": 1175,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Lord，please cool my friend...!<br> ",
+      "vi_text": "Lạy Chúa‚ xin hãy làm mát bạn hữu con...!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 36,
+      "line": 1213,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Cool...?<br> ",
+      "vi_text": "...Làm mát...?<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 37,
+      "line": 1223,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Noemi's incantation，and the Commander's muttered words，somehow<br>reached everyone's ears.<br> ",
+      "vi_text": "Lời niệm chú của Noemi và tiếng lẩm bẩm của Chỉ Huy bằng cách nào đó<br>đều lọt vào tai mọi người.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 38,
+      "line": 1265,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ah...! No! Heal! I meant to say 'heal'!<br> ",
+      "vi_text": "A...! Không phải! Chữa lành! Ý em là 'chữa lành' ạ!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 39,
+      "line": 1284,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "It's okay，it's okay...! I can still heal properly!<br> ",
+      "vi_text": "Không sao‚ không sao...! Em vẫn có thể chữa trị đàng hoàng mà!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 40,
+      "line": 1303,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Having messed up her incantation，Noemi frantically resumed<br>treatment. The soldiers who heard her were shaking with suppressed laughter.<br> ",
+      "vi_text": "Noemi lỡ đọc sai lời chú nên cuống cuồng tiếp tục chữa trị.<br>Những binh sĩ nghe thấy đều run vai cố nhịn cười.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 41,
+      "line": 1357,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "For wounds，is it better to cool them?<br> ",
+      "vi_text": "Vết thương thì làm mát sẽ tốt hơn à?<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 42,
+      "line": 1374,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Heh heh... give me a break. I was so desperate I flubbed the chant.<br>But Noemi's really working hard...<br> ",
+      "vi_text": "Hề hề... đừng trêu nữa. Cô ấy đã cố đến mức đọc nhầm cả chú đấy.<br>Nhưng Noemi thật sự đang nỗ lực lắm...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 43,
+      "line": 1383,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Really，she's so cute!<br> ",
+      "vi_text": "Đúng là dễ thương thật!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 44,
+      "line": 1412,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Morale was high，they were looking out for each other，and they<br>could laugh again. *Phew*... Looks like we'll make it home safe.<br> ",
+      "vi_text": "Sĩ khí dâng cao‚ ý thức bảo vệ đồng đội và cả dư sức để cười đều đã trở lại.<br>Phù... Có vẻ chúng ta sẽ bình an trở về rồi.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 45,
+      "line": 1448,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Lord Commander! You're injured too!<br>I'll treat you!<br> ",
+      "vi_text": "Thưa Chỉ Huy! Anh cũng bị thương mà!<br>Em sẽ chữa cho anh!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 46,
+      "line": 1450,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Hm? Injury?<br>Ah，it's just a scratch. I'm fine going last.<br> ",
+      "vi_text": "Hm? Bị thương?<br>À‚ chỉ là vết xước thôi. Anh chữa cuối cùng cũng được.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 47,
+      "line": 1486,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Don't say that!<br>Even a small injury can get worse quickly. I'll treat you properly!<br> ",
+      "vi_text": "Đừng nói vậy!<br>Vết thương nhỏ cũng có thể nhanh chóng trở nặng. Em sẽ chữa cho anh cẩn thận!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 48,
+      "line": 1488,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "...Got it.<br>I can't win against Noemi，can I?<br> ",
+      "vi_text": "...Hiểu rồi.<br>Anh đúng là không thắng nổi Noemi nhỉ?<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 49,
+      "line": 1552,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Welcome back，Commander!<br>Looks like this one was tough.<br> ",
+      "vi_text": "Chào mừng ngài trở về‚ Chỉ Huy!<br>Lần này có vẻ vất vả lắm nhỉ.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 50,
+      "line": 1556,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yeah，but thanks to Noemi，who kept healing everyone all by herself，<br>we managed.<br> ",
+      "vi_text": "Ừ. Nhưng nhờ Noemi đã một mình liên tục chữa lành cho mọi người<br>nên cuối cùng cũng xoay xở được.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 51,
+      "line": 1567,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Amazing! As expected of Noemi!<br> ",
+      "vi_text": "Tuyệt quá! Đúng là Noemi!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 52,
+      "line": 1578,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "N-no，I'm nothing...<br>I panicked and even made a mistake in my incantation...<br> ",
+      "vi_text": "K-không đâu‚ em chẳng là gì cả...<br>Em đã hoảng quá nên còn đọc nhầm lời chú nữa...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 53,
+      "line": 1633,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(If a more skilled healer had been there，they could have healed<br>everyone properly without making them anxious.)<br> ",
+      "vi_text": "(Nếu có một healer giỏi hơn mình ở đó‚ chắc họ đã chữa lành<br>cho mọi người đàng hoàng mà không làm ai bất an.)<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 54,
+      "line": 1650,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(And that soldier surely wouldn't have had to resign himself to being<br>left behind...)<br> ",
+      "vi_text": "(Và chắc người lính đó cũng sẽ không phải chuẩn bị tinh thần<br>chấp nhận bị bỏ lại...)<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 55,
+      "line": 1658,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "(If only I could do better... I need to learn to handle any situation<br>calmly，without panicking...)<br> ",
+      "vi_text": "(Giá mà mình có thể làm tốt hơn... Mình phải học cách xử lý mọi tình huống<br>thật bình tĩnh‚ không hoảng loạn...)<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 56,
+      "line": 1710,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Noemi，thank you so much!<br> ",
+      "vi_text": "Noemi‚ cảm ơn cô nhiều lắm!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 57,
+      "line": 1763,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ah... you were gravely injured earlier...<br>Is the pain gone now?<br> ",
+      "vi_text": "A... anh là người lúc nãy bị trọng thương...<br>Giờ còn đau không?<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 58,
+      "line": 1774,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yeah! Thanks to you，I made it back like this!<br>If you weren't here，missy，I would have given up. I'm grateful.<br> ",
+      "vi_text": "Ừ! Nhờ cô mà tôi mới có thể trở về như thế này!<br>Nếu không có cô‚ cô bé‚ chắc tôi đã bỏ cuộc rồi. Tôi biết ơn cô lắm.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 59,
+      "line": 1828,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Me too!<br>Because Noemi healed me，I could fight to the end.<br> ",
+      "vi_text": "Tôi cũng vậy!<br>Nhờ được Noemi chữa cho nên tôi mới chiến đấu đến cuối cùng được.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 60,
+      "line": 1837,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I'm counting on you for the next battle too.<br>Take care of us，Noemi!<br> ",
+      "vi_text": "Trận tới cũng trông cậy vào cô nhé.<br>Nhờ cô chăm sóc chúng tôi nhé‚ Noemi!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 61,
+      "line": 1885,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Everyone...<br>I just did what any cleric would do...<br> ",
+      "vi_text": "Mọi người...<br>Tôi chỉ làm điều đương nhiên của một giáo sĩ thôi mà...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 62,
+      "line": 1896,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "But，ehehe... I'll keep doing my best from now on!<br> ",
+      "vi_text": "Nhưng‚ ehehe... từ giờ tôi vẫn sẽ cố gắng hết sức!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 63,
+      "line": 1924,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Even if I'm inadequate or make mistakes，I'll help everyone with what I<br>can do.<br> ",
+      "vi_text": "Dù mình còn non kém hay có lúc mắc sai lầm‚ mình vẫn sẽ giúp mọi người bằng<br>những gì mình có thể làm.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 64,
+      "line": 1935,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "That is what it means to be a cleric! I'll keep growing and be of use to<br>everyone!<br> ",
+      "vi_text": "Đó mới là ý nghĩa của việc làm một giáo sĩ! Tôi sẽ tiếp tục trưởng thành và<br>trở nên hữu ích với mọi người!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 65,
+      "line": 1981,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "We're invincible as long as Noemi's with us!<br> ",
+      "vi_text": "Chỉ cần có Noemi bên cạnh thì chúng ta vô địch rồi!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 66,
+      "line": 2023,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Huh? No，no，as a healer I still have a long way to go...<br> ",
+      "vi_text": "...Hở? Không không‚ là healer thì tôi vẫn còn kém lắm...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 67,
+      "line": 2065,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ah，Noemi is our healing goddess!<br> ",
+      "vi_text": "Ừ‚ Noemi chính là nữ thần chữa lành của chúng ta!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 68,
+      "line": 2107,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Wait! I've only received God's blessing... I'm no goddess or anything...<br> ",
+      "vi_text": "Chờ đã! Tôi chỉ nhận được phước lành của Chúa thôi‚ chứ không phải nữ thần gì đâu...<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 69,
+      "line": 2149,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "From now on，I'm sticking with Noemi!<br> ",
+      "vi_text": "Từ giờ tôi sẽ đi theo cô Noemi!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 70,
+      "line": 2191,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I'm not that great at all!<br> ",
+      "vi_text": "Tôi đâu có vĩ đại đến thế đâu ạ!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 71,
+      "line": 2193,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Noemi! Noemi!<br> ",
+      "vi_text": "No-e-mi! No-e-mi!<br> ",
+      "delimiter_count": 3
+    },
+    {
+      "seq": 72,
+      "line": 2208,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Please listen to me! Wh-what should I do?!<br> ",
+      "vi_text": "Xin hãy nghe tôi nói đã! T-tôi phải làm sao bây giờ?!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 73,
+      "line": 2255,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Noemi，you're really popular，aren't you?<br> ",
+      "vi_text": "Noemi được yêu mến thật đấy nhỉ.<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 74,
+      "line": 2257,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yeah，that's right. They're all simple guys，like schoolboys with a<br>crush on the school nurse.<br> ",
+      "vi_text": "Ừ. Toàn mấy gã đơn giản‚ cứ như đám nam sinh mê<br>cô y tá trường vậy.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 75,
+      "line": 2268,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Oh，come on. Everyone admires Noemi because she's so wonderful.<br> ",
+      "vi_text": "Thôi nào‚ anh nói vậy đấy à. Vì Noemi rất tuyệt nên mọi người mới ngưỡng mộ cô ấy chứ?<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 76,
+      "line": 2279,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ohh，I want to be like that too!<br> ",
+      "vi_text": "Ưừ‚ em cũng muốn được như thế!<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 77,
+      "line": 2281,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Well，I think Alicia is also loved in her own way.<br> ",
+      "vi_text": "Chà‚ anh nghĩ Alicia cũng được yêu mến theo một hướng khác mà.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 78,
+      "line": 2319,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Huh? Is that Ludia? She came all the way here to greet us?<br> ",
+      "vi_text": "...Hử? Đó là Ludia à? Cô ấy còn cất công đến tận đây đón chúng ta sao?<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 79,
+      "line": 2372,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ludia slipped smoothly through the soldiers around Noemi and<br>approached her.<br> ",
+      "vi_text": "Ludia nhẹ nhàng len qua vòng binh sĩ quanh Noemi và<br>tiến lại gần cô ấy.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 80,
+      "line": 2399,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "<size=30>Noemi... about that matter...</size>",
+      "vi_text": "<size=30>Noemi... về chuyện đó...</size>",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 81,
+      "line": 2418,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "<size=30>Ah... s-sorry. I'll be right there...!</size>",
+      "vi_text": "<size=30>A... x-xin lỗi. Tôi sẽ tới ngay...!</size>",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 82,
+      "line": 2429,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "<size=30>Sorry，I couldn't wait any longer...</size>",
+      "vi_text": "<size=30>Xin lỗi nhé‚ tôi không thể chờ thêm được nữa...</size>",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 83,
+      "line": 2449,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "<size=30>No，it's all my fault.</size><br><size=30>I'll take responsibility...</size>",
+      "vi_text": "<size=30>Không‚ tất cả là lỗi của tôi.</size><br><size=30>Tôi sẽ chịu trách nhiệm...</size>",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 84,
+      "line": 2473,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Hiding from prying eyes，Ludia and Noemi spoke in hushed tones，<br>then left together.<br> ",
+      "vi_text": "Hai người thì thầm như để tránh ánh mắt xung quanh rồi<br>Ludia và Noemi cùng nhau rời đi đâu đó.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 85,
+      "line": 2504,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "I couldn't catch what they were saying，but it sounded serious.<br> ",
+      "vi_text": "...Tôi không nghe rõ nội dung‚ nhưng hình như họ đang nói chuyện gì đó nghiêm trọng.<br> ",
+      "delimiter_count": 2
+    },
+    {
+      "seq": 86,
+      "line": 2515,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Yes，they seemed very serious... I hope everything's okay...<br> ",
+      "vi_text": "Vâng‚ trông họ rất nghiêm túc... Liệu có ổn không nhỉ...?<br> ",
+      "delimiter_count": 5
+    },
+    {
+      "seq": 87,
+      "line": 2517,
+      "command": "message",
+      "status": "TRANSLATED",
+      "old_text": "Ludia's involved，so it's probably nothing bad... but I'll keep an eye<br>on it.<br> ",
+      "vi_text": "Có Ludia liên quan nên chắc không phải chuyện xấu đâu...<br>Nhưng có lẽ mình nên để ý một chút.<br> ",
+      "delimiter_count": 2
+    }
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "kept_text_lines": [],
+    "translatable_records": 87,
+    "translated_records": 87,
+    "changed_lines": 87,
+    "source_line_count": 2526,
+    "output_line_count": 2526,
+    "source_sha256": "cb22f03d22404a9d645a216b3dc4d3e5028d74240db7428143b7a5396beca1b1",
+    "output_sha256": "ae8a16efebf2ab00a806fd216dde6251ae2b15774fcab4c627547d49cc1de2c0"
+  },
+  "qa_status": "PASS"
+}

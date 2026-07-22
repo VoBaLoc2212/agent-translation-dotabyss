@@ -1,0 +1,70 @@
+{
+  "scene": "hmn_10130100003",
+  "status": "PASS",
+  "created_at": "2026-07-19T10:20:40.745663+00:00",
+  "paths": {
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100003.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100003.txt",
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100003\\en.json",
+    "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10130100003_full"
+  },
+  "hashes": {
+    "en_asset": "7f72796feba0252afe7e6e7d9efd0dea5a940e8412fb6f95ffa6b477e034ecd7",
+    "vi_asset": "ec72fce575aefd109b40ec34b247eca52402b3e51d225f8a13f7c1eeb2ee4da7",
+    "ja_json": "6d4516a941d4659e0deaaf9905954dd563e8ace191c6f5d4d8d931c8ea555748",
+    "en_json": "995893cb5bbec95278df7aa4ba729478a2fc857d8ae9ace4379723aec50ec1c3"
+  },
+  "encoding": {
+    "bom_preserved": true,
+    "newline_preserved": true
+  },
+  "counts": {
+    "source_lines": 1281,
+    "output_lines": 1281,
+    "text_records": {
+      "title": 1,
+      "message": 96,
+      "messageTextUnder": 3,
+      "messageTextCenter": 1
+    },
+    "total_text_records": 101,
+    "translated_records": 101
+  },
+  "mapping_status_summary": {
+    "TRANSLATED": 101,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0,
+    "REVIEW": 0
+  },
+  "qa_status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10130100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 96,
+      "messageTextUnder": 3,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1281,
+      "vi": 1281,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "7f72796feba0252afe7e6e7d9efd0dea5a940e8412fb6f95ffa6b477e034ecd7",
+    "output_sha256": "ec72fce575aefd109b40ec34b247eca52402b3e51d225f8a13f7c1eeb2ee4da7"
+  }
+}

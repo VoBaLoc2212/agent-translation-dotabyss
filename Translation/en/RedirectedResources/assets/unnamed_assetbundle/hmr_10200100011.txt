@@ -1,0 +1,210 @@
+﻿live2dinit
+
+fade,Out,Black,0
+initend
+
+bg,abg11500b,off
+
+charaload,chara_1,102001000G,ラヴェリア
+
+fade,In,Black,0.5
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+seplay,seopening_tag,se5030001
+title,目覚めゆく女剣士
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0025,0.75,1
+
+
+
+
+
+window,on,0.15
+message,,I checked on the training ground late at night，drawn by an energetic<br>voice. I found Laveria training hard.<br> 
+
+window,off
+wait,0.15
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,<user>,Still at it，Laveria? You've been here since evening，right? We've got<br>work tomorrow，so go home and rest.<br> 
+
+charaface,chara_1,FaceSad
+
+asynccharaface,chara_1,EyeOpen,STOP,1
+asynccharaface,chara_1,FaceNormal,STOP,1
+
+message,ラヴェリア,Brother... No，it's still far from enough. With just this，I won't be able<br>to protect my comrades when it really counts.<br> ,,vc_10200100011_001_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(As expected，she puts her comrades before herself. She'll burn out<br>at this rate. I need to make her stop somehow...)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,... Then how about a match? If I win，you stop training right now. But<br>if you win，you can do whatever you want.<br> 
+
+asynccharareaction,chara_1,nod,1,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ラヴェリア,Hoh... A match，huh? Interesting. I respect you，Brother，but I won't<br>lose in a test of strength!<br> ,,vc_10200100011_002_01
+
+
+message,ラヴェリア,... All right. Come at me anytime.<br> ,,vc_10200100011_003_01
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Impressive... not a single opening. But what about this kind of<br>attack?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+charahide,chara_1,0
+
+blur,on,BACK,0
+
+charascale,chara_1,1.5,0
+
+charashow,chara_1,0
+
+crossfade,0.3,0,0,1,1
+wait,0.3
+
+
+
+window,on,0.15
+message,,I darted in，extending my arm into her guard. Laveria stood<br>motionless. She braced for a grapple，ready to counter. But—<br> 
+
+asyncseplay,setag1_1,se5010003,0,1,CONT
+
+charaface,chara_1,FaceShy
+
+asynccharareaction,chara_1,shake,1,STOP
+
+asyncseplay,setag1_2,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Shake,1,STOP
+asynccharaemo,chara_1,ExclaQues,STOP
+message,ラヴェリア,Kyah!<br> ,,vc_10200100011_004_01
+
+asyncseplay,setag1_3,se5010002,0,1,CONT
+message,,My target was her large breasts. With my outstretched hand，I gave<br>them a hard squeeze.<br> 
+
+asynccharareaction,chara_1,shake,1,STOP
+
+charaface,chara_1,FaceUnique02
+message,ラヴェリア,Wh-what are you—!<br> ,,vc_10200100011_005_01
+
+message,,Laveria was visibly shaken by the completely unexpected attack.<br>Seizing the moment，I swept her feet out from under her.<br> 
+
+asyncseplay,setag1_4,se4900069,0,1,CONT
+
+shake,BACK,,350,0,0.25,2,off,off,0
+
+window,off
+wait,0.15
+
+asynccharahide,chara_1,0.25,CONT,0
+
+charamove,chara_1,EaseOutTarget,CharaHeight,-100,0.25
+
+window,on,0.15
+message,ラヴェリア,Whoa!<br> ,,vc_10200100011_006_01
+
+asyncseplay,setag1_5,se4400111,0,1,CONT
+
+message,,Finally，I straddled the fallen Laveria and pinned her down.<br> 
+
+window,off
+wait,0.15
+
+asynccharashow,chara_1,0.3,CONT
+
+charamove,chara_1,EaseOutTarget,CharaHeight,0,0.3
+
+
+window,on,0.15
+message,ラヴェリア,Ngh... Th-that's dirty，Brother! You called it a match，but the first<br>thing you did was grope my tits!<br> ,,vc_10200100011_007_01
+
+message,<user>,There's no such thing as dirty in a battle. Do you think an excuse like<br>that would fly on the battlefield?<br> 
+
+charaface,chara_1,FaceSad
+message,ラヴェリア,Th-that's...<br> ,,vc_10200100011_008_01
+
+message,<user>,Anyway，this match... I win.<br> 
+
+charaface,chara_1,FaceAnger
+message,ラヴェリア,I... I'm not done yet! I haven't said I give up! The match continues!<br> ,,vc_10200100011_009_01
+
+message,,Laveria's warrior pride made her refuse to admit defeat. But without<br>surprise attacks，a fair fight was unwinnable.<br> 
+
+message,,I needed to do something to make her surrender... At that moment，I<br>met Laveria's eyes.<br> 
+
+charaface,chara_1,FaceUnique02
+message,ラヴェリア,W-What...?<br> ,,vc_10200100011_010_01
+
+message,,Laveria glared back at me，face red. Her thighs rubbed together...<br>Realization dawned，and I had an idea.<br> 
+
+message,<user>,This might be enough to make her surrender...<br> 
+
+charaface,chara_1,FaceSurprise
+
+asyncseplay,setag1_6,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+message,ラヴェリア,Huh? ...Wah!<br> ,,vc_10200100011_011_01
+
+
+labeljump,b
+
+:SkipPoint
+uivisible,off
+cleanskip
+
+:b
+window,off
+bgmstop,bgmtag1_1,1
+fade,Out,Black,1
+wait,1
+cleanall,ALL
+
+
+
+
+

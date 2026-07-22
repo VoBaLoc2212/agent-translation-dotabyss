@@ -1,0 +1,111 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_1,104301000G,ジェンマ
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceHappy
+
+
+
+
+window,on,0.15
+message,<user>,So，how was it? Was I just a naive little boy?<br> 
+
+charashow,chara_1,0.3
+
+asyncseplay,setag3_1,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+message,ジェンマ,Fufu... The very fact you ask shows you're still a boy. You lack<br>composure.<br> ,,vc_10430100013_001_01
+
+message,<user>,That's pretty arrogant for someone who was a virgin until just now...<br>And why did you come at me so provocatively in the first place?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_2,se4800019,0,1,CONT
+
+asynccharaemo,chara_1,Elated,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,ジェンマ,I thought that'd make it easier for you to have me. If I came on too<br>strong，you'd be troubled，wouldn't you?<br> ,,vc_10430100013_002_01
+
+message,<user>,It wouldn't have been a problem... But thanks to that，I could take you<br>without any reservations.<br> 
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asyncseplay,setag3_3,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ジェンマ,Hoho，that's right，that's right. I kept my virginity for a long time，<br>but I didn't want to burden you with that weight.<br> ,,vc_10430100013_003_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,You underestimate me. I'll bear the weight of the years you've<br>accumulated.<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_4,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceAnger,STOP
+message,ジェンマ,Don't you dare compare my virginity to some common woman's! I've<br>seen plenty of good men besides you，boy，but never gave myself to any!<br> ,,vc_10430100013_004_01
+
+message,<user>,That's an honor，but... When you say it like that，it really does sound<br>like a heavy burden.<br> 
+
+
+asyncseplay,setag3_5,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+message,ジェンマ,You said you'd carry it，so you'd best become a man worthy of me!<br> ,,vc_10430100013_005_01
+
+asyncseplay,setag3_6,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,ジェンマ,...And I'll become an even better woman for you，boy. Just you wait，<br>Ha ha ha!<br> ,,vc_10430100013_006_01
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,930 @@
+{
+  "scene": "hmn_10160100001",
+  "status": "PASS",
+  "paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100001\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10160100001\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100001.txt",
+    "vi_asset": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10160100001.txt",
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100001_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100001_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100001_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10160100001_full\\generate_hmn_10160100001_vi.py"
+  },
+  "source": {
+    "en_asset_sha256": "04797275d60402fd2181d90643bb30f60333e3f73e6aed3946469a3e11866785",
+    "encoding": "utf-8-sig",
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1269,
+    "text_command_counts": {
+      "title": 1,
+      "message": 94
+    },
+    "text_record_total": 95
+  },
+  "output": {
+    "vi_asset_sha256": "657c03f618e03dc9fd40ef18ffb0d36c6272e34103d9b51eb238b2230d8bae9f",
+    "line_count": 1269,
+    "bom": true,
+    "newline": "CRLF",
+    "translated_records": 95
+  },
+  "character_notes": {
+    "Wisteria": "Nữ xạ thủ trầm tĩnh, cảnh giác, nói với Chỉ Huy bằng tôi-anh/Chỉ Huy; Commander đáp tôi-cô trong cảnh mới gặp.",
+    "Commander": "Nam chính; Commander/司令官 dịch là Chỉ Huy."
+  },
+  "title_vi": "Chiến Thần Wisteria",
+  "structural_errors": [],
+  "mapping_summary": {
+    "TRANSLATED": 95,
+    "UNMATCHED": 0,
+    "AMBIGUOUS": 0
+  },
+  "mappings": [
+    {
+      "asset_line": 29,
+      "command": "title",
+      "speaker": null,
+      "old_text": "タイトル",
+      "vi_text": "Chiến Thần Wisteria",
+      "status": "TRANSLATED",
+      "match_status": "CONTEXT_MATCH"
+    },
+    {
+      "asset_line": 37,
+      "command": "message",
+      "speaker": "",
+      "old_text": "It was just after the Commander arrived at the Frontline Base and the<br>base had begun full-scale operations.<br> ",
+      "vi_text": "Ngay sau khi Chỉ Huy được điều đến Căn Cứ Tiền Tuyến và căn cứ<br>bắt đầu vận hành toàn diện.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 81,
+      "command": "message",
+      "speaker": "モンスター",
+      "old_text": "OOOOOHHH!<br> ",
+      "vi_text": "ÔÔÔÔÔHHH!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 129,
+      "command": "message",
+      "speaker": "兵士Ａ",
+      "old_text": "W-We're surrounded! Monsters in front and behind!<br> ",
+      "vi_text": "B-Bị bao vây rồi! Trước sau gì cũng toàn quái vật!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 138,
+      "command": "message",
+      "speaker": "兵士Ｂ",
+      "old_text": "No way...! There's nowhere to run!<br> ",
+      "vi_text": "Không thể nào...! Chẳng còn chỗ nào để chạy cả!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 172,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "(Ahh，damn! I'm short on everything—manpower，trustworthy<br>subordinates...!)<br> ",
+      "vi_text": "(Aaaa‚ chết tiệt! Mình thiếu tất cả—chiến lực‚ thuộc hạ đáng tin<br>cậy...!)<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 174,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "(But what I need most is information! Which unit has the guts to<br>tough it out in this situation?)<br> ",
+      "vi_text": "(Nhưng thứ thiếu nhất vẫn là thông tin...! Đơn vị nào còn đủ gan lì<br>để trụ lại trong tình thế này đây!?)<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 189,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Argh! I want someone who can turn this around with a bang! Isn't<br>there anyone out there? I'm giving you the go-ahead!<br> ",
+      "vi_text": "Khốn thật! Mình cần một ai đó có thể phá vỡ tình thế thật hoành<br>tráng! Có ai ở đâu không! Cứ xử chúng đi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 223,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "...Understood.<br> ",
+      "vi_text": "...Đã rõ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 225,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "What!<br> ",
+      "vi_text": "Hả!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 227,
+      "command": "message",
+      "speaker": "",
+      "old_text": "My flippant remark was unexpectedly acknowledged.<br> ",
+      "vi_text": "Lời buột miệng đầy bất lực của tôi bất ngờ được đáp lại.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 229,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "You are...!<br> ",
+      "vi_text": "Cô là...!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 247,
+      "command": "message",
+      "speaker": "",
+      "old_text": "Behind me，where no one should have been，stood an archer carrying<br>a blazing bow. With fluid motions，she took aim at the sky—<br> ",
+      "vi_text": "Phía sau lẽ ra không có ai lại có một xạ thủ cầm cây cung rực cháy<br>đang đứng chờ. Bằng động tác uyển chuyển‚ cô giương cung lên trời—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 260,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "Hah!<br> ",
+      "vi_text": "Hự!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 289,
+      "command": "message",
+      "speaker": "",
+      "old_text": "With a faint breath，an arrow brimming with immense power was<br>released. The moment the soaring arrow vanished into the sky，a rain of blazing arrows poured down.<br> ",
+      "vi_text": "Cùng một hơi thở khẽ‚ mũi tên chất chứa sức mạnh khổng lồ được<br>bắn ra. Ngay khi mũi tên vút lên biến mất giữa bầu trời‚ một cơn mưa tên rực lửa đổ xuống.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 392,
+      "command": "message",
+      "speaker": "兵士Ａ",
+      "old_text": "A rain of fire...! The monsters are being burned to cinders!<br> ",
+      "vi_text": "Mưa... lửa!? Lũ quái vật đang bị thiêu rụi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 403,
+      "command": "message",
+      "speaker": "兵士Ｂ",
+      "old_text": "We did it... We're going to make it back alive!<br> ",
+      "vi_text": "Làm được rồi... chúng ta sẽ sống sót trở về...!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 465,
+      "command": "message",
+      "speaker": "モンスター",
+      "old_text": "Oooooh...<br> ",
+      "vi_text": "Ôôôôôh...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 517,
+      "command": "message",
+      "speaker": "",
+      "old_text": "The monsters sank one after another beneath the rain of arrows，and<br>the soldiers who had been spared raised a cheer.<br> ",
+      "vi_text": "Lũ quái vật lần lượt gục xuống dưới cơn mưa tên‚ còn những người<br>lính nhặt lại được mạng sống thì reo hò vang dội.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 521,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Unbelievable... To think someone actually broke through with a bang.<br> ",
+      "vi_text": "Không thể tin nổi... Cô ấy thật sự phá vỡ thế trận cái rầm như thế.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 556,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...How goes the battle，Commander? I trust I have carried out your<br>orders.<br> ",
+      "vi_text": "...Tình hình chiến sự thế nào‚ Chỉ Huy? Tôi nghĩ mình đã hoàn thành<br>mệnh lệnh.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 558,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Better than I'd hoped. You saved me. I'm %user%，and you?<br> ",
+      "vi_text": "Vượt cả mong đợi. Cô cứu tôi rồi. Tôi là %user%‚ còn cô?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 566,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...I'm Wisteria. You're the new Commander，then.<br> ",
+      "vi_text": "...Tôi là Wisteria. Vậy anh là Chỉ Huy mới.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 568,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Yeah. Embarrassing to get rescued the first time we meet.<br> ",
+      "vi_text": "Ừ. Lần đầu gặp đã được cứu khỏi nguy hiểm‚ tôi để cô thấy cảnh mất mặt rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 570,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "I was hoping to make a good impression on someone as reliable as<br>you，but...<br> ",
+      "vi_text": "Tôi vốn muốn thể hiện mặt tốt trước một người đáng tin cậy như<br>cô‚ vậy mà...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 590,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...It wasn't bad.<br> ",
+      "vi_text": "...Cũng không tệ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 601,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Even amidst the chaos，you never gave up—you kept seeking a way<br>out. There's nothing wrong with clinging to life.<br> ",
+      "vi_text": "Giữa loạn chiến‚ anh vẫn không bỏ cuộc mà tìm cách xoay chuyển<br>tình thế. Bám lấy sự sống không phải chuyện xấu.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 613,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Even without me，you'd have made it back alive.<br> ",
+      "vi_text": "Dù không có tôi‚ anh hẳn vẫn sẽ sống sót trở về.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 615,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "I dunno about that. I feel like you saved my life，Wisteria.<br> ",
+      "vi_text": "Khó nói lắm. Tôi thì thấy mình nhặt được mạng nhờ Wisteria đấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 617,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Anyway，a reliable asset is hard to come by. I'm counting on you from<br>here on out.<br> ",
+      "vi_text": "Dù sao thì một chiến lực đáng tin rất quý giá. Từ giờ tôi trông cậy<br>vào cô.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 636,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...Understood. I'll go back to my watch.<br> ",
+      "vi_text": "...Đã rõ. Tôi sẽ quay lại cảnh giới.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 654,
+      "command": "message",
+      "speaker": "",
+      "old_text": "With that，she walked off，looking as if she were just out for a stroll.<br>But the instant I looked away，she had vanished from sight.<br> ",
+      "vi_text": "Nói vậy rồi rời đi‚ Wisteria trông như chỉ đang thong thả bước<br>dạo. Nhưng chỉ trong khoảnh khắc tôi rời mắt‚ cô đã biến mất khỏi tầm nhìn.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 656,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "She disappeared... no，did I just lose her? She's an interesting one.<br> ",
+      "vi_text": "Biến mất rồi... không‚ là mình để mất dấu cô ấy sao? Đúng là một người thú vị.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 689,
+      "command": "message",
+      "speaker": "兵士Ｂ",
+      "old_text": "Commander，that was... the War God，wasn't it?<br> ",
+      "vi_text": "Chỉ Huy‚ vừa rồi... là Chiến Thần đúng không ạ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 691,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "War God? You mean Wisteria?<br> ",
+      "vi_text": "Chiến Thần? Ý cô là Wisteria à?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 703,
+      "command": "message",
+      "speaker": "兵士Ｂ",
+      "old_text": "Yes. With just her bow，she can turn the tide of battle. That's why<br>she's called the War God—a true god of war.<br> ",
+      "vi_text": "Vâng. Chỉ với một cây cung‚ cô ấy có thể xoay chuyển cục diện<br>chiến trường. Đúng như một vị thần chiến đấu nên được gọi là Chiến Thần.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 710,
+      "command": "message",
+      "speaker": "兵士Ｂ",
+      "old_text": "She's there before you know it，and gone before you notice. They say<br>that's also like a god...<br> ",
+      "vi_text": "Cô ấy ở đó trước khi ta hay biết‚ và biến mất trước khi ta kịp nhận<br>ra. Ngay cả điểm ấy cũng giống thần linh vậy...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 712,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "I see. A fitting title for her. War God Wisteria，huh...<br> ",
+      "vi_text": "Ra vậy. Một biệt danh xứng với cô ấy. Chiến Thần Wisteria‚ nhỉ...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 739,
+      "command": "message",
+      "speaker": "",
+      "old_text": "Some time after the battle in the mountains，%user% set out to<br>survey the terrain around the base.<br> ",
+      "vi_text": "Một thời gian sau trận chiến ở vùng núi‚ %user% lên đường khảo sát<br>địa hình quanh căn cứ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 741,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Damn，I don't even have a complete grasp of the terrain around the<br>base. How am I supposed to command?<br> ",
+      "vi_text": "Chậc‚ đến địa hình quanh căn cứ mà mình còn chưa nắm rõ hoàn<br>toàn. Thế thì chỉ huy kiểu gì đây?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 743,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Hmm... I need to take a piss. Might as well do it here.<br> ",
+      "vi_text": "Ừm... hơi buồn đi tiểu rồi. Giải quyết quanh đây vậy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 764,
+      "command": "message",
+      "speaker": "",
+      "old_text": "Just as I pulled down my pants in the bushes to take a piss—<br> ",
+      "vi_text": "Ngay khi tôi vừa kéo quần xuống trong bụi cây để đi tiểu—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 766,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "—Stop.<br> ",
+      "vi_text": "—Đứng yên.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 776,
+      "command": "message",
+      "speaker": "",
+      "old_text": "A cold voice shot out from behind，and I froze on the spot.<br> ",
+      "vi_text": "Một giọng nói lạnh lẽo vang lên từ phía sau‚ khiến tôi bất giác đứng khựng lại.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 778,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Whoa! Wh-who's there?!<br> ",
+      "vi_text": "Úwaa!? A-Ai đó!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 780,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "I told you to stop. Don't move.<br> ",
+      "vi_text": "Tôi đã bảo đứng yên. Đừng cử động thêm nữa.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 782,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "If you tell me not to move... at least let me either put it away or take<br>it out!<br> ",
+      "vi_text": "C-Cô bảo đừng cử động thì... ít nhất cũng cho tôi cất vào hoặc lấy<br>ra chứ...!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 784,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "You're talking nonsense... What do you intend to take out?<br> ",
+      "vi_text": "Nói nhảm gì vậy... Anh định lấy gì ra?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 786,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "What do I mean... my thing... you know，that...<br> ",
+      "vi_text": "Gì thì... cái đó... thứ ấy ấy...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 788,
+      "command": "message",
+      "speaker": "？？？",
+      "old_text": "...Enough. Raise both hands and face me.<br> ",
+      "vi_text": "...Đủ rồi. Giơ cả hai tay lên và quay mặt về phía tôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 790,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "*sigh*... Fine...<br> ",
+      "vi_text": "*thở dài*... Được rồi...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 821,
+      "command": "message",
+      "speaker": "",
+      "old_text": "With my pants still down，I raised my hands and turned around.<br>Wisteria stood there，her bow aimed at me cautiously.<br> ",
+      "vi_text": "Quần vẫn tuột‚ tôi giơ tay lên rồi quay người lại.<br>Wisteria đứng đó‚ không hề lơ là khi chĩa cung về phía tôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 832,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Huh...? Commander!?<br> ",
+      "vi_text": "Hả...? Chỉ Huy!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 834,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Oh，it's you，Wisteria. Just like the other day，you're pretty good at<br>approaching without me noticing.<br> ",
+      "vi_text": "Ồ‚ là Wisteria à. Giống lần trước‚ cô giỏi thật đấy‚ lại tiếp cận mà<br>không để tôi cảm nhận được khí tức.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 845,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "I noticed an unfamiliar figure prowling about，so I cautiously<br>approached from behind，but...<br> ",
+      "vi_text": "Tôi thấy một bóng người lạ lảng vảng nên mới thận trọng tiếp cận<br>từ phía sau‚ nhưng...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 856,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "I never thought it would be you，Commander. Forgive my rudeness.<br> ",
+      "vi_text": "Tôi không ngờ lại là anh‚ Chỉ Huy. Xin thứ lỗi vì đã thất lễ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 889,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "But... why are you in a place like this?<br> ",
+      "vi_text": "Nhưng... tại sao anh lại ở nơi như thế này?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 891,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "I wanted to see the terrain around the base with my own eyes.<br>Command HQ still doesn't have enough information.<br> ",
+      "vi_text": "Tôi muốn tự mắt xem địa hình quanh căn cứ. Sở chỉ huy vẫn còn<br>thiếu quá nhiều thông tin.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 902,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "You took the trouble to come and see for yourself，Commander?<br> ",
+      "vi_text": "Đích thân Chỉ Huy phải tự mắt xem ư?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 904,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Small elevation changes not on any map，animal trails we could use，<br>changes in visibility due to vegetation density.<br> ",
+      "vi_text": "Những gợn địa hình nhỏ không có trên bản đồ‚ lối mòn thú có thể<br>dùng được‚ thay đổi tầm nhìn do độ dày thảm thực vật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 906,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "A small bit of info like that can determine if a soldier lives or dies. As<br>Commander，I should know these things，right?<br> ",
+      "vi_text": "Chỉ một thông tin nhỏ cũng liên quan trực tiếp đến sống chết của<br>binh sĩ. Với tư cách Chỉ Huy‚ tôi nên biết chứ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 917,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...You're diligent. My initial judgment that you're not half bad appears<br>to have been right.<br> ",
+      "vi_text": "...Anh tận tâm với công việc thật. Có vẻ nhận định của tôi rằng anh<br>không tệ đã không sai.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 919,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Glad to hear it.<br> ",
+      "vi_text": "Được cô khen thế thì tôi vui rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 930,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "But leaving yourself vulnerable is a problem. If it weren't me，you<br>might be dead.<br> ",
+      "vi_text": "Nhưng để lộ sơ hở vẫn là vấn đề. Nếu đối thủ không phải tôi‚ có<br>lẽ anh đã chết.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 932,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "What can I say? I was in the middle of taking a leak.<br> ",
+      "vi_text": "Biết sao được‚ tôi đang đi vệ sinh dở mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 943,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "It's precisely when you're immobilized that you need to be vigilant.<br>Especially with your pants down...<br> ",
+      "vi_text": "Chính lúc không thể cử động mới càng cần cảnh giác. Nhất là khi<br>đã kéo quần áo xuống...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 984,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Fu... fufu，c-clothes...<br> ",
+      "vi_text": "Q-Qu‚ quần áo...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 986,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "What's wrong，Wisteria? Why are you suddenly stammering?<br> ",
+      "vi_text": "Sao vậy‚ Wisteria? Tự nhiên lại ấp úng.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 995,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Th-that's...<br> ",
+      "vi_text": "Ch‚ chuyện đó là...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1030,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "What's the matter? You're acting really strange.<br> ",
+      "vi_text": "Cô sao thế? Trông cô thật sự lạ lắm đấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1072,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "D-don't come near!<br> ",
+      "vi_text": "Đ-Đừng lại gần!!!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1074,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "You don't have to act like I'm some dangerous creep. It hurts when<br>you dodge me like that.<br> ",
+      "vi_text": "Cô không cần phản ứng như thể có kẻ nguy hiểm đang đến gần vậy<br>đâu. Tự nhiên bị né tránh cũng tổn thương lắm chứ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1097,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "H-have you not noticed...? How can you be so calm in this state...!<br> ",
+      "vi_text": "A-Anh không nhận ra sao...? Sao anh có thể bình thản nói chuyện trong tình trạng này được...!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1099,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "You've started blatantly avoiding me now. Turning your face away<br>from the Commander right in front of you—what's that about?<br> ",
+      "vi_text": "Cô bắt đầu tránh mặt rõ ràng luôn rồi đấy... Quay mặt đi khỏi Chỉ<br>Huy đang đứng ngay trước mắt thì thế nào đây?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1110,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Of course I can't look you in the eye! Are you serious，Commander...!<br> ",
+      "vi_text": "Làm sao tôi nhìn thẳng được chứ! Anh nói thật đấy à‚ Chỉ Huy...!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1112,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "I have no idea what you're talking about. What are you getting shy<br>about，Wisteria?<br> ",
+      "vi_text": "Thật hay không thì tôi cũng chẳng hiểu. Cô đang xấu hổ vì chuyện<br>gì vậy‚ Wisteria?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1121,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "That's why...! For goodness' sake，do up your pants already!<br> ",
+      "vi_text": "Vì thế đó...! Làm ơn đi‚ mau cất phía trước lại giùm!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1123,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "...Pants? Oh，I left them undone. I completely forgot.<br> ",
+      "vi_text": "...Phía trước? À‚ tôi vẫn để quần tuột xuống. Quên béng mất.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1134,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "How can you forget something like that...! Are you sure you're not a<br>pervert?<br> ",
+      "vi_text": "Chuyện đó mà cũng quên được sao...!? Anh không thật sự là biến<br>thái đấy chứ?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1136,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "That's rude. You said 'Don't move，hands up!' so I just followed<br>orders.<br> ",
+      "vi_text": "Thất lễ thật đấy. Cô bảo “đừng cử động‚ giơ tay lên!” nên tôi chỉ<br>làm theo thôi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1138,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Well，sorry for showing you something weird. My bad.<br> ",
+      "vi_text": "Dù sao thì xin lỗi vì đã để cô thấy thứ kỳ quặc. Tôi sai rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1149,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "...I was out of line as well. So we're even.<br> ",
+      "vi_text": "...Việc tôi thất lễ cũng là sự thật. Vậy coi như chúng ta không ai nợ ai nữa.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1151,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "...I could swear you were the one who caught me with my pants down.<br> ",
+      "vi_text": "...Tôi nghĩ người xuất hiện lúc tôi đang tụt quần là Wisteria mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1162,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Commander? Is there something you want to say?<br> ",
+      "vi_text": "Chỉ Huy? Anh có điều gì muốn nói sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1164,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Nope，nothing. By the way，Wisteria，I'm heading back to base. Escort<br>me.<br> ",
+      "vi_text": "Không‚ chẳng có gì. Tiện đây Wisteria‚ tôi về căn cứ đây. Hộ tống<br>tôi nhé.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1166,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Whoops，after I take care of business.<br> ",
+      "vi_text": "À khoan‚ sau khi tôi giải quyết xong đã.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1177,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "*sigh*... I'll wait，so make it quick.<br> ",
+      "vi_text": "*thở dài*... Tôi sẽ đợi‚ nên làm cho nhanh đi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1195,
+      "command": "message",
+      "speaker": "",
+      "old_text": "Wisteria shrugged in exasperation and vanished into the trees.<br> ",
+      "vi_text": "Wisteria nhún vai như thể cạn lời rồi biến mất giữa những hàng cây.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1197,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Yeah，she's definitely a character.<br> ",
+      "vi_text": "Ừ‚ quả nhiên cô ấy là người thú vị.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1199,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "—I can hear you. Enough talk. Hurry up.<br> ",
+      "vi_text": "—Tôi nghe thấy đấy. Đừng nói linh tinh nữa. Nhanh lên.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1201,
+      "command": "message",
+      "speaker": "<user>",
+      "old_text": "Whoops，sorry. You have good ears，but don't listen，alright?<br> ",
+      "vi_text": "Ồ‚ xin lỗi nhé. Tai cô thính là chuyện tuyệt vời‚ nhưng đừng nghe âm thanh đó đấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1203,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Like I'd listen to that...!<br> ",
+      "vi_text": "Ai mà thèm nghe chứ...!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1241,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "Honestly，what a joker. Does he have no shame?<br> ",
+      "vi_text": "Thật tình‚ đúng là một người hay đùa. Anh ta không có cái gọi là xấu hổ sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1248,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "But... it's been a while since I've talked this much with anyone. I don't<br>intend to let my guard down，but strangely，it doesn't bother me.<br> ",
+      "vi_text": "Nhưng... đã lâu rồi mình mới nói chuyện với người khác nhiều đến<br>vậy. Mình không định buông lỏng cảnh giác‚ nhưng lạ thay‚ cũng không thấy khó chịu.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    },
+    {
+      "asset_line": 1260,
+      "command": "message",
+      "speaker": "ウィステリア",
+      "old_text": "So this is the base commander，huh...<br> ",
+      "vi_text": "Đây là Chỉ Huy của căn cứ này sao...<br> ",
+      "status": "TRANSLATED",
+      "match_status": "EXACT_OR_ORDERED"
+    }
+  ],
+  "independent_verify": {
+    "scene": "hmn_10160100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 94,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 95,
+    "translated_records": 95,
+    "changed_lines": 95,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1269,
+      "vi": 1269,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "04797275d60402fd2181d90643bb30f60333e3f73e6aed3946469a3e11866785",
+    "output_sha256": "657c03f618e03dc9fd40ef18ffb0d36c6272e34103d9b51eb238b2230d8bae9f"
+  }
+}

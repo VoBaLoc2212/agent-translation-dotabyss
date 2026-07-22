@@ -1,0 +1,42 @@
+{
+  "file": "evs_10200010201.txt",
+  "timestamp_utc": "2026-07-19T08:53:28.353933+00:00",
+  "source": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010201.txt",
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\evs_10200010201.txt",
+  "line_count_source": 4238,
+  "line_count_output": 4238,
+  "translatable_records": 110,
+  "translated_records": 110,
+  "review_records_kept_en": 0,
+  "resolved_review_lines": [
+    2585,
+    2636,
+    2695,
+    2744,
+    2802,
+    2813,
+    2847
+  ],
+  "user_confirmation": "User confirmed game includes H18+ content and all characters are over 18; adult-content lines may be translated.",
+  "blockers": [],
+  "technical_fields_unchanged": true,
+  "delimiter_counts_unchanged": true,
+  "tags_unchanged": true,
+  "placeholders_unchanged": true,
+  "ascii_comma_absent_in_translated_fields": true,
+  "hashes": {
+    "en_sha256": "70b8f3f28e89943af8df2118eec38efc38a8f1327d7dc3fc516823d2c69078c9",
+    "vi_sha256": "0ca653a92ab75db3890025df093b7e07f9aac3ea5b30d015b7351ecf17d3ef30"
+  },
+  "newline": "CRLF",
+  "encoding": "UTF-8-BOM",
+  "qa_status": "PASS",
+  "kept_en_lines": [],
+  "changed_lines": 110,
+  "text_record_types_counted": [
+    "title,",
+    "message,",
+    "messageTextUnder,",
+    "messageTextCenter,"
+  ]
+}

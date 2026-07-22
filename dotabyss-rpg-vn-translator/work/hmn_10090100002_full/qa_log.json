@@ -1,0 +1,56 @@
+{
+  "scene": "hmn_10090100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "structural": {
+    "line_count_match": true,
+    "en_line_count": 885,
+    "vi_line_count": 885,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatches": [],
+    "technical_field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "kept_text_lines": [],
+    "ascii_comma_in_vi_text_lines": []
+  },
+  "linguistic": {
+    "status": "PASS",
+    "notes": [
+      "Natural Vietnamese VN/RPG style; Levienne uses lively first-person em and addresses Commander as anh in private dialogue.",
+      "Intentional proper-name keeps in VI text: Levienne and Eldorana."
+    ]
+  },
+  "h18": {
+    "present": false,
+    "adult_confirmation_context": "Project confirms all characters 18+; no H18 content in this scene."
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 69,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "translatable_records": 71,
+  "translated_records": 71,
+  "changed_lines": 71,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 885,
+    "vi": 885,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "6ee395cf32bbac41a2bf99b745d3d3158b90d5d964aacdadb9e14a3ee5a997ac",
+  "output_sha256": "de107ec2110e43fb8fc05b313a23a8f97376ff5fd08f886b7499172ab0bb828e"
+}

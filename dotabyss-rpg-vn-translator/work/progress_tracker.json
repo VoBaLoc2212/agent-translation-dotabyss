@@ -1,0 +1,161 @@
+{
+  "updated": "2026-07-19",
+  "rows": [
+    {
+      "scene": "evs_10200010101",
+      "status": "PASS",
+      "records": 47,
+      "translated": 47,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1212
+    },
+    {
+      "scene": "evs_10200010201",
+      "status": "PASS",
+      "records": 110,
+      "translated": 110,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 4238
+    },
+    {
+      "scene": "evs_10200010301",
+      "status": "PASS",
+      "records": 109,
+      "translated": 109,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 4086
+    },
+    {
+      "scene": "evs_10200010401",
+      "status": "PASS",
+      "records": 89,
+      "translated": null,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 3156
+    },
+    {
+      "scene": "evs_10200010501",
+      "status": "PASS",
+      "records": 74,
+      "translated": null,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 2919
+    },
+    {
+      "scene": "evs_10200010601",
+      "status": "PASS",
+      "records": 92,
+      "translated": null,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 3782
+    },
+    {
+      "scene": "evs_10200010701",
+      "status": "PASS",
+      "records": 93,
+      "translated": 93,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 4179
+    },
+    {
+      "scene": "evs_10200010801",
+      "status": "PASS",
+      "records": 65,
+      "translated": null,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1791
+    },
+    {
+      "scene": "evs_10200010901",
+      "status": "BLOCKED_MISSING_SOURCE",
+      "records": null,
+      "translated": null,
+      "kept": null,
+      "qa_status": "FAIL",
+      "lines": null
+    },
+    {
+      "scene": "evs_10200011001",
+      "status": "BLOCKED_MISSING_SOURCE",
+      "records": null,
+      "translated": null,
+      "kept": null,
+      "qa_status": "BLOCKED",
+      "lines": null
+    },
+    {
+      "scene": "evs_10200020101",
+      "status": "PASS",
+      "records": 48,
+      "translated": 48,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1309
+    },
+    {
+      "scene": "evs_10200020201",
+      "status": "PASS",
+      "records": 107,
+      "translated": null,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1839
+    },
+    {
+      "scene": "evs_10200020301",
+      "status": "PASS",
+      "records": 99,
+      "translated": 99,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 2431
+    },
+    {
+      "scene": "evs_10200020401",
+      "status": "PASS",
+      "records": 88,
+      "translated": 88,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 2231
+    },
+    {
+      "scene": "evs_10200020501",
+      "status": "PASS",
+      "records": 79,
+      "translated": 79,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1593
+    },
+    {
+      "scene": "evs_10200020601",
+      "status": "PASS",
+      "records": 71,
+      "translated": 71,
+      "kept": 0,
+      "qa_status": "PASS",
+      "lines": 1664
+    },
+    {
+      "scene": "evs_10200020701",
+      "status": "IN_PROGRESS_OR_PENDING",
+      "records": 90,
+      "lines": 2726
+    },
+    {
+      "scene": "evs_10200020801",
+      "status": "IN_PROGRESS_OR_PENDING",
+      "records": 44,
+      "lines": 813
+    }
+  ]
+}

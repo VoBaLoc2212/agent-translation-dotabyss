@@ -1,0 +1,682 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10080100032
+
+charaload,chara_1,100801000X,ヴィーラ
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+bgvplay,bgvtag2_1,bgv_10080100032_001_01,1,on
+
+
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+
+window,on,0.15
+l2dmessage,ヴィーラ,*pant*... Aaah...<br> ,,vc_10080100032_001_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+
+
+message,,Veera slipped off her thin garment，pressing her breasts against the<br>window，squishing them—a lewd sight surely visible from outside.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+
+
+message,,Even though it was her request，I couldn't help worrying. ""You'll be<br>visible from outside like that，"" I said.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.1
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,2.6
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2.8
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.6
+
+l2dmessage,ヴィーラ,I don't mind... I wouldn't be ashamed even if people found out that I'm<br>in your arms，Lord Commander...<br> ,,vc_10080100032_002_01
+
+
+
+
+message,,Her expression was already completely flushed with excitement. This<br>was something she truly wanted.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+
+message,,From her earlier words，a competitive spirit toward her sister seemed<br>to blossom. Perhaps she wanted to assert she'd become my woman.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.2
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+
+l2dmessage,ヴィーラ,Lord Commander，please continue... Do with me as you wish...<br> ,,vc_10080100032_003_01
+
+
+
+
+message,,She didn't seem aware of it，but I decided to meet her expectations.<br>With resolve，I brought my cock close to her peach-shaped ass.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10080100032_002_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+l2dmessage,ヴィーラ,*pant*!... Ah!... Mmmph!<br> ,,vc_10080100032_004_01
+
+
+
+
+message,,I slid my cock between her smooth thighs. Slick from love juice<br>seeping from her entrance，I gently rocked my hips，savoring the sensation.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.4
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.4
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+
+l2dmessage,ヴィーラ,Lord Commander... your thing... it's so hot，I feel like I'm melting...<br>*gasp*...<br> ,,vc_10080100032_005_01
+
+
+
+
+message,,As if ice had melted into water，love juice gushed from her pussy.<br> 
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+asyncl2dmotion,MouthEmotion02,on,STOP,1
+
+message,,I said，""That would be a problem. I'm counting on you from now on.""<br>When I said that，Veera's eyes lit up with joy.<br> 
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,5.2
+
+
+
+l2dmessage,ヴィーラ,Aaah... I'm so happy... Whether it's with magic or by your side at<br>night，I'll do my best for you from now on，Lord Commander...<br> ,,vc_10080100032_006_01
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5.3
+
+
+
+
+l2dmessage,ヴィーラ,I'll do my best，so Lord Commander... please，with that hot thing of<br>yours—have mercy on me...<br> ,,vc_10080100032_007_01
+
+
+
+
+message,,Veera's pussy was slightly open and drenched. Deciding it was about<br>time，I lined up the head of my cock at her entrance.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10080100032_003_01,1,on
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.1
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+l2dmessage,ヴィーラ,Ah... *pant*... Huh? Ah...?<br> ,,vc_10080100032_008_01
+
+
+
+
+message,,Just as Veera's face lit up with joy at the prospect of me entering<br>her，faint footsteps came from outside the window.<br> 
+
+
+
+
+message,,Multiple footsteps approached. Low voices murmured. With people<br>clearly present，I couldn't bring myself to enter her.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.2
+
+l2dmessage,ヴィーラ,Eh... uh，mm... ugh... *pant，pant*... mmm... Lord Commander...<br> ,,vc_10080100032_009_01
+
+
+
+
+message,,Perhaps her desire had overcome her fear of being seen. Fidgeting，<br>Veera pressed her entrance against the head of my cock，as if pleading.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.2
+
+
+
+message,,I scrambled to pull out，but at that very instant—<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10080100032_004_01,1,on
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+l2dmessage,ヴィーラ,—mmm，Ah... Hup... Ngh，Aaaaah...!<br> ,,vc_10080100032_010_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+
+
+message,,Veera thrust her ass out firmly，and her wet hole swallowed my cock<br>easily，taking it to the hilt in one go.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotion04,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.8
+
+
+l2dmessage,ヴィーラ,*pant*... Ah... Ah，*pant*... so big... *pant*...<br> ,,vc_10080100032_011_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+
+message,,The contractions of her hole stimulated my cock the moment I entered<br>her. Though people might be outside，I nearly moaned with pleasure.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,0.5
+
+
+message,,While I was flustered and surprised，Veera spoke playfully.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen01,on,STOP,2.4
+
+asyncl2dmotion,MouthEmotion04,on,STOP,2.6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6.2
+
+l2dmessage,ヴィーラ,Geez，I couldn't hold back anymore... Ngh... I don't care if they<br>notice，so... Ngh... please，as hard as you can.<br> ,,vc_10080100032_012_01
+
+
+
+
+message,,Her enraptured gaze ignited my own desire. No longer caring if we<br>were caught，I put strength into my hips.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10080100032_005_01,1,on
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,2
+
+
+l2dmessage,ヴィーラ,Mmm... Ah!，*pant*!... Mmph!，Aaaah...!<br> ,,vc_10080100032_013_01
+
+
+
+
+message,,At the intense thrusting she had craved，Veera let out a moan. Her<br>breasts，pressed hard against the glass，squished and warped.<br> 
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.6
+
+
+
+
+message,ヴィーラ,My breasts are pressed against the window... What if someone outside<br>sees me? Even though there might be people，I'm doing this...<br> ,,vc_10080100032_014_01
+
+
+
+
+message,,Veera's sweet moans made my cock grow even hotter. Doing this so<br>close to others—the thrill of taboo made the pleasure even sharper.<br> 
+
+asyncl2dmotion,MouthEmotion00,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2.2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.8
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,5
+
+message,ヴィーラ,(But Lord Commander is feeling it. He's getting aroused by me. He<br>needs me—!)<br> ,,vc_10080100032_015_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+
+l2dmessage,ヴィーラ,Aaah... I'm sorry，*pant*... Big Sis...! I'm hogging Lord Commander all<br>for myself...!<br> ,,vc_10080100032_016_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.8
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.7
+
+
+
+
+l2dmessage,ヴィーラ,But I want more，more... *pant*... I want to feel Lord Commander...! I<br>want to share even more pleasure together... Mmph!<br> ,,vc_10080100032_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+
+
+message,,Veera revealed a desire beyond mere respect for her sister. I praised<br>her growth and encouraged her to be more honest about her desires.<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.5
+
+
+
+
+l2dmessage,ヴィーラ,Is it okay...? More，Aah... to be more selfish...! Then will you，Lord<br>Commander... *sigh*... be happy if I do...?<br> ,,vc_10080100032_018_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.5
+
+
+l2dmessage,ヴィーラ,Not my Big Sis... Ngh... will you praise me...? You'll want me，won't<br>you... *pant* Aahn!<br> ,,vc_10080100032_019_01
+
+
+
+
+message,,As if in response，I slammed into her. Each deep thrust made her ass<br>jiggle softly and her breasts，pressed against the glass，warp.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,ヴィーラ,Aah! More，please...! Please... *pant* Aahn!<br> ,,vc_10080100032_020_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.2
+
+
+l2dmessage,ヴィーラ,Not as Big Sis，not as a pair of sisters! Look at me，only me...!<br>Mmph，Aaah...!<br> ,,vc_10080100032_021_01
+
+
+
+
+message,,From the start，I never thought of them as a set. When I told her I<br>always saw her as Veera，her inner walls quivered.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.3
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.6
+
+l2dmessage,ヴィーラ,Lord Commander... I'm so happy...! *pant* Aahn!<br> ,,vc_10080100032_022_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+
+
+message,,Her inner walls spasmed，love juice dripping. Seeing Veera grow<br>wanton，my excitement mounted.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10080100032_006_01,1,on
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.1
+
+
+l2dmessage,ヴィーラ,Hya! *gasp*... *pant*，aaaah!♡<br> ,,vc_10080100032_023_01
+
+
+
+
+message,,When I thrust my cock hard，Veera let out a loud moan. She pressed<br>her hips against me，greedily seeking pleasure.<br> 
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4
+
+
+
+l2dmessage,ヴィーラ,*gasp*! It feels so good!♡ Lord Commander's thing is... *pant* mmph...<br>hitting my deepest spot!♡<br> ,,vc_10080100032_024_01
+
+
+
+
+message,,Each time I pressed my cock deep into her，Veera shuddered. Her<br>womb's entrance kissed my cockhead，and a lewd *squelch* echoed.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.7
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,6.7
+
+
+l2dmessage,ヴィーラ,I can't help it... *whimper*... Lord Commander's thing!♡ So hard... so<br>hot... Hyaaah!... it's amazing...!♡<br> ,,vc_10080100032_025_01
+
+
+
+
+message,,Her lewd words—which the normally cool Veera would never<br>utter—revealed that her strong feelings made her unable to contain her arousal.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+
+
+message,,With the added thrill of others nearby，I grew more excited and<br>quickened my pace.<br> 
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4.6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.6
+
+l2dmessage,ヴィーラ,I love you... Mmph! Aaaaah! I love you—I love you so much!♡ More，do<br>it more... let's be together more! *gasp* Aaaah! Mmph!<br> ,,vc_10080100032_026_01
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,0.2
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.2
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+l2dmessage,ヴィーラ,Lord Commander...! Please come together with me!♡<br> ,,vc_10080100032_027_01
+
+
+
+
+message,,We both sensed we were at our limit. I nodded at Veera's words and<br>released my seed without hesitation.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10080100032_007_01,1,on
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.5
+
+
+l2dmessage,ヴィーラ,*pant*，Ah!—Aaaaah! Aaaaaaaah!<br> ,,vc_10080100032_028_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.2
+
+
+message,,Veera's body trembled as she climaxed. My sperm gushed out，unable<br>to stay inside，and leaked from her pussy.<br> 
+
+
+
+
+message,,Before I knew it，there was no one outside. Whether we were actually<br>seen or they just moved on without noticing，I never knew.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+
+l2dmessage,ヴィーラ,*pant*，*whimper*，Mmph! Aah... *pant*...<br> ,,vc_10080100032_029_01
+
+
+
+
+message,,Veera was breathing raggedly in the throes of climax. Feeling a bit of<br>remorse for having been too intense，I asked if she was all right.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.3
+
+asyncl2dmotion,MouthEmotion04,on,STOP,2
+
+l2dmessage,ヴィーラ,Mmm... *gasp*...<br> ,,vc_10080100032_030_01
+
+
+
+
+message,,But Veera remained dazed，not responding to my voice.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10080100032_008_01,1,on
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.1
+
+
+l2dmessage,ヴィーラ,Uh... mmm... Ah... Lord Commander...?<br> ,,vc_10080100032_031_01
+
+l2dmotion,EyeEmotionTop
+
+
+
+message,,After several calls，Veera finally came to and，seeming to realize our<br>situation，gave me an embarrassed look.<br> 
+
+asyncl2dmotion,MouthEmotion03,on,STOP,0.5
+
+
+
+l2dmessage,ヴィーラ,We did something... incredible，didn't we...<br> ,,vc_10080100032_032_01
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.3
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+
+message,ヴィーラ,(But... I meant every word. I love Lord Commander，and I want him to<br>choose me over Big Sis...)<br> ,,vc_10080100032_033_01
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotion04,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1.9
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4.8
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5
+
+
+l2dmessage,ヴィーラ,Lord Commander... more... please... I'm begging you，want me—<br> ,,vc_10080100032_034_01
+
+
+
+
+message,,The deep desire that had grown within Veera showed no signs of<br>being sated yet—<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+

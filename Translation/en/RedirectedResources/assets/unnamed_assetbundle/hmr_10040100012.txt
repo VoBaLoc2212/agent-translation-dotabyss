@@ -1,0 +1,759 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+bg,abg18200a
+
+charaload,chara_1,100401000X,シャオレイ
+
+adultui,on
+
+l2dshow,l2d_10040100012
+
+wait,1
+
+uivisible,on
+fade,In,Black,1
+bgmplay,bgmtag2_1,bgm0029,1
+
+bgvplay,bgvtag2_1,bgv_10040100012_001_01,1
+
+
+
+
+window,on,0.15
+message,,—In the brothel's private room，Xiaolei's youthful body in brothel<br>attire was lit by dim light.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+l2dmessage,シャオレイ,Mmm... Somehow，Xiaolei's heart is pounding...<br> ,,vc_10040100012_001_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionLeft
+
+message,,Xiaolei's cheeks were flushed，her small breasts and pussy exposed.<br>Her hands were bound and chained to the headboard.<br> 
+
+message,,A twisted excitement welled up in me as I asked，'Are you really okay<br>with this?'<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+l2dmessage,シャオレイ,Yeah. It's gonna hurt at first，right? If Xiaolei gets surprised and<br>thrashes around，Teacher might get hurt.<br> ,,vc_10040100012_002_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceEmotion03,on,STOP,8
+
+l2dmessage,シャオレイ,Xiaolei will be fine，so... please teach Xiaolei the brothel work... just<br>like this?<br> ,,vc_10040100012_003_01
+
+message,,She looked at me with innocent trust and I nodded. 'I'll teach you<br>gently，' I whispered，reaching for her pussy.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10040100012_002_01,1,on
+
+l2dmotion,FaceEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+wait,2
+
+l2dmessage,シャオレイ,Mmph... Ah!<br> ,,vc_10040100012_004_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,シャオレイ,...T-Teacher? What are you... Aahn...<br> ,,vc_10040100012_005_01
+
+l2dmotion,EyeOpenReset
+
+message,,I continued to lightly trace Xiaolei's slit with my finger while she<br>looked on in wonder.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+l2dmessage,シャオレイ,Mmph...! Aah...!<br> ,,vc_10040100012_006_01
+
+message,,Xiaolei's reactions were sensitive. Even lightly touching her made her<br>flinch and tremble.<br> 
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.5
+
+l2dmessage,シャオレイ,Mmm... It feels kinda weird... Because Xiaolei's never been touched<br>there before...<br> ,,vc_10040100012_007_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7.5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+l2dmessage,シャオレイ,Hey，Teacher. Are you really gonna use this place? This is where<br>Xiaolei pees，you know...?<br> ,,vc_10040100012_008_01
+
+message,,She'd heard about it from Ludia，but had no real knowledge. I'd need<br>to teach her thoroughly.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10040100012_003_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,1.1
+
+l2dmessage,シャオレイ,*huff*... Ah，hyaa...!<br> ,,vc_10040100012_009_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+message,,When I rubbed her entrance，Xiaolei arched her back and cried out，<br>surprised at her own voice. It was utterly innocent.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,シャオレイ,Strange... It's tickly and tingly... aahn...<br> ,,vc_10040100012_010_01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1
+
+message,,I told her，'It's okay. I'll get you used to it gradually，so relax your<br>body，' and Xiaolei gave a small nod.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+l2dmessage,シャオレイ,O-okay... Hyah!<br> ,,vc_10040100012_011_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,FaceEmotion02,on,STOP,10
+
+asyncl2dmotion,EyeOpen03,on,STOP,10
+
+l2dmessage,シャオレイ,Mmm，mmm...! It really does feel weird... *huff* Mmph! When you rub<br>that spot，Xiaolei's down there gets all tingly... Eep!<br> ,,vc_10040100012_012_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,8
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,8
+
+asyncl2dmotion,EyeOpen02,on,STOP,8
+
+l2dmessage,シャオレイ,T-Teacher... Has Xiaolei's body gone weird...? It's getting hotter and<br>hotter... Aaah...!<br> ,,vc_10040100012_013_01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,0.5
+
+l2dmessage,シャオレイ,This is... what it means to be naughty...?<br> ,,vc_10040100012_014_01
+
+message,,Xiaolei looked up with feverish eyes; I told her this was still just<br>preparation and her role was to use her body to make a man feel good.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,シャオレイ,Feel good... Xiaolei wants to make Teacher feel good. But Xiaolei also<br>feels good... why?<br> ,,vc_10040100012_015_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,7.5
+
+l2dmessage,シャオレイ,Also... somehow，Xiaolei's down there is getting wet... Did Xiaolei<br>have an accident...?<br> ,,vc_10040100012_016_01
+
+l2dmotion,MouthEmotionReset
+
+message,,She must be talking about the slickness that glistens deep inside her.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.5
+
+message,,I taught the naive Xiaolei that this was love juice. And I also explained<br>that love juice was a sign that she was ready to accept a man.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceEmotion03,on,STOP,2
+
+l2dmessage,シャオレイ,Prep...paration...?<br> ,,vc_10040100012_017_01
+
+message,,Confirming that the tension in her body had loosened considerably，I<br>slid my finger into her pussy.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10040100012_003_01,1,on
+
+l2dmotion,FaceEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+wait,1.5
+
+l2dmessage,シャオレイ,Ahw...! Teacher's finger is inside...!<br> ,,vc_10040100012_018_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+message,,When I inserted my finger，the love juice that had accumulated deep<br>inside overflowed with a *squelch*.<br> 
+
+message,,Her inexperienced pussy was tight and clenched my finger，so I slowly<br>moved my finger inside to loosen her up and avoid hurting her.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,シャオレイ,Ah，aah，ah...! When you rub Xiaolei's inside，it feels even better than<br>before... Ngh!<br> ,,vc_10040100012_019_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7
+
+asyncl2dmotion,EyeOpen04,on,STOP,7
+
+asyncl2dmotion,MouthEmotion03,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7
+
+l2dmessage,シャオレイ,It feels strange，but... it feels good...! Teacheeer...!<br> ,,vc_10040100012_020_01
+
+message,,Xiaolei's cheeks flushed with waves of pleasure. I felt my own cock<br>hardening in response to Xiaolei's pleasure.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10040100012_005_01,1
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,The slipperiness of Xiaolei's pussy had improved considerably.<br>Judging it to be good timing，I took out my cock.<br> 
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.5
+
+l2dmessage,シャオレイ,Mmm... aah...<br> ,,vc_10040100012_021_01
+
+l2dmessage,シャオレイ,This is Teacher's length...<br> ,,vc_10040100012_022_01
+
+message,,Xiaolei stared intently at my erect cock，and I explained that I was<br>about to insert it now.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,シャオレイ,Really...? Can something this big really go in...?<br> ,,vc_10040100012_023_01
+
+message,,I asked，'Should we stop?' She looked straight at me—<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceEmotion02
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,4.5
+
+asyncl2dmotion,FaceEmotion01,on,STOP,4.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.5
+
+l2dmessage,シャオレイ,No. I want to try. ...I want you to put it in.<br> ,,vc_10040100012_024_01
+
+message,,Her eyes were earnest with anticipation. I placed the head of my cock<br>at her entrance and pressed forward.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10040100012_005_01,1,on
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen03,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleTopLeft,on,STOP,3.5
+
+wait,1.5
+
+l2dmessage,シャオレイ,Mmm...! Teacher's length...! It's going inside...!<br> ,,vc_10040100012_025_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion01
+
+message,,Her small hole took in my entire cock. The tightness made the feeling<br>of closeness intense，and pleasure crept up to my waist.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,7.5
+
+l2dmessage,シャオレイ,Mmph...! Xiaolei is so full of Teacher's length... Xiaolei's tummy's all<br>stuffed... *pant*...!<br> ,,vc_10040100012_026_01
+
+message,,Xiaolei was trembling and twitching，letting out hot breaths. I gently<br>asked，'Doesn't it hurt?'<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceEmotion02,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceEmotion01,on,STOP,5
+
+l2dmessage,シャオレイ,It doesn't hurt... mmm，*sigh*... Xiaolei is tough... *huff*.<br> ,,vc_10040100012_027_01
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+l2dmessage,シャオレイ,And somehow，it feels better than your fingers... Aaah.<br> ,,vc_10040100012_028_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+message,,My careful preparation meant that even for her first time，there was<br>almost no strain on Xiaolei，and she accepted me smoothly.<br> 
+
+message,,I told her to relax her body first. If she did，it would feel even better.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+asyncl2dmotion,FaceEmotion01,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,14
+
+asyncl2dmotion,MouthEmotion03,on,STOP,14
+
+asyncl2dmotion,EyeOpen04,on,STOP,14
+
+l2dmessage,シャオレイ,Even better...? ...Okay. Please，Teacher. Please make Xiaolei feel<br>good?<br> ,,vc_10040100012_029_01
+
+message,,I had planned to let her get used to it a little longer，but her<br>adorable plea made me unable to hold back—<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10040100012_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シャオレイ,Ngh...! Ah! Hyaa! *pant*...!<br> ,,vc_10040100012_030_01
+
+l2dmotion,EyeOpen01
+
+message,,I thrust deeper，parting her flesh with my cock head，then pulled<br>back to the brink of slipping out when I reached her deepest.<br> 
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,0.5
+
+message,,In and out，in and out. Each time I repeated that motion，Xiaolei's<br>small breasts swayed.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,10
+
+asyncl2dmotion,FaceEmotion00,on,STOP,10
+
+l2dmessage,シャオレイ,Ah...! *pant*...! Hyaa! mmm...! Ah! T-Teacher... somehow，Xiaolei feels<br>weird...<br> ,,vc_10040100012_031_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeOpen01,on,STOP,12
+
+l2dmessage,シャオレイ,When you move，Teacher... Ngh! Inside Xiaolei，it's tingling...! The<br>good feeling keeps growing and growing...!<br> ,,vc_10040100012_032_01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,0.5
+
+message,,Xiaolei writhed and rattled her chains，crying out in pleasure. I was<br>worried the chains might break，but I couldn't stop thrusting.<br> 
+
+l2dmotion,EyeEmotionTop
+
+message,,Seeing Xiaolei writhe in pleasure made me happy，and my strokes<br>grew deeper.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10040100012_008_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,シャオレイ,Eep...! *pant* Aaah! Aaah!<br> ,,vc_10040100012_033_01
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,FaceEmotion03,on,STOP,7
+
+l2dmessage,シャオレイ,It feels so good...! *pant* mmm! Ah...! Mmph! Ngh... T-Teacher，are<br>you feeling good too...?<br> ,,vc_10040100012_034_01
+
+message,,At Xiaolei's question，her face languid as if feverish，I nodded<br>immediately.<br> 
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+l2dmessage,シャオレイ,Xiaolei is glad... Ngh! Xiaolei feels good too... It feels so good，<br>Teacher...!<br> ,,vc_10040100012_035_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Xiaolei's wanton appearance heightened my arousal，and heat pooled<br>in my lower abdomen.<br> 
+
+message,,I was about to cum—I told her，gazing into her big eyes.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+l2dmessage,シャオレイ,Cum...? Cum，what...?<br> ,,vc_10040100012_036_01
+
+message,,I was so out of breath I could barely answer，but I gritted my teeth，<br>thinking I must fulfill my role as her teacher.<br> 
+
+l2dmotion,EyeOpen01
+
+message,,Then I told her that the semen was proof that she worked hard and<br>made me feel good.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceEmotion01,on,STOP,4
+
+asyncl2dmotion,FaceAngleTop,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4.5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,4.5
+
+asyncl2dmotion,EyeOpen04,on,STOP,4.5
+
+l2dmessage,シャオレイ,Proof that Xiaolei worked hard... Xiaolei wants it... give it to Xiaolei，<br>Teacher...!<br> ,,vc_10040100012_037_01
+
+l2dmotion,MouthEmotionReset
+
+message,,At that，the grip inside her tightened even more. Then，as her depths<br>sucked on my tip，I was overcome with a powerful urge to cum.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+l2dmessage,シャオレイ,Ah，ah，ah，Aah...! Xiaolei is also... it's coming...! Aahn! Aaah!<br> ,,vc_10040100012_038_01
+
+message,,It seemed she was also close to climax. I mustered my last strength<br>and thrust my hips furiously.<br> 
+
+bgvstop,bgvtag2_8,0.2,1
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10040100012_009_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+wait,0.7
+
+l2dmessage,シャオレイ,Ah! Aaaaaaaaaaah!<br> ,,vc_10040100012_039_01
+
+message,,The moment I thrust my hips toward her deepest point，we reached<br>our climax together.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+message,,Xiaolei's small body couldn't take all the semen. Her immature pussy<br>was stained with white fluid. I gasped at the sight.<br> 
+
+bgvstop,bgvtag2_9,0.2,1
+
+l2dmotion,Scene10
+
+bgvplay,bgvtag2_10,bgv_10040100012_010_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,シャオレイ,*pant*，*pant*，*pant*... Teacher... did Xiaolei do her job well?<br> ,,vc_10040100012_040_01
+
+l2dmotion,MouthEmotion01
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceEmotion03,on,STOP,4
+
+l2dmessage,シャオレイ,Did that part feel good...?<br> ,,vc_10040100012_041_01
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+message,,Her question finally drew my eyes away from where we were joined.<br>There was a faint trace of anxiety in Xiaolei's expression.<br> 
+
+message,,I smiled and told her she did far better than expected for a first<br>time，praising her hard work. She finally sighed in relief.<br> 
+
+l2dmotion,EyeOpen04
+
+l2dmotion,FaceEmotionReset
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,FaceEmotion01,on,STOP,3
+
+l2dmessage,シャオレイ,Xiaolei sees... Good...<br> ,,vc_10040100012_042_01
+
+bgvstop,bgvtag2_10,0.2,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+

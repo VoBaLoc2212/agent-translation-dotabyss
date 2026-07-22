@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10120100002",
+  "structural_qa": {
+    "status": "PASS",
+    "errors": []
+  },
+  "linguistic_qa": {
+    "status": "PASS",
+    "notes": [
+      "JP used as primary source; EN asset used only for alignment.",
+      "Etia uses polite em/anh-Chỉ Huy tone; hunting party hunters keep rough/casual tone.",
+      "No H18 content present in this file."
+    ]
+  },
+  "leftover_scan": {
+    "status": "PASS",
+    "items": []
+  },
+  "text_command_counts": {
+    "title": 1,
+    "message": 91,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "candidate_text_records": 92,
+  "translated_records": 92,
+  "unresolved": [],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 91,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 92,
+  "changed_lines": 92,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1249,
+    "vi": 1249,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "eca796b7fb76560cfbc5dc12141738e2b7df918d50bb45eedb54bf12d88e472e",
+  "output_sha256": "6aee816a8f23f6f244ca14430558700a48818b346b1cb9e9a6fc95d75f1e8de5",
+  "qa_status": "PASS"
+}

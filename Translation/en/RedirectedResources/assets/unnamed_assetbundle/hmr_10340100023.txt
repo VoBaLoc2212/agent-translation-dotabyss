@@ -1,0 +1,183 @@
+﻿adultui,off
+
+bg,abg12100b,off
+
+charaload,chara_2,103401000X,カーラ<娼館>
+
+charaload,chara_1,103401000G,カーラ
+
+bgmplay,bgmtag3_1,bgm0041,0.75,1
+
+fade,In,Black,1
+
+charaface,chara_2,FaceAnger
+
+
+asyncseplay,setag3_1,se4400119,0,1,CONT
+
+charashow,chara_2,0.3
+window,on,0.15
+message,,The pirate lay on the floor，his hands and feet bound with rope.<br> 
+
+asyncshake,BACK,,20,0,0.5,5,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_2,20,0,0.5,5,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_1,20,0,0.5,5,off,off,0,off,CONT,0
+message,海賊の男,What's this? Quite a kinky game you've got here，lady.<br> ,900000001
+
+asyncseplay,setag3_2,se4800001,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Anger,STOP
+
+
+message,,Carla fixed a cold stare on the man，who still wore a lewd smirk.<br> 
+
+
+asynccharareaction,chara_2,Nod,1,STOP
+
+asyncseplay,setag3_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_2,Speak,STOP
+
+message,カーラ,I am arresting you on suspicion of piracy in Eldorana coastal waters.<br> ,,vc_10340100023_001_01,2/chara_2
+
+asyncshake,BACK,,20,0,0.5,5,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_2,20,0,0.5,5,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_1,20,0,0.5,5,off,off,0,off,CONT,0
+message,海賊の男,Ar-rest! Wha—! Oh，I see! You with those tan lines! You're from the<br>Eldorana Guard，aren't you!<br> ,900000001
+
+window,off
+bgmstop,bgmtag3_1,1
+fade,Out,Black,1
+
+charahide,chara_2,0.3
+
+bg,abg11000a
+
+wait,0.5
+
+
+fade,In,Black,1
+bgmplay,bgmtag3_2,bgm0031,1
+
+charashow,chara_1,0.3
+window,on,0.15
+message,<user>,I hear you finally caught that pirate. Glad to see you got him，Carla.<br> 
+
+
+asyncseplay,setag3_4,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,カーラ,Yes. I was finally able to complete my mission as a Republic Guard<br>member. This is all thanks to Ludia and you，Commander.<br> ,,vc_10340100023_002_01
+
+message,<user>,I was worried when I heard your plan from Ludia，but... anyway，I'm<br>glad you came back safe.<br> 
+
+asyncseplay,setag3_5,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,カーラ,You are too kind，Commander.<br> ,,vc_10340100023_003_01
+
+message,<user>,Hey，Carla. Since you've accomplished your mission，are you going<br>back to Eldorana now?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_6,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,カーラ,I have already made arrangements to transport the pirate and<br>submitted a report to headquarters，so...<br> ,,vc_10340100023_004_01
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_7,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,カーラ,Um，if possible... I'd like to stay here a little longer and help you with<br>your work.<br> ,,vc_10340100023_005_01
+
+message,<user>,I see! That helps! Losing someone like you would be a heavy blow to<br>the Frontline Base.<br> 
+
+asyncseplay,setag3_8,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+asynccharareaction,chara_1,Hop,1,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,カーラ,Thank you，Commander! From now on，I will work with pride as a<br>member of the Frontline Base exploration party!<br> ,,vc_10340100023_006_01
+
+message,<user>,Yeah. I'm counting on you.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charascale,chara_1,1.5,0
+
+
+crossfade,1,0,0,1,1
+wait,1
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_9,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+asynccharaface,chara_1,FaceUnique01,STOP
+window,on,0.15
+message,カーラ,B-by the way... um... do you remember our promise? About the<br>reward... for when the mission succeeded...<br> ,,vc_10340100023_007_01
+
+
+asyncseplay,setag3_10,se4400119,0,1,CONT
+
+message,,Carla's face flushed，and she fidgeted，rubbing her thighs together.<br>Seeing that，I recalled the promise we'd made the other day.<br> 
+
+asyncseplay,setag3_11,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,カーラ,I-I came back to you safely，just as I promised，didn't I...? S-so，um...<br>could we have another training session...?<br> ,,vc_10340100023_008_01
+
+
+window,off
+bgmstop,bgmtag3_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

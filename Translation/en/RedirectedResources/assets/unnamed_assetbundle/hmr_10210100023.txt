@@ -1,0 +1,113 @@
+﻿adultui,off
+
+bg,abg11000b,off
+
+charaload,chara_1,102101000G,ヒュメナ
+
+charaload,chara_2,102101000X,ヒュメナ<娼館>
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0036,1
+
+
+
+seplay,setag3_1,se4300001,0,1
+
+wait,0.5
+
+seplay,setag3_2,se4300003,0,1
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,ヒュメナ,Commander，are you there...?<br> ,,vc_10210100023_001_01
+
+message,<user>,Hmm? What's up?<br> 
+
+asyncseplay,setag3_3,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+charaface,chara_1,FaceFun
+message,ヒュメナ,I figured you'd be getting tired about now，Commander.<br> ,,vc_10210100023_002_01
+
+message,<user>,Ah... you're right about that. I've been buried in work and completely<br>exhausted.<br> 
+
+charaface,chara_1,FaceUnique01
+message,ヒュメナ,Really? Then hold on a sec!♪<br> ,,vc_10210100023_003_01
+
+charahide,chara_1,0.3
+message,,Humena cheerfully began changing into her brothel outfit right in<br>front of me.<br> 
+
+charaface,chara_2,FaceFun
+message,<user>,Hey hey，what are you up to?<br> 
+
+asyncseplayIngame,setag3_4,cha_101701000,ba_skill_101701000_01,0,1,CONT,0
+
+charashow,chara_2,0.3
+
+
+asyncseplay,setag3_5,se4800013,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Spirits,STOP
+
+message,ヒュメナ<娼館>,Fufuun，I'm going to heal you，Commander.<br> ,,vc_10210100023_004_01
+
+asyncseplay,setag3_6,se4800004,0,1,CONT
+
+asynccharareaction,chara_2,Nod,1,STOP
+asynccharaemo,chara_2,Laugh,STOP
+
+charaface,chara_2,FaceHappy
+message,ヒュメナ<娼館>,Come on，take a break and let's go to the bath? I'll serve you，okay!♪<br> ,,vc_10210100023_005_01
+
+message,<user>,I see... but I've heard about your reputation. Apparently you're so<br>popular that reservations are flooding in.<br> 
+
+charaface,chara_2,FaceFun
+message,<user>,If I got service from someone that popular，you'd probably charge me<br>a huge booking fee.<br> 
+
+asynccharaface,chara_2,FaceHappy,STOP,1
+message,ヒュメナ<娼館>,Ahaha! What are you saying? You're special，Commander，so it's<br>totally free. In return...<br> ,,vc_10210100023_006_01
+
+asyncseplay,setag3_7,se4800013,0,1,CONT
+
+asynccharareaction,chara_2,Jump,1,STOP
+asynccharaemo,chara_2,Spirits,STOP
+
+charaface,chara_2,FaceShy
+message,ヒュメナ<娼館>,Love me a lot，okay!♪<br> ,,vc_10210100023_007_01
+
+asyncseplay,setag3_8,se4800002,0,1,CONT
+
+asynccharaemo,chara_2,Heart,STOP
+
+message,,Seeing Humena's mischievous smile，I found myself convinced it was<br>only natural she was so popular.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

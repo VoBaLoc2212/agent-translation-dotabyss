@@ -1,0 +1,731 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10510100012
+
+charaload,chara_1,105101000G,フェイリン
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10510100012_001_01,1,on
+
+
+
+
+l2dmotion,ExEmotion00
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen03,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,4.1
+
+window,on,0.15
+l2dmessage,フェイリン,Mmm... W-well，this is a bit embarrassing...<br> ,,vc_10510100012_001_01
+
+
+message,,I sat Feilin on my lap，facing me，with her clothes undone. Her<br>normally pale cheeks were clearly flushed.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,6
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+l2dmessage,フェイリン,*sigh*... My heart is pounding... Well，I'm dead，so it's not like my<br>heart is actually beating，but...<br> ,,vc_10510100012_002_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,I asked if this was the first time she had been held by a man.<br> 
+
+l2dmotion,MouthEmotion07
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,9
+
+asyncl2dmotion,FaceEmotion01,on,STOP,9
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+l2dmessage,フェイリン,I think my father used to hold me when I was little，but since<br>becoming an adult，not once...<br> ,,vc_10510100012_003_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,There was a nuance gap in 'embracing' someone. I was about to<br>corrupt innocent Feilin，which filled me with guilt.<br> 
+
+l2dmotion,MouthEmotion03
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen03
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,5.5
+
+l2dmessage,フェイリン,*sigh*... Master's body is so warm and feels so nice...<br> ,,vc_10510100012_004_01
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion08
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeOpen00,on,STOP,7
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9.5
+
+l2dmessage,フェイリン,Ah... B-but I must be cold and unpleasant to you，Master，right? I'm<br>dead，after all...<br> ,,vc_10510100012_005_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,I told her that wasn't true—that she was smooth and cool and felt<br>good.<br> 
+
+l2dmotion,MouthEmotion07
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+l2dmessage,フェイリン,Th-that's the first time I've been told that... Huh? That's weird...<br>Somehow，I feel a little warm deep inside...<br> ,,vc_10510100012_006_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,To the bewildered Feilin，I stressed we were about to perform the<br>'Alchemy (Comedic)'—sharing vital energy with a Jiangshi.<br> 
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3.5
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,9.5
+
+asyncl2dmotion,EyeOpen00,on,STOP,9.5
+
+asyncl2dmotion,MouthEmotion00,on,STOP,11
+
+l2dmessage,フェイリン,The 'Alchemy (Comedic)'... I understand. I'm sorry to trouble you，<br>Master... but I'm counting on you.<br> ,,vc_10510100012_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+message,,After confirming Feilin's resolve，I lifted her small body and slowly<br>lowered her onto my hard cock.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10510100012_002_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+wait,0.5
+
+l2dmessage,フェイリン,Mmph! *huff*... *gasp*! Ah，Ngh...!<br> ,,vc_10510100012_008_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,The head of my cock pushed apart Feilin's small folds and slid inside.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,The head of my cock moved slowly，sliding through her tight pussy，<br>and broke through the slight resistance of her virginal barrier.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,5
+
+l2dmessage,フェイリン,*pant*，*pant*，Mmph，Ngh，Ngh... *sigh*...<br> ,,vc_10510100012_009_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Feilin's expression seemed somewhat pained. I asked if it hurt，and<br>she shook her head.<br> 
+
+l2dmotion,MouthEmotion07
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+l2dmessage,フェイリン,I-I'm okay. Since I'm already dead，I can't feel pain...<br> ,,vc_10510100012_010_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,5
+
+asyncl2dmotion,EyeOpen00,on,STOP,5
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,5
+
+l2dmessage,フェイリン,B-but more than that... it's warm，and it feels... so good...<br> ,,vc_10510100012_011_01
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotion00
+
+message,フェイリン,*My belly... it's so warm... Master's thing is warming me directly...*<br> ,,vc_10510100012_012_01
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Feilin's low body temperature made his warmth feel intense.<br>Conversely，the inside of her vagina was cool，offering a unique sensation.<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.1
+
+message,,Perhaps because she became a Jiangshi immediately after death，her<br>internal organs still retained some function，allowing her to eat normally.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Indeed，her vaginal walls，stretched around his length，felt alive，and<br>cool arousal seeped from deep inside.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10510100012_003_01,1,on
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+wait,0.5
+
+l2dmessage,フェイリン,Mmph... Ah! Aaaah! Ngh... Aaaah! Ah，Mmph... *pant*... Ahaah...!<br> ,,vc_10510100012_013_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,He thrust upward，scraping her womb's entrance with his tip. Each<br>time，she reacted with sweet moans.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion08
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,11
+
+asyncl2dmotion,EyeOpen00,on,STOP,11
+
+l2dmessage,フェイリン,Ah，Aah，Ah... Mmph，*pant*... Auh! Wh-what is this...? My bo-body...<br>feels strange...<br> ,,vc_10510100012_014_01
+
+l2dmotion,MouthEmotion09
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,9
+
+asyncl2dmotion,EyeOpen02,on,STOP,9
+
+asyncl2dmotion,EyeEmotionBottomRight,on,STOP,9.1
+
+l2dmessage,フェイリン,Mmph... *pant*... Mmph... *pant*...! I thought I wouldn't feel anything<br>since I'm dead，but...<br> ,,vc_10510100012_015_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleTop,on,STOP,11
+
+asyncl2dmotion,EyeOpen00,on,STOP,11
+
+l2dmessage,フェイリン,Ah... Ahaah... i-it feels... good... Ngh，Mmph，Ah，Aah... *pant*...<br> ,,vc_10510100012_016_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Feilin had become nearly unable to feel external stimulation，yet<br>internal sensation still remained.<br> 
+
+
+message,,With each thrust of his cock，overwhelming pleasure seized her，and<br>the once-innocent girl's body writhed，learning the joys of womanhood.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotion08
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,MouthEmotion09,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7.1
+
+l2dmessage,フェイリン,Mmph! Ah，Aahn! *pant* Mmph! It feels too good...! I-I'm going<br>crazy...!<br> ,,vc_10510100012_017_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,Feilin's inner walls clenched around his cock，a sign that her climax<br>was near.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,フェイリン,Mmph... *pant* Aaaah...! Wh-what is this...? I-I'm... I c-can't... my mind<br>is going blank...!<br> ,,vc_10510100012_018_01
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10510100012_004_01,1,on
+
+l2dmotion,Blush00
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion07
+
+l2dmessage,フェイリン,Mmnuh... mm... Ah... *pant* Aaah!<br> ,,vc_10510100012_019_01
+
+asyncl2dmotion,FaceEmotion02,on,STOP,2
+
+message,,Feilin's body convulsed，then she went limp，her shoulders slumping.<br> 
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,5
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,MouthEmotion09,on,STOP,5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.1
+
+l2dmessage,フェイリン,*pant，pant*... Wh-what was that，Master? Just now... I saw stars and<br>my mind went blank...<br> ,,vc_10510100012_020_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,I told her that was what 'coming' meant.<br> 
+
+l2dmotion,MouthEmotion07
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,4.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+asyncl2dmotion,MouthEmotion00,on,STOP,9
+
+l2dmessage,フェイリン,*pant*，*pant*... I came，didn't I...? I thought I would die.<br> ,,vc_10510100012_021_01
+
+asyncl2dmotion,MouthEmotion07,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,A grim corpse joke slipped out. Perhaps due to the effect of Alchemy<br>(Comedic)，Feilin's eyes had regained their usual luster.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,I asked her how she was feeling.<br> 
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,9
+
+asyncl2dmotion,FaceAngleTop,on,STOP,9
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,9.1
+
+l2dmessage,フェイリン,Yes... thanks to you，Master，I feel a bit more energized. But... um，if<br>you don't mind，Master...<br> ,,vc_10510100012_022_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,5.1
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,12
+
+asyncl2dmotion,EyeOpen00,on,STOP,12.1
+
+l2dmessage,フェイリン,Could I... move this time? I've never felt anything like this since I<br>died...<br> ,,vc_10510100012_023_01
+
+
+message,,Feilin made that suggestion shyly. I figured she was curious about the<br>pleasure she was feeling for the first time.<br> 
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,'Of course.' I decided to accept her proposal.<br> 
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10510100012_005_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,フェイリン,Mmph... *pant*... Mmmph，Mmph... Aah... Ahaa! *pant*... Mmmph...<br>*whimper*... Mmph... Aah...<br> ,,vc_10510100012_024_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,Even though she was inexperienced，Feilin awkwardly started moving<br>her hips on her own.<br> 
+
+l2dmotion,EyebrowEmotion02
+
+l2dmotion,MouthEmotion00
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.1
+
+asyncl2dmotion,EyeOpen00,on,STOP,6
+
+message,フェイリン,(This might be the first time I've felt human warmth since I died...)<br> ,,vc_10510100012_025_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,11
+
+asyncl2dmotion,FaceAngleTop,on,STOP,11
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,11.1
+
+l2dmessage,フェイリン,I-it feels so good! Ah! Mmph!... I can't stop moving my hips...!<br>Master... Master，does it feel good for you too?<br> ,,vc_10510100012_026_01
+
+
+message,,I nodded to Feilin and told her it felt good.<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,EyeOpen01
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,9
+
+l2dmessage,フェイリン,Ehehe... I'm glad... Mmph... *pant*... I'm so happy to feel good with<br>you，Master...<br> ,,vc_10510100012_027_01
+
+
+message,,Feilin moved her small body with all her might. Her inner walls，melted<br>from her climax，clung to my cock as if swallowing it.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,12
+
+asyncl2dmotion,EyeOpen00,on,STOP,12
+
+l2dmessage,フェイリン,Mmph... *pant*... It feels so good... I want this feeling to last<br>forever...<br> ,,vc_10510100012_028_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Her tight heat thrilled me，and I grew excited. But remembering the<br>Spirit Infusion Technique，I snapped back.<br> 
+
+
+message,,If the book was right，to fully restore Feilin's spirit energy，I needed<br>to inject my hot sperm deep inside her at her climax.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpen00,on,STOP,1
+
+message,,After warning Feilin I was going to pick up the pace，I thrust up into<br>her with all my strength.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10510100012_006_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,フェイリン,*pant*! Mmph! Ah! *pant* Aahn! M-Master，you're too excited! Ah!<br>Aaaah!<br> ,,vc_10510100012_029_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,With each powerful thrust，my tip pressed deep into her core，and<br>Feilin writhed in ecstasy，letting out a moan.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,MouthEmotion09,on,STOP,7
+
+asyncl2dmotion,FaceAngleTop,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,7.1
+
+l2dmessage,フェイリン,Ah，Mmph，Mmph! *pant* Aahn!♡ It's so intense，Master!<br> ,,vc_10510100012_030_01
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3.1
+
+l2dmessage,フェイリン,Aaah! Deep inside my belly... Ah，it's hitting... it feels so good!<br>Aaaah! Master... please give me more! I feel so good... I want more!♡<br> ,,vc_10510100012_031_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,9
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+l2dmessage,フェイリン,No，I can't! A-again... it's coming...! Aah... I... I'm going to come<br>again!<br> ,,vc_10510100012_032_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,Her inner walls clenched around my shaft，and I felt my own release<br>nearing. I told Feilin I was about to come.<br> 
+
+l2dmotion,MouthEmotion10
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,3.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,8
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.1
+
+l2dmessage,フェイリン,Huh...? C-come? Come where...? Ngh... *pant*... Aaaaah!<br> ,,vc_10510100012_033_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,I explained that I would pour my vital energy into her，and that this<br>was the final step of the Spirit Infusion Technique.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,10
+
+asyncl2dmotion,EyeOpen01,on,STOP,10
+
+l2dmessage,フェイリン,*pant* Ngh... p-please...! Please give me your vital energy... into me...!<br>Ngh... Ah... Aah *pant*!<br> ,,vc_10510100012_034_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+message,,She seemed close to climax. Her inner walls trembled. But I，too，was<br>at my limit.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene07,on,STOP,1.8
+
+bgvplay,bgvtag2_7,bgv_10510100012_007_01,1,on
+
+
+l2dmessage,フェイリン,I'm coming! I'm coming! Aaaaaah!♡<br> ,,vc_10510100012_035_01
+
+asyncl2dmotion,FaceEmotion02,on,STOP,2
+
+message,,My cock burst，and I spurted thick seed deep inside her. At the same<br>time，she reached her peak，her body relaxing and shuddering.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionBottomLeft,on,STOP,4.6
+
+message,フェイリン,*(Ah，it's warm... what is this...? It feels like vital energy is spreading<br>through my body from inside my belly...)*<br> ,,vc_10510100012_036_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,I wasn't sure if the Alchemy (Comedic) had succeeded. Feilin wore a<br>bewildered expression，her first time being filled inside.<br> 
+
+
+message,,From the gap where we were joined，the semen she couldn't fully<br>contain spilled out. Feilin stared blankly at it.<br> 
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3.1
+
+asyncl2dmotion,MouthEmotion00,on,STOP,5
+
+l2dmessage,フェイリン,Ah... i-it's spilling... somehow... it feels like such a waste...<br> ,,vc_10510100012_037_01
+
+
+message,,I wondered if the Spirit Infusion Technique had really worked. I asked<br>her how she was feeling.<br> 
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10510100012_008_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,フェイリン,Well，how to put it...? It's like strength is filling my entire body...<br> ,,vc_10510100012_038_01
+
+l2dmotion,FaceAngleTop
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.1
+
+asyncl2dmotion,MouthEmotion04,on,STOP,6.5
+
+asyncl2dmotion,FaceAngleRight,on,STOP,6.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.6
+
+l2dmessage,フェイリン,Somehow I feel like I've come back to life... Although，I am dead，so...<br> ,,vc_10510100012_039_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,1
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.1
+
+message,,It seemed the light had returned to Feilin's eyes. Apparently，the<br>Alchemy (Comedic) had succeeded.<br> 
+
+
+message,,However，Feilin didn't pull away from me，staying pressed close. Her<br>eyes looked at me with a pleading，affectionate gleam.<br> 
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,2
+
+asyncl2dmotion,FaceAngleTop,on,STOP,2
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,2.1
+
+asyncl2dmotion,MouthEmotion01,on,STOP,7
+
+l2dmessage,フェイリン,Um... Master... if you're alright with it... could I ask you for one more<br>time without pulling out...?<br> ,,vc_10510100012_040_01
+
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

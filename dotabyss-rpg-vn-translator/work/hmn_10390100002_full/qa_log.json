@@ -1,0 +1,41 @@
+{
+  "scene": "hmn_10390100002",
+  "text_records_total": 79,
+  "text_records_translated": 79,
+  "kept_english_intentional": [],
+  "structural_checks": {
+    "line_count": "1512 (EN==VI)",
+    "bom": "preserved",
+    "newline": "CRLF preserved",
+    "delimiter_field_counts": "unchanged (field-index split rebuild)",
+    "tag_br_counts": "matched EN asset per field",
+    "ascii_comma_in_vi": "none (converted to U+201A)"
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 76,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 79,
+  "translated_records": 79,
+  "changed_lines": 79,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1511,
+    "vi": 1511,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "e46c4c734261faf5ea9590160afb72597f9bb44ad55032c3aa90776cd8234e44",
+  "output_sha256": "a0c5e7bc130cc9ef198d8da95482303746ac69df52bc131a5b29a6c66ee8a553",
+  "qa_status": "PASS"
+}

@@ -1,0 +1,82 @@
+{
+  "scene": "hmn_10470100002",
+  "character": "Merem",
+  "description": "Merem fortune-teller scene in the Abyss shallow layers",
+  "sources": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10470100002/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10470100002/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10470100002.txt"
+  },
+  "output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10470100002.txt",
+  "translation_mode": "EN-asset-is-English, title-still-JP",
+  "record_counts": {
+    "title": 1,
+    "message": 69,
+    "messageTextCenter": 1,
+    "messageTextUnder": 0,
+    "total": 71
+  },
+  "addressing": {
+    "Merem→Commander": "Chỉ Huy (司令官) / anh (emotional direct address)",
+    "Commander→Merem": "cô (polite distant) / Merem",
+    "Commander self": "tôi (俺→tôi, casual male)",
+    "Merem self": "tôi (私 → polite)",
+    "Monster A/B": "Gừ/Gá (localized growls)"
+  },
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "大穴/Abyss": "Đại Huyệt",
+    "占い/divination/fortune-telling": "bói toán",
+    "水盆/scrying basin": "chậu thủy chiêm",
+    "魔導書/grimoire": "ma đạo thư",
+    "前線基地/Frontline Base": "Căn Cứ Tiền Tuyến",
+    "大いなる災い/great calamity": "tai họa lớn",
+    "占い師/fortune-teller": "thầy bói"
+  },
+  "notes": [
+    "JP title 占いに導かれし者たちの試練 → Vietnamese Title Case",
+    "EN-asset-is-English mode: EN asset text fields are English (en.json non-empty)",
+    "All characters 18+ confirmed → adult-content translated normally",
+    "Monster growls localized to Vietnamese (Gừ/Gá)",
+    "Merem uses polite tôi/Chỉ Huy, becomes distressed and uses tôi/anh when emotional",
+    "Commander uses tôi/cô (polite male to female, not yet intimate)"
+  ],
+  "build_script": "build_vi.py",
+  "independent_verify": {
+    "scene": "hmn_10470100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 69,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 71,
+    "translated_records": 71,
+    "changed_lines": 71,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1100,
+      "vi": 1100,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "8af42212e8dca4d89923d60681e7bd694167345d28403ac0bc7199383a9dc5d5",
+    "output_sha256": "9d4b99619612d822471ec54d28dc6d76d1fd7e648eb3fe49905256e76c6ae5a6"
+  },
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 69,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "status": "PASS"
+}

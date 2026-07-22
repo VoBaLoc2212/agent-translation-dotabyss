@@ -1,0 +1,129 @@
+﻿adultui,off
+
+bg,abg11400b,off
+
+charaload,chara_1,103901000G,マーガレット
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+charaface,chara_1,FaceShy
+
+charashow,chara_1,0.3
+
+
+
+
+
+
+
+
+
+
+
+
+window,on,0.15
+message,<user>,We bared it all before God，didn't we?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_1,se4800012,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Shy,STOP
+
+message,マーガレット,Yes. Y-yes，I suppose so...<br> ,,vc_10390100013_001_01
+
+message,<user>,I know it's a bit late to say this，but... will God truly forgive us for<br>doing that in a holy place?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_2,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+
+asynccharaface,chara_1,FaceFun,STOP
+message,マーガレット,Do not worry. For humans to love each other is God's will. Just<br>because we made love before God does not mean He would be angry.<br> ,,vc_10390100013_002_01
+
+
+asyncseplay,setag3_3,se4800018,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Flower,STOP
+
+asynccharaface,chara_1,EyeClose,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,マーガレット,Besides，through physical intimacy，we can connect our hearts so<br>deeply. God，too，will surely forgive.<br> ,,vc_10390100013_003_01
+
+message,<user>,I see. So we've arrived at the essence of love，have we?<br> 
+
+asyncseplay,setag3_4,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+
+message,マーガレット,I do not know about that. B-but I have learned just how much love can<br>unsettle a person's heart.<br> ,,vc_10390100013_004_01
+
+message,<user>,So，lust is evil，then?<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+
+asyncseplay,setag3_5,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,マーガレット,No，the opposite. Since we can connect our hearts so deeply through<br>this act，perhaps there is a path to salvation through it.<br> ,,vc_10390100013_005_01
+
+asynccharareaction,chara_1,Nod,1,STOP
+
+asyncseplay,setag3_6,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+asynccharaface,chara_1,FaceShy,STOP
+message,マーガレット,Um，Lord Commander... Whenever you are inclined，may I ask you to<br>do it again?<br> ,,vc_10390100013_006_01
+
+asyncseplay,setag3_7,se4800002,0,1,CONT
+
+asynccharaemo,chara_1,Heart,STOP
+
+message,マーガレット,I feel as if I might be on the verge of reaching a clear truth... A-and...<br>it also felt... incredibly good.<br> ,,vc_10390100013_007_01
+
+message,,As she said this，Margaret blushed and looked down. There was no<br>doubt that she was being honest about how good it felt.<br> 
+
+message,<user>,It's an act God allows，right? I'll stick with you until you reach the<br>truth. Besides，I enjoyed it too.<br> 
+
+message,,Before God，I was also honest.<br> 
+
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

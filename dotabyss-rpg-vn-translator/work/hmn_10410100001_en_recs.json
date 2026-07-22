@@ -1,0 +1,754 @@
+[
+ {
+  "seq": 1,
+  "cmd": "title",
+  "abs": 23,
+  "speaker": "<title>",
+  "tf": "事務員を志望しています",
+  "br": 0
+ },
+ {
+  "seq": 2,
+  "cmd": "message",
+  "abs": 49,
+  "speaker": "倒れた男",
+  "tf": "You slipped through every trap and are about to kill me... I'll admit，<br>as an assassin，you're the better one...<br> ",
+  "br": 2
+ },
+ {
+  "seq": 3,
+  "cmd": "message",
+  "abs": 51,
+  "speaker": "倒れた男",
+  "tf": "But it was all for nothing. You no longer have a place to call home!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 4,
+  "cmd": "message",
+  "abs": 63,
+  "speaker": "アヤメ",
+  "tf": "Oh，is that so? Thank you for the advice.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 5,
+  "cmd": "message",
+  "abs": 68,
+  "speaker": "倒れた男",
+  "tf": "Your composure won't last long. You're all finished!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 6,
+  "cmd": "message",
+  "abs": 89,
+  "speaker": "",
+  "tf": "A loud explosion rang out.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 7,
+  "cmd": "message",
+  "abs": 101,
+  "speaker": "アヤメ",
+  "tf": "I'm sorry for cutting you off. If we ever meet again，please tell me<br>the rest.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 8,
+  "cmd": "message",
+  "abs": 113,
+  "speaker": "アヤメ",
+  "tf": "Well，the job's done. Shall we return to the office?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 9,
+  "cmd": "message",
+  "abs": 158,
+  "speaker": "",
+  "tf": "A massive explosion rocked the building.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 10,
+  "cmd": "message",
+  "abs": 202,
+  "speaker": "アヤメ",
+  "tf": "Fufu，it's quite lively... Oh?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 11,
+  "cmd": "message",
+  "abs": 231,
+  "speaker": "アヤメ",
+  "tf": "It's the office that's on fire，isn't it. Well... what shall we do?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 12,
+  "cmd": "messageTextCenter",
+  "abs": 265,
+  "speaker": "",
+  "tf": "<size=48>A few days later...</size>",
+  "br": 0
+ },
+ {
+  "seq": 13,
+  "cmd": "message",
+  "abs": 292,
+  "speaker": "<user>",
+  "tf": "Thought so... It's a small amount，but the dispatch records and<br>inventory don't match.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 14,
+  "cmd": "message",
+  "abs": 303,
+  "speaker": "倉庫警備の兵士",
+  "tf": "So，the warehouse goods have gone missing，is that what you're<br>saying?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 15,
+  "cmd": "message",
+  "abs": 305,
+  "speaker": "<user>",
+  "tf": "If you want to put it euphemistically，yes. But I think another word<br>fits better.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 16,
+  "cmd": "message",
+  "abs": 316,
+  "speaker": "倉庫警備の兵士",
+  "tf": "Another word，you mean?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 17,
+  "cmd": "message",
+  "abs": 318,
+  "speaker": "<user>",
+  "tf": "Embezzlement.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 18,
+  "cmd": "message",
+  "abs": 329,
+  "speaker": "倉庫警備の兵士",
+  "tf": "Th-that's an exaggeration! Even the Commander shouldn't say such<br>things!<br> ",
+  "br": 2
+ },
+ {
+  "seq": 19,
+  "cmd": "message",
+  "abs": 331,
+  "speaker": "<user>",
+  "tf": "Are you in a position to say that?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 20,
+  "cmd": "message",
+  "abs": 354,
+  "speaker": "倉庫警備の兵士",
+  "tf": "...I apologize.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 21,
+  "cmd": "message",
+  "abs": 394,
+  "speaker": "倉庫警備の兵士",
+  "tf": "...*tsk*<br>You're just a smooth-talking punk protected by a woman.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 22,
+  "cmd": "message",
+  "abs": 427,
+  "speaker": "<user>",
+  "tf": "In this Frontline Base，everything is precious—even the smallest<br>supplies.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 23,
+  "cmd": "message",
+  "abs": 438,
+  "speaker": "倉庫警備の兵士",
+  "tf": "Y-yes，sir!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 24,
+  "cmd": "message",
+  "abs": 440,
+  "speaker": "<user>",
+  "tf": "Then you know what you need to do，right?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 25,
+  "cmd": "message",
+  "abs": 451,
+  "speaker": "倉庫警備の兵士",
+  "tf": "Yes，sir! I'll correct it immediately!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 26,
+  "cmd": "message",
+  "abs": 475,
+  "speaker": "<user>",
+  "tf": "You should handle this much without being told. *sigh* What a drag.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 27,
+  "cmd": "message",
+  "abs": 477,
+  "speaker": "<user>",
+  "tf": "Do guys like that become my responsibility if they die? I'd think dying<br>to a Calamity is an accident，but...<br> ",
+  "br": 2
+ },
+ {
+  "seq": 28,
+  "cmd": "message",
+  "abs": 479,
+  "speaker": "<user>",
+  "tf": "Well，in this understaffed Frontline Base，there aren't many guys we<br>can afford to lose.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 29,
+  "cmd": "message",
+  "abs": 518,
+  "speaker": "アリシア",
+  "tf": "Commanderrr... *whimper* there you are. I have a favor to ask...<br> ",
+  "br": 1
+ },
+ {
+  "seq": 30,
+  "cmd": "message",
+  "abs": 520,
+  "speaker": "<user>",
+  "tf": "What? If it's a pain，I'm turning you down.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 31,
+  "cmd": "message",
+  "abs": 529,
+  "speaker": "アリシア",
+  "tf": "Well，um... it might be a hassle，but I'd like you to interview a<br>volunteer for the base.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 32,
+  "cmd": "message",
+  "abs": 531,
+  "speaker": "<user>",
+  "tf": "Do I really have to do that? If she's promising，just hire her yourself.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 33,
+  "cmd": "message",
+  "abs": 540,
+  "speaker": "アリシア",
+  "tf": "That's the thing... she's someone I find hard to judge. Could I leave<br>the decision to you?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 34,
+  "cmd": "message",
+  "abs": 542,
+  "speaker": "<user>",
+  "tf": "...Someone even you can't figure out? Sounds interesting. I'll meet<br>her.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 35,
+  "cmd": "message",
+  "abs": 551,
+  "speaker": "アリシア",
+  "tf": "Yes，please. Um... be careful...<br> ",
+  "br": 1
+ },
+ {
+  "seq": 36,
+  "cmd": "message",
+  "abs": 578,
+  "speaker": "<user>",
+  "tf": "...Be careful? What kind of person is she?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 37,
+  "cmd": "message",
+  "abs": 609,
+  "speaker": "<user>",
+  "tf": "You're the applicant? I'm the Commander of this base.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 38,
+  "cmd": "message",
+  "abs": 620,
+  "speaker": "アヤメ",
+  "tf": "My name is Ayame. It is an honor to be interviewed by the Lord<br>Commander.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 39,
+  "cmd": "message",
+  "abs": 622,
+  "speaker": "<user>",
+  "tf": "We're short-staffed. I'll be looking over your application as we<br>talk—hope you don't mind.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 40,
+  "cmd": "message",
+  "abs": 633,
+  "speaker": "アヤメ",
+  "tf": "Of course. I look forward to it.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 41,
+  "cmd": "message",
+  "abs": 635,
+  "speaker": "<user>",
+  "tf": "This isn't a typical interview. Unless you have a compelling reason<br>otherwise，you'll end up working here.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 42,
+  "cmd": "message",
+  "abs": 646,
+  "speaker": "アヤメ",
+  "tf": "Oh，I am delighted. I came prepared for a one-way trip，so this is very<br>helpful.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 43,
+  "cmd": "message",
+  "abs": 661,
+  "speaker": "<user>",
+  "tf": "Now，the paperwork... says you're applying for a clerk position.<br>You're an experienced hire，right?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 44,
+  "cmd": "message",
+  "abs": 673,
+  "speaker": "アヤメ",
+  "tf": "Yes，I worked as a clerk at my previous job as well. I hope I can put<br>my skills to use here.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 45,
+  "cmd": "message",
+  "abs": 675,
+  "speaker": "<user>",
+  "tf": "What kind of work did you mainly do at your previous job?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 46,
+  "cmd": "message",
+  "abs": 686,
+  "speaker": "アヤメ",
+  "tf": "It was primarily cleaning，such as taking out the trash and sorting<br>documents.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 47,
+  "cmd": "message",
+  "abs": 688,
+  "speaker": "<user>",
+  "tf": "Yeah，that's what we're looking for. You can jump right in.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 48,
+  "cmd": "message",
+  "abs": 703,
+  "speaker": "<user>",
+  "tf": "(Nothing strange about her at all. Alicia，why did you leave this one<br>to me?)<br> ",
+  "br": 2
+ },
+ {
+  "seq": 49,
+  "cmd": "message",
+  "abs": 721,
+  "speaker": "<user>",
+  "tf": "Why did you leave your previous job? And why come all the way to the<br>Frontline Base?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 50,
+  "cmd": "message",
+  "abs": 733,
+  "speaker": "アヤメ",
+  "tf": "Well，actually... my previous workplace suffered an explosion and<br>burned down.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 51,
+  "cmd": "message",
+  "abs": 735,
+  "speaker": "<user>",
+  "tf": "Huh，explosion... fire?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 52,
+  "cmd": "message",
+  "abs": 746,
+  "speaker": "アヤメ",
+  "tf": "Yes，the members are missing as well. And I have not even received<br>my wages.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 53,
+  "cmd": "message",
+  "abs": 748,
+  "speaker": "<user>",
+  "tf": "An explosion isn't that unusual... but，'members'?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 54,
+  "cmd": "message",
+  "abs": 759,
+  "speaker": "アヤメ",
+  "tf": "I am embarrassed to admit it，but my reason for working is money.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 55,
+  "cmd": "message",
+  "abs": 770,
+  "speaker": "アヤメ",
+  "tf": "I thought here I could get paid properly，and it did not seem likely to<br>explode easily.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 56,
+  "cmd": "message",
+  "abs": 772,
+  "speaker": "<user>",
+  "tf": "I can't say it'll never explode or catch fire. But that aside，it's fine.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 57,
+  "cmd": "message",
+  "abs": 774,
+  "speaker": "<user>",
+  "tf": "Next，I need to confirm your qualifications and skills. Your<br>application lists assassination and calligraphy...<br> ",
+  "br": 2
+ },
+ {
+  "seq": 58,
+  "cmd": "message",
+  "abs": 800,
+  "speaker": "<user>",
+  "tf": "...Wait，what does this mean?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 59,
+  "cmd": "message",
+  "abs": 814,
+  "speaker": "アヤメ",
+  "tf": "Yes，I am from the Thousand Nations Alliance，Hourai. I have been<br>practicing brush calligraphy since childhood.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 60,
+  "cmd": "message",
+  "abs": 825,
+  "speaker": "アヤメ",
+  "tf": "I listed it on my application as a skill that could be useful as a clerk.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 61,
+  "cmd": "message",
+  "abs": 830,
+  "speaker": "<user>",
+  "tf": "No，that's not what I want to ask about.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 62,
+  "cmd": "message",
+  "abs": 832,
+  "speaker": "<user>",
+  "tf": "Assassination? What do you mean? Where's the clerk?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 63,
+  "cmd": "message",
+  "abs": 843,
+  "speaker": "アヤメ",
+  "tf": "Yes，I was a clerk. That means I can assassinate anyone without any<br>problem.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 64,
+  "cmd": "message",
+  "abs": 845,
+  "speaker": "<user>",
+  "tf": "I have no idea what you're talking about，but let me correct you:<br>assassination isn't part of a clerk's job.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 65,
+  "cmd": "message",
+  "abs": 856,
+  "speaker": "アヤメ",
+  "tf": "Oh... so the clerks here do not handle assassinations?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 66,
+  "cmd": "message",
+  "abs": 858,
+  "speaker": "<user>",
+  "tf": "No. Of course not. No base has that.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 67,
+  "cmd": "message",
+  "abs": 869,
+  "speaker": "アヤメ",
+  "tf": "Um，then what kind of work is the 'cleaning' that clerks do?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 68,
+  "cmd": "message",
+  "abs": 871,
+  "speaker": "<user>",
+  "tf": "It just means cleaning the workplace，plain and simple.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 69,
+  "cmd": "message",
+  "abs": 882,
+  "speaker": "アヤメ",
+  "tf": "So it is not about removing people who are troublesome or irritating<br>by killing them to clean things up...?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 70,
+  "cmd": "message",
+  "abs": 884,
+  "speaker": "<user>",
+  "tf": "No clerk's job is ever that violent!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 71,
+  "cmd": "message",
+  "abs": 895,
+  "speaker": "アヤメ",
+  "tf": "Oh? So then，what about paperwork...?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 72,
+  "cmd": "message",
+  "abs": 897,
+  "speaker": "<user>",
+  "tf": "It means arranging documents by type or date so they're easy to<br>access.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 73,
+  "cmd": "message",
+  "abs": 908,
+  "speaker": "アヤメ",
+  "tf": "So it is not about going to the homes I 'cleaned'，finding the required<br>documents，and delivering them to the client...?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 74,
+  "cmd": "message",
+  "abs": 910,
+  "speaker": "<user>",
+  "tf": "So you were stealing information from the people you killed... That's<br>assassin work.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 75,
+  "cmd": "message",
+  "abs": 919,
+  "speaker": "アヤメ",
+  "tf": "Wait，could it be that I was working as an assassin?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 76,
+  "cmd": "message",
+  "abs": 921,
+  "speaker": "<user>",
+  "tf": "That seems to be the case. More to the point，how did a clerk end up<br>killing people?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 77,
+  "cmd": "message",
+  "abs": 932,
+  "speaker": "アヤメ",
+  "tf": "Well，I was told it was a sanitation service for society，cleaning up<br>unnecessary trash...<br> ",
+  "br": 2
+ },
+ {
+  "seq": 78,
+  "cmd": "message",
+  "abs": 934,
+  "speaker": "<user>",
+  "tf": "That's one violently aggressive cleaning service... Were you working<br>for anti-government terrorists?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 79,
+  "cmd": "message",
+  "abs": 945,
+  "speaker": "アヤメ",
+  "tf": "I only looked at the salary and applied without checking the job<br>classification，so I do not know what the work involved.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 80,
+  "cmd": "message",
+  "abs": 956,
+  "speaker": "アヤメ",
+  "tf": "But everyone there was very kind. Though there were whispers that it<br>was a company that dealt in assassination.<br> ",
+  "br": 2
+ },
+ {
+  "seq": 81,
+  "cmd": "message",
+  "abs": 958,
+  "speaker": "<user>",
+  "tf": "That's not a rumor，it's just the truth! Don't take an assassin at their<br>word!<br> ",
+  "br": 2
+ },
+ {
+  "seq": 82,
+  "cmd": "message",
+  "abs": 970,
+  "speaker": "アヤメ",
+  "tf": "S-So that's how it was...?!<br> ",
+  "br": 1
+ },
+ {
+  "seq": 83,
+  "cmd": "message",
+  "abs": 972,
+  "speaker": "<user>",
+  "tf": "The ones who made you do that are messed up too. What kind of<br>assassination group was that?<br> ",
+  "br": 2
+ },
+ {
+  "seq": 84,
+  "cmd": "message",
+  "abs": 987,
+  "speaker": "<user>",
+  "tf": "(Or did they send Ayame in as a disposable pawn? And she happened<br>to show talent?)<br> ",
+  "br": 2
+ },
+ {
+  "seq": 85,
+  "cmd": "message",
+  "abs": 1011,
+  "speaker": "アヤメ",
+  "tf": "Th-Then，does that mean I failed the trial?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 86,
+  "cmd": "message",
+  "abs": 1013,
+  "speaker": "<user>",
+  "tf": "From what I've heard，you're not suitable as a clerk，but...<br> ",
+  "br": 1
+ },
+ {
+  "seq": 87,
+  "cmd": "message",
+  "abs": 1028,
+  "speaker": "<user>",
+  "tf": "(But it is a waste to let her go.)<br> ",
+  "br": 1
+ },
+ {
+  "seq": 88,
+  "cmd": "message",
+  "abs": 1030,
+  "speaker": "<user>",
+  "tf": "(An assassin who delivered results and survived. Since Alicia didn't<br>stop her，she's probably not dangerous... I suppose.)<br> ",
+  "br": 2
+ },
+ {
+  "seq": 89,
+  "cmd": "message",
+  "abs": 1054,
+  "speaker": "アヤメ",
+  "tf": "Well，if it is acceptable，could you perhaps give me a trial period?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 90,
+  "cmd": "message",
+  "abs": 1056,
+  "speaker": "<user>",
+  "tf": "Hm? What do you mean by 'trial period'?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 91,
+  "cmd": "message",
+  "abs": 1074,
+  "speaker": "アヤメ",
+  "tf": "Lord Commander，is there anyone you would like me to clean up?<br> ",
+  "br": 1
+ },
+ {
+  "seq": 92,
+  "cmd": "message",
+  "abs": 1078,
+  "speaker": "<user>",
+  "tf": "When you say 'clean'，you mean...<br> ",
+  "br": 1
+ },
+ {
+  "seq": 93,
+  "cmd": "message",
+  "abs": 1089,
+  "speaker": "アヤメ",
+  "tf": "...Yes. If you give the order，I will kill anyone.<br> ",
+  "br": 1
+ },
+ {
+  "seq": 94,
+  "cmd": "message",
+  "abs": 1123,
+  "speaker": "アヤメ",
+  "tf": "How about it? Is there no one you wish dead?<br> ",
+  "br": 1
+ }
+]

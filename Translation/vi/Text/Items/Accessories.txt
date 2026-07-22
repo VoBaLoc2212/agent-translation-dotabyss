@@ -1,0 +1,59 @@
+﻿喪失の指輪=Nhẫn Mất Mát
+喪失の状態異常の耐性を高める指輪。\n\n\n=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Mất Mát.\n\n\n
+炎上の指輪=Nhẫn Bốc Cháy
+炎上の状態異常の耐性を高める指輪。=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Bốc Cháy.
+凍結の指輪=Nhẫn Đóng Băng
+凍結の状態異常の耐性を高める指輪。=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Đóng Băng.
+石化の指輪=Nhẫn Hóa Đá
+石化の状態異常の耐性を高める指輪。=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Hóa Đá.
+麻痺の指輪=Nhẫn Tê Liệt
+麻痺の状態異常の耐性を高める指輪。=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Tê Liệt.
+魅了の指輪=Nhẫn Mê Hoặc
+魅了の状態異常の耐性を高める指輪。=Chiếc nhẫn tăng khả năng kháng Trạng Thái Đặc Biệt: Mê Hoặc.
+飢餓のモニュメント=Tượng Đài Đói Khát
+飢餓の厄災を解析して作られた護符\n厄災に抵抗する力を秘めている。=Bùa hộ mệnh được tạo ra bằng cách phân tích Tai Ương Đói Khát.\nẨn chứa sức mạnh để chống lại Tai Ương đó.
+氷河のモニュメント=Tượng Đài Sông Băng
+氷河の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。=Bùa hộ mệnh được tạo ra bằng cách phân tích Tai Ương Sông Băng.\nẨn chứa sức mạnh để chống lại Tai Ương đó.
+天使のモニュメント=Tượng Đài Thiên Thần
+天使の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。=Bùa hộ mệnh được tạo ra bằng cách phân tích Tai Ương Thiên Thần.\nẨn chứa sức mạnh để chống lại Tai Ương đó.
+飢餓のタリスマン=Bùa Chú Đói Khát
+飢餓の厄災の力を封じ込めたタリスマンHPを継続\n回復し、紋章：衝撃に反応して攻撃力を高める。=Bùa chú phong ấn sức mạnh của Tai Ương Đói Khát.\nLiên tục hồi phục HP và gia tăng Tấn Công phản ứng với Huy Hiệu: Xung Kích.
+氷河のタリスマン=Bùa Chú Sông Băng
+氷河の厄災の力を封じ込めたタリスマン\n紋章：情熱に反応して凍結への耐性を高める。=Bùa chú phong ấn sức mạnh của Tai Ương Sông Băng.\nGia tăng sức đề kháng Đóng Băng phản ứng với Huy Hiệu: Nhiệt Huyết.
+天使のタリスマン=Bùa Chú Thiên Thần
+天使の厄災の力を封じ込めたタリスマン\nHPと引き換えに紋章：衝撃の力を高める。=Bùa chú phong ấn sức mạnh của Tai Ương Thiên Thần.\nGia tăng sức mạnh của Huy Hiệu: Xung Kích đổi lấy HP.
+I have read both files. Let me analyze them to find any missing keys.
+
+Comparing the Japanese keys in the EN file against the VI file:
+
+**EN keys (24 lines):**
+1. `喪失の指輪`
+2. `喪失の状態異常の耐性を高める指輪。\n\n\n`
+3. `炎上の指輪`
+4. `炎上の状態異常の耐性を高める指輪。`
+5. `凍結の指輪`
+6. `凍結の状態異常の耐性を高める指輪。`
+7. `石化の指輪`
+8. `石化の状態異常の耐性を高める指輪。`
+9. `麻痺の指輪`
+10. `麻痺の状態異常の耐性を高める指輪。`
+11. `魅了の指輪`
+12. `魅了の状態異常の耐性を高める指輪。`
+13. `飢餓のモニュメント`
+14. `飢餓の厄災を解析して作られた護符\n厄災に抵抗する力を秘めている。`
+15. `氷河のモニュメント`
+16. `氷河の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。`
+17. `天使のモニュメント`
+18. `天使の厄災を解析して作られた護符\nその厄災に抵抗する力を秘めている。`
+19. `飢餓のタリスマン`
+20. `飢餓の厄災の力を封じ込めたタリスマンHPを継続\n回復し、紋章：衝撃に反応して攻撃力を高める。`
+21. `氷河のタリスマン`
+22. `氷河の厄災の力を封じ込めたタリスマン\n紋章：情熱に反応して凍結への耐性を高める。`
+23. `天使のタリスマン`
+24. `天使の厄災の力を封じ込めたタリスマン\nHPと引き換えに紋章：衝撃の力を高める。`
+
+**VI keys (same 24 keys):** All present.
+
+Every Japanese key in the EN file already exists in the VI file. There are **zero missing keys** between the two files. Both files are fully synchronized with 24 entries each, all matching exactly by Japanese key.
+
+No new lines to append.

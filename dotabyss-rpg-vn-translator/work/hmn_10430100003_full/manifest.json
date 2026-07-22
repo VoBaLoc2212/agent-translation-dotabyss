@@ -1,0 +1,99 @@
+{
+  "scene": "hmn_10430100003",
+  "asset": "unnamed_assetbundle/hmn_10430100003.txt",
+  "language_pair": "JP -> VI (via EN-asset-is-English authority)",
+  "source_jp": "dotabyss-translation-main/translations/novels/hmn_10430100003/ja.json",
+  "source_en": "dotabyss-translation-main/translations/novels/hmn_10430100003/en.json",
+  "asset_en": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10430100003.txt",
+  "asset_vi": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10430100003.txt",
+  "case": "EN-asset-is-English with title still JP (text fields English; title field JP)",
+  "text_command_counts": {
+    "title": 1,
+    "message": 117,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total": 118
+  },
+  "speaker_labels_kept_verbatim": [
+    "ジェンマ",
+    "<user>",
+    "フェリシオーネ",
+    "ルディア"
+  ],
+  "terminology": {
+    "司令官/Commander": "Chỉ Huy",
+    "厄災/Calamity": "Tai Ương",
+    "前線基地/Frontline Base": "Tiền Tuyến Căn Cứ",
+    "大穴/Abyss": "Đại Huyệt",
+    "ペルディオン/Perdion": "Perdion (kept proper noun)",
+    "ジェンマ/Gemma": "Gemma (kept proper noun, romanized in dialogue)",
+    "フェリシオーネ/Felicione": "Felicione (kept proper noun)",
+    "ルディア/Ludia": "Ludia (kept as ルディア speaker label)"
+  },
+  "addressing": {
+    "<user> (Commander) to Gemma (ジェンマ)": "anh/anh ơi -> em, tớ -> cậu (boy = cậu nhóc; old lady = bà lão); Commander self = tôi/anh",
+    "Gemma (ジェンマ) to Commander (<user>)": "em -> anh; respectful 'ngài' for Commander",
+    "Felicione (フェリシオーネ) to Commander": "em/ta -> anh; princess = hoàng nữ",
+    "Ludia (ルディア) to Gemma": "Miss Gemma = cô Gemma (polite)"
+  },
+  "rules_applied": [
+    "JP primary via ja.json; EN asset is structural authority (delimiter, BOM, CRLF, <br> count, record order).",
+    "Title translated to Vietnamese Title Case: 傷つき、色あせ、輝いて -> Tổn Thương, Phai Màu, Rực Sáng.",
+    "Commander/司令官 -> Chỉ Huy.",
+    "Speaker labels (field 1) kept byte-identical JP/placeholder; in-dialogue name mentions romanized (Gemma, Perdion, Felicione).",
+    "All internal fullwidth commas (， U+FF0C) converted to U+201A (‚) within VI text fields; ASCII delimiter commas preserved.",
+    "Every message field's <br> count mirrored exactly from EN asset (EN-authoritative); suffix '<br> ' auto-mirrored for message lines, title gets full VI.",
+    "Ellipsis-only lines '...' -> '…' (U+2026) to differ from source bytes.",
+    "BOM + CRLF preserved; line count 1248 = EN."
+  ],
+  "intentional_keeps": [
+    "Proper nouns Gemma, Perdion, Felicione left in Latin (project VI convention; romanized in dialogue).",
+    "Speaker labels ジェンマ / <user> / フェリシオーネ / ルディア kept verbatim JP.",
+    "SFX 'Fufu, ho ho ho, fwa fwa fwa' kept as light onomatopoeia (matches JP ふふ、ほっほっほっ、ふぁっふぁっふぁっ)."
+  ],
+  "h18_note": "Scene contains no explicit H-18 content; emotional/affectionate dialogue only (I love you / hug earring). All characters confirmed 18+ per project rule.",
+  "qa_summary": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "translated_records": 118,
+    "changed_lines": 118,
+    "kept_text_lines": []
+  },
+  "independent_verify": {
+    "scene": "hmn_10430100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 117,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 118,
+    "translated_records": 118,
+    "changed_lines": 118,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1248,
+      "vi": 1248,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "38c5a28cbaa2d06951c8f6f651d48da834c210395ddf744c34d2e323d105b42c",
+    "output_sha256": "e2fb5434e07dafe63f0e4d2e6ce815bd86b1f605dd8275353ad944d70883a0f4"
+  },
+  "qa_status": "PASS",
+  "status": "PASS"
+}

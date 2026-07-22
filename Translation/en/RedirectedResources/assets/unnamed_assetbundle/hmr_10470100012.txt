@@ -1,0 +1,566 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10470100012
+
+charaload,chara_1,104701000G,メレム
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10470100012_001_01,1
+
+
+
+window,on,0.15
+message,,I came to the brothel's private room to reciprocate Merem's feelings.<br>Shy but happy，she nestled close.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,2
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,2.3
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6.3
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,11
+
+l2dmessage,メレム,Um... I... well... This is my first time，so... um...<br> ,,vc_10470100012_001_01
+
+message,,At Merem's slightly trembling words，I asked if she was nervous.<br> 
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,0.1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3.9
+
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,8.8
+
+asyncl2dmotion,FaceEmotion00,on,STOP,9
+
+l2dmessage,メレム,It's my first time，so I'm nervous... but if it's you，Commander，I'll be<br>fine.<br> ,,vc_10470100012_002_01
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.3
+
+l2dmessage,メレム,Because I believe you are the one who will guide me to a bright<br>future.<br> ,,vc_10470100012_003_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,メレム,I'm sure you're the one who will blot out all my painful past with the<br>radiance of that Dark Star...<br> ,,vc_10470100012_004_01
+
+message,,I was genuinely happy she trusted me—even from a fortune telling. I<br>assured her I'd put her at ease.<br> 
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,1.6
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.6
+
+l2dmessage,メレム,—Thank you，Commander.<br> ,,vc_10470100012_005_01
+
+l2dmotion,EyeOpenReset
+
+message,,I looked at Merem's pussy and saw it glistening with love juice. ""I'm<br>going in，"" I said，lifting her hips.<br> 
+
+
+l2dmotion,Scene02
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10470100012_002_01,1,on
+
+wait,1
+
+l2dmotion,ExEmotion01
+
+l2dmessage,メレム,Mmph... Aaah!<br> ,,vc_10470100012_006_01
+
+message,,Merem's pussy was tight at first，but softened as I pushed deeper，<br>accepting my shaft tenderly.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.8
+
+l2dmessage,メレム,*pant*... *pant*... Mmph... *huff*... Mmph... *sigh*... Mmph!<br> ,,vc_10470100012_007_01
+
+l2dmotion,EyeOpenReset
+
+message,,Seeing the tears in Merem's eyes，I asked if she was all right，if it<br>didn't hurt.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1.8
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3.5
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+l2dmessage,メレム,No，not at all... I，I'm fine... Actually，I'm happy...<br> ,,vc_10470100012_008_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+l2dmessage,メレム,That I can become one like this with you，Commander，who treasures<br>me...<br> ,,vc_10470100012_009_01
+
+l2dmotion,ExEmotionReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,11
+
+asyncl2dmotion,EyeOpenReset,on,STOP,11.3
+
+l2dmessage,メレム,Mmph... Inside me... it's so hot... feels so good... I knew it... you are<br>my destined one.<br> ,,vc_10470100012_010_01
+
+l2dmotion,Scene03
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+asyncl2dmotion,Scene03,on,STOP,1
+
+bgvplay,bgvtag2_3,bgv_10470100012_003_01,1,on
+
+message,メレム,Mmph... *kiss*!♡<br> ,,vc_10470100012_011_01
+
+message,,Her words were filled with such strong love that I couldn't help but<br>kiss Merem on the lips.<br> 
+
+message,,The moment I kissed her，Merem's walls contracted，swallowing my<br>shaft. I couldn't resist and began moving my hips.<br> 
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,6
+
+asyncl2dmotion,EyeOpen03,on,STOP,6.3
+
+l2dmessage,メレム,Ah!... Mmph!... Mmph!... Ahh!... A-amazing... it f-feels so good...<br>Mmph!... *pant*!<br> ,,vc_10470100012_012_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,EyeOpen03,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+message,メレム,(I-it really feels good... Maybe the Commander really is my destined<br>person...)<br> ,,vc_10470100012_013_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+l2dmessage,メレム,Ahh... Mmph... Mmph...! Aaaah... Yah... Aaaah...!<br> ,,vc_10470100012_014_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+l2dmessage,メレム,Aahn... i-it keeps hitting my，my good spots... Mmph... Ah...! I-I'm<br>going to... lose my mind...!<br> ,,vc_10470100012_015_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpen03
+
+l2dmessage,メレム,C-Commander... Mmph... Ah...! More，more... make me feel so good...<br>please!<br> ,,vc_10470100012_016_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,ExEmotion01
+
+
+l2dmotion,Scene04
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10470100012_004_01,1,on
+
+l2dmessage,メレム,Aah... Commander... this is，i-is amazing...! Yah... this... feels so<br>good...!<br> ,,vc_10470100012_017_01
+
+message,,Merem's sweet voice and loosening，heating inner walls drew me<br>deeper with each thrust，and my hips quickened.<br> 
+
+l2dmotion,FaceAngleTop
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+l2dmessage,メレム,Mmph... Aah... Ah... C-Commander...! It feels so good... I'm going to go<br>crazy...!<br> ,,vc_10470100012_018_01
+
+message,,Her full breasts bounced with each thrust，heightening my<br>excitement，and Merem's voice grew shrill as intense pleasure swept her away.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,メレム,Ah... s-something's coming...! Mmph... Mmph... s-something's coming<br>into my head...!<br> ,,vc_10470100012_019_01
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+l2dmessage,メレム,Ah... *pant*... w-what is this...! C-Commander... I'm scared...<br>*whimper*... I'm... losing myself...!<br> ,,vc_10470100012_020_01
+
+message,,I told her not to be afraid，soothing her with my voice as I continued<br>thrusting into her depths.<br> 
+
+l2dmotion,EyeOpen03
+
+l2dmotion,MouthEmotion03
+
+l2dmessage,メレム,Ah! Aaaah! Nooo! If you do it like that... Mmph! Ah，Aah，Ah! I'm<br>coming，I'm coming!<br> ,,vc_10470100012_021_01
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen02
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,メレム,Aaaah! Mmph! No，nooo! *pant* I'll really lose my mind!<br> ,,vc_10470100012_022_01
+
+message,,I told her to entrust her painful past and seen futures to me，to<br>forget it all，as I kept thrusting.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,メレム,Everything to the Commander... aaaaaaah!<br> ,,vc_10470100012_023_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10470100012_005_01,1,on
+
+l2dmessage,メレム,P-please... Commander... I want to... kiss... again...!<br> ,,vc_10470100012_024_01
+
+l2dmotion,ExEmotionReset
+
+
+l2dmotion,Scene05
+
+message,メレム,Ah... mmm... Aaah，Ah... Mmph，*kiss*，*slurp*...<br> ,,vc_10470100012_025_01
+
+message,,Responding to Merem's wish，I intertwined my tongue with hers.<br> 
+
+l2dmotion,Scene05_2
+
+l2dmessage,メレム,*pant*... Mmph... when I kiss the Commander... Mmph... I-I feel<br>somehow safe...<br> ,,vc_10470100012_026_01
+
+l2dmotion,EyeOpen03
+
+l2dmessage,メレム,Mmph... Aaah... P-please continue... J-just like this... Aaah... *pant*<br>Aaah... Mmph...!<br> ,,vc_10470100012_027_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion02
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,8
+
+message,メレム,I don't care about my painful past or the future I foresee. All that<br>matters is this moment with my beloved Commander. This is happiness...<br> ,,vc_10470100012_028_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,MouthEmotion01
+
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,6
+
+l2dmessage,メレム,*pant*... Mmph!... I-I'm... so happy...! I wish this happy time could last<br>forever...<br> ,,vc_10470100012_029_01
+
+message,,I told Merem，who was enveloped in pleasure and happiness，that I<br>felt the same way.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen02
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,メレム,I-I'm happy，so happy...! C-Commander... please... let me feel you<br>more...<br> ,,vc_10470100012_030_01
+
+l2dmotion,Scene06
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10470100012_006_01,1,on
+
+wait,1
+
+message,メレム,Mmm，*gasp*... *kiss*... *pant!*，*pant*... Mmph!<br> ,,vc_10470100012_031_01
+
+message,,Drowning in pleasure，Merem pleaded with intense emotion. To<br>respond to her feelings，I continued kissing her more deeply，more fiercely.<br> 
+
+l2dmotion,EyeOpen02
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+message,メレム,Feels so good... *gasp*... mmm，*kiss*... Commander... Mmph!... *kiss*...<br>I-I love you...<br> ,,vc_10470100012_032_01
+
+l2dmotion,EyeOpen01
+
+message,メレム,Mmph!... *kiss*... Mmph!... Ngh!... *whimper*... *smooch*... *kiss*...<br>Mmph!<br> ,,vc_10470100012_033_01
+
+l2dmotion,EyeOpenReset
+
+
+
+message,メレム,*whimper*... Mmph!... *kiss*... Mmph!... *pant!*... N-no... I... Mmph!...<br>I-I'm...!<br> ,,vc_10470100012_034_01
+
+l2dmotion,EyeOpenReset
+
+message,,Merem was close to her peak. Her pussy tightened and began to<br>convulse，as if swallowing my cock.<br> 
+
+message,,As if caught in that pleasure，a sudden urge to cum welled up. I told<br>her I was about to come.<br> 
+
+l2dmotion,EyeOpen01
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+message,メレム,Mmm... *kiss*... Mmph... I-it's okay... like this... inside... please release<br>your seed inside me...<br> ,,vc_10470100012_035_01
+
+l2dmotion,Scene07
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10470100012_007_01,1,on
+
+wait,0.2
+
+l2dmessage,メレム,Mmph... Ngh... Ahh! Aaaaah!<br> ,,vc_10470100012_036_01
+
+l2dmotion,ExEmotion01
+
+message,,Merem climaxed，her body shuddering violently. In response，my cock<br>burst deep inside her pussy，releasing a torrent of thick white cum.<br> 
+
+l2dmotion,MouthEmotion02
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,8
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,8
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,8
+
+l2dmessage,メレム,*pant，pant*... Commander's seed... it's so warm... Ah! My body is<br>drinking it all up inside me...<br> ,,vc_10470100012_037_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,8
+
+asyncl2dmotion,EyeOpen03,on,STOP,8
+
+l2dmessage,メレム,Mmm... it feels so good... So this is how good sex can feel...<br>C-Commander... I... right now... I'm truly happy...<br> ,,vc_10470100012_038_01
+
+message,,The depths of her pussy were filled with my cum and her own juices.<br>Just as I shifted my hips to withdraw，she made a surprising suggestion—<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeEmotionLeft
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+l2dmessage,メレム,C-Commander... please... keep going... U-um... without pulling out...<br>one more time like this...<br> ,,vc_10470100012_039_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,As she spoke，Merem's pussy *squelched*，seeking more pleasure. In<br>response，my cock quickly stiffened again.<br> 
+
+l2dmotion,Scene08
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_8,bgv_10470100012_008_01,1,on
+
+wait,1
+
+l2dmotion,ExEmotionReset
+
+message,メレム,Mmph... *kiss!*♡ Ngh... *slurp*... Mmph!<br> ,,vc_10470100012_040_01
+
+message,,Merem pressed a sweet，pleading kiss to my lips. Taking that as my<br>cue，I began moving my hips again.<br> 
+
+message,メレム,Mmph!... Mmph!... *kiss*...<br>Mmm... *sigh*... Ngh... *smooch*... *kiss*...<br> ,,vc_10470100012_041_01
+
+l2dmotion,EyeOpen03
+
+l2dmotion,EyeEmotionLeft
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,6
+
+message,メレム,(Have I really gone crazy...? It feels so good... I keep wanting the<br>Commander over and over...)<br> ,,vc_10470100012_042_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+message,メレム,(B-But... that's fine... even if I've lost my mind... The Commander said<br>I could entrust everything to him...)<br> ,,vc_10470100012_043_01
+
+l2dmotion,EyeOpen03
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+message,メレム,Mmph!... Ngh!... *kiss*... *pant*...<br>A-Again... my fate is calling... I'm coming to meet it!<br> ,,vc_10470100012_044_01
+
+l2dmotion,EyeOpenReset
+
+message,,I could feel Merem's climax approaching，and I moved my hips<br>vigorously，aiming for my second release.<br> 
+
+l2dmotion,Scene09
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_9,bgv_10470100012_009_01,1,on
+
+l2dmotion,ExEmotion01
+
+l2dmessage,メレム,Aaah!... Aah!... Aaaaaah!<br> ,,vc_10470100012_045_01
+
+l2dmotion,EyebrowEmotion01
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+l2dmessage,メレム,*pant*... *pant*... *pant*...<br>S-so incredible... A-again... your warm seed... so much...<br> ,,vc_10470100012_046_01
+
+l2dmotion,FaceAngleBottomLeft
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5
+
+l2dmessage,メレム,Now I can clearly believe...<br>Just as the fortune foretold，you are my destined person...<br> ,,vc_10470100012_047_01
+
+message,,""Then，will you stay with me from now on?"" I asked. Merem nodded<br>deeply.<br> 
+
+l2dmotion,FaceEmotion00
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+l2dmessage,メレム,Yes... because in the future we create together，I can see only the<br>light of hope...<br> ,,vc_10470100012_048_01
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+

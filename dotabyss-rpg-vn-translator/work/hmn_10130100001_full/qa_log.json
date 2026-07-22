@@ -1,0 +1,815 @@
+{
+  "scene": "hmn_10130100001",
+  "created_at_utc": "2026-07-19T10:20:56.981442+00:00",
+  "adult_content_rule": "All characters confirmed 18+ by project context; H18/adult-adjacent lines translated normally while preserving source tone/consent.",
+  "translation_basis": "JP ja.json primary; en.json and EN asset used for ordered alignment; EN asset is authoritative for command order and tag counts.",
+  "structural_qa": {
+    "source": {
+      "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100001.txt",
+      "sha256": "737f07f771b9873fef29c772a9fc118fb7f9d12a18257eb568d19ce2d28aefae",
+      "bytes": 19374,
+      "bom_utf8": true,
+      "newline": "CRLF",
+      "line_count_splitlines": 750,
+      "trailing_newline": true
+    },
+    "output": {
+      "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10130100001.txt",
+      "sha256": "16808085d520a9832235d514405b565ae2efca2f014df8495a2628e03ba7a4fe",
+      "bytes": 20981,
+      "bom_utf8": true,
+      "newline": "CRLF",
+      "line_count_splitlines": 750,
+      "trailing_newline": true
+    },
+    "jp_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100001\\ja.json",
+      "sha256": "fdb6cef5a05f40a5de02d1d99d92d7737ebcb34c03d20a292263493acfa0e0d0",
+      "bytes": 14552,
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count_splitlines": 82,
+      "trailing_newline": false
+    },
+    "en_json": {
+      "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10130100001\\en.json",
+      "sha256": "00ab166d4bb8930aaa08323dc364d1f988676b0a251cd20e24fe836c3ba48ef4",
+      "bytes": 12938,
+      "bom_utf8": false,
+      "newline": "LF",
+      "line_count_splitlines": 82,
+      "trailing_newline": false
+    },
+    "candidate_counts": {
+      "title": 1,
+      "message": 79,
+      "messageTextCenter": 0,
+      "messageTextUnder": 0
+    },
+    "candidate_total": 80,
+    "vi_text_count": 80,
+    "line_count_match": true,
+    "delimiter_line_counts_match": true,
+    "qa_errors": [],
+    "status": "PASS"
+  },
+  "linguistic_qa": {
+    "status": "PASS",
+    "notes": [
+      "Frederica/フレデリカ kept as speaker and charaload name because no explicit VI name mapping was provided.",
+      "Commander/司令官 translated as Chỉ Huy in dialogue text.",
+      "Frederica uses casual tôi/cậu toward Commander in this early comedic scientist scene; Commander generally uses tôi/cô.",
+      "ASCII comma inside Vietnamese text fields avoided; U+201A used where a comma-like pause is needed."
+    ],
+    "unresolved_items": []
+  },
+  "records": [
+    {
+      "record_index": 1,
+      "line": 17,
+      "command": "title",
+      "speaker": null,
+      "status": "TRANSLATED",
+      "source_en": "Title",
+      "vi": "Tiêu Đề"
+    },
+    {
+      "record_index": 2,
+      "line": 27,
+      "command": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "source_en": "Knock，knock.<br> ",
+      "vi": "――Cốc cốc.<br> "
+    },
+    {
+      "record_index": 3,
+      "line": 30,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Come in.<br> ",
+      "vi": "Mời vào.<br> "
+    },
+    {
+      "record_index": 4,
+      "line": 64,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Excuse me，Commander.<br> ",
+      "vi": "Xin phép nhé‚ Chỉ Huy.<br> "
+    },
+    {
+      "record_index": 5,
+      "line": 69,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Actually，there's something I want to talk to you about...<br> ",
+      "vi": "Thật ra tôi có chuyện muốn bàn với cậu...<br> "
+    },
+    {
+      "record_index": 6,
+      "line": 71,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "What's wrong? You look serious. If it's about this month's extra<br>budget，no way I'm giving it.<br> ",
+      "vi": "Có chuyện gì? Trông cô nghiêm trọng thế. Nếu là xin thêm<br>ngân sách tháng này thì dĩ nhiên tôi không duyệt đâu.<br> "
+    },
+    {
+      "record_index": 7,
+      "line": 83,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "It's not about money! And what do you mean by \"\"of course not\"\"!?<br> ",
+      "vi": "Không phải chuyện tiền bạc! Với lại cái gì mà \"dĩ nhiên không duyệt\" chứ!?<br> "
+    },
+    {
+      "record_index": 8,
+      "line": 85,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Think about how you usually act.<br> ",
+      "vi": "Tự nhớ lại hành động thường ngày của cô đi.<br> "
+    },
+    {
+      "record_index": 9,
+      "line": 104,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Do you have any idea how much funding we sink into your research on<br>a daily basis... honestly.<br> ",
+      "vi": "Cô có biết thường ngày chúng tôi đã đổ bao nhiêu<br>tiền vào nghiên cứu của cô không... thật là.<br> "
+    },
+    {
+      "record_index": 10,
+      "line": 115,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ah，well，um，yeah，about that...<br> ",
+      "vi": "À... không... ừm... phải... chuyện đó thì...<br> "
+    },
+    {
+      "record_index": 11,
+      "line": 128,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "T-trial and error comes with research! So extra budget can't be<br>helped!<br> ",
+      "vi": "T-thử sai là chuyện luôn đi kèm với nghiên cứu mà!<br>Nên xin thêm ngân sách cũng đành chịu thôi!<br> "
+    },
+    {
+      "record_index": 12,
+      "line": 140,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Well，a mediocrity like you probably can't comprehend it anyway!♪<br> ",
+      "vi": "Mà một kẻ tầm thường như cậu chắc chắn không thể hiểu nổi đâu nhỉ♪<br> "
+    },
+    {
+      "record_index": 13,
+      "line": 142,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "I see，I see. So you took time out of your busy schedule just to come<br>and provoke me.<br> ",
+      "vi": "Ra vậy‚ ra vậy. Tức là cô chen vào lịch bận rộn<br>chỉ để đến khích tôi thôi à.<br> "
+    },
+    {
+      "record_index": 14,
+      "line": 144,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Alright，get out. I'm not as busy as you，but I'm still pretty busy.<br> ",
+      "vi": "Được rồi‚ về đi. Tôi không bận bằng cô‚ nhưng cũng có việc của mình.<br> "
+    },
+    {
+      "record_index": 15,
+      "line": 156,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Whaaaat! I-I'm sorry!<br> ",
+      "vi": "Ưeeeeee!? X-x-xin lỗi mà!<br> "
+    },
+    {
+      "record_index": 16,
+      "line": 168,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "I really do have something to talk about! Please，just hear me out!<br> ",
+      "vi": "Tôi thật sự có chuyện muốn bàn mà! Làm ơn nghe tôi nói đi!<br> "
+    },
+    {
+      "record_index": 17,
+      "line": 170,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Alright，alright... So，what did you want to talk about?<br> ",
+      "vi": "Được rồi‚ được rồi... thế nội dung cần bàn là gì?<br> "
+    },
+    {
+      "record_index": 18,
+      "line": 181,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Uh... w-well... It might sound a bit hard to believe，but...<br> ",
+      "vi": "Ư... ư-ừm... Có lẽ chuyện này nghe hơi khó tin‚ nhưng...<br> "
+    },
+    {
+      "record_index": 19,
+      "line": 190,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Actually... whenever I experiment，I always end up producing<br>something lewd.<br> ",
+      "vi": "Thật ra... mỗi khi làm thí nghiệm‚<br>tôi luôn tạo ra thứ dâm đãng nào đó.<br> "
+    },
+    {
+      "record_index": 20,
+      "line": 192,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Huh? What was that? Sorry，could you say that again?<br> ",
+      "vi": "...Hửm? Cô vừa nói gì? Xin lỗi‚ nói lại lần nữa được không?<br> "
+    },
+    {
+      "record_index": 21,
+      "line": 203,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh... s-so，like I said...!<br> ",
+      "vi": "Ưư... t-thì tôi đã nói là...!<br> "
+    },
+    {
+      "record_index": 22,
+      "line": 214,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "No matter what I do，all I can make is erotic stuff!<br> ",
+      "vi": "Dù làm gì... tôi cũng chỉ tạo ra toàn thứ dâm đãng thôi!<br> "
+    },
+    {
+      "record_index": 23,
+      "line": 216,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "R-right，I see... Wait，what do you mean?<br> ",
+      "vi": "V-vậy à. Không... thế là sao?<br> "
+    },
+    {
+      "record_index": 24,
+      "line": 218,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "What kind of erotic stuff? Like，what have you ended up making?<br> ",
+      "vi": "Thứ dâm đãng... ví dụ cô đã tạo ra những gì?<br> "
+    },
+    {
+      "record_index": 25,
+      "line": 225,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "The other day，I showed you an aphrodisiac，right?<br> ",
+      "vi": "Hôm trước‚ tôi có cho Chỉ Huy xem thuốc tăng cường sinh lực đúng không?<br> "
+    },
+    {
+      "record_index": 26,
+      "line": 234,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "That medicine... Actually，I was trying to make an immortality elixir，<br>but that's what I ended up with...<br> ",
+      "vi": "Thứ thuốc đó...<br>thật ra vốn là sản phẩm khi tôi định chế thuốc trường sinh bất tử...<br> "
+    },
+    {
+      "record_index": 27,
+      "line": 236,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "You said 'This has an amazing effect!' with a smug face，but that was<br>an unintended result?<br> ",
+      "vi": "Lúc đó cô còn vênh mặt nói 'Nó có hiệu quả ghê gớm lắm!'‚<br>vậy ra nó là thành quả ngoài ý muốn à...<br> "
+    },
+    {
+      "record_index": 28,
+      "line": 248,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh. W-well，anyway，just listen to the rest.<br> ",
+      "vi": "Ự. T-thì... trước mắt cứ nghe tiếp đã.<br> "
+    },
+    {
+      "record_index": 29,
+      "line": 255,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Another time... I made a magic circle to blow away fatigue，but for<br>some reason，it only blew off my clothes...<br> ",
+      "vi": "Một ngày khác... lẽ ra tôi đã tạo một ma pháp trận thổi bay mệt mỏi‚<br>nhưng chẳng hiểu sao nó chỉ thổi bay mỗi quần áo của tôi...<br> "
+    },
+    {
+      "record_index": 30,
+      "line": 266,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "I was washing all my other clothes，so I ended up having to walk<br>around in my sleepwear... talk about getting screwed!<br> ",
+      "vi": "Đúng lúc toàn bộ quần áo khác đều đang đem giặt...<br>nên tôi đành phải đi quanh trong bộ đồ ngủ...!<br> "
+    },
+    {
+      "record_index": 31,
+      "line": 268,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Ah，so that's why there was a day you were getting petted all over<br>the base. I couldn't see your outfit because you were surrounded.<br> ",
+      "vi": "À‚ ra đó là lý do có hôm cô được mọi người trong căn cứ<br>âu yếm quá mức. Cô bị vây kín nên tôi không thấy cô mặc gì.<br> "
+    },
+    {
+      "record_index": 32,
+      "line": 279,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "P-petted! Don't talk about me like I'm a dog or a cat!<br> ",
+      "vi": "Â-âu yếm gì chứ... đừng nói như tôi là chó mèo vậy!<br> "
+    },
+    {
+      "record_index": 33,
+      "line": 281,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "...Huh? Wait... from what you're saying，that thing yesterday too...<br> ",
+      "vi": "...Hửm? Khoan đã... nghe vậy thì chuyện hôm qua cũng...<br> "
+    },
+    {
+      "record_index": 34,
+      "line": 293,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh. Ughhhh...<br> ",
+      "vi": "Ự. Ưưưư...<br> "
+    },
+    {
+      "record_index": 35,
+      "line": 319,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "The report's done，maybe I'll read a book—<br> ",
+      "vi": "Báo cáo cũng tổng hợp xong rồi‚ đọc sách một chút vậy――<br> "
+    },
+    {
+      "record_index": 36,
+      "line": 324,
+      "command": "message",
+      "speaker": "",
+      "status": "TRANSLATED",
+      "source_en": "BOOM!<br> ",
+      "vi": "Bùm!<br> "
+    },
+    {
+      "record_index": 37,
+      "line": 326,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Funyaaaah!<br> ",
+      "vi": "Ưnyaaaa!?<br> "
+    },
+    {
+      "record_index": 38,
+      "line": 328,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Pink smoke from the lab...? And that was... Frederica's voice?<br> ",
+      "vi": "Khói hồng từ phòng nghiên cứu...? Với lại giọng vừa rồi... là Frederica sao!?<br> "
+    },
+    {
+      "record_index": 39,
+      "line": 330,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Wait there，I'm coming!<br> ",
+      "vi": "Chờ đó‚ tôi đến ngay!!<br> "
+    },
+    {
+      "record_index": 40,
+      "line": 368,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "*pant，pant*... Frederica，are you okay?<br> ",
+      "vi": "Hộc‚ hộc... Frederica‚ cô ổn chứ!?<br> "
+    },
+    {
+      "record_index": 41,
+      "line": 379,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "*pant*!♡ I，I'm okay.♡<br> ",
+      "vi": "Ha hi...♡ e-em ổn...♡<br> "
+    },
+    {
+      "record_index": 42,
+      "line": 381,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "No，you don't look okay at all. Wait here，I'll take you to the<br>infirmary...<br> ",
+      "vi": "Không‚ trông cô chẳng ổn chút nào.<br>Chờ đó‚ tôi đưa cô tới phòng y tế ngay...<br> "
+    },
+    {
+      "record_index": 43,
+      "line": 433,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "I-I'm really okay...♡<br> ",
+      "vi": "E-em thật sự ổn mà...♡<br> "
+    },
+    {
+      "record_index": 44,
+      "line": 444,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Actually... when you carry me like a princess... it's... it's too much...<br>Ah，Ah，Aaah...♡<br> ",
+      "vi": "Với lại... chuyện đó... bị bế kiểu công chúa thế này... ừm...<br>nhiều thứ... nguy hiểm lắm... a‚ á‚ aaaa...♡<br> "
+    },
+    {
+      "record_index": 45,
+      "line": 455,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Funyaaaaaah...♡<br> ",
+      "vi": "Ưnyaaaaaa～～～～...♡<br> "
+    },
+    {
+      "record_index": 46,
+      "line": 490,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "In the end，we never made it to the infirmary... So that was just the<br>aphrodisiac making her horny.<br> ",
+      "vi": "Rốt cuộc chúng ta không tới phòng y tế... ra vậy‚<br>chuyện đó cũng chỉ là do thuốc kích dục làm cô hưng phấn thôi à.<br> "
+    },
+    {
+      "record_index": 47,
+      "line": 501,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "D-don't say it so bluntly!<br> ",
+      "vi": "Đ-đừng nói huỵch toẹt ra như thế!<br> "
+    },
+    {
+      "record_index": 48,
+      "line": 512,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "But... I'm sorry for causing you trouble... *whimper*.<br> ",
+      "vi": "Nhưng... tôi xin lỗi vì đã gây phiền phức... ưư.<br> "
+    },
+    {
+      "record_index": 49,
+      "line": 514,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Don't worry about that. Still... it's a strange phenomenon.<br> ",
+      "vi": "Chuyện cỡ đó đừng bận tâm. Dù vậy... hiện tượng này lạ thật.<br> "
+    },
+    {
+      "record_index": 50,
+      "line": 525,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "*whimper*... why does this keep happening... I'm just diligently doing<br>my research...<br> ",
+      "vi": "Ưư～... sao mọi chuyện lại thành ra thế này chứ...<br>Tôi chỉ một lòng dốc sức nghiên cứu thôi mà...<br> "
+    },
+    {
+      "record_index": 51,
+      "line": 527,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Do you have any idea why?<br> ",
+      "vi": "Cô không nhớ manh mối gì sao?<br> "
+    },
+    {
+      "record_index": 52,
+      "line": 536,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Nothing at all. I looked through tons of books before coming here，<br>but...<br> ",
+      "vi": "Hoàn toàn không.<br>Trước khi đến đây tôi cũng đã tra đủ loại sách rồi‚ nhưng...<br> "
+    },
+    {
+      "record_index": 53,
+      "line": 547,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "I couldn't find anything even close to this bizarre situation... *sigh*.<br> ",
+      "vi": "Tôi còn chẳng tìm thấy thứ gì gần giống tình huống kỳ quặc này... haiz.<br> "
+    },
+    {
+      "record_index": 54,
+      "line": 549,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Hmm. Then how about asking your alchemy Master? He might know<br>something.<br> ",
+      "vi": "Ừm. Nếu vậy...<br>hỏi sư phụ giả kim thuật của cô thì biết đâu sẽ hiểu ra gì đó?<br> "
+    },
+    {
+      "record_index": 55,
+      "line": 560,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Wha—! A-ask my Master...? No way，no way! Absolutely not!<br> ",
+      "vi": "Ưể!? H-hỏi sư phụ á... không không! Tuyệt đối không được!<br> "
+    },
+    {
+      "record_index": 56,
+      "line": 562,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Hmm? Why are you so against it?<br> ",
+      "vi": "Hửm? Sao cô lại ghét đến mức đó?<br> "
+    },
+    {
+      "record_index": 57,
+      "line": 571,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "You know I used to live in Eldorana before coming here，right?<br> ",
+      "vi": "...Trước khi đến đây‚ cậu biết tôi từng sống ở Eldorana đúng không?<br> "
+    },
+    {
+      "record_index": 58,
+      "line": 573,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Right. Alchemists usually live in Perdion，so I always found it strange.<br> ",
+      "vi": "Đúng vậy. Giả kim thuật sư thường sống ở Perdion nên tôi vẫn thấy lạ.<br> "
+    },
+    {
+      "record_index": 59,
+      "line": 582,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "There's only one reason I lived in Eldorana...<br> ",
+      "vi": "Lý do tôi sống ở Eldorana chỉ có một...<br> "
+    },
+    {
+      "record_index": 60,
+      "line": 593,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "To get away from my Master... from that bastard，as soon as possible!<br> ",
+      "vi": "Vì tôi muốn rời xa sư phụ... rời xa tên đó càng sớm càng tốt～!<br> "
+    },
+    {
+      "record_index": 61,
+      "line": 595,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Hmm...? You must have spent quite some time with your Master，right?<br>Why would you want to get away?<br> ",
+      "vi": "Hửm...? Đã là sư phụ thì hẳn cô đã cùng người đó<br>trải qua kha khá năm tháng rồi nhỉ? Sao lại thế?<br> "
+    },
+    {
+      "record_index": 62,
+      "line": 606,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "It's precisely because we've spent years together that I know!<br>Impossible is impossible! Absolutely impossible!<br> ",
+      "vi": "Chính vì đã cùng trải qua kha khá năm tháng nên mới vậy đó～!<br>Không được là không được! Tuyệt đối không được!!<br> "
+    },
+    {
+      "record_index": 63,
+      "line": 618,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh... just remembering it makes my head ache...! Guh... get out of my<br>head...!<br> ",
+      "vi": "Ưư～... chỉ nhớ lại thôi đầu tôi đã～...!<br>Khưư... thôi đi‚ biến khỏi đầu ta đi...!<br> "
+    },
+    {
+      "record_index": 64,
+      "line": 620,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "What the hell has he put you through...? Still，you don't have any<br>other option now，do you?<br> ",
+      "vi": "Rốt cuộc cô đã trải qua những gì vậy...<br>Dù thế‚ hiện giờ đâu còn cách nào khác?<br> "
+    },
+    {
+      "record_index": 65,
+      "line": 631,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "W-well，sure... that's true... but... ugh... still...<br> ",
+      "vi": "Đ-đúng là... chuyện đó thì đúng... ưgưgư... nhưng mà...<br> "
+    },
+    {
+      "record_index": 66,
+      "line": 633,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "I get that you absolutely hate it，but... if this keeps up，your lab's<br>gonna be overflowing with erotic stuff eventually，you know?<br> ",
+      "vi": "Tôi hiểu là cô ghét đến chết rồi... nhưng cứ thế này thì sớm muộn gì<br>phòng nghiên cứu của cô cũng ngập tràn toàn thứ dâm đãng đấy?<br> "
+    },
+    {
+      "record_index": 67,
+      "line": 645,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh! That would be way too awful!<br> ",
+      "vi": "Hừưưưーー! Chuyện đó... quá sức kinh khủngーーーー!!<br> "
+    },
+    {
+      "record_index": 68,
+      "line": 656,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "But going to my Master's... it's just incredibly and endlessly awful!<br> ",
+      "vi": "Nhưng đến chỗ sư phụ thì... cũng cực kỳ vô tận kinh khủng...!<br> "
+    },
+    {
+      "record_index": 69,
+      "line": 667,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Ugh... but still... not being able to produce results... that's what I<br>hate the most...<br> ",
+      "vi": "Ưgưgư... dù vậy... không thể tạo ra thành quả nghiên cứu...<br>mới là điều tôi ghét nhất...<br> "
+    },
+    {
+      "record_index": 70,
+      "line": 669,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Don't worry. I'll go with you.<br> ",
+      "vi": "Yên tâm đi. Tôi cũng sẽ đi cùng cô.<br> "
+    },
+    {
+      "record_index": 71,
+      "line": 681,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "For real?! The Commander will come too?! That's a massive help!<br> ",
+      "vi": "Thật không!? Chỉ Huy cũng đi cùng sao!! Vậy thì cực kỳーーー giúp tôi nhiều lắm!!<br> "
+    },
+    {
+      "record_index": 72,
+      "line": 692,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "There's no such thing as too many hands to beat him up in an<br>emergency，right?♪ Man，what a relief!<br> ",
+      "vi": "Lúc khẩn cấp‚ càng nhiều người để đập tên đó càng tốt mà♪<br>Ôi đúng là cứu tinh!<br> "
+    },
+    {
+      "record_index": 73,
+      "line": 694,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "...Did you just say 'beat up'...?<br> ",
+      "vi": "...Vừa rồi cô nói 'đập' à...?<br> "
+    },
+    {
+      "record_index": 74,
+      "line": 703,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "Hm? Yeah，I said it.<br> ",
+      "vi": "Hửm? Tôi nói mà?<br> "
+    },
+    {
+      "record_index": 75,
+      "line": 705,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "I was hoping I misheard...<br> ",
+      "vi": "Tôi đã hy vọng mình nghe nhầm đấy...<br> "
+    },
+    {
+      "record_index": 76,
+      "line": 713,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "My Master's house is in a secluded part of Perdion. It's like a<br>hideaway，you know.<br> ",
+      "vi": "Nhà sư phụ tôi nằm ở một nơi hẻo lánh của Perdion.<br>Nói cách khác là ông ta sống như trong chỗ ẩn cư vậy.<br> "
+    },
+    {
+      "record_index": 77,
+      "line": 725,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "As a greeting... I'll start by giving him a light scare with explosives!♪<br> ",
+      "vi": "Thay lời chào hỏi... trước hết bắt đầu bằng việc dọa nhẹ bằng thuốc nổ nhé♪<br> "
+    },
+    {
+      "record_index": 78,
+      "line": 727,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "Whoa，whoa，whoa! Are you trying to start a war?<br> ",
+      "vi": "Khoan khoan khoan. Cô định phát động chiến tranh à?<br> "
+    },
+    {
+      "record_index": 79,
+      "line": 739,
+      "command": "message",
+      "speaker": "フレデリカ",
+      "status": "TRANSLATED",
+      "source_en": "I hate him that much，and even that would be totally fine... You'll<br>understand when you meet him.<br> ",
+      "vi": "Tôi ghét đến mức đó‚ và làm đến mức đó cũng hoàn toàn<br>không thành vấn đề đâu... gặp rồi cậu sẽ hiểu...<br> "
+    },
+    {
+      "record_index": 80,
+      "line": 741,
+      "command": "message",
+      "speaker": "<user>",
+      "status": "TRANSLATED",
+      "source_en": "O-okay... Got it. Let's head over first.<br> ",
+      "vi": "V-vậy à... Được rồi‚ trước tiên cứ tới đó xem sao.<br> "
+    }
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 79,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 80,
+  "translated_records": 80,
+  "changed_lines": 80,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 750,
+    "vi": 750,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "737f07f771b9873fef29c772a9fc118fb7f9d12a18257eb568d19ce2d28aefae",
+  "output_sha256": "16808085d520a9832235d514405b565ae2efca2f014df8495a2628e03ba7a4fe",
+  "qa_status": "PASS"
+}

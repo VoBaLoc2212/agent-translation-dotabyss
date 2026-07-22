@@ -1,0 +1,54 @@
+{
+  "scene": "hmn_10310100001",
+  "title_en": "The Dojo Challenger Is a Pint-Sized Swordsman?",
+  "title_vi": "Kẻ Thách Đấu Võ Đường Là Một Kiếm Sĩ Nhí?",
+  "source_condition": "EN-asset-is-English (en.json non-empty English; asset text English) — JP primary via ja.json, EN asset structural authority",
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10310100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 107,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 108,
+    "translated_records": 108,
+    "changed_lines": 108,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1799,
+      "vi": 1799,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "2b786a56cb9b98edf174a8a3f725e5cd15f0cb8601068fa0865ccf8a400d60bd",
+    "output_sha256": "fb36fdd6a1205dcaa23a07b693c95e1d379a5619ef81ba339a7ab0a12c0e42bd"
+  },
+  "summary": {
+    "translatable_records": 108,
+    "text_command_counts": {
+      "title": 1,
+      "message": 107
+    },
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "notes": [
+    "EN-asset-is-English case: translated JP->VI via ja.json, used EN asset as structural authority (BOM/CRLF/<br>/delimiters).",
+    "Commander = <user> field: rendered as 'anh' (male) speaking to females, 'em' (self) to Commander; in 兵士A speech 'Chỉ Huy' used as the honorific the soldier uses.",
+    "ハツネ = Hatsune (fox Beastkin; serves a young lord -> thiếu chủ; addresses Commander as 'anh').",
+    "コトノ = Kotono (female retainer; addresses Commander as 'Chủ Nhân' = Milord).",
+    "Frontline Base -> Căn Cứ Tiền Tuyến; Abyss -> Hắc Huyệt; Hourai kept (proper domain); Beastkin -> Thú Nhân.",
+    "Speaker name field (兵士A/兵士B/ハツネ/コトノ/？？？/<user>) kept byte-identical (JPN) per rules.",
+    "Internal ASCII commas within VI text fields replaced with U+201A (‚); all <br> counts mirrored from source."
+  ]
+}

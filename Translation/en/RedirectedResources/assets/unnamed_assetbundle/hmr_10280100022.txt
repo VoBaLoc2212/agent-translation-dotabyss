@@ -1,0 +1,515 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10280100022
+
+charaload,chara_1,102801000X,エミリー
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0043,1.5
+
+
+bgvplay,bgvtag2_1,bgv_10280100022_001_01,1,on
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+l2dmotion,MouthEmotion02
+
+window,on,0.15
+l2dmessage,エミリー,How's this? Does it feel good?<br> ,,vc_10280100022_001_01
+
+
+message,,Emily pressed his cock between her large breasts，looked up，and<br>asked. The sight moved him so much his whole body trembled.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,MouthEmotion03
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4.2
+
+l2dmessage,エミリー,Ufufu，you've been staring at my breasts this whole time.<br>Are you that into breasts?<br> ,,vc_10280100022_002_01
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.6
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleBottomRight,on,STOP,0.5
+
+message,,The man blushed bright red and stammered，saying he liked her<br>breasts too，but really... he trailed off.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2.1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,2
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,エミリー,Not breasts? Then what do you like?<br> ,,vc_10280100022_003_01
+
+
+message,,Emily looked at him with innocent eyes as she asked. When their eyes<br>met，perhaps overcome with shyness，the man deflected.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,エミリー,Fufu. Please relax a little.<br>So，what's your order for today?<br> ,,vc_10280100022_004_01
+
+asyncl2dmotion,MouthEmotion00,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,The man ordered her to rub his cock with her breasts.<br> 
+
+asyncl2dmotion,Scene02,on,STOP,1
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10280100022_002_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,エミリー,Rubbing... like this?<br> ,,vc_10280100022_005_01
+
+
+message,,As she asked，Emily began moving her breasts from side to side，<br>alternating left and right.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,6.2
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,6
+
+l2dmessage,エミリー,Mmph! Aahn... I-I'm still not used to this...<br>Do my breasts feel good?<br> ,,vc_10280100022_006_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Emily was worried about the man's reaction，but he was completely<br>speechless at the lewd sight before him.<br> 
+
+asyncl2dmotion,Scene03,on,STOP,2
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10280100022_003_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+
+
+wait,1.2
+
+l2dmessage,エミリー,Hmm... your thing doesn't seem to be perking up at all...<br> ,,vc_10280100022_007_01
+
+
+l2dmotion,MouthEmotion00
+
+message,,After confirming his cock wasn't getting very hard，Emily stopped<br>moving her breasts.<br> 
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1.6
+
+l2dmessage,エミリー,Don't my breasts feel good?<br> ,,vc_10280100022_008_01
+
+
+message,,Seeing Emily's troubled face，the man made an excuse，saying it might<br>be because he drank too much.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.3
+
+asyncl2dmotion,EyeOpen00,on,STOP,1.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,6
+
+asyncl2dmotion,FaceAngleReset,on,STOP,6
+
+l2dmessage,エミリー,So that's what happens when you drink too much，huh?<br>I see... I wonder how I can make it perk up...<br> ,,vc_10280100022_009_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.6
+
+
+message,,Emily thought for a while. Seeing that，the man told her he'd like her<br>to try rubbing a bit harder.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleTop,on,STOP,0.4
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.6
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.6
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,エミリー,Oh，I can do it harder?<br>Then I'll really move a lot for you!<br> ,,vc_10280100022_010_01
+
+l2dmotion,Scene04
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10280100022_004_01,1,on
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,エミリー,Nsh... Mmph... Ngh... Is this... good enough...?<br> ,,vc_10280100022_011_01
+
+
+message,,She moved her breasts more widely and forcefully than before，<br>rubbing his cock upward with determination.<br> 
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,FaceAngleBottom
+
+asyncl2dmotion,EyeOpen02,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+l2dmessage,エミリー,Mmph... Ngh... How is it? Does it feel good? Ngh... Mmmph... D-do you<br>think it'll get bigger like this?<br> ,,vc_10280100022_012_01
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+message,,While watching the man's reaction，Emily patiently continued moving.<br> 
+
+l2dmotion,Scene05
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10280100022_005_01,1,on
+
+wait,1
+
+l2dmessage,エミリー,Oh... your thing looks like it's waking up now!♪<br> ,,vc_10280100022_013_01
+
+
+message,,Noticing his cock growing，Emily happily exclaimed.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen02,on,STOP,4.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,4.6
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,4.5
+
+l2dmessage,エミリー,Ehehe... your thing is so big，mister!♪ Please feel even better with my<br>tits!♪<br> ,,vc_10280100022_014_01
+
+
+message,,Emily cheerfully rubbed his cock upward with her breasts.<br> 
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.3
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.5
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3.3
+
+asyncl2dmotion,FaceAngleRight,on,STOP,3.3
+
+l2dmessage,エミリー,Oh... something's coming out of the tip. This is the stuff that comes<br>out when it feels good，right?<br> ,,vc_10280100022_015_01
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,What seeped from the tip was his pre-cum.<br>The more she rubbed，the more it leaked out.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.5
+
+asyncl2dmotion,MouthEmotion03,on,STOP,2.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.5
+
+l2dmessage,エミリー,It's clear and pretty!♪ It looks delicious，like maple syrup.<br> ,,vc_10280100022_016_01
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyeOpen02
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,1.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,1.5
+
+l2dmessage,エミリー,And... this smell... It's making me feel really naughty.<br> ,,vc_10280100022_017_01
+
+
+message,,Perhaps it was that smell—Emily's expression grew more seductive.<br>The aroused man asked her to lick it.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen04
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.5
+
+l2dmessage,エミリー,Huh，you want me to lick this? Ehehe，I guess I have no choice.<br> ,,vc_10280100022_018_01
+
+l2dmotion,Scene06
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10280100022_006_01,1,on
+
+l2dmotion,EyeOpenReset
+
+
+l2dmotion,FaceAngleReset
+
+wait,1
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+asyncl2dmotion,EyeOpen01,on,STOP,4
+
+message,エミリー,Ahmph... mmm... I've got it in... Mmph... Uuhn...<br> ,,vc_10280100022_019_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+message,,Emily's small mouth eagerly took in the tip，her mouth now completely<br>filled with just his head.<br> 
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen03,on,STOP,3.5
+
+message,エミリー,Mmmph... Mmph... Ngh... *kiss*... *slurp，slurp，slurp*... Nuh，Uuhn...<br>*slurp*...<br> ,,vc_10280100022_020_01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,The man was completely captivated by Emily's cute face as she<br>eagerly sucked on the tip of his cock.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen03,on,STOP,2
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,2
+
+message,エミリー,D-don't look at me like that... It's embarrassing... mmm...<br> ,,vc_10280100022_021_01
+
+
+message,,Emily's face reddened as she kept his head in her mouth.<br>Her bashful reaction only excited the man further.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpen03,on,STOP,6
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6.1
+
+message,エミリー,Ngh... Mmph... Ngh... *slurp，slurp，slurp*... Mmph... mmm... *slurp*...<br>mmm... mmm...<br> ,,vc_10280100022_022_01
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,1
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,2
+
+message,,While sucking the head，she rocked her body up and down to<br>stimulate the shaft. The stimulation quickly brought the man to his peak.<br> 
+
+l2dmotion,Scene07
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10280100022_007_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen04,on,STOP,1
+
+message,エミリー,Mmph! Mmph... mmmm!<br> ,,vc_10280100022_023_01
+
+
+
+message,,Suddenly，a lot of semen spurted into her mouth，and Emily，<br>startled，pulled her mouth away from his cock.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen01
+
+message,,The thick，gooey semen covered Emily's face and chest. Still<br>stunned，she simply stood there，dazed，as it coated her.<br> 
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.4
+
+l2dmotion,FaceAngleReset
+
+asyncl2dmotion,FaceAngleTop,on,STOP,3
+
+asyncl2dmotion,MouthEmotion04,on,STOP,3
+
+l2dmessage,エミリー,Eek! Mmph... Aaah...! I-I'm sorry... I pulled my mouth away too<br>suddenly...<br> ,,vc_10280100022_024_01
+
+asyncl2dmotion,Scene08,on,STOP,1
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_8,bgv_10280100022_008_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmessage,エミリー,*phew*... Mmph... *pant*... Ehehe! You sure came a lot!♪<br> ,,vc_10280100022_025_01
+
+
+message,,Even while drenched in the man's thick semen，Emily looked happy.<br> 
+
+asyncl2dmotion,FaceAngleTop,on,STOP,1
+
+
+message,,Looking embarrassed，the man honestly confessed that he had been<br>saving it up for today.<br> 
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen01,on,STOP,3.1
+
+l2dmessage,エミリー,You saved it up just for today? I see，you were really looking forward<br>to it that much!<br> ,,vc_10280100022_026_01
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3.5
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,4
+
+l2dmessage,エミリー,In that case... we still have time... do you think you can go for<br>another round?<br> ,,vc_10280100022_027_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,At Emily's smile，the man nodded again and again.<br> 
+
+l2dmotion,FaceEmotion00
+
+asyncl2dmotion,FaceAngleRight,on,STOP,1.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,1.5
+
+l2dmotion,EyebrowEmotion00
+
+l2dmessage,エミリー,Thank you very much! Additional order coming right up!♡<br> ,,vc_10280100022_028_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,1
+
+message,,Emily beamed with a cheerful，innocent smile.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

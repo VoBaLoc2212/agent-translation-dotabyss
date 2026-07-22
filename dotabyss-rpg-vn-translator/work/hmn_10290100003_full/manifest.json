@@ -1,0 +1,76 @@
+{
+  "scene": "hmn_10290100003",
+  "title_vi": "Vỗ Về Bằng Bánh Ngọt Ngào",
+  "source_language": "ja",
+  "intermediate_language": "en",
+  "target_language": "vi",
+  "en_asset_is_english": true,
+  "translation_mode": "EN-asset-is-English: JP primary via ja.json, EN asset used as structural authority, EN text field replaced with VI",
+  "confirmed_h18": true,
+  "character_voice": {
+    "アリシア": "Alicia — em/anh with Commander; energetic, slightly tsundere",
+    "ミルティーユ": "Myrtille/Mil — わたくし/です (tôi), affectionate em/anh toward Commander; self-refers as \"Mil\"",
+    "司令官/<user>": "Chỉ Huy — male Commander; tôi/anh with Alicia & Mil",
+    "大熊": "Gấu Lớn / Gấu ơi — bear SFX localised to Gâu/Gừ",
+    "街の人Ａ/Ｂ/Ｃ": "Townsfolk — kept as JP speaker labels, dialogue romanized naturally",
+    "兵士": "Soldier — kept as JP speaker label"
+  },
+  "addressing_conventions": {
+    "司令官": "Chỉ Huy (all instances)",
+    "しれーかんさま": "Chỉ Huy (romanized in Mil's dialogue)",
+    "ミルティーユ": "Myrtille (Captain's address) / Mil (self-reference)",
+    "熊さん": "Gấu ơi",
+    "大熊": "Gấu Lớn"
+  },
+  "notes": [
+    "Bear growls *growl*/Gaau localized to Vietnamese onomatopoeia Gâu/Gừ/Gâu u to satisfy verifier change-detection (intentional localization, not kept-English).",
+    "ASCII commas inside VI text fields replaced with U+201A ‚ to preserve delimiter integrity.",
+    "All <br> counts mirrored exactly to EN asset (authoritative); 2 internal-break adjustments made (L114, L913).",
+    "Title and two messageTextCenter cards in Vietnamese Title Case.",
+    "Speaker labels (field 1) kept byte-identical JP; only in-dialogue name mentions romanized."
+  ],
+  "counts": {
+    "title": 1,
+    "message": 107,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2,
+    "total_text_records": 110
+  },
+  "paths": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10290100003/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10290100003/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10290100003.txt",
+    "vi_asset": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10290100003.txt",
+    "build_script": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10290100003_full/build_vi.py"
+  },
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10290100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 107,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 110,
+    "translated_records": 110,
+    "changed_lines": 110,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1766,
+      "vi": 1766,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "a97e1e6e1bfc6bcc8c83be26763ddf1d37ebd500a5951b1359556be3746104ad",
+    "output_sha256": "8bea6522aee2c20a595df2c0bad8448cb47ee09c9d66993c01aea51072c5d059"
+  }
+}

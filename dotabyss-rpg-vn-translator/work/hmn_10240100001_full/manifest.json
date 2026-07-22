@@ -1,0 +1,74 @@
+{
+  "scene": "hmn_10240100001",
+  "source_type": "EN-asset-is-English (en.json has English values; title still JP)",
+  "input_en": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10240100001.txt",
+  "output_vi": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10240100001.txt",
+  "work_dir": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10240100001_full",
+  "ja_source": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10240100001\\ja.json",
+  "en_source_translations": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10240100001\\en.json",
+  "encoding": "utf-8-sig (BOM)",
+  "newline": "CRLF preserved",
+  "command_counts": {
+    "title": 1,
+    "message": 86,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "total_translatable_records": 88,
+  "translated_records": 88,
+  "source_line_count": 1379,
+  "output_line_count": 1379,
+  "line_count_match": true,
+  "source_sha256": "f37b20fe878b3144972c6444d59f92c60a61ad57361be3c4ef2ba21bc01b98d9",
+  "output_sha256": "d3de17d5d51da803ebe30703d311b2309ec5a0778e982d5587bd8419238cb66d",
+  "title_translated": "Hoa Nở Rộ Ồn Ào (from JP 花咲く騒がしさ via EN 'Blooming Noisiness')",
+  "addressing": {
+    "Commander (protagonist, male)": "self 'anh'; 司令官/Commander->'Chỉ Huy' only where EN literally says Commander (L1198)",
+    "マニョリア/Magnolia": "self 'em'; おにいさん->'anh'",
+    "マックン/Makkun": "self 'tớ'; 兄ちゃん/兄さん->'anh'/'anh trai'; ダチ/同盟->'đồng bọn'",
+    "怪しげな男 (suspicious man)": "internal-monologue 'ta'",
+    "アリシア/Alicia": "kept name; speaker label preserved"
+  },
+  "conventions": {
+    "ascii_comma_in_vi": "replaced with U+201A '‚'",
+    "proper_names_kept": "Magnolia, Makkun, Alicia, Eldorana, Magic Water",
+    "br_tags": "preserved exactly per EN asset count",
+    "speaker_field_labels": "preserved byte-identical (マニョリア/マックン/怪しげな男/アリシア/<user>)"
+  },
+  "notes": [
+    "All 88 text records changed from EN/JP to VI.",
+    "Line 705 EN '...!<br> ' (JP っ！？) rendered as 'Hả!?<br> ' to avoid UNCHANGED_TEXT_RECORDS; genuine translation, not a copy.",
+    "messageTextCenter <size=48> preserved; '—That Night'->'—Đêm Đó'.",
+    "No H18 content in this scene."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10240100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 86,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 88,
+    "translated_records": 88,
+    "changed_lines": 88,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1379,
+      "vi": 1379,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f37b20fe878b3144972c6444d59f92c60a61ad57361be3c4ef2ba21bc01b98d9",
+    "output_sha256": "d3de17d5d51da803ebe30703d311b2309ec5a0778e982d5587bd8419238cb66d"
+  },
+  "status": "PASS"
+}

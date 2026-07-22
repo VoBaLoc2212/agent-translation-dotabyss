@@ -1,0 +1,57 @@
+{
+  "scene": "hmn_10260100002",
+  "task": "JP->VI translation of Dot Abyss asset (Sylvia melting-ice first-meeting scene)",
+  "sources": {
+    "ja": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10260100002/ja.json",
+    "en": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10260100002/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10260100002.txt"
+  },
+  "output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10260100002.txt",
+  "case": "EN-asset-is-English (en.json non-empty English); JP primary via ja.json, EN asset = structural authority",
+  "alignment": "index-aligned: 72 asset text records (title+message+messageTextCenter) == 72 ja.json entries in order",
+  "structure": {
+    "line_count": 953,
+    "bom": true,
+    "crlf": true,
+    "delimiter": "ASCII comma; in-text commas -> U+201A"
+  },
+  "candidate_counts": {
+    "title": 1,
+    "message": 70,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "generator": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10260100002_full/build.py (field-index rebuild, split(',',5)/split(',',1), <br> guard, BOM+CRLF preserved)",
+  "translations": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10260100002_full/translations_vi.py",
+  "independent_verify": {
+    "scene": "hmn_10260100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 70,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 72,
+    "translated_records": 72,
+    "changed_lines": 72,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 952,
+      "vi": 952,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "b50fc164fd665011d2640a1ac8b1c27bcfd1ea3192ef68f1384f9eb12a995ec1",
+    "output_sha256": "a04cfd7f224f65f69ccd2877b827e7208f017b3617ac10c6c03f04456aabe0ab"
+  },
+  "verifier_invocation": "python dotabyss-rpg-vn-translator/work/verify_asset_translation.py --root E:/AgentTranslation hmn_10260100002",
+  "status": "PASS"
+}

@@ -1,0 +1,368 @@
+sr:"^([\S\s]+)の日常その①$"=$1's Daily Life Part 1
+sr:"^([\S\s]+)の日常その②$"=$1's Daily Life Part 2
+sr:"^([\S\s]+)の日常その③$"=$1's Daily Life Part 3
+
+BOND STORY
+Sylvia
+孤独な少女に足りないもの=What the Lonely Girl Lacks
+溶け出す氷=Thawing Ice
+氷の世界の少女=The Girl in the World of Ice
+提案カード名=Suggested Card Name
+こんな遊戯は破廉恥ですわ！=Such Games Are Indecent!
+わたくしを見てほしいですわ=I Want You to Notice Me
+ちょっと気持ち悪いですわ……=I'm Feeling a Bit Unwell...
+
+Shiraes
+白銀のエルフ・シラエス=Shiraes, the Silver Elf
+キラキラとした彼らと共に=With Those Who Shine
+シラエスママの失態=Mama Shiraes' Blunder
+特別な好き=A Special Kind of Love
+自分だけしか知らない彼女の姿=The Side of Her Only I Know
+慈愛のエルフ=The Benevolent Elf
+
+Aisha
+あいつはオレが使役してやる！=I'll Make That One Serve Me!
+司令官！　さぁ、勝負だ！=Commander! Bring It On!
+人間より強くて賢くてえらい！=<cspace\=-0.05em>Stronger, Smarter, and Greater Than Humans!
+なんちゃって夢魔=Wannabe Succubus
+人間どもを使役してやる！=I'll Make All You Humans Serve Me!
+
+Kureha
+旦那様のことを愛しています=I Love You, Master
+旦那様と仲を深めるために=To Grow Closer to Master
+司令官様と添い遂げたいです=I Want to Spend My Life with You
+据え膳食わぬは男の恥=A Man Shouldn't Refuse
+愛する旦那様のために……=For My Beloved Master...
+お淑やかなご奉仕=Graceful Devotion
+
+Hinagi
+ホウライから来た陰陽師=Onmyoji from Hourai
+縁結びのおまじない=Matchmaking Charm
+英雄の血が持つ気の流れ=The Flow of Qi Within Heroic Blood
+摩臍過気の法=The Art of Manseikaki
+龍脈を持つ者=One Who Bears Dragon Veins
+邪気の残響を追え=Follow the Echoes of Malice
+
+Veera
+久しぶり、お姉ちゃん=It's Been a While, Oneechan
+ありがとう、お姉ちゃん=Thanks, Oneechan
+すごいね、お姉ちゃん=You're Amazing, Oneechan
+秘めたる才能=Hidden Talent
+ヴィーラお姉ちゃんの筆下ろし=Veera Oneechan's First Brushstroke
+譲れない気持ち=Feelings I Can't Let Go Of
+
+Magnolia
+花咲く騒がしさ=The Bustle of Blooming Flowers
+特別なお友達=A Special Friend
+森のお姫様=Princess of the Forest
+おにいさんと仲良くなりたい=I Want to Get Closer to Big Brother
+お口で許してください？=Will You Forgive Me with My Mouth?
+
+Verisa
+火もつけられないのぉ〜？=Can't Even Start a Fire~?
+ぜっっったいに負けない！=No Waaay I'm Losing!
+あたしが勝ったじゃないっ！！=See? I Won!!
+わからせ執行=Correction Time
+初めての夜=The First Night
+ベリサの初出勤=Verisa's First Shift
+
+Hatsune
+道場破りはちびっこ剣士？=The Dojo Challenger Is a Little Swordsman?
+道しるべを追って=Following the Guideposts
+恩義と忠義のありか=Where Gratitude and Loyalty Lie
+あたしは子どもじゃない！=I'm Not a Kid!
+司令官しかいないから=Because There's Only You, Commander
+太ももコキのプロ=The Thighjob Professional
+
+Wendy
+ウェンディの新しい職場=Wendy's New Workplace
+ウェンディと魔法使い達=Wendy and the Mages
+ウェンディの火中の活躍=Wendy in the Line of Fire
+壊れてしまったかもしれません=I May Be Broken
+胸（特殊魔導炉）が高鳴ります=My Core (Special Mana Reactor) Is Racing
+わたしがお相手を務めます=I Shall Be Your Partner
+
+Honoka
+ホノカ語を解読せよ！！=Decipher Honoka-ese!!
+暮らしは順風満帆……？=Smooth Sailing... Or Is It?
+えっちを教えて！=Teach Me About Sex!
+犬っ子鍛冶師・ホノカ！=Honoka the Dog-Girl Blacksmith!
+気持ち良くしてあげるぞ！=I'll Make You Feel Good!
+気持ちいいところを教えて！=Tell Me What Feels Good!
+
+Levienne
+最高の夜にしましょうっ！=Let's Make It a Night to Remember!
+技術だけじゃ足りないの=Technique Alone Isn't Enough
+エルドラーナで一番の踊り子！=Eldrana's Greatest Dancer!
+彼女のダンスに足りないもの=What's Missing from Her Dance?
+テクニックを磨いて女を磨く=Refine Your Technique, Refine Yourself
+レッスンの成果を試す時=Time to Put the Lessons to the Test
+
+Nina
+怒りに身を任せて=Consumed by Anger
+ゴブリン達の襲来=The Goblin Invasion
+ペルディオンから来たメイド=The Maid from Perdion
+悪戯はやめてください御主人様=Please Stop Teasing Me, Master
+ご奉仕させてください御主人様=Please Allow Me to Serve You, Master
+ハーブティーが思い出させた事=What the Herbal Tea Brought Back
+
+Film
+調査せよ！　幽霊騒動！=Investigate! The Ghostly Disturbance!
+怪奇！　前線基地の心霊現象！=<line-height\=60%><cspace\=-0.05em>Mystery! Paranormal Activity at the Frontline Base!</cspace></line-height>
+恐怖！　ポルターガイスト！=Terror! Poltergeist!
+あなたの手を取って=Taking Your Hand
+心を繋げて=Hearts Connected
+憧れの人はあなた=You Are the One I Admire
+
+Hailey
+我が暗黒に飲まれて眠れ！=Sleep, Consumed by My Darkness!
+きょ、今日はいい天気ですね！=I-It's Nice Weather Today, Isn't It?
+闇の女王たる我に続けーっ！=Follow Me, for I Am the Queen of Darkness!
+運命の鎖に繋がれた関係=Bound by the Chains of Fate
+素直になれなくて=Unable to Be Honest
+
+Margaret
+神の教えで救済したいのです=I Wish to Bring Salvation Through God's Teachings
+神の教えを説いただけですよ=I Merely Preached God's Teachings
+あなたは神の御使いなのです=You Are God's Messenger
+神の面前で=In the Presence of God
+隣人を愛せよ=Love Thy Neighbor
+
+Iola
+いけー！　あたしの火炎魔法！=Go! My Fire Magic!
+勉強は真面目にやりたいの=I Want to Take My Studies Seriously
+魔法使いはかわいくてモテるから=Mages Are Cute and Popular
+先生との研修=Training with My Teacher
+ちょっと強引なお客さん=A Rather Pushy Customer
+
+Carla
+これは制服ですっ！=This Is a Uniform!
+死と隣り合わせの厳しい訓練=Grueling Training on the Brink of Death
+結成！　セクハラ撃滅烈士隊！=Formed! The Anti-Harassment Task Force!
+手配書の海賊を追って=In Pursuit of the Wanted Pirate
+沿岸警備の日焼け跡=Coast Guard Tanlines
+
+Marina
+オークション開催！=Auction Time!
+ただ入札しているだけです♪=I'm Just Bidding♪
+これがお金の正しい使い道=The Right Way to Spend Money
+美味しすぎる特典に惹かれて=Drawn by the Irresistible Perks
+二足の草鞋で稼ぎましょうっ！=Let's Earn a Living on Two Fronts!
+\\missing lv15 bond scene
+
+Kururu
+森で育ったクルル=Kururu of the Forest
+セイカリオンの鉱脈を求めて=In Search of Seikalion Ore
+クルルとハチミツ=Kururu and Honey
+ご主人さまの『しっぽ』=Master's "Tail"
+クルルにまかせて！=Leave It to Kururu!
+\\missing lv15 bond scene
+
+Gemma
+傷つき、色あせ、輝いて=Scarred, Faded, Yet Still Shining
+小さな体とたくさんの歴史=A Small Body, a Long History
+遠い日の贈りもの=A Gift from Days Long Past
+長寿な彼女は経験豊富……？=A Long Life Means Plenty of Experience...?
+最強の娼婦『J』=the Strongest Courtesan "J"
+
+Lime
+副官はわたくしなのに！=But I'm the Adjutant!
+副官の座は絶対に渡さない！=I Won't Give Up My Position as Adjutant!
+レイゼリア様の副官ライムです=I'm Lady Razelia's Adjutant, Lime
+お堅い彼女との酔いどれエッチ=Drunken Lovemaking with a Prim Lady
+２度目の初体験=A Second First Time
+
+Rosa
+お困りと聞いて参上しました！=I Heard You Needed Help!
+どうすればいいんでしょうっ=What Should I Do?!
+それがわたしの騎士道です！=That Is My Chivalry!
+忠誠と愛を捧ぐ=Offering Loyalty and Love
+主に重ねて=In My Lord's Image
+
+Ayame
+本当の笑顔で=With a Genuine Smile
+殺すべきではありませんか？=Shouldn't We Kill It?
+事務員を志望しています=Aspiring Office Clerk
+従順な元殺し屋と=With the Obedient Former Assassin
+元殺し屋のスキル=Skills of a Former Assassin
+
+Emelda
+本社復帰は間違いなし♪=A Return to Headquarters Is Assured♪
+新聞記者、エメルダと申します=I'm Emelda, Newspaper Reporter
+絶対絶命のエメルダ=Emelda in Dire Straits
+Mの本能=An M's Instinct
+最高の記事を書いてみせます！=I'll Write the Greatest Story!
+
+Dahlia
+採掘家の怪しい秘密=The Miner's Suspicious Secret
+謎多きダリアの噂=Rumors Surrounding Dahlia
+元盗賊の隠しごと=A Former Thief's Secret
+口下手彼女の素直な気持ち=The True Feelings of a Shy Girl
+新たな性の目覚め=A New Sexual Awakening
+
+Himari
+頭を狙って撃つ=Aim for the Head
+前線基地の風景=Scenes from the Frontline Base
+ヒマリとクルル=Himari and Kururu
+不器用で、愛らしいご奉仕=Clumsy Yet Endearing Service
+勇気を振り絞って=Summoning Her Courage
+芽吹き始める自信=Confidence Begins to Bloom
+
+Elmia
+堅物エルフの用心棒=The Straight-Laced Elf Bodyguard
+エルミアの弓と聖剣奪還作戦=Operation: Recover Elmia's Bow and Holy Sword
+岩を撃ち抜く決意の矢=The Arrow of Determination
+エルフの刺激的な人間観察=An Elf's Fascinating Study of Humans
+何だかドキドキする=My Heart's Racing
+
+Xiaolei
+少女はパンダと旅をする=A Girl's Journey with a Panda
+不器用なオーバーパワー=Clumsy Overwhelming Power
+それは壊せない想い=Feelings That Cannot Be Broken
+先生の役目=A Teacher's Duty
+シャオレイのお礼の仕方=How Xiaolei Shows Her Gratitude
+
+Steela
+夜だけ開いてる魔石細工店=<cspace\=-0.1em>The Magic Gem Workshop That Opens Only at Night</cspace>
+たった１人の大切なお友達=One Precious Friend
+ブローチ捜索隊の結成=The Brooch Search Party
+怪しい光の魔石細工=Mysterious Glowing Gemcraft
+コミュ障克服大作戦=Operation: Overcome Social Anxiety!
+
+Freya
+敵前逃亡なんて騎士の恥です！=Running from the Enemy Is a Knight's Shame!
+子ども扱いはやめてください！=Please Stop Treating Me Like a Child!
+正義のために戦いたいんです！=I Want to Fight for Justice!
+ショーカンで修行を積めば……=If I Train at Shokan...
+本で見知った過激プレイ=Extreme Play Learned from Books
+
+Betty
+くすんだ石ころ=A Tarnished Stone
+工兵隊員ベティ=Sapper Betty
+小さな工兵隊長=The Little Sapper Captain
+わたしではダメでしょうかっ=Would I Not Do?
+どうしても恥ずかしくって……=It's Just So Embarrassing...
+
+Celeste
+強盗をやらかしたのはお前だな=So You're the One Behind the Robbery
+ぜーんぶ、司令官のせいよ！！=This Is All the Commander's Fault!!
+懸賞金の分け前が減っちゃう！=My Share of the Bounty Will Shrink!
+お灸を据えに=Time for a Lesson
+やる気のない接客=Half-Hearted Customer Service
+
+Teru
+助け、助けられて=Helping and Being Helped
+がんばりすぎは禁物=Don't Push Yourself Too Hard
+テルーはみんなの人気者=Teru, Everyone's Favorite
+ラッキースケベのその先=Beyond a Lucky Perv Moment
+テルーママとの癒しのひと時=A Soothing Moment with Mama Teru
+
+Merem
+ようこそ、メレムの占い館へ=Welcome to Merem's Fortune-Telling Parlor
+占いに導かれし者たちの試練=Trials of Those Guided by Fate
+占い師が導く運命の分かれ道=The Fortune Teller's Crossroads of Fate
+忘れたい過去=A Past Best Forgotten
+新たな占い方法=A New Method of Divination
+
+Shannon
+暗殺のターゲットは司令官さ=The Commander Is My Target
+グッバイ、司令官=Goodbye, Commander
+借りを返しただけだ=Just Returning the Favor
+私の後ろに立たないで=Don't Stand Behind Me
+ルディアさんの頼み事=Ludia's Request
+
+Noemi
+い、１杯ぐらいなら大丈夫です=I-I'm Sure One Drink Is Fine
+本当に治療が必要なんですか？=Do You Really Need Treatment?
+あなたは私が治します=I'll Be the One to Heal You
+\\missing bond scenes
+
+Rita
+わたしの憧れの司令官さま=The Commander I Admire
+本当に失礼で無礼な方！=What an Incredibly Rude Person!
+お優しくて勇敢で立派な御方！=A Kind, Brave, and Noble Person!
+黄色い花に御注意！=Beware the Yellow Flowers!
+司令官さまのお役に立ちたくて=I Want to Be of Service to the Commander
+
+Yachiyo
+これから大雨が降りますから！=Heavy Rain Is on the Way!
+……龍神さま、お願いします！=...Dragon God, Please!
+龍神さまのご加護です！=The Dragon God's Blessing!
+大人の階段=The Stairway to Adulthood
+ヤチヨお姉さんの筆下ろし=Big Sis Yachiyo's First Time
+
+Luca
+世界一の格闘家になるんだから=I'm Going to Be the World's Greatest Fighter!
+次は負けないから！=I Won't Lose Next Time!
+さいきょーの２人だもん！=We're the Strongest Duo!
+酒場の２階は戦いの舞台=The Tavern's Second Floor Arena
+予想外の奇襲攻撃=An Unexpected Ambush
+
+Chloe
+ファンサが手厚すぎるぅ……！=The Fanservice Is Too Good...!
+騎士活♪ゴーゴーレッツゴー！=Knighting♪ Go, Go, Let's Go!
+騎士活ってダメなことですか？=Is Knighting Really So Bad?
+推し活資金が足りなくて=I'm Short on Oshi Funds
+騎士活界隈の姫=The Princess of the Knighting Scene
+
+Feilin
+腕とか足はとれやすいけど=My Arms and Legs Come Off Easily, Though
+生きがいを見つけた気分です♪=I Feel Like I've Found My Purpose♪ 
+生き返っちゃいそうです！=I Feel Like I Could Come Back to Life!
+秘伝の技で精気注入=Infusing Vitality with a Secret Technique
+あの時とは何かが違う=Something Is Different This Time
+
+Etia
+あなたを信じて引き金を=Trusting You, I Pull the Trigger
+全ては偶然で――？=Was It All Just a Coincidence?
+ダメダメなんです！=I'm Hopeless!
+魔法の首輪に勇気をもらって=Finding Courage in a Magic Collar
+もっと上手になりたくて=Wanting to Get Better
+\\missing lv15 bond
+
+Electra
+ご命令のままに、ご主人様=As You Command, Master
+官能小説とフレーム問題=Erotic Novels and the Frame Problem
+命令と感情とプログラムと=Commands, Emotions, and Programs
+発情モード、起動=Heat Mode Activated
+超高性能セクサロイド対超性豪=<cspace\=-0.1em><line-height\=60%>Ultra-High-Performance Sexaroid vs. Legendary Womanizer</line-height></cspace>
+//missing lv15 bond
+
+Wisteria
+頼ってもいいのかもしれない=Maybe I Can Rely on You
+ズボンの前はしまっているか？=Is Your Fly Zipped Up?
+直視できるわけがないだろう！=There's No Way I Can Look Directly at It!
+夢の再現=Recreating a Dream
+妖艶なる戯れ=A Seductive Game
+//missing lv15 bond
+
+Myrtille
+美味しそうに食べてくれてるよ=You're Enjoying It So Much
+お菓子の国のパティシエとして=As a Pastry Chef of the Sweets Kingdom
+甘い甘いスイーツで癒やします=Healing Through Sweet Treats
+ミルに教えてくれませんか～？=Could You Tell Myrt~?
+マシュマロにシロップかけて♡=Syrup on Marshmallows♡
+//missing lv15 bond
+
+Emily
+波音に再会を誓って=Vowing to Meet the Waves Again
+てんちょーを探せ！=Find the Manager!
+波音の思い出=Memories of the Waves
+２階で研修してください=Training on the Second Floor
+あたしのおっぱいどうですか？=What Do You Think of My Breasts?
+//missing lv15 bond
+
+Humena
+水の精霊パワー！=Power of the Water Spirit!
+ヒュメナ逃走中！！=Humena on the Run!!
+一世一代の大芝居=The Performance of a Lifetime
+人間の交尾って？=What Is Human Mating?
+私が癒やしてあげる♡=Let Me Heal You♡
+//missing lv15 bond
+
+Cheryl
+撃たれたい人からどうぞ=Step right up if you want to get shot
+仕事なんてクソくらえだー！=To hell with work!
+両手を上にあげてくれませんか=Could you raise both hands?
+濡れた彼女との一夜=One Night with a Wet Beauty
+媚薬にはご注意を=Beware of Aphrodisiacs

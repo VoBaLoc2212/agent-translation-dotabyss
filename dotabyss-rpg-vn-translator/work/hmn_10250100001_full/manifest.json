@@ -1,0 +1,97 @@
+{
+  "scene": "hmn_10250100001",
+  "title": "Nơi Làm Việc Mới Của Wendy",
+  "title_en": "Wendy's New Workplace",
+  "source_case": "EN-asset-is-English (en.json holds English values; asset text fields are English)",
+  "jp_primary_source": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10250100001/ja.json",
+  "en_source": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10250100001/en.json",
+  "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10250100001.txt",
+  "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10250100001.txt",
+  "build_script": "E:/AgentTranslation/dotabyss-translation-main/work/hmn_10250100001_build.py",
+  "verifier": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/verify_asset_translation.py",
+  "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10250100001_full",
+  "candidate_counts": {
+    "title": 1,
+    "message": 65,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "text_command_counts": {
+    "title": 1,
+    "message": 65,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 66,
+  "translated_records": 66,
+  "characters": {
+    "ウェンディ (chara_1, Wendy)": {
+      "self": "em (わたし)",
+      "refers_commander": "Chỉ Huy",
+      "refers_crowd": "mọi người",
+      "refers_father": "cha",
+      "notes": "automaton (ô-tô-mát), female, addresses male worker as 'anh'"
+    },
+    "作業員/市民（男） (chara_2, Worker)": {
+      "self": "anh (male citizen)",
+      "refers_wendy": "Wendy ơi (diminutive -chan localized to ơi)",
+      "notes": "worker/citizen (male); no given name, speaker-label kept verbatim"
+    },
+    "ベリサ (chara_3, Verisa)": {
+      "self": "em (あたし)",
+      "calls_sister": "chị (お姉ちゃん)",
+      "refers_commander": "Chỉ Huy (司令官さま)",
+      "refers_wendy": "Wendy ơi",
+      "notes": "older sister of Veera; request to be called 'Verisa'"
+    },
+    "ヴィーラ (chara_4, Veera)": {
+      "self": "em (わたし)",
+      "calls_sister": "chị (お姉ちゃん)",
+      "refers_commander": "Chỉ Huy (司令官さま)",
+      "notes": "mage from Perdion (ペルディオン → Perdion, kept romanized)"
+    }
+  },
+  "terminology": {
+    "司令官/コマンダー": "Chỉ Huy",
+    "前線基地": "Căn Cứ Tiền Tuyến",
+    "大穴": "Đại Huyệt",
+    "オートマタ": "ô-tô-mát",
+    "魔法使い": "pháp sư",
+    "ペルディオン": "Perdion (romanized, proper noun)",
+    "鉱石/鉱床": "quặng / mỏ quặng",
+    "奴隷": "nô lệ"
+  },
+  "ascii_comma_rule": "All ASCII commas inside Vietnamese text fields replaced with U+201A (‚); delimiter commas between fields untouched.",
+  "br_special_note": "Line 407 (Verisa): EN asset has exactly one <br> (trailing suffix only) while ja.json had an internal <br>. EN asset is the structural authority, so VI matches EN <br> count (1); internal break dropped.",
+  "notes": "Wendy/Verisa/Veera are female (em); the male worker (作業員) uses anh toward Wendy. No H18 content in this scene. Speaker-name fields (ウェンディ, 作業員, ベリサ, ヴィーラ) kept byte-identical per rules; in-dialogue name mentions romanized (Wendy, Veera, Verisa) consistent with shipped VI convention.",
+  "independent_verify": {
+    "scene": "hmn_10250100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 65,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 66,
+    "translated_records": 66,
+    "changed_lines": 66,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1021,
+      "vi": 1021,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "e217105d17b6bcd81a16be1470fd53a01eaaf3035200ee5533df8bc487ef1424",
+    "output_sha256": "714b8cf5f3b69d4dbf03c25eeb5786d141b3befc3dfaef82d313c96683bdad7b"
+  },
+  "status": "PASS"
+}

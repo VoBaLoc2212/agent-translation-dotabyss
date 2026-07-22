@@ -1,0 +1,1097 @@
+{
+  "scene": "hmn_10020100002",
+  "source_paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10020100002\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10020100002\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10020100002.txt"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10020100002.txt",
+  "artifact_paths": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10020100002_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10020100002_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10020100002_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10020100002_full\\generate_vi.py"
+  },
+  "source": {
+    "sha256": "9998564d2bb18ae6b858322db1bd6d60020c845659651c716f8a466e526d048d",
+    "bytes": 42681,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 2048
+  },
+  "output": {
+    "sha256": "d64ee511afff8ef51a53805ce0e6f650189c305eda4c780b0cfc5056d21b5d3d",
+    "bytes": 44560,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 2048
+  },
+  "counts": {
+    "source_lines": 2048,
+    "output_lines": 2048,
+    "candidate_text_records": 105,
+    "translated_records": 105,
+    "record_types": {
+      "title": 1,
+      "message": 104
+    },
+    "kept_english_count": 0
+  },
+  "novel_pair_counts": {
+    "ja_json_pairs": 105,
+    "en_json_pairs": 105
+  },
+  "qa_status": "PASS",
+  "entries": [
+    {
+      "ordinal": 1,
+      "line": 20,
+      "command": "title",
+      "speaker_or_field": "Title",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Title",
+      "vi": "Tiêu Đề"
+    },
+    {
+      "ordinal": 2,
+      "line": 60,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "The time has finally come，A-del-heid!<br> ",
+      "vi": "Cuối cùng thời khắc này cũng đến rồi nhỉ〜 Adelheid!<br> "
+    },
+    {
+      "ordinal": 3,
+      "line": 67,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "On the honor of Perdion's mage，Verisa-chan! I will never，ever lose<br>to the likes of you!<br> ",
+      "vi": "Nhân danh danh dự của pháp sư Perdion Verisa đây! Mình tuyệt đối<br>sẽ không bao giờ thua loại như cô đâu!<br> "
+    },
+    {
+      "ordinal": 4,
+      "line": 116,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Um... I'm not quite following what you're saying...<br> ",
+      "vi": "Ưm... em không hiểu rõ chuyện này lắm...<br> "
+    },
+    {
+      "ordinal": 5,
+      "line": 125,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "S-stop that! Quit bringing your arms forward! It emphasizes them，<br>doesn't it? That unnecessarily ample chest of yours!<br> ",
+      "vi": "D-dừng lại đó! Đừng đưa tay ra trước nữa! Như thế sẽ làm nổi bật<br>lên đấy chứ!? Cái bộ ngực đầy đặn vô ích của cô ấy!<br> "
+    },
+    {
+      "ordinal": 6,
+      "line": 136,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Huh...!<br> ",
+      "vi": "Ơ...!?<br> "
+    },
+    {
+      "ordinal": 7,
+      "line": 138,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Don't mind her. It's a wonderful stance that really brings out<br>Adelheid's charm.<br> ",
+      "vi": "Đừng để ý. Đó là tư thế rất tuyệt làm tôn lên<br>sức hút của Adelheid.<br> "
+    },
+    {
+      "ordinal": 8,
+      "line": 184,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Big bro，whose side are you on anyway?!<br> ",
+      "vi": "Anh ơi rốt cuộc anh đứng về phe nào vậy?!<br> "
+    },
+    {
+      "ordinal": 9,
+      "line": 186,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Side? More importantly，what's the contest? If it's about chest size，<br>there's no comparison.<br> ",
+      "vi": "Phe nào chứ? Quan trọng hơn là thi đấu kiểu gì vậy? Nếu là kích cỡ ngực<br>thì khỏi cần so cũng biết rồi.<br> "
+    },
+    {
+      "ordinal": 10,
+      "line": 193,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "That's not the point! This is a duel to prove that Verisa-chan's magic<br>will absolutely never lose to the power of science!<br> ",
+      "vi": "Không liên quan! Đây là trận quyết đấu để chứng minh rằng ma pháp của<br>Verisa đây tuyệt đối không thua sức mạnh khoa học!<br> "
+    },
+    {
+      "ordinal": 11,
+      "line": 195,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Oh，you mean that time you got schooled. Instead of warming food，<br>you turned it to charcoal.<br> ",
+      "vi": "À ra là vụ em bị dạy cho biết lần trước. Thay vì hâm nóng đồ ăn<br>em lại biến nó thành than luôn nhỉ.<br> "
+    },
+    {
+      "ordinal": 12,
+      "line": 206,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I so didn't get schooled! I just made a minor mistake with the flame<br>control! If we fought for real，magic would be a hundred times stronger than some science!<br> ",
+      "vi": "Em đâu có bị dạy cho biết gì đâu! Chỉ lỡ chỉnh lửa sai một chút thôi! Nếu chiến đấu thật<br>thì ma pháp mạnh gấp trăm lần thứ khoa học gì đó nhé!<br> "
+    },
+    {
+      "ordinal": 13,
+      "line": 208,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hah... this is silly，but I'm a bit interested. The performance<br>difference between science and magic，huh?<br> ",
+      "vi": "Hừm... nghe nhảm thật nhưng anh cũng hơi hứng thú. Chênh lệch tính năng<br>giữa khoa học và ma pháp à.<br> "
+    },
+    {
+      "ordinal": 14,
+      "line": 261,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "See! Even big bro says so! He knows full well that Verisa-chan is<br>right!♡<br> ",
+      "vi": "Thấy chưa! Anh ơi cũng nói vậy mà! Anh ấy hiểu rất rõ<br>Verisa đây mới là người đúng nhỉ!♡<br> "
+    },
+    {
+      "ordinal": 15,
+      "line": 273,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "A competition between science and magic? But I don't have many<br>offensive tools right now. I imagine I'd be no match for you，Verisa...<br> ",
+      "vi": "Thi đấu giữa khoa học và ma pháp ạ? Nhưng hiện giờ em không có nhiều<br>dụng cụ tấn công. Chắc em không thể sánh với cô đâu Verisa...<br> "
+    },
+    {
+      "ordinal": 16,
+      "line": 275,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What Verisa got schooled by was a microwave，not weapons. Aren't<br>there any other similar appliances?<br> ",
+      "vi": "Thứ dạy cho Verisa biết không phải vũ khí mà là lò vi sóng. Không có<br>dụng cụ nào tương tự khác sao?<br> "
+    },
+    {
+      "ordinal": 17,
+      "line": 286,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Convenient tools? Well，there are a few...<br> ",
+      "vi": "Dụng cụ tiện lợi ạ? Nếu vậy thì có vài món...<br> "
+    },
+    {
+      "ordinal": 18,
+      "line": 297,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Then let's settle it with those! Whoever can fulfill big bro's request<br>first wins!<br> ",
+      "vi": "Vậy dùng mấy thứ đó để phân thắng bại! Ai đáp ứng yêu cầu của anh ơi<br>nhanh hơn thì thắng!<br> "
+    },
+    {
+      "ordinal": 19,
+      "line": 308,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "U-understood. If you'll have me，I'll gladly be your opponent!<br> ",
+      "vi": "V-vâng. Nếu là em thì em xin được làm đối thủ của cô!<br> "
+    },
+    {
+      "ordinal": 20,
+      "line": 319,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Come on，big bro! Make a request! Verisa-chan will grant it right<br>away，not some science stuff!♡<br> ",
+      "vi": "Nào anh ơi! Thử ước gì đó đi! Verisa đây sẽ thực hiện ngay<br>chứ không cần thứ khoa học gì đâu!♡<br> "
+    },
+    {
+      "ordinal": 21,
+      "line": 321,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Let's see... for starters，I'm thirsty. I could go for a cold drink.<br> ",
+      "vi": "Để xem... trước mắt thì anh thấy khát. Anh muốn một thức uống lạnh.<br> "
+    },
+    {
+      "ordinal": 22,
+      "line": 368,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Okay! Leave it to me!♪ I'll bring you a drink from the tavern with my<br>magic right now!<br> ",
+      "vi": "OK! Cứ để em!♪ Em sẽ dùng ma pháp mang đồ uống từ quán rượu về<br>ngay bây giờ!<br> "
+    },
+    {
+      "ordinal": 23,
+      "line": 437,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "... Running speed has nothing to do with magic，you know. So what<br>about Adelheid?<br> ",
+      "vi": "...Tốc độ chạy thì liên quan gì đến ma pháp chứ. Vậy còn<br>Adelheid thì sao?<br> "
+    },
+    {
+      "ordinal": 24,
+      "line": 480,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Um，well then，with this...<br> ",
+      "vi": "Ừm‚ vậy thì dùng cái này...<br> "
+    },
+    {
+      "ordinal": 25,
+      "line": 534,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I brought it! Fufun!♪ No matter how convenient science is，looks like<br>it couldn't keep up with me，huh!☆<br> ",
+      "vi": "Em mang về rồi đây! Hừ hừ!♪ Dù khoa học có tiện lợi đến mấy thì xem ra<br>cũng không theo kịp em nhỉ!☆<br> "
+    },
+    {
+      "ordinal": 26,
+      "line": 537,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "*gulp*... *phew*! You sure took your time，Verisa.<br> ",
+      "vi": "Ực... phù! Em chậm quá đấy Verisa.<br> "
+    },
+    {
+      "ordinal": 27,
+      "line": 556,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Whaaaat?! Mister?! How do you already have a drink?! And it looks<br>ice-cold too!<br> ",
+      "vi": "Cáiiii gì!? Anh ơi!? Sao anh đã có đồ uống rồi!? Mà nhìn<br>lạnh buốt nữa chứ!<br> "
+    },
+    {
+      "ordinal": 28,
+      "line": 610,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Well，this is a tool called a refrigerator. It keeps the air cold inside<br>at all times.<br> ",
+      "vi": "À‚ đây là dụng cụ gọi là tủ lạnh. Nó luôn giữ không khí bên trong<br>ở trạng thái lạnh.<br> "
+    },
+    {
+      "ordinal": 29,
+      "line": 612,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Who knew you could get a cold drink without even leaving the room.<br>Not bad，science. I like it.<br> ",
+      "vi": "Không ngờ có thể lấy đồ uống lạnh mà chẳng cần ra khỏi phòng.<br>Khá lắm khoa học. Không tệ đâu.<br> "
+    },
+    {
+      "ordinal": 30,
+      "line": 658,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ughhhhh! Th-that's just because you happened to have such a handy<br>machine，right?! Coincidence，all coincidence!<br> ",
+      "vi": "Ưưưưưư〜〜〜! Ch-chỉ là tình cờ<br>có cái máy tiện lợi như thế thôi đúng không!? Ngẫu nhiên thôi ngẫu nhiên!<br> "
+    },
+    {
+      "ordinal": 31,
+      "line": 669,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Next! Round two! Come on，Mister! What do you want me to do this<br>time?!<br> ",
+      "vi": "Tiếp! Vòng tiếp theo! Nào anh ơi! Lần này anh muốn em làm<br>cái-gì đây?<br> "
+    },
+    {
+      "ordinal": 32,
+      "line": 715,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hmm... Adelheid，this room seems a bit messy，doesn't it?<br> ",
+      "vi": "Để xem... Adelheid‚ căn phòng này hình như hơi bừa bộn nhỉ?<br> "
+    },
+    {
+      "ordinal": 33,
+      "line": 726,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I'm embarrassed to say. I've been so absorbed in my research that<br>I've neglected cleaning...<br> ",
+      "vi": "Em xấu hổ quá. Em mải mê nghiên cứu nên<br>lơ là việc dọn dẹp...<br> "
+    },
+    {
+      "ordinal": 34,
+      "line": 728,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Then my wish is to have this room cleaned. Get on with it，Verisa.<br> ",
+      "vi": "Vậy mong muốn của anh là dọn sạch căn phòng này. Làm nhanh đi Verisa.<br> "
+    },
+    {
+      "ordinal": 35,
+      "line": 774,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "H-hey! Mister，are you trying to use this competition to make me do<br>your chores?!<br> ",
+      "vi": "K-khoan đã!? Anh ơi‚ vừa rồi... anh đang lợi dụng cuộc thi<br>để bắt em làm việc vặt phải không!?<br> "
+    },
+    {
+      "ordinal": 36,
+      "line": 776,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Not at all? C'mon，you'll lose to science if you don't hurry up，won't<br>you?<br> ",
+      "vi": "Không hề đâu nhé?<br>Nào‚ không nhanh lên là em sẽ thua khoa học đấy?<br> "
+    },
+    {
+      "ordinal": 37,
+      "line": 795,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ughhh... fine! I'll go get the cleaning supplies right away!<br> ",
+      "vi": "Ưưư〜... hết cách rồi! Em sẽ đi lấy dụng cụ dọn dẹp ngay đây!<br> "
+    },
+    {
+      "ordinal": 38,
+      "line": 851,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I got the broom and dustpan! These are magic-infused，super-amazing<br>tools，you know!♡<br> ",
+      "vi": "Em mang chổi với hót rác tới rồi đây! Đây là những dụng cụ siêu xịn<br>được yểm ma pháp đó nhé!♡<br> "
+    },
+    {
+      "ordinal": 39,
+      "line": 859,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "You were slow again，Verisa.<br> ",
+      "vi": "Lại chậm rồi Verisa.<br> "
+    },
+    {
+      "ordinal": 40,
+      "line": 913,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Um，I've almost finished cleaning the floor.<br> ",
+      "vi": "Ừm‚ em gần như đã dọn xong sàn rồi.<br> "
+    },
+    {
+      "ordinal": 41,
+      "line": 924,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Wha-what?! Why?! How is it already finished?!<br> ",
+      "vi": "C-cái gì thế!? Tại sao đã xong rồi chứ!?<br> "
+    },
+    {
+      "ordinal": 42,
+      "line": 934,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "This is a machine called a fully automatic vacuum cleaner. It moves<br>around the room and sucks up dust.<br> ",
+      "vi": "Đây là máy hút bụi hoàn toàn tự động. Nó tự di chuyển<br>khắp phòng và hút bụi giúp mình.<br> "
+    },
+    {
+      "ordinal": 43,
+      "line": 936,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "A machine that moves around on its own and cleans，huh. So Lux Nova<br>even has things like that.<br> ",
+      "vi": "Một cỗ máy tự di chuyển và dọn dẹp à. Lux Nova<br>còn có cả thứ như thế cơ đấy.<br> "
+    },
+    {
+      "ordinal": 44,
+      "line": 945,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "No way... you're kidding me...<br> ",
+      "vi": "...Không thể nào... cô đùa em à...<br> "
+    },
+    {
+      "ordinal": 45,
+      "line": 948,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "So，does your broom move on its own?<br> ",
+      "vi": "Vậy cây chổi của em có tự động di chuyển không?<br> "
+    },
+    {
+      "ordinal": 46,
+      "line": 995,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Of course it doesn't! B-but，but! When you sweep like this，see? It's<br>enchanted with magic that makes the dust gather more easily!<br> ",
+      "vi": "Làm gì có chuyện đó! N-nhưng mà! Khi quét như thế này thấy không? Nó<br>được yểm ma pháp giúp bụi dễ gom lại hơn!<br> "
+    },
+    {
+      "ordinal": 47,
+      "line": 1070,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Compared to an automatic vacuum cleaner，it's no different from a<br>regular broom.<br> ",
+      "vi": "So với máy hút bụi tự động thì chẳng khác gì<br>cây chổi bình thường cả.<br> "
+    },
+    {
+      "ordinal": 48,
+      "line": 1117,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ughhh! I went to all the trouble to bring it，and...! Sure，that thing<br>does look convenient，but...!<br> ",
+      "vi": "Ưưư! Em vất vả lắm mới mang nó tới mà...! Đúng là cái thứ đó<br>trông có vẻ tiện thật nhưng...!<br> "
+    },
+    {
+      "ordinal": 49,
+      "line": 1119,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Looks like you've been completely shown up.<br> ",
+      "vi": "Xem ra em đã bị dạy cho biết hoàn toàn rồi nhỉ.<br> "
+    },
+    {
+      "ordinal": 50,
+      "line": 1128,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "N-not yet! Verisa hasn't lost at all! I haven't been put in my place!<br> ",
+      "vi": "V-vẫn chưa đâu! Verisa tuyệt đối chưa thua! Em đâu có bị cho biết gì hết!<br> "
+    },
+    {
+      "ordinal": 51,
+      "line": 1137,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "A-anything else!? Mister! Don't you have any other requests!? This<br>time Verisa is going to win!<br> ",
+      "vi": "C-còn gì nữa không!? Anh ơi! Anh không có yêu cầu nào khác sao!? Lần<br>này Verisa sẽ thắng cho xem!<br> "
+    },
+    {
+      "ordinal": 52,
+      "line": 1139,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hmm. Then I guess I'll come up with a somewhat reasonable request.<br> ",
+      "vi": "Hừm. Vậy anh thử đưa ra một yêu cầu đàng hoàng hơn chút vậy.<br> "
+    },
+    {
+      "ordinal": 53,
+      "line": 1150,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What do you mean，'somewhat'! Weren't my requests until now<br>reasonable!?<br> ",
+      "vi": "Ý anh là sao “hơn chút”!? Những yêu cầu tới giờ<br>không đàng hoàng sao!?<br> "
+    },
+    {
+      "ordinal": 54,
+      "line": 1152,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Okay，listen. What's a bit of a pain is giving orders to my<br>subordinates.<br> ",
+      "vi": "Thôi nghe này. Điều khiến anh thấy hơi phiền là ra lệnh<br>cho cấp dưới.<br> "
+    },
+    {
+      "ordinal": 55,
+      "line": 1154,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Briefing a large group means lots of order sheets. Can you two use<br>magic or science to save me the trouble?<br> ",
+      "vi": "Khi truyền đạt tác chiến cho số đông cần rất nhiều mệnh lệnh thư. Hai em dùng<br>ma pháp hay khoa học cũng được để bớt công cho anh nhé?<br> "
+    },
+    {
+      "ordinal": 56,
+      "line": 1165,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Then，with my magic，I'll write huge letters in the sky with fire...<br> ",
+      "vi": "Vậy bằng ma pháp của em‚ em sẽ viết chữ thật lớn trên trời bằng lửa...<br> "
+    },
+    {
+      "ordinal": 57,
+      "line": 1167,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "And then rain fire down on the ground. Are you trying to wipe out our<br>allies before the operation even starts?<br> ",
+      "vi": "Rồi mưa lửa sẽ rơi xuống mặt đất. Em định tiêu diệt đồng minh<br>trước cả khi chiến dịch bắt đầu à?<br> "
+    },
+    {
+      "ordinal": 58,
+      "line": 1178,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ah... th-then I'll write it on the ground! That would be fine，right?<br> ",
+      "vi": "À... v-vậy em viết xuống đất là được chứ gì!? Như thế thì ổn mà đúng không?<br> "
+    },
+    {
+      "ordinal": 59,
+      "line": 1182,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I can only see a future where this place burns to the ground. Denied，<br>denied.<br> ",
+      "vi": "Anh chỉ thấy tương lai nơi này cháy rụi thôi. Bác bỏ<br>bác bỏ.<br> "
+    },
+    {
+      "ordinal": 60,
+      "line": 1235,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Um... how about this? It is a machine called a printer that prints text<br>on paper.<br> ",
+      "vi": "Ưm... vậy cái này thì sao ạ? Đây là một cỗ máy gọi là máy in<br>dùng để in chữ lên giấy.<br> "
+    },
+    {
+      "ordinal": 61,
+      "line": 1246,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "One of its functions is a copy feature that reproduces documents<br>nearly exactly.<br> ",
+      "vi": "Một trong các chức năng của nó là sao chép tài liệu<br>gần như nguyên dạng.<br> "
+    },
+    {
+      "ordinal": 62,
+      "line": 1266,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Huh? That easily? And you're telling me that's just one thing—there<br>are other uses too?<br> ",
+      "vi": "Hả!? Dễ vậy sao!? Mà cô nói chỉ là một chức năng nghĩa là<br>còn cách dùng khác nữa à?<br> "
+    },
+    {
+      "ordinal": 63,
+      "line": 1277,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Besides that，you can prepare documents without having to write<br>them by hand，and you can also print highly detailed images.<br> ",
+      "vi": "Ngoài ra nó có thể chuẩn bị tài liệu mà không cần tự tay viết<br>và cũng có thể in hình ảnh độ chính xác cao.<br> "
+    },
+    {
+      "ordinal": 64,
+      "line": 1286,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "J-just this one can do all that?<br> ",
+      "vi": "C-chỉ cái này mà làm được tới mức đó sao?<br> "
+    },
+    {
+      "ordinal": 65,
+      "line": 1288,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "That's a pretty sophisticated machine. Can you do the same with<br>magic，Verisa?<br> ",
+      "vi": "Một cỗ máy khá đa năng đấy. Em có làm được điều tương tự bằng<br>ma pháp không Verisa?<br> "
+    },
+    {
+      "ordinal": 66,
+      "line": 1299,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "L-like I could ever do that! Don't mess with me! Aaaahh! Geez! What<br>the hell even is science!<br> ",
+      "vi": "L-làm sao mà được chứ!? Đừng đùa với em! Aaaaa! Trời ơi! Khoa học<br>rốt cuộc là cái quái gì vậy!<br> "
+    },
+    {
+      "ordinal": 67,
+      "line": 1310,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Science is by no means all-powerful，but it does generally cover the<br>functions people need，so...<br> ",
+      "vi": "Khoa học không hẳn là vạn năng nhưng nhìn chung nó bao quát<br>những chức năng con người cần nên...<br> "
+    },
+    {
+      "ordinal": 68,
+      "line": 1323,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hey，this printer thing has stopped. What's wrong? Only two sheets<br>have come out.<br> ",
+      "vi": "Này‚ cái máy in gì đó dừng rồi. Sao vậy? Mới có hai tờ<br>được in ra thôi mà.<br> "
+    },
+    {
+      "ordinal": 69,
+      "line": 1335,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Um... ah，it's out of ink. This machine requires a specific kind of ink，<br>but I don't have a spare...<br> ",
+      "vi": "Ừm... à‚ hết mực rồi. Cỗ máy này cần loại mực chuyên dụng<br>nhưng em không có dự phòng...<br> "
+    },
+    {
+      "ordinal": 70,
+      "line": 1337,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "So it's out of commission. Too bad.<br> ",
+      "vi": "Vậy là không dùng được nữa à. Tiếc thật.<br> "
+    },
+    {
+      "ordinal": 71,
+      "line": 1383,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Wha—? ...T-that's right! This means...!♡<br> ",
+      "vi": "Hả—? ...Đ-đúng rồi! Nếu vậy thì...!♡<br> "
+    },
+    {
+      "ordinal": 72,
+      "line": 1395,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hey hey，Mister!♡ Aren't you starting to feel a little tired by now?<br> ",
+      "vi": "Này này anh ơi!♡ Có phải anh bắt đầu thấy hơi mệt rồi không nào?<br> "
+    },
+    {
+      "ordinal": 73,
+      "line": 1397,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What's this all of a sudden? I'm getting mentally exhausted from this<br>stupid contest，though.<br> ",
+      "vi": "Đột nhiên sao vậy? Đúng là anh thấy mệt tinh thần vì<br>cuộc đấu nhảm nhí này rồi.<br> "
+    },
+    {
+      "ordinal": 74,
+      "line": 1416,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ugh... r-right! Then how about... maybe you'd want to take a bath or<br>something?<br> ",
+      "vi": "Ưư... v-vậy à! Thế thì... chẳng hạn... anh có muốn đi tắm<br>một chút không?<br> "
+    },
+    {
+      "ordinal": 75,
+      "line": 1418,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "I wouldn't say I'm opposed to it...<br> ",
+      "vi": "Cũng không hẳn là anh không muốn...<br> "
+    },
+    {
+      "ordinal": 76,
+      "line": 1429,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "You do，right? You do? Then! The next challenge is... a bath-heating<br>contest!<br> ",
+      "vi": "Anh muốn đúng không!? Đúng không!? Vậy thì! Thử thách tiếp theo là...<br>thi đun nước tắm!<br> "
+    },
+    {
+      "ordinal": 77,
+      "line": 1440,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Science can do that much，can't it?<br> ",
+      "vi": "Nếu là khoa học thì dĩ nhiên làm được cỡ đó nhỉ?<br> "
+    },
+    {
+      "ordinal": 78,
+      "line": 1493,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Yes，there is a device called a boiler that can heat water using a<br>burner.<br> ",
+      "vi": "Vâng‚ có một thiết bị gọi là nồi hơi có thể dùng đầu đốt<br>để làm nóng nước.<br> "
+    },
+    {
+      "ordinal": 79,
+      "line": 1495,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "A bath-heating contest，huh... Are you sure about that? If you lose，<br>you'll lose your pride as a fire mage.<br> ",
+      "vi": "Thi đun nước tắm à... em chắc chứ? Nếu thua thì<br>mất mặt pháp sư lửa lắm đấy.<br> "
+    },
+    {
+      "ordinal": 80,
+      "line": 1541,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "As if I could lose! Just watch me，Mister!<br> ",
+      "vi": "Đời nào em thua! Anh cứ nhìn cho kỹ nhé anh ơi!<br> "
+    },
+    {
+      "ordinal": 81,
+      "line": 1567,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What's up，Verisa? The water's getting a little lukewarm.<br> ",
+      "vi": "Sao thế Verisa? Nước bắt đầu hơi nguội rồi đấy.<br> "
+    },
+    {
+      "ordinal": 82,
+      "line": 1605,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Th-that's not it! Since you've been inside so long，I deliberately made<br>it lukewarm!♡ It's called being thoughtful!♪<br> ",
+      "vi": "K-không phải đâu!? Vì anh ngâm lâu quá nên em cố ý<br>làm nước ấm dịu lại đó!♡ Cái đó gọi là chu đáo!♪<br> "
+    },
+    {
+      "ordinal": 83,
+      "line": 1607,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Oh-ho，your kind of 'consideration，' huh? Seems like Adelheid's is<br>always at the right temperature，though?<br> ",
+      "vi": "Ồ‚ kiểu chu đáo của em à? Phía Adelheid thì hình như<br>lúc nào cũng đúng nhiệt độ đấy?<br> "
+    },
+    {
+      "ordinal": 84,
+      "line": 1659,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Yes. The heat output is constant.<br> ",
+      "vi": "Vâng. Vì công suất nhiệt ổn định ạ.<br> "
+    },
+    {
+      "ordinal": 85,
+      "line": 1670,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Grrrr... but still，it's gotta be any moment now...!<br> ",
+      "vi": "Gừừừ... nhưng mà chắc sắp tới rồi...!<br> "
+    },
+    {
+      "ordinal": 86,
+      "line": 1701,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Hmm，the boiler or whatever stopped. What's wrong? A malfunction?<br> ",
+      "vi": "Hừm‚ cái nồi hơi gì đó dừng rồi. Sao vậy? Trục trặc à?<br> "
+    },
+    {
+      "ordinal": 87,
+      "line": 1749,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "That can't be... Ah... maybe it's out of gas?<br> ",
+      "vi": "Không thể nào... À... chẳng lẽ là hết gas...?<br> "
+    },
+    {
+      "ordinal": 88,
+      "line": 1751,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Doesn't that thing work on ambient magic alone?<br> ",
+      "vi": "Thứ đó không chạy chỉ bằng ma lực trong không khí sao?<br> "
+    },
+    {
+      "ordinal": 89,
+      "line": 1763,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Correct. It burns a special combustible gas.<br> ",
+      "vi": "Vâng. Nó đốt một loại gas dễ cháy chuyên dụng.<br> "
+    },
+    {
+      "ordinal": 90,
+      "line": 1765,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "So it's like a magic stone. Once that's used up，you can't produce<br>fire.<br> ",
+      "vi": "Giống như ma thạch à. Dùng hết nó thì không tạo ra<br>lửa được nữa nhỉ.<br> "
+    },
+    {
+      "ordinal": 91,
+      "line": 1767,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "...So this is what you were aiming for，Verisa.<br> ",
+      "vi": "...Đây là điều em nhắm tới à Verisa.<br> "
+    },
+    {
+      "ordinal": 92,
+      "line": 1815,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Fufuuun!♪ What do you think，Mister?♡ That's Lux Nova science for<br>you!♪ No matter how convenient it looks，a tool's just a tool!<br> ",
+      "vi": "Hừ hừ!♪ Thấy sao hả anh ơi?♡ Khoa học Lux Nova<br>chỉ đến thế thôi!♪ Dù trông tiện lợi thì công cụ vẫn chỉ là công cụ!<br> "
+    },
+    {
+      "ordinal": 93,
+      "line": 1826,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Sure，I might've thought it was a bit appealing at first，but that's all<br>there is to it! What Mister needs is a girl like Verisa!♡<br> ",
+      "vi": "Ban đầu có thể hơi hấp dẫn thật nhưng rốt cuộc cũng chỉ vậy thôi!<br>Anh ơi cần một cô gái như Verisa đây cơ!♡<br> "
+    },
+    {
+      "ordinal": 94,
+      "line": 1846,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "After all，compared to science... my magic is... way...<br> ",
+      "vi": "Quả nhiên so với khoa học... ma pháp của em... vẫn hơn...<br> "
+    },
+    {
+      "ordinal": 95,
+      "line": 1880,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What? What's wrong，Verisa!<br> ",
+      "vi": "!? Sao vậy Verisa!<br> "
+    },
+    {
+      "ordinal": 96,
+      "line": 1917,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ugh... Ngh...<br> ",
+      "vi": "Ư... ưư...<br> "
+    },
+    {
+      "ordinal": 97,
+      "line": 1922,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "...She just passed out from mana depletion. Honestly，don't scare me<br>like that.<br> ",
+      "vi": "...Chỉ là em ấy ngất vì cạn ma lực thôi. Thật tình‚ đừng làm anh<br>giật mình như thế chứ.<br> "
+    },
+    {
+      "ordinal": 98,
+      "line": 1962,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "But Verisa is impressive. Even though I had properly filled the gas...<br> ",
+      "vi": "Nhưng cô Verisa giỏi thật đấy. Dù em đã nạp gas đầy đủ...<br> "
+    },
+    {
+      "ordinal": 99,
+      "line": 1964,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "What's the point of being stubborn over something like that? We can<br>just leave her over there.<br> ",
+      "vi": "Cố chấp ở chỗ đó thì được gì chứ? Cứ để em ấy nằm<br>ở kia cũng được.<br> "
+    },
+    {
+      "ordinal": 100,
+      "line": 1975,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "...Are you sure about that? Verisa worked hard because she wanted<br>you to praise her，you know?<br> ",
+      "vi": "...Thật sự được sao ạ? Cô Verisa đã cố gắng vì muốn<br>được anh khen đấy?<br> "
+    },
+    {
+      "ordinal": 101,
+      "line": 1977,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Tch... Fine，fine，I'll carry her.<br> ",
+      "vi": "Chậc... Được rồi được rồi‚ anh sẽ bế em ấy đi.<br> "
+    },
+    {
+      "ordinal": 102,
+      "line": 1988,
+      "command": "message",
+      "speaker_or_field": "アーデルハイト",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Fufufu. Please take care of her.<br> ",
+      "vi": "Fufufu. Nhờ anh chăm sóc cô ấy nhé.<br> "
+    },
+    {
+      "ordinal": 103,
+      "line": 2030,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Mister... mmm... my win!♡<br> ",
+      "vi": "Anh ơi... ưm... em... thắng rồi...♡<br> "
+    },
+    {
+      "ordinal": 104,
+      "line": 2032,
+      "command": "message",
+      "speaker_or_field": "<user>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Yeah，yeah. You did good.<br> ",
+      "vi": "Ừ ừ. Em đã làm rất tốt rồi.<br> "
+    },
+    {
+      "ordinal": 105,
+      "line": 2039,
+      "command": "message",
+      "speaker_or_field": "ベリサ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "en_asset": "Ehehe!♡<br> ",
+      "vi": "Ehehe...♡<br> "
+    }
+  ]
+}

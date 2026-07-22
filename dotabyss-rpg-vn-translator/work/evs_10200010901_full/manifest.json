@@ -1,0 +1,50 @@
+{
+  "scene": "evs_10200010901",
+  "timestamp": "2026-07-19T15:57:14+07:00",
+  "status": "BLOCKED_MISSING_SOURCE",
+  "requested_paths": {
+    "ja_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200010901/ja.json",
+    "en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200010901/en.json",
+    "en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/evs_10200010901.txt",
+    "vi_output": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/evs_10200010901.txt"
+  },
+  "source_discovery": {
+    "found_ja_json": false,
+    "found_en_json": false,
+    "found_en_asset": false,
+    "searched_patterns": [
+      "/e/AgentTranslation -name '*10200010901*'",
+      "/c/Users/asaga and /e -path '*/evs_10200010901*'"
+    ],
+    "nearest_available_scenes": [
+      "evs_10200010101",
+      "evs_10200010201",
+      "evs_10200010301",
+      "evs_10200010401",
+      "evs_10200010501",
+      "evs_10200010601",
+      "evs_10200010701",
+      "evs_10200010801",
+      "evs_10200020101"
+    ]
+  },
+  "counts": {
+    "source_line_count": null,
+    "output_line_count": null,
+    "candidate_text_commands": {
+      "title": 0,
+      "message": 0,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translated_records": 0
+  },
+  "qa_status": "FAIL",
+  "blockers": [
+    "JP novel source ja.json is missing.",
+    "EN novel source en.json is missing.",
+    "EN asset source evs_10200010901.txt is missing."
+  ],
+  "output_written": false,
+  "note": "No VI asset was created because creating an empty or guessed output would violate the Dot Abyss pipeline."
+}

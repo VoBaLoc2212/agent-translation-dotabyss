@@ -1,0 +1,39 @@
+﻿誘いの森林=Rừng Cám Dỗ
+帰らずの森=Rừng Không Lối Về
+水晶の洞穴=Hang Động Pha Lê
+氷霧の平原=<size\=90%>Bình Nguyên Sương Giá
+氷晶の原野=Cánh Đồng Băng Tinh
+雪啼きの岩床=Đáy Đá Tuyết Than
+零度の封域=<line-height\=70%>Vực Phong Ấn\nKhông Độ
+噴煙の山峯=Đỉnh Khói Phụt
+火口洞穴=Hang Động\nMiệng Núi Lửa
+灼熱の岩窟=Động Lửa Thiêng
+溶岩河川=<size\=90%>Dòng Sông Dung Nham
+地殻の裂け目=Vết Nứt Lớp Vỏ
+昏迷の砂丘=Cồn Cát Mê Loạn
+枯渇平原=Bình Nguyên Khô Cằn
+異形の叢=Bụi Rậm Dị Thường
+魔の森=Khu Rừng Ác Ý
+飢餓の丘陵=Ngọn Đồi Đói Khát
+未知の建築群=Quần Thể Kiến Trúc\nVô Danh
+廃墟都市=Thành Phố Đổ Nát
+崩れた摩天楼=Tòa Nhà Chọc Trời\nSụp Đổ
+栄華の残滓=Dấu Tích Vinh Quang
+喪われし日常=Cuộc Sống Thường Ngày Bị Đánh Mất
+光差す庭園=Khu Vườn Ngập Nắng
+空中都市=Thành Phố Trên Không
+天上の箱庭=Khu Vườn Nhỏ\nTrên Trời
+遥けき理想郷=Vùng Đất Lý Tưởng\nXa Xăm
+黄昏の回廊=<size\=90%>Hành Lang Chạng Vạng
+木漏れ日の小径=Con Đường Xuyên Ánh Nắng
+鉱脈への道=Con Đường Đến Mạch Khoáng
+路なき雪原=Cánh Đồng Tuyết Không Lối
+
+Both files have been fully read and compared. Here is the analysis:
+
+**EN file**: 30 Japanese keys (lines 1-30, line 31 is empty)
+**VI file**: 30 Japanese keys (lines 1-30, line 31 is empty)
+
+After comparing the Japanese keys from both files, **all 30 keys already exist in the Vietnamese translation file**. There are no missing keys to translate.
+
+No output is needed -- the VI file is already complete for this chapter areas file.

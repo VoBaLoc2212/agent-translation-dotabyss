@@ -1,0 +1,622 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+l2dshow,l2d_10320100012
+
+charaload,chara_1,103201000X,ダリア
+
+adultui,on
+
+uivisible,on
+fade,In,Black,1.5
+bgmplay,bgmtag2_1,bgm0029,1.5
+
+
+
+
+
+window,on,0.15
+message,,The dim lighting of the private room in the brothel illuminated Daria's<br>nude body.<br> 
+
+bgvplay,bgvtag2_1,bgv_10320100012_001_01,1
+
+message,,Her beautiful face was right in front of me，close enough for our<br>breaths to mingle. My heart naturally began to race.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.5
+
+message,,Embarrassed，I asked if I should sit up since our faces were too<br>close—<br> 
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,4
+
+
+l2dmessage,ダリア,...I'm fine like this.<br> ,,vc_10320100012_001_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Daria remained still，staring at me with her large eyes. I asked her if<br>she needed me specifically as her training partner.<br> 
+
+l2dmotion,FaceAngleBottomRight
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7.3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7.3
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7.3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7.3
+
+l2dmessage,ダリア,...I want to work at the brothel，but I'm a virgin. I was thinking I'd like<br>you to be my first，Boss.<br> ,,vc_10320100012_002_01
+
+l2dmotion,MouthEmotionReset
+
+message,,At her words，which were practically a confession，I squeezed her<br>hand. Then I brought my erect cock to Daria's pussy.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene02
+
+bgvplay,bgvtag2_2,bgv_10320100012_002_01,1,on
+
+wait,2.5
+
+l2dmessage,ダリア,...mmm...<br> ,,vc_10320100012_003_01
+
+message,,Slipping in just the tip，a sweet sound escaped her. The squelchy，<br>soaked feel of her pussy against my cock head made me gasp.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+l2dmessage,ダリア,... mmm ... *huff* ... *pant* ... I'm ... sorry ... Even though it's my first<br>time，I'm so wet ...<br> ,,vc_10320100012_004_01
+
+message,,Daria，usually cool and reserved，seemed genuinely embarrassed. Her<br>eyes wavered and she looked away，her voice trembling slightly.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionTop
+
+
+asyncl2dmotion,FaceAngleRight,on,STOP,7.6
+
+asyncl2dmotion,EyeOpen00,on,STOP,7.6
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7.6
+
+l2dmessage,ダリア,Um... please don't think I'm a lewd woman... I'm just really，really<br>nervous...<br> ,,vc_10320100012_005_01
+
+message,,I told her straightforwardly that I was happy she was getting excited.<br>Her gaze began to wander again.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,4
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,8
+
+l2dmessage,ダリア,Um，well... please，hurry... I'll be fine...<br> ,,vc_10320100012_006_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,Though embarrassed，she eagerly anticipated what was to come—her<br>innocent reaction exhilarated me. I gave in and thrust my hips forward.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene03
+
+bgvplay,bgvtag2_3,bgv_10320100012_003_01,1,on
+
+wait,1.5
+
+l2dmessage,ダリア,Ah，Aaah... it's inside... Aah!<br> ,,vc_10320100012_007_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,7
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,7
+
+asyncl2dmotion,MouthEmotion05,on,STOP,7
+
+l2dmessage,ダリア,O-oh，Boss's length... it's so hot and big... Mmph! It's all in... right?<br> ,,vc_10320100012_008_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+message,,Both the entrance and depths were wet，so it slid in without<br>resistance. But concerned for Daria，a virgin，I asked if it hurt.<br> 
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,EyeOpen01,on,STOP,4.1
+
+l2dmessage,ダリア,Yes... even though it's my first time，it doesn't hurt...<br> ,,vc_10320100012_009_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,FaceAngleTop,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+l2dmessage,ダリア,Actually，it feels good... Aaah，*pant*... Even though you're just<br>inside me，it feels so good... Boss's length is amazing!♡<br> ,,vc_10320100012_010_01
+
+message,,Her voice was different from her usual quiet murmur—sultry. I<br>couldn't help muttering she had a cute voice.<br> 
+
+l2dmotion,FaceAngleReset
+
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene04
+
+bgvplay,bgvtag2_4,bgv_10320100012_004_01,1,on
+
+l2dmessage,ダリア,*pant*，*pant*... Cute? That's...<br> ,,vc_10320100012_011_01
+
+message,,Daria was looking away，but her pussy was clenching as if begging for<br>more pleasure. I whispered，'Will you let me hear more?'<br> 
+
+
+l2dmotion,EyeEmotionBottom
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,MouthEmotion05
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+l2dmessage,ダリア,Ahh... th-that's... well...<br> ,,vc_10320100012_012_01
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,ダリア,I want to let it out，but I can't... I don't know how... Ahh...<br> ,,vc_10320100012_013_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionTop
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,8.7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,8.7
+
+asyncl2dmotion,MouthEmotion05,on,STOP,8.7
+
+l2dmessage,ダリア,Well... if Boss's length digs inside me... then maybe it'll come out?<br> ,,vc_10320100012_014_01
+
+l2dmotion,MouthEmotionReset
+
+message,,Her voice sounded almost like a demand. Then，determined to make<br>her feel so good she'd moan，I put strength into my hips.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene05
+
+bgvplay,bgvtag2_5,bgv_10320100012_005_01,1,on
+
+wait,0.5
+
+l2dmotion,ExEmotion00
+
+l2dmessage,ダリア,*gasp*，Mmph! Aahn...! Ah! Th-this voice... is this really my voice?<br>Aah!<br> ,,vc_10320100012_015_01
+
+message,,High，breathless moans escaped Daria with each thrust. She was<br>feeling it，so I kept thrusting.<br> 
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,3
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotion03,on,STOP,3
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,6
+
+l2dmessage,ダリア,Ahh... B-Boss... *pant*，Mmph! If you thrust so hard，my voice...!<br>Aahn! A-and my naughty juices are spilling out... *gasp*，Ahn!<br> ,,vc_10320100012_016_01
+
+message,,She writhed，but I kept my rhythm. Pumping into her silken depths<br>felt too good，and I craved more of her moans.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotion02
+
+message,,I wanted her to moan more，to let me hear her cute voice. When I<br>pleaded like that，her pussy tightened with little squeezes.<br> 
+
+l2dmotion,FaceEmotion01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,MouthEmotion03,on,STOP,5
+
+l2dmessage,ダリア,S-such... embarrassing... Aaaah!<br> ,,vc_10320100012_017_01
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmessage,ダリア,Embarrassing but—never made sounds like this before! *sigh*，<br>*gasp*，when Boss thrusts into me，they just come out... Aahn!<br> ,,vc_10320100012_018_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion02
+
+
+asyncl2dmotion,FaceAngleReset,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+l2dmessage,ダリア,*gasp* Aaaahn! I can feel it clenching... I don't want to be separated<br>from Boss's length... so I'm squeezing it tight...!<br> ,,vc_10320100012_019_01
+
+l2dmotion,EyeOpenReset
+
+message,,Watching her endearing reaction made my heart swell. Unable to<br>resist，I pulled Daria's face，already so close，to mine.<br> 
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene06
+
+bgvplay,bgvtag2_6,bgv_10320100012_006_01,1,on
+
+l2dmotion,MouthEmotion06
+
+
+asyncl2dmotion,ExEmotionReset,on,STOP,1.1
+
+message,ダリア,*pant* Ah，mmm!♡ *slick*，*kiss*!♡<br> ,,vc_10320100012_020_01
+
+message,,It was a sudden kiss，but Daria didn't show any displeasure. Instead，<br>she pushed her tongue forward and intertwined it with mine.<br> 
+
+asyncl2dmotion,EyeOpen02,on,STOP,2
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,2
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+message,ダリア,Mmph!♡ *slurp*... B-Boss... Mmmph!♡ *lick*... *slurp*，*slick*... mmm，<br>*huff*.♡<br> ,,vc_10320100012_021_01
+
+message,,Locking eyes，we kept kissing deeply，as if we were exchanging each<br>other's saliva.<br> 
+
+message,,The taste of her flooding my mouth was exquisite. Her sweet scent<br>filled my chest，and a mind-melting pleasure slowly seeped through me.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,7
+
+message,ダリア,*slurp!♡ Boss，Boss... *pant，pant* *mwah*，*slurp*... kissing Boss is<br>so good... more!♡<br> ,,vc_10320100012_022_01
+
+l2dmotion,EyeOpenReset
+
+message,,Daria seemed to be drowning in the same melting pleasure. Her<br>shyness had vanished in the bliss，and now she was already begging for more.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotionReset
+
+message,ダリア,I love you!♡ Boss，I love you so much!♡<br> ,,vc_10320100012_023_01
+
+message,,Caught completely off guard by her sudden confession，I couldn't<br>help but widen my eyes in surprise.<br> 
+
+l2dmotion,EyeOpenReset
+
+message,ダリア,When you go deep inside me，it feels so good!♡ *mwah*，*lick*，<br>*lick*... Kissing while having sex makes me so happy!♡<br> ,,vc_10320100012_024_01
+
+l2dmotion,EyebrowEmotion02
+
+message,ダリア,Boss，my Boss... For now，you're my Boss alone... I love you!♡<br> ,,vc_10320100012_025_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Her intense confession of love made my desire for her skyrocket. My<br>cock jerked and throbbed，and I could no longer restrain myself.<br> 
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene07
+
+bgvplay,bgvtag2_7,bgv_10320100012_007_01,1,on
+
+message,ダリア,*pant*... Ah! *gasp* Aaaahn!♡<br> ,,vc_10320100012_026_01
+
+message,,I broke the kiss and drove into her，craving her wholly. My cockhead<br>pounded her depths with deep wet strokes.<br> 
+
+l2dmotion,FaceAngleTopRight
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,3
+
+l2dmessage,ダリア,Ah! Ah，ah!♡ B-Boss，it's amazing!♡ That's so amazing!♡<br> ,,vc_10320100012_027_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+
+asyncl2dmotion,EyebrowEmotion02,on,STOP,6
+
+l2dmessage,ダリア,Your length is so strong!♡ You're making my place all wet and<br>tender!♡ I love it... Boss. I love you!♡<br> ,,vc_10320100012_028_01
+
+message,,Daria gasped obscenely，saliva trailing from her lips. Without ever<br>taking my eyes off her，I told her I loved her.<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,6
+
+asyncl2dmotion,FaceEmotion00,on,STOP,6
+
+asyncl2dmotion,MouthEmotion03,on,STOP,6
+
+l2dmessage,ダリア,Aahn!♡ I love you too... I love you，I love you，I love you. I love you，<br>and I love having sex with you!♡<br> ,,vc_10320100012_029_01
+
+message,,Each time we said 'I love you'，her pussy clenched around my cock. I<br>kept driving in and out of her tightness，refusing to yield.<br> 
+
+l2dmotion,EyeOpen00
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion02
+
+l2dmessage,ダリア,Hiiin!♡ Your length is rubbing me so hard!♡<br> ,,vc_10320100012_030_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,,She was so adorably lost in pleasure that I ended up teasing her，'You<br>sure talk a lot when we're doing it.'<br> 
+
+l2dmotion,EyebrowEmotionReset
+
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1
+
+asyncl2dmotion,MouthEmotion03,on,STOP,1
+
+l2dmessage,ダリア,Mmph!♡ Don't say that... it's embarrassing... Aaaahn!♡<br> ,,vc_10320100012_031_01
+
+l2dmotion,MouthEmotionReset
+
+message,,It must've been like dirty talk，because her pussy clamped more. The<br>sensation built perfectly as my cum rose from deep inside me.<br> 
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,MouthEmotion01
+
+l2dmessage,ダリア,Mmm... Aaaah... Boss!♡ It's coming... I feel all floaty... I-I think I'm<br>going to fly away... Aahn!♡<br> ,,vc_10320100012_032_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+message,,It seemed she too was nearing climax. I pressed into the entrance to<br>her womb and asked if I could cum inside her.<br> 
+
+l2dmotion,FaceEmotion00
+
+
+l2dmessage,ダリア,Yes!♡ Give me more of you!♡<br> ,,vc_10320100012_033_01
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotion03
+
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+l2dmessage,ダリア,Ah! *gasp* Aaaahn! Boss! Just like that，inside me—come! Make me<br>come!♡<br> ,,vc_10320100012_034_01
+
+message,,Her womb's entrance suckled my cockhead while her insides writhed，<br>milking my shaft. Pleasure like lightning shot through me，and then—<br> 
+
+l2dmotion,MouthEmotionReset
+
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene08
+
+bgvplay,bgvtag2_8,bgv_10320100012_008_01,1,on
+
+l2dmessage,ダリア,Coming!♡ *pant* Aaaaaaah!♡<br> ,,vc_10320100012_035_01
+
+message,,I burst inside her，filling her womb with a massive load of semen.<br>Daria also came，arching her neck back，her body convulsing.<br> 
+
+l2dmotion,EyeOpen02
+
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,5
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,9
+
+l2dmessage,ダリア,Ah，*pant*!♡ Amazing... my body is shaking on its own... I can't stop...<br> ,,vc_10320100012_036_01
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotion05
+
+l2dmotion,EyeEmotionReset
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,2.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,2.5
+
+l2dmessage,ダリア,Boss... please... Just like this，deep inside... I want you to pour all<br>your hot stuff... mmm.♡<br> ,,vc_10320100012_037_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,ExEmotion00
+
+
+bgvstop,bgvtag2_8,0.2,1
+
+wait,0.2
+
+l2dmotion,Scene09
+
+bgvplay,bgvtag2_9,bgv_10320100012_009_01,1,on
+
+l2dmessage,ダリア,*pant*... *pant*... Ah，Aaah...<br> ,,vc_10320100012_038_01
+
+message,,When I kept pressing my crotch firmly against her as she begged，she<br>trembled happily again.<br> 
+
+message,,The afterglow faded; I regretted not taking better care of Daria，<br>caught in the excitement. Though late，I asked if she was in pain.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion03
+
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3
+
+asyncl2dmotion,MouthEmotion05,on,STOP,3
+
+l2dmessage,ダリア,*pant*... Ah... I-I am fine...<br> ,,vc_10320100012_039_01
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,3
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,3
+
+l2dmessage,ダリア,So... um... a little longer... I want to stay like this... Like this，still<br>connected...<br> ,,vc_10320100012_040_01
+
+l2dmotion,ExEmotionReset
+
+message,,Nodding，I firmly took her hand. Then Daria let out a satisfied sigh.<br> 
+
+bgvstop,bgvtag2_9,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+

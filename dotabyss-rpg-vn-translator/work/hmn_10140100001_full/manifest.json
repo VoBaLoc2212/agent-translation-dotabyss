@@ -1,0 +1,83 @@
+{
+  "scene": "hmn_10140100001",
+  "status": "PASS",
+  "created_at": "2026-07-19T10:29:13.740021+00:00",
+  "sources": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10140100001\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10140100001\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10140100001.txt"
+  },
+  "output": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10140100001.txt",
+  "artifacts": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100001_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100001_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100001_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100001_full\\generate_hmn_10140100001_vi.py",
+    "translations": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10140100001_full\\translations_vi.json"
+  },
+  "format": {
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1746,
+    "delimiter": "ASCII comma"
+  },
+  "hashes": {
+    "en_asset_sha256": "f478d1ee0e36fa87b2515723adf0f3adcacd339ae21af4fb6f75d91226b66c13",
+    "vi_asset_sha256": "a4ae49efa1279d22c8e81a158e4706075dfe1ef7f26f64f0825dde53aa3d6047",
+    "ja_json_sha256": "7911955c65d7135bc855f7d4348c922eddc956f767243805df06e344c25c039e",
+    "en_json_sha256": "4aedb5a19a711787289e362dd432dfad753fb74fe3e09c26d79128924d3ec017"
+  },
+  "counts": {
+    "candidate_text_records": 98,
+    "translated_records": 98,
+    "by_type": {
+      "title": 1,
+      "message": 95,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "ja_json_pairs": 98,
+    "en_json_pairs": 98
+  },
+  "alignment": "ordered JP/EN JSON pairs aligned to ordered EN asset text commands; JP primary; EN asset structural/tag authority",
+  "character_voice": {
+    "Pico": "playful isekai streamer; Pico/Pico-nyan self-branding; casual em–anh with Commander",
+    "Commander": "male Commander; 司令官/Commander -> Chỉ Huy",
+    "一般兵": "female soldier; Commander -> Chỉ Huy"
+  },
+  "blockers": [],
+  "notes": [
+    "All characters confirmed 18+ by project context; no H18 content in this scene.",
+    "ASCII commas inside VI text fields are forbidden; U+201A used where needed.",
+    "Title translated in Vietnamese Title Case."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10140100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 95,
+      "messageTextUnder": 0,
+      "messageTextCenter": 2
+    },
+    "translatable_records": 98,
+    "translated_records": 98,
+    "changed_lines": 98,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1746,
+      "vi": 1746,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "f478d1ee0e36fa87b2515723adf0f3adcacd339ae21af4fb6f75d91226b66c13",
+    "output_sha256": "a4ae49efa1279d22c8e81a158e4706075dfe1ef7f26f64f0825dde53aa3d6047"
+  }
+}

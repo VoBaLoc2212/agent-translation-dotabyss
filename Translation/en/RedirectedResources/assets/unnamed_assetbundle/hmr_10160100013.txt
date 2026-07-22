@@ -1,0 +1,96 @@
+﻿
+fade,Out,Black,0
+
+adultui,off
+
+bg,abg12100b,off
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+charaload,chara_1,101601000X,ウィステリア
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,1
+bgmplay,bgmtag3_1,bgm0025,1
+
+
+window,on,0.15
+message,<user>,How about it? No more dreams?<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag3_1,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,I'm not sure... Maybe I won't，but I might see something more real.<br> ,101601000X,vc_10160100013_001_01,chara_1
+
+message,,Her voice was composed，but Wisteria's cheeks were red with<br>embarrassment.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_2,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ウィステリア,...If I have another dream and desire overcomes me，may I come to<br>your room?<br> ,101601000X,vc_10160100013_002_01,chara_1
+
+message,<user>,Yeah，you're always welcome.<br> 
+
+message,,I welcomed such a wonderful night as often as she wanted，of course.<br>But after a brief pause，she murmured softly.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag3_3,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,...Next time，I'd like to try it in the forest too...<br> ,101601000X,vc_10160100013_003_01,chara_1
+
+message,<user>,...The forest? You mean，outside? Well，I don't mind，but...<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag3_4,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,ウィステリア,Then it's a promise...?<br> ,101601000X,vc_10160100013_004_01,chara_1
+
+message,,Wisteria smiled happily. I figured I'd be invited even if I didn't have a<br>dream.<br> 
+
+window,off
+bgmstop,bgmtag3_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

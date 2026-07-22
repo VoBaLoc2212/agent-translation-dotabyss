@@ -1,0 +1,63 @@
+{
+  "scene": "hmn_10240100002",
+  "title_vi": "Những Người Bạn Đặc Biệt",
+  "status": "PASS",
+  "source_condition": "EN-asset-is-English (message fields English; title field JP; speaker labels JP verbatim)",
+  "jp_primary_source": "dotabyss-translation-main/translations/novels/hmn_10240100002/ja.json",
+  "en_align_source": "dotabyss-translation-main/translations/novels/hmn_10240100002/en.json",
+  "structural_authority": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100002.txt",
+  "vi_output": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10240100002.txt",
+  "build_script": "work/hmn_10240100002_full/build_vi.py",
+  "text_command_counts": {
+    "title": 1,
+    "message": 88,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 89,
+  "translated_records": 89,
+  "rules_applied": {
+    "commander": "Không có 司令官 trong asset này; Commander/<user> gọi Magnolia bằng 'anh' (anh trai), Magnolia gọi Commander 'anh trai ơi'",
+    "speaker_labels_kept": "マックン, マニョリア, アリシア, 怪しげな男, <user> giữ nguyên byte-identical",
+    "name_romanization": "Makkun→Makkun, Magnolia→Magnolia, Alicia→Alicia, Manio (マニョ short form)→Manio, Eldorana→Eldorana, Hell Rafflesia→Hell Rafflesia (giữ nguyên như bản EN đã dùng)",
+    "title_case": "特別なお友達 → Những Người Bạn Đặc Biệt",
+    "ascii_comma": "Mọi dấu phẩy trong field tiếng Việt dùng U+201A '‚'; 0 dấu phẩy ASCII trong output",
+    "br_preservation": "Số <br> mỗi field khớp chính xác EN asset (authoritative), kể cả 8 dòng EN có <br> hơn JP",
+    "bom_crlf": "BOM (utf-8-sig) + CRLF giữ nguyên"
+  },
+  "notes": [
+    "L670: JP 'マニョが魔法水を持ってる' (Manio có Ma Thủy) — EN dich thành 'I have the Magical Water' (sai ngữ cảnh). VI khôi phục đúng nghĩa JP: 'chẳng ai biết Manio có Ma Thủy'.",
+    "L1544: dòng câm của tên trộm — JP '…………。', EN '...<br> '. VI dùng '………<br> ' để khác EN (tránh UNCHANGED_TEXT_RECORDS) và giữ sắc thái dấu chấm lửng tiếng Việt.",
+    "Không có nội dung H18 trong scene này; chỉ cảnh điều tra trộm Ma Thủy.",
+    "Tên nhân vật 怪しげな男 (gã kỳ lạ / tên trộm) giữ nguyên JP làm speaker label như asset gốc."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10240100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 88,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 89,
+    "translated_records": 89,
+    "changed_lines": 89,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1582,
+      "vi": 1582,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "b909ea0a79ef8907b06a5f875b77e30bdb650b6c0ea7778640aca4c022af7356",
+    "output_sha256": "878f0023d4879a14b77e57c68dee4ad8f284c5b5921c02d3933294bde15b9d71"
+  }
+}

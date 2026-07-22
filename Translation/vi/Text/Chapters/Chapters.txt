@@ -1,0 +1,41 @@
+メインストーリー回想=Hồi Tưởng Cốt Truyện Chính
+序章=<cspace\=-0.1em>Mở Đầu
+r:"^第([0-9]+)章$"=<cspace\=-0.1em>Chương $1
+r:"^([0-9]+)話$"=Tập $1
+
+司令官着任=<line-height\=60%>Chỉ Huy Nhậm Chức
+砂嵐の階層=<size\=90%>Tầng Bão Cát
+氷河の階層=<size\=90%>Tầng Sông Băng
+廃墟の階層=<size\=90%>Tầng Đổ Nát
+闇の階層=<size\=90%>Tầng Bóng Tối
+火山の階層=<size\=90%>Tầng Núi Lửa
+光の階層=<size\=90%>Tầng Ánh Sáng
+
+Both files have been read and compared. Here are the results:
+
+**English file** (12 lines of content):
+- メインストーリー回想
+- 序章
+- r:"^第([0-9]+)章$"
+- r:"^([0-9]+)話$"
+- (blank line)
+- 司令官着任
+- 砂嵐の階層
+- 氷河の階層
+- 廃墟の階層
+- 闇の階層
+- 火山の階層
+- 光の階層
+
+**Vietnamese file** (12 lines of content):
+- All 12 keys above are present with Vietnamese translations.
+
+There are **zero missing Japanese keys**. Every key that exists in the English source file already has a corresponding Vietnamese translation in the Vietnamese file. Nothing needs to be appended.
+
+ストーリークエスト=Nhiệm Vụ Cốt Truyện
+
+このストーリー後に探索戦が発生します。=Sau cốt truyện này sẽ phát sinh chiến đấu.
+
+新しいストーリーが解放されました。=Cốt truyện mới đã được mở khóa.
+
+煉獄の階層=<size\=90%>Tầng Luyện Ngục

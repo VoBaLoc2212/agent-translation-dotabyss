@@ -1,0 +1,22 @@
+{
+  "scene": "hmn_10050100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "warnings": [],
+  "notes": [
+    "JP ja.json used as primary source; EN asset/en.json used for alignment and field preservation.",
+    "All characters confirmed 18+ by project rule; adult/sexaroid-related lines translated normally while preserving tone and consent.",
+    "Electra uses formal servant/android voice; Commander/司令官 translated as Chỉ Huy; ご主人様 translated as Chủ nhân.",
+    "ASCII comma is forbidden inside VI text fields; U+201A used where a comma-like pause is needed."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 110,
+  "translated_records": 110,
+  "changed_lines": 110,
+  "source_line_count": 2787,
+  "output_line_count": 2787,
+  "source_sha256": "b87d4d6127e81f029188a31828e76625b60425d4b09a7106649ecc35d4c22079",
+  "output_sha256": "d299a95e2ad7d17b5b5d8089adc25ec19a2257401fa21c493cd9350669306968"
+}

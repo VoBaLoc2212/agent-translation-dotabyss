@@ -1,0 +1,1851 @@
+{
+  "scene": "hmn_10050100003",
+  "status": "PASS",
+  "source_paths": {
+    "ja_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10050100003\\ja.json",
+    "en_json": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10050100003\\en.json",
+    "en_asset": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100003.txt"
+  },
+  "output_path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100003.txt",
+  "artifact_paths": {
+    "manifest": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100003_full\\manifest.json",
+    "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100003_full\\qa_log.json",
+    "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100003_full\\focused_diff.md",
+    "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100003_full\\generate_vi.py"
+  },
+  "source": {
+    "sha256": "2806dec8caa0505965030272843c1bcd92626a9d7303487bc5116beed5945fb3",
+    "bytes": 51575,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 2582,
+    "candidate_counts": {
+      "title": 1,
+      "messageTextCenter": 3,
+      "message": 107,
+      "messageTextUnder": 3
+    },
+    "candidate_total": 114
+  },
+  "output": {
+    "sha256": "4de4dc557dfe2998b92e378597e30a11733b0e32b9a2c8df73782ec3faa2a33a",
+    "bytes": 53940,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 2582,
+    "candidate_counts": {
+      "title": 1,
+      "messageTextCenter": 3,
+      "message": 107,
+      "messageTextUnder": 3
+    },
+    "candidate_total": 114
+  },
+  "entries": [
+    {
+      "seq": 1,
+      "line_no": 35,
+      "type": "title",
+      "speaker": null,
+      "en_text": "タイトル",
+      "vi_text": "Tiêu Đề",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "title"
+      ]
+    },
+    {
+      "seq": 2,
+      "line_no": 45,
+      "type": "messageTextCenter",
+      "speaker": "",
+      "en_text": "<size=48>—A few days later.</size>",
+      "vi_text": "<size=48>――Vài Ngày Sau</size>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextCenter",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 3,
+      "line_no": 65,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "*cough，cough，cough!*<br>...Looks like I've come down with a full-blown cold after all.<br> ",
+      "vi_text": "Khụ khụ khụ!<br>…Xem ra mình bị cảm thật rồi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 4,
+      "line_no": 96,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Master，are you really all right?<br>You seem to be in great pain...<br> ",
+      "vi_text": "Chủ nhân‚ ngài thật sự không sao chứ?<br>Trông ngài rất khổ sở…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_001_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 5,
+      "line_no": 98,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "I've been stuck in bed for two days.<br>But it's just a cold. I'll be better soon.<br> ",
+      "vi_text": "Ta đã nằm liệt giường khoảng hai ngày rồi.<br>Nhưng chỉ là cảm lạnh thôi. Chẳng mấy chốc sẽ khá hơn.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 6,
+      "line_no": 110,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I have prepared a towel to wipe your sweat，an ice pack，and a lap<br>pillow. Everything is ready. Please inform me of anything you require.<br> ",
+      "vi_text": "Khăn lau mồ hôi‚ túi chườm đá‚ cả gối đùi――<br>tất cả đã chuẩn bị xong. Xin cứ sai bảo bất cứ điều gì ngài cần.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_002_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 7,
+      "line_no": 112,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "What about having a steamy novel ready?<br> ",
+      "vi_text": "Còn chuẩn bị đọc tiểu thuyết khiêu gợi thì sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 8,
+      "line_no": 130,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "That is all set.<br>...But I cannot recommend it until you are feeling a bit better—<br> ",
+      "vi_text": "Hoàn hảo ạ.<br>…Nhưng nếu ngài chưa khá hơn một chút thì thần không thể khuyến nghị――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_003_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 9,
+      "line_no": 132,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "I know. ...If I get this kind of treatment，catching a cold once in a<br>while isn't so bad.<br> ",
+      "vi_text": "Ta biết mà.<br>…Nếu được chăm sóc chu đáo thế này thì thỉnh thoảng bị cảm cũng không tệ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 10,
+      "line_no": 143,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "That is true.<br>It is only in times like these that Master allows himself to rest.<br> ",
+      "vi_text": "Đúng vậy. Nếu không có lúc như thế này<br>chủ nhân hiếm khi chịu nghỉ ngơi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_004_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 11,
+      "line_no": 145,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Ah... *ngh*.<br> ",
+      "vi_text": "À… khụ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 12,
+      "line_no": 157,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...? Master?<br>You do not look well—<br> ",
+      "vi_text": "…? Chủ nhân?<br>Sắc mặt ngài không được ổn――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_005_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 13,
+      "line_no": 193,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Ah! Master! You're burning up!<br>When did it get this high!<br> ",
+      "vi_text": "…!? Chủ nhân!? Ngài sốt cao quá đấy!?<br>Rốt cuộc từ lúc nào mà!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_006_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 14,
+      "line_no": 195,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "...I thought I'd been feeling weak for a while...<br>Should've known.<br> ",
+      "vi_text": "…Ta cũng nghĩ từ nãy đến giờ người chẳng có sức<br>quả nhiên là vậy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 15,
+      "line_no": 229,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I will bring medicine. I will switch your meals to something with<br>antipyretic effects as well. I will have it ready right away，so please rest.<br> ",
+      "vi_text": "Thần sẽ mang thuốc tới. Bữa ăn cũng sẽ đổi sang món có tác dụng<br>hạ sốt. Thần chuẩn bị ngay đây‚ xin ngài hãy nghỉ ngơi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_007_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 16,
+      "line_no": 233,
+      "type": "message",
+      "speaker": "",
+      "en_text": "—The door opens with a clatter.<br> ",
+      "vi_text": "――Cạch!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 17,
+      "line_no": 277,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "C-Commander! This is bad! A monster horde has appeared in the<br>Abyss! The survey team is in danger!<br> ",
+      "vi_text": "C-Chỉ Huy! Nguy rồi! Một bầy quái vật đã xuất hiện trong Đại Hố!<br>Đội khảo sát đang gặp nguy hiểm!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_008_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 18,
+      "line_no": 279,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "*tch*... of all times...<br> ",
+      "vi_text": "Khốn… đúng lúc này…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 19,
+      "line_no": 281,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "...Got it. I'm on my way.<br> ",
+      "vi_text": "…Hiểu rồi. Ta sẽ đi ngay.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 20,
+      "line_no": 321,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "No，Master.<br>You are not in a state to command，are you?<br> ",
+      "vi_text": "Không được đâu‚ thưa chủ nhân.<br>Ngài đâu đang trong tình trạng có thể chỉ huy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_009_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 21,
+      "line_no": 375,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "Huh? Is that—is that true?<br> ",
+      "vi_text": "Ơ!? V-vậy sao ạ!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_010_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 22,
+      "line_no": 377,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Don't be ridiculous. This is nothing—ugh!<br> ",
+      "vi_text": "Đừng nói nhảm. Chỉ cỡ này thì chẳng――khụ!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 23,
+      "line_no": 402,
+      "type": "message",
+      "speaker": "",
+      "en_text": "The moment %user% tried to get out of bed and stand up，he<br>staggered heavily.<br> ",
+      "vi_text": "Ngay khoảnh khắc %user% định rời khỏi giường để đứng dậy<br>anh loạng choạng dữ dội.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 24,
+      "line_no": 448,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "As you can see，Alicia，he is in no condition to move with that high<br>fever.<br> ",
+      "vi_text": "Như cô thấy đấy‚ cô Alicia.<br>Ngài ấy sốt cao đến mức không thể cử động được.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_011_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 25,
+      "line_no": 494,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "Understood，Commander. We'll handle it. Please rest.<br> ",
+      "vi_text": "Tôi hiểu rồi. Chỉ Huy‚ chúng tôi sẽ xoay xở. Xin ngài hãy nghỉ ngơi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_012_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 26,
+      "line_no": 496,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "No! I'm the Commander! I can't just lie here while our comrades are in<br>danger! I'll take command of the rescue team!<br> ",
+      "vi_text": "Không được! Ta là Chỉ Huy đấy! Đồng đội đang lâm nguy mà sao ta có thể nằm yên!<br>Ta sẽ chỉ huy đội cứu viện!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 27,
+      "line_no": 507,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "B-but... you should rest...<br> ",
+      "vi_text": "N-nhưng… ngài nên nghỉ thì hơn…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_013_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 28,
+      "line_no": 509,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Don't panic. Electra，bring me my change of clothes，now.<br> ",
+      "vi_text": "Đừng hoảng. Electra‚ mau mang đồ thay cho ta.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 29,
+      "line_no": 552,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...<br> ",
+      "vi_text": "…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_014_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 30,
+      "line_no": 570,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...Master，I apologize. I'm afraid I must be rude.<br> ",
+      "vi_text": "…Chủ nhân‚ thần vô cùng xin lỗi. Xin thất lễ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_015_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 31,
+      "line_no": 594,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Wha— What are you doing!?<br> ",
+      "vi_text": "Này‚ cô làm gì vậy!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 32,
+      "line_no": 596,
+      "type": "message",
+      "speaker": "",
+      "en_text": "Electra pressed %user% onto the bed and quickly bound him with<br>rope.<br> ",
+      "vi_text": "Electra đè %user% xuống giường<br>rồi nhanh chóng trói anh lại bằng dây thừng.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 33,
+      "line_no": 628,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Electra，untie me! That's insubordination!<br> ",
+      "vi_text": "Electra‚ cởi dây ra! Đây là chống lệnh đấy!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 34,
+      "line_no": 648,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...I am aware. However，I judged this to be the best course to protect<br>your health，Master.<br> ",
+      "vi_text": "…Thần biết. Nhưng để bảo vệ sức khỏe của chủ nhân<br>thần phán đoán đây là cách tốt nhất.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_016_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 35,
+      "line_no": 699,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Alicia，I have a recommendation. Master is unwell. Please order me to<br>rescue the Survey Team in his stead.<br> ",
+      "vi_text": "Cô Alicia‚ thần xin được kiến nghị. Chủ nhân đang không khỏe.<br>Xin hãy ra lệnh cho Electra thay ngài ấy cứu đội khảo sát.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_017_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 36,
+      "line_no": 701,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Don't make decisions without me! There's no one in this base who can<br>take my place!<br> ",
+      "vi_text": "Đừng tự ý quyết định!<br>Trong căn cứ này không ai có thể thay thế ta!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 37,
+      "line_no": 749,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I understand. I can never replace you，Master. But even so，I want to<br>be of help to you.<br> ",
+      "vi_text": "Thần hiểu. Electra không thể nào thay thế chủ nhân.<br>Dù vậy‚ thần vẫn muốn trở thành sức mạnh của ngài.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_018_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 38,
+      "line_no": 760,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I have already accounted for the danger. Still，please allow me to go.<br>I will protect the Survey Team，no matter what.<br> ",
+      "vi_text": "Nguy hiểm cũng đã nằm trong dự tính. Dẫu vậy‚ xin hãy để thần đi.<br>Thần nhất định sẽ bảo vệ đội khảo sát.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_019_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 39,
+      "line_no": 787,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "(...Yes. Even if I have to sacrifice myself.)<br> ",
+      "vi_text": "(…Phải. Cho dù Electra có phải hy sinh.)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_020_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 40,
+      "line_no": 804,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Electra. What are you thinking?<br> ",
+      "vi_text": "Electra. Cô đang nghĩ gì vậy?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 41,
+      "line_no": 815,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I anticipated your thoughts，Master. You would surely see that<br>ordering me is more likely to succeed than going in your current state.<br> ",
+      "vi_text": "Thần đang dự đoán suy nghĩ của chủ nhân. Một chủ nhân sáng suốt như ngài hẳn đã nhìn ra rằng<br>ra lệnh cho Electra sẽ có tỷ lệ thành công cao hơn tự mình đi trong tình trạng hiện tại.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_021_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 42,
+      "line_no": 817,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Ugh...<br> ",
+      "vi_text": "Ư…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 43,
+      "line_no": 825,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Master，please give your orders—<br> ",
+      "vi_text": "Chủ nhân‚ xin hãy ban lệnh――<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_022_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 44,
+      "line_no": 827,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "...<br> ",
+      "vi_text": "…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 45,
+      "line_no": 838,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Master?<br> ",
+      "vi_text": "Chủ nhân?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_023_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 46,
+      "line_no": 892,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "...He's asleep，isn't he? He must have been at his limit.<br>To think he tried to go to the front line in this state...<br> ",
+      "vi_text": "…Ngài ấy ngủ rồi. Tôi nghĩ ngài ấy đã tới giới hạn.<br>Vậy mà trong tình trạng này ngài ấy còn định ra tiền tuyến…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_024_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 47,
+      "line_no": 903,
+      "type": "message",
+      "speaker": "アリシア",
+      "en_text": "Electra. I'm begging you. Please sortie in the Commander's place!<br>I'll support you too!<br> ",
+      "vi_text": "Electra. Đây là lời thỉnh cầu của tôi. Xin hãy xuất kích thay Chỉ Huy!<br>Tôi cũng sẽ hỗ trợ!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100003_025_01",
+        "chara_2"
+      ]
+    },
+    {
+      "seq": 48,
+      "line_no": 911,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I am counting on you.<br> ",
+      "vi_text": "Xin nhờ cô.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_026_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 49,
+      "line_no": 960,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...Master. I will accept any punishment for my insubordination.<br> ",
+      "vi_text": "…Chủ nhân. Về việc chống lệnh‚ thần sẽ chấp nhận bất kỳ hình phạt nào.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_027_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 50,
+      "line_no": 976,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "(But first，I will rescue the Survey Team—<br>And deliver victory to Master's unit!)<br> ",
+      "vi_text": "(Nhưng trước hết‚ phải cứu đội khảo sát――<br>và đem chiến thắng về cho đơn vị của chủ nhân!)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_028_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 51,
+      "line_no": 1006,
+      "type": "messageTextCenter",
+      "speaker": "",
+      "en_text": "<size=48>—Several Hours Later—</size>",
+      "vi_text": "<size=48>――Vài Giờ Sau</size>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextCenter",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 52,
+      "line_no": 1047,
+      "type": "message",
+      "speaker": "",
+      "en_text": "Electra and her unit were at the Abyss.<br> ",
+      "vi_text": "Electra cùng đơn vị do cô chỉ huy đã có mặt trong Đại Hố.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 53,
+      "line_no": 1056,
+      "type": "message",
+      "speaker": "一般兵Ａ",
+      "en_text": "Found them! The Survey Team!<br>They're surrounded by monsters!<br> ",
+      "vi_text": "Tìm thấy rồi! Đội khảo sát kìa!<br>Họ đang bị quái vật bao vây!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "一般兵Ａ",
+        "401101000",
+        "vc_10050100003_029_01",
+        "chara_3"
+      ]
+    },
+    {
+      "seq": 54,
+      "line_no": 1104,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "I'll clear the way!<br>Target acquired! Commencing attack!<br> ",
+      "vi_text": "Electra sẽ mở đường!<br>Đã bắt mục tiêu! Bắt đầu tấn công!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_030_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 55,
+      "line_no": 1263,
+      "type": "message",
+      "speaker": "",
+      "en_text": "Electra opened fire on the swarm of monsters that had surrounded<br>the Survey Team. The monsters that were hit screamed and fell.<br> ",
+      "vi_text": "Electra nã đạn vào bầy quái vật đang tạo thành vòng vây.<br>Những con quái vật trúng đạn gào thét rồi ngã gục.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 56,
+      "line_no": 1305,
+      "type": "message",
+      "speaker": "一般兵Ｂ",
+      "en_text": "Incredible...<br>She secured an escape route in an instant!<br> ",
+      "vi_text": "Tuyệt quá…<br>Cô ấy mở được đường rút chỉ trong chớp mắt!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "一般兵Ｂ",
+        "401301000",
+        "vc_10050100003_031_01",
+        "chara_7"
+      ]
+    },
+    {
+      "seq": 57,
+      "line_no": 1347,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Speed up the rescue!<br>We can't stay long without the Commander!<br> ",
+      "vi_text": "Hãy khẩn trương cứu người!<br>Không thể ở lâu khi Chỉ Huy vắng mặt!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_032_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 58,
+      "line_no": 1411,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "en_text": "Electra pushed into the encirclement—<br>and guided the Survey Team，who were in need of rescue，to the secured escape route.",
+      "vi_text": "Electra xông vào trong vòng vây――<br>và dẫn các thành viên đội khảo sát cần cứu hộ ra tuyến rút lui đã được bảo đảm.",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextUnder",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 59,
+      "line_no": 1432,
+      "type": "message",
+      "speaker": "一般兵Ａ",
+      "en_text": "Electra，look out!<br>Behind you!<br> ",
+      "vi_text": "Electra‚ nguy hiểm!<br>Phía sau!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "一般兵Ａ",
+        "401101000",
+        "vc_10050100003_033_01",
+        "on"
+      ]
+    },
+    {
+      "seq": 60,
+      "line_no": 1474,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Already locked on!<br> ",
+      "vi_text": "Đã bắt được mục tiêu!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_034_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 61,
+      "line_no": 1529,
+      "type": "message",
+      "speaker": "モンスター",
+      "en_text": "Screech!<br> ",
+      "vi_text": "Kíí!?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "モンスター",
+        "402001000",
+        "",
+        "chara_4"
+      ]
+    },
+    {
+      "seq": 62,
+      "line_no": 1551,
+      "type": "message",
+      "speaker": "",
+      "en_text": "—Thump.<br> ",
+      "vi_text": "――Bịch.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 63,
+      "line_no": 1591,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Now go! I'll hold the enemy off from the rear!<br> ",
+      "vi_text": "Nào‚ hãy đi đi! Electra sẽ chặn địch ở cuối đội hình!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_035_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 64,
+      "line_no": 1634,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "en_text": "Electra，acting as the rear guard，continued to cut down monsters. Meanwhile，the rescue team's advance ground to a halt.",
+      "vi_text": "Electra đảm nhiệm vai trò đoạn hậu và tiếp tục hạ gục quái vật. Trong lúc đó‚ đội cứu viện lại bị chặn bước tiến.",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextUnder",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 65,
+      "line_no": 1675,
+      "type": "message",
+      "speaker": "一般兵Ｂ",
+      "en_text": "No good，Electra! The front line is being attacked by a giant<br>monster—we can't advance!<br> ",
+      "vi_text": "K-không ổn rồi‚ Electra!<br>Phía đầu đội đang bị một con quái vật khổng lồ tấn công nên không thể tiến lên!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "一般兵Ｂ",
+        "401301000",
+        "vc_10050100003_036_01",
+        "chara_7"
+      ]
+    },
+    {
+      "seq": 66,
+      "line_no": 1763,
+      "type": "message",
+      "speaker": "",
+      "en_text": "Electra peered into the distance.<br> ",
+      "vi_text": "Electra nheo mắt nhìn về phía xa.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 67,
+      "line_no": 1774,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Enemy sighted. Range one twenty... Fire!<br> ",
+      "vi_text": "Phát hiện bóng địch. Cự ly 120… khai hỏa!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_037_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 68,
+      "line_no": 1852,
+      "type": "message",
+      "speaker": "",
+      "en_text": "Electra's bullet hit the head of a monster rampaging in the distance.<br>Struck in a vital spot，it collapsed on the spot.<br> ",
+      "vi_text": "Viên đạn Electra bắn ra trúng vào đầu con quái vật đang nổi loạn ở phía xa.<br>Bị bắn xuyên điểm yếu‚ nó mất sức và đổ gục ngay tại chỗ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        ""
+      ]
+    },
+    {
+      "seq": 69,
+      "line_no": 1890,
+      "type": "message",
+      "speaker": "一般兵Ｂ",
+      "en_text": "A-amazing... She got one that far away!<br> ",
+      "vi_text": "K-kinh thật… bắn trúng một con ở xa đến vậy!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "一般兵Ｂ",
+        "401301000",
+        "vc_10050100003_038_01",
+        "chara_7"
+      ]
+    },
+    {
+      "seq": 70,
+      "line_no": 1932,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Please tell them to hurry! There are too many enemies! We cannot<br>hold out much longer!<br> ",
+      "vi_text": "Hãy truyền lời bảo họ nhanh lên!<br>Số lượng địch quá đông! Không cầm cự được lâu đâu!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_039_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 71,
+      "line_no": 1986,
+      "type": "message",
+      "speaker": "モンスター",
+      "en_text": "GROOAAAR!<br> ",
+      "vi_text": "Gàooooo!!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "モンスター",
+        "402001000",
+        "",
+        "chara_4"
+      ]
+    },
+    {
+      "seq": 72,
+      "line_no": 2030,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Ngh...<br> ",
+      "vi_text": "Khụ…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_040_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 73,
+      "line_no": 2049,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Continuing the attack!<br> ",
+      "vi_text": "Tiếp tục… tấn công!<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_041_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 74,
+      "line_no": 2203,
+      "type": "messageTextUnder",
+      "speaker": "",
+      "en_text": "Electra drove back monsters as their spear and shield. After one fierce battle after another，the Survey Team was finally rescued.",
+      "vi_text": "Electra đẩy lùi quái vật và tiếp tục làm ngọn giáo cùng tấm khiên của mọi người. Vượt qua hết trận tử chiến này đến trận tử chiến khác‚ đội khảo sát cuối cùng cũng được cứu――",
+      "match_status": "CONTEXT_MATCH",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextUnder",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 75,
+      "line_no": 2231,
+      "type": "messageTextCenter",
+      "speaker": "",
+      "en_text": "<size=48>—A few days later.</size>",
+      "vi_text": "<size=48>――Vài Ngày Sau</size>",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "messageTextCenter",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "seq": 76,
+      "line_no": 2275,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Master. How are you feeling?<br> ",
+      "vi_text": "Chủ nhân. Tình trạng sức khỏe của ngài thế nào rồi?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_042_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 77,
+      "line_no": 2277,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "I'm perfectly fine. I was tied to the bed for days，after all. Even I had<br>no choice but to rest.<br> ",
+      "vi_text": "Hoàn toàn ổn rồi. Ta đã bị trói trên giường suốt mấy ngày mà.<br>Đến cả ta cũng chỉ còn cách ngủ thôi.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 78,
+      "line_no": 2286,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...You're holding a grudge against me，aren't you，Master?<br> ",
+      "vi_text": "…Chủ nhân đang giận Electra‚ đúng không ạ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_043_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 79,
+      "line_no": 2288,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Of course. I can't let insubordination slide.<br> ",
+      "vi_text": "Đương nhiên. Ta không thể bỏ qua chuyện chống lệnh.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 80,
+      "line_no": 2307,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Yes. I will accept any punishment.<br> ",
+      "vi_text": "Vâng. Thần sẽ chấp nhận bất kỳ hình phạt nào.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_044_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 81,
+      "line_no": 2334,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "(Even if it means decommissioning...)<br> ",
+      "vi_text": "(Cho dù đó là bị tiêu hủy đi nữa――)<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_045_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 82,
+      "line_no": 2351,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Alright. Then I'll hand down your punishment.<br> ",
+      "vi_text": "Được. Vậy ta sẽ tuyên án phạt.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 83,
+      "line_no": 2353,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "The sentence is a snap and a forehead flick.<br> ",
+      "vi_text": "Hình phạt là búng tay vào cổ tay và búng trán.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 84,
+      "line_no": 2372,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...Pardon?<br> ",
+      "vi_text": "…Ơ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_046_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 85,
+      "line_no": 2374,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "You have an objection?<br> ",
+      "vi_text": "Không phục à?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 86,
+      "line_no": 2385,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Ah，no—Master. Is that a standard punishment for you?<br> ",
+      "vi_text": "À‚ không――chỉ là‚ thưa chủ nhân. Hình phạt đó là thứ bình thường đối với ngài sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_047_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 87,
+      "line_no": 2387,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "As if a joke punishment like that could be standard!<br> ",
+      "vi_text": "Làm gì có chuyện một hình phạt đùa cợt như thế lại bình thường.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 88,
+      "line_no": 2389,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "...When the Survey Team and Rescue Team heard you might be<br>punished for insubordination，they submitted a petition asking me to forgive you.<br> ",
+      "vi_text": "…Nghe tin Electra có thể bị phạt vì chống lệnh<br>đội khảo sát và đội cứu viện đã gửi đơn thỉnh cầu xin ta tha thứ cho cô.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 89,
+      "line_no": 2391,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "However，if I let insubordination slide，it would affect my future<br>command. I couldn't do away with the punishment，so this is what happened.<br> ",
+      "vi_text": "Tuy nhiên‚ nếu bỏ qua chuyện chống lệnh thì sau này sẽ ảnh hưởng tới quyền chỉ huy.<br>Không thể xóa bỏ hình phạt nên mới thành ra thế này.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 90,
+      "line_no": 2402,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...Does that mean you will forgive Electra?<br> ",
+      "vi_text": "…Ý ngài là ngài sẽ tha thứ cho Electra ạ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_048_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 91,
+      "line_no": 2404,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Well，yeah. Even now，it still annoys me a bit when I think back，but<br>you did follow my order，didn't you?<br> ",
+      "vi_text": "Ừ thì. Dù bây giờ nghĩ lại ta vẫn hơi bực<br>nhưng cô đã làm theo lệnh của ta‚ đúng không?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 92,
+      "line_no": 2406,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "When my orders and Alicia's conflicted，I told you to do as you saw<br>fit.<br> ",
+      "vi_text": "Khi lệnh của ta và Alicia xung đột<br>ta đã nói hãy làm điều cô muốn làm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 93,
+      "line_no": 2408,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "At that time，you judged that tying me to the bed was the best<br>option. That's right，isn't it?<br> ",
+      "vi_text": "Ở tình huống đó cô phán đoán trói ta vào giường là phương án tốt nhất.<br>Đúng vậy chứ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 94,
+      "line_no": 2428,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Yes. The reasoning behind that decision is correct.<br> ",
+      "vi_text": "Vâng. Quá trình dẫn đến phán đoán đó không hề sai lệch.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_049_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 95,
+      "line_no": 2430,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Then strict punishment isn't needed. A snap and a forehead flick are<br>fitting，don't you think?<br> ",
+      "vi_text": "Vậy thì không cần nghiêm phạt. Búng tay vào cổ tay và búng trán<br>là thỏa đáng rồi nhỉ?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 96,
+      "line_no": 2432,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "I highly value the fact that you followed my order to do as you<br>wanted. You did well.<br> ",
+      "vi_text": "Việc cô làm theo mệnh lệnh \"hãy làm điều cô muốn\"<br>ta đánh giá rất cao. Cô làm tốt lắm.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 97,
+      "line_no": 2443,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...! You would praise me?<br> ",
+      "vi_text": "…! Ngài sẽ khen thần sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_050_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 98,
+      "line_no": 2445,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Yeah. It's very reassuring to have you around. Keep it up.<br> ",
+      "vi_text": "Ừ. Có cô ở bên khiến ta rất yên tâm. Từ giờ cũng nhờ cô tiếp tục như vậy.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 99,
+      "line_no": 2464,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...So you will continue to respect Electra's judgment?<br> ",
+      "vi_text": "…Tức là ngài vẫn sẽ tiếp tục tôn trọng phán đoán của Electra?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_051_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 100,
+      "line_no": 2466,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Ah，but that doesn't mean you can tie me to the bed again，alright?<br> ",
+      "vi_text": "À‚ nhưng không có nghĩa là ta cho phép cô lại trói ta vào giường đâu nhé?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 101,
+      "line_no": 2477,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "...<br> ",
+      "vi_text": "…<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_052_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 102,
+      "line_no": 2479,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "What are you freezing up for? Is it that frame problem again?<br> ",
+      "vi_text": "Sao lại đứng hình vậy? Lại là vấn đề khung gì đó à?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 103,
+      "line_no": 2487,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "No，it is not.<br> ",
+      "vi_text": "Không‚ không phải ạ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_053_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 104,
+      "line_no": 2489,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Then，were you moved by my magnanimity?<br> ",
+      "vi_text": "Vậy là cô đang cảm động trước lòng khoan dung của ta sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 105,
+      "line_no": 2509,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "That is also not the case，Master. Electra has no emotions. She has<br>no heart.<br> ",
+      "vi_text": "Cũng không phải vậy‚ thưa chủ nhân.<br>Electra không có cảm xúc. Cũng không có trái tim.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_054_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 106,
+      "line_no": 2517,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "What exists within Electra is a thought program that determines what<br>is best for Master and what is right.<br> ",
+      "vi_text": "Thứ tồn tại bên trong Electra là chương trình tư duy dùng để kiểm chứng và phán đoán<br>điều gì là tốt nhất cho chủ nhân và điều gì là đúng đắn.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_055_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 107,
+      "line_no": 2528,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "That program has now given its answer: Electra has been allowed to<br>serve at the side of the correct Master.<br> ",
+      "vi_text": "Chương trình đó vừa đưa ra câu trả lời.<br>Rằng Electra đang được ở bên cạnh người đúng đắn mà mình nên phụng sự.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_056_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 108,
+      "line_no": 2540,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "As long as you wish it，Electra will continue to serve by your side.<br>Electra will continue to exist to be of use.<br> ",
+      "vi_text": "Chừng nào ngài còn mong muốn‚ Electra sẽ tiếp tục phụng sự bên cạnh ngài.<br>Electra sẽ tiếp tục tồn tại để có ích cho ngài.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_057_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 109,
+      "line_no": 2542,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "...If I just take your words at face value，it only sounds like you're<br>grateful and happy.<br> ",
+      "vi_text": "…Nếu chỉ nghe lời cô nói<br>thì nghe kiểu gì cũng giống như cô đang cảm kích và hạnh phúc ấy nhỉ.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 110,
+      "line_no": 2553,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Would that make you feel better，Master?<br> ",
+      "vi_text": "Nói như vậy sẽ khiến chủ nhân thấy vui hơn sao?<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_058_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 111,
+      "line_no": 2555,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Of course. It's the greatest honor as a Commander. And as a man，<br>too.<br> ",
+      "vi_text": "Tất nhiên rồi. Đó là vinh dự lớn nhất của một Chỉ Huy.<br>Cả với tư cách đàn ông nữa.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "seq": 112,
+      "line_no": 2560,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Then I will rephrase.<br> ",
+      "vi_text": "Vậy thần xin nói lại.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_059_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 113,
+      "line_no": 2571,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "en_text": "Electra is very happy to be able to serve you，Master.<br> ",
+      "vi_text": "Electra rất hạnh phúc khi được phụng sự chủ nhân.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100003_060_01",
+        "chara_1"
+      ]
+    },
+    {
+      "seq": 114,
+      "line_no": 2573,
+      "type": "message",
+      "speaker": "<user>",
+      "en_text": "Ahaha. I knew it. That's better.<br> ",
+      "vi_text": "Ha ha. Quả nhiên nói vậy nghe hay hơn.<br> ",
+      "match_status": "EXACT",
+      "translation_status": "TRANSLATED",
+      "technical_signature": [
+        "message",
+        "<user>"
+      ]
+    }
+  ],
+  "qa_summary": {
+    "qa_status": "PASS",
+    "blocker_count": 0,
+    "translated_records": 114,
+    "kept_en_records": 0
+  }
+}

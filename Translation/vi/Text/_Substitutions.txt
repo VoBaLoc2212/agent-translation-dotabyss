@@ -1,0 +1,130 @@
+# Vietnamese character substitutions for Japanese SDF font compatibility
+# Font game (FOT-UDMarugo_SmallPr6-E SDF) supports: á â ê ô ú à è ù ò etc. (Latin-1 U+00C0-U+00FF)
+# Font game does NOT support: ơ ư ắ ậ ẻ đ etc. (Latin Extended Additional U+1E00-U+1EFF)
+# These substitutions replace ONLY unsupported chars with the closest supported equivalent.
+# Result: "Nhận" -> "Nhân", "chơi" -> "choi" — readable, no boxes.
+
+Ă=A
+ă=a
+
+# === Â-based: ấ ầ ẩ ẫ ậ → â (circumflex works!) ===
+Ấ=Â
+ấ=â
+Ầ=Â
+ầ=â
+Ẩ=Â
+ẩ=â
+Ẫ=Â
+ẫ=â
+Ậ=Â
+ậ=â
+
+# === Ắ-based: ắ ằ ẳ ẵ ặ ===
+Ắ=Á
+ắ=á
+Ằ=À
+ằ=à
+Ẳ=A
+ẳ=a
+Ẵ=A
+ẵ=a
+Ặ=A
+ặ=a
+
+Ạ=A
+ạ=a
+Ả=A
+ả=a
+
+# === Đ đ ===
+Đ=D
+đ=d
+
+# === Ê-based: ế ề ể ễ ệ → ê (circumflex works!) ===
+Ế=Ê
+ế=ê
+Ề=Ê
+ề=ê
+Ể=Ê
+ể=ê
+Ễ=Ê
+ễ=ê
+Ệ=Ê
+ệ=ê
+
+Ẹ=E
+ẹ=e
+Ẻ=E
+ẻ=e
+Ẽ=E
+ẽ=e
+
+Ĩ=I
+ĩ=i
+Ỉ=I
+ỉ=i
+Ị=I
+ị=i
+
+# === Ô-based: ố ồ ổ ỗ ộ → ô (circumflex works!) ===
+Ố=Ô
+ố=ô
+Ồ=Ô
+ồ=ô
+Ổ=Ô
+ổ=ô
+Ỗ=Ô
+ỗ=ô
+Ộ=Ô
+ộ=ô
+
+Ọ=O
+ọ=o
+Ỏ=O
+ỏ=o
+
+Ơ=O
+ơ=o
+
+# === Ơ-based: ớ ờ ở ỡ ợ ===
+Ớ=Ó
+ớ=ó
+Ờ=Ò
+ờ=ò
+Ở=O
+ở=o
+Ỡ=O
+ỡ=o
+Ợ=O
+ợ=o
+
+Ũ=U
+ũ=u
+Ụ=U
+ụ=u
+Ủ=U
+ủ=u
+
+Ư=U
+ư=u
+
+# === Ư-based: ứ ừ ử ữ ự ===
+Ứ=Ú
+ứ=ú
+Ừ=Ù
+ừ=ù
+Ử=U
+ử=u
+Ữ=U
+ữ=u
+Ự=U
+ự=u
+
+Ỳ=Y
+ỳ=y
+Ỵ=Y
+ỵ=y
+Ỷ=Y
+ỷ=y
+Ỹ=Y
+ỹ=y

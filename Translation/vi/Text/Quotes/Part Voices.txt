@@ -1,0 +1,55 @@
+﻿天才兼変態科学者の知能で\nこの前線基地に特別な施設を\n建ててあげましょう！=<size\=90%>Hãy xây dựng một cơ sở đặc biệt tại \nTiền Đồn này bằng trí tuệ của một \nnhà khoa học thiên tài kiêm biến thái nào!
+
+Party
+ここで部隊の編成ができちゃうよ～\nおにーさんは、誰を連れてくのかな～？=Bạn có thể biên đội ở đây nè~\nAnh trai định mang theo những ai vậy?
+えっとね～探索者にはそれぞれ\nスタンス？　があるんだって。=<size\=85%>Chà~ nghe nói mỗi nhà thám hiểm đều có \nvị trí chiến đấu riêng của họ hay gì đó.
+もしかしてあたしと遊びたいのぉ？\nじゃあ、一緒にサボっちゃう？=Có phải anh muốn đi chơi với em không?\nVậy thì, cùng nhau trốn học nhé?
+もしかして編成の仕方わかんないの～？\nザコザコおにーさんはっけ～ん♡=Đừng bảo là anh không biết \ncách biên đội đấy nhé? \nPhát hiện anh trai gà mờ nè♡
+編成こそ部隊運用の要よ！\nあなたの腕前、見せてみなさい！=<size\=80%>Biên đội là chìa khóa cho các hoạt động thành công!\nHãy cho chúng tôi xem tài năng của ngài đi!
+わからないことでもあるの？\nそうね……まずは各スタンスに\n探索者を配置してみたら？=Ngài có điều gì không hiểu sao? \nChà... tại sao ngài không thử bắt đầu bằng việc đặt các nhà thám hiểm vào từng vị trí?
+まじめにやりなさい！\nあなたが司令官なんだから！=Ngài là Chỉ huy đó!\nXin hãy làm việc này một cách nghiêm túc!
+わかったわよ……休憩ね、休憩。\nちょっとだけだからね？=Được rồi, tôi hiểu rồi... Hãy nghỉ ngơi thôi. \nChỉ một lúc thôi đấy nhé?
+
+Shop
+旦那さま、 耳寄り情報ですぅ♪\nなんと、とっておきの掘り出し物が！\n今買わなきゃ損ですよぉ～？=<size\=80%>Chồng ơi, em có tin nóng cho anh đây♪\nAnh tin được không? Em vừa tìm thấy một món hời đấy!\nSẽ tiếc lắm nếu anh không mua bây giờ đó~
+うふふ♡　そんなに褒めても、\n値引きは無理ですよ～。=<size\=90%>Hehe♡ Dù anh có khen ngợi em đến mức nào, \nthì em cũng không giảm giá cho anh đâu nha~
+もぉぉ～、いくら旦那さまでも、\nこれ以上は追加料金もらいますよぉ～？=Thôi nào~ dù là anh đi nữa, \nthì em cũng sẽ tính thêm phí cho chuyện này đấy nhé?
+気になる商品はありましたかぁ？\n毎日覗いて行ってくださいねぇ～♪=Anh có ưng ý món nào không?\nNhớ ghé qua mỗi ngày nha~♪
+ここでは色んな商品を扱ってますぅ～。\n買えば買うほど、前線基地は発展♪\nお互いウィンウィンって訳ですねぇ～。=<size\=80%>Chúng em bán đủ các loại sản phẩm ở đây~. \nAnh càng mua nhiều, Tiền Đồn của chúng ta càng phát triển♪ \nĐúng là đôi bên cùng có lợi phải không nào~.
+
+Quest
+各種クエストへはこちらから\n向かうことができますよ！=Ngài có thể nhận các loại \nNhiệm Vụ khác nhau từ đây!
+どのクエストに向かいますか？\n皆さんの無事を祈っています！=Ngài định thực hiện Nhiệm Vụ nào? \nTôi chúc ngài mọi điều tốt lành!
+し、司令官……ダメですよぉ……\nもぉ～、イタズラばっかり……=<size\=90%>C-Chỉ huy... ngài không được làm vậy... \nThật tình, lúc nào cũng chọc ghẹo thôi...
+大穴の探索が進むと、新たなクエストが\n解放されることもあるみたいです！=Khi ngài Thám Hiểm Hang Lớn, \ncó vẻ như các Nhiệm Vụ mới sẽ được mở khóa!
+イベントクエストが開催中です。\n参加して、特別な報酬を\nもらっちゃいましょう！=Một Nhiệm Vụ Sự Kiện đang \ndiễn ra. Hãy tham gia và nhận lấy \nPhần Thưởng đặc biệt nào!
+
+Mission
+ミッションをこなすと報酬が貰えます。\nどんどん達成して、\n前線基地を発展させましょう！=Hoàn thành Sứ Mệnh để nhận Phần Thưởng.\nHoàn thành nhiều hơn để phát triển Tiền Đồn của ngài!
+メガネ、似合ってます……？\nえへへ、照れちゃいますね……=Cặp kính này có hợp với tôi không...?\nEhehe, xấu hổ quá...
+いろいろなミッションをこなして\n報酬をもらうのが、前線基地の\n発展の近道、らしいですよ？=<size\=80%>Có vẻ như cách nhanh nhất để phát triển \nTiền Đồn là hoàn thành các Sứ Mệnh \nkhác nhau và kiếm Phần Thưởng, phải không?
+ミッションには期限がある場合も\nありますので、注意してくださいね。=Xin lưu ý rằng một số \nSứ Mệnh có thể có thời hạn.
+
+Abyss
+この先は未知の領域……\nこちらからもサポートはいたしますが\nしっかりと準備してから挑みましょう。=<size\=80%>Phía trước là lãnh thổ chưa được khám phá...\nChúng tôi sẽ ở đây để Hỗ Trợ, nhưng\nhãy đảm bảo chuẩn bị kỹ càng trước khi tham gia Thử Thách này.
+大穴の中ではモンスターだけでなく\n環境すらも皆さんの敵になるかも\nしれません。=<size\=90%>Ở tận cùng Vực Thẳm, không chỉ \nquái vật mà ngay cả môi trường \ncũng có thể trở thành Kẻ Địch của ngài.
+司令官、今どこを触ろうとしました？\n直接触れたい時は研究室へどうぞ。\nふふっ、いつでもお待ちしてますよ？=<size\=70%>Chỉ huy, ngài vừa định chạm vào đâu vậy?\nNếu ngài muốn trực tiếp chạm vào, xin mời đến phòng Nghiên Cứu.\nHehe, tôi luôn chờ đợi ngài, được chứ?
+ホログラムで失礼。\nこちらの姿が見えていたほうが\n話しやすいでしょう？=Xin lỗi vì dùng ảnh ảo. \nTrực tiếp nhìn thấy nhau nói chuyện sẽ dễ dàng hơn phải không?
+
+Pickup character
+オートマタのウェンディと申します\nあの、力仕事は得意です！=Tên tôi là người máy Wendy,\nvà tôi rất giỏi việc lao động chân tay!
+ベリサお姉ちゃんはどこでしょうか？\nあ、わたし妹のヴィーラです。=Chị Verisa ở đâu rồi?\nÀ, em là em gái của chị ấy, Villa.
+最高の舞台を見せるわよ\nうちの虜にしてあ・げ・る♡=<size\=90%>Ta sẽ mang đến màn trình diễn tuyệt vời nhất\nTa sẽ khiến anh phải say đắm ta♡
+さぁ、狩りの時間だ！\nボクの弓からは逃げられないよ♪=Giờ là lúc đi săn rồi!\nCậu không thể thoát khỏi mũi tên của tôi đâu♪
+
+After thoroughly comparing both files, I can confirm that **all 31 Japanese keys** present in the English source file (`Part Voices.txt`) already exist in the Vietnamese translation file with their Vietnamese translations. There are zero missing lines to translate.
+
+Both files have identical Japanese keys:
+- Party section: 9 lines (lines 1, 4-11)
+- Shop section: 5 lines (lines 14-18)
+- Quest section: 5 lines (lines 21-25)
+- Mission section: 4 lines (lines 28-31)
+- Abyss section: 4 lines (lines 34-37)
+- Pickup character section: 4 lines (lines 40-43)
+
+**Result: Nothing to append.** The Vietnamese file is complete for this particular quote file.

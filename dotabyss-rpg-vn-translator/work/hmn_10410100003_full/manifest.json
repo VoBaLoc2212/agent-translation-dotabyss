@@ -1,0 +1,70 @@
+{
+  "scene": "hmn_10410100003",
+  "asset_case": "EN-asset-is-English (en.json holds English; title field still JP -> JP->VI Title Case)",
+  "source_authority": "EN asset (delimiters, BOM, CRLF, <br> counts, <size> cards); ja.json == identity map",
+  "title_jp": "本当の笑顔で",
+  "title_vi": "Nụ Cười Chân Thật",
+  "text_record_counts": {
+    "title": 1,
+    "message": 102,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "total": 104
+  },
+  "character_voice": {
+    "アヤメ (Ayame)": "female subordinate, secretary/assassin; self 'em'; addresses Commander 'Chỉ Huy' (title) and respectful 'Ngài' where EN 'Lord Commander'",
+    "<user> (Commander)": "male, 俺; self 'anh'; addresses Ayame 'em'",
+    "倉庫警備の兵士 (guard soldier)": "male subordinate; self 'tôi'; addresses Commander 'Chỉ Huy'",
+    "モンスター / モンスターたち": "monster SFX localized: groooaaar/GROOOAAARRR -> Gừư!/Gừưư!; gyaaaaaa -> Giáaaa..."
+  },
+  "terminology": {
+    "Calamity": "Tai Họa",
+    "Lord Commander": "Chỉ Huy (with 'Ngài' for respectful second person)",
+    "Commander": "Chỉ Huy",
+    "secretary": "thư ký",
+    "assassin": "sát thủ",
+    "embezzle supplies": "biển thủ vật tư",
+    "Abyss": "Abyss"
+  },
+  "intentional_localization": [
+    "Monster growls groooaaar/GROOOAAARRR/gyaaaaaa localized to Vietnamese onomatopoeia (Gừư!/Gừưư!/Giáaaa...) to clear UNCHANGED_TEXT_RECORDS.",
+    "bang! -> Bùm!/Bùm! Bùm! Bùm!/*bùm!*; Wha -> Á; *phew* -> *thở phào*; Ahem -> Khụ khụ.",
+    "'Calamity' -> 'Tai Họa' per project convention (hmn_10400100003)."
+  ],
+  "notes": [
+    "EN-asset carries a comma typo 'Commaander'? No — this asset uses correct 'Commander'; translated to 'Chỉ Huy' per rules.",
+    "No ASCII commas inside VI text fields (all use U+201A '‚').",
+    "All trailing parts[3:] (voice/chara keys) preserved byte-identical."
+  ],
+  "qa_status": "PENDING",
+  "independent_verify": {
+    "scene": "hmn_10410100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 102,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 104,
+    "translated_records": 104,
+    "changed_lines": 104,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1613,
+      "vi": 1613,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "e28a5805f499d3238769abf055db4c4a2d0e0a7d7c102e2a4a3f8044be70c6a0",
+    "output_sha256": "7e3380334108794f448d113b9d3106398ca3d30d474d021fca8a64835ce985a2"
+  },
+  "status": "PASS"
+}

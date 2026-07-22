@@ -1,0 +1,66 @@
+{
+  "scene": "hmn_10360100002",
+  "source": {
+    "ja_json": "dotabyss-translation-main/translations/novels/hmn_10360100002/ja.json",
+    "en_json": "dotabyss-translation-main/translations/novels/hmn_10360100002/en.json",
+    "en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10360100002.txt"
+  },
+  "translation_mode": "en-asset-is-english (en.json holds English; ja.json is identity map = JP source for title only)",
+  "title_note": "title field is JP (副官はわたくしなのに！) and was translated to VI Title Case; all message fields were already English in the asset and translated JP->VI via en.json sense.",
+  "counts": {
+    "title": 1,
+    "message": 92,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0,
+    "total_text_records": 93
+  },
+  "naming_conventions": {
+    "Milesgard": "Milesgard / Đoàn Kỵ Sĩ Milesgard",
+    "Abyss (大穴)": "Đại Huyệt",
+    "Frontline Base Troops (前線基地部隊)": "Tiền Tuyến Căn Cứ",
+    "adjutant (副官)": "phó quan",
+    "Commander (司令官)": "Chỉ Huy",
+    "Beast (大型モンスター)": "Quái Thú",
+    "Reyzeria (レイゼリア)": "Reyzeria (kept romanized; female knight leader, ta/ngươi)",
+    "Lime (ライム)": "Lime (kept romanized; female adjutant, ta/em)",
+    "Commander/<user>": "anh/em (male, default female<->Commander addressing)"
+  },
+  "notes": [
+    "Title translated JP->VI Title Case: 副官はわたくしなのに！ -> Phó Quan Lại Là Tại Tôi Cơ À!",
+    "Speaker labels (field 1: レイゼリア/ライム/モンスター/ミレスガルド兵（男）等 and <user>) kept byte-identical per rules.",
+    "All ASCII commas inside VI text fields replaced with U+201A '‚' to preserve delimiter integrity.",
+    "SFX/onomato localized: *pant*->*Thở dốc*, *Sigh*->*Thở dài*, Gwooooooh!?->Gùùùù!? (Wendy/Upa-style spirit-cry convention not applicable; these are monster/grunt SFX cleared of residual English).",
+    "BOM + CRLF preserved from EN source; 1438 lines, 93 text records (1 title + 92 message).",
+    "Field-index build: message text field = index 2 (parts[:2] + [vi] + parts[3:]); trailing '<br> ' suffix mirrored from source on 92 message lines, none on title."
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10360100002",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 92,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 93,
+    "translated_records": 93,
+    "changed_lines": 93,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1438,
+      "vi": 1438,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "180f05c5205e47c3409f02bae6e90fac8c24d847db154a47d7bab7ec1e788201",
+    "output_sha256": "cb5d1ac5630cb3e98170814c182fec9161931129b60961638470418e2074a617"
+  }
+}

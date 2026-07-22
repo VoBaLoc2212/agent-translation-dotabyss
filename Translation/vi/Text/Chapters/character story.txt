@@ -1,0 +1,349 @@
+sr:"^([\S\s]+)の日常その①$"=Cuộc Sống Thường Ngày Của $1 Phần 1
+sr:"^([\S\s]+)の日常その②$"=Cuộc Sống Thường Ngày Của $1 Phần 2
+sr:"^([\S\s]+)の日常その③$"=Cuộc Sống Thường Ngày Của $1 Phần 3
+
+BOND STORY
+Sylvia
+孤独な少女に足りないもの=Những Gì Cô Gái Cô Đơn Thiếu Thốn
+溶け出す氷=Lớp Băng Tan Chảy
+氷の世界の少女=Cô Gái Trong Thế Giới Băng
+提案カード名=Tên Thẻ Đề Xuất
+こんな遊戯は破廉恥ですわ！=Những Trò Chơi Này Thật Không Đứng Đắn!
+わたくしを見てほしいですわ=Em Muốn Ngài Chú Ý Đến Em
+ちょっと気持ち悪いですわ……=Em Cảm Thấy Hơi Không Khỏe...
+
+Hinagi
+ホウライから来た陰陽師=Âm Dương Sư Từ Hourai
+縁結びのおまじない=Bùa Kết Duyên
+英雄の血が持つ気の流れ=Luồng Khí Bên Trong Dòng Máu Anh Hùng
+摩臍過気の法=Bí Thuật Manseikaki
+龍脈を持つ者=Người Mang Long Mạch
+邪気の残響を追え=Đi Theo Dư Âm Của Ác Ý
+
+Veera
+久しぶり、お姉ちゃん=Đã Lâu Không Gặp, Chị Gái
+ありがとう、お姉ちゃん=Cảm Ơn Nhé, Chị Gái
+すごいね、お姉ちゃん=Chị Thật Tuyệt Vời, Chị Gái
+秘めたる才能=Tài Năng Tiềm Ẩn
+ヴィーラお姉ちゃんの筆下ろし=Nét Cọ Đầu Tiên Của Chị Villa
+
+Magnolia
+花咲く騒がしさ=Sự Nhộn Nhịp Của Những Bông Hoa Nở
+特別なお友達=Một Người Bạn Đặc Biệt
+森のお姫様=Công Chúa Của Khu Rừng
+おにいさんと仲良くなりたい=Em Muốn Thân Thiết Hơn Với Anh Trai
+お口で許してください？=Anh Sẽ Tha Thứ Bằng Miệng Em Chứ?
+
+譲れない気持ち=Tình Cảm Không Thể Nhường
+火もつけられないのぉ〜？=Không Thể Nhóm Lửa Được Sao~?
+ぜっっったいに負けない！=Nhất Định Không Thua!
+あたしが勝ったじゃないっ！！=Chẳng Phải Tôi Đã Thắng Sao!!
+わからせ執行=Hành Quyết Giác Ngộ
+初めての夜=Đêm Đầu Tiên
+ベリサの初出勤=Ca Đầu Tiên Của Verisa
+道場破りはちびっこ剣士？=Kẻ Phá Đảo Võ Đường Là Kiếm Sĩ Nhỏ?
+道しるべを追って=Theo Đuổi Cột Mốc
+恩義と忠義のありか=Nơi Ân Nghĩa Và Trung Thành Thuộc Về
+あたしは子どもじゃない！=Tôi Đâu Còn Là Trẻ Con!
+司令官しかいないから=Vì Chỉ Có Chỉ Huy Quan Mà Thôi
+太ももコキのプロ=Chuyên Gia Kẹp Đùi
+ウェンディの新しい職場=Chỗ Làm Mới Của Wendy
+ウェンディと魔法使い達=Wendy Và Các Pháp Sư
+ウェンディの火中の活躍=Wendy Chiến Đấu Giữa Lửa Đạn
+壊れてしまったかもしれません=Có Lẽ Tôi Đã Hỏng Mất Rồi
+胸（特殊魔導炉）が高鳴ります=Trái Tim (Lò Ma Đạo Đặc Biệt) Của Tôi Đang Loạn Nhịp
+わたしがお相手を務めます=Tôi Sẽ Làm Đối Thủ Của Ngài
+ホノカ語を解読せよ！！=Giải Mã Ngôn Ngữ Honoka!!
+暮らしは順風満帆……？=Cuộc Sống Thuận Buồm Xuôi Gió...?
+えっちを教えて！=Dạy Tôi Chuyện Ấy Đi!
+犬っ子鍛冶師・ホノカ！=Honoka - Thợ Rèn Cún Con!
+気持ち良くしてあげるぞ！=Tôi Sẽ Làm Cho Anh Sướng!
+気持ちいいところを教えて！=Chỗ Nào Thoải Mái Thì Nói Cho Tôi Biết!
+最高の夜にしましょうっ！=Hãy Biến Đêm Nay Thành Đêm Tuyệt Nhất!
+技術だけじゃ足りないの=Chỉ Có Kỹ Thuật Thôi Là Chưa Đủ
+エルドラーナで一番の踊り子！=Vũ Công Giỏi Nhất Eldrana!
+彼女のダンスに足りないもの=Điều Còn Thiếu Trong Điệu Nhảy Của Cô Ấy
+テクニックを磨いて女を磨く=Mài Giũa Kỹ Thuật, Tôi Luyện Bản Thân
+レッスンの成果を試す時=Lúc Thử Nghiệm Thành Quả Bài Học
+怒りに身を任せて=Mặc Cho Cơn Giận Dẫn Lối
+ゴブリン達の襲来=Cuộc Xâm Lăng Của Lũ Goblin
+ペルディオンから来たメイド=Cô Hầu Gái Từ Perdion
+悪戯はやめてください御主人様=Xin Đừng Trêu Chọc Tôi, Chủ Nhân
+ご奉仕させてください御主人様=Xin Hãy Để Tôi Phục Vụ Ngài, Chủ Nhân
+ハーブティーが思い出させた事=Điều Mà Trà Thảo Mộc Gợi Lại
+調査せよ！　幽霊騒動！=Điều Tra! Vụ Ồn Ào Ma Quái!
+怪奇！　前線基地の心霊現象！=Kỳ Bí! Hiện Tượng Tâm Linh Tại Tiền Đồn!
+恐怖！　ポルターガイスト！=Kinh Hoàng! Đồ Đạc Bay Loạn Xạ!
+あなたの手を取って=Nắm Lấy Tay Anh
+心を繋げて=Kết Nối Trái Tim
+憧れの人はあなた=Người Tôi Ngưỡng Mộ Là Anh
+我が暗黒に飲まれて眠れ！=Chìm Trong Bóng Tối Của Ta Và Ngủ Đi!
+きょ、今日はいい天気ですね！=H-Hôm Nay Thời Tiết Đẹp Quá Nhỉ!
+闇の女王たる我に続けーっ！=Theo Ta, Nữ Vương Bóng Tối Này!
+運命の鎖に繋がれた関係=Quan Hệ Bị Trói Buộc Bởi Sợi Xích Định Mệnh
+素直になれなくて=Không Thể Thành Thật
+神の教えで救済したいのです=Em Muốn Cứu Rỗi Qua Lời Dạy Của Thần
+神の教えを説いただけですよ=Em Chỉ Giảng Giải Lời Dạy Của Thần
+あなたは神の御使いなのです=Ngài Là Sứ Giả Của Thần
+神の面前で=Trước Sự Chứng Giám Của Thần
+隣人を愛せよ=Hãy Yêu Thương Người Lân Cận
+いけー！　あたしの火炎魔法！=Bay Nào! Hỏa Diệm Ma Pháp Của Tôi!
+勉強は真面目にやりたいの=Em Muốn Học Hành Nghiêm Túc
+魔法使いはかわいくてモテるから=Vì Pháp Sư Dễ Thương Và Được Yêu Thích
+先生との研修=Huấn Luyện Cùng Thầy Giáo
+ちょっと強引なお客さん=Một Vị Khách Hơi Cứng Rắn
+これは制服ですっ！=Đây Là Đồng Phục Mà!
+死と隣り合わせの厳しい訓練=Huấn Luyện Khắc Nghiệt Bên Bờ Vực Sinh Tử
+結成！　セクハラ撃滅烈士隊！=Thành Lập! Đội Diệt Trừ Quấy Rối Tình Dục!
+手配書の海賊を追って=Truy Đuổi Tên Cướp Biển Trong Lệnh Truy Nã
+沿岸警備の日焼け跡=Dấu Rám Nắng Của Cảnh Vệ Bờ Biển
+オークション開催！=Đấu Giá Bắt Đầu!
+ただ入札しているだけです♪=Em Chỉ Đang Trả Giá Thôi Mà♪
+これがお金の正しい使い道=Đây Mới Là Cách Tiêu Tiền Đúng Đắn
+美味しすぎる特典に惹かれて=Bị Thu Hút Bởi Phần Thưởng Quá Hấp Dẫn
+二足の草鞋で稼ぎましょうっ！=Hãy Kiếm Tiền Bằng Hai Công Việc Nào!
+\\thiếu cảnh bond lv15=\\thiếu cảnh bond lv15
+森で育ったクルル=Kururu Lớn Lên Trong Rừng
+セイカリオンの鉱脈を求めて=Tìm Kiếm Mạch Quặng Seikalion
+クルルとハチミツ=Kururu Và Mật Ong
+ご主人さまの『しっぽ』='Cái Đuôi' Của Chủ Nhân
+クルルにまかせて！=Cứ Giao Cho Kururu!
+\\thiếu cảnh bond lv15=\\thiếu cảnh bond lv15
+傷つき、色あせ、輝いて=Tổn Thương, Phai Màu, Vẫn Tỏa Sáng
+小さな体とたくさんの歴史=Cơ Thể Nhỏ Bé, Cả Một Chặng Lịch Sử Dài
+遠い日の贈りもの=Món Quà Từ Một Ngày Xa Xưa
+長寿な彼女は経験豊富……？=Cô Ấy Trường Thọ Và Giàu Kinh Nghiệm...?
+最強の娼婦『J』=Kỹ Nữ Mạnh Nhất 'J'
+副官はわたくしなのに！=Phó Quan Rõ Ràng Là Tôi Mà!
+副官の座は絶対に渡さない！=Tôi Nhất Định Không Nhường Ghế Phó Quan!
+レイゼリア様の副官ライムです=Tôi Là Lime, Phó Quan Của Đại Nhân Razelia
+お堅い彼女との酔いどれエッチ=Chuyện Ấy Say Rượu Với Một Cô Nàng Cứng Nhắc
+２度目の初体験=Lần Đầu Thứ Hai
+お困りと聞いて参上しました！=Nghe Nói Ngài Gặp Rắc Rối, Tôi Đã Tới!
+どうすればいいんでしょうっ=Phải Làm Sao Đây!
+それがわたしの騎士道です！=Đó Mới Là Kỵ Sĩ Đạo Của Tôi!
+忠誠と愛を捧ぐ=Dâng Hiến Trung Thành Và Tình Yêu
+主に重ねて=Hòa Làm Một Với Chủ Nhân
+本当の笑顔で=Với Nụ Cười Chân Thật
+殺すべきではありませんか？=Chẳng Lẽ Không Nên Giết Nó Sao?
+事務員を志望しています=Em Đang Theo Đuổi Nghề Nhân Viên Văn Phòng
+従順な元殺し屋と=Cùng Với Cựu Sát Thủ Ngoan Ngoãn
+元殺し屋のスキル=Kỹ Năng Của Một Cựu Sát Thủ
+本社復帰は間違いなし♪=Quay Về Trụ Sở Chính Chắc Chắn Thành Công♪
+新聞記者、エメルダと申します=Tôi Là Emelda, Phóng Viên Báo Chí
+絶対絶命のエメルダ=Emelda Trong Cơn Nguy Khốn
+Mの本能=Bản Năng Của M
+最高の記事を書いてみせます！=Tôi Sẽ Viết Bài Báo Hay Nhất!
+採掘家の怪しい秘密=Bí Mật Đáng Ngờ Của Người Khai Thác
+謎多きダリアの噂=Những Lời Đồn Về Dahlia Đầy Bí Ẩn
+元盗賊の隠しごと=Bí Mật Của Kẻ Từng Là Đạo Tặc
+口下手彼女の素直な気持ち=Cảm Xúc Chân Thật Của Cô Gái Ngại Ngùng
+新たな性の目覚め=Thức Tỉnh Tình Dục Mới
+頭を狙って撃つ=Nhắm Đầu Mà Bắn
+前線基地の風景=Cảnh Vật Tại Tiền Đồn
+ヒマリとクルル=Himari Và Kururu
+不器用で、愛らしいご奉仕=Phục Vụ Vụng Về Nhưng Đáng Yêu
+勇気を振り絞って=Gom Hết Can Đảm
+芽吹き始める自信=Sự Tự Tin Đang Chớm Nảy Mầm
+堅物エルフの用心棒=Vệ Sĩ Elf Cứng Nhắc
+エルミアの弓と聖剣奪還作戦=Chiến Dịch Thu Hồi Cung Và Thánh Kiếm Của Elmia
+岩を撃ち抜く決意の矢=Mũi Tên Của Sự Quyết Tâm Xuyên Qua Núi Đá
+エルフの刺激的な人間観察=Cách Người Elf Quan Sát Con Người Đầy Hứng Thú
+何だかドキドキする=Tim Cứ Đập Rộn Ràng
+少女はパンダと旅をする=Cô Gái Lữ Hành Cùng Gấu Trúc
+不器用なオーバーパワー=Sức Mạnh Vụng Về Vượt Trội
+それは壊せない想い=Đó Là Cảm Xúc Không Thể Phá Vỡ
+先生の役目=Trách Nhiệm Của Người Thầy
+シャオレイのお礼の仕方=Cách Tiểu Lôi Bày Tỏ Lòng Biết Ơn
+夜だけ開いてる魔石細工店=Tiệm Trang Sức Ma Thạch Chỉ Mở Cửa Ban Đêm
+たった１人の大切なお友達=Người Bạn Quý Giá Duy Nhất
+ブローチ捜索隊の結成=Thành Lập Đội Tìm Kiếm Trâm Cài
+怪しい光の魔石細工=Trang Sức Ma Thạch Phát Ánh Sáng Kỳ Lạ
+コミュ障克服大作戦=Chiến Dịch Lớn Khắc Phục Chứng Ngại Giao Tiếp
+敵前逃亡なんて騎士の恥です！=Chạy Trốn Trước Kẻ Địch Là Nỗi Nhục Của Kỵ Sĩ!
+子ども扱いはやめてください！=Xin Đừng Đối Xử Với Tôi Như Con Nít!
+正義のために戦いたいんです！=Tôi Muốn Chiến Đấu Vì Chính Nghĩa!
+ショーカンで修行を積めば……=Nếu Tôi Khổ Luyện Ở Shokan...
+本で見知った過激プレイ=Trò Chơi Mạnh Bạo Học Được Từ Sách
+くすんだ石ころ=Viên Đá Mờ Đục
+工兵隊員ベティ=Công Binh Betty
+小さな工兵隊長=Tiểu Đội Trưởng Công Binh
+わたしではダメでしょうかっ=Em Có Lẽ Nào Không Được Sao?
+どうしても恥ずかしくって……=Sao Cũng Thấy Ngại Quá Đi...
+強盗をやらかしたのはお前だな=Kẻ Gây Ra Vụ Cướp Là Mày Phải Không
+ぜーんぶ、司令官のせいよ！！=Tất Cả Là Tại Chỉ Huy Quan Đó!!
+懸賞金の分け前が減っちゃう！=Phần Tiền Thưởng Của Tôi Sẽ Bị Giảm Mất!
+お灸を据えに=Dạy Cho Một Bài Học
+やる気のない接客=Phục Vụ Miễn Cưỡng
+助け、助けられて=Giúp Đỡ Và Được Giúp Đỡ
+がんばりすぎは禁物=Đừng Cố Gắng Quá Sức
+テルーはみんなの人気者=Teru, Người Được Mọi Người Yêu Thích
+ラッキースケベのその先=Vượt Xa Cả Vụ May Mắn Tà Dâm
+テルーママとの癒しのひと時=Khoảnh Khắc Chữa Lành Cùng Mẹ Teru
+ようこそ、メレムの占い館へ=Chào Mừng Đến Với Tiệm Bói Toán Của Merem
+占いに導かれし者たちの試練=Thử Thách Của Những Người Được Số Mệnh Dẫn Dắt
+占い師が導く運命の分かれ道=Ngã Rẽ Định Mệnh Mà Thầy Bói Dẫn Lối
+忘れたい過去=Quá Khứ Muốn Quên
+新たな占い方法=Phương Pháp Bói Toán Mới
+暗殺のターゲットは司令官さ=Mục Tiêu Ám Sát Là Chỉ Huy Quan
+グッバイ、司令官=Tạm Biệt, Chỉ Huy Quan
+借りを返しただけだ=Chỉ Là Trả Lại Ân Huệ
+私の後ろに立たないで=Đừng Đứng Sau Lưng Tôi
+ルディアさんの頼み事=Lời Thỉnh Cầu Của Ludia
+い、１杯ぐらいなら大丈夫です=M-Một Ly Thì Chắc Không Sao
+本当に治療が必要なんですか？=Thật Sự Cần Chữa Trị Sao?
+あなたは私が治します=Anh Sẽ Do Tôi Chữa Trị
+\\thiếu cảnh bond=\\thiếu cảnh bond
+わたしの憧れの司令官さま=Chỉ Huy Quan Mà Em Ngưỡng Mộ
+本当に失礼で無礼な方！=Một Người Thật Sự Hỗn Láo Và Thô Lỗ!
+お優しくて勇敢で立派な御方！=Một Người Tốt Bụng, Dũng Cảm Và Đáng Kính!
+黄色い花に御注意！=Cẩn Thận Những Bông Hoa Màu Vàng!
+司令官さまのお役に立ちたくて=Em Muốn Có Ích Cho Chỉ Huy Quan
+これから大雨が降りますから！=Vì Sắp Có Mưa Rất To!
+……龍神さま、お願いします！=...Long Thần, Xin Hãy Phù Hộ!
+龍神さまのご加護です！=Đây Là Phúc Lành Của Long Thần!
+大人の階段=Các Bậc Thang Trưởng Thành
+ヤチヨお姉さんの筆下ろし=Nét Cọ Đầu Của Chị Yachiyo
+世界一の格闘家になるんだから=Ta Sẽ Trở Thành Võ Sĩ Mạnh Nhất Thế Giới
+次は負けないから！=Lần Sau Nhất Định Không Thua!
+さいきょーの２人だもん！=Vì Bọn Mình Là Bộ Đôi Mạnh Nhất Mà!
+酒場の２階は戦いの舞台=Tầng Hai Của Quán Rượu Là Võ Đài Đấu
+予想外の奇襲攻撃=Cuộc Tập Kích Bất Ngờ
+ファンサが手厚すぎるぅ……！=Phục Vụ Fan Nhiệt Tình Quá Đi...!
+騎士活♪ゴーゴーレッツゴー！=Hoạt Động Kỵ Sĩ♪ Go, Go, Let's Go!
+騎士活ってダメなことですか？=Hoạt Động Kỵ Sĩ Có Gì Sai Sao?
+推し活資金が足りなくて=Vì Thiếu Quỹ Cho Hoạt Động Hâm Mộ
+騎士活界隈の姫=Công Chúa Của Giới Hoạt Động Kỵ Sĩ
+腕とか足はとれやすいけど=Tay Hay Chân Dễ Rơi Ra, Nhưng Mà
+生きがいを見つけた気分です♪=Em Thấy Như Đã Tìm Được Ý Nghĩa Cuộc Sống♪
+生き返っちゃいそうです！=Em Cảm Giác Như Sống Lại Vậy!
+秘伝の技で精気注入=Truyền Tinh Khí Bằng Kỹ Thuật Bí Truyền
+あの時とは何かが違う=Có Gì Đó Khác So Với Lúc Đó
+あなたを信じて引き金を=Tin Anh Mà Kéo Cò
+全ては偶然で――？=Tất Cả Chỉ Là Ngẫu Nhiên...?
+ダメダメなんです！=Tệ Hại Quá Đi!
+魔法の首輪に勇気をもらって=Lấy Can Đảm Từ Chiếc Vòng Cổ Ma Thuật
+もっと上手になりたくて=Muốn Giỏi Hơn Nữa
+\\thiếu bond lv15=\\thiếu bond lv15
+ご命令のままに、ご主人様=Như Lệnh Ngài Truyền, Chủ Nhân
+官能小説とフレーム問題=Tiểu Thuyết Khiêu Dâm Và Vấn Đề Khung
+命令と感情とプログラムと=Mệnh Lệnh, Cảm Xúc Và Chương Trình
+発情モード、起動=Chế Độ Phát Tình, Khởi Động
+超高性能セクサロイド対超性豪=<cspace=-0.1em><line-height=60%>Sexaroid Siêu Năng Lực Đấu Với Siêu Dâm Sĩ</line-height></cspace>
+//thiếu bond lv15=//thiếu bond lv15
+頼ってもいいのかもしれない=Có Lẽ Tôi Có Thể Dựa Dẫm
+ズボンの前はしまっているか？=Cửa Quần Của Anh Đã Kéo Khóa Chưa?
+直視できるわけがないだろう！=Sao Mà Dám Nhìn Thẳng Cho Được!
+夢の再現=Tái Hiện Giấc Mơ
+妖艶なる戯れ=Trò Đùa Quyến Rũ
+//thiếu bond lv15=//thiếu bond lv15
+美味しそうに食べてくれてるよ=Anh Ăn Ngon Quá Đi
+お菓子の国のパティシエとして=Là Đầu Bếp Bánh Ngọt Của Vương Quốc Kẹo Ngọt
+甘い甘いスイーツで癒やします=Tôi Sẽ Chữa Lành Bằng Những Món Ngọt Ngào
+ミルに教えてくれませんか～？=Anh Có Thể Chỉ Cho Myrt Không~?
+マシュマロにシロップかけて♡=Rưới Si-rô Lên Kẹo Dẻo Nè♡
+//thiếu bond lv15=//thiếu bond lv15
+波音に再会を誓って=Thề Hẹn Tái Ngộ Trong Âm Sóng
+てんちょーを探せ！=Tìm Kiếm Ông Chủ!
+波音の思い出=Ký Ức Về Sóng Biển
+２階で研修してください=Hãy Đào Tạo Tại Tầng Hai
+あたしのおっぱいどうですか？=Ngực Của Tôi Thế Nào?
+//thiếu bond lv15=//thiếu bond lv15
+水の精霊パワー！=Sức Mạnh Tinh Linh Nước!
+ヒュメナ逃走中！！=Humena Đang Bỏ Trốn!!
+一世一代の大芝居=Vở Kịch Lớn Nhất Cuộc Đời
+人間の交尾って？=Giao Phối Của Con Người Là Gì?
+私が癒やしてあげる♡=Để Tôi Chữa Lành Cho Anh♡
+//thiếu bond lv15=//thiếu bond lv15
+わたしの憧れの司令官さま=Chỉ Huy Tôi Ngưỡng Mộ
+本当に失礼で無礼な方！=Người Thô Lỗ Kinh Khủng!
+お優しくて勇敢で立派な御方！=Người Tốt Bụng, Dũng Cảm và Cao Quý!
+黄色い花に御注意！=Coi Chừng Hoa Vàng!
+司令官さまのお役に立ちたくて=Tôi Muốn Phục Vụ Chỉ Huy
+
+Yachiyo
+これから大雨が降りますから！=Mưa Lớn Sắp Đến!
+……龍神さま、お願いします！=...Thần Rồng, Xin Hãy!
+龍神さまのご加護です！=Phước Lành Của Thần Rồng!
+大人の階段=Cầu Thang Trưởng Thành
+ヤチヨお姉さんの筆下ろし=Lần Đầu Của Chị Yachiyo
+
+Luca
+世界一の格闘家になるんだから=Tôi Sẽ Trở Thành Chiến Binh Vĩ Đại Nhất!
+次は負けないから！=Lần Sau Tôi Sẽ Không Thua!
+さいきょーの２人だもん！=Chúng Ta Là Bộ Đôi Mạnh Nhất!
+酒場の２階は戦いの舞台=Đấu Trường Tầng Hai Quán Rượu
+予想外の奇襲攻撃=Cuộc Phục Kích Bất Ngờ
+
+Chloe
+ファンサが手厚すぎるぅ……！=Phục Vụ Người Hâm Mộ Tuyệt Quá...!
+騎士活♪ゴーゴーレッツゴー！=Phong Tước♪ Đi Nào!
+騎士活ってダメなことですか？=Phong Tước Có Gì Sai Sao?
+推し活資金が足りなくて=Tôi Thiếu Tiền Oshi
+騎士活界隈の姫=Công Chúa Của Cảnh Phong Tước
+
+Feilin
+
+Etia
+あなたを信じて引き金を=Tin Tưởng Em, Em Kéo Cò
+\\thiếu bond lv15
+
+Electra
+//thiếu bond lv15
+
+Wisteria
+//thiếu bond lv15
+
+Myrtille
+美味しそうに食べてくれてるよ=Em Thích Nó Đến Thế Cơ À
+//thiếu bond lv15
+
+Emily
+//thiếu bond lv15
+
+Humena
+//thiếu bond lv15
+
+白銀のエルフ・シラエス=Shiraes, Elf Bạc
+
+キラキラとした彼らと共に=Cùng Những Người Tỏa Sáng
+
+シラエスママの失態=Sơ Suất Của Mama Shiraes
+
+特別な好き=Một Kiểu Yêu Đặc Biệt
+
+自分だけしか知らない彼女の姿=Dáng Vẻ Của Nàng Chỉ Mình Ta Biết
+
+慈愛のエルフ=Elf Nhân Ái
+
+あいつはオレが使役してやる！=Ta Sẽ Sai Khiến Hắn!
+
+司令官！　さぁ、勝負だ！=Chỉ huy! Nào, quyết đấu thôi!
+
+人間より強くて賢くてえらい！=<cspace\=-0.05em>Mạnh Hơn, Khôn Hơn Và Vĩ Đại Hơn Con Người!
+
+なんちゃって夢魔=Mộng Ma Tập Sự
+
+人間どもを使役してやる！=Ta Sẽ Sai Khiến Lũ Con Người Các Ngươi!
+
+旦那様のことを愛しています=Thiếp yêu phu quân
+
+旦那様と仲を深めるために=Để Gần Gũi Phu Quân Hơn
+
+司令官様と添い遂げたいです=Thiếp Muốn Ở Bên Chỉ Huy Suốt Đời
+
+据え膳食わぬは男の恥=Đàn Ông Không Nên Từ Chối Mâm Cỗ Dâng Sẵn
+
+愛する旦那様のために……=Vì Phu Quân Yêu Dấu...
+
+お淑やかなご奉仕=Phụng Sự Dịu Dàng
+
+撃たれたい人からどうぞ=Ai muốn bị bắn thì bước lên
+
+仕事なんてクソくらえだー！=Công việc cái quái gì chứ!
+
+両手を上にあげてくれませんか=Có thể giơ hai tay lên không?
+
+濡れた彼女との一夜=Một Đêm Với Nàng Ướt Át
+
+媚薬にはご注意を=Cẩn Thận Với Xuân Dược

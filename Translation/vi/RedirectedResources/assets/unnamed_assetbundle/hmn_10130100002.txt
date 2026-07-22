@@ -1,0 +1,730 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,101301000G,フレデリカ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Tiêu Đề
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0024,0.75,1
+
+
+
+asyncseplay,setag1_1,se4403003,0,1,STOP,0
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asynccharamove,chara_1,Set,X,-100,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1.3,0,CONT,0
+
+asynccharashow,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,100,0.3,CONT,0
+
+asyncwait
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_2,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Đây là nhà của sư phụ đấy… hà.<br>Cuối cùng cũng tới nơi rồi… ,101301000G,vc_10130100002_001_01,chara_1
+
+message,<user>,Tâm trạng em lại tụt thêm nữa rồi nhỉ…<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_3,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,Chỉ riêng việc tới được đây đã lằng nhằng đủ thứ rồi còn gì?<br>Thế nên tôi càng thấy ngán hơn đấy.<br> ,101301000G,vc_10130100002_002_01,chara_1
+
+message,<user>,Cứ cách một quãng lại phải nhỏ loại thuốc đặc biệt xuống đất<br>để tạm thời gỡ kết giới cản nhận thức thì mới thấy nơi này… à. Đúng là chỗ ẩn thân thật.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_4,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Dù quân đội có kéo tới tấn công thì chắc cũng chẳng tìm ra căn nhà này đâu.<br> ,101301000G,vc_10130100002_003_01,chara_1
+
+message,<user>,Sư phụ của em là một pháp sư khá tài giỏi nhỉ.<br> 
+
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,フレデリカ,Ừ. Nếu chỉ nói về tay nghề ma thuật thì đúng là lão giỏi thật.<br>Còn mọi thứ khác thì tệ hết mức.<br> ,101301000G,vc_10130100002_004_01,chara_1
+
+message,<user>,Trông em ghét ra mặt đấy‚ không vào à?<br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,フレデリカ,Đến tận trước cửa rồi mới…<br>bao ký ức đáng nguyền rủa lại… ưưư…!<br> ,101301000G,vc_10130100002_005_01,chara_1
+
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,フレデリカ,Nào‚ vậy thay vì gõ cửa‚<br>tôi ném thuốc nổ vào nhé♪<br> ,101301000G,vc_10130100002_006_01,chara_1
+
+message,<user>,Đừng gây cháy rừng chứ… Nào‚ đi thôi.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_8,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,フレデリカ,Ưềềề… biết rồi‚ đi thì đi…<br> ,101301000G,vc_10130100002_007_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_9,se4020001,0,1,CONT,0
+
+asynccharamove,chara_1,Linear,X,300,0.7,CONT
+
+asynccharamove,chara_1,Linear,Y,0,0.7,CONT,0
+
+asyncwait
+
+sestop,setag1_9,0.1
+
+wait,0.5
+
+asyncseplay,setag1_10,se4300001,0,1,CONT,0
+
+window,on,0.15
+message,,Cộc cộc!<br> 
+
+message,師匠,Vào đi.<br> ,900000001
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_11,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,…Quả nhiên ngay lúc gỡ kết giới<br>là lão biết bọn mình tới rồi.<br> ,101301000G,vc_10130100002_008_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_12,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Xin phép làm phiền ạ…<br> ,101301000G,vc_10130100002_009_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asyncseplay,setag1_13,se4300003,0,1,STOP,0
+
+
+transitionFade,Tra01,out,black,1
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg13500a
+
+scale,BACK,,0,1,1,Set
+
+transitionFade,Tra02,in,black,1
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asynccharamove,chara_1,Set,X,-100,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1.3,0,CONT,0
+
+asynccharashow,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,100,0.3,CONT,0
+
+asyncwait
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Ờm‚ sư phụ… lâu rồi không gặp—<br> ,101301000G,vc_10130100002_010_01,chara_1
+
+message,師匠,Những lúc thế này phải nói ""Con về rồi"" mới đúng chứ nhỉ.<br> ,900000001
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_15,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,Ưẹ!?<br> ,101301000G,vc_10130100002_011_01,chara_1
+
+message,<user>,Lão vòng ra sau lưng Frederica từ lúc nào vậy…!?<br> 
+
+message,師匠,Là hiệu quả của thuốc xóa khí tức đấy‚ hô hô.<br> ,900000001
+
+message,師匠,Nhưng Frederica à‚ lâu lắm rồi mới gặp con. Da con vẫn trắng trẻo<br>mịn màng thật đẹp như xưa.<br> ,900000001
+
+message,師匠,Nào nào… liếm gáy một cái.<br> ,900000001
+
+
+asyncshake,CHARA,chara_1,30,15,1.5,10,on,off,0,off,CONT,0
+
+asyncseplay,setag1_16,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,Áaaaaaaaaaa!?<br> ,101301000G,vc_10130100002_012_01,chara_1
+
+message,<user>,…Ra vậy‚ là chuyện thế này à.<br> 
+
+message,師匠,Ừm ừm‚ càng lớn tuổi lại càng thêm hương vị‚ ọc…!?<br> ,900000001
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asyncseplay,se1_1001,SE_DUMMY,0,1,CONT,0
+
+asyncshake,BACK,,12,0,0.6,7,off,off,0,on,CONT,0
+asyncshake,CHARA,chara_1,12,0,0.6,7,off,off,0,on,CONT,0
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,40,0.4,4,off,0,CONT
+
+asyncseplay,setag1_17,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Đệ tử lâu ngày mới ghé mặt mà ông lập tức liếm cổ là sao hả?<br>Cái lão già dê biến thái này nghĩ gì trong đầu vậy!!<br> ,101301000G,vc_10130100002_013_01,chara_1
+
+shakeallstop
+
+asyncjump,CHARA,chara_1,-40,0.6,5,off,0,CONT
+
+
+message,フレデリカ,Biết xấu hổ đi!! Này! Này!! Chết đi!!<br> ,101301000G,vc_10130100002_014_01,chara_1
+
+message,師匠,Ọc! Khụ!? Ưưư… cú đá khá đấy…!<br>Này‚ cậu trẻ kia. Nếu cậu sắp sửa ngăn con bé lại thì—<br> ,900000001
+
+window,off
+wait,0.15
+
+charafocusonall
+
+sestop,se1_1001,0.1
+
+
+asyncseplay,se1_1003,SE_DUMMY,0,1,CONT,0
+
+window,on,0.15
+message,<user>,……………………<br> 
+
+message,師匠,Gwooooo!? Ngươi cũng hùa vào sao… đúng là quỷ dữ mà‚<br>hô hô hô… đau‚ đau đau‚ á đau đau đau…!?<br> ,900000001
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,フレデリカ,Cảm ơn. Cùng tôi tiêu diệt con dâm thú này nào.<br> ,101301000G,vc_10130100002_015_01,chara_1
+
+message,師匠,Ôi‚ Frederica… từ khi nào con biết bày ra vẻ mặt tuyệt vời<br>như đang nhìn rác rưởi thế này‚ a đau đau đau đau!!<br> ,900000001
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_18,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Dai sức thật đấy…<br> ,101301000G,vc_10130100002_016_01,chara_1
+
+message,師匠,Này‚ à thì‚ ít nhất cũng tạm dừng một chút được không…!<br> ,900000001
+
+sestop,se1_1003,1
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg13500a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_1,FaceSad
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+window,on,0.15
+message,師匠,…Nào‚ hai người có chuyện muốn hỏi đúng không?<br>Ta sẽ nghe chuyện của ái đồ và ngài Chỉ Huy đây.<br> ,900000001
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncseplay,setag1_19,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,フレデリカ,Bị đánh bầm dập tới vậy<br>mà ông vẫn thản nhiên vào lại chủ đề được à…<br> ,101301000G,vc_10130100002_017_01,chara_1
+
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_20,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,フレデリカ,…Khoan‚ hả? Sao sư phụ biết người này là Chỉ Huy?<br>Bọn tôi còn chưa xưng danh mà…<br> ,101301000G,vc_10130100002_018_01,chara_1
+
+message,師匠,Chuyện về Căn Cứ Tiền Tuyến đã truyền tới cả vùng hẻo lánh này.<br>Và cả lời đồn về ngài Chỉ Huy trẻ tuổi tài giỏi nữa.<br> ,900000001
+
+message,師匠,Ngay lúc các ngươi bước vào rừng‚ ta đã nhìn thấy qua thủy tinh cầu này.<br>Nhìn phong thái trí tuệ ấy là ta đoán ra ngài là Chỉ Huy ngay.<br> ,900000001
+
+message,<user>,Ông quan sát chúng tôi qua thủy tinh cầu…?<br>Quả nhiên ông là một thuật sư rất tài giỏi.<br> 
+
+message,師匠,Nếu ngài đã công nhận ta tới mức đó<br>thì lúc đánh cũng nên nương tay hơn chút chứ…<br> ,900000001
+
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_21,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,フレデリカ,Nhân tiện‚ sư phụ. Đây là lần đầu tôi thấy thủy tinh cầu đó…<br>Chẳng lẽ ông dùng nó vào việc bất chính nào đấy chứ?<br> ,101301000G,vc_10130100002_019_01,chara_1
+
+message,師匠,Không có không có. …Không‚ thật sự là không mà?<br>Đừng dùng nụ cười ấy gây áp lực nữa‚ ái đồ của ta.<br> ,900000001
+
+message,<user>,Vậy vào chuyện chính thôi. Nội dung này khó nói với Frederica<br>nên để tôi giải thích. Thật ra—<br> 
+
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg13500a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_1,FaceSad
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+wait,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,師匠,…Ra là vậy.<br> ,900000001
+
+message,師匠,Hừm… đúng là tình huống khá ngon… khá phiền phức nhỉ.<br> ,900000001
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_22,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Vừa rồi ông suýt nói ""ngon"" đấy à…?<br> ,101301000G,vc_10130100002_020_01,chara_1
+
+message,<user>,Frederica‚ muốn ra tay thì nghe lão nói xong đã.<br> 
+
+message,<user>,Tôi nghĩ… nguyên nhân là một loại ma pháp hay lời nguyền nào đó<br>mà ông đã đặt lên Frederica. Ông thấy sao?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,フレデリカ,Hả! Thật vậy sao sư phụ!?<br> ,101301000G,vc_10130100002_021_01,chara_1
+
+message,師匠,Hô hô hô. Nào nào‚ chuyện thế nào nhỉ.<br> ,900000001
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_24,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,フレデリカ,Để xem‚ thuốc nổ mình mang theo chỉ có bấy nhiêu thôi à…<br> ,101301000G,vc_10130100002_022_01,chara_1
+
+message,師匠,…Nếu không nói thật thì mạng ta có vẻ nguy hiểm‚ nên ta thú nhận vậy.<br>Thật ra từng có lúc ta định dùng ma thuật dâm dục lên con bé.<br> ,900000001
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_25,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+message,フレデリカ,Quả nhiên nguyên nhân là sư phụ… khoan‚ hả?<br>""Định dùng"" là sao…?<br> ,101301000G,vc_10130100002_023_01,chara_1
+
+message,師匠,Tất cả ma thuật dâm dục đều bị bật ngược. Dù ta đã dùng nhiều lần vẫn thế.<br> ,900000001
+
+message,師匠,Đây vẫn chỉ là giả thuyết thôi… nhưng có lẽ Frederica<br>được một bí thuật dâm ma mạnh mẽ bảo vệ từ khi sinh ra.<br> ,900000001
+
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_26,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,フレデリカ,Ưeeee…? Tôi… bí thuật dâm ma…? Lại còn từ khi sinh ra…?<br> ,101301000G,vc_10130100002_024_01,chara_1
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_27,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,フレデリカ,C-chuyện vô lý như thế… làm gì có được! Ba mẹ tôi đều là con người mà!<br> ,101301000G,vc_10130100002_025_01,chara_1
+
+message,<user>,Em gọi là ba mẹ à. Dễ thương thật.<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,フレデリカ,I-i-im đi! Trọng điểm đâu phải chuyện đó!<br> ,101301000G,vc_10130100002_026_01,chara_1
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,Tóm lại… sư phụ đang nói cái gì vậy!?<br> ,101301000G,vc_10130100002_027_01,chara_1
+
+message,師匠,Ta liên tục dùng ma pháp dâm dục với đủ cường độ lên con bé<br>và tất cả đều bị bật ngược nên mới suy đoán như vậy! Sao nào‚ thuyết phục chư—ọc!?<br> ,900000001
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_30,se4400106,0,1,CONT,0
+
+shake,BACK,,40,0,0.25,20,off,off,0
+shake,CHARA,chara_1,40,0,0.25,20,off,off,0
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Có quá nhiều chuyện gây sốc nên tôi lỡ nghe cho qua<br>nhưng ông vừa nói một chuyện không thể bỏ qua đấy!<br> ,101301000G,vc_10130100002_028_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asyncseplay,se1_1005,SE_DUMMY,0,1,CONT,0
+
+asyncshake,BACK,,12,0,0.6,7,off,off,0,on,CONT,0
+asyncshake,CHARA,chara_1,12,0,0.6,7,off,off,0,on,CONT,0
+
+asyncjump,CHARA,chara_1,40,0.4,4,off,0,CONT
+
+asyncseplay,setag1_32,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+
+window,on,0.15
+message,フレデリカ,Ông nói đã nhiều lần dùng ma pháp dâm dục lên tôi là sao hảaaa!?<br> ,101301000G,vc_10130100002_029_01,chara_1
+
+shakeallstop
+
+message,師匠,Khụ‚ khặc‚ hộc!? H-hôm nay con hung hăng hơn thường lệ nhỉ‚<br>khụụụ!?<br> ,900000001
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Bị bí thuật dâm ma bẩm sinh tác động… à.<br>Nếu vậy‚ nguyên nhân có thể nghĩ tới là…)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,Frederica. Mục đích đã đạt được rồi‚ chúng ta nên cáo lui thôi.<br> 
+
+sestop,se1_1005,0.1
+
+shakeallstop
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0.5,STOP
+
+asyncseplay,setag1_33,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Ừm… vậy à. Tôi vừa mới bắt đầu thấy việc đánh sư phụ cũng vui vui rồi…<br> ,101301000G,vc_10130100002_030_01,chara_1
+
+message,師匠,Ôi‚ ái đồ của ta sắp thức tỉnh một sở thích nguy hiểm rồi…<br>Nhưng… con thật sự đã trưởng thành rồi‚ Frederica à.<br> ,900000001
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_34,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,フレデリカ,Sư phụ…<br> ,101301000G,vc_10130100002_031_01,chara_1
+
+message,師匠,Nếu sự việc vẫn chưa giải quyết được thì hãy lại tới đây.<br>Ta sẽ nghĩ cách đối phó.<br> ,900000001
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_35,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,フレデリカ,N-nhưng mà ông chỉ tạo được mấy thứ dâm dục thôi mà…?<br> ,101301000G,vc_10130100002_032_01,chara_1
+
+message,師匠,Có gì đâu‚ ta chỉ cần chỉnh lại thành phần của chúng<br>để dùng được trong thực chiến là xong. Con nghĩ ta là ai chứ?<br> ,900000001
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_36,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,フレデリカ,Lão già dâm tặc biến thái siêu tàng hình…<br> ,101301000G,vc_10130100002_033_01,chara_1
+
+message,師匠,Ta sắp khóc tới nơi rồi… Đây chính là nghiệp ta phải gánh sao…<br> ,900000001
+
+message,<user>,Tôi nghĩ đó chỉ là hậu quả tích tụ<br>từ bao lần quấy rối tình dục của ông thôi…<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0.7,STOP
+
+
+message,フレデリカ,Nhưng… ra vậy‚ dù không giải quyết được vẫn có cách…<br>Chỉ cần nghĩ được như thế là tôi đã nhẹ nhõm hơn nhiều rồi.<br> ,101301000G,vc_10130100002_034_01,chara_1
+
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_37,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,フレデリカ,Cảm ơn sư phụ.<br> ,101301000G,vc_10130100002_035_01,chara_1
+
+message,師匠,Ôi‚ ái đồ của ta…!<br>Nào nào‚ trước lúc chia tay cho ta ôm thật chặt một cái…<br> ,900000001
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_38,se4800001,0,1,CONT,0
+
+asynccharaemo,chara_1,Anger,CONT,0
+
+
+message,フレデリカ,Cảm ơn sư phụ.<br> ,101301000G,vc_10130100002_036_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+
+asyncseplay,setag1_39,se4900065,0,1,CONT,0
+
+asyncshake,BACK,,40,0,0.25,20,off,off,0,off,CONT,0
+asyncshake,CHARA,chara_1,40,0,0.25,20,off,off,0,off,CONT,0
+
+window,on,0.15
+message,,Bụp.<br> 
+
+message,師匠,Vừa tung cú đấm vào bụng mà vẫn giữ nguyên nụ cười ấy…<br>khá lắm‚ ái đồ của ta…!<br> ,900000001
+
+window,off
+bgmstop,bgmtag1_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

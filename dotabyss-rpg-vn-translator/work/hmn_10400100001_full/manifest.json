@@ -1,0 +1,77 @@
+{
+  "scene": "hmn_10400100001",
+  "title_vi": "Sẽ Trở Thành Đấu Sĩ Giỏi Nhất Thế Giới",
+  "source_case": "EN-asset-is-English with JP title field (ja.json identity map; en.json non-empty English; asset title field JP, message/messageTextCenter fields English)",
+  "characters": {
+    "Luca": {
+      "role": "Female martial-artist girl (ルカ / Luka); uses あたし/em->anh, calls Commander しれーかん -> Chỉ Huy; first person あたし = em",
+      "addressing_to_commander": "Chỉ Huy / anh (em->anh)"
+    },
+    "Commander": {
+      "role": "Player; male; addressed as しれーかん (Commaander typo in EN) -> Chỉ Huy",
+      "addressing_to_luca": "Luca (name) / em (anh->em)"
+    }
+  },
+  "terminology": {
+    "大穴 / The Abyss": "Đại Huyệt",
+    "前線基地 / Frontline Base": "Căn Cứ Tiền Tuyến",
+    "司令官 / Commaander (typo)": "Chỉ Huy",
+    "世界一の格闘家 / World's Greatest Martial Artist": "Đấu Sĩ Vĩ Đại Nhất Thế Giới",
+    "Slime fluid": "chất nhờn của Slime (kept Slime as proper noun)"
+  },
+  "rules_applied": [
+    "title, translated JP -> VI Title Case (Sẽ Trở Thành Đấu Sĩ Giỏi Nhất Thế Giới)",
+    "message, and messageTextCenter, translated EN -> VI; message, suffix '<br> ' mirrored from source (authoritative)",
+    "Commander/司令官 -> Chỉ Huy (repaired EN 'Commaander' typo = intentional correction)",
+    "Fullwidth '，' inside VI text -> U+201A '‚' (ASCII comma delimiter never changed)",
+    "Residual English SFX / onomatopoeia localized: GROOOOAR!/GAAAAAAAAAH!/Groor!/Groaaa.../Gah!/GOOOOAAAAR!/*Grrrooo...*/*phew*/Taaaaah!/Kyaaaa!/Kyah! Fah!/*pant* -> Gừư!/Gàaaaa!/Gừ!/Gừư.../Gư!/Gùuuu!/*Gừư...*/*phù*/Ta a a!/Kyaaa!/Kyah! Fah!/*thở dốc*",
+    "Luca kept as proper name (no romanization shift needed); %user% placeholder preserved",
+    "BOM + CRLF preserved; delimiter/field/tag/placeholder counts unchanged"
+  ],
+  "counts": {
+    "title": 1,
+    "message": 98,
+    "messageTextUnder": 0,
+    "messageTextCenter": 3,
+    "total_text_records": 102
+  },
+  "notes": [
+    "EN asset carried a systemic typo 'Commaander' (9 occurrences) -> all corrected to Chỉ Huy.",
+    "All 102 text records changed vs EN (no kept lines).",
+    "H18: none in this scene (comedic tickle/sparring scene, consensual, all characters 18+ per project confirmation)."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10400100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 98,
+      "messageTextUnder": 0,
+      "messageTextCenter": 3
+    },
+    "translatable_records": 102,
+    "translated_records": 102,
+    "changed_lines": 102,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2121,
+      "vi": 2121,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "35bed770e3adb0abca1da845758f64c5795dfa04145b666fb7d17a3792966789",
+    "output_sha256": "6243ece439a59f23c86dc72ee40fa3294c463d2ba6f547e3e1966568d0facb1e"
+  },
+  "independent_issues": [],
+  "source_sha256": "35bed770e3adb0abca1da845758f64c5795dfa04145b666fb7d17a3792966789",
+  "output_sha256": "6243ece439a59f23c86dc72ee40fa3294c463d2ba6f547e3e1966568d0facb1e",
+  "qa_status": "PASS",
+  "status": "PASS"
+}

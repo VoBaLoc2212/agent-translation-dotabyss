@@ -1,0 +1,1019 @@
+[
+ {
+  "seq": 0,
+  "line": 43,
+  "cmd": "title",
+  "name": "",
+  "en": "闇の女王たる我に続けーっ！",
+  "jp": "(n/a)",
+  "br": 0
+ },
+ {
+  "seq": 1,
+  "line": 75,
+  "cmd": "message",
+  "name": "",
+  "en": "When the Commander's group returned，the unit was already fighting<br>swarms of monsters of all sizes.<br> ",
+  "jp": "<user>たちが元の場所へ戻ると部隊は戦闘を開始していた。<br>大小問わず、モンスターたちは群れを成して襲い掛かっている。",
+  "br": 2
+ },
+ {
+  "seq": 2,
+  "line": 113,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Sorry for the delay! What's the situation?<br> ",
+  "jp": "遅れてすまない！<br>状況は！？",
+  "br": 1
+ },
+ {
+  "seq": 3,
+  "line": 122,
+  "cmd": "message",
+  "name": "一般兵Ｂ",
+  "en": "The front-line units blocked the surprise attack，but we're<br>overwhelmed by numbers! We need to regroup and support the front soon...<br> ",
+  "jp": "前列の部隊が壁を作って不意打ちを防ぎました！　でも数に押されています！<br>早く陣形を整えて、前列をサポートしないと……",
+  "br": 2
+ },
+ {
+  "seq": 4,
+  "line": 168,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Th-the unit that blocked the surprise attack is the one I'm assigned<br>to，right! We'll join up right away...!<br> ",
+  "jp": "ふ、不意打ちを防いだのは、わ、わたくしが配属されている部隊ですよね！？<br>すぐに合流します……！",
+  "br": 2
+ },
+ {
+  "seq": 5,
+  "line": 170,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Hayley，the more time you buy us，the better our chances! I'm<br>counting on you!<br> ",
+  "jp": "ヘイリー、お前が時間を稼げば稼ぐほど状況が楽になる！<br>頼んだぞ！",
+  "br": 2
+ },
+ {
+  "seq": 6,
+  "line": 181,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Y-yes!<br> ",
+  "jp": "は、はいっ！",
+  "br": 1
+ },
+ {
+  "seq": 7,
+  "line": 213,
+  "cmd": "message",
+  "name": "モンスター",
+  "en": "Gyaooo!<br> ",
+  "jp": "ギャオオオッッ！",
+  "br": 1
+ },
+ {
+  "seq": 8,
+  "line": 266,
+  "cmd": "message",
+  "name": "一般兵Ｅ",
+  "en": "Whoa，crap，crap，crap!<br> ",
+  "jp": "うわっ、やばいやばいやばい！",
+  "br": 1
+ },
+ {
+  "seq": 9,
+  "line": 310,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "T-teyah!<br> ",
+  "jp": "て、てやぁぁっ！",
+  "br": 1
+ },
+ {
+  "seq": 10,
+  "line": 377,
+  "cmd": "message",
+  "name": "モンスター",
+  "en": "Gyah!<br> ",
+  "jp": "ギャッ！？",
+  "br": 1
+ },
+ {
+  "seq": 11,
+  "line": 379,
+  "cmd": "message",
+  "name": "",
+  "en": "Hayley's slash made a monster several times her size flinch. The<br>soldiers，who had been pushed back，let out a cheer of 'Ooh!'<br> ",
+  "jp": "――ヘイリーの斬撃を受けて、彼女の何倍も大きいモンスターがたじろいだ。<br>押されていた兵士たちから「おぉっ！」と歓声が起きた。",
+  "br": 2
+ },
+ {
+  "seq": 12,
+  "line": 467,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "Hayley，you're a lifesaver! Blast these guys away! We'll follow your<br>lead!<br> ",
+  "jp": "ヘイリー、助かる！<br>こいつらをブッ飛ばしてくれ！　俺たちも後に続く！",
+  "br": 2
+ },
+ {
+  "seq": 13,
+  "line": 517,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Y-yes... Please，everyone，I'm counting on you!<br> ",
+  "jp": "は、はいっ……み、皆さんよろしくお願いします！",
+  "br": 1
+ },
+ {
+  "seq": 14,
+  "line": 580,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "O-oh...? You're still using that kind of speech in the middle of battle?<br>Well，as long as we win，it's fine! Go for it!<br> ",
+  "jp": "お、おぉっ……？　戦いの最中もそっちの喋り方か……<br>まぁ、勝てるならなんだっていい！　行ってくれ！",
+  "br": 2
+ },
+ {
+  "seq": 15,
+  "line": 591,
+  "cmd": "message",
+  "name": "一般兵Ｄ",
+  "en": "I hate to say it，but we're counting on you!<br> ",
+  "jp": "悔しいけど、あんたが頼りだよ！",
+  "br": 1
+ },
+ {
+  "seq": 16,
+  "line": 648,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "(They're all expecting so much from me... I have to step up! As the<br>future queen—as a hero!)<br> ",
+  "jp": "（皆さんが期待してくれている……わたくしが引っ張らないと！<br>未来の女王として――英雄として！）",
+  "br": 2
+ },
+ {
+  "seq": 17,
+  "line": 668,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "E-eeyah!<br> ",
+  "jp": "え、えいやぁぁあっ！",
+  "br": 1
+ },
+ {
+  "seq": 18,
+  "line": 703,
+  "cmd": "message",
+  "name": "",
+  "en": "With a shout，Hayley charged forward. Just like yesterday，she raised<br>a sword as tall as she was and leaped over the monsters' heads.<br> ",
+  "jp": "叫び声をあげてヘイリーは突撃する。昨日のように、身の丈ほどもある剣を<br>構え、モンスターたちの頭上へ跳ぶ。",
+  "br": 2
+ },
+ {
+  "seq": 19,
+  "line": 788,
+  "cmd": "message",
+  "name": "",
+  "en": "But her height wasn't enough. She failed to drive her sword into the<br>giant monster，only stopping the monsters' momentum.<br> ",
+  "jp": "――だが、高度が足りない。巨大なモンスターに剣を突き立てるのに失敗した。<br>進撃してくるモンスターたちの勢いは止めたが、それ以上のことは起こらない。",
+  "br": 2
+ },
+ {
+  "seq": 20,
+  "line": 838,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "W-why...!<br> ",
+  "jp": "な、なんでっ……！？",
+  "br": 1
+ },
+ {
+  "seq": 21,
+  "line": 897,
+  "cmd": "message",
+  "name": "モンスター",
+  "en": "Gwaaaaar!<br> ",
+  "jp": "ゴアアアッ！",
+  "br": 1
+ },
+ {
+  "seq": 22,
+  "line": 949,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Kh...<br> ",
+  "jp": "くっ……",
+  "br": 1
+ },
+ {
+  "seq": 23,
+  "line": 951,
+  "cmd": "message",
+  "name": "",
+  "en": "Hayley's charge was finally halted. She found herself fighting the<br>monsters on the spot.<br> ",
+  "jp": "ついにヘイリーの突撃も止められてしまう。<br>その場でモンスターと戦う格好となる。",
+  "br": 2
+ },
+ {
+  "seq": 24,
+  "line": 1011,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "Hayley got stopped!?<br> ",
+  "jp": "ヘイリーが止められた！？",
+  "br": 1
+ },
+ {
+  "seq": 25,
+  "line": 1020,
+  "cmd": "message",
+  "name": "一般兵Ｄ",
+  "en": "Does that mean these guys are stronger than yesterday's!?<br> ",
+  "jp": "こいつら、昨日の奴より強いってこと！？",
+  "br": 1
+ },
+ {
+  "seq": 26,
+  "line": 1035,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "(No... Hayley doesn't have the explosive power from yesterday. Her<br>slump is dragging the whole unit down.)<br> ",
+  "jp": "（違う……ヘイリーに昨日の爆発力が無いんだ。<br>あいつの不調に引きずられて、部隊の調子も上がってこない）",
+  "br": 2
+ },
+ {
+  "seq": 27,
+  "line": 1037,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "(If I can draw out her true power，we should get the same result as<br>yesterday... It's my job to get Hayley back on track!)<br> ",
+  "jp": "（本来の力を引き出してやれば、昨日と同じ結果になるはず――<br>ヘイリーを復調させるのが俺の仕事だ！）",
+  "br": 2
+ },
+ {
+  "seq": 28,
+  "line": 1052,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "I'm heading to Hayley at the front line! Everyone，cover me! Follow<br>me!<br> ",
+  "jp": "前列のヘイリーのところへ行く！　みんなは俺を守ってくれ！<br>ついてこい！",
+  "br": 2
+ },
+ {
+  "seq": 29,
+  "line": 1069,
+  "cmd": "message",
+  "name": "一般兵Ｂ",
+  "en": "Sir!<br> ",
+  "jp": "はっ！",
+  "br": 1
+ },
+ {
+  "seq": 30,
+  "line": 1133,
+  "cmd": "message",
+  "name": "モンスター",
+  "en": "Guh...<br> ",
+  "jp": "ぐぅっ……",
+  "br": 1
+ },
+ {
+  "seq": 31,
+  "line": 1154,
+  "cmd": "message",
+  "name": "",
+  "en": "Thud.<br> ",
+  "jp": "――バタッ。",
+  "br": 1
+ },
+ {
+  "seq": 32,
+  "line": 1190,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "*pant，pant*... Finally got one... But at this rate，I'm completely<br>useless...<br> ",
+  "jp": "はぁっ、はぁっ……やっと１匹……<br>こんな調子じゃ全然ダメなのに……",
+  "br": 2
+ },
+ {
+  "seq": 33,
+  "line": 1214,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "(I was told to rely on the Commander，so why...?)<br> ",
+  "jp": "（<user>様に頼むって言われたのに、どうして……）",
+  "br": 1
+ },
+ {
+  "seq": 34,
+  "line": 1231,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Hayley! Fall back! Come to me!<br> ",
+  "jp": "ヘイリー！　いったん下がれ！　俺のところへ来い！",
+  "br": 1
+ },
+ {
+  "seq": 35,
+  "line": 1242,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Huh...? Commander?<br> ",
+  "jp": "えっ……？　<user>様？",
+  "br": 1
+ },
+ {
+  "seq": 36,
+  "line": 1298,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "That's an order from the Commander! Go on，Hayley!<br> ",
+  "jp": "司令官の命令だ！<br>行ってこい！　ヘイリー！",
+  "br": 1
+ },
+ {
+  "seq": 37,
+  "line": 1309,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "I-I'm sorry...! Please，don't overdo it...!<br> ",
+  "jp": "すす、すみません……！<br>どうか、む、無理はしないで……！",
+  "br": 1
+ },
+ {
+  "seq": 38,
+  "line": 1362,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Commander! Wh-why are you here!? It's dangerous!<br> ",
+  "jp": "<user>様！<br>どっ、どどど、どうしてこんなところへ！？　危ないですよ！？",
+  "br": 1
+ },
+ {
+  "seq": 39,
+  "line": 1364,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "I know that! Just listen to me! I risked danger to come here! So<br>you're going to listen!<br> ",
+  "jp": "そんなことは分かっている！　いいから俺の話を聞け！<br>危険を冒してここまで来たんだ！　言うことを聞いてもらうぞ！",
+  "br": 2
+ },
+ {
+  "seq": 40,
+  "line": 1375,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "O-of course... D-do you have orders for me!?<br> ",
+  "jp": "そ、それはもちろん……な、何かご命令ですか！？",
+  "br": 1
+ },
+ {
+  "seq": 41,
+  "line": 1379,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Ah... Go back to the way you acted yesterday!<br> ",
+  "jp": "あぁ……お前、振る舞いを昨日のやつに戻せ！",
+  "br": 1
+ },
+ {
+  "seq": 42,
+  "line": 1390,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Huh...?<br> ",
+  "jp": "へっ……？",
+  "br": 1
+ },
+ {
+  "seq": 43,
+  "line": 1392,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "I'm telling you to go back to being Hayley，the one who wraps herself<br>in the power of... Darkness!<br> ",
+  "jp": "聞こえなかったのか？　ダークファンタジーの英雄に憧れて<br><ruby=ダークネス>暗黒の力</>を纏うヘイリーに戻れと言っているんだ！",
+  "br": 2
+ },
+ {
+  "seq": 44,
+  "line": 1403,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...Um，Commander... that was just a delusion of mine... it，it doesn't<br>have any effect...<br> ",
+  "jp": "……あ、あの、<user>様。<br>あれはわたくしの妄想で――な、なんの効果もないんです……",
+  "br": 2
+ },
+ {
+  "seq": 45,
+  "line": 1407,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "That's not true. It might be a delusion，but it has meaning.<br> ",
+  "jp": "そんなことはない。<br>妄想かもしれないが、意味はあるんだ。",
+  "br": 1
+ },
+ {
+  "seq": 46,
+  "line": 1411,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "You know what self-suggestion is? By acting the hero you admired，<br>you spurred yourself on，telling yourself 'I'm tough.'<br> ",
+  "jp": "自己暗示を知っているか？　……お前は、かつて自分が憧れた英雄の姿を<br>演じることで、自分自身を「強い奴だ」と鼓舞していたんだよ。",
+  "br": 2
+ },
+ {
+  "seq": 47,
+  "line": 1413,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "A hero with the power of Darkness but a heart of light. By fully<br>embodying that ideal figure from novels and heroic tales，you gained power!<br> ",
+  "jp": "暗黒の力を持ちながら、光の心を持った英雄。小説や英雄譚に登場する<br>理想の姿になり切ることで、お前は力を得ていたんだ！",
+  "br": 2
+ },
+ {
+  "seq": 48,
+  "line": 1440,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...Is，is that really possible?<br> ",
+  "jp": "……そ、そんなこと、あるんですか？",
+  "br": 1
+ },
+ {
+  "seq": 49,
+  "line": 1442,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "If you doubt it，just try it. The sight of you shouting 'Be consumed by<br>Darkness!' is sure to revive the unit—all of us.<br> ",
+  "jp": "疑うなら試してみればいい。お前が『闇に飲まれよ！』と叫ぶ姿が<br>きっと部隊を、俺たちを蘇らせる。",
+  "br": 2
+ },
+ {
+  "seq": 50,
+  "line": 1453,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "B-but，if I keep doing that，I'll be sent back to my home country...<br> ",
+  "jp": "で、ですが、わたくし、あれを続けてしまうと<br>国元へ帰還させられてしまいます――",
+  "br": 1
+ },
+ {
+  "seq": 51,
+  "line": 1455,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Ignore that. I'm the highest authority at the Frontline Base. Your<br>parents，former attendant，the chancellor—I won't let anyone complain.<br> ",
+  "jp": "そんなものは無視しろ。前線基地で一番偉いのは、この俺だ。<br>両親だろうが元付き人だろうが宰相だろうが、誰にも文句は言わせん。",
+  "br": 2
+ },
+ {
+  "seq": 52,
+  "line": 1457,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "...You said you'd listen to me，didn't you? And I might be a man from<br>your past life—a friend or a fierce enemy.<br> ",
+  "jp": "……そもそも、言うことを聞いてくれるんじゃなかったのか？<br>俺は前世の友か、強敵だったかもしれない男なのに？",
+  "br": 2
+ },
+ {
+  "seq": 53,
+  "line": 1468,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...! Commander，are you serious...?<br> ",
+  "jp": "……！<br><user>様、あなたは、本気で――",
+  "br": 1
+ },
+ {
+  "seq": 54,
+  "line": 1498,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Forgive me，Commander. I believe in you.<br> ",
+  "jp": "――失礼しました、<user>様。<br>わたくし、あなたを信じます。",
+  "br": 1
+ },
+ {
+  "seq": 55,
+  "line": 1524,
+  "cmd": "message",
+  "name": "",
+  "en": "After taking a deep breath，Hayley's demeanor changed. Her eyes，<br>once hesitant，grew sharp as she glared at the monster horde.<br> ",
+  "jp": "深呼吸をひとつ挟んだあと、ヘイリーの空気が明らかに変わった。<br>どこか自信のなかった双眸は鋭さを増し、モンスターの群れを睨みつける。",
+  "br": 2
+ },
+ {
+  "seq": 56,
+  "line": 1526,
+  "cmd": "message",
+  "name": "",
+  "en": "Then，a wicked smile spread across Hayley's face.<br> ",
+  "jp": "そして、ヘイリーは邪悪な笑みを浮かべた。",
+  "br": 1
+ },
+ {
+  "seq": 57,
+  "line": 1537,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Kufufufu... Fuhaha!<br> ",
+  "jp": "クフフフフ……フハハ！",
+  "br": 1
+ },
+ {
+  "seq": 58,
+  "line": 1548,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "The Dark Phoenix rises again here! Breaking the seal placed by the<br>Fixer，I manifest!<br> ",
+  "jp": "　<ruby=ダークフェニックス>闇の不死鳥</>、ここに復活！<br><ruby=フィクサー>黒幕</>が施した封印を砕き、我、顕現ッッッ！！！",
+  "br": 2
+ },
+ {
+  "seq": 59,
+  "line": 1557,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "My codename is Hayley! Though I am the Held de Sieger，I also<br>command the power of Darkness!<br> ",
+  "jp": "<ruby=コードネーム>刻名</>はヘイリー！　<br><ruby=ヘルド・デ・ジーガー>勝利の英雄</>でありながら<brlog><ruby=ダークネス>暗黒の力</>を操る者也！",
+  "br": 2
+ },
+ {
+  "seq": 60,
+  "line": 1569,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Is it a god or a demon that dwells within this body?—Regardless，I<br>burn this life for a single mission!<br> ",
+  "jp": "この身に宿るは神か悪魔か？<br>――いずれにせよ、我はこの命、ただひとつの使命のために燃やす！",
+  "br": 2
+ },
+ {
+  "seq": 61,
+  "line": 1580,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Thus，to bring the promised victory to you all! Behold the<br>beast—Marionette—as it is devoured by the Darkness!<br> ",
+  "jp": "すなわち、約束された勝利を其方らにもたらすために！<br><ruby=マリオネット>獣</>が闇に飲まれる様を見よ！",
+  "br": 2
+ },
+ {
+  "seq": 62,
+  "line": 1614,
+  "cmd": "message",
+  "name": "",
+  "en": "Hayley kicked off the ground with all her might，leaping almost to the<br>ceiling. Descending，she aimed her massive sword at the monster.<br> ",
+  "jp": "ヘイリーは全力で地を蹴り、天井すれすれまで跳んだ。<br>巨大な剣の切っ先を、落下しながらモンスターに向ける。",
+  "br": 2
+ },
+ {
+  "seq": 63,
+  "line": 1659,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "(Power is surging through me—with this，I can do it!)<br> ",
+  "jp": "（力が湧いてくる――これならっ！！！！！！）",
+  "br": 1
+ },
+ {
+  "seq": 64,
+  "line": 1681,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "*pant*!<br> ",
+  "jp": "ハァァアアアッ！",
+  "br": 1
+ },
+ {
+  "seq": 65,
+  "line": 1770,
+  "cmd": "message",
+  "name": "モンスター",
+  "en": "GYAAAAH!<br> ",
+  "jp": "ギャアアッ！？",
+  "br": 1
+ },
+ {
+  "seq": 66,
+  "line": 1875,
+  "cmd": "message",
+  "name": "",
+  "en": "Her sword pierced the monster's head. Hayley leaped again and again.<br>A roaring cheer of 'Uooo!' rose up.<br> ",
+  "jp": "彼女の剣がモンスターの頭部に突き刺さる。すぐさまヘイリーは跳躍した。<br>１度だけでなく、何度も。「うおお！」と怒声のような歓声が上がる。",
+  "br": 2
+ },
+ {
+  "seq": 67,
+  "line": 1923,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "Look at that! Hayley actually pulled it off!<br> ",
+  "jp": "ヘイリ―の奴、やりやがった！",
+  "br": 1
+ },
+ {
+  "seq": 68,
+  "line": 1969,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Onward，warriors chosen by Valhalla! Follow me，your Dark Queen!<br> ",
+  "jp": "続け！　ヴァルハラに選ばれた戦士たちよ！<br><ruby=ダークネスクイーン>闇の女王</>たる我に続けーっ！",
+  "br": 1
+ },
+ {
+  "seq": 69,
+  "line": 1971,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "UOOORAAH!<br> ",
+  "jp": "うおらー！",
+  "br": 1
+ },
+ {
+  "seq": 70,
+  "line": 1973,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Jeez... Both her craziness and her strength are off the charts.<br> ",
+  "jp": "……やれやれ。<br>意味不明さも強さも規格外だ。",
+  "br": 1
+ },
+ {
+  "seq": 71,
+  "line": 1999,
+  "cmd": "message",
+  "name": "",
+  "en": "Thanks to Hayley's efforts，the front line held and the formation was<br>restored. The Commander and his unit repelled the monster horde.<br> ",
+  "jp": "ヘイリーの活躍により前線は保たれ、陣形は整えられた。<br><user>たちはモンスターの群れを撃退したのである。",
+  "br": 2
+ },
+ {
+  "seq": 72,
+  "line": 2025,
+  "cmd": "messageTextCenter",
+  "name": "",
+  "en": "<size=48>——After Returning.</size>",
+  "jp": "<size=48>――帰還後。</size>",
+  "br": 0
+ },
+ {
+  "seq": 73,
+  "line": 2048,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Hit by that surprise attack，I thought we'd be in trouble，but no one's<br>seriously hurt. Like yesterday，the expedition's a success.<br> ",
+  "jp": "不意打ちを受けたときはどうなることかと思ったが、重傷者も無し。<br>昨日に引き続き、探索は成功だ。",
+  "br": 2
+ },
+ {
+  "seq": 74,
+  "line": 2105,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "Hayley，you were amazing! You're a lifesaver!<br> ",
+  "jp": "ヘイリー、大活躍だったな！<br>お前は命の恩人だぜ！",
+  "br": 1
+ },
+ {
+  "seq": 75,
+  "line": 2116,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "I understand your admiration，but keep your distance. The Darkness's<br>contagion will take hold of you!<br> ",
+  "jp": "称賛したい気持ちは分かるが、あまり近付くな。<br>漏れた闇が<ruby=うつ>感染</>るぞ。",
+  "br": 2
+ },
+ {
+  "seq": 76,
+  "line": 2125,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "Hahaha. But still，that was incredible strength... I guess the Darkness<br>has something to do with it?<br> ",
+  "jp": "はっはっは。それにしても、とんでもない強さだったなぁ……<br>やっぱり<ruby=ダークネス>暗黒の力</>ってのが関係しているのか？",
+  "br": 2
+ },
+ {
+  "seq": 77,
+  "line": 2176,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Indeed. According to my Commander's analysis，the source of power<br>is rooted in Darkness—or，as it is spoken，Chaos.<br> ",
+  "jp": "そうだな。我が司令官の解析によると<br>力の源泉は、やはり<ruby=カオス>闇</>に拠るものらしい。",
+  "br": 2
+ },
+ {
+  "seq": 78,
+  "line": 2193,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "But if we probe too deeply—tch，my eyes are aching again. Any<br>further would be dangerous...!<br> ",
+  "jp": "だが、それをあまり深く追求すると――クッ、また眼が疼き出した。<br>これ以上は危険……！！",
+  "br": 2
+ },
+ {
+  "seq": 79,
+  "line": 2204,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "But believing that the self who resists this madness is strong—that is<br>the only way to guide warriors to Valhalla!<br> ",
+  "jp": "しかし、この狂気に抗う己が強い存在だと信じることが、<br>ヴァルハラへ戦士を導く唯一の選択なのだ！",
+  "br": 2
+ },
+ {
+  "seq": 80,
+  "line": 2206,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Basically，she's saying you have to go to the battlefield believing 'I'm<br>strong，I'm special!'<br> ",
+  "jp": "要は「俺は強い、特別なんだ！」と信じ抜いて戦場に立て、<br>ということらしいぞ。",
+  "br": 2
+ },
+ {
+  "seq": 81,
+  "line": 2217,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Hmph，as expected of my Commander. Translation magic's so<br>omnipotent it works despite Fixer's future-tech freeze—guidance indeed.<br> ",
+  "jp": "……さすがは我が司令官。翻訳魔法は万能過ぎて、<br><ruby=フィクサー>黒幕</>が未来技術で凍結しているはずなのに――これも導きか。",
+  "br": 2
+ },
+ {
+  "seq": 82,
+  "line": 2280,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "So Hayley's seemingly meaningless speech had meaning after all... you<br>were so lively back then.<br> ",
+  "jp": "となると、意味不明に思えたヘイリーの演説も、意味があるわけか――<br>あんときのお前、活き活きしているもんなぁ。",
+  "br": 2
+ },
+ {
+  "seq": 83,
+  "line": 2330,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Even common soldiers grasp my forbidden technique's true meaning?<br>Is the world's seal weakening? The Gate is opening...?<br> ",
+  "jp": "一般兵にも我が禁術の真意が伝わっているだと？<br>世界の封印が弱まっているのか？　<ruby=ゲート>門</>が開きつつある……？",
+  "br": 2
+ },
+ {
+  "seq": 84,
+  "line": 2394,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "If mimicking your way of speaking makes you stronger，then maybe I...<br>no，perhaps I shall give it a try.<br> ",
+  "jp": "話し方を真似たくらいで強くなるなら俺も……<br>いや、我も試してみるか？",
+  "br": 2
+ },
+ {
+  "seq": 85,
+  "line": 2403,
+  "cmd": "message",
+  "name": "一般兵Ｅ",
+  "en": "We are Warriors of Darkness (Chaos Warriors)... or something like<br>that? Heh heh heh... my blood's boiling even though it's still day.<br> ",
+  "jp": "我らは<ruby=カオスウォリアー>闇の戦士</>。……的な？<br>クククッ……まだ昼なのに血が滾るわ。",
+  "br": 2
+ },
+ {
+  "seq": 86,
+  "line": 2414,
+  "cmd": "message",
+  "name": "一般兵Ｄ",
+  "en": "'Dark Warrior' and 'Darkness'—weren't those in old novels? So<br>nostalgic.<br> ",
+  "jp": "っていうか闇の戦士とか暗黒って、昔の小説に出てこなかった？<br>懐かしい～。",
+  "br": 2
+ },
+ {
+  "seq": 87,
+  "line": 2429,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "(...So that's it. Looks like we can manage well after all.)<br> ",
+  "jp": "（……なんだ。やっぱりうまくやれそうじゃないか）",
+  "br": 1
+ },
+ {
+  "seq": 88,
+  "line": 2482,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "Oh，Milady，you've returned at last.<br> ",
+  "jp": "おぉ。お嬢様、お戻りになられたのですね。",
+  "br": 1
+ },
+ {
+  "seq": 89,
+  "line": 2522,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Eep!<br> ",
+  "jp": "わひゃっ……！？",
+  "br": 1
+ },
+ {
+  "seq": 90,
+  "line": 2532,
+  "cmd": "message",
+  "name": "",
+  "en": "Hayley was momentarily flustered，but looked toward %user%. When<br>%user% nodded，Hayley nodded back as if resolved.<br> ",
+  "jp": "(n/a)",
+  "br": 2
+ },
+ {
+  "seq": 91,
+  "line": 2589,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "—Indeed. It was a most fruitful expedition. Every warrior who shared<br>the battlefield with me is unharmed.<br> ",
+  "jp": "――うむ。実に有意義な探索だった。<br>戦場を共にした<ruby=つわもの>兵</>たちも皆、無事だ。",
+  "br": 2
+ },
+ {
+  "seq": 92,
+  "line": 2600,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "After all，they had me，the Hero，at their side—this outcome is only<br>natural.<br> ",
+  "jp": "我と言う英雄を伴っていたのだから、当然の結果だがな。",
+  "br": 2
+ },
+ {
+  "seq": 93,
+  "line": 2611,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "...Milady，what is the meaning of this? Why won't you amend your<br>words and behavior?<br> ",
+  "jp": "……お嬢様。どういうことです？<br>なぜ言動をあらためてくださらないのですか？",
+  "br": 2
+ },
+ {
+  "seq": 94,
+  "line": 2622,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "This is the pact I have sworn with my Commander. Should I betray it，<br>a dark blade will pierce my heart，and I shall die.<br> ",
+  "jp": "これが、我が司令官と交わした盟約だ。<br>裏切れば心臓が黒刃に貫かれて死ぬ。",
+  "br": 2
+ },
+ {
+  "seq": 95,
+  "line": 2633,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "This is deplorable... If you cannot be concerned for the future of the<br>nation，then perhaps you should return to your home country—<br> ",
+  "jp": "嘆かわしい……<br>国の行く末を案じられぬのなら、やはり国元へ――",
+  "br": 2
+ },
+ {
+  "seq": 96,
+  "line": 2695,
+  "cmd": "message",
+  "name": "一般兵Ａ",
+  "en": "Wait a second，gramps. Is it your fault Hayley's way of talking got all<br>weird?<br> ",
+  "jp": "ちょっと待て、じいさん。<br>ヘイリーの喋り方が変になったのはあんたのせいか？",
+  "br": 2
+ },
+ {
+  "seq": 97,
+  "line": 2704,
+  "cmd": "message",
+  "name": "一般兵Ｅ",
+  "en": "Oh，is that right? Well，we can't let that slide.<br> ",
+  "jp": "あぁ、そういうこと？　それは見過ごせないねぇ。",
+  "br": 1
+ },
+ {
+  "seq": 98,
+  "line": 2713,
+  "cmd": "message",
+  "name": "一般兵Ｃ",
+  "en": "This girl's supposed to be like this! If she weren't，she couldn't use<br>her power! And if Hayley were normal，we'd be bored anyway.<br> ",
+  "jp": "こいつは、これがいいんだよ！　じゃないと力が出ねぇんだ！<br>ヘイリーが普通だと俺たちもつまらねぇしな。",
+  "br": 2
+ },
+ {
+  "seq": 99,
+  "line": 2773,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "W-what...?<br> ",
+  "jp": "な、なんと……？",
+  "br": 1
+ },
+ {
+  "seq": 100,
+  "line": 2786,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "You all...<br> ",
+  "jp": "其方たち……",
+  "br": 1
+ },
+ {
+  "seq": 101,
+  "line": 2788,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Gramps. I hear you told Hayley she needs to 'act in a way befitting a<br>leader.' That 'otherwise nobody will follow.'<br> ",
+  "jp": "じいさん。あんたは『皆を率いる者に相応しい言動を取れ』と<br>ヘイリーに伝えたそうだな。『そうしないと誰もついてこない』、って。",
+  "br": 2
+ },
+ {
+  "seq": 102,
+  "line": 2790,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "But thanks to Hayley sticking to what you call 'inappropriate<br>behavior，' everyone accepted her. ... Still think she has to change?<br> ",
+  "jp": "でも、ヘイリーはあんたの言う「相応しくない言動」を貫いたおかげで<br>みんなに受け入れられた。……それでも、変わらないとだめなのか？",
+  "br": 2
+ },
+ {
+  "seq": 103,
+  "line": 2801,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "...No. The path to success is not only the straight and narrow. It<br>seems I was the one who was shortsighted.<br> ",
+  "jp": "……いえ。成功への道は正道のみに非ず。<br>浅はかだったのは、私だったようです。",
+  "br": 2
+ },
+ {
+  "seq": 104,
+  "line": 2812,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "Young Lady. I shall say no more. Please walk the righteous path you<br>believe in!<br> ",
+  "jp": "お嬢様。もう何も言いませぬ。<br>自らの信ずる正しき道を歩んでくだされ！",
+  "br": 2
+ },
+ {
+  "seq": 105,
+  "line": 2848,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...I shall carry your feelings as well and march the Bloody Road!<br> ",
+  "jp": "……いいだろう！<br>其方の想いも背負って、我は<ruby=ブラッディロード>血塗られた道</>を征く！",
+  "br": 1
+ },
+ {
+  "seq": 106,
+  "line": 2857,
+  "cmd": "message",
+  "name": "付き人",
+  "en": "Hohoho. ...Truly dependable. I look forward to the day we can meet<br>again.<br> ",
+  "jp": "ほほほっ。……実に頼もしい。<br>次回お会いできる日を楽しみにしております。",
+  "br": 2
+ },
+ {
+  "seq": 107,
+  "line": 2905,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "All settled，then? That's good，Hayley.<br> ",
+  "jp": "一件落着か。よかったな、ヘイリー。",
+  "br": 1
+ },
+ {
+  "seq": 108,
+  "line": 2916,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...Ah. My Commander. This very moment marks the dawn of a new<br>chapter in my heroic saga.<br> ",
+  "jp": "……あぁ。我が司令官。<br>今日、この瞬間は我が英雄譚の新たな幕開けだ。",
+  "br": 2
+ },
+ {
+  "seq": 109,
+  "line": 2927,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "Become the Messiah with me! Heh heh heh!<br> ",
+  "jp": "我と共に、<ruby=メシア>救世主</>となろうぞ！<br>ククククククッ……",
+  "br": 1
+ },
+ {
+  "seq": 110,
+  "line": 2938,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...*huff*... W-Well，it'd be fine even if we were married，you know.<br> ",
+  "jp": "…………ふ、夫婦でも、いいんですけど。",
+  "br": 1
+ },
+ {
+  "seq": 111,
+  "line": 2940,
+  "cmd": "message",
+  "name": "<user>",
+  "en": "Huh?<br> ",
+  "jp": "うん？",
+  "br": 1
+ },
+ {
+  "seq": 112,
+  "line": 2951,
+  "cmd": "message",
+  "name": "ヘイリー",
+  "en": "...Nothing.<br> ",
+  "jp": "……なんでもない。",
+  "br": 1
+ }
+]

@@ -1,0 +1,28 @@
+# Character Profile
+
+- Tên Nhật:
+- Tên giữ nguyên:
+- Character ID:
+- Voice ID pattern:
+- Giới tính:
+- Xác nhận trưởng thành: có / không / chưa rõ
+- Vai trò:
+- Phe phái:
+- Quan hệ với Chỉ Huy:
+- Tính cách cốt lõi:
+- Mức trang trọng:
+- Tự xưng mặc định:
+- Gọi Chỉ Huy:
+- Chỉ Huy gọi lại:
+- Cách gọi nữ khác:
+- Catchphrase:
+- Onii-chan mapping:
+- Danna-sama mapping:
+- Scene override:
+- Thuật ngữ riêng:
+- Từ không được dùng:
+- Ví dụ nguồn:
+- Ví dụ dịch đã duyệt:
+- Wiki URL:
+- Ngày kiểm tra:
+- Ghi chú:

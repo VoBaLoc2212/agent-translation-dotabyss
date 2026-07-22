@@ -1,0 +1,494 @@
+編成=Đội
+チーム名=Tên Đội
+総戦力=Tổng<br>Chiến Lực
+編成から外す=Loại Khỏi Đội
+一括解除=<size\=68%>Hủy Bỏ Tất Cả
+配置変更=Đổi Vị Trí
+編成がありません=Không Có Đội
+編成プリセット=Đội Lưu Sẵn
+編成を確定する=Xác Nhận Đội Hình
+マナクリスタル=Pha Lê Mana
+編成の反映=Đội Sẽ Áp Dụng
+編成名変更=Đổi Tên Đội
+編成を上書きしました=Đã Ghi Đè Đội
+編成を反映しました=Đã Áp Dụng Đội
+編成名を入力してください=Nhập tên Đội
+チーム=Đội 
+リーダー=Đội Trưởng
+消費マナ=Chi Phí Mana
+陣形=Đội Hình
+陣形効果=Hiệu Ứng Đội Hình
+(r:"^「([^\)]+)」で解放されます$"=Mở khóa qua 「$1」
+陣形変更=Đổi Đội Hình
+編成一覧から選択=Chọn Đội Hình
+出撃=Xuất Trận
+r:"^出撃：([\S\s]+)$"=Xuất Trận: $1
+編成名=Tên Đội
+編成情報登録=Đăng Ký Chi Tiết Đội
+絞り込み=Bộ Lọc
+属性=<size\=70%>Hệ</size>
+勢力=<size\=70%>Phe Phái</size>
+ポジション=<size\=70%>Vị Trí</size>
+並び替え=Sắp Xếp
+昇順=<size\=65%>Tăng Dần</size>
+降順=<size\=65%>Giảm Dần</size>
+解除=Xóa
+Lv=<size\=65%>Cđộ
+HP=HP
+攻撃力=Tấn Công
+防御力=Phòng Thủ
+会心率=T.Lệ C.Mạng
+会心ダメージ=S.Thương C.Mạng
+連撃率=T.Lệ Liên Đòn
+戦力=Chiến Lực
+絆Lv=Gắn Kết
+入手順=Nhận Được
+一括分解へ=Phân Giải
+一括ロック=<size\=70%>Khóa Hàng Loạt
+フロント=Tiền Tuyến
+バック=Hậu Tuyến
+アシスト=Hỗ Trợ
+火=Hỏa
+水=Thủy
+土=Thổ
+光=<size\=80%><b><cspace\=-0.05em>Quang</b></size>
+闇=Ám
+無=Vô
+王都騎士団=Kỵ Sĩ Vương Đô
+魔術ギルド=Công Hội Pháp Sư
+暗部=Ám Bộ
+異端審問会=Tòa Án Dị Giáo
+商人ギルド=Công Hội Thương Nhân
+辺境警備隊=Đội Vệ Binh Biên Giới
+その他の勢力=Phe Phái Khác
+コラボ=Hợp Tác
+スキル=<size\=70%>Kỹ Năng
+r:"^チーム([0-9]+)$"=Đội $1
+編成中=Trong Đội
+編成コピー=Sao Chép
+おまかせ\n編成=Tự Động\nXếp Đội
+クイック\n選択=Chọn\nNhanh
+マナクリスタル=Pha Lê Mana
+アシスト\nボーナス=Hỗ Trợ\nThưởng
+登録=Đăng Ký
+キャラ=NV
+防御=Thủ
+攻撃=<size\=90%>Công</size>
+総合戦力=<line-height\=60%>Tổng<br>Chiến Lực
+すべて外す=Bỏ Tất Cả
+消費マナ=Chi Phí Mana
+最大チェイン可能人数=<size\=80%>Chain Tối Đa
+フロントキャラがチェイン対象=<size\=80%>NV Tiền Tuyến có thể Chain
+バックキャラがチェイン対象=<size\=80%>NV Hậu Tuyến có thể Chain
+アシストキャラがチェイン対象=<size\=80%>NV Hỗ Trợ có thể Chain
+r:"^/([0-9]+)キャラ$"=/$1 NV
+装備=Trang Bị
+変更=Đổi
+移動=Di Chuyển
+/12文字=<size\=60%>/12 ký tự
+編成名=Tên Đội
+編成情報登録=Đăng Ký Chi Tiết Đội
+一括解除を行います。<br>すべてのキャラクターとマナクリスタルが外れます。=Tiến hành hủy bỏ.<br>Tất cả NV và Ma Pha Lê sẽ được gỡ.
+r:"^ポジション([0-9]+)$"=Vị Trí $1
+編成を登録しました。=Đã đăng ký đội hình.
+戦力優先=<align\="center">Ưu Tiên<br>Chiến Lực
+バランス優先=<align\="center">Ưu Tiên<br>Cân Bằng
+未登録の変更内容があります<br>変更内容を破棄して編成を終了しますか？=Có thay đổi chưa đăng ký.<br>Hủy thay đổi và kết thúc xếp đội?
+キャラクター変更=<size\=90%><line-height\=60%>Đổi NV
+装備変更=<size\=90%><line-height\=60%>Đổi Trang Bị
+キャラクター強化=<size\=90%><line-height\=60%>Cường Hóa NV
+装備中=<size\=90%>Đã Trang Bị
+所持装備=<size\=80%>Đã Sở Hữu
+一括分解へ=Phân Giải
+一括ロック=<size\=70%>Khóa Hàng Loạt
+設定した内容の装備が選択されます=<size\=90%>Chọn trang bị để phân giải.
+すべて選択=Chọn Tất Cả
+マイレージ=Tích Lũy
+アクセサリ=Phụ Kiện
+一括分解=<size\=90%><line-height\=90%>Phân Giải\nHàng Loạt
+分解総数：=Tổng Phân Giải:
+獲得アイテムはありません。=Không có vật phẩm.
+アクセサリ Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Phụ Kiện Lv
+防具 Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Giáp Lv
+武器 Lv=<cspace\=-0.1em><size\=90%><line-height\=60%>Vũ Khí Lv
+報酬まで=<cspace\=-0.1em><size\=90%><line-height\=60%>Đến Thưởng
+武器タイプ=Vũ Khí
+防具タイプ=Giáp
+最大HP=HP Tối Đa
+レベルアップ=Lên Cấp
+アビリティ強化=<line-height\=60%>Cường Hóa<br>Năng Lực
+基本情報=<line-height\=70%>Thông Tin<br>Cơ Bản
+限界突破=Đột Phá
+弱点属性特攻=<size\=90%>S.T Hệ Yếu
+回避率=Né Tránh
+チャージ効率=Hiệu Suất Nạp
+炎上耐性=Kháng Hỏa
+凍結耐性=Kháng Băng
+石化耐性=Kháng Hóa Đá
+麻痺耐性=Kháng Tê Liệt
+魅了耐性=Kháng Quyến Rũ
+喪失耐性=Kháng Mất Thức
+弱点特攻=S.T Yếu Điểm
+属性特攻=<cspace\=-0.1em><line-height\=60%>S.T Hệ
+会心ダメ=S.T Chí Mạng
+アビリティ=Năng Lực
+パラメータ=Chỉ Số
+覚醒pt=<size\=70%>Tỉnh Thức pt
+絆Pt=Gắn Kết Pt
+絆pt=<size\=75%>Gắn Kết pt
+シンクロレベル\n強化へ=<size\=80%><line-height\=60%>Cường Hóa qua\nCấp Đồng Bộ
+レベルシンクロで\nレベルを共有しています。=Chia sẻ cấp qua Đồng Bộ.
+限界突破\nボーナス=Thưởng\nĐột Phá
+装着中=Đang Lắp
+未所持=<size\=75%>Chưa SH
+消費素材リスト=Nguyên Liệu Dùng
+強化=<size\=90%>Cường Hóa
+限界突破回数=Số Lần Đột Phá
+アイテムを使用して限界突破を行います。=Dùng vật phẩm để Đột Phá.
+「交流」で絆Lvを5以上にすると<br>アビリティの解放が可能になります。=Khi Gắn Kết Lv5+ qua Giao Lưu,<br>có thể mở Năng Lực.
+アイテムを使用してマナ覚醒を行います。=Dùng vật phẩm để Tỉnh Thức.
+マナ覚醒=Tỉnh Thức
+解放=<size\=70%>Mở Khóa
+アイテムを消費してアビリティを解放=Dùng vật phẩm mở khóa Năng Lực
+アイテムを使ってアビリティを解放します。=Dùng vật phẩm để mở khóa Năng Lực.
+sr:"^絆Lvを強化することで<br><color\=#4cf37b>([\S\s]+)</color>のLv上限を<color\=#4cf37b>10</color>にできます。<br>絆Lvを強化しますか？$"=Khi cường hóa Gắn Kết Lv<br>có thể nâng giới hạn Lv của <color\=#4cf37b>$1</color> lên <color\=#4cf37b>10</color>.<br>Cường hóa Gắn Kết Lv?
+素材が足りません=Thiếu Nguyên Liệu
+消費覚醒pt=<line-height\=60%>Tiêu Tỉnh Thức pt
+所持覚醒pt=<line-height\=60%>Có Tỉnh Thức pt
+所持絆pt=<line-height\=60%>Có\nGắn Kết pt
+消費絆pt=<line-height\=60%>Tiêu Gắn Kết pt
+ポイントが足りません=<cspace\=-0.1em>Thiếu Điểm
+強化初期化=<cspace\=-0.1em><line-height\=30%><size\=80%>Đặt Lại\nCường Hóa
+覚醒強化=Cường Hóa Tỉnh Thức
+絆強化=Cường Hóa Gắn Kết
+石化=<cspace\=-0.1em><size\=80%>Hóa Đá
+魅了=<cspace\=-0.1em><size\=80%>Quyến Rũ
+凍結=<cspace\=-0.1em><size\=80%>Đóng Băng
+麻痺=<cspace\=-0.1em><size\=80%>Tê Liệt
+状態異常耐性=Kháng Trạng Thái
+娼館衣装＆提案カード=<line-height\=60%><cspace\=-0.05em><size\=90%>Nhà Thổ & Thẻ
+育成最大=Chỉ Số Tối Đa
+マナクリスタル選択=Chọn Ma Pha Lê
+研究で強化=<size\=90%>Cường Hóa
+説明=Giải Thích
+チェイン効果=Hiệu Ứng Chain
+[フォースチェイン]\r=[Force Chain]\r
+[フォースチェイン追加効果]\r=[Hiệu Ứng Force Chain Bổ Sung]\r
+[オート操作時のフォースチェイン使用条件]\r=[Điều Kiện Force Chain Khi Auto]\r
+マナクリスタル【回復】=Ma Pha Lê [Hồi Phục]
+衝撃のマナクリスタル【解除】=Ma Pha Lê Xung Kích [Giải Trừ]
+情熱のマナクリスタル【復活】=Ma Pha Lê Nhiệt Huyết [Hồi Sinh]
+情熱のマナクリスタル【崩壊】=Ma Pha Lê Nhiệt Huyết [Sụp Đổ]
+衝撃のマナクリスタル【猛毒】=Ma Pha Lê Xung Kích [Kịch Độc]
+マナクリスタル【金剛】=Ma Pha Lê [Kim Cương]
+マナクリスタル【破壊】=Ma Pha Lê [Hủy Diệt]
+衝撃のマナクリスタル【烈風】=Ma Pha Lê Xung Kích [Phục Hồi]
+情熱のマナクリスタル【剛力】=Ma Pha Lê Nhiệt Huyết [Cường Lực]
+汎用=Phổ Dụng
+HP50%以下の味方がいるとき自動で発動=Tự động kích hoạt khi có đồng đội HP dưới 50%.
+HP50%以下の味方、または状態異常の味方がいるとき自動で発動=Tự động kích hoạt khi có đồng đội HP dưới 50% hoặc bị trạng thái.
+r:"^マナが([0-9]+)以上あるとき自動で発動$"=Tự động kích hoạt khi có $1 Mana trở lên
+r:"^敵が([0-9]+)体以上いるとき自動で発動$"=Tự động kích hoạt khi có $1 kẻ địch trở lên
+敵がアサルトモードに突入したとき=Khi địch vào chế độ Tấn Công
+r:"^味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復$"=Hồi phục [1HIT/100%] toàn phe với TC [<color\=#4cf37b>$1</color>]
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ$"=Gây [1HIT/100%] sát thương toàn kẻ địch với TC [<color\=#4cf37b>$1</color>]
+r:"^敵全体に攻撃力【(?<atk>(?:<color\=#(?:4cf37b|4CF37B)>)?[0-9０-９]+(?:\.[0-9０-９]+)?(?:</color>)?)】で【1HIT\s*/\s*100[%％]】のダメージ\s*/\s*防御力DOWN【20[%％]\s*/\s*20秒】を付与$"=<size\=80%>Gây [1 HIT/100%] ST toàn địch với TC [${atk}], giảm DEF [20%/20 giây]
+r:"^【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\\d+(?:\\.\\d*)?)％分上昇$"=<size\=80%>[Điều Kiện] Đồng đội <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> 5+ tham gia Chain\n[Hiệu Ứng] Giảm Phòng Thủ tăng $1% mỗi người
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 敵全体にノックバックLv([0-9]+)$"=Gây [<color\=#4cf37b>$1</color>] ST toàn địch [1 HIT/100%] / Đẩy lùi toàn địch (Lv$2)
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ=[Điều Kiện] Đồng đội <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> 5+ tham gia Chain\n[Hiệu Ứng] Gây [1 HIT/125%] ST toàn địch = tổng TC người tham gia
+r:"^味方全体に攻撃力UP【<color\=#4cf37b>(\\d+(?:\\.\\d*)?)</color>％ / 20秒】を付与$"=Buff toàn phe Tấn Công [<color\=#4cf37b>$1</color>%/20 giây]
+【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【20秒】を付与=[Điều Kiện] Đồng đội <color\=#FF5050><color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color></color> 5+ tham gia Chain\n[Hiệu Ứng] Buff toàn phe ST Gây Ra +10% × số người [20 giây]
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 毒【10秒】を付与$"=Gây [<color\=#4cf37b>$1</color>] ST toàn địch [1 HIT/100%] / gây Độc [10 giây]
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇=[Điều Kiện] Đồng đội <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> 5+ tham gia Chain\n[Hiệu Ứng] ST Độc tăng theo số người
+r:"^【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\\d+(?:\\.\\d*)?)％分上昇$"=[Điều Kiện] Đồng đội <color\=#FF5050><color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color></color> 5+\n[Hiệu Ứng] Giảm Phòng Thủ tăng $1% mỗi người
+r:"^味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復 / 味方全体からランダムに1つの状態異常を解除$"=Hồi phục toàn phe TC [<color\=#4cf37b>$1</color>] [1 HIT/100%] / Giải trừ ngẫu nhiên 1 trạng thái
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除=[Điều Kiện] Đồng đội <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> 5+\n[Hiệu Ứng] Giải trừ trạng thái = số người tham gia
+【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復=[Điều Kiện] Đồng đội <color\=#FF5050><color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color></color> 5+\n[Hiệu Ứng] Hồi phục [1 HIT/150%] = tổng TC người tham gia
+r:"^ランダムな味方1体を蘇生 / 味方全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】の回復$"=Hồi sinh 1 đồng đội ngẫu nhiên / Hồi phục toàn phe [1HIT/100%] TC [<color\=#4cf37b>$1</color>]
+レベルシンクロ=Đồng Bộ Cấp
+シンクロLv強化=Cường Hóa Đồng Bộ Cấp
+アイテムを使用し、全キャラクターのシンクロLvをUPします。=Dùng vật phẩm tăng Đồng Bộ Cấp toàn NV.
+シンクロLv=<line-height\=60%>Cấp Đồng Bộ
+シンクロLv上限解放=Mở Giới Hạn Đồng Bộ
+アイテム使用して、シンクロLv上限解放を行います。=Dùng vật phẩm mở giới hạn Đồng Bộ Cấp.
+シンクロLvの上限解放=Mở Giới Hạn Đồng Bộ Cấp
+r:"シンクロLvを([0-9]+)にすることで上限解放が可能になります$"=Mở giới hạn khi Đồng Bộ Cấp đạt $1
+強化内容=Chi Tiết
+シンクロLvを強化しますか？=Cường hóa Đồng Bộ Cấp?
+シンクロLvを強化すると全キャラクターのLvがアップします。=Cường hóa Đồng Bộ Cấp sẽ tăng Lv toàn NV.
+ボーナス=Thưởng
+贈る=Tặng
+キャラ詳細=<line-height\=80%>Chi Tiết\nNhân Vật
+プロフィール=Hồ Sơ
+通常用<br>コスチューム=Thường<br>Trang Phục
+おしごと用<br>コスチューム=Làm Việc<br>Trang Phục
+sr:"^([\S\s]+)はスタッフとしておしごとできるようになりました$"=$1 đã có thể làm nhân viên.
+sr:"^スタッフとして<br>【([\S\s]+)】を登録しました。$"=Đã đăng ký<br>[$1] làm nhân viên.
+確認して次へ=Xác Nhận
+覚醒Pt=<size\=75%>Tỉnh Thức Pt
+能力強化=<size\=80%><line-height\=60%>Cường Hóa\nNăng Lực
+以下の贈り物をプレゼントしますか？=Tặng món quà sau?
+キャラクターストーリーが開放されました。<br>閲覧しますか？=Đã mở khóa cốt truyện NV.<br>Xem ngay?
+閲覧する=Xem
+娼館の「おしごと」に配置しておしごとで<br>様々な報酬を受け取ることができます。=Bố trí vào Làm Việc ở Nhà Thổ<br>để nhận các phần thưởng.
+娼館へ=Đến Nhà Thổ
+このシーンは 主人公以外とのHシーンです。=Cảnh H với người khác ngoài MC.
+このシーンは主人公以外とのHストーリーです。=H-scene với người khác ngoài MC.
+sr:"^「([\S\s]+)」の新しいアビリティ<br><color\=#4cf37b>「([\S\s]+)」</color>を解放可能になりました。$"=Mở khóa Năng Lực mới<br><color\=#4cf37b>「$2」</color> của 「$1」.
+キャラ詳細へ=<size\=90%>Đến NV
+sr:"^「([\S\s]+)」<br>を再生します。よろしいですか？$"=Sẽ phát 「$1」.<br>Bạn có chắc?
+再生=Phát
+r:"^絆Lv([0-9]+)以上$"=Gắn Kết Lv$1+
+所持数=Số Lượng
+ストーリー開放条件=Mở Khóa Cốt Truyện
+r:"^絆Lv([0-9]+)で解放$"=Mở tại Gắn Kết Lv$1
+このストーリーはまだ開放されていません。<br>以下の条件をクリアしましょう！=Cốt truyện chưa mở khóa.<br>Hoàn thành điều kiện sau!
+絆Lvを上げて最初のストーリーを見ると<br>娼館衣装が解放されます。=Tăng Gắn Kết Lv xem CT đầu<br>sẽ mở khóa trang phục Nhà Thổ.
+強化する=Cường Hóa
+sr:"^<color\=#4CF37B>([0-9]+)絆pt</color>を消費して<color\=#4CF37B>強化</color>しますか？$"=Dùng <color\=#4CF37B>$1 Bond pt</color> để <color\=#4CF37B>cường hóa</color>?
+お気に入り登録=<size\=80%>   Thêm Yêu Thích
+登録完了=<size\=80%>   Đã Đăng Ký
+表示切替=<size\=70%>Đổi Hiển Thị
+sr:"^(戦力|攻撃力|防御力|炎上耐性|凍結耐性|石化耐性|麻痺耐性|魅了耐性|喪失耐性|絆Lv): ([0-9]+)$"=$1: $2
+レアリティ=Độ Hiếm
+入手=Nhận
+ソート=Sắp Xếp
+フィルター=Lọc
+フィルター初期化=Đặt Lại Lọc
+所属勢力=<size\=95%>Phe Phái
+登録済=Đã Đăng Ký
+登録なし=<size\=90%>Chưa ĐK
+未開放ストーリーがある=Có CT chưa mở
+スタッフ登録=ĐK Nhân Viên
+ストーリー=CT
+衣装種別=<size\=80%>Loại Trang Phục
+衣装=Mặc Định
+最大チェイン数=Chain Tối Đa
+紋章=Huy Hiệu
+強化アイテム=<cspace\=-0.1em>Vật Phẩm Cường Hóa
+カテゴリ=Danh Mục
+キャンセル=Hủy
+決定=Xác Nhận
+その他=Khác
+表示設定=Cài Đặt Hiển Thị
+使用中=Đang Dùng
+ロック中=Đã Khóa
+未ロック=Chưa Khóa
+装備の紋章=Huy Hiệu TB
+紋章なし=Không
+装備カテゴリ=Loại TB
+未鑑定装備=<size\=85%>Chưa Giám Định
+ランク=Cấp
+誕生日=SN
+好きなもの=Sở Thích
+嫌いなもの=Ghét
+所属国=<size\=90%>Quốc Gia
+別バージョン選択=Chọn Phiên Bản Khác
+別バージョン=<size\=80%>Phiên Bản Khác
+演出=Dàn Dựng
+キャラからの贈り物=Quà từ NV
+Lvアップ=Lên Cấp
+親愛度アップ②=Thân Mật ②
+親愛度アップ①=Thân Mật ①
+親愛度アップ③=Thân Mật ③
+キャラ詳細画面①=Chi Tiết Nhân Vật ①
+キャラ詳細画面②=Chi Tiết Nhân Vật ②
+おしごと配置=Xếp Làm Việc
+提案カード①=Thẻ Đề Nghị ①
+自己紹介=Tự GT
+提案カード②=Thẻ Đề Nghị ②
+交流画面おしごとコス①=Giao Lưu - TP LV ①
+交流画面おしごとコス②=Giao Lưu - TP LV ②
+交流画面おしごとコス③=Giao Lưu - TP LV ③
+交流画面おしごとコスにタッチ①=Giao Lưu - Chạm TP LV ①
+交流画面おしごとコスにタッチ②=Giao Lưu - Chạm TP LV ②
+交流画面おしごとコスにタッチ③=Giao Lưu - Chạm TP LV ③
+クエスト出撃=Xuất Trận NV
+厄災戦開始=Tai Ương Chiến
+キャラ編成時=Khi Xếp Đội
+通常攻撃①=Đòn Thường ①
+通常攻撃②=Đòn Thường ②
+通常攻撃③=Đòn Thường ③
+ダメージ(小)=ST (Nhỏ)
+ダメージ(大)=ST (Lớn)
+フォースチェインカットイン=Cắt cảnh Force Chain
+戦闘不能=Bất Tại Chiến
+バトル開始=Bắt Đầu Chiến
+フォースチェイン=Force Chain
+フロアパーツ移動時=Khi Di Chuyển Phần Sàn
+バトル部屋クリア時=Khi Qua Phòng
+バトル部屋移動時=Khi Vào Phòng
+バトル勝利=Thắng Trận
+バトル敗北=Thua Trận
+探索報酬獲得①=Nhận Thưởng TD ①
+探索報酬獲得②=Nhận Thưởng TD ②
+現在の編成を複製します。上書き先の編成枠=Đang sao chép đội hình hiện tại. Chọn khung đội hình sẽ ghi đè.
+置き換えられる編成=Đội hình bị thay thế
+編成上書き=Ghi Đè Đội Hình
+上書き先の編成枠を選択して下さい=Vui lòng chọn khung đội hình để ghi đè.
+編成枠①=Khung Đội ①
+編成枠②=Khung Đội ②
+編成枠③=Khung Đội ③
+編成枠⑤=Khung Đội ⑤
+編成枠④=Khung Đội ④
+編成枠⑥=Khung Đội ⑥
+編成枠⑦=Khung Đội ⑦
+編成枠⑧=Khung Đội ⑧
+編成枠⑨=Khung Đội ⑨
+編成枠⑩=Khung Đội ⑩
+
+リセット=Đặt Lại
+登録済み=Đã Đăng Ký
+全選択解除=Hủy Chọn Tất Cả
+
+編成傾向=Tiêu Chí Xếp Đội
+おまかせ対象=Phạm Vi Tự Động
+
+sr:"【条件】"="[Điều Kiện]"
+sr:"【効果】"="[Hiệu Ứng]"
+sr:"紋章：衝撃が5以上の味方がチェインに参加"="Đồng đội <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> 5+ tham gia Chain"
+sr:"味方全体からランダムに条件を満たした参加者の人数\n分、状態異常を解除"="Giải trừ trạng thái \= số người tham gia"
+sr:"味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除"="Giải trừ trạng thái \= số người tham gia"
+sr:"紋章：情熱が5以上の味方がチェインに参加"="Đồng đội <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> 5+ tham gia Chain"
+sr:"味方に条件を満たした参加者の合計攻撃力で【1HIT /\n150%】の回復"="Hồi phục [1 HIT/150%] \= tổng TC người tham gia"
+sr:"味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復"="Hồi phục [1 HIT/150%] \= tổng TC người tham gia"
+
+sr:"英雄の血脈に応じ、複数のマナの波動を一点に集束させる\n高純度魔力結晶。"="Tinh thể ma lực độ tinh khiết cao tập trung các dao động năng lượng dựa theo huyết mạch anh hùng."
+sr:"仲間の猛き衝撃を共鳴の火種とし、あらゆる穢れを吹き飛ばす清冽なる浄化の脈動を放つ。"="Sử dụng Xung Kích mạnh mẽ của đồng đội làm mồi lửa cộng hưởng, phóng ra dao động thanh tẩy thuần khiết thổi bay mọi ô uế."
+sr:"その淀みなき衝撃は、戦士たちの肉体を蝕む毒や精神を縛る呪縛を瞬時に霧散させ、傷ついた魂をあるべき姿へと還す。"="Xung Kích không tỳ vết này sẽ ngay lập tức xóa tan chất độc đang gặm nhấm cơ thể hay những lời nguyền trói buộc tinh thần, đưa linh hồn tổn thương trở về trạng thái vốn có."
+sr:"戦士を縛る忌まわしき枷を打ち砕くその輝きは、停滞する逆境を、清浄なる再起へと塗り替えるだろう。"="Ánh sáng đập tan gông cùm trói buộc đó sẽ biến nghịch cảnh bế tắc thành sự tái khởi trong sạch."
+
+sr:"仲間の昂る情熱を共鳴の火種とし、死の境界さえ照らし出す『不滅の生命の輝き』を放つ。"="Sử dụng Nhiệt Huyết dâng trào của đồng đội làm mồi lửa cộng hưởng, phóng ra 'Ánh Sáng Sinh Mệnh Bất Diệt' soi rọi cả ranh giới cái chết."
+sr:"その魂を揺さぶる慈愛は、潰えかけた命の灯火を再び激しく燃え上がらせ、倒れ伏した戦士を再び戦列へと呼び戻す。"="Tình yêu thương làm rung động tâm hồn này sẽ làm bùng cháy lại ngọn lửa sinh mệnh đang lụi tàn, gọi những chiến binh gục ngã trở lại chiến trường."
+sr:"絶望の別れを拒絶するその奇跡は、最果ての喪失を、運命に抗う不撓不屈の希望へと塗り替えるだろう。"="Phép màu từ chối sự chia ly tuyệt vọng này sẽ biến sự mất mát tận cùng thành hy vọng bất khuất chống lại số phận."
+
+sr:"すべてを包み込む救済の光を放つ。"="Phóng ra ánh sáng cứu rỗi bao trùm mọi thứ."
+sr:"その慈愛に満ちた輝きは、傷ついた肉体と疲弊した魂を瞬時に癒やし、戦士たちに再び立ち上がる力を与える。"="Ánh sáng tràn đầy tình yêu thương này sẽ ngay lập tức chữa lành cơ thể tổn thương và tâm hồn mỏi mệt, tiếp thêm sức mạnh để các chiến binh một lần nữa đứng dậy."
+sr:"絶命の淵さえも押し戻すその奇跡は、潰えかけた命の灯火を、決して折れぬ不屈の希望へと塗り替えるだろう。"="Phép màu đẩy lùi cả vực thẳm cái chết này sẽ biến ngọn lửa sinh mệnh đang lụi tàn thành hy vọng bất khuất không bao giờ dập tắt."
+
+スキル＆アビリティ詳細=Chi tiết Kỹ năng & Năng lực
+
+現在の編成を複製します。上書き先の編成枠を選択してください。=Sao chép đội hình hiện tại. Hãy chọn ô đội hình để ghi đè.
+
+コピーした部隊=Đội hình đã sao chép
+
+上書き先の部隊を選択=Đội hình sẽ bị thay thế
+
+以下の編成を現在表示中の編成で上書きします。=<line-height\=60%>Ghi đè đội hình đã chọn bằng đội hình đang hiển thị.
+
+上書き=Ghi đè
+
+全スタンスのキャラを1人以上編成してください=<cspace\=-0.1em>Hãy bố trí ít nhất 1 nhân vật cho mỗi stance
+
+選択されていません= Chưa chọn
+
+スキルチャージ：=Nạp kỹ năng:
+
+チャージ=Nạp
+
+アビリティ覚醒=Thức Tỉnh Năng Lực
+
+影響アビリティ=Năng lực ảnh hưởng
+
+パラメータ詳細=Chi tiết chỉ số
+
+補正=Bổ chính
+
+キャラアビリティ=Năng lực nhân vật
+
+ベース=Cơ bản
+
+未強化=<cspace\=-0.1em>Chưa cường hóa
+
+r:"^【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\d+(?:\.\d*)?)％分上昇$"=<size\=90%><cspace\=-0.05em>[Điều kiện] Đồng minh có <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Hiệu ứng Giảm DEF tăng thêm $1% × số người tham gia đủ điều kiện
+
+r:"^味方全体に攻撃力UP【<color\=#4cf37b>(\d+(?:\.\d*)?)</color>％ / 20秒】を付与$"=Ban Tăng ATK [<color\=#4cf37b>$1</color>% / 20 giây] cho toàn bộ đồng minh
+
+r:"^【条件】<color\=#FF5050>紋章：情熱</color>が5以上の味方がチェインに参加\n【効果】防御力DOWNの効果が条件を満たした参加者の人数×(\d+(?:\.\d*)?)％分上昇$"=[Điều kiện] Đồng minh có <color\=#FF5050><color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color></color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Giảm DEF tăng thêm $1% × số người tham gia đủ điều kiện
+
+【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Gây [1 hit / 125%] sát thương lên toàn bộ kẻ địch dựa trên tổng ATK của những người tham gia đủ điều kiện
+
+【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Sát thương Độc tăng theo số người tham gia đủ điều kiện
+
+【条件】紋章：衝撃が5以上の味方がチェインに参加\n【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Xóa trạng thái bất lợi ngẫu nhiên khỏi số đồng minh bằng số người tham gia đủ điều kiện
+r:"^【条件】(?:<color\=#6B8CFF>)?紋章\s*[:：]\s*衝撃(?:</color>)?が(?<n>[0-9０-９]+)以上の味方がチェインに参加(?:\\n|\n)【効果】味方全体からランダムに条件を満たした参加者の人数分、状態異常を解除$"=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ ${n} trở lên tham gia Chain\n[Hiệu ứng] Xóa trạng thái bất lợi ngẫu nhiên khỏi số đồng minh bằng số người tham gia đủ điều kiện
+
+【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方全体に条件を満たした参加者の人数×10％の与ダメージUP【20秒】を付与=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Ban Tăng sát thương gây ra [20 giây] cho toàn bộ đồng minh, +10% × số người tham gia đủ điều kiện
+
+【条件】紋章：情熱が5以上の味方がチェインに参加\n【効果】味方に条件を満たした参加者の合計攻撃力で【1HIT / 150％】の回復=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Hồi cho đồng minh [1 hit / 150%] dựa trên tổng ATK của toàn bộ người tham gia đủ điều kiện
+r:"^味方全体に防御力UP\s*【(?<def>(?:<color\=#(?:4cf37b|4CF37B)>)?[0-9０-９]+(?:\.[0-9０-９]+)?[%％]?(?:</color>)?[%％]?)\s*/\s*(?<sec>[0-9０-９]+)秒】\s*を付与$"=Tăng DEF [${def}/${sec} giây] cho toàn bộ đồng minh
+r:"^敵全体に攻撃力\s*【(?<atk>(?:<color\=#(?:4cf37b|4CF37B)>)?[0-9０-９]+(?:\.[0-9０-９]+)?(?:</color>)?)】で【(?<hit>[0-9０-９]+)HIT\s*/\s*(?<rate>[0-9０-９]+(?:\.[0-9０-９]+)?[%％])】\s*のダメージ\s*/\s*防御力DOWN【(?<down>[0-9０-９]+(?:\.[0-9０-９]+)?[%％])\s*/\s*(?<sec>[0-9０-９]+)秒】を付与$"=<size\=90%>Gây [${hit} HIT/${rate}] ST toàn địch với ATK [${atk}], giảm DEF [${down}/${sec} giây]
+r:"^【条件】(?:<color\=#FF5050>)?紋章\s*[:：]\s*情熱(?:</color>)?が(?<n>[0-9０-９]+)以上の味方がチェインに参加(?:\\n|\n|\s+)【効果】味方に条件を満たした参加者の合計攻撃力で【(?<hit>[0-9０-９]+)HIT\s*/\s*(?<rate>[0-9０-９]+(?:\.[0-9０-９]+)?[%％])】の回復$"=<cspace\=-0.05em><size\=90%>[Điều kiện] Đồng minh có <color\=#FF5050>Huy Hiệu: Nhiệt Huyết</color> từ ${n} trở lên tham gia Chain\n[Hiệu ứng] Hồi cho đồng minh [${hit} HIT/${rate}] dựa trên tổng ATK của người tham gia đủ điều kiện
+
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】条件を満たした参加者の人数に応じて毒のダメージが上昇 / 敵全体に攻撃力DOWN【20％/15秒】を付与=[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Sát thương Độc tăng theo số người tham gia / Gây Giảm ATK [20%/15 giây] lên toàn bộ kẻ địch
+
+【条件】<color\=#6B8CFF>紋章：衝撃</color>が5以上の味方がチェインに参加\n【効果】敵全体に条件を満たした参加者の合計攻撃力で【1HIT / 125％】のダメージ / 味方全体に連撃率UP【50%/15秒】を付与=<size\=90%>[Điều kiện] Đồng minh có <color\=#6B8CFF>Huy Hiệu: Xung Kích</color> từ 5 trở lên tham gia Chain\n[Hiệu ứng] Gây [1 hit / 125%] sát thương lên toàn bộ kẻ địch dựa trên tổng ATK của đồng minh tham gia / Ban Tăng Tỉ Lệ Liên Kích [50%/15 giây] cho toàn bộ đồng minh
+
+キャラクターストーリーが解放されました。<br>閲覧しますか？=Cốt truyện nhân vật đã được mở khóa.<br>Bạn có muốn xem không?
+
+絆ボーナス=Thưởng Gắn Kết
+
+sr:"^ストーリー解放：「([\S\s]+)」が解放！$"=Mở cốt truyện: “$1” đã mở khóa!
+
+r:"^絆Lv([0-9]+)$"=<size\=90%><cspace\=-0.1em>Gắn Kết Lv$1
+
++絆pt1=+1 điểm Gắn Kết
+
+r:"^絆Lv([0-9]+)以上で解放$"=Mở khóa khi Gắn Kết Lv$1 trở lên
+
+おしごと報酬獲得①=Nhận thưởng công việc ①
+
+おしごと報酬獲得②=Nhận thưởng công việc ②
+
+おしごと報酬獲得③=Nhận thưởng công việc ③
+
+階層踏破時=Khi chinh phục tầng
+
+スキン着せ替え時=Khi thay skin
+
+獲得演出=Diễn cảnh nhận
+
+スタッフ登録演出=Diễn cảnh đăng ký nhân viên
+
+r:"^1月([0-9]+)日$"=$1/1
+
+r:"^2月([0-9]+)日$"=$1/2
+
+r:"^3月([0-9]+)日$"=$1/3
+
+r:"^4月([0-9]+)日$"=$1/4
+
+r:"^5月([0-9]+)日$"=$1/5
+
+r:"^6月([0-9]+)日$"=$1/6
+
+r:"^7月([0-9]+)日$"=$1/7
+
+r:"^8月([0-9]+)日$"=$1/8
+
+r:"^9月([0-9]+)日$"=$1/9
+
+r:"^10月([0-9]+)日$"=$1/10
+
+r:"^11月([0-9]+)日$"=$1/11
+
+r:"^12月([0-9]+)日$"=$1/12
+r:"^敵全体に攻撃力【<color\=#4cf37b>([0-9]+)</color>】で【1HIT / 100％】のダメージ / 防御力DOWN【20％ / 20秒】を付与$"=<size\=80%>Gây [1 HIT/100%] sát thương lên toàn bộ kẻ địch với ATK [<color\=#4cf37b>$1</color>] và giảm 【20％ / 20 giây】 phòng thủ của chúng
+スキルレベルアップ=Tăng cấp Kỹ năng
+アビリティ 強化=<size\=85%>Cường hóa Thiên phú
+獲得=Nhận
+スキル / アビリティ 詳細情報=Chi tiết Kỹ năng / Thiên phú
+限界突破内容=Chi tiết Đột phá
+限界突破のその先へ=<size\=80%>Vượt Giới Hạn
+強化効果確認=Xem Hiệu Ứng Cường Hóa
+ドロップ発生率=Tỉ Lệ Rơi Đồ
+各キャラへの追加パラメータ=<size\=85%>Chỉ Số Cộng Thêm Cho Mỗi NV
+ボーナスクエスト詳細=Chi Tiết Nhiệm Vụ Thưởng
+あきらめる=Bỏ Cuộc
+ボーナスクエストが発生しました！=Nhiệm Vụ Thưởng Đã Xuất Hiện!
+イベントチケット大量獲得のチャンス！=<size\=90%>Cơ Hội Nhận Nhiều Vé Sự Kiện!
+閉じる=Đóng
+クエストへ=Đến Nhiệm Vụ
+出撃不可=Không Thể Xuất Trận
+条件を満たしていないため出撃できません。\n防衛設備や編成を確認してください。=<size\=90%>Không thể xuất trận vì chưa thỏa điều kiện.\nHãy kiểm tra thiết bị phòng vệ và đội hình.
+マナ燃料が不足しています。=Không Đủ Nhiên Liệu Mana.

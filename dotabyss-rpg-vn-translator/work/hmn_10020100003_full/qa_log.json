@@ -1,0 +1,49 @@
+{
+  "scene": "hmn_10020100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    {
+      "code": "H18_PROJECT_CONFIRMATION",
+      "note": "User confirmed all characters are 18+ for this project; adult/flirtatious bath lines translated normally while preserving source tone and consent."
+    },
+    {
+      "code": "ADDRESSING",
+      "note": "Verisa -> Commander uses playful anh/em; Commander -> Verisa uses anh/em. Commander title concept rendered as Chỉ Huy where it appears as 指揮/command."
+    },
+    {
+      "code": "NAME_HANDLING",
+      "note": "Speaker/charaload names preserved; in prose used EN-established romanizations Verisa, Adelheid, Lux Nova, Perdion."
+    }
+  ],
+  "structural_qa": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatches": [],
+    "technical_field_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "unchanged_text_records": [],
+    "ascii_comma_in_vi_text": [],
+    "intentional_identical_records": []
+  },
+  "independent_verify": "PASS",
+  "candidate_counts": {
+    "title": 1,
+    "message": 105
+  },
+  "candidate_total": 106,
+  "translated_records": 106,
+  "kept_english_records": [],
+  "intentional_identical_records": [],
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 106,
+  "changed_lines": 106,
+  "source_line_count": 941,
+  "output_line_count": 941,
+  "source_sha256": "d3aa2ff71ff92c59d6074c7e0201c1f7b4bbc16d7f910644fc78fe6ec1dd2f9c",
+  "output_sha256": "7a14d94fe598215aa77d04899e2fdd4bca5a07a0a201c5c53f36c789831f6167"
+}

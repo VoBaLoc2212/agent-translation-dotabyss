@@ -1,0 +1,33 @@
+{
+  "scene": "hmn_10030100001",
+  "status": "PASS",
+  "generated_at": "2026-07-19T09:25:15.487186+00:00",
+  "blockers": [],
+  "items": [],
+  "notes": [],
+  "intentional_kept_text_records": [],
+  "counts": {
+    "candidate_text_records": 72,
+    "translated_records": 72,
+    "by_type": {
+      "title": 1,
+      "message": 70,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1,
+      "total": 72
+    },
+    "delimiter_mismatch_count": 0,
+    "unchanged_text_records": 0
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 72,
+  "translated_records": 72,
+  "changed_lines": 72,
+  "source_line_count": 1328,
+  "output_line_count": 1328,
+  "source_sha256": "541955a703ff4d6d8f43219232ed7d7b72d5d7cba9b899afa29dea31a9e04a54",
+  "output_sha256": "23d33dcd04873fd2005381bf35fef9aff6749d2d01c9bd15ed349e7a7acb2846",
+  "qa_status": "PASS"
+}

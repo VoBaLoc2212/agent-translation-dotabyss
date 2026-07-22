@@ -1,0 +1,61 @@
+{
+  "scene": "hmn_10450100003",
+  "asset_type": "hmn",
+  "character": "イオラ (Iola)",
+  "character_role": "Magic student / martial artist daughter",
+  "title_jp": "いけー！　あたしの火炎魔法！",
+  "title_en": "Go! My Fire Magic!",
+  "title_vi": "Đi Nào! Hỏa Diễm Ma Pháp Của Tôi!",
+  "translation_mode": "EN-asset-is-English (title still JP)",
+  "source_jp": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10450100003/ja.json",
+  "source_en_json": "AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10450100003/en.json",
+  "source_en_asset": "AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10450100003.txt",
+  "output_vi": "AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10450100003.txt",
+  "work_dir": "AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10450100003_full",
+  "character_addressing": {
+    "Iola_self": "あたし → em/mình/tôi (young casual female, student)",
+    "Commander_self": "俺 → tôi/anh (male adult)",
+    "Iola_to_Commander": "先生 → Thầy (teacher/mentor)",
+    "Commander_to_Iola": "お前 → em (addressing student)",
+    "Soldiers_to_Commander": "司令官 → Chỉ Huy",
+    "Soldiers_addressing_Iola": "この子 → con bé/cô bé",
+    "SmallMonster_label": "小型モンスター (kept JP in field 1)"
+  },
+  "adult_content_confirmed": true,
+  "notes": [
+    "Iolaは元気でストレートな魔法学校の女生徒。先生/Thầyと呼ぶ。",
+    "司令官→Chỉ Huy (by soldiers), Commander self→tôi/anh",
+    "EN asset is English; title field still JP → translate JP→VI Title Case",
+    "SFX/monster sounds localized to differentiate from EN source"
+  ],
+  "status": "PASS",
+  "independent_verify": {
+    "scene": "hmn_10450100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 98,
+      "messageTextUnder": 1,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 2338,
+      "vi": 2338,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "06f3ccbaf1e8b5d332384f22b116428588d866ff2561cbfe1beb314911e64233",
+    "output_sha256": "25789d9da39e2ffd6d20636aa668ad2ca373fe3c6d6474d01aea95691fd9f60a"
+  }
+}

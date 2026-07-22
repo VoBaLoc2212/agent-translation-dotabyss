@@ -1,0 +1,1180 @@
+{
+  "scene": "hmn_10050100002",
+  "status": "PASS",
+  "jp_json": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10050100002\\ja.json",
+    "sha256": "8db64fce17301b76dd4a79ec86ca74b635e345b4b0f5de9168eba47c54e741ff",
+    "ordered_pairs": 66
+  },
+  "en_json": {
+    "path": "E:\\AgentTranslation\\dotabyss-translation-main\\translations\\novels\\hmn_10050100002\\en.json",
+    "sha256": "555446da1c56b7373b0935be92803ddb22573995c493f4b7a90a8b5ae001a6bc",
+    "ordered_pairs": 66
+  },
+  "source_asset": {
+    "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+    "sha256": "935e67004dd96a2267a9622e49bdc42c70203742eaa7e22edb3278698a34445c",
+    "bytes": 26620,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1358
+  },
+  "output_asset": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+    "sha256": "754c069f0cbd2811a880387f5ebf3b01a50ccfae9d6718cd48e9f624b517b6af",
+    "bytes": 28394,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1358
+  },
+  "text_command_counts": {
+    "message": 64,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "title": 1
+  },
+  "entries": [
+    {
+      "line": 23,
+      "type": "title",
+      "speaker": "",
+      "source_text": "タイトル",
+      "delimiter_count": 1,
+      "entry_index": 1,
+      "vi_text": "Tiêu Đề",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "title"
+      ]
+    },
+    {
+      "line": 33,
+      "type": "messageTextCenter",
+      "speaker": "",
+      "source_text": "<size=48>—A few days later.</size>",
+      "delimiter_count": 5,
+      "entry_index": 2,
+      "vi_text": "<size=48>—Vài ngày sau</size>",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "messageTextCenter",
+        "",
+        "",
+        "",
+        "on"
+      ]
+    },
+    {
+      "line": 67,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Commander，I don't want to pressure you，but at that pace，you won't<br>make the deadline!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 3,
+      "vi_text": "Chỉ Huy‚ em không muốn hối anh đâu‚ nhưng với tốc độ đó thì anh sẽ<br>không kịp hạn chót mất!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_001_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 69,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I know，but isn't it impossible to process all these reports at once?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 4,
+      "vi_text": "Anh biết‚ nhưng xử lý hết chỗ báo cáo nhiều thế này trong một lúc chẳng phải là bất khả thi sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 80,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "If you'd chipped away at them a little each day，they wouldn't have<br>piled up!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 5,
+      "vi_text": "Nếu mỗi ngày anh chịu làm từng chút một thì chúng đã không<br>chất đống lên thế này rồi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_002_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 91,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Commander，you've been leaving all the paperwork to Electra lately.<br>Hasn't that dulled your work instincts?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 6,
+      "vi_text": "Chỉ Huy‚ dạo gần đây ngài giao hết việc giấy tờ cho Electra nhỉ.<br>Có phải vì vậy mà cảm giác làm việc của ngài đã cùn đi rồi không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アーデルハイト",
+        "108701000G",
+        "vc_10050100002_003_01",
+        "chara_2"
+      ]
+    },
+    {
+      "line": 93,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Guh... I can't deny that.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 7,
+      "vi_text": "Ư… Anh không thể phủ nhận chuyện đó.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 95,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Fine，fine. I'm definitely in the wrong. But can I take a short break?<br>I'm really tired，you know.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 8,
+      "vi_text": "Được rồi‚ được rồi. Chắc chắn là lỗi của anh. Nhưng anh nghỉ một lát<br>được không? Anh mệt thật rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 106,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "N-no，you can't! They're specifically requesting reports in your own<br>handwriting... So you've got to push through today!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 9,
+      "vi_text": "Kh-không được đâu! Họ yêu cầu báo cáo do chính tay Chỉ Huy viết…<br>Nên hôm nay anh phải cố gắng vượt qua thôi~!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_004_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 153,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Excuse me，Master. I've brought the item you requested.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 10,
+      "vi_text": "Xin phép chủ nhân. Em đã mang món đồ ngài hẹn lấy về rồi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_005_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 155,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Oh，Electra. Did you manage to get what I asked for?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 11,
+      "vi_text": "Ồ‚ Electra à. Em lấy được thứ anh nhờ chưa?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 190,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Here it is. \"\"Housewife Wars: Chapter of Debauchery\"\"... Please take it.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 12,
+      "vi_text": "Đây ạ. \"\"Đại Chiến Phu Nhân: Chương Tửu Trì Nhục Lâm\"\"… Xin ngài nhận lấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_006_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 243,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Wha-what! An erotic novel! At a time like this!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 13,
+      "vi_text": "H-hảả!? Tiểu thuyết khiêu dâm sao!? Ngay lúc này ư!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_007_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 245,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "This... they really put effort into the cover. Alicia，just a little，let<br>me read it.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 14,
+      "vi_text": "Cái này… chỉ nhìn bìa thôi cũng thấy họ đầu tư ghê thật. Alicia‚ chỉ một chút thôi‚<br>cho anh đọc đi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 256,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "But please，Commander，control yourself! Electra，confiscate that<br>book!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 15,
+      "vi_text": "Nhưng xin Chỉ Huy hãy kiềm chế lại! Electra‚ tịch thu quyển<br>sách đó đi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_008_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 258,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Please，Electra. Just a little，I mean it. Let me read it.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 16,
+      "vi_text": "Anh xin em đấy‚ Electra. Thật sự chỉ một chút thôi. Cho anh đọc đi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 304,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Eh? Ah... um...<br> ",
+      "delimiter_count": 5,
+      "entry_index": 17,
+      "vi_text": "Ơ? À… ừm…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_009_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 358,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Electra，please!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 18,
+      "vi_text": "Electra‚ làm ơn đi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_010_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 360,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Electra，I'm dying to know what happens next... I'll stop at a good<br>breaking point，I promise.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 19,
+      "vi_text": "Electra‚ anh tò mò đoạn tiếp theo đến chịu không nổi… Anh hứa sẽ dừng lại<br>ở một chỗ hợp lý mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 406,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "...<br> ",
+      "delimiter_count": 5,
+      "entry_index": 20,
+      "vi_text": "…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_011_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 408,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Hm? What's wrong?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 21,
+      "vi_text": "Hửm? Sao thế?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 419,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "...I apologize. An error occurred.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 22,
+      "vi_text": "…Em xin lỗi. Đã xảy ra lỗi.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_012_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 438,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "I will execute both orders simultaneously to the best of my ability.<br>Please forgive me，Master!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 23,
+      "vi_text": "Trong phạm vi có thể‚ em sẽ đồng thời thực hiện cả hai mệnh lệnh.<br>Xin chủ nhân hãy tha thứ cho em!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_013_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 460,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Guh! She took the book... When did she?!<br> ",
+      "delimiter_count": 2,
+      "entry_index": 24,
+      "vi_text": "Ư!? Cô ấy lấy mất quyển sách rồi… Từ lúc nào vậy?!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 511,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Alicia，please take it.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 25,
+      "vi_text": "Alicia‚ xin hãy nhận lấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_014_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 534,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Thank you，Electra!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 26,
+      "vi_text": "Cảm ơn cô‚ Electra!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_015_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 541,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "I apologize for the impertinent request，but could you please open<br>the book and show me the contents?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 27,
+      "vi_text": "Xin thứ lỗi vì yêu cầu đường đột này‚ nhưng cô có thể mở sách<br>và cho tôi xem nội dung bên trong không?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_016_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 553,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "...? Like this?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 28,
+      "vi_text": "…? Như thế này sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_017_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 602,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "\"\"Hey，lady. Yell all you want—no one's coming to help.\"\" The<br>bone-chilling male voice pierces the woman's flushed body.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 29,
+      "vi_text": "\"\"Này phu nhân. Cô có gào thế nào cũng chẳng ai đến cứu đâu.\"\" Giọng<br>đàn ông lạnh thấu xương xuyên vào cơ thể nóng rực của người phụ nữ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_018_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 616,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Meanwhile，fingers precisely toyed with her sensitive spot below her<br>abdomen. With gentle touch unimaginable from those rough fingers，she—<br> ",
+      "delimiter_count": 5,
+      "entry_index": 30,
+      "vi_text": "Cùng lúc đó‚ những ngón tay của gã chuẩn xác đùa nghịch điểm nhạy cảm<br>dưới bụng nàng. Trước cách vuốt ve dịu dàng khó tưởng tượng nổi từ những ngón tay thô ráp ấy‚ nàng—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_019_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 671,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "E-Electra，what are you doing?!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 31,
+      "vi_text": "E-Electra‚ cô đang làm gì vậy!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_020_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 673,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...I see. Never thought of that. Having a beauty read it to me is<br>quite—<br> ",
+      "delimiter_count": 2,
+      "entry_index": 32,
+      "vi_text": "…Ra là vậy. Anh chưa từng nghĩ đến cách này. Được người đẹp đọc cho nghe<br>cũng khá là—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 721,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "You're opening a new door!?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 33,
+      "vi_text": "Anh đang mở ra một cánh cửa mới đấy à!?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_021_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 764,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "\"\"Ahh，please—no more，stop...\"\" Her breathless moans only stoke the<br>man's lust further—<br> ",
+      "delimiter_count": 5,
+      "entry_index": 34,
+      "vi_text": "\"\"Aaa‚ xin anh—đừng nữa‚ dừng lại…\"\" Những tiếng rên đứt quãng trong hơi thở<br>yếu ớt càng kích thích dục vọng của gã đàn ông—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_022_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 819,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Eeeek! Please—please stop!<br> ",
+      "delimiter_count": 5,
+      "entry_index": 35,
+      "vi_text": "Hiíí! Làm ơn—xin dừng lại đi mà!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_023_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 865,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "Fufu，this is amusing.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 36,
+      "vi_text": "Hư hư‚ chuyện này thú vị thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アーデルハイト",
+        "108701000G",
+        "vc_10050100002_024_01",
+        "chara_2"
+      ]
+    },
+    {
+      "line": 910,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "...I apologize. I was unable to fulfill both of your wishes.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 37,
+      "vi_text": "…Em xin lỗi. Em đã không thể đáp ứng mong muốn của cả hai người.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_025_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 912,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "No，I don't think that at all. If anything，I'm grateful.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 38,
+      "vi_text": "Không‚ anh không nghĩ vậy đâu. Ngược lại anh còn cảm ơn em.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 921,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "I apologized earlier，but I still don't know the correct answer. Which<br>was right...<br> ",
+      "delimiter_count": 5,
+      "entry_index": 39,
+      "vi_text": "Lúc nãy em đã xin lỗi‚ nhưng đến giờ em vẫn chưa biết đáp án đúng là gì.<br>Bên nào mới đúng đây…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_026_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 923,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm? That's a strange thing to say. You should just do as you see fit.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 40,
+      "vi_text": "Hửm? Em nói chuyện lạ thật. Cứ làm theo ý em muốn là được mà.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 934,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "What I want to do? I want to respond to everyone's needs and<br>maintain a healthy life.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 41,
+      "vi_text": "Điều Electra muốn làm ạ? Điều Electra muốn làm là đáp ứng nhu cầu<br>của mọi người và duy trì một cuộc sống lành mạnh.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_027_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 945,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "In that situation，it was difficult to satisfy them all—<br> ",
+      "delimiter_count": 5,
+      "entry_index": 42,
+      "vi_text": "Trong tình huống lúc nãy‚ việc thỏa mãn tất cả những điều đó là rất khó—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_028_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 947,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm...?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 43,
+      "vi_text": "Hừm…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1001,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "It's the frame problem，Commander.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 44,
+      "vi_text": "Đó là vấn đề khung‚ Chỉ Huy ạ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アーデルハイト",
+        "108701000G",
+        "vc_10050100002_029_01",
+        "chara_2"
+      ]
+    },
+    {
+      "line": 1003,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "What's that?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 45,
+      "vi_text": "Đó là gì?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1015,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "From just a few fragments，but I can imagine what happened. Electra，<br>explain the frame problem.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 46,
+      "vi_text": "Chỉ từ vài mảnh thông tin thôi‚ nhưng tôi có thể hình dung chuyện gì đã xảy ra. Electra‚<br>hãy giải thích về vấn đề khung.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アーデルハイト",
+        "108701000G",
+        "vc_10050100002_030_01",
+        "chara_2"
+      ]
+    },
+    {
+      "line": 1064,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Androids are designed to obey human commands. That is a<br>precondition that applies to all my actions.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 47,
+      "vi_text": "Người máy được thiết kế để tuân theo mệnh lệnh của con người. Đó là<br>tiền đề áp dụng cho mọi hành động của Electra.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_031_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1075,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Thus，when contradictory orders are given simultaneously，fulfilling<br>one makes the other impossible，and a heavy strain is placed on me.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 48,
+      "vi_text": "Vì vậy‚ khi các mệnh lệnh trái ngược được đưa ra cùng lúc‚ nếu thực hiện<br>một bên thì bên kia không thể được thỏa mãn‚ em sẽ chịu tải rất nặng.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_032_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1077,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I see. I get it. Alicia ordered you to confiscate my book. But I told you<br>to stop taking it and let me read，so—<br> ",
+      "delimiter_count": 2,
+      "entry_index": 49,
+      "vi_text": "Ra vậy. Anh hiểu rồi. Alicia đã ra lệnh cho em tịch thu quyển sách của anh.<br>Nhưng anh lại bảo em dừng việc tịch thu và cho anh đọc‚ nên—<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1079,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "...I don't think it's that big a deal. But I guess that's just how robots<br>are.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 50,
+      "vi_text": "…Anh không nghĩ chuyện này nghiêm trọng đến thế đâu.<br>Nhưng người máy đúng là như vậy nhỉ.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1131,
+      "type": "message",
+      "speaker": "アーデルハイト",
+      "source_text": "It helps that you understand quickly，Commander. For an android，<br>obedience to commands is absolute.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 51,
+      "vi_text": "Chỉ Huy hiểu nhanh nên thật đỡ quá.<br>Với người máy‚ việc tuân thủ mệnh lệnh là tuyệt đối.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アーデルハイト",
+        "108701000G",
+        "vc_10050100002_033_01",
+        "chara_2"
+      ]
+    },
+    {
+      "line": 1171,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "So there's no solution?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 52,
+      "vi_text": "Vậy là không giải quyết được sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1188,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "If you could set a policy in advance for situations like that，I'd be<br>able to decide faster and avoid mistakes.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 53,
+      "vi_text": "Nếu ngài định sẵn phương châm cho những tình huống như vừa rồi<br>thì em sẽ phán đoán nhanh hơn và cũng không phạm sai lầm nữa.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_034_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1190,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "So you're saying I should set whatever conditions I like?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 54,
+      "vi_text": "Ý em là muốn anh đặt điều kiện tùy thích sao?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1201,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Yes. Please feel free to do so.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 55,
+      "vi_text": "Vâng. Xin chủ nhân cứ tùy ý.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_035_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1203,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Hmm... this is tough.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 56,
+      "vi_text": "Ừm… khó nghĩ thật.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1214,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "What's troubling you?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 57,
+      "vi_text": "Điều gì khiến ngài băn khoăn vậy?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_036_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1216,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "I want to say 'make my orders your top priority，' but if I do，Alicia<br>will never let me hear the end of it.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 58,
+      "vi_text": "Anh muốn nói “hãy ưu tiên mệnh lệnh của anh cao nhất”‚ nhưng nếu làm vậy<br>chắc Alicia sẽ cằn nhằn anh mãi mất.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1270,
+      "type": "message",
+      "speaker": "アリシア",
+      "source_text": "Commander? I can hear you，you knooow?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 59,
+      "vi_text": "Chỉ Huy~? Em nghe thấy hết đấy nhé~?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "アリシア",
+        "300201000",
+        "vc_10050100002_037_01",
+        "chara_3"
+      ]
+    },
+    {
+      "line": 1272,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "See? There it is.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 60,
+      "vi_text": "Thấy chưa‚ bị nói rồi đấy.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1312,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "Ugh，what a pain! Electra，do whatever you want!<br> ",
+      "delimiter_count": 2,
+      "entry_index": 61,
+      "vi_text": "Ôi dào‚ phiền phức quá rồi! Electra! Cứ làm theo ý em muốn đi!<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1323,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Eh...?<br> ",
+      "delimiter_count": 5,
+      "entry_index": 62,
+      "vi_text": "Ơ…?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_038_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1325,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "If I said 'act freely，' I'd only think of answers that cause more<br>trouble，so you decide to keep things smooth.<br> ",
+      "delimiter_count": 2,
+      "entry_index": 63,
+      "vi_text": "Nếu nói “tự do làm”‚ anh chỉ nghĩ ra những đáp án dễ gây thêm rắc rối thôi.<br>Để em quyết định có lẽ là cách ổn thỏa nhất.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1336,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "...! Master...<br> ",
+      "delimiter_count": 5,
+      "entry_index": 64,
+      "vi_text": "…! Chủ nhân…<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_039_01",
+        "chara_1"
+      ]
+    },
+    {
+      "line": 1338,
+      "type": "message",
+      "speaker": "<user>",
+      "source_text": "But when there's no problem on my end，follow my orders，okay?<br> ",
+      "delimiter_count": 2,
+      "entry_index": 65,
+      "vi_text": "Nhưng khi anh không có vấn đề gì thì vẫn nghe theo anh nhé?<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "<user>"
+      ]
+    },
+    {
+      "line": 1349,
+      "type": "message",
+      "speaker": "エレクトラ",
+      "source_text": "Of course. Please let me continue to serve by your side，Master.<br> ",
+      "delimiter_count": 5,
+      "entry_index": 66,
+      "vi_text": "Tất nhiên rồi ạ. Từ nay về sau‚ xin hãy để em tiếp tục phụng sự bên cạnh chủ nhân.<br> ",
+      "status": "TRANSLATED",
+      "match_status": "ORDERED_CONTEXT_MATCH",
+      "technical_signature_before": [
+        "message",
+        "エレクトラ",
+        "100501000G",
+        "vc_10050100002_040_01",
+        "chara_1"
+      ]
+    }
+  ],
+  "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100002_full\\qa_log.json",
+  "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100002_full\\focused_diff.md",
+  "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\hmn_10050100002_full\\generate_vi.py",
+  "independent_verify": {
+    "status": "PASS",
+    "candidate_records": 66,
+    "changed_text_records": 66,
+    "text_command_counts": {
+      "title": 1,
+      "message": 64,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "kept_english_records": [],
+    "blockers": [],
+    "source": {
+      "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+      "sha256": "935e67004dd96a2267a9622e49bdc42c70203742eaa7e22edb3278698a34445c",
+      "bom": true,
+      "newline": "CRLF",
+      "line_count": 1358
+    },
+    "output": {
+      "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+      "sha256": "754c069f0cbd2811a880387f5ebf3b01a50ccfae9d6718cd48e9f624b517b6af",
+      "bom": true,
+      "newline": "CRLF",
+      "line_count": 1358
+    }
+  }
+}

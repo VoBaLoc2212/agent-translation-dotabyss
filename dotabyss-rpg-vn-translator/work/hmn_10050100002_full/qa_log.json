@@ -1,0 +1,49 @@
+{
+  "file": "hmn_10050100002.txt",
+  "status": "PASS",
+  "source": {
+    "path": "E:\\AgentTranslation\\Translation\\en\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+    "sha256": "935e67004dd96a2267a9622e49bdc42c70203742eaa7e22edb3278698a34445c",
+    "bytes": 26620,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1358
+  },
+  "output": {
+    "path": "E:\\AgentTranslation\\Translation\\vi\\RedirectedResources\\assets\\unnamed_assetbundle\\hmn_10050100002.txt",
+    "sha256": "754c069f0cbd2811a880387f5ebf3b01a50ccfae9d6718cd48e9f624b517b6af",
+    "bytes": 28394,
+    "bom": true,
+    "newline": "CRLF",
+    "line_count": 1358
+  },
+  "candidate_counts": {
+    "message": 64,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "title": 1
+  },
+  "translated_records": 66,
+  "changed_text_records": 66,
+  "kept_english_records": [],
+  "intentional_identical_records": [],
+  "blockers": [],
+  "warnings": [],
+  "h18_note": "Project confirmation: all characters are 18+; erotic-novel quoted passages translated normally with source tone/consent preserved.",
+  "addressing": {
+    "Commander/司令官": "Chỉ Huy",
+    "Electra to protagonist": "chủ nhân/ngài; self as Electra where source self-names",
+    "default protagonist to women": "anh/em where natural"
+  },
+  "independent_verify": "PASS",
+  "scene": "hmn_10050100002",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 66,
+  "changed_lines": 66,
+  "source_line_count": 1358,
+  "output_line_count": 1358,
+  "source_sha256": "935e67004dd96a2267a9622e49bdc42c70203742eaa7e22edb3278698a34445c",
+  "output_sha256": "754c069f0cbd2811a880387f5ebf3b01a50ccfae9d6718cd48e9f624b517b6af",
+  "qa_status": "PASS"
+}

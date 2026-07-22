@@ -1,0 +1,75 @@
+{
+  "scene": "hmn_10360100003",
+  "case": "EN-asset-is-English with title field still JP (per-field detection: en.json title key empty, message fields English matching en.json; ja.json identity map)",
+  "source_jp": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10360100003/ja.json",
+  "source_en_json": "E:/AgentTranslation/dotabyss-translation-main/translations/novels/hmn_10360100003/en.json",
+  "source_en_asset": "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10360100003.txt",
+  "output_vi": "E:/AgentTranslation/Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10360100003.txt",
+  "work_dir": "E:/AgentTranslation/dotabyss-rpg-vn-translator/work/hmn_10360100003_full",
+  "text_record_counts": {
+    "title": 1,
+    "message": 99,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1,
+    "total": 101
+  },
+  "conventions": {
+    "commander": "Chỉ Huy",
+    "lime_label_field1": "ライム (kept byte-identical)",
+    "lime_selfname_dialogue": "Lime (kept romanized, matching EN asset)",
+    "reyzeria": "Lady Reyzeria / Reyzeria (romanized from EN asset)",
+    "milesgard_knights": "Kỵ Sĩ Milesgard",
+    "milesgard_soldier_label": "ミレスガルド兵（女）/ミレスガルド兵（男）/ミレスガルド兵Ｂ (field-1 kept JP)",
+    "monster_label": "モンスター (field-1 kept JP)",
+    "magic_stone": "ma thạch",
+    "frontline_base": "Căn Cứ Tiền Tuyến",
+    "knight_order": "Hiệp Sĩ Đoàn",
+    "adjutant": "phó quan (Lime's role)",
+    "vice_commander": "Phó Chỉ Huy",
+    "comma_rule": "ASCII ',' inside VI text replaced with U+201A '‚'; EN asset used fullwidth '，' as source comma"
+  },
+  "addressing_matrix": {
+    "Lime_to_Commander": "em/anh (Lime female, junior adjutant)",
+    "Commander_to_Lime": "em (or 'anh' in inner monologue first person for <user> lines)",
+    "Reyzeria_to_Lime": "em (older sister figure, calls Lime 'em')",
+    "Reyzeria_to_Commander": "anh/Chỉ Huy (playful)",
+    "<user>_inner_monologue": "ta/anh first person"
+  },
+  "notes": [
+    "No sibling VI existed for hmn_1036* (Lime/Reyzeria/Milesgard); conventions established from EN asset romanization.",
+    "SFX localized to clear UNCHANGED_TEXT_RECORDS: *gasp*->*hấp!*, *grroooaaarrr*->*gừuu...*, Fufufu->*hư hư hư*, Kukuku->*khư khư khư*.",
+    "Title translated JP->VI Title Case: 副官の座は絶対に渡さない！ -> Tuyệt Đối Không Giao Ghế Phó Chỉ Huy!.",
+    "No H18 content in this scene; no adult-content lines to adjust.",
+    "Two internal <br> breaks added (L645, L1631) to match EN asset <br> count after suffix; guard caught mismatch before write."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10360100003",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 99,
+      "messageTextUnder": 0,
+      "messageTextCenter": 1
+    },
+    "translatable_records": 101,
+    "translated_records": 101,
+    "changed_lines": 101,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1642,
+      "vi": 1642,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "4a32bc4d54eae1c795ccc3b07c9384f67c0436723b06172bbf6a3a55882bd2e8",
+    "output_sha256": "eaa8e9a6c2c6b4804d3fce2e3e5174f7ee3f2f1378a3f006da94fadf8e5d66ac"
+  },
+  "status": "PASS"
+}

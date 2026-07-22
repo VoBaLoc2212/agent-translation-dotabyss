@@ -1,0 +1,287 @@
+L20	[title|]
+JA='溶け出す氷'
+EN='Melting Ice'
+
+L41	[message|シルヴィア]
+JA='はあああああ……！！'
+EN='*pant* Aaaaah...!<br> '
+
+L93	[message|モンスター]
+JA='ギギャァ……！'
+EN='Gyaa...!<br> '
+
+L146	[message|シルヴィア]
+JA='はぁ……あと何体のモンスターを氷漬けにすれば<br>平和に安全に探索ができますの？'
+EN='*pant*... Just how many more monsters must I freeze before we can<br>explore in peace and safety?<br> '
+
+L157	[message|シルヴィア]
+JA='わたくし、不細工な氷像を作る趣味はないのですが。<br>この世界のモンスターには美しさが足りていませんわね。'
+EN="I have no interest in creating ugly ice sculptures. The monsters of<br>this world simply lack beauty，I'm afraid.<br> "
+
+L159	[message|<user>]
+JA='話には聞いていたが、凄まじい腕前だな。'
+EN="I'd heard about it，but your skill is truly incredible.<br> "
+
+L170	[message|シルヴィア]
+JA='ふ、ふん。褒めたってうれしくなんかありませんわよ。'
+EN='Hmph. Your compliments do nothing to please me.<br> '
+
+L172	[message|<user>]
+JA='俺はただ事実を言っただけだが……。<br>元の世界でも何かと戦っていたのか？'
+EN='I was just stating the truth... Did you fight something in your original<br>world too?<br> '
+
+L192	[message|シルヴィア]
+JA='わたくしのいた世界はこの世界ほど<br>争いに満ちてはいませんでした。'
+EN='My original world was not as full of conflict as this one.<br> '
+
+L203	[message|シルヴィア]
+JA='氷に包まれた凍てつく世界ではありましたけど……<br>お父様やお母様と一緒に楽しく芸術に興じれる、そんな世界でしたわ。'
+EN='It was a frozen world wrapped in ice，but... a world where I could<br>enjoy art with Father and Mother.<br> '
+
+L205	[message|<user>]
+JA='芸術、か……向こうの世界でも何か作っていたのか？'
+EN='Art，huh... Did you make things in that world as well?<br> '
+
+L216	[message|シルヴィア]
+JA='わたくしの場合、大半が氷像ですわね。氷魔法が得意ですし、氷像は<br>奥が深くて楽しいので……まあ、あなたには理解できないでしょうけど。'
+EN="In my case，mostly ice sculptures. I'm skilled at ice magic，and ice<br>sculptures are deep and enjoyable... but I suppose you wouldn't understand.<br> "
+
+L226	[message|<user>]
+JA='たしかに芸術はよく分からないが、<br>お前が努力を重ねてきたことは分かるぞ。'
+EN="It's true I don't know much about art，but I can see you've worked<br>hard.<br> "
+
+L236	[message|<user>]
+JA='生半可な努力で身に付けられる技術じゃない。<br>こと氷魔法においては、お前はかなりの実力者と言えるだろうな。'
+EN="That's not a skill you can pick up with half-hearted effort. When it<br>comes to ice magic，you're quite the expert.<br> "
+
+L247	[message|シルヴィア]
+JA='っ……わ、分かればいいのです……。<br>……もう、なんだか調子が狂いますわね……'
+EN="Hmph... It's good that you understand... Goodness，you've quite<br>thrown me off balance.<br> "
+
+L258	[message|シルヴィア]
+JA='わ、わたくしの話はもういいですから、先を急ぎますわよ。<br>早く元の世界に戻るための方法を見つけないといけないんですから。'
+EN="Anyway，enough about me. Let's hurry on. I must find a way back to<br>my world quickly.<br> "
+
+L295	[messageTextCenter|]
+JA='<size=48>――数時間後</size>'
+EN='<size=48>A few hours later.</size>'
+
+L334	[message|シルヴィア]
+JA='……邪魔ですわッ。'
+EN="...You're in the way.<br> "
+
+L405	[message|]
+JA='歩けども歩けども目的を達成できないシルヴィアは<br>纏わりつく虫を払うようにモンスターを氷漬けにしていく。'
+EN='Walking on and on without reaching her goal，Sylvia froze the<br>monsters as if brushing off clinging flies.<br> '
+
+L432	[message|<user>]
+JA='そろそろ休んだ方がいいんじゃないか？'
+EN="Shouldn't we take a break soon?<br> "
+
+L444	[message|シルヴィア]
+JA='わたくしはまだ平気です。<br>魔法も撃てるし、足もまだ疲れてはいませんので。'
+EN="I am still perfectly fine. I can still use magic，and my legs aren't tired<br>at all.<br> "
+
+L446	[message|<user>]
+JA='どう見ても疲れが出ているだろう。<br>モンスターの氷像も時間が経つごとに雑になってきているぞ。'
+EN="It's obvious you're tired. Even your ice statues of monsters are<br>getting sloppier as time goes on.<br> "
+
+L457	[message|シルヴィア]
+JA='っ……気のせいです！\u3000わたくしはいつも通りですわ！'
+EN='Tch... You are imagining things! I am perfectly fine as always!<br> '
+
+L468	[message|シルヴィア]
+JA='そもそも、わたくしはこんなところで足を止めている場合じゃありませんの。<br>まだ何の情報もつかめていないのですから……！'
+EN='In the first place，I cannot afford to stop here. I have not obtained<br>any information yet...!<br> '
+
+L470	[message|<user>]
+JA='疲れた状態では見つけられるものも見つからないだろ。<br>キリのいいところで探索を打ち切るべきだ。'
+EN="When you're exhausted，you won't find anything even if it's right in<br>front of you. We should wrap up the search at a good stopping point.<br> "
+
+L472	[message|<user>]
+JA='焦る気持ちも分からなくはないが、<br>こういう時こそ１度落ち着いてだな……。'
+EN="I can understand you're impatient，but times like these are when you<br>need to take a step back and calm down.<br> "
+
+L481	[message|シルヴィア]
+JA='何も分からないくせに、偉そうな口を利かないでください！'
+EN='You do not know anything，so stop acting as though you are so<br>superior!<br> '
+
+L483	[message|<user>]
+JA='シルヴィア……？'
+EN='Sylvia...?<br> '
+
+L492	[message|シルヴィア]
+JA='あなたに何が分かりますの！？<br>自分の生まれた世界でずっと過ごせている、あなたなんかに！'
+EN='What could you possibly know! Someone like you，who gets to live<br>your whole life in the world you were born in!<br> '
+
+L503	[message|シルヴィア]
+JA='ずっと幸せに暮らしていたんです。<br>辛いこともありましたけど、家族と一緒で幸せだったんです！'
+EN='I was happy! I had difficult times too，but I was happy with my family!<br> '
+
+L512	[message|シルヴィア]
+JA='その幸せが、一瞬で奪われてしまったのですよ！？<br>わたくしは何も悪いことなんてしていないのに……！'
+EN='And that happiness was stolen from me in an instant! And I did not do<br>anything wrong...!<br> '
+
+L523	[message|シルヴィア]
+JA='当たり前の日常が突然消え去って、ある日突然誰も知らない世界に<br>１人で放り出される気持ちが……あなたに分かりますの！？'
+EN='Can you understand what it is like... to have your ordinary life<br>suddenly vanish，and to be thrown all alone into a world where no one knows you?!<br> '
+
+L525	[message|<user>]
+JA='そうだな……すまない。'
+EN="Yeah... I'm sorry.<br> "
+
+L558	[message|シルヴィア]
+JA='いえ……。<br>わたくしの方こそ、いきなり叫んでしまって申し訳ありませんわ。'
+EN='No... I am the one who should apologize for suddenly yelling.<br> '
+
+L560	[message|<user>]
+JA='……やっぱり、あの時作っていた氷像はお前の家族がモデルだったんだな。'
+EN='...So it was true. The ice sculpture you were making earlier was<br>modeled after your family.<br> '
+
+L571	[message|シルヴィア]
+JA='ええ、そうですわ。でも、それが何なんですか？<br>ホームシックをこじらせた愚か者だとでも思いましたの？'
+EN='Yes，it was. But what about it? Did you think I was just some pathetic<br>fool suffering from homesickness?<br> '
+
+L580	[message|シルヴィア]
+JA='わたくしにとって家族は世界の全てでしたの。<br>そんな家族ともう１度会いたい……そう思うことはおかしいことですか？'
+EN='To me，my family was everything. Is it so wrong to want to see them<br>again?<br> '
+
+L582	[message|<user>]
+JA='落ち着け。誰もそうは言っていない。<br>焦るあまり冷静さを失ってしまっているぞ、お前。'
+EN="Calm down. No one said that. You're losing your composure because<br>you're so caught up in your anxiety.<br> "
+
+L593	[message|シルヴィア]
+JA='そんなの分かっていますわ。今のわたくしが冷静じゃないことぐらい。'
+EN='I know that. I am perfectly aware that I am not calm right now.<br> '
+
+L602	[message|シルヴィア]
+JA='こんなわたくしは見ていられないのでしょう？<br>それなら、あなただけ先に帰ればいいじゃないですか。'
+EN='You cannot stand to look at me like this，can you? Then just go ahead<br>without me.<br> '
+
+L613	[message|シルヴィア]
+JA='わたくしと違って帰る場所のあるあなたにとって<br>その選択は当たり前でしょう？'
+EN='For someone like you，who has a place to go back to，that is the<br>obvious choice，is it not?<br> '
+
+L624	[message|シルヴィア]
+JA='……わたくしは奥に進みますわ。'
+EN='...I shall press on ahead.<br> '
+
+L640	[message|]
+JA='ふらつく足取りで前へ進むシルヴィア。'
+EN='Sylvia continued forward on unsteady feet.<br> '
+
+L642	[message|]
+JA='しかし、その直後、彼女は躓き、そのまま前のめりに体が傾いてしまう。'
+EN='But moments later，she stumbled and pitched forward.<br> '
+
+L659	[message|シルヴィア]
+JA='――きゃっ。'
+EN='Kyah!<br> '
+
+L698	[message|]
+JA='あわや転びかけたシルヴィアの体を<br><user>がすんでのところで支える。'
+EN='%user% caught Sylvia just as she was about to fall.<br> '
+
+L700	[message|<user>]
+JA='大丈夫か？'
+EN='You okay?<br> '
+
+L709	[message|シルヴィア]
+JA='え、ええ。あ、ありがとうござ――'
+EN='Y-yes. Th-thank you—<br> '
+
+L720	[message|シルヴィア]
+JA='じゃなくって、余計なことをしないでください！ <br>わたくしが転んだところで、あなたには関係ないでしょう！？'
+EN='No—do not meddle! Even if I fall，it is none of your concern!<br> '
+
+L724	[message|<user>]
+JA='関係ない訳ないだろ。仲間に怪我をされるのは普通に嫌だろうが。'
+EN="Of course it does. I don't want my comrades getting hurt.<br> "
+
+L735	[message|シルヴィア]
+JA='仲間……？\u3000わたくしが、あなたの……？'
+EN='Comrades...? Me，your...?<br> '
+
+L756	[message|シルヴィア]
+JA='そ、それっぽいことを言えばわたくしがあなたに折れるとでも？<br>手を離してください。わたくしは先に……っ、ぅ……！'
+EN="D-do you think I'll give in just because you say something like that?<br>Let go of me. I'm going ahead... *grunt*!<br> "
+
+L758	[message|<user>]
+JA='躓いた拍子に足首をひねったんだな。<br>その足じゃ大穴の先に進むのは無理だ。諦めろ。'
+EN="You twisted your ankle when you tripped. You can't go deeper into<br>the Abyss with that foot. Give up.<br> "
+
+L760	[message|<user>]
+JA='前線基地に戻るぞ。俺がおぶってやるから。'
+EN="We're heading back to the Frontline Base. I'll carry you.<br> "
+
+L799	[message|シルヴィア]
+JA='きゃっ……は、離してください！<br>なにを勝手に決めているんですか！？'
+EN='Kyah! L-let go of me! What right do you have to decide that?!<br> '
+
+L810	[message|シルヴィア]
+JA='わたくしは、まだ探索を続けなくては……！'
+EN='I still have to continue the exploration...!<br> '
+
+L812	[message|<user>]
+JA='文句なら後でいくらでも聞いてやるから、<br>今は俺の言う通りにしろ。'
+EN="I'll listen to your complaints later. For now，do as I say.<br> "
+
+L823	[message|シルヴィア]
+JA='っ……偉そうに……わたくしのことを何も知らないくせに……！'
+EN="Hmph... so high and mighty... you don't know anything about me...!<br> "
+
+L825	[message|<user>]
+JA='ああ、知らないね。でも、１つだけ分かることがある。<br>お前の孤独感というやつがな。'
+EN="Yeah，I don't. But there's one thing I do understand. That loneliness<br>of yours.<br> "
+
+L836	[message|シルヴィア]
+JA='何を言ってますの……？'
+EN='What are you talking about...?<br> '
+
+L838	[message|<user>]
+JA='１人で知らない世界に来たんだ。周りを警戒して、<br>棘のある言葉で突き放すのは当然だろう。'
+EN="You came to a strange world all alone. Of course you'd be guarded<br>and push people away with harsh words.<br> "
+
+L840	[message|<user>]
+JA='俺もずっと１人だったからな。<br>人が寂しい時に何を考えるのかぐらい、分かるつもりだ。'
+EN="I was alone for a long time too. So I think I know what goes through<br>someone's mind when they're lonely.<br> "
+
+L851	[message|シルヴィア]
+JA='ずっと１人、って……あなた、そんな素振り、少しも……。'
+EN='Always alone... you never once showed any sign of that...<br> '
+
+L853	[message|<user>]
+JA='見せたところで気を遣われるだけだ。<br>それに、もう過ぎた話だからな。'
+EN="If I showed it，it would just make people worry. Besides，it's all in the<br>past now.<br> "
+
+L855	[message|<user>]
+JA='誰も信じられないかもしれないが、俺のことぐらいは信じてみてくれ。<br>お前が寂しくならないように、出来ることは何でもするから。'
+EN="You might not be able to trust anyone，but at least try to trust me.<br>I'll do whatever I can so you won't feel lonely.<br> "
+
+L857	[message|<user>]
+JA='……だから、今日はもう帰るぞ。また明日改めて探索しよう。'
+EN="... So，let's head back for today. We'll resume exploring tomorrow.<br> "
+
+L883	[message|シルヴィア]
+JA='（……偉そうなことを言って。理解者面されるなんて気に食わないですわ）'
+EN="(He speaks so arrogantly... I hate that he's acting like he understands<br>me.)<br> "
+
+L895	[message|シルヴィア]
+JA='（でも、こんなにも突き放しているのに、<br>わたくしに寄り添おうとしてくれるなんて……）'
+EN='(But even though I push him away so much，he still tries to stay by my<br>side...)<br> '
+
+L904	[message|シルヴィア]
+JA='（こんな人……初めてですわ……）'
+EN="(I've never met anyone like this before...)<br> "
+
+L930	[message|シルヴィア]
+JA='……ぐすっ。わ、分かりました。<br>今回だけは、あなたの言うとおりにしてあげます。'
+EN="... *sniff*... I understand. Just this once，I'll do as you say.<br> "
+
+L932	[message|<user>]
+JA='背中で泣くのは構わないが、鼻水で服を汚したりするなよ。'
+EN="I don't mind you crying on my back，but try not to get snot on my<br>clothes.<br> "
+
+L943	[message|シルヴィア]
+JA='――っ！\u3000や、やっぱりおろしなさい！\u3000このノンデリ男！'
+EN='Wha—! Put me down，you insensitive man!<br> '

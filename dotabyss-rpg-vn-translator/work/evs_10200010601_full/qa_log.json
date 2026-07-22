@@ -1,0 +1,23 @@
+{
+  "scene": "evs_10200010601",
+  "timestamp_utc": "2026-07-19T08:48:43.018326+00:00",
+  "qa_status": "PASS",
+  "blockers": [],
+  "items": [],
+  "notes": [
+    "No H-18/adult-uncertain content detected in this file.",
+    "JP used as primary source; EN asset used for alignment/reference.",
+    "ASCII comma is forbidden inside translated title/message fields; U+201A used where needed."
+  ],
+  "checks": {
+    "line_count_match": true,
+    "field_counts_match": true,
+    "delimiter_counts_match": true,
+    "technical_fields_unchanged": true,
+    "tags_preserved": true,
+    "placeholders_preserved": true,
+    "ascii_comma_absent_in_translated_fields": true,
+    "bom_preserved": true,
+    "newline_preserved": true
+  }
+}

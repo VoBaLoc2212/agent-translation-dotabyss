@@ -1,0 +1,507 @@
+﻿:R18
+
+
+fade,Out,Black,0
+
+bg,abg18200a
+
+charaload,chara_1,102401000G,マニョリア
+
+adultui,on
+
+l2dshow,l2d_10240100032
+
+wait,1
+
+uivisible,on
+fade,In,Black,1
+bgmplay,bgmtag2_1,bgm0029,1
+
+
+l2dmotion,Blush00
+
+window,on,0.15
+message,,The pollinated magical plant instantly grew into a giant，wrapping its<br>thick vines around Magnolia and binding her.<br> 
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,0.5
+
+message,マックン,This is incredible! I feel power surging through me!<br> ,900000003
+
+l2dmotion,MouthEmotionH
+
+l2dmotion,FaceAngleBottomLeft
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,2.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,3
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,3.5
+
+l2dmessage,マニョリア,W-What happened to you... Makkun...?<br> ,,vc_10240100032_001_01
+
+message,,Magnolia spoke up uneasily，but the magical plant refused to release<br>her.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+message,マックン,Magnolia，don't be scared... With this power，I'm going to grant your<br>wish...<br> ,900000003
+
+l2dmotion,EyeEmotionLeft
+
+message,,Before Magnolia could say a word，the magical plant pushed its thick<br>vine into her mouth.<br> 
+
+l2dmotion,Scene02
+
+bgvstop,bgvtag2_0,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_1,bgv_10240100032_002_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+wait,1.5
+
+asyncseplay,se2_1,se5020012,0,1,CONT
+
+l2dmessage,マニョリア,Mmph! Mmmmm—!<br> ,,vc_10240100032_002_01
+
+l2dmotion,EyeEmotionLeft
+
+message,,Magnolia resisted，but the magical plant began writhing its vine inside<br>her mouth as if ravishing her.<br> 
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+message,マックン,Magnolia，while you were working at the Brothel，you started craving<br>big bro's thick，big cock more and more... Isn't that right?<br> ,900000003
+
+l2dmotion,EyeOpen05
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1
+
+asyncl2dmotion,EyebrowEmotion01,on,STOP,1
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,1
+
+l2dmessage,マニョリア,Mmm... Nngh!<br> ,,vc_10240100032_003_01
+
+message,,Magnolia tried to say something，but a vine thrust into her mouth<br>made it impossible to speak.<br> 
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+message,マックン,Oh，you deny it? But I know the truth.<br> ,900000003
+
+message,マックン,Even on days you worked at the Brothel，you jerked off every day<br>thinking of big bro，and now you're desperate for his cock，aren't you?<br> ,900000003
+
+l2dmotion,EyeOpen05
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,EyebrowEmotion01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,1.5
+
+l2dmessage,マニョリア,...! Ngh!<br> ,,vc_10240100032_004_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+message,,As it exposed Magnolia's embarrassing secret，the magical plant<br>extended a vine toward her lower body.<br> 
+
+
+l2dmotion,Scene03
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10240100032_003_01,1,on
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,マニョリア,Mmmmmmm—!<br> ,,vc_10240100032_005_01
+
+message,,The thick vine finally thrust into her pussy，and Magnolia cried out<br>shrilly. The magical plant had lost control.<br> 
+
+l2dmotion,EyeEmotionLeft
+
+message,,I shouted at the magical plant to let Magnolia go，but the vines coiled<br>around her body showed no sign of loosening.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+message,マックン,Now hold on，big bro. This is for the sake of both you and Magnolia.<br> ,900000003
+
+l2dmotion,EyeOpen02
+
+message,,Just when I thought it was out of control，the magical plant's voice<br>was surprisingly calm.<br> 
+
+l2dmotion,EyeOpen00
+
+message,,Then the magical plant suddenly pulled the vines out of Magnolia's<br>pussy and mouth.<br> 
+
+asyncl2dmotion,Scene04,on,STOP,1
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10240100032_001_01,1,on
+
+sestop,se2_1,1.5
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,マニョリア,*huff*... mmm... *sigh*... Mmph!...<br>*sigh*... Mmph!... *pant*... *pant*...<br> ,,vc_10240100032_006_01
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,FaceAngleRight
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+message,マックン,Hey，big bro. While you were busy with fighting and other women，<br>Magnolia was only thinking about being loved by you.<br> ,900000003
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,0.5
+
+message,マックン,I set the stage to give Magnolia what she really wanted.<br> ,900000003
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,0.5
+
+message,,I wonder what he means...<br>As I hesitated to answer，the magical plant continued.<br> 
+
+message,マックン,With the pollen I released from my vines，Magnolia's self-control is<br>melting away. So go ahead and ask her yourself.<br> ,900000003
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,MouthEmotion03,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+l2dmessage,マニョリア,big brother... mmm... Ah!♡<br> ,,vc_10240100032_007_01
+
+message,,Her voice was so seductive it made my heart skip a beat. I checked to<br>see if the vines were hurting her.<br> 
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.5
+
+asyncl2dmotion,ExEmotion01,on,STOP,0.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,4
+
+asyncl2dmotion,FaceAngleReset,on,STOP,4
+
+asyncl2dmotion,EyebrowEmotion00,on,STOP,4
+
+l2dmessage,マニョリア,I... I'm fine...<br>But right now... I want you，big brother...<br> ,,vc_10240100032_008_01
+
+message,,Magnolia looked at me with pleading eyes. At that begging gaze，my<br>groin began to ache.<br> 
+
+l2dmotion,MouthEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionRight,on,STOP,0.5
+
+message,マックン,See? That's Magnolia's true feelings. Why don't you make her wish<br>come true?<br> ,900000003
+
+message,,I already wanted to grant Magnolia's wish，even without the magical<br>plant telling me. My cock was already painfully swollen.<br> 
+
+l2dmotion,Scene05
+
+bgvstop,bgvtag2_3,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_4,bgv_10240100032_005_01,1,on
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+asyncl2dmotion,BlushReset,on,STOP,4
+
+wait,0.7
+
+l2dmessage,マニョリア,Aah... *whimper*... big brother's... Aaaaaahn!♡<br> ,,vc_10240100032_009_01
+
+message,,I thrust all the way in，took a breath，and slowly began to move my<br>hips.<br> 
+
+l2dmotion,FaceAngleBottomLeft
+
+l2dmotion,MouthEmotion02
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen02,on,STOP,4.5
+
+asyncl2dmotion,FaceAngleReset,on,STOP,11
+
+asyncl2dmotion,MouthEmotion03,on,STOP,11
+
+asyncl2dmotion,EyeOpen01,on,STOP,11
+
+l2dmessage,マニョリア,Ngh! Mmph! Aah... big brother's... moving... Aahn! Aah... inside<br>Magnolia... moving... Mmph! Aaaah!♡<br> ,,vc_10240100032_010_01
+
+l2dmotion,EyeOpenReset
+
+message,,Magnolia，who had looked confused when the magical plant inserted<br>its vines，was now delighting in having my cock thrust into her.<br> 
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen04
+
+l2dmotion,EyeEmotionRight
+
+asyncl2dmotion,FaceAngleBottomLeft,on,STOP,3.5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,3.5
+
+asyncl2dmotion,MouthEmotion02,on,STOP,3.5
+
+l2dmessage,マニョリア,I'm so happy... I've always wanted to be like this with big brother...<br>Aaaah，more... thrust... deeper，harder...<br> ,,vc_10240100032_011_01
+
+message,,Magnolia begged me with a lewd expression.<br> 
+
+l2dmotion,EyeOpenReset
+
+message,マックン,That's right，deeper. Satisfy Magnolia with your dick—she's been<br>holding back with just her fingers all this time.<br> ,900000003
+
+l2dmotion,EyeOpen00
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,MouthEmotionReset,on,STOP,4
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,4
+
+asyncl2dmotion,EyeOpen04,on,STOP,4
+
+l2dmessage,マニョリア,Mmm... Aahn! Mmph，Aah... *pant*... big brother... Mmph! Ah... mmm...<br>Aaaah!♡<br> ,,vc_10240100032_012_01
+
+asyncl2dmotion,EyeOpen01,on,STOP,0.5
+
+message,マックン,Good，Magnolia. I'll put more pleasure pollen into your mouth now.<br> ,900000003
+
+l2dmotion,Scene06
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10240100032_006_01,1,on
+
+asyncseplay,se2_2,se5020012,0,1,CONT
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,マニョリア,Mmm...!<br> ,,vc_10240100032_013_01
+
+message,,The magical plant slid the vine back into Magnolia's mouth.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeOpenReset,on,STOP,3.5
+
+l2dmessage,マニョリア,Mmph，ngh，uun，ngh，kuh，uunh，mmph，uun!<br> ,,vc_10240100032_014_01
+
+message,,The plant's pollen made Magnolia's walls twitch and spasm，and<br>wetness overflowed from deep within her womb.<br> 
+
+asyncl2dmotion,Scene07,on,STOP,1.5
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10240100032_007_01,1,on
+
+l2dmessage,マニョリア,Uunh，mmph，mmu，ngh，mmmm! Kuh，nkuh，ngh，unh，mmph!<br> ,,vc_10240100032_015_01
+
+message,,Spurred on by Magnolia's tightness and her overflowing wetness，my<br>hips began to move faster，unable to hold back.<br> 
+
+l2dmotion,EyeOpen01
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,5.5
+
+asyncl2dmotion,EyeOpenReset,on,STOP,5.5
+
+l2dmessage,マニョリア,Mmph，ngh，mm... ngh，mmmm!♡ Big bwother... it feelth... tho good...<br>Auh，ngh，mmmm!♡<br> ,,vc_10240100032_016_01
+
+message,,Each time I thrust deep into her core，Magnolia's wetness squelched<br>out from between us.<br> 
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyebrowEmotion00
+
+asyncl2dmotion,EyebrowEmotionReset,on,STOP,5
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,5
+
+asyncl2dmotion,EyeOpen04,on,STOP,5
+
+l2dmessage,マニョリア,Ngh... Ngh... Nnngh... Nkuh... Big bwother... it'th tho good... I'm...<br>going to... come...<br> ,,vc_10240100032_017_01
+
+l2dmotion,EyeOpenReset
+
+message,,Magnolia moaned deliriously as she neared her peak. Her inner walls<br>contracted in tight waves，squeezing more intensely.<br> 
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,マニョリア,*whimper，whimper*... *gasp*... Ngh... Mmph，*whimper*... Ngh...<br>Ngh-ngh... Mmmmph!♡<br> ,,vc_10240100032_018_01
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,0.5
+
+message,マックン,That's it，Magnolia. Let out everything you've been holding back until<br>now.<br> ,900000003
+
+asyncl2dmotion,EyeEmotionTop,on,STOP,0.5
+
+asyncl2dmotion,EyeOpen01,on,STOP,5
+
+l2dmessage,マニョリア,*gasp*... Ngh... Mmph... Ngh... Ngh... Mmmmph!<br> ,,vc_10240100032_019_01
+
+asyncl2dmotion,Scene08,on,STOP,1.8
+
+bgvstop,bgvtag2_6,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_7,bgv_10240100032_008_01,1,on
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+l2dmessage,マニョリア,Mmph... Ngh... Ummmmmmmph!<br> ,,vc_10240100032_020_01
+
+sestop,se2_2,1.5
+
+message,,At the same time I came，Magnolia also reached her climax，her body<br>racked with fierce spasms.<br> 
+
+l2dmotion,EyeEmotionRight
+
+l2dmotion,EyeOpen04
+
+asyncl2dmotion,EyeOpen01,on,STOP,2
+
+l2dmessage,マニョリア,Uummph... Mmph... *whimper*... Mmph... Mmph，Mmph... Uum...<br> ,,vc_10240100032_021_01
+
+message,,Into her small depths，still twitching with tiny，persistent spasms，I<br>pumped my semen，spurting it out in thick pulses.<br> 
+
+l2dmotion,Scene09
+
+bgvstop,bgvtag2_7,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_8,bgv_10240100032_009_01,1,on
+
+
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,マニョリア,*moan*... *gasp*，Aah...!♡<br> ,,vc_10240100032_022_01
+
+message,,Magnolia's mouth was freed from the magical plant's vine. When I<br>pulled out，warm wetness and my semen gushed from her entrance.<br> 
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeOpen01
+
+l2dmotion,EyeEmotionBottom
+
+l2dmessage,マニョリア,*pant*... *pant*... Mmph!... Ngh!... *pant*... *pant*...<br> ,,vc_10240100032_023_01
+
+message,マックン,So? Satisfied now，Magnolia?<br> ,900000003
+
+l2dmotion,EyeOpen04
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,EyeOpen01,on,STOP,3
+
+asyncl2dmotion,ExEmotion01,on,STOP,3
+
+asyncl2dmotion,FaceAngleReset,on,STOP,3
+
+asyncl2dmotion,EyeOpen04,on,STOP,4.5
+
+l2dmessage,マニョリア,...mm...!♡<br> ,,vc_10240100032_024_01
+
+message,,Magnolia nodded with a dazed，happy expression.<br> 
+
+bgvstop,bgvtag2_8,1.5,1
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+l2dhide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

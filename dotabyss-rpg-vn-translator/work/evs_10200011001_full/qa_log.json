@@ -1,0 +1,40 @@
+{
+  "scene": "evs_10200011001",
+  "qa_status": "BLOCKED",
+  "structural_qa": {
+    "line_count_match": null,
+    "delimiter_counts_match": null,
+    "technical_fields_unchanged": null,
+    "tags_placeholders_preserved": null,
+    "no_ascii_comma_inside_vi_fields": null,
+    "no_kept_en_text_records": null
+  },
+  "candidate_command_counts": {
+    "title": null,
+    "message": null,
+    "messageTextUnder": null,
+    "messageTextCenter": null,
+    "total": null
+  },
+  "blockers": [
+    {
+      "id": "MISSING_REQUIRED_SOURCES",
+      "severity": "blocker",
+      "file": "evs_10200011001.txt",
+      "paths": [
+        "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200011001/ja.json",
+        "E:/AgentTranslation/dotabyss-translation-main/translations/novels/evs_10200011001/en.json",
+        "E:/AgentTranslation/Translation/en/RedirectedResources/assets/unnamed_assetbundle/evs_10200011001.txt"
+      ],
+      "status": "open",
+      "message": "All three required inputs are absent. JP-primary translation and EN alignment cannot be performed."
+    }
+  ],
+  "kept_english_text_records": [],
+  "unchanged_translatable_records": [],
+  "unmatched_records": [],
+  "notes": [
+    "No Vietnamese output file was written because doing so would require fabricating or guessing source content.",
+    "EN source was not modified."
+  ]
+}

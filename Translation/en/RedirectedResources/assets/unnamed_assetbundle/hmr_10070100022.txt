@@ -1,0 +1,604 @@
+﻿:R18
+
+
+bg,abg18200a
+
+l2dshow,l2d_10070100022
+
+charaload,chara_1,100701000X,フィルム
+
+adultui,on
+
+wait,1
+
+uivisible,on
+fade,In,Black,1
+bgmplay,bgmtag2_1,bgm0043,1
+
+
+l2dmotion,FaceEmotion00
+
+window,on,0.15
+l2dmessage,フィルム,Wait，don't be so rough!<br> ,,vc_10070100022_001_01
+
+message,,Film was effortlessly lifted by his muscular form. The size difference<br>made resistance futile.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,MouthEmotionE
+
+l2dmessage,フィルム,Hey，don't panic. Let's calm down for a moment. It's all right，take a<br>deep breath. There we go.<br> ,,vc_10070100022_002_01
+
+l2dmotion,FaceAngleReset
+
+message,,Film's voice whispered in his ear，and with every breath he caught her<br>scent，his arousal growing.<br> 
+
+l2dmotion,MouthEmotion00
+
+asyncl2dmotion,EyeOpen00,on,STOP,3
+
+asyncl2dmotion,FaceEmotion00,on,STOP,3
+
+message,フィルム,(W-what should I do? He won't calm down at all...)<br> ,,vc_10070100022_003_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpenReset
+
+
+l2dmotion,Scene02
+
+l2dmessage,フィルム,Hey，put me down—!<br> ,,vc_10070100022_004_01
+
+
+
+message,,Giving in to his overwhelming lust，the soldier roughly ran his tongue<br>along Film's nape.<br> 
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,BodyAngleBottom
+
+l2dmotion,MouthEmotionG
+
+l2dmessage,フィルム,H-hey! Where do you think you're licking!<br> ,,vc_10070100022_005_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+l2dmotion,MouthEmotionReset
+
+message,,Gripped by the excitement and joy of finally touching Film，the woman<br>he had always admired，the soldier clung to her in desperation.<br> 
+
+l2dmotion,EyeOpen02
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionE
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmessage,フィルム,Honestly...<br> ,,vc_10070100022_006_01
+
+asyncl2dmotion,EyeOpen00,on,STOP,0.5
+
+message,フィルム,He's so desperate... He truly wants me...<br> ,,vc_10070100022_007_01
+
+asyncl2dmotion,FaceAngleReset,on,STOP,0.5
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,0.5
+
+message,,Seeing the soldier's state，Film's resistance softened.<br> 
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionC
+
+l2dmotion,BodyAngle00
+
+asyncl2dmotion,EyeOpen02,on,STOP,7
+
+asyncl2dmotion,MouthEmotionF,on,STOP,7
+
+l2dmessage,フィルム,...Well，I suppose there's no helping it. It's all right，you can touch me<br>more.<br> ,,vc_10070100022_008_01
+
+l2dmotion,Blush01
+
+message,,At Film's words，the soldier looked up. She smiled gently and<br>continued.<br> 
+
+asyncl2dmotion,FaceEmotion01,on,STOP,1
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,1
+
+l2dmessage,フィルム,Fufu，it's all right. Just for tonight，you can have your way with me...<br> ,,vc_10070100022_009_01
+
+l2dmotion,BlushReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,Scene03
+
+message,,Further aroused by Film's words，the soldier's manhood stood erect.<br> 
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmotion,FaceAngleBottom
+
+message,フィルム,Ahh... it's so big... Is he really this aroused by me...?<br> ,,vc_10070100022_010_01
+
+
+
+
+message,,At that thought，Film noticed that her own womanhood was slick with<br>arousal.<br> 
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+asyncl2dmotion,FaceEmotion00,on,STOP,0.5
+
+l2dmessage,フィルム,Ah... that's not it，okay? Not that I'm feeling anything...<br> ,,vc_10070100022_011_01
+
+message,,Film denied it，but the soldier was delighted that he had gotten her<br>so aroused.<br> 
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,FaceAngleBottom,on,STOP,2
+
+asyncl2dmotion,EyeEmotionBottom,on,STOP,2
+
+l2dmessage,フィルム,Ugh... it's not like that...<br> ,,vc_10070100022_012_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,Scene04
+
+message,,He could no longer hold back. With a simple 'I'm putting it in，' the<br>soldier thrust his cock into her.<br> 
+
+
+
+bgvplay,bgvtag2_1,bgv_10070100021_001_01,1,on
+
+l2dmotion,Scene04_01
+
+wait,0.3
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotionD
+
+l2dmessage,フィルム,Aah! Ngh，ugh!<br> ,,vc_10070100022_013_01
+
+l2dmotion,MouthEmotionG
+
+l2dmotion,BodyAngleBottom
+
+l2dmotion,EyeOpen00
+
+asyncl2dmotion,EyeOpen02,on,STOP,4
+
+asyncl2dmotion,FaceEmotion00,on,STOP,4
+
+l2dmessage,フィルム,So suddenly! I haven't even undressed yet...!<br> ,,vc_10070100022_014_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,MouthEmotionB
+
+asyncl2dmotion,EyeOpen00,on,STOP,4
+
+message,フィルム,(Being forced in so roughly...! It hurts，and this position is<br>unbearable...!)<br> ,,vc_10070100022_015_01
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmessage,フィルム,Wait，don't shake me! Ngh，ugh!<br> ,,vc_10070100022_016_01
+
+message,ノワール,...<br> ,550100001,vc_10070100022_017_01,
+
+message,,Noir worriedly pressed close to Film，who was in pain from the rough<br>penetration.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,MouthEmotionA
+
+l2dmessage,フィルム,It hurts when you move me so roughly. Please，let's do it on the bed，<br>okay...?<br> ,,vc_10070100022_018_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Ignoring Film's plea，the soldier thrust his hips even harder.<br> 
+
+bgvstop,bgvtag2_1,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_2,bgv_10070100021_002_01,1,on
+
+l2dmotion,Scene05
+
+wait,0.5
+
+l2dmotion,Blush00
+
+l2dmotion,MouthEmotionA
+
+l2dmessage,フィルム,Ngh，it hurts...!<br> ,,vc_10070100022_019_01
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,BlushReset
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyeOpen00
+
+message,フィルム,(This position is impossible... I feel like my body is being held up by<br>his little thing...)<br> ,,vc_10070100022_020_01
+
+l2dmotion,EyebrowEmotion03
+
+l2dmotion,FaceEmotion00
+
+message,フィルム,(Every time he thrusts，my insides get all churned up...!)<br> ,,vc_10070100022_021_01
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,MouthEmotionG
+
+l2dmessage,フィルム,Ngh，*gasp*... ugh...<br> ,,vc_10070100022_022_01
+
+l2dmotion,Blush00
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,BodyAngleBottom
+
+l2dmessage,フィルム,Please，*huff*，Aah! Sto—<br> ,,vc_10070100022_023_01
+
+l2dmotion,BlushReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,BodyAngleReset
+
+message,ノワール,...!!!<br> ,550100001,vc_10070100022_024_01,
+
+message,,Noir fixed a glare of pure hostility on the man tormenting Film，driven<br>by his own desires. She raised her arm to attack the soldier—but.<br> 
+
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,FaceEmotion00
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,EyebrowEmotion01
+
+l2dmotion,Blush00
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTopRight
+
+asyncl2dmotion,MouthEmotionF,on,STOP,10
+
+l2dmessage,フィルム,Ah，wait... It's all right，I'm fine... I'm okay，really... okay?<br> ,,vc_10070100022_025_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,FaceAngleReset
+
+message,ノワール,...<br> ,550100001,vc_10070100022_026_01,
+
+l2dmotion,EyeEmotionReset
+
+message,,Noir heeded Film's words and stopped. It was Film's kindness—she<br>didn't want to hurt a fellow soldier from the same base—but.<br> 
+
+bgvstop,bgvtag2_2,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_3,bgv_10070100021_003_01,1,on
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,Scene06
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmessage,フィルム,*gasp* Ah! Wh-what's gotten into you? So suddenly，so hard?<br> ,,vc_10070100022_027_01
+
+message,,Hearing Film say 'It's okay，' the soldier thrust harder. Driven by<br>excitement，he pounded into her without thought for her body.<br> 
+
+
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,EyeEmotionLeft
+
+l2dmotion,MouthEmotionD
+
+l2dmotion,BodyAngleBottom
+
+l2dmessage,フィルム,Ah... th-that's not it! I wasn't... ngh... talking to you!<br> ,,vc_10070100022_028_01
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,MouthEmotionReset
+
+message,,Without listening to Film's desperate words，the soldier drove into<br>her depths over and over.<br> 
+
+l2dmotion,EyebrowEmotion04
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,BlushReset
+
+l2dmessage,フィルム,Aah! Aaaaah!<br> ,,vc_10070100022_029_01
+
+message,ノワール,...!<br> ,550100001,vc_10070100022_030_01,
+
+l2dmotion,EyeOpenReset
+
+message,,Horrified by the brutality，Noir readied herself behind the soldier，<br>but Film，hiding her pain behind a smile，accepted his actions.<br> 
+
+
+l2dmotion,FaceAngleTop
+
+l2dmotion,EyeEmotionTopRight
+
+l2dmotion,Blush00
+
+l2dmotion,BodyAngleTop
+
+l2dmessage,フィルム,N-no，it's okay. It's fine，just stay like this!<br> ,,vc_10070100022_031_01
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,フィルム,Do as you like... it's fine... ngh... *whimper*! I'll accept all your<br>feelings，so... okay? ngh... *pant*...<br> ,,vc_10070100022_032_01
+
+l2dmotion,EyeEmotionBottomRight
+
+message,,The man let out a cry of delight and slammed into Film even harder.<br> 
+
+wait,0.2
+
+l2dmotion,EyeEmotionReset
+
+message,ノワール,...<br> ,550100001,vc_10070100022_033_01,
+
+message,,Noir's power gently enveloped Film's body as she desperately endured<br>the pain.<br> 
+
+bgvstop,bgvtag2_3,0.2,1
+
+seplay,setag2_1,se4900004,0,1
+
+wait,0.8
+
+bgvplay,bgvtag2_4,bgv_10070100021_002_01,1,on
+
+l2dmotion,EyebrowEmotion00
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmotion,MouthEmotionC
+
+l2dmotion,BodyAngleBottom
+
+message,フィルム,(Ah... is Noir protecting me...? The pain is easing... it's so much easier<br>now...)<br> ,,vc_10070100022_034_01
+
+bgvstop,bgvtag2_4,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_5,bgv_10070100021_005_01,1,on
+
+
+l2dmotion,EyeEmotionReset
+
+l2dmotion,BlushReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotionD
+
+l2dmessage,フィルム,Aaaah... Mmph! *pant*...<br> ,,vc_10070100022_035_01
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,EyeOpenReset
+
+message,フィルム,(Maybe... I'm starting to feel a little good...)<br> ,,vc_10070100022_036_01
+
+l2dmotion,BodyAngleReset
+
+l2dmotion,Blush00
+
+l2dmotion,EyeOpen02
+
+l2dmotion,FaceAngleLeft
+
+l2dmotion,MouthEmotionF
+
+l2dmessage,フィルム,Fufu... Mmph! Good boy... you're doing so well...<br> ,,vc_10070100022_037_01
+
+l2dmotion,EyeOpenReset
+
+l2dmessage,フィルム,Don't worry about me... you can do as you please...<br> ,,vc_10070100022_038_01
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,BlushReset
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeOpen00
+
+l2dmotion,MouthEmotionReset
+
+message,,At her gentle words，the soldier's hips gave a sudden jolt. Film<br>watched him with a serene gaze.<br> 
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,EyebrowEmotion05
+
+l2dmotion,FaceAngleRight
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmotion,Blush00
+
+l2dmotion,MouthEmotionC
+
+asyncl2dmotion,EyeOpen02,on,STOP,9
+
+asyncl2dmotion,FaceAngleLeft,on,STOP,9
+
+asyncl2dmotion,EyeEmotionLeft,on,STOP,9
+
+message,フィルム,(He's trying so hard because he likes me... mmm，*sigh*... just thinking<br>that makes my heart race a little...)<br> ,,vc_10070100022_039_01
+
+l2dmotion,MouthEmotionReset
+
+l2dmotion,BlushReset
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyebrowEmotionReset
+
+l2dmotion,EyeOpen00
+
+l2dmessage,フィルム,*pant*... Ah... Aahh...<br> ,,vc_10070100022_040_01
+
+l2dmotion,FaceAngleReset
+
+l2dmotion,EyeEmotionBottomRight
+
+l2dmotion,EyeOpenReset
+
+l2dmotion,Scene06_01
+
+message,,To Film's soft moans，the soldier finally reached his limit. ""I think I'm<br>coming，"" he said，and Film gently received him.<br> 
+
+l2dmotion,EyeEmotionReset
+
+l2dmessage,フィルム,*gasp*... Ah!... It's okay. Let it all out inside me，and be satisfied，<br>okay...<br> ,,vc_10070100022_041_01
+
+
+
+l2dmotion,EyeOpen00
+
+l2dmessage,フィルム,*huff*，Mmph! *pant* Aaaah! I'm... coming too...!<br> ,,vc_10070100022_042_01
+
+bgvstop,bgvtag2_5,0.2,1
+
+wait,0.2
+
+bgvplay,bgvtag2_6,bgv_10070100021_007_01,1,on
+
+l2dmotion,Scene07
+
+wait,0.3
+
+l2dmotion,EyeOpenReset
+
+
+asyncl2dmotion,EyeOpen00,on,STOP,2
+
+message,フィルム,(I'm coming... I'm going to come...!)<br> ,,vc_10070100022_043_01
+
+
+
+
+l2dmotion,FaceAngleBottom
+
+l2dmotion,EyeOpen02
+
+l2dmotion,EyeEmotionBottom
+
+asyncl2dmotion,FaceAngleReset,on,STOP,7
+
+asyncl2dmotion,EyeOpenReset,on,STOP,7
+
+asyncl2dmotion,EyeEmotionReset,on,STOP,7
+
+message,,As Film's body arched like a bow，a massive amount of semen shot<br>from the tip of his member，searing her womb.<br> 
+
+l2dmessage,フィルム,Fufufu... honestly，staying in this position for so long... you're so<br>reckless.<br> ,,vc_10070100022_044_01
+
+message,,The soldier bowed his head over and over to the visibly exhausted<br>Film. He was thoroughly repentant for his recklessness.<br> 
+
+asyncl2dmotion,EyeOpen01,on,STOP,9
+
+asyncl2dmotion,FaceEmotion01,on,STOP,9
+
+l2dmessage,フィルム,It's fine. It's proof that I keep myself in shape. Fufu，you did very<br>well.<br> ,,vc_10070100022_045_01
+
+bgmstop,bgmtag2_1,1,0
+
+bgvstop,bgvtag2_6,0.5,1
+
+fade,Out,Black,1
+
+wait,1
+
+l2dhide
+
+bg,abg18200a
+
+message,フィルム,Mmm... but I'm sorry. I think I got a little tired.<br> ,,vc_10070100022_046_01
+
+message,フィルム,Just let me rest a little，okay...<br> ,,vc_10070100022_047_01
+
+message,,At her limit，Film finally collapsed on the spot.<br> 
+
+window,off
+bgmstop,bgmtag2_1,1.5
+fade,Out,Black,1.5
+wait,1.5
+cleanall,ALL
+
+
+
+
+

@@ -1,0 +1,856 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg11200b
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,100,0,Set,CONT
+
+charaload,chara_1,105901000G,スティーラ
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0036,0.75,1
+
+
+window,on,0.15
+message,,Chợ đêm. Mặc dù thưa thớt người qua lại hơn so với ban ngày nhưng vẫn có thể thấy bóng dáng những người đang tận hưởng việc mua sắm buổi tối.<br><br> 
+
+message,<user>,Ồ. Bầu không khí hoàn toàn khác biệt so với ban ngày nhỉ.Có vẻ như có những cửa hàng chỉ mở vào ban đêm，vào xem thử chút vậy.<br><br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+charafocusonall
+
+bg,abg11200b
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+transitionFade,Tra01,in,black,1
+
+window,on,0.15
+message,<user>,……Hửm，cửa hàng này là sao? Đá quý……không phải，cửa hàng đồ thủ công từ ma thạch……?<br><br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccamerazoom,1,0.5,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseInTarget,Y,-150,0.5,CONT,0
+
+asyncwait
+
+wait,0.5
+
+window,on,0.15
+message,,Dưới mái hiên của một cửa hàng bày biện những món đồ trang sức được chế tác từ ma thạch.Đó là những món đồ hiếm thấy mà bạn khó lòng bắt gặp ở khu chợ ban ngày.<br><br> 
+
+message,<user>,Chỉ riêng việc là đồ thủ công từ ma thạch đã hiếm rồi，nhưng thiết kế này thực sự độc đáo và tuyệt vời.Cứ như là những tác phẩm nghệ thuật vậy……<br><br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asynccharamove,chara_1,Set,X,100,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+asynccharascale,chara_1,1,0,CONT,0
+
+asynccharashow,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,-100,0.3,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncseplay,setag1_1,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+asyncwait
+
+asynccamerazoom,1,0.5,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,0.5,CONT,0
+
+asyncwait
+
+wait,0.5
+
+window,on,0.15
+message,,Khi đang mải ngắm nhìn những món hàng được bày bán，tôi nhận ra có một bóng người từ bên trong đang chăm chú quan sát mình.<br><br> 
+
+message,<user>,Hửm? Ừm，em là chủ cửa hàng này à?Những món đồ bày ở đây đều do em làm ra sao?<br><br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_2,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+asyncwait
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_3,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+window,on,0.15
+message,？？？,……A……ưư……<br> ,105901000G,vc_10590100001_001_01,chara_1
+
+message,<user>,……? Này em ơi?A，ừm……dù sao thì anh cũng là khách hàng mà……<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_4,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,？？？,A……ừm……ưư……<br> ,105901000G,vc_10590100001_002_01,chara_1
+
+message,,Cô gái lắp bắp bối rối.Chiếc ghim cài áo cô đang đeo bỗng bắt đầu cất giọng nói bằng một chất giọng bập bẹ.<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncseplay,setag1_5,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+message,ブローチ,――XIN CHÀO QUÝ KHÁCH.TÔI SẼ TIẾP NHẬN YÊU CẦU CỦA NGÀI.<br> ,900000003,vc_10590100001_003_01,
+
+message,<user>,Oái!? G-Gì vậy!?Cái ghim cài áo đó vừa nói chuyện sao……?<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+message,ブローチ,VÂNG. TIỂU THƯ STEELA GIAO TIẾP KHÔNG ĐƯỢC GIỎI CHO LẮM…….TÔI SẼ LÀ NGƯỜI TRÒ CHUYỆN CÙNG QUÝ KHÁCH.<br><br> ,900000003,vc_10590100001_004_01,
+
+message,<user>,Làm cho đồ trang sức biết nói chuyện sao…….Quả đúng là cửa hàng đồ thủ công từ ma thạch.<br><br> 
+
+message,<user>,Vậy ra em tên là Steela nhỉ. Những món đồ bày ở đây đều do Steela làm ra sao?<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+message,ブローチ,VÂNG. TẤT CẢ ĐỀU LÀ NHỮNG SẢN PHẨM DO TIỂU THƯ STEELA CHẾ TÁC.<br> ,900000003,vc_10590100001_005_01,
+
+message,<user>,Tất cả đều do chính tay em làm sao……đúng là tuyệt thật. Có thể biến những viên ma thạch khó nhằn thành những món đồ trang sức tuyệt đẹp như thế này.<br><br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_6,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,スティーラ,H-Hả……!?<br> ,105901000G,vc_10590100001_006_01,chara_1
+
+message,<user>,Thiết kế kết hợp hoàn hảo giữa tính thực dụng và tính nghệ thuật thực sự rất tuyệt vời，gia công cũng vô cùng tỉ mỉ.Có lẽ nên gọi đây là tác phẩm thay vì sản phẩm thì đúng hơn.<br><br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_7,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,A，ưm……<br> ,105901000G,vc_10590100001_007_01,chara_1
+
+message,<user>,Anh cũng mới thấy những món đồ trang sức tinh xảo đến thế này lần đầu tiên đấy.Trẻ như vậy mà đã có kỹ năng này，chắc hẳn em đã phải rèn luyện nhiều lắm.<br><br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,スティーラ,A，a……Cảm ơn，anh rất nhiều……<br> ,105901000G,vc_10590100001_008_01,chara_1
+
+message,<user>,……Gì chứ，em cũng nói chuyện bình thường được mà.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_9,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,A，ưm……Ư-ừm……Đ-được khen nhiều đến vậy……đó là……lần đầu tiên của em……<br><br> ,105901000G,vc_10590100001_009_01,chara_1
+
+message,<user>,Vậy sao? Anh chỉ nói những gì tuyệt vời là tuyệt vời thôi.Không phải là nói nịnh đâu. Em cứ tự tin lên.<br><br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,スティーラ,Ư……Em vui lắm……Ừ-ừm……Vì em đã nghiên cứu và chế tác ma thạch từ khi còn nhỏ……<br><br> ,105901000G,vc_10590100001_010_01,chara_1
+
+message,ブローチ,TIỂU THƯ STEELA TỪNG LÀ THỢ CHẾ TÁC MA THẠCHXUẤT SẮC BẬC NHẤT Ở PERDION.<br><br> ,900000003,vc_10590100001_011_01,
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,スティーラ,B-Bậc nhất gì chứ nói quá rồi……!E-Em vẫn còn đang phải học hỏi nhiều lắm!<br> ,105901000G,vc_10590100001_012_01,chara_1
+
+message,<user>,Có thể tạo ra những tác phẩm cỡ này，anh cũng nghĩ em có tay nghề hàng đầu đấy.Nhưng mà，sao em lại cất công đến tận Tiền Tuyến nguy hiểm này vậy?<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_12,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,Oa……C-chuyện đó thì……<br> ,105901000G,vc_10590100001_013_01,chara_1
+
+message,ブローチ,LÀ ĐỂ TÌM KIẾM NHỮNG VIÊN MA THẠCH CHẤT LƯỢNG CAO.TÁC PHẨM CỦA TIỂU THƯ STEELA CẦN CÓ NHỮNG VIÊN MA THẠCH XUẤT SẮC.<br><br> ,900000003,vc_10590100001_014_01,
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_13,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,スティーラ,Đ-đúng vậy ạ. Em nghe nói ở Đại Uyên có thể tìm thấy rất nhiều ma thạch quý hiếm，v-vậy nên em mới đến đây……<br><br> ,105901000G,vc_10590100001_015_01,chara_1
+
+message,ブローチ,ĐỂ TÌM KIẾM MA THẠCH，VÀO BAN NGÀY TIỂU THƯ STEELA THƯỜNG THAM GIA KHAI THÁC.<br><br> ,900000003,vc_10590100001_016_01,
+
+message,<user>,Ồ，em tham gia vào đội khai thác và tự mình tìm kiếm luôn sao?<br> 
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,スティーラ,V-vâng. Những viên ma thạch thích hợp để gia công，nếu không tự mình đi tìm thì rất khó để thấy được……<br><br> ,105901000G,vc_10590100001_017_01,chara_1
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_15,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,スティーラ,Kích thước và chất lượng của ma thạch，cường độ ma lực ẩn chứa bên trong，độ tinh khiết，thuộc tính……. Chỉ cần sai khác một chút thôi là sẽ không thể tạo ra một tác phẩm lý tưởng được.<br><br> ,105901000G,vc_10590100001_018_01,chara_1
+
+message,<user>,Ra là vậy. Có vẻ em cũng rất am hiểu về ma thạch nhỉ.Thế ra ban ngày em phải đi tìm ma thạch nên cửa hàng mới chỉ mở vào ban đêm.<br><br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_16,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,スティーラ,V-vâng. Công đoạn gia công cũng tốn nhiều thời gian，lại còn phải tập trung cao độ nữa，nên em chỉ có thể mở cửa vào lúc này……<br><br> ,105901000G,vc_10590100001_019_01,chara_1
+
+message,ブローチ,CÓ VẺ NHƯ，TIỂU THƯ STEELA RẤT SỢ VIỆC MỞ CỬA HÀNG VÀO BAN NGÀY VÌ CÓ QUÁ ĐÔNG NGƯỜI.<br><br> ,900000003,vc_10590100001_020_01,
+
+message,<user>,Sợ sao? Ừm，anh thấy mở vào ban ngày thì sẽ có nhiều khách hàng đến hơn mà……<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_17,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,スティーラ,A，ừm……Nếu có quá nhiều khách hàng đến……Em sẽ phải nói chuyện rất nhiều……Mà em thì thực sự không giỏi việc đó……<br><br> ,105901000G,vc_10590100001_021_01,chara_1
+
+message,<user>,Ra vậy. Nhưng như thế thì hơi phí cho việc kinh doanh nhỉ.Với chất lượng thế này thì chắc chắn sẽ có rất nhiều người muốn mua đấy.<br><br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_18,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,Ừm，ừm……N-nếu có nhiều khách hàng đến như vậy…….C-chắc chắn em sẽ gặp rắc rối mất……Ưư……<br> ,105901000G,vc_10590100001_022_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncblur,on,BACK,0.25,CONT,0
+
+asynccamerazoom,1.22,0.5,EaseInTarget,CONT,0
+
+asynccameramove,EaseInTarget,X,-400,0.5,CONT,0
+
+asynccameramove,EaseInTarget,Y,0,0.5,CONT,0
+
+asyncwait
+
+wait,0.5
+
+window,on,0.15
+message,<user>,……Hửm? Thứ đang được trùm vải ở kia là……<br> 
+
+message,,Chỉ Huy chỉ vào một tác phẩm được trùm tấm vải lớn，đặt ở sâu bên trong cửa hàng.<br><br> 
+
+message,<user>,Trông khá là lớn đấy，thứ đó cũng là hàng để bán sao?<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncblur,off,BACK,0.25,CONT,0
+
+asynccamerazoom,1,0.5,EaseOutTarget,CONT,0
+
+asynccameramove,EaseOutTarget,X,0,0.5,CONT,0
+
+asynccameramove,EaseOutTarget,Y,0,0.5,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_19,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+window,on,0.15
+message,スティーラ,À，ừm，đó là tác phẩm em vẫn đang làm dở và chưa hoàn thiện……. Anh có muốn xem thử không?<br> ,105901000G,vc_10590100001_023_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharamove,chara_1,Linear,X,-200,0.8,CONT,0
+
+asynccharamove,chara_1,Linear,Y,0,0.8,CONT,0
+
+asyncwait
+
+wait,0.5
+
+asyncseplay,setag1_20,se4402004,0,1,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncwait
+
+fade,Out,White,1
+
+screeneffect,BLOOM,on,0.08,0
+
+fade,In,White,1
+
+window,on,0.15
+message,,Khi Steela kéo tấm vải ra， một món đồ thủ công bằng ma thạch màu vàng óng mang hình dáng mặt trời đang tỏa ra ánh sáng dịu nhẹ giữa màn đêm.<br><br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharamove,chara_1,Linear,X,200,0.8,CONT,0
+
+asynccharamove,chara_1,Linear,Y,0,0.8,CONT,0
+
+asyncwait
+
+window,on,0.15
+message,<user>,Thứ này……tuyệt quá. Những chi tiết trang trí tỉ mỉ và vẻ đẹp của viên ma thạch được sử dụng đều quá sức tuyệt vời.<br><br> 
+
+message,<user>,Hơn hết là nó mang một sức mạnh dường như có thể mang lại hy vọng cho con người. Giống như một luồng ánh sáng soi rọi tương lai vậy…….<br><br> 
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_21,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,スティーラ,A……Anh cũng cảm nhận được sao? T-Thực ra，em làm ra tác phẩm này dựa trên hình ảnh của mọi người ở Tiền Tuyến này，những người đang ngày đêm chiến đấu chống lại sự tuyệt vọng.<br><br> ,105901000G,vc_10590100001_024_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_22,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_1,Laugh,CONT,0
+
+
+message,スティーラ,Trong khoảng thời gian sống ở đây，tự nhiên trong đầu em nảy sinh ra hình ảnh đó…….V-Và em bắt đầu muốn biến nó thành một hình hài thực sự，vậy nên……<br><br> ,105901000G,vc_10590100001_025_01,chara_1
+
+message,<user>,Ra là vậy，vậy nên đây không phải là tác phẩm được ai đó đặt làm sao.<br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_23,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,スティーラ,V-vâng đúng vậy ạ. Liệu có ai……muốn mua nó không nhỉ…….K-không hiểu sao em lại làm nó to đến mức này……<br><br> ,105901000G,vc_10590100001_026_01,chara_1
+
+message,<user>,Này，nếu chưa có ai mua nó thì em có thể nhượng lại cho anh được không.Tác phẩm này rất phù hợp để trang trí cho Bộ Chỉ Huy đấy.<br><br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_24,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,スティーラ,Hả……Hảả!? Bộ Chỉ Huy sao!?N-Nếu được trưng bày ở một nơi gây chú ý như vậy，em，em biết làm sao đây……<br><br> ,105901000G,vc_10590100001_027_01,chara_1
+
+message,<user>,Hửm? Có điều gì không ổn sao?<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_25,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,N-như thế thì……sẽ có rất nhiều người nhìn thấy nó mất……T-tự nhiên em cảm thấy……xấu hổ quá……<br><br> ,105901000G,vc_10590100001_028_01,chara_1
+
+message,<user>,Em làm ra nó dựa trên hình ảnh của những người ở Tiền Tuyến mà đúng không?Chính vì vậy nên anh mới muốn trưng bày nó ở Bộ Chỉ Huy đấy.<br><br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_26,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+asynccharaface,chara_1,FaceUnique01,STOP,5.6
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,5.6,STOP
+
+asyncseplay,setag1_27,se4800017,0,1,STOP,5.6
+
+asynccharaemo,chara_1,Shock,STOP,5.6
+
+
+message,スティーラ,Ừm……Hả?Không lẽ nào……đừng nói anh là……<br> ,105901000G,vc_10590100001_029_01,chara_1
+
+message,ブローチ,TIỂU THƯ STEELA.VỊ KHÁCH HÀNG NÀY LÀ CHỈ HUY CỦA TIỀN TUYẾN ĐẤY Ạ.<br><br> ,900000003,vc_10590100001_030_01,
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,15,0.5,6,on,off,0,off,CONT,0
+
+asyncseplay,setag1_28,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,Oái oái oái oái!? C-Chỉ Huy sao!?<br> ,105901000G,vc_10590100001_031_01,chara_1
+
+message,<user>,Yên tâm đi，anh sẽ trả thù lao đàng hoàng.Tuy không phải tiền của anh mà là tiền của căn cứ. Vậy，em định bán nó với giá bao nhiêu?<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,スティーラ,Ư-ừm……e-em vẫn chưa nghĩ đến chuyện giá cả……L-làm sao bây giờ……<br> ,105901000G,vc_10590100001_032_01,chara_1
+
+message,<user>,Trước mắt thì，nhận số tiền cọc này được chứ?<br> 
+
+asyncseplay,setag1_30,se4400068,0,1,STOP,0
+
+message,,Chỉ Huy đặt một túi đầy tiền vàng nặng trịchlên chiếc bàn trước mặt Steela.<br><br> 
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_31,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,スティーラ,Oái! N-nhiều thế này sao!?E-em không thể nhận được đâu，số tiền lớn thế này cơ mà!<br> ,105901000G,vc_10590100001_033_01,chara_1
+
+message,<user>,Đây là một nửa số tiền coi như tiền cọc để em có thể tập trung vào việc hoàn thành tác phẩm.Khi nào tác phẩm hoàn thành anh sẽ trả nốt nửa còn lại.<br><br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,40,0.5,2,off,0,CONT
+
+asyncseplay,setag1_32,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,Á!? Đây mới chỉ là một nửa thôi sao!?K-không được đâu，tiêu xài hoang phí như vậy……<br> ,105901000G,vc_10590100001_034_01,chara_1
+
+message,<user>,Không hề hoang phí chút nào. Người đưa ra yêu cầu là anh mà.Tác phẩm của Steela có sức mạnh làm lay động trái tim người khác.<br><br> 
+
+message,<user>,Một tác phẩm mang lại hy vọng cho những người lính sắp bước vào trận chiến.Đây là thù lao dành cho một tác phẩm sẽ trở thành biểu tượng của mọi người ở Tiền Tuyến.<br><br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_33,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,スティーラ,B-biểu tượng cho mọi người ở Tiền Tuyến……<br> ,105901000G,vc_10590100001_035_01,chara_1
+
+message,<user>,Đúng vậy. Do đó anh muốn em nhận lấy mức thù lao này.Anh rất mong chờ ngày nó hoàn thành đấy.<br><br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_34,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,スティーラ,Ưư……Á-áp lực quá đi mất……<br> ,105901000G,vc_10590100001_036_01,chara_1
+
+message,<user>,A~，xin lỗi nhé. Anh không định làm vậy đâu.Steela chỉ cần tạo ra hình dáng y như những gì xuất hiện trong đầu em là được rồi.<br><br> 
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,スティーラ,V-vâng! E-em hiểu rồi ạ!Để có thể tạo ra một tác phẩm tuyệt vời……e-em sẽ đặt hết tâm huyết vào nó!<br><br> ,105901000G,vc_10590100001_037_01,chara_1
+
+message,<user>,Được rồi. Anh sẽ rất mong chờ ngày tác phẩm hoàn thành đấy.Ừm，chắc anh cũng mua một cái về trang trí trong phòng nhỉ……với cả mua thêm làm quà lưu niệm nữa……<br><br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_36,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,スティーラ,Oái! A-anh vẫn mua thêm nữa sao!?<br> ,105901000G,vc_10590100001_038_01,chara_1
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+screeneffect,BLOOM,off,1,0
+
+bg,abg11200b
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_1,FaceSurprise
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1,0
+
+charashowalpha,chara_1,1,0
+
+transitionFade,Tra09,in,black,1
+
+asyncseplay,setag1_37,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+window,on,0.15
+message,,Chỉ Huy đã mua thêm vài món đồ thủ công từ ma thạch rồi rời đi.Nhìn theo bóng lưng của anh，Steela đỏ bừng mặt và khẽ lầm bầm.<br><br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+charafocusonall
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+bg,abg11200b
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+asyncmove,BACK,,0,300,0,Set,CONT
+
+charaface,chara_1,FaceShy
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+crossfade,1,0,0,1,1
+wait,1
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_38,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+window,on,0.15
+message,スティーラ,……Chỉ Huy ấy，mình cứ tưởng ngài ấy phải là một người đáng sợ lắm cơ……nhưng hoàn toàn khác hẳn nhỉ.<br><br> ,105901000G,vc_10590100001_039_01,chara_1
+
+asynccharaface,chara_1,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_39,se4800003,0,1,CONT,0
+
+asynccharaemo,chara_1,Twinkle,CONT,0
+
+
+message,スティーラ,Ngài ấy là một người rất，rất dịu dàng……<br> ,105901000G,vc_10590100001_040_01,chara_1
+
+message,ブローチ,THẬT TỐT QUÁ NHỈ，TIỂU THƯ STEELA.<br> ,900000003,vc_10590100001_041_01,
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_40,se4800018,0,1,CONT,0
+
+asynccharaemo,chara_1,Flower,CONT,0
+
+
+message,スティーラ,Ừm……! Ngài ấy đã khen đồ thủ công ma thạch của mình nhiều đến vậy……Mình vui quá đi mất……<br><br> ,105901000G,vc_10590100001_042_01,chara_1
+
+message,,Steela bỗng dưng nhìn chằm chằm vào món đồ thủ công ma thạch đang làm dở.Ở giữa tác phẩm là hình ảnh một người đang chỉ huy mọi người ở Tiền Tuyến.<br><br> 
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_41,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,スティーラ,Tác phẩm này，mình vốn dựa trên hình ảnh của Chỉ Huy Tiền Tuyến để làm……Fufu，chắc mình phải sửa lại khuôn mặt cho hiền từ hơn một chút mới được.<br><br> ,105901000G,vc_10590100001_043_01,chara_1
+
+message,ブローチ,KHUÔN MẶT CỦA NGÀI ẤY TUYỆT VỜI ĐẾN THẾ SAO?CÓ KHI NÀO，NGƯỜI ĐÃ YÊU NGÀI ẤY TỪ CÁI NHÌN ĐẦU TIÊN RỒI KHÔNG?<br><br> ,900000003,vc_10590100001_044_01,
+
+asynccharaface,chara_1,FaceUnique02,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_42,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,スティーラ,Y-Yêu từ cái nhìn đầu tiên á!? C-Chờ đã……n-ngươi đang nói cái gì vậy!Không phải như thế đâu……!<br><br> ,105901000G,vc_10590100001_045_01,chara_1
+
+message,ブローチ,XIN THỨ LỖI. VÌ KHI NHẮC ĐẾN CHỈ HUY，GIỌNG CỦA TIỂU THƯ STEELANGHE RẤT VUI VẺ，NÊN TÔI ĐÃ LỠ……<br><br> ,900000003,vc_10590100001_046_01,
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_43,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,スティーラ,Thiệt tình，ngươi đang nói cái quái gì vậy chứ!Được rồi，hôm nay mình sẽ đóng cửa hàng sớm và tập trung vào việc hoàn thành tác phẩm được giao thôi……<br><br> ,105901000G,vc_10590100001_047_01,chara_1
+
+message,ブローチ,HÃY LÀM VẬY ĐI Ạ!VÌ VỊ CHỈ HUY TUYỆT VỜI ĐÓ!<br> ,900000003,vc_10590100001_048_01,
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_44,se4800016,0,1,CONT,0
+
+asynccharaemo,chara_1,BePeevish,CONT,0
+
+asynccharaface,chara_1,FaceUnique01,STOP,5.14
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,STOP,5.14
+
+asyncseplay,setag1_45,se4800012,0,1,STOP,5.14
+
+asynccharaemo,chara_1,Shy,STOP,5.14
+
+
+message,スティーラ,N-này……! Nếu ngươi cứ trêu chọc mãi là ta nổi giận đó!T-Thật sự không phải như thế đâu mà……<br> ,105901000G,vc_10590100001_049_01,chara_1
+
+bgmstop,bgmtag1_1,1.5,0
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+sestop,setag1_45,0.1
+
+bg,abg11100a
+
+scale,BACK,,0,1,1,Set
+
+blur,off,BACK,0
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charahide,chara_1,0
+
+emodelete,chara_1,0,0
+
+subimage,UI/BG/Novel/abg18200a,subimage_0_1,0,CHARA,0,FRONT
+subimage,UI/BG/Novel/abg18200a,subimage_0_2,0,CHARA,0,FRONT
+scale,SUBIMAGE,subimage_0_1,0,137.2,137.2,LinearTarget
+scale,SUBIMAGE,subimage_0_2,0,137.2,137.2,LinearTarget
+move,SUBIMAGE,subimage_0_1,0,0,2000,LinearTarget
+move,SUBIMAGE,subimage_0_2,0,0,-2000,LinearTarget
+
+asyncsubimagefade,subimage_0_1,0,1,0,CONT,0
+asyncsubimagefade,subimage_0_2,0,1,0,CONT,0
+asyncmove,SUBIMAGE,subimage_0_1,0,0,1770,LinearTarget,CONT,0
+asyncmove,SUBIMAGE,subimage_0_2,0,0,-1676,LinearTarget,CONT,0
+asyncwait,subimage_0_1
+asyncwait,subimage_0_2
+
+
+fade,In,Black,1
+
+messageTextUnder,,Vài ngày sau，tác phẩm trang trí bằng ma thạch do Steela hoàn thành đã được trưng bày ở ngay lối vào Bộ Chỉ Huy，nơi mà ai cũng có thể dễ dàng nhìn thấy nhất.,,,on
+
+messageTextUnder,,Tác phẩm tráng lệ ấy đã thu hút sự chú ý của bất kỳ ai ghé thăm Bộ Chỉ Huy，và được vô số người ca ngợi như một trong những biểu tượng của Tiền Tuyến――,,,on
+
+window,off
+bgmstop,bgmtag1_1,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

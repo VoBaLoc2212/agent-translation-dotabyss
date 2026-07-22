@@ -1,0 +1,619 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg14100a
+
+charaload,chara_1,100401000G,シャオレイ
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,Cô Gái Du Hành Cùng Gấu Trúc
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0035,0.75,1
+
+charaface,chara_1,EyeOpen
+charaface,chara_1,FaceNormal
+
+
+messagetextwindow,on,0.15
+
+asyncseplay,setag1_1,se5050013,0,1,CONT
+messageTextCenter,,<size=48>――Khu Rừng Gần Căn Cứ Tiền Tuyến</size>,,,on
+
+wait,0.2
+
+messagetextwindow,off,0.15
+wait,0.15
+
+asyncstopwait
+
+
+
+window,on,0.15
+message,<user>,Được rồi‚ lấy chừng này chắc đủ rồi.<br>Đến lúc quay về căn cứ thôi…<br> 
+
+message,<user>,Nhưng chỉ vì trông mình có vẻ rảnh mà lại bắt Chỉ Huy đi hái nấm độc thế này thì…<br>Ừ thì nguyên liệu làm độc dược đối phó quái vật càng nhiều càng tốt‚ nhưng…<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+asyncseplay,setag1_2,se4020001,0,1,CONT
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+cameramove,LinearTarget,X,-100,0.5
+
+wait,0.5
+
+cameramove,LinearTarget,X,100,0.5
+window,on,0.15
+message,<user>,Gì thế? Cây cối ở đây đổ ngổn ngang một cách kỳ lạ.<br>Tối qua có bão hay sao?<br> 
+
+cameramove,LinearTarget,X,0,0.5
+
+message,<user>,A… tệ thật. Đường bị cây đổ chặn mất rồi…<br>Thế này thì không đi tiếp được…<br> 
+
+message,<user>,Đi vòng hay cố trèo qua đây…<br>Cách nào cũng phiền cả…<br> 
+
+window,off
+wait,0.15
+
+wait,0.5
+
+bgmstop,bgmtag1_1,0.5,0
+
+window,on,0.15
+message,？？？,Ưư… a-ai đó…<br>C-cứu với…<br> ,900000001,vc_10040100001_001_01,off
+
+window,off
+wait,0.15
+
+bgmplay,bgmtag1_2,bgm0027,0.75,1
+
+wait,0.5
+
+window,on,0.15
+message,<user>,…! Giọng nói vừa rồi là!?<br>Không lẽ có người bị kẹt dưới cây đổ à!?<br> 
+
+message,<user>,Đợi đó‚ tôi cứu cô ngay!<br>Chắc chắn giọng nói phát ra từ phía sau thân cây đổ kia…!<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+asyncseplay,setag1_3,se4020005,0,1,CONT
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+window,on,0.15
+message,２匹のパンダ,Kupyư!<br> ,900000003
+
+message,<user>,…Hả? Gấu trúc con…?<br>Không lẽ gấu trúc biết nói đang kêu cứu… không‚ làm gì có chuyện—<br> 
+
+charamove,chara_1,Set,X,0,0
+charamove,chara_1,Set,CharaHeight,-150,0
+
+charaface,chara_1,FaceUnique01
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_4,se4800008,0,1,CONT
+
+asynccharaemo,chara_1,Sweat,STOP
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+
+
+message,？？？,C-cứu… với…<br> ,100401000G,vc_10040100001_002_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,3,off,off,0,off,CONT
+message,<user>,Cái gì!? Có người đang nằm sau lũ gấu trúc!<br> 
+
+message,<user>,Này‚ cô ổn chứ!?<br>Có bị cây đổ cuốn vào không!? Bị thương ở đâu không!?<br> 
+
+asyncseplay,setag1_5,se4800006,0,1,CONT
+
+asynccharaemo,chara_1,Trouble,STOP
+
+
+asynccharaface,chara_1,FaceSad,STOP
+message,？？？,…Không… bị thương… cũng không… bị cuốn vào…<br> ,100401000G,vc_10040100001_003_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+
+message,<user>,Đ-đúng là vậy… Hình như cô chỉ ngã ra đó thôi.<br>Vậy là do khó chịu trong người à? Sắc mặt cũng xấu quá… nguyên nhân là gì?<br> 
+
+asyncseplay,setag1_6,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+message,？？？,Không… biết…<br> ,100401000G,vc_10040100001_004_01,chara_1
+
+message,<user>,Nếu vậy thì có thể là bệnh đột ngột.<br>Tôi sẽ đưa cô về căn cứ tiền tuyến ngay để tìm nguyên nhân—<br> 
+
+bgmstop,bgmtag1_2,0.5,0
+
+asyncseplay,setag1_7,se4800007,0,1,CONT
+
+asynccharaemo,chara_1,Panic,STOP
+
+
+asynccharaface,chara_1,FaceUnique02,STOP
+message,？？？,Tại sao… lại thành… thế này…<br>Em chỉ đói bụng… rồi ăn nấm… thôi mà…<br> ,100401000G,vc_10040100001_005_01,chara_1
+
+bgmplay,bgmtag1_3,bgm0026,0.75,1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+message,<user>,…Này‚ vừa rồi cô nói gì cơ?<br> 
+
+
+asynccharaface,chara_1,FaceFun,STOP
+message,？？？,Nấm… Xiaolei nói là… Xiaolei đã ăn…<br>Cái mọc ở đây… nấm… đẹp lắm…<br> ,100401000G,vc_10040100001_006_01,chara_1
+
+asyncshake,CHARA,chara_1,3,0,0.5,3,off,off,0,off,CONT
+
+message,<user>,…Nấm đẹp là<br>cây nấm mọc dưới đất kia‚ màu sắc với hoa văn sặc sỡ quá mức đó à?<br> 
+
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,？？？,Ừ… cái đó…<br> ,100401000G,vc_10040100001_007_01,chara_1
+
+asyncseplay,setag1_8,se4800015,0,1,CONT
+
+asynccharaemo,chara_1,Dull,STOP
+
+
+asynccharaface,chara_1,FaceSad,STOP
+message,？？？,Ăn xong… cơ thể… không cử động được nữa…<br>Lý do… không biết… kỳ lạ…<br> ,100401000G,vc_10040100001_008_01,chara_1
+
+asyncshake,CHARA,chara_1,2,0,0.5,2,off,off,0,off,CONT
+message,<user>,Không không không! Đây là nấm độc làm tê liệt cơ thể đấy!?<br> 
+
+asyncseplay,setag1_9,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,？？？,Đ-ộc? Aiyaa…<br> ,100401000G,vc_10040100001_009_01,chara_1
+
+message,<user>,Sao cô lại ngạc nhiên chứ…<br>Dù chỉ mọc trong khu rừng này‚ nó vẫn là loại nấm độc khá nổi tiếng đấy.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Thôi thì cứ cho là cô không biết cũng đành‚<br>nhưng đừng ăn cái nấm nhìn thôi đã thấy khả nghi thế này chứ…<br> 
+
+asyncseplay,setag1_10,se4800007,6,1,CONT
+
+asynccharaemo,chara_1,Panic,CONT,6
+
+asyncshake,CHARA,chara_1,3,0,0.5,2,off,off,0,off,CONT
+
+
+asynccharaface,chara_1,FaceSad,CONT,6
+message,？？？,Nhưng… Xiaolei đói bụng… với lại nó ngon…<br>Xiaolei không biết… có độc… ưư… thật xin lỗi…<br> ,100401000G,vc_10040100001_010_01,chara_1
+
+message,<user>,Thiệt tình… chờ một chút. Thuốc giải đơn giản thì tôi cũng làm được—<br> 
+
+window,off
+wait,0.15
+
+transitionFade,Tra10,out,black,1
+
+charamove,chara_1,Set,X,0,0
+charamove,chara_1,Set,CharaHeight,0,0
+
+wait,1
+
+transitionFade,Tra09,in,black,1
+
+asyncseplay,setag1_11,se4800010,0,1,CONT
+
+charaemo,chara_1,Exclamation
+
+asynccharaface,chara_1,FaceHappy,STOP
+
+
+charareaction,chara_1,Hop,0.5
+window,on,0.15
+message,？？？,Hay quá! Cơ thể cử động được rồi! Sheshe!<br> ,100401000G,vc_10040100001_011_01,chara_1
+
+asyncseplay,setag1_12,se4800013,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Spirits,STOP
+
+message,<user>,Dù đã uống thuốc giải‚ không ngờ cô lại hồi phục nhanh thế.<br>Cơ thể cô khá là bền bỉ đấy.<br> 
+
+message,<user>,Nhân tiện‚ cái “sheshe” mà cô cứ nói là gì vậy?<br> 
+
+asyncseplay,setag1_13,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,？？？,Lời cảm ơn. Lời cảm ơn ở quê Xiaolei.<br> ,100401000G,vc_10040100001_012_01,chara_1
+
+message,<user>,Ồ‚ lần đầu tôi nghe từ đó đấy.<br>Cô tên là Xiaolei phải không? Cô đến từ nơi xa à?<br> 
+
+charareaction,chara_1,Nod,0.5
+message,シャオレイ,Ừ. Em là Xiaolei. Đến từ một nơi xa‚ xa lắm.<br> ,,vc_10040100001_013_01
+
+message,<user>,Một mình à? Sao lại cất công đến một nơi nguy hiểm thế này?<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Đó là lời hứa với ông nội. Xiaolei sẽ trở nên mạnh hơn.<br> ,,vc_10040100001_014_01
+
+message,<user>,Lời hứa với ông của cô?<br> 
+
+asynccharareaction,chara_1,Nod,0.5,STOP
+
+asyncseplay,setag1_14,se4800021,0,1,CONT
+
+asynccharaemo,chara_1,Imagination,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Ừ. Đó là chuyện hồi Xiaolei vẫn còn ở quê…<br> ,,vc_10040100001_015_01
+
+window,off
+wait,0.15
+
+bgmstop,bgmtag1_3,1.5,0
+
+fade,Out,White,1.5
+
+emodelete,chara_1,0,0
+
+screeneffect,SEPIATONE,on,1,1
+
+
+bg,abg14400a
+
+wait,1
+
+bgmplay,bgmtag1_4,bgm0036,0.75,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,シャオレイの祖父,Xiaolei… cháu của ta. Từ khi biết nhận thức đến nay‚<br>cháu đã cùng ta‚ chỉ hai ông cháu‚ miệt mài tu luyện suốt bao năm…<br> 
+
+message,シャオレイの祖父,Cháu đã mạnh mẽ đến mức này rồi! Ngay cả trong gia tộc đời đời lấy võ thuật làm nghiệp của ta‚<br>chưa ai ở tuổi cháu mà luyện võ đến trình độ này đâu!!<br> 
+
+asyncseplay,setag1_15,se4800013,0,1,CONT
+
+charaemo,chara_1,Spirits
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Nhờ ông nội cả. Sheshe.<br> ,,vc_10040100001_016_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,…À thì‚ dù ta chẳng dạy gì‚<br>Xiaolei vốn sinh ra đã mạnh rồi cơ.<br> 
+
+message,シャオレイの祖父,Nhưng này Xiaolei‚ sức mạnh của cháu vẫn còn thiếu một thứ.<br>Cháu biết đó là gì không?<br> 
+
+asyncseplay,setag1_16,se4800009,0,1,CONT
+
+charaemo,chara_1,Question
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,…? Thể hình… chẳng hạn? Xiaolei nhỏ con.<br> ,,vc_10040100001_017_01
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,Không phải đâu. Đúng là thân hình cháu không lớn‚<br>nhưng ta đã dạy đủ kỹ thuật để bù lại rồi.<br> 
+
+message,シャオレイの祖父,Nghe đây‚ cháu của ta! Thứ cháu còn thiếu chính là trí tuệ!<br> 
+
+asyncseplay,setag1_17,se4800010,0,1,CONT
+
+charaemo,chara_1,Exclamation
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Trí tuệ…<br> ,,vc_10040100001_018_01
+
+message,シャオレイの祖父,Ừm! Sức mạnh chân chính cần có sức lực‚ kỹ thuật――và trí tuệ!<br>Nhưng ta chỉ dạy được sức lực và kỹ thuật thôi! Nói thật‚ đầu óc ta không sáng lắm!<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイの祖父,Vì thế đó‚ cháu của ta! Hãy ra thế giới bên ngoài‚ học hỏi thật nhiều‚ trải nghiệm thật nhiều và trở nên khôn ngoan!<br>Làm vậy cháu sẽ mạnh hơn nữa! Giải thích xong! Đi đi nào!!!<br> 
+
+asyncseplay,setag1_18,se4800013,0,1,CONT
+
+charaemo,chara_1,Spirits
+
+message,シャオレイ,Vâng ạ.<br> ,,vc_10040100001_019_01
+
+window,off
+wait,0.15
+
+fade,Out,White,1.5
+
+bgmstop,bgmtag1_4,0,0
+
+screeneffect,SEPIATONE,off,1,0
+
+emodelete,chara_1,0,0
+
+bg,abg14100a
+
+wait,1
+
+bgmplay,bgmtag1_5,bgm0035,0.75,1
+
+fade,In,White,1.5
+
+window,on,0.15
+message,シャオレイ,Chuyện là vậy đó.<br> ,,vc_10040100001_020_01
+
+message,<user>,Ông cụ nhà cô quyết đoán quá mức rồi đấy…!! Còn cô thì chấp nhận nhanh quá đấy!!<br> 
+
+asyncseplay,setag1_19,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Vì Xiaolei muốn trở nên mạnh hơn mà.<br> ,,vc_10040100001_021_01
+
+message,<user>,R-ra vậy… Tóm lại là cô đang trên đường võ giả tu hành nhỉ.<br>Một mình rời quê hẳn cô đơn lắm‚ vậy mà cô vẫn cố gắng ghê.<br> 
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Aiyaa――không hẳn. Xiaolei không có một mình. Đúng không‚ Panpan‚ Dandan.<br> ,,vc_10040100001_022_01
+
+message,パンパン[シャオレイ],Kupyư!<br> ,900000003
+
+message,ダンダン[シャオレイ],Kupyư~!<br> ,900000003
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Panpan và Dandan đang chào anh. Chúng nói “rất vui được gặp anh”.<br> ,,vc_10040100001_023_01
+
+message,<user>,À‚ ừ… rất vui được gặp hai đứa…<br>Mà sao cô lại giao tiếp được với gấu trúc vậy?<br> 
+
+asynccharaface,chara_1,FaceFun,STOP
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,シャオレイ,Vì bọn em lớn lên cùng nhau suốt mà‚ nên đó là chuyện đương nhiên.<br> ,,vc_10040100001_024_01
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Cùng với hai bạn ấy‚ Xiaolei sẽ mạnh hơn.<br>Vì vậy Xiaolei có thể cố gắng.<br> ,,vc_10040100001_025_01
+
+message,<user>,Hai bạn ấy à… đúng vậy nhỉ.<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Vậy thì không cần lo rồi. Cố lên nhé‚ Xiaolei.<br>Hẹn gặp lại ở đâu đó—<br> 
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+shake,BACK,,10,0,0.5,1,off,off,0
+
+charascale,chara_1,1.5,0
+window,on,0.15
+message,<user>,Ối!?<br> 
+
+window,off
+wait,0.15
+
+scale,BACK,,0,1.3,1.3,LinearTarget
+
+blur,on,BACK,0
+
+charashow,chara_1,0.3
+
+window,on,0.15
+message,シャオレイ,Chờ đã.<br> ,,vc_10040100001_026_01
+
+message,<user>,Sao thế‚ cô nắm vạt áo tôi làm gì?<br>Còn có chuyện gì nữa à?<br> 
+
+asynccharareaction,chara_1,Nod,1,STOP
+message,シャオレイ,Làm ơn.<br>Xiaolei muốn anh trở thành sư phụ――thầy của Xiaolei.<br> ,,vc_10040100001_027_01
+
+message,<user>,Hả? Thầy? Sao lại là tôi!?<br>Nhìn là biết tôi đâu phải võ thuật gia‚ đúng không?<br> 
+
+asyncseplay,setag1_20,se4800014,0,1,CONT
+
+asynccharaemo,chara_1,Silence,STOP
+
+message,シャオレイ,Anh trông gầy nhom và yếu lắm‚ nhưng anh thông minh.<br>Anh cũng biết về nấm độc. Còn làm thuốc nữa.<br> ,,vc_10040100001_028_01
+
+asyncseplay,setag1_21,se4800003,0,1,CONT
+
+asynccharaemo,chara_1,Twinkle,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Để trở nên mạnh hơn‚ Xiaolei cần trí tuệ như vậy.<br>Xin hãy dạy Xiaolei thật nhiều.<br> ,,vc_10040100001_029_01
+
+message,<user>,À… nếu còn ăn cả nấm độc mọc ven đường như thế‚<br>có lẽ cô nên học ít nhất là chút thường thức cơ bản thật…<br> 
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,<user>,Nhưng những gì tôi dạy được cũng có hạn thôi.<br>Cô hãy tìm người thông minh hơn—<br> 
+
+asynccharareaction,chara_1,Shake,1,STOP
+message,シャオレイ,Không. Xiaolei muốn anh dạy.<br> ,,vc_10040100001_030_01
+
+message,<user>,À… nghe này. Tôi không nhận đệ tử đâu.<br>Vậy nên‚ tạm biệt nhé—!?<br> 
+
+window,off
+wait,0.15
+
+shake,BACK,,10,0,0.5,1,off,off,0
+
+wait,1
+
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(C-cử động không được! Chuyện gì thế này!?<br>Bàn tay Xiaolei nắm tay áo mình không nhúc nhích chút nào!?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+charareaction,chara_1,HOP,0.5
+window,on,0.15
+message,シャオレイ,Xiaolei muốn anh dạy cho Xiaolei.<br> ,,vc_10040100001_031_01
+
+message,<user>,À‚ ờ… xin lỗi‚ nhưng tôi không thể làm vậy.<br>Tôi là Chỉ Huy của Căn Cứ Tiền Tuyến‚ thế này mà cũng bận lắm rồi.<br> 
+
+asyncseplay,setag1_22,se4800010,0,1,CONT
+
+asynccharareaction,chara_1,Jump,1,STOP
+asynccharaemo,chara_1,Exclamation,STOP
+
+asynccharaface,chara_1,FaceSurprise,STOP
+message,シャオレイ,Căn Cứ Tiền Tuyến… Xiaolei biết. Anh là Chỉ Huy ở đó à?<br>Tuyệt quá. Xiaolei có mắt nhìn người thật.<br> ,,vc_10040100001_032_01
+
+asyncseplay,setag1_23,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Nhà Xiaolei nghèo‚ nên Xiaolei cũng muốn đến Căn Cứ Tiền Tuyến kiếm tiền.<br>Nếu được thầy dạy‚ Xiaolei sẽ mạnh hơn‚ một mũi tên trúng hai đích.<br> ,,vc_10040100001_033_01
+
+message,<user>,Tôi đã bảo là tôi bận mà.<br>Bỏ tay ra khỏi áo tôi… bỏ… chết tiệt‚ chẳng rời ra chút nào…!<br> 
+
+message,シャオレイ,Thầy?<br> ,,vc_10040100001_034_01
+
+message,<user>,Đã bảo tôi không phải thầy của cô mà! A‚ thật là…<br>Vậy cứ cho là tôi trở thành thầy của cô đi‚ tôi được lợi gì chứ?<br> 
+
+asyncseplay,setag1_24,se4800004,0,1,CONT
+
+asynccharareaction,chara_1,Nod,1,STOP
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceFun,STOP
+message,シャオレイ,Xiaolei mạnh. Cũng có sức lực. Nhất định sẽ giúp ích cho thầy.<br> ,,vc_10040100001_035_01
+
+message,<user>,Đúng là cô đang nắm tay áo tôi bằng sức mạnh kinh khủng thật‚<br>nhưng cô mạnh đến mức cô nói sao…?<br> 
+
+message,<user>,Ừm‚ vậy thử hỏi nhé: cô có thể di chuyển thân cây đổ lớn này không?<br>Tôi đang khổ vì không đi qua đây được.<br> 
+
+asyncseplay,setag1_25,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+asynccharaface,chara_1,EyeOpen,STOP
+asynccharaface,chara_1,FaceNormal,STOP
+message,シャオレイ,Ừm‚ cái cây này?<br> ,,vc_10040100001_036_01
+
+window,off
+wait,0.15
+
+charahide,chara_1,0.3
+
+scale,BACK,,0,1,1,LinearTarget
+
+blur,off,BACK,0
+
+charascale,chara_1,1,0
+
+charashow,chara_1,0.3
+
+asyncseplay,setag1_26,se4800022,0,1,CONT
+
+asynccharaemo,chara_1,Speak,STOP
+
+charareaction,chara_1,JUMP,0.5
+window,on,0.15
+message,シャオレイ,Hự.<br> ,,vc_10040100001_037_01
+
+
+message,<user>,Cái gì!? Nhấc bằng một tay sao!?<br> 
+
+charareaction,chara_1,JUMP,0.5
+message,シャオレイ,Vâng.<br> ,,vc_10040100001_038_01
+
+asyncseplay,setag1_27,se5050040,0,1,CONT
+
+shake,BACK,,0,10,0.5,1,off,off,0
+message,,Thân cây đổ bị ném phắt sang bên.<br>Một tiếng “rầm” nặng nề vang lên‚ mặt đất dưới chân rung chuyển dữ dội.<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0,0.6235,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+window,on,0.15
+message,<user>,(Một thân cây đổ lớn như vậy mà có thể dễ dàng nhấc bằng một tay――!<br>Thân hình nhỏ nhắn đó lấy đâu ra sức mạnh quái vật thế chứ!?)<br> 
+
+window,off
+wait,0.15
+
+crossfadeready
+
+subimagefade,subimage_1,0.6235,0,0
+
+crossfade,0.1,0,0,1,1
+wait,0.1
+
+asyncseplay,setag1_28,se4800009,0,1,CONT
+
+asynccharaemo,chara_1,Question,STOP
+
+window,on,0.15
+message,シャオレイ,Thế này được chưa?<br> ,,vc_10040100001_039_01
+
+message,<user>,…………Được rồi‚ tôi nhận cô. Từ hôm nay hãy gọi tôi là thầy.<br> 
+
+asyncseplay,setag1_29,se4800004,0,1,CONT
+
+asynccharaemo,chara_1,Laugh,STOP
+
+asynccharaface,chara_1,FaceHappy,STOP
+message,シャオレイ,Fufu. Sheshe. Mong thầy giúp đỡ‚ thầy nhé.<br> ,,vc_10040100001_040_01
+
+
+
+
+window,off
+bgmstop,bgmtag1_5,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+

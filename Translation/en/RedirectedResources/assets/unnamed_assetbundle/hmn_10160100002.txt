@@ -1,0 +1,818 @@
+﻿
+fade,Out,Black,0
+initend
+
+bg,abg12000a
+
+scale,BACK,,0,1,1,Set
+
+charaload,chara_1,101601000G,ウィステリア
+
+charaload,chara_2,300301000,ルディア
+charascale,chara_2,1.3,0
+
+charaload,chara_3,401001000,ミレスガルド兵（女）
+
+charaload,chara_4,401301000,エルドラーナ兵（女）
+
+charaload,chara_5,401101000,ペルディオン兵（女）
+
+subimage,UI/BG/Novel/abg18200a,subimage_1,0,CHARA,1,FRONT
+scale,SUBIMAGE,subimage_1,0,150,150,LinearTarget
+
+fade,In,Black,0.5
+
+seplay,seopening_tag,se5030001
+title,タイトル
+
+wait,1
+
+bgmplay,bgmtag1_1,bgm0027,0.75,1
+
+
+messagetextwindow,on,0.15
+
+messageTextCenter,,<size=48>—Frontline Base Tavern</size>,,,on
+
+messagetextwindow,off,0.15
+wait,0.15
+
+
+window,on,0.15
+message,,The day after meeting Wisteria in the forest，%user% went to the<br>Frontline Base's tavern.<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+charafocusonall
+
+bg,abg12000a
+
+scale,BACK,,0,1.3,1.3,Set
+
+blur,on,BACK,0
+
+asyncmove,BACK,,0,-300,0,Set,CONT
+
+charapose,chara_2,1
+
+charaface,chara_2,EyeOpen
+charaface,chara_2,FaceNormal
+
+charashowalpha,chara_2,1,0
+
+transitionCrossFade,Tra01,1
+wait,1
+
+window,on,0.15
+message,<user>,...Ludia，got a moment?<br> 
+
+asynccharaface,chara_2,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_2,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_1,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_2,Question,CONT,0
+
+
+message,ルディア,Oh? What brings you here at this hour? Do you want a drink?<br> ,300301000,vc_10160100002_001_01,chara_2
+
+message,<user>,I'm looking for someone and need some info.<br>The expert archer，Wisteria.<br> 
+
+asynccharaface,chara_2,FaceAnger,CONT,0
+
+asyncjump,CHARA,chara_2,-30,0.25,1,off,0,CONT
+
+
+message,ルディア,Wisteria...<br>She's known as the War God，isn't she?<br> ,300301000,vc_10160100002_002_01,chara_2
+
+message,<user>,Yeah，that's her. We have a bit of a connection，so I was thinking of<br>inviting her to a meal...<br> 
+
+asynccharaface,chara_2,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_2,60,0.4,1,off,0,CONT
+
+asyncseplay,setag1_2,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_2,Spirits,CONT,0
+
+
+message,ルディア,Oh my!♪<br>As expected，you're blessed with good encounters，aren't you?<br> ,300301000,vc_10160100002_003_01,chara_2
+
+asynccharaface,chara_2,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_2,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_3,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_2,Sweat,CONT,0
+
+
+message,ルディア,But... that's a problem.<br>I don't have much information on Wisteria.<br> ,300301000,vc_10160100002_004_01,chara_2
+
+message,<user>,Even you，Ludia...?<br> 
+
+asyncjump,CHARA,chara_2,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_4,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_2,Trouble,CONT,0
+
+
+message,ルディア,She's elusive by nature.<br>I don't even know if she uses the barracks rooms.<br> ,300301000,vc_10160100002_005_01,chara_2
+
+message,<user>,I see... Alright，I'll look around some more.<br> 
+
+asynccharaface,chara_2,FaceFun,CONT,0
+
+asyncjump,CHARA,chara_2,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_5,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_2,Laugh,CONT,0
+
+
+message,ルディア,Yes，good luck!♪<br> ,300301000,vc_10160100002_006_01,chara_2
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra01,out,black,1
+
+charafocusonall
+
+charahide,chara_2,0
+
+emodelete,chara_2,0,0
+
+bg,abg11100a
+
+scale,BACK,,0,1,1,Set
+
+blur,off,BACK,0
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_3,FaceSad
+
+charashowalpha,chara_3,1,0
+
+wait,1
+
+transitionFade,Tra02,in,black,1
+
+asyncshake,CHARA,chara_3,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_6,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_3,Silence,CONT,0
+
+
+window,on,0.15
+message,兵士Ａ,Wisteria...? We're in the same unit，but we're not on friendly terms...<br> ,401001000,vc_10160100002_007_01,chara_3
+
+message,<user>,Haven't you seen her around the Frontline Base?<br> 
+
+asyncjump,CHARA,chara_3,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_7,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_3,Trouble,CONT,0
+
+
+message,兵士Ａ,No，I've hardly ever seen her resting or eating.<br> ,401001000,vc_10160100002_008_01,chara_3
+
+message,<user>,I see... thanks.<br> 
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra02,out,black,1
+
+charafocusonall
+
+charahide,chara_3,0
+
+emodelete,chara_3,0,0
+
+bg,abg10200a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_4,FaceSad
+
+charashowalpha,chara_4,1,0
+
+wait,1
+
+transitionFade,Tra01,in,black,1
+
+asyncjump,CHARA,chara_4,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_8,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_4,Panic,CONT,0
+
+
+window,on,0.15
+message,兵士Ｂ,Ah，Wisteria? She barely responds when you speak to her，and I've<br>never really had a conversation with her.<br> ,401301000,vc_10160100002_009_01,chara_4
+
+asyncshake,CHARA,chara_4,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_9,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_4,Silence,CONT,0
+
+
+message,兵士Ｂ,Many soldiers respect her as reliable in battle，but as for personal<br>matters，nothing at all...<br> ,401301000,vc_10160100002_010_01,chara_4
+
+message,<user>,As I thought... That helps，I appreciate it.<br> 
+
+
+window,off
+wait,0.15
+
+transitionFade,Tra08,out,black,1
+
+charafocusonall
+
+charahide,chara_4,0
+
+emodelete,chara_4,0,0
+
+bg,abg11200a
+
+scale,BACK,,0,1,1,Set
+
+charaface,chara_5,EyeOpen
+charaface,chara_5,FaceNormal
+
+charashowalpha,chara_5,1,0
+
+wait,1
+
+transitionFade,Tra07,in,black,1
+
+asyncjump,CHARA,chara_5,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_10,se4800005,0,1,CONT,0
+
+asynccharaemo,chara_5,Flash,CONT,0
+
+
+window,on,0.15
+message,兵士Ｃ,I sometimes see the War God buying things.<br> ,401101000,vc_10160100002_011_01,chara_5
+
+message,<user>,Oh really? What was she doing?<br> 
+
+asynccharaface,chara_5,FaceHappy,CONT,0
+
+asyncjump,CHARA,chara_5,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_11,se4800004,0,1,CONT,0
+
+asynccharaemo,chara_5,Laugh,CONT,0
+
+
+message,兵士Ｃ,She mostly buys food. Also，I've seen her getting camping gear.<br> ,401101000,vc_10160100002_012_01,chara_5
+
+message,<user>,I see... Sorry for taking up your time.<br> 
+
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+sestop,setag1_11,0.1
+
+bg,abg18200a
+
+scale,BACK,,0,1,1,Set
+
+charahide,chara_5,0
+
+emodelete,chara_5,0,0
+
+fade,In,Black,1
+
+window,on,0.15
+message,<user>,Wisteria doesn't seem to be using a room in the barracks. She doesn't<br>eat or rest inside the base either.<br> 
+
+message,<user>,But she does shop，stocking up on food and preparing for camping.<br> 
+
+message,<user>,And considering where I met her in the forest... Alright，let's check it<br>out.<br> 
+
+bgmstop,bgmtag1_1,1.5,0
+
+
+window,off
+wait,0.15
+
+fade,Out,Black,1
+
+charafocusonall
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,-300,0,Set,CONT
+
+wait,1
+
+bgmplay,bgmtag1_2,bgm0033,0.75,1
+
+fade,In,Black,1
+
+window,on,0.15
+message,<user>,Judging from where we ran into each other before，it's probably this<br>direction. Hmm... if I do the same as last time...<br> 
+
+message,<user>,Ah，I'm starting to feel the urge! Guess I'll just take a leak!<br> 
+
+message,<user>,Alright，dropping my pants...<br> 
+
+message,？？？,—Don't move.<br> ,900000001,vc_10160100002_013_01,on
+
+message,<user>,...! Yeah，I won't resist. Don't be rough，okay?<br> 
+
+window,off
+wait,0.15
+
+transitionCrossFadeReady
+
+charafocusonall
+
+bg,abg14100a
+
+scale,BACK,,0,1,1,Set
+
+asyncmove,BACK,,0,0,0,Set,CONT
+
+charaface,chara_1,FaceSad
+
+asynccharamove,chara_1,Set,X,0,0,CONT
+
+asynccharamove,chara_1,Set,CharaHeight,0,0,CONT
+
+charascale,chara_1,1.3,0
+
+charashowalpha,chara_1,1,0
+
+transitionCrossFade,Tra01,1
+wait,1
+
+window,on,0.15
+message,,The Commander turned around，still with his pants down. Standing<br>there was Wisteria，looking a bit exasperated.<br> 
+
+asyncjump,CHARA,chara_1,-40,0.7,1,off,0,CONT
+
+asyncseplay,setag1_12,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,...So it is you. I thought that figure looked familiar...<br> ,101601000G,vc_10160100002_014_01,chara_1
+
+message,<user>,Haha，what a coincidence，Wisteria.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_13,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+
+message,ウィステリア,What's with your carefree attitude... This isn't the sort of place you<br>run into someone by accident.<br> ,101601000G,vc_10160100002_015_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_14,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ウィステリア,Why are you here? Another terrain survey?<br> ,101601000G,vc_10160100002_016_01,chara_1
+
+message,<user>,No，I came to see you this time.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_15,se4800010,0,1,CONT,0
+
+asynccharaemo,chara_1,Exclamation,CONT,0
+
+
+message,ウィステリア,Me...? Don't tell me you were just wandering around looking for me?<br> ,101601000G,vc_10160100002_017_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_16,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,Just because we met in this forest once doesn't mean it'll happen<br>again...<br> ,101601000G,vc_10160100002_018_01,chara_1
+
+message,<user>,No，I knew you'd come. Wisteria，your secret base is around here，<br>isn't it?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_17,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ウィステリア,...!?<br> ,101601000G,vc_10160100002_019_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceAnger,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_18,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,How did you know?!<br> ,101601000G,vc_10160100002_020_01,chara_1
+
+message,<user>,I deduced it from info I gathered at the base. I figured you must be<br>camping somewhere.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_19,se4800009,0,1,CONT,0
+
+asynccharaemo,chara_1,Question,CONT,0
+
+
+message,ウィステリア,...Why were you waiting here? It should be far from where we met<br>before.<br> ,101601000G,vc_10160100002_021_01,chara_1
+
+message,<user>,Because you said you carefully got behind me. That means you saw me<br>about to take a piss and deliberately circled around.<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_20,se4800011,0,1,CONT,0
+
+asynccharaemo,chara_1,ExclaQues,CONT,0
+
+
+message,ウィステリア,Just from that short conversation...?!<br> ,101601000G,vc_10160100002_022_01,chara_1
+
+message,<user>,You seemed like the serious type，Wisteria. I figured you wouldn't<br>deliberately lie.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_21,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,...You were gathering information on this forest too.<br> ,101601000G,vc_10160100002_023_01,chara_1
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+
+message,ウィステリア,From the vegetation and terrain data you gathered，you identified<br>likely campsites...<br> ,101601000G,vc_10160100002_024_01,chara_1
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_22,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,You deliberately exposed a weakness where I'd notice it，and lured me<br>out like this.<br> ,101601000G,vc_10160100002_025_01,chara_1
+
+message,<user>,Exactly right.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_23,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,...I thought I was skilled at silent movement，but to be lured out so<br>skillfully...<br> ,101601000G,vc_10160100002_026_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_24,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ウィステリア,It seems my judgment was off. You're a far more capable Commander<br>than I imagined.<br> ,101601000G,vc_10160100002_027_01,chara_1
+
+message,<user>,I'm honored by the compliment.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_25,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+
+message,ウィステリア,But I'm surprised you managed to gather so much information on me...<br> ,101601000G,vc_10160100002_028_01,chara_1
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_26,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,There's hardly anyone at that base who knows me.<br> ,101601000G,vc_10160100002_029_01,chara_1
+
+message,<user>,No，everyone's been worried about you. As expected of the War God，<br>quite the celebrity.<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_27,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,I didn't give myself that name. There's no way I'm popular.<br> ,101601000G,vc_10160100002_030_01,chara_1
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_28,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,You're about the only one who'd go out of their way to come looking<br>for me like this，Commander.<br> ,101601000G,vc_10160100002_031_01,chara_1
+
+message,<user>,I don't think that's the case...<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_29,se4800015,0,1,CONT,0
+
+asynccharaemo,chara_1,Dull,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,It's true that I'm good at stealth，but even when I behave normally，<br>plenty of people don't notice me.<br> ,101601000G,vc_10160100002_032_01,chara_1
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_30,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,If I suppress my presence，I sometimes go unnoticed even when I'm<br>standing right next to someone.<br> ,101601000G,vc_10160100002_033_01,chara_1
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_31,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ウィステリア,No one is interested in me. Not even the other members of the base.<br> ,101601000G,vc_10160100002_034_01,chara_1
+
+message,<user>,Hmm... maybe it's just that you're too good at hiding your presence...<br> 
+
+message,<user>,Anyway，I've come this far. Would you invite me to your secret base?<br> 
+
+asynccharaface,chara_1,FaceUnique01,CONT,0
+
+asyncshake,CHARA,chara_1,20,0,0.5,1,off,off,0,off,CONT,0
+
+asyncseplay,setag1_32,se4800006,0,1,CONT,0
+
+asynccharaemo,chara_1,Trouble,CONT,0
+
+
+message,ウィステリア,...That's a problem. I've never invited anyone before.<br> ,101601000G,vc_10160100002_035_01,chara_1
+
+message,<user>,So I'd be your first guest. That's quite an honor.<br> 
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_33,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,You really are an optimistic one... Well，I suppose it's a problem to<br>hide my campsite from a superior officer.<br> ,101601000G,vc_10160100002_036_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_34,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,Besides... if it's you who managed to find me...<br> ,101601000G,vc_10160100002_037_01,chara_1
+
+asynccharaface,chara_1,EyeClose,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_35,se4800013,0,1,CONT,0
+
+asynccharaemo,chara_1,Spirits,CONT,0
+
+
+message,ウィステリア,Fine，I'll show you.<br> ,101601000G,vc_10160100002_038_01,chara_1
+
+message,<user>,Really? Thank you，Wisteria.<br> 
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_36,se4800007,0,1,CONT,0
+
+asynccharaemo,chara_1,Panic,CONT,0
+
+
+message,ウィステリア,...But before that，Commander. Um... about that thing...<br> ,101601000G,vc_10160100002_039_01,chara_1
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_37,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,Is the front of your trousers... fastened?<br> ,101601000G,vc_10160100002_040_01,chara_1
+
+message,<user>,Yeah，it's fine today. I made sure it was closed before you even said<br>anything.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceFun,CONT,0
+
+wait,0.5
+
+asyncjump,CHARA,chara_1,-40,0.8,1,off,0,CONT
+
+asyncwait
+
+window,on,0.15
+message,,Wisteria，who had been constantly averting her gaze，finally looked<br>at the Commander and let out a sigh of relief.<br> 
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30.6,0.5,1,off,0,CONT
+
+asyncseplay,setag1_38,se4800008,0,1,CONT,0
+
+asynccharaemo,chara_1,Sweat,CONT,0
+
+
+message,ウィステリア,I'm sorry about that. The impression from last time was so strong that<br>I couldn't help it.<br> ,101601000G,vc_10160100002_041_01,chara_1
+
+message,<user>,Oh，is that it? Sorry about that.<br> 
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asynccharaface,chara_1,FaceSad,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_39,se4800014,0,1,CONT,0
+
+asynccharaemo,chara_1,Silence,CONT,0
+
+wait,0.5
+
+
+window,on,0.15
+message,ウィステリア,Seriously... it just won't leave my head...<br> ,101601000G,vc_10160100002_042_01,chara_1
+
+asynccharaface,chara_1,FaceShy,CONT,0
+
+asyncshake,CHARA,chara_1,15,10,0.25,3,on,off,0,off,CONT,0
+
+asyncseplay,setag1_40,se4800012,0,1,CONT,0
+
+asynccharaemo,chara_1,Shy,CONT,0
+
+
+message,ウィステリア,It pops into my mind at random times... it even shows up in my<br>dreams...<br> ,101601000G,vc_10160100002_043_01,chara_1
+
+message,<user>,Dream...?<br> 
+
+asynccharaface,chara_1,FaceSurprise,CONT,0
+
+asyncjump,CHARA,chara_1,30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_41,se4800017,0,1,CONT,0
+
+asynccharaemo,chara_1,Shock,CONT,0
+
+
+message,ウィステリア,N-no，it's nothing.<br>Forget it.<br> ,101601000G,vc_10160100002_044_01,chara_1
+
+asynccharaface,chara_1,EyeOpen,CONT,0
+asynccharaface,chara_1,FaceNormal,CONT,0
+
+asyncjump,CHARA,chara_1,-30,0.25,1,off,0,CONT
+
+asyncseplay,setag1_42,se4800022,0,1,CONT,0
+
+asynccharaemo,chara_1,Speak,CONT,0
+
+
+message,ウィステリア,My campsite is this way.<br>I don't know if it's comfortable，but... I welcome you.<br> ,101601000G,vc_10160100002_045_01,chara_1
+
+window,off
+wait,0.15
+
+charafocusonall
+
+asyncseplay,setag1_43,se4000203,0,1,CONT,0
+
+asynccharahide,chara_1,0.3,CONT,0
+
+asynccharamove,chara_1,EaseOut,X,100,0.3,CONT,0
+
+emodelete,chara_1,0,0
+
+asyncwait
+
+bgmstop,bgmtag1_2,0.5
+fade,Out,Black,0.5
+wait,0.5
+cleanall,ALL
+
+
+

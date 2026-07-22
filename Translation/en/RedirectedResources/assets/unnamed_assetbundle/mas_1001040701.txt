@@ -1,0 +1,623 @@
+﻿balloonload
+
+fade,Out,Black,0
+initend
+
+//BGM
+bgmplay,bgmtag0_1,bgm0039,0,1
+
+//背景設定
+dotbgload,bg_1,1022,02003
+dotbgload,bg_2,1022,01001
+dotbgload,bg_3,1022,01001
+
+dotbgshow,bg_1,0
+dotbgshow,bg_2,1
+dotbgshow,bg_3,-1
+
+objectload,Shiena,CHARA,300501000,シエナ
+objectload,Himari,CHARA,106601000G,ヒマリ
+objectshow,Shiena,0
+objectshow,Himari,0
+
+
+//スライム
+objectload,Enemy8,ENEMY,2007501,敵2
+
+//敵を表示
+objectshow,Enemy8,0
+
+//向きを変える
+objectdirect,Enemy8,LEFT
+
+dotmove,Himari,0,0,0,0,LinearTarget,Set
+dotmove,Shiena,0,-1.5,0,0,LinearTarget,Set
+
+dotmove,Enemy8,0,9.5,0,0,LinearTarget,Set
+
+objectmotion,Himari,C_WeaponWait,0,1,,1
+objectmotion,Shiena,N_limit,0,1,,1
+objectmotion,Enemy8,C_splashWalk,0,1,,1
+
+
+
+//紫の衝撃エフェクト
+dotprefabload,ef_ActionSkillStart_1,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,Himari,EffectPos
+dotprefabload,ef_ActionSkillStart_2,Novel/VariantEffect/ActionSkillStartPurple,0.00, 0.00, 0.00,Himari,EffectPos
+
+//足元からエフェクトが上がる　紫　
+dotprefabload,ef_ForceChainSkillStart_1,Novel/VariantEffect/ForceChainStartPurple,0.00, 0.00, 0.00,Himari,EffectPos
+
+
+
+//カメラ設定
+asyncdotcamerazoom,1,0,LinearTarget,CONT,0
+asyncdotcameramove,4,0,Linear,0,None,CONT,0
+dotcameralensmove,0,Set,0
+
+uivisible,on
+
+fade,In,Black,0.5
+//本編開始///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//ガンエフェクト
+dotprefabload,GunShotEffectPurple,Novel/VariantEffect/GunShotEffectPurple,0.50, -0.0, 0.00,Himari,EffectPos
+dotprefabload,GunShotEffectPurple2,Novel/VariantEffect/GunShotEffectPurple,0.50, -0.0, 0.00,Himari,EffectPos
+dotprefabload,GunShotEffectPurple3,Novel/VariantEffect/GunShotEffectPurple,0.50, -0.0, 0.00,Himari,EffectPos
+dotprefabload,GunShotEffectPurple4,Novel/VariantEffect/GunShotEffectPurple,0.50, -0.0, 0.00,Himari,EffectPos
+
+
+//ヒットエフェクト １回目
+//dotprefabload,ImpactEffectHimari8,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy8,EffectPos
+dotprefabload,ImpactEffectHimari9,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy8,EffectPos
+
+asyncdotcameramove,-3,0,Linear,2,None,CONT,0
+asyncdotmove,Enemy8,5,-5.5,0,0,Linear,CONT,0
+
+//待ち
+wait,2
+
+//ヒマリ　撃つ　１回目
+
+//エモ　焦り
+asyncseplay,se4800007_,se4800007,0,1,CONT,0
+asyncobjectemo,Himari,Panic
+
+//SE再生
+asyncseplay,se4900079,se4900079,0,1,CONT,0
+asyncobjectmotion,Himari,U_WeaponAttack,1,1,,1,CONT,0
+asyncdotprefabshow,GunShotEffectPurple,CONT,0.005
+asyncobjectmotion,Himari,C_WeaponWait,1,1,,1,CONT,0.5
+wait,1
+
+//ヒマリ　撃つ　2回目
+
+//エモ　汗
+asyncseplay,se4800008_,se4800008,0,1,CONT,0
+asyncobjectemo,Himari,Sweat
+//SE再生
+asyncseplay,se4900079_2,se4900079,0,1,CONT,0
+asyncobjectmotion,Himari,U_WeaponAttack,1,1,,0
+asyncdotprefabshow,GunShotEffectPurple2,CONT,0.005
+asyncobjectmotion,Himari,C_WeaponWait,1,1,,1,CONT,0.5
+wait,1.5
+
+//ヒマリ　撃つ　3,4回目
+
+//SE再生
+asyncseplay,se4900079_3,se4900079,0,1,CONT,0
+asyncobjectmotion,Himari,U_WeaponAttack,1,1,C_WeaponWait,0
+asyncdotprefabshow,GunShotEffectPurple3,CONT,0.05
+//asyncdotprefabshow,ImpactEffectHimari8,CONT,0.5
+wait,0.25
+
+//SE再生
+asyncseplay,se4900079_4,se4900079,0,1,CONT,0
+asyncobjectmotion,Himari,U_WeaponAttack,1,1,,0
+
+//SE再生
+asyncseplay,se4900079_5,se4900079,0,1,CONT,0
+asyncdotprefabshow,GunShotEffectPurple4,CONT,0
+
+//SE再生
+asyncseplay,se4900077_2,se4900077,0,1,CONT,0
+asyncdotprefabshow,ImpactEffectHimari9,CONT,0.5
+
+//SE再生
+asyncseplay,se5050044_2,se5050044,0,1,CONT,0
+//asyncseplayIngame,ba_skill_2015001_01,ene_2015001,ba_skill_2015001_01,0,1.0,CONT,0.5
+asyncobjectmotion,Enemy8,C_Damage,1,1,None,1,CONT,0.5
+asyncobjecthide,Enemy8,0.5,CONT,0.49
+asyncobjectmotion,Himari,C_WeaponWait,1,1,,1,CONT,0.5
+asyncwait
+
+
+asyncdotcameramove,-1,0,Linear,1,None,CONT,0
+
+objectmotion,Himari,N_limit,0,1,,1
+
+//エモ　焦り
+asyncseplay,se4800007_2,se4800007,0,1,CONT,0
+objectemo,Himari,Panic
+
+dotmessage,ヒマリ,<size=24>Hah，hah... thank goodness... it hit...,,mcv_1001040701_001_01,NORMAL,Mid,NORMAL,Himari,TOP,NORMAL,0,0
+
+//BGM止める
+bgmstop,bgmtag0_1,1
+
+objectmotion,Himari,C_Wait,0,1,,1
+objectmotion,Shiena,C_Wait,0,1,,1
+objectdirect,Himari,LEFT
+
+dotmessage,シエナ,<size=24>That's the spirit，Himari!<br>Now hit it with a powerful one!,,mcv_1001040701_002_01,NORMAL,Mid,FUN,Shiena,TOP,NORMAL,0,0
+
+
+objectmotion,Himari,N_Yes,1,1,,1
+
+dotmessage,ヒマリ,<size=24>Y-yeah!,,mcv_1001040701_003_01,NORMAL,Mid,Surprise,Himari,TOP,NORMAL,0,0
+
+//BGM
+bgmplay,bgm02,bgm0038,0,1
+
+objectmotion,Himari,C_Wait,0,1,,1
+
+asyncobjectmotion,Shiena,C_Walk,0,1,,1,CONT,0
+asyncdotmove,Shiena,0.5,0.75,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Shiena,C_Wait,0,1,,1,CONT,0
+
+objectmotion,Shiena,N_hold_out_hand,1,1,,1
+
+//SE再生
+asyncseplay,se4400119,se4400119,0,1,CONT,0.5
+objectmotion,Himari,N_hold_out_hand,1,1,,1
+
+dotmessage,シエナ,<size=24>First，picture the particles of power inside your body.,,mcv_1001040701_004_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+
+
+
+//エモ　？
+asyncseplay,se4800009_,se4800009,0,1,CONT,0
+objectemo,Himari,Question
+dotmessage,ヒマリ,<size=24>Particles of power...?,,mcv_1001040701_005_01,NORMAL,Mid,NORMAL,Himari,TOP,NORMAL,0,0
+
+dotmessage,シエナ,<size=24>Stay calm. Try breathing in slowly.,,mcv_1001040701_006_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+dotmessage,シエナ,<size=24>You should feel it. The energy inside your body.,,mcv_1001040701_007_01,NORMAL,Mid,EYECLOSE,Shiena,TOP,NORMAL,0,0
+
+//背景を黒に
+asyncdotbgcolor,0,0,0,100,1,CONT,0
+//dotbgblur,1,1
+
+dotmessage,ヒマリ,<size=24>Um... l-like... this...?,,mcv_1001040701_008_01,NORMAL,Mid,EYECLOSE,Himari,TOP,NORMAL,0,0
+
+
+//SE再生
+asyncseplay,se4900199_2,se4900199,0,1,CONT,0
+asyncdotprefabshow,ef_ActionSkillStart_1,CONT,0.000
+asyncdotcamerazoom,1.1,1.5,LinearTarget,CONT,0
+asyncwait
+
+dotmessage,ヒマリ,<size=24>I can feel it... power swirling throughout my body.,,mcv_1001040701_009_01,NORMAL,Mid,EYECLOSE,Himari,TOP,NORMAL,0,0
+
+dotmessage,シエナ,<size=24>That's it. Now gather that energy into the gun.,,mcv_1001040701_010_01,NORMAL,Mid,EYECLOSE,Shiena,TOP,NORMAL,0,0
+
+
+dotmessage,ヒマリ,<size=24>Into the gun... gather it...,,mcv_1001040701_011_01,NORMAL,Mid,EYECLOSE,Himari,TOP,NORMAL,0,0
+
+//エモ　・・・
+asyncseplay,se4800014_,se4800014,0,1,CONT,0
+objectemo,Himari,Silence
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//ヒマリのビーム　2回目
+dotprefabload,ef_Skill02_2,Novel/VariantEffect/Unit106601000G/Eff_HimariCharge000,0.00, 0.00, 0.00,Himari,EffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//SE再生
+asyncseplay,se4900003,se4900003,0,1,CONT,0
+asyncdotprefabshow,ef_ForceChainSkillStart_1,CONT,0
+asyncdotcamerazoom,1.25,1.5,LinearTarget,CONT,0
+asyncwait
+
+dotmessage,ヒマリ,<size=24>The gun is... glowing!?,,mcv_1001040701_012_01,NORMAL,Mid,Surprise,Himari,TOP,NORMAL,0,0
+
+//背景色を戻す
+//asyncdotbgblur,0,0.75,CONT,0
+asyncdotbgcolor,255,255,255,255,1,CONT,0
+asyncwait
+
+objectmotion,Shiena,C_Wait,0,1,,1
+objectmotion,Himari,C_Wait,0,1,,1
+
+objectdirect,Himari,RIGHT
+
+asyncobjectmotion,Shiena,C_Walk,0,1,,0,CONT,0
+asyncdotmove,Shiena,1,-1,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Shiena,C_Wait,0,1,,0,CONT,0
+
+//ヒマリ　暴れる中に振り回される
+
+
+//SE再生
+asyncseplayIngame,ba_skill_106601000_01,cha_106601000,ba_skill_106601000_01,0,1,CONT,0
+asyncobjectmotion,Himari,U_Skill_01_change_hands,1,1,None,1,CONT,0.000
+
+//SE再生
+asyncseplayIngame,ba_skill_106601000_02,cha_106601000,ba_skill_106601000_02,0,1,CONT,2.000
+asyncobjectmotion,Himari,U_Skill_02_sway_01,1,1,None,1,CONT,2.000
+
+//SE再生
+asyncseplayIngame,ba_skill_106601000_03,cha_106601000,ba_skill_106601000_03,0,1,CONT,2.200
+asyncobjectmotion,Himari,U_Skill_03_sway_02,1,1,None,1,CONT,2.200
+asyncobjectmotion,Himari,U_Skill_04_swing,1,1,None,1,CONT,2.400
+
+asyncdotmove,Himari,1.250,0.000,0.000,0.000,LinearTarget,CONT,0.000
+asyncdotscale,Himari,1.250,1,1,LinearTarget,CONT,0.000
+asyncdotmove,Himari,0.583,0.000,0.000,0.000,LinearTarget,CONT,1.250
+asyncdotscale,Himari,0.583,1,1,LinearTarget,CONT,1.250
+asyncdotmove,Himari,0.617,0.000,0.000,0.000,LinearTarget,CONT,1.833
+asyncdotscale,Himari,0.617,1,1,LinearTarget,CONT,1.833
+asyncdotmove,Himari,0.183,-0.352,0.633,0.000,LinearTarget,CONT,2.450
+asyncdotscale,Himari,0.183,1,1,LinearTarget,CONT,2.450
+asyncdotmove,Himari,0.150,-0.214,0.570,0.000,LinearTarget,CONT,2.633
+asyncdotscale,Himari,0.150,1,1,LinearTarget,CONT,2.633
+asyncdotmove,Himari,0.183,0.035,0,0.000,LinearTarget,CONT,2.783
+asyncdotscale,Himari,0.183,1,1,LinearTarget,CONT,2.783
+
+asyncdotprefabshow,ef_Skill02_2,CONT,1.500
+asyncwait
+
+//敵ロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//ゴブリン
+objectload,Enemy1,ENEMY,2001501,敵1
+objectload,Enemy2,ENEMY,2001501,敵2
+objectload,Enemy3,ENEMY,2001501,敵3
+
+//狼
+objectload,Enemy4,ENEMY,2005501,敵1
+objectload,Enemy5,ENEMY,2005501,敵2
+objectload,Enemy6,ENEMY,2005501,敵3
+
+//スライム
+objectload,Enemy7,ENEMY,2007501,敵1
+objectload,Enemy9,ENEMY,2007501,敵3
+
+//向きを変える
+objectdirect,Enemy1,LEFT
+objectdirect,Enemy2,LEFT
+objectdirect,Enemy3,LEFT
+objectdirect,Enemy4,LEFT
+objectdirect,Enemy5,LEFT
+objectdirect,Enemy6,LEFT
+objectdirect,Enemy7,LEFT
+objectdirect,Enemy8,LEFT
+objectdirect,Enemy9,LEFT
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+wait,1.5
+
+dotmessage,ヒマリ,<size=24>Wah! Wah wah! What do I do〜?,,mcv_1001040701_013_01,NORMAL,Mid,Surprise,Himari,TOP,SHAKE,0,0
+
+objectmotion,Himari,C_WeaponWait,0,1,,1
+objectdirect,Himari,LEFT
+objectmotion,Shiena,N_Yes,1,1,,1
+
+dotmessage,シエナ,<size=24>Just aim at your target and pull the trigger.,,mcv_1001040701_014_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+
+objectmotion,Himari,N_frightened,0,1,,1
+
+//エモ　焦り
+asyncseplay,se4800007_3,se4800007,0,1,CONT,0
+objectemo,Himari,Panic
+
+dotmessage,ヒマリ,<size=24>B-but... but!,,mcv_1001040701_015_01,NORMAL,Mid,UNIQUE01,Himari,TOP,SHAKE,0,0
+
+//エフェクト削除
+dotprefabdelete,ef_Skill02_2
+
+//モンスターの位置をセット
+dotmove,Enemy1,0,8,0,1.5,LinearTarget,Set
+dotmove,Enemy2,0,8.5,0,0,LinearTarget,Set
+dotmove,Enemy3,0,8,0,-1.5,LinearTarget,Set
+dotmove,Enemy4,0,6.75,0,1.5,LinearTarget,Set
+dotmove,Enemy5,0,6.5,0,0,LinearTarget,Set
+dotmove,Enemy6,0,6,0,-2,LinearTarget,Set
+dotmove,Enemy7,0,9,0,2,LinearTarget,Set
+dotmove,Enemy8,0,9.5,0,0,LinearTarget,Set
+dotmove,Enemy9,0,9,0,-2,LinearTarget,Set
+
+
+asyncobjectmotion,Shiena,C_Walk,0,1,,1,CONT,0
+asyncdotmove,Shiena,1,1,0,0,Linear,CONT,0
+asyncwait
+asyncobjectmotion,Shiena,C_Wait,0,1,,1,CONT,0
+
+objectmotion,Shiena,N_Yes,1,1,,1
+dotmessage,シエナ,<size=24>Take careful aim... it's okay! Himari，you can do this!,,mcv_1001040701_016_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+
+
+asyncdotcamerazoom,0.8,0.5,LinearTarget,CONT,0
+//カメラ設定
+asyncobjectshow,Enemy1,0.1,CONT,0
+asyncobjectshow,Enemy2,0.1,CONT,0
+asyncobjectshow,Enemy3,0.1,CONT,0
+asyncobjectshow,Enemy4,0.1,CONT,0
+asyncobjectshow,Enemy5,0.1,CONT,0
+asyncobjectshow,Enemy6,0.1,CONT,0
+asyncobjectshow,Enemy7,0.1,CONT,0
+asyncobjectshow,Enemy8,0.1,CONT,0
+asyncobjectshow,Enemy9,0.1,CONT,0
+
+asyncdotcameramove,3.5,0,LinearTarget,0.5,None,CONT,0
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+dotprefabload,ef_Skill01_Beam,Novel/VariantEffect/Unit106601000G/Eff_HimariBeam000,0.00, 0.444, 0.00,Himari,EffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//敵モーション
+
+//エフェクトロード/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//ヒットエフェクト 2回目
+dotprefabload,ImpactEffectHimari10,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy1,EffectPos
+dotprefabload,ImpactEffectHimari12,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy2,EffectPos
+dotprefabload,ImpactEffectHimari13,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy3,EffectPos
+dotprefabload,ImpactEffectHimari14,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy4,EffectPos
+dotprefabload,ImpactEffectHimari15,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy5,EffectPos
+dotprefabload,ImpactEffectHimari16,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy6,EffectPos
+dotprefabload,ImpactEffectHimari17,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy7,EffectPos
+dotprefabload,ImpactEffectHimari18,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy8,EffectPos
+dotprefabload,ImpactEffectHimari19,Novel/VariantEffect/Unit106601000G/ImpactEffectHimari,0.00, 0.00, 0.00,Enemy9,EffectPos
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//SE再生
+asyncseplay,se5050044_3,se5050044,0,1,CONT,0
+//asyncseplayIngame,ba_skill_2015001_01_2,ene_2015001,ba_skill_2015001_01,0,1.0,CONT,0
+asyncobjectmotion,Enemy1,C_BowAppeal,0,1,,1,CONT,0
+asyncobjectmotion,Enemy2,C_BowAppeal,0,1,,1,CONT,0.1
+asyncobjectmotion,Enemy3,C_BowAppeal,0,1,,1,CONT,0.25
+
+//SE再生
+asyncseplay,se5050044_4,se5050044,0,1,CONT,0
+//asyncseplayIngame,ba_skill_2015001_01_3,ene_2015001,ba_skill_2015001_01,0,1.0,CONT,0.15
+asyncobjectmotion,Enemy4,C_FangAppeal,1,1,C_WeaponWait,1,CONT,0
+asyncobjectmotion,Enemy5,C_FangAppeal,1,1,C_WeaponWait,1,CONT,0.15
+asyncobjectmotion,Enemy6,C_FangAppeal,1,1,C_WeaponWait,1,CONT,0.2
+asyncobjectmotion,Enemy7,C_splashAppeal,1,1,C_WeaponWait,1,CONT,0.1
+asyncobjectmotion,Enemy8,C_splashAppeal,1,1,C_WeaponWait,1,CONT,0.2
+asyncobjectmotion,Enemy9,C_splashAppeal,1,1,C_WeaponWait,1,CONT,0.3
+wait,0.5
+
+//asyncdotcameramove,2,0,LinearTarget,0.5,None,CONT,0
+
+
+objectmotion,Shiena,C_Wait,0,1,,1
+objectmotion,Himari,C_Wait,0,1,,1
+objectmotion,Himari,N_Yes,1,1,,1
+wait,0.5
+objectdirect,Himari,RIGHT
+wait,0.5
+objectmotion,Himari,C_WeaponWait,0,1,,1
+
+//SE再生
+asyncseplay,se4900199_3,se4900199,0,1,CONT,0
+asyncdotprefabshow,ef_ActionSkillStart_2,CONT,0.000
+asyncwait
+
+
+objectmotion,Shiena,N_Pointing,1,1,,1
+
+dotmessage,シエナ,<size=24>Now!,,mcv_1001040701_017_01,NORMAL,Mid,NORMAL,Shiena,TOP,SHAKE,0,0
+
+objectmotion,Shiena,C_Wait,0,1,,1
+
+//モンスター移動開始
+
+//SE再生
+asyncseplay,se5050044_6,se5050044,0,1,CONT,0
+//asyncseplayIngame,ba_skill_2015001_01_4,ene_2015001,ba_skill_2015001_01,0,1.0,CONT,0
+objectmotion,Enemy1,C_BowWalk,0,1,,0
+objectmotion,Enemy2,C_BowWalk,0,1,,0
+objectmotion,Enemy3,C_BowWalk,0,1,,0
+objectmotion,Enemy4,C_FangWalk,0,1,,0
+objectmotion,Enemy5,C_FangWalk,0,1,,0
+objectmotion,Enemy6,C_FangWalk,0,1,,0
+objectmotion,Enemy7,C_splashWalk,0,1,,0
+objectmotion,Enemy8,C_splashWalk,0,1,,0
+objectmotion,Enemy9,C_splashWalk,0,1,,0
+
+asyncdotmove,Enemy1,6.5,-5,0,0,Linear,CONT,0.1
+asyncdotmove,Enemy2,6.5,-5.5,0,0,Linear,CONT,0
+asyncdotmove,Enemy3,6.5,-5,0,0,Linear,CONT,0.1
+asyncdotmove,Enemy4,6.5,-5,0,0,Linear,CONT,0
+asyncdotmove,Enemy5,6.5,-5.5,0,0,Linear,CONT,0.2
+asyncdotmove,Enemy6,6.5,-5,0,0,Linear,CONT,0
+asyncdotmove,Enemy7,6.5,-5,0,0,Linear,CONT,0.2
+asyncdotmove,Enemy8,6.5,-5.5,0,0,Linear,CONT,0
+asyncdotmove,Enemy9,6.5,-5,0,0,Linear,CONT,0.3
+
+//ヒマリ　モーション
+//asyncobjectmotion,Himari,U_Skill_03_sway_02,1,1,None,1,CONT,2.200
+asyncobjectmotion,Himari,N_Skill_04_swing,1,1,None,1,CONT,0
+asyncobjectmotion,Himari,N_Skill_05_shaking,1,1,None,1,CONT,2.800
+asyncdotmove,Himari,0.333,0,0,0,LinearTarget,CONT,3.733
+asyncdotscale,Himari,0.333,1,1,LinearTarget,CONT,3.733
+
+asyncdotmove,Himari,0.083,0.000,0.000,0.000,LinearTarget,CONT,4.067
+asyncdotscale,Himari,0.083,1,1,LinearTarget,CONT,4.067
+
+//SE再生
+asyncseplayIngame,ba_skill_100501000_03,cha_100501000,ba_skill_100501000_03,0,1,CONT,0.433
+asyncdotprefabshow,ef_Skill01_Beam,CONT,0.433
+
+//カメラ設定
+asyncdotcamerazoom,0.8,0.5,LinearTarget,CONT,0.433
+asyncdotcameramove,1.5,0,LinearTarget,0.5,None,CONT,0.433
+
+//SE再生
+asyncseplay,se4900001,se4900001,0,1,CONT,4
+
+//SE再生
+asyncseplay,se4900002,se4900002,0,1,CONT,3.8
+
+//敵がダメージを受けて消える
+
+//SE再生
+asyncseplayIngame,ba_skill_106601000_04,cha_106601000,ba_skill_106601000_04,0,1,CONT,0
+
+asyncseplay,se5050044_8,se5050044,0,1,CONT,0
+asyncdotprefabshow,ImpactEffectHimari10,CONT,4
+asyncobjectmotion,Enemy1,C_Damgae,1,1,None,1,CONT,4
+asyncobjecthide,Enemy1,0.5,CONT,3.9
+
+asyncdotprefabshow,ImpactEffectHimari12,CONT,3.9
+asyncobjectmotion,Enemy2,C_Damgae,1,1,None,1,CONT,3.9
+asyncobjecthide,Enemy2,0.5,CONT,3.8
+
+asyncdotprefabshow,ImpactEffectHimari13,CONT,3.95
+asyncobjectmotion,Enemy3,C_Damgae,1,1,None,1,CONT,3.95
+asyncobjecthide,Enemy3,0.5,CONT,3.85
+
+asyncdotprefabshow,ImpactEffectHimari14,CONT,3.9
+asyncobjectmotion,Enemy4,C_Damage,1,1,None,1,CONT,3.9
+asyncobjecthide,Enemy4,0.5,CONT,3.8
+
+asyncdotprefabshow,ImpactEffectHimari15,CONT,3.8
+asyncobjectmotion,Enemy5,C_Damage,1,1,None,1,CONT,3.8
+asyncobjecthide,Enemy5,0.5,CONT,3.7
+
+asyncdotprefabshow,ImpactEffectHimari16,CONT,3.9
+asyncobjectmotion,Enemy6,C_Damage,1,1,None,1,CONT,3.9
+asyncobjecthide,Enemy6,0.5,CONT,3.8
+
+asyncdotprefabshow,ImpactEffectHimari17,CONT,3.8
+asyncobjectmotion,Enemy7,C_Damage,1,1,None,1,CONT,3.8
+asyncobjecthide,Enemy7,0.5,CONT,3.7
+
+asyncdotprefabshow,ImpactEffectHimari18,CONT,3.9
+asyncobjectmotion,Enemy8,C_Damage,1,1,None,1,CONT,3.95
+asyncobjecthide,Enemy8,0.5,CONT,3.8
+
+asyncdotprefabshow,ImpactEffectHimari19,CONT,3.9
+asyncobjectmotion,Enemy9,C_Damage,1,1,None,1,CONT,3.9
+asyncobjecthide,Enemy9,0.5,CONT,3.8
+
+wait,5.5
+
+//カメラ設定
+asyncdotcamerazoom,1.2,0.5,LinearTarget,CONT,0
+asyncdotcameramove,0,0,LinearTarget,0.5,None,CONT,0
+
+//エフェクト削除
+cleanall,DOTEFFECT
+
+asyncobjectmotion,Himari,N_joy,0,1,,1,CONT,0
+dotmessage,ヒマリ,<size=24>D-did I... do it...!?,,mcv_1001040701_018_01,NORMAL,Mid,Surprise,Himari,TOP,NORMAL,0,0
+
+objectmotion,Himari,C_Wait,0,1,,1
+objectdirect,Himari,LEFT
+
+//エネミー削除
+objectdelete,Enemy1
+objectdelete,Enemy2
+objectdelete,Enemy3
+objectdelete,Enemy4
+objectdelete,Enemy5
+objectdelete,Enemy6
+objectdelete,Enemy7
+objectdelete,Enemy8
+objectdelete,Enemy9
+
+
+dotmessage,ヒマリ,<size=24>That just now was... Himari's... my power...!?,,mcv_1001040701_019_01,NORMAL,Mid,NORMAL,Himari,TOP,NORMAL,0,0
+
+
+objectmotion,Shiena,N_Yes,1,1,,1
+
+dotmessage,シエナ,<size=24>That's right. That's the power Himari has.,,mcv_1001040701_020_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+
+objectmotion,Shiena,C_Wait,0,1,,1
+objectmotion,Shiena,N_hold_out_hand,1,1,,1
+
+//SE再生
+asyncseplay,se4400119_2,se4400119,0,1,CONT,0.5
+asyncobjectmotion,Himari,N_hold_out_hand,1,1,,0,CONT,0.5
+asyncwait
+dotmessage,シエナ,<size=24>Look! That one strike just completely turned the tide of battle!,,mcv_1001040701_021_01,NORMAL,Mid,FUN,Shiena,TOP,NORMAL,0,0
+
+
+//エモ　♪
+asyncseplay,se4800013_,se4800013,0,1,CONT,0
+objectemo,Shiena,Spirits
+dotmessage,シエナ,<size=24>Unmistakably Himari's own power.,,mcv_1001040701_022_01,NORMAL,Mid,UNIQUE02,Shiena,TOP,NORMAL,0,0
+
+//エモ　！
+asyncseplay,se4800010_,se4800010,0,1,CONT,0
+objectemo,Himari,Exclamation
+dotmessage,ヒマリ,<size=24>Himari's... power...!,,mcv_1001040701_023_01,NORMAL,Mid,Surprise,Himari,TOP,NORMAL,0,0
+
+dotmessage,シエナ,<size=24>You've got the hang of your power now，right?<br>Let's clean up the rest of the monsters!,,mcv_1001040701_024_01,NORMAL,Mid,HAPPY,Shiena,TOP,NORMAL,0,0
+
+objectmotion,Shiena,C_Wait,0,1,,1
+
+asyncobjectmotion,Himari,N_Yes,1,1,,1,CONT,0
+
+dotmessage,ヒマリ,<size=24>Yeah! Shiena，please stay here!,,mcv_1001040701_025_01,NORMAL,Mid,HAPPY,Himari,TOP,NORMAL,0,0
+
+objectmotion,Himari,C_Wait,0,1,,1
+
+//SE再生
+asyncseplay,se4400062,se4400062,0,1,CONT,0
+objectmotion,Shiena,N_limit,1,1,,1
+wait,0.1
+//エモ　汗
+asyncseplay,se4800008_5,se4800008,0,1,CONT,0
+objectemo,Himari,Panic
+objectmotion,Himari,N_squat,1,1,,0
+
+dotmessage,ヒマリ,<size=24>With that injury you mustn't move... Himari will protect Shiena!,,mcv_1001040701_026_01,NORMAL,Mid,UNIQUE01,Himari,TOP,NORMAL,0,0
+
+objectmotion,Himari,C_Wait,0,1,,1
+
+dotmessage,シエナ,<size=24>Himari...,,mcv_1001040701_027_01,NORMAL,Mid,NORMAL,Shiena,TOP,NORMAL,0,0
+
+objectmotion,Himari,N_Yes,1,1,,1
+
+asyncobjectmotion,Himari,C_Walk,0,1,,1,CONT,0
+asyncdotmove,Himari,1,1,0,0,LinearTarget,CONT,0
+asyncwait
+asyncobjectmotion,Himari,C_Wait,0,1,,1,CONT,0
+
+
+objectdirect,Himari,RIGHT
+wait,0.5
+objectdirect,Himari,LEFT
+wait,0.55
+objectdirect,Himari,RIGHT
+wait,0.5
+objectmotion,Himari,C_WeaponWait,0,1,,1
+
+//カメラ　キャラ追従
+dotcameratargetobject,Himari,off,on,Linear,0
+
+//移動＋歩きモーション
+asyncobjectmotion,Himari,C_WeaponRun,0,1,,1,CONT,1
+asyncdotmove,Himari,1.5,7,0,0,EaseIn,CONT,1
+wait,1.5
+
+
+bgmstop,bgm02,0.5
+fade,Out,Black,0.5
+
+//カメラ　キャラ追従 終了
+dotcameratargetoff
+
+wait,0.5
+
+cleanall,ALL
+

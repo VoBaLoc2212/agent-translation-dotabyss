@@ -1,0 +1,65 @@
+{
+  "scene": "hmn_10040100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "checks": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_mismatches": [],
+    "field_mismatches": [],
+    "technical_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_comma_violations": [],
+    "unchanged_text_records": [],
+    "targeted_leftover_scan": []
+  },
+  "independent_verify": "PASS",
+  "intentional_kept_terms": [
+    {
+      "term": "Xiaolei",
+      "reason": "proper name from EN alignment for シャオレイ"
+    },
+    {
+      "term": "Panpan",
+      "reason": "proper name from EN alignment for パンパン"
+    },
+    {
+      "term": "Dandan",
+      "reason": "proper name from EN alignment for ダンダン"
+    },
+    {
+      "term": "Kupyu/Kupyu~",
+      "reason": "onomatopoeia/name-like panda call preserved/localized minimally"
+    },
+    {
+      "term": "Sheshe",
+      "reason": "in-world thank-you word explicitly explained in source"
+    },
+    {
+      "term": "Fufu",
+      "reason": "onomatopoeia/interjection retained as source tone"
+    },
+    {
+      "term": "Aiyaa",
+      "reason": "character catchphrase/interjection retained as source tone"
+    }
+  ],
+  "notes": [
+    "JP is primary; EN asset used for alignment only.",
+    "Speaker/name technical fields preserved exactly from EN asset.",
+    "All characters confirmed 18+ by project context; no H18 content present in this file.",
+    "ASCII commas are forbidden inside VI text fields; U+201A used where needed.",
+    "Title translated in Vietnamese Title Case."
+  ],
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 97,
+  "translated_records": 97,
+  "changed_lines": 97,
+  "source_line_count": 619,
+  "output_line_count": 619,
+  "source_sha256": "3c0ce43f58b0197f8b54c9fc3cdc4fea8ede67ae832a65ee3689b0674ebf0d36",
+  "output_sha256": "9ea63ba20cbfeefd56870b4c84bc2de7c912569c3fed35f023f74d2ae1fcf556"
+}

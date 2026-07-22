@@ -1,0 +1,52 @@
+{
+  "scene": "hmn_10090100001",
+  "qa_status": "PASS",
+  "blockers": [],
+  "structural_checks": {
+    "line_count_match": true,
+    "delimiter_mismatches": [],
+    "tech_mismatches": [],
+    "tag_mismatches": [],
+    "placeholder_mismatches": [],
+    "ascii_comma_violations": [],
+    "unchanged_text_fields": []
+  },
+  "linguistic_checks": {
+    "title_case_title": true,
+    "commander_term": "No Commander/司令官 text field in scene; <user> technical placeholder preserved.",
+    "names_preserved": true,
+    "h18_adult_content": "No explicit H18 scene; confirmed adult-content rule acknowledged."
+  },
+  "items": [],
+  "notes": [
+    "JP primary; EN asset used for ordered alignment.",
+    "Levienne voice localized as casual tui/cậu; Commander uses tôi/cậu in this friendly scene.",
+    "No H18 sexual content in this scene; mild body-gaze joke translated at source tone."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 81,
+    "messageTextUnder": 0,
+    "messageTextCenter": 2
+  },
+  "translatable_records": 84,
+  "translated_records": 84,
+  "changed_lines": 84,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 1386,
+    "vi": 1386,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "5db6054e043e91fadae05fbbdcc293d19c9baba791d7bffc07bbb227e072b2a9",
+  "output_sha256": "38150b119722ecbb60f4d3fc274ac9f1ce11260dadf713ecb04ce18115c8212c"
+}

@@ -1,0 +1,47 @@
+{
+  "scene": "hmn_10080100003",
+  "qa_status": "PASS",
+  "structural": {
+    "line_count_match": true,
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_issues": 0,
+    "tag_issues": 0,
+    "placeholder_issues": 0,
+    "ascii_comma_in_vi_text": 0
+  },
+  "linguistic_notes": [
+    "JP used as primary source; EN asset used for alignment.",
+    "Veera xưng em với Chỉ Huy; gọi Commander là Chỉ Huy.",
+    "Verisa giữ giọng trêu chọc; おにーさん được Việt hóa là anh/anh ơi/ông anh tùy sắc thái.",
+    "Tên speaker và charaload giữ nguyên."
+  ],
+  "unresolved": [],
+  "changed_text_records": 132,
+  "candidate_counts": {
+    "title": 1,
+    "message": 130,
+    "messageTextUnder": 0,
+    "messageTextCenter": 1
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "translatable_records": 132,
+  "translated_records": 132,
+  "kept_text_lines": [],
+  "line_count": {
+    "en": 2819,
+    "vi": 2819,
+    "match": true
+  },
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "079bf3edfb431e57578006ce6e915bad2a16e5cdd977e50e75f65ea756c99e23",
+  "output_sha256": "63042cbbdbf12ed1023fc468d712f4a6e7d88101359b6666fb6b0721db260c37",
+  "changed_lines": 132
+}

@@ -1,0 +1,57 @@
+{
+  "scene": "hmn_10100100002",
+  "qa_status": "PASS",
+  "blockers": [],
+  "warnings": [],
+  "candidate_counts": {
+    "title": 1,
+    "message": 115,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "translatable_records": 116,
+  "translated_records": 116,
+  "line_count": {
+    "en": 1925,
+    "vi": 1925,
+    "match": true
+  },
+  "bom": {
+    "source": true,
+    "output": true,
+    "match": true
+  },
+  "newline": {
+    "source": "CRLF",
+    "output": "CRLF",
+    "match": true
+  },
+  "delimiter_mismatches": [],
+  "technical_field_mismatches": [],
+  "tag_mismatches": [],
+  "placeholder_mismatches": [],
+  "ascii_comma_in_vi_text_lines": [],
+  "unchanged_text_lines": [],
+  "adult_content": {
+    "present": false,
+    "all_characters_confirmed_18_plus_by_user_context": true
+  },
+  "notes": [
+    "JP/asset text is primary; en.json values are identical/blank in this source snapshot and used only as alignment artifact.",
+    "Asset contains one repeated Ushitoributa cry record not represented as a distinct novel JSON key; translated directly from asset JP and logged as ASSET_DIRECT_JP if unmatched.",
+    "Diana voice: playful bokukko; localized to em–anh with Chỉ Huy for 司令官くん where natural."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "changed_lines": 116,
+  "kept_text_lines": [],
+  "bom_match": true,
+  "newline_match": true,
+  "delimiter_mismatch_count": 0,
+  "technical_field_mismatch_count": 0,
+  "tag_mismatch_count": 0,
+  "placeholder_mismatch_count": 0,
+  "ascii_comma_in_vi_text_count": 0,
+  "source_sha256": "ad74ebb50c4890d0e09d97412193589c42fd2e65650657d946dde242ae2cd247",
+  "output_sha256": "3778242ee311e2af1873eb86eaf7247f754f78757449b0104d88dd8d4da9a0a5"
+}

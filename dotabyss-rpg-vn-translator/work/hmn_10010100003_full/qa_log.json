@@ -1,0 +1,42 @@
+{
+  "scene": "hmn_10010100003",
+  "qa_status": "PASS",
+  "blockers": [],
+  "kept_english_records": [],
+  "intentional_unchanged_records": [],
+  "jp_leftover": [],
+  "honorific_leftover": [],
+  "checks": {
+    "line_count_match": true,
+    "bom_preserved": true,
+    "newline_preserved": true,
+    "delimiter_mismatches": [],
+    "technical_fields_unchanged": true,
+    "tags_placeholders_preserved": true,
+    "candidate_record_coverage": {
+      "expected": 80,
+      "vi_entries": 80,
+      "counts": {
+        "title": 1,
+        "message": 79
+      }
+    },
+    "no_unintentional_kept_english": true
+  },
+  "notes": [
+    "JP was used as primary source; EN asset/en.json used for ordered alignment.",
+    "All characters are confirmed 18+ by project context; this file contained no explicit H18 scene.",
+    "Speaker/technical asset fields and charaload names were preserved.",
+    "ASCII comma was forbidden in VI text fields; U+201A was used where needed."
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 80,
+  "translated_records": 80,
+  "changed_lines": 80,
+  "source_line_count": 1346,
+  "output_line_count": 1346,
+  "source_sha256": "aa1875dc2fd397e3ef0753803f1a1648b126df7afe5955b948d3db4b7bed90ec",
+  "output_sha256": "0feeb375f9b86ea89292fcfadaa01d02376518933a030ca74268e01e879e7105"
+}

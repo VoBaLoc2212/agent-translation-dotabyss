@@ -1,0 +1,78 @@
+{
+  "scene": "hmn_10360100001",
+  "status": "PASS",
+  "source_lang": "ja",
+  "asset_case": "en-asset-is-english (en.json non-empty English; title field still JP)",
+  "sources": {
+    "ja_json": "dotabyss-translation-main/translations/novels/hmn_10360100001/ja.json",
+    "en_json": "dotabyss-translation-main/translations/novels/hmn_10360100001/en.json",
+    "en_asset": "Translation/en/RedirectedResources/assets/unnamed_assetbundle/hmn_10360100001.txt",
+    "vi_asset": "Translation/vi/RedirectedResources/assets/unnamed_assetbundle/hmn_10360100001.txt"
+  },
+  "text_command_counts": {
+    "title": 1,
+    "message": 75,
+    "messageTextUnder": 0,
+    "messageTextCenter": 0
+  },
+  "total_text_records": 76,
+  "translated_records": 76,
+  "encoding": "utf-8-sig (BOM)",
+  "newline": "CRLF",
+  "delimiter": ",",
+  "in_text_comma_rule": "U+201A (‚) replaces ASCII comma inside VI text fields",
+  "naming_conventions": {
+    "Commander": "Chỉ Huy",
+    "Reyzeria": "Lady Reyzeria (kept romanized, first appearance in hmn_1036*, no sibling VI convention found)",
+    "Lime": "Lime (kept romanized, first appearance, adjutant -> em/anh voice)",
+    "user_placeholder": "%user% preserved byte-identical",
+    "milesgard": "Milesgard",
+    "eldorana": "Eldorana",
+    "frontline_base": "Căn Cứ Tiền Tuyến"
+  },
+  "addressing_matrix": {
+    "Lime -> Commander/user": "em/anh (anh addresses Chỉ Huy as 'anh', calls self 'em')",
+    "Commander/user -> Lime": "anh (uses 'em' for Lime)",
+    "Commander/user -> Reyzeria": "ngài/ta (respectful, contrasts Lime's em/anh)",
+    "Reyzeria -> Lime": "ngài (Lady Reyzeria addresses Lime as subordinate)",
+    "soldiers -> Lime": "cô/tôi",
+    "laziness_insult": "横着司令官 -> gã Chỉ Huy lười biếng"
+  },
+  "notes": [
+    "Title field was JP (レイゼリア様の副官ライムです) while message fields were English; translated title JP->VI Title Case: 'Phó Quan Lime Của Lady Reyzeria'.",
+    "All 76 text records changed (no UNCHANGED_TEXT). Speaker labels (field 1) kept byte-identical JP as required by engine mapping.",
+    "Every message field's trailing '<br> ' suffix mirrored exactly; 21 message lines carry one additional internal '<br>' matching EN asset count.",
+    "ASCII commas inside VI text replaced with U+201A (‚); EN asset content used fullwidth '，' so no native ASCII commas existed in source to migrate.",
+    "%user% placeholder preserved on lines 1307 and 1411 (verifier placeholder check passed).",
+    "No H-18 content in this scene (training/office comedy), so no adult-content handling applied beyond standard translation."
+  ],
+  "independent_verify": {
+    "scene": "hmn_10360100001",
+    "independent_verify": "PASS",
+    "independent_issues": [],
+    "candidate_counts": {
+      "title": 1,
+      "message": 75,
+      "messageTextUnder": 0,
+      "messageTextCenter": 0
+    },
+    "translatable_records": 76,
+    "translated_records": 76,
+    "changed_lines": 76,
+    "kept_text_lines": [],
+    "line_count": {
+      "en": 1673,
+      "vi": 1673,
+      "match": true
+    },
+    "bom_match": true,
+    "newline_match": true,
+    "delimiter_mismatch_count": 0,
+    "technical_field_mismatch_count": 0,
+    "tag_mismatch_count": 0,
+    "placeholder_mismatch_count": 0,
+    "ascii_comma_in_vi_text_count": 0,
+    "source_sha256": "791f4749ff5810e7bac58d08b784b9d7c371901fd47c0246b6bbcaaa6f92bc45",
+    "output_sha256": "4d372e42baca8a8c7820a09ca5ce1f262fac55c04e3d06228bfb72052d447d8a"
+  }
+}
