@@ -8,5 +8,15 @@
     "All characters confirmed 18+ by project context; no H18 lines present in this file.",
     "Commander/司令官 translated as Chỉ Huy where applicable.",
     "ASCII commas inside VI fields are forbidden; Vietnamese separators use U+201A where needed."
-  ]
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 90,
+  "translated_records": 90,
+  "changed_lines": 90,
+  "source_line_count": 2726,
+  "output_line_count": 2726,
+  "source_sha256": "f0388628fe4babe895b780623d5eea54ef0ac5da30ee9b7d3615ff2a54f6e2f7",
+  "output_sha256": "0e7640849b5c067b15f64b22a60a6849f7c171475e3939683f9ef11bd45d9f31"
 }

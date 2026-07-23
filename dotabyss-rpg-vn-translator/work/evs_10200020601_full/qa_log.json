@@ -24,5 +24,8 @@
   "translated_records": 71,
   "changed_lines": 71,
   "source_sha256": "1283c11838459adcb8fe13964bcd3d67f2e8bfe670eb26dd11b7b8178c076887",
-  "output_sha256": "301b256902be56e65a4164cd9d61e80988c552e27faa40f7990c0963f9bb9918"
+  "output_sha256": "301b256902be56e65a4164cd9d61e80988c552e27faa40f7990c0963f9bb9918",
+  "scene": "evs_10200020601",
+  "source_line_count": 1664,
+  "output_line_count": 1664
 }

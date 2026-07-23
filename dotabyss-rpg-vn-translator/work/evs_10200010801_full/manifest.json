@@ -674,5 +674,13 @@
       "translation_status": "TRANSLATED"
     }
   ],
-  "qa_status": "PASS"
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 65,
+  "translated_records": 65,
+  "changed_lines": 65,
+  "source_line_count": 1791,
+  "output_line_count": 1791
 }

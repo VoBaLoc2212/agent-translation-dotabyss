@@ -735,5 +735,11 @@
       "vi_text": "Uoooooooooooooooooooooooooooooooo――!!!<br> "
     }
   ],
-  "qa_status": "PASS"
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 71,
+  "translated_records": 71,
+  "changed_lines": 71
 }

@@ -32,5 +32,8 @@
   "fixed_lines": [
     3759
   ],
-  "output_sha256": "f9b6b4efec1720eaa8c78ffbcd77a26ec42723ed85cf50efa14bb7face86eb87"
+  "output_sha256": "f9b6b4efec1720eaa8c78ffbcd77a26ec42723ed85cf50efa14bb7face86eb87",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "source_sha256": "6890ed3013b5bf7749421fcc29ea3d06995a6ae8daf321545984fb81dc89d4b0"
 }

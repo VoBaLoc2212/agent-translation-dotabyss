@@ -618,5 +618,15 @@
     "qa_log": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020101_full\\qa_log.json",
     "focused_diff": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020101_full\\focused_diff.md",
     "script": "E:\\AgentTranslation\\dotabyss-rpg-vn-translator\\work\\evs_10200020101_full\\generate_vi.py"
-  }
+  },
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 48,
+  "translated_records": 48,
+  "changed_lines": 48,
+  "source_line_count": 1309,
+  "output_line_count": 1309,
+  "source_sha256": "8962cd1c9c0c5f1be0d12196020de27f4fbd3fe0a08a6a10e3ed673f825a04a5",
+  "output_sha256": "98944fa034163c314919b74439649055e06dbc0db6ac1ac2aec202ab74fcff2f"
 }

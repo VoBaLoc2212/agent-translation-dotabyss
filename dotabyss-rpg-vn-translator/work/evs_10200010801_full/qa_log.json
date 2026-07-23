@@ -9,5 +9,16 @@
     "ASCII comma inside Vietnamese text fields is forbidden; U+201A used where needed.",
     "Speaker/ID/voice/chara technical fields preserved byte-for-byte for candidate records except translated text field."
   ],
-  "english_kept_records": []
+  "english_kept_records": [],
+  "scene": "evs_10200010801",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 65,
+  "translated_records": 65,
+  "changed_lines": 65,
+  "source_line_count": 1791,
+  "output_line_count": 1791,
+  "source_sha256": "103b71a9c9dd666910245b39a1ce1f02d4663479ac2935c98f007afeb81c4793",
+  "output_sha256": "14e3bd9746a0b23b2c82a86d7405c563fd9fd40e4fde5e614a62bc10f90e7a3e"
 }

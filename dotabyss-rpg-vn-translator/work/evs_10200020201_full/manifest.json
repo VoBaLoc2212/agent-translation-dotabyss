@@ -1119,5 +1119,15 @@
   "notes": [
     "JP primary translated with EN asset ordered alignment; all characters treated as confirmed 18+ per task context.",
     "ASCII comma forbidden inside VI text fields; Vietnamese pauses use U+201A where needed."
-  ]
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 107,
+  "translated_records": 107,
+  "changed_lines": 107,
+  "source_line_count": 1839,
+  "output_line_count": 1839,
+  "source_sha256": "9a8e88af83bb369e92a28a5f2c31fc2d4f9c54b5ca5671db77f941fe9b8ce5a1",
+  "output_sha256": "0959376ffdf7bd7f9ee54b49958d34ea0d21947ccbfef7d52ed8b4af39733e38"
 }

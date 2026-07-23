@@ -29,5 +29,7 @@
   "translated_records": 99,
   "changed_lines": 99,
   "source_sha256": "bbc981c5f957e30affdb8f26257f4e41dfc256f0e5f66f23f0ca2f4de37f1901",
-  "output_sha256": "03b2893c20981d6c783e93c8a80624151ddd9c95a65f939a48e70b29492ab852"
+  "output_sha256": "03b2893c20981d6c783e93c8a80624151ddd9c95a65f939a48e70b29492ab852",
+  "source_line_count": 2431,
+  "output_line_count": 2431
 }

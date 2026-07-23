@@ -956,5 +956,15 @@
       "translation_status": "TRANSLATED"
     }
   ],
-  "qa_status": "PASS"
+  "qa_status": "PASS",
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 93,
+  "translated_records": 93,
+  "changed_lines": 93,
+  "source_line_count": 4179,
+  "output_line_count": 4179,
+  "source_sha256": "6890ed3013b5bf7749421fcc29ea3d06995a6ae8daf321545984fb81dc89d4b0",
+  "output_sha256": "f9b6b4efec1720eaa8c78ffbcd77a26ec42723ed85cf50efa14bb7face86eb87"
 }

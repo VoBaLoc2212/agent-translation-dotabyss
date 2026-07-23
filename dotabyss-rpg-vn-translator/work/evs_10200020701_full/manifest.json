@@ -1107,5 +1107,12 @@
       "jp_source": "オォオオオオオオ～～～！！！！",
       "en_reference": "WOOOOOOOOO~~~!!!!<br> "
     }
-  ]
+  ],
+  "independent_verify": "PASS",
+  "independent_issues": [],
+  "kept_text_lines": [],
+  "translatable_records": 90,
+  "changed_lines": 90,
+  "source_line_count": 2726,
+  "output_line_count": 2726
 }
